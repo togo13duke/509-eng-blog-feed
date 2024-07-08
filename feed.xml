@@ -17,5 +17,11 @@
       <description>简化对ROS集群的访问，使用外部OIDC认证。</description>
     </item>
   
+    <item>
+      <title>Real-time payments: Are banks ready to capitalize on the revenue opportunities?</title>
+      <link>https://www.thoughtworks.com/insights/articles/instant-payments</link>
+      <description>实时支付市场预计到2028年将增长近三倍，为银行提供了巨大的收入机会。然而，实现实时支付需要克服构建强大基础设施的挑战，以满足不断增长的需求，并确保符合复杂法规的最佳客户体验。银行必须确保实时支付具备实时欺诈检测，以保护客户安全并避免机构面临罚款。随着市场增长，银行正面临转变以适应这一趋势的挑战。</description>
+    </item>
+  
     </channel>
   </rss>
