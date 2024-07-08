@@ -6,42 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Brush Assets is out!</title>
-      <link>https://code.blender.org/2024/07/brush-assets-is-out/</link>
-      <description>Blender 4.3版本新增了Brush Assets功能，改善了画笔的可重用性和共享性。用户可以轻松创建、更新和管理画笔资产，并从资产库中快速访问它们。新功能包括统一的画笔工具、资产架和画笔选择弹出窗口，以及将画笔资产保存为特殊文件格式，以防止数据丢失。</description>
-    </item>
-  
-    <item>
-      <title>The Potential and Pitfalls of AI-Assisted Coding</title>
-      <link>https://8thlight.com/insights/potential-and-pitfalls-of-ai-assisted-coding</link>
-      <description>AI辅助编码工具如GitHub Copilot正迅速流行，它们能加速软件开发、提高质量和效率。然而，这些工具也带来风险，如偏见、技术债务和知识产权问题。8th Light的报告详细介绍了AI辅助编码的潜在效益和挑战，并提供建议以安全地整合这些工具。</description>
-    </item>
-  
-    <item>
-      <title>Node v22.4.1 (Current)</title>
-      <link>https://nodejs.org/en/blog/release/v22.4.1</link>
-      <description>Node.js发布安全更新22.4.1，修复了多个安全漏洞，包括绕过CVE-2024-27980的不完整修复、网络导入限制绕过等。更新包含对fs.lstat和fs.fchown/fchmod权限模型的改进，以及UNC路径处理问题。提供多种安装包和源代码下载链接。</description>
-    </item>
-  
-    <item>
-      <title>Node v20.15.1 (LTS)</title>
-      <link>https://nodejs.org/en/blog/release/v20.15.1</link>
-      <description>Node.js发布20.15.1版（LTS），包含多个安全更新，修复了CVE-2024-36138等漏洞。此版本包含对fs.lstat和fs.fchown/fchmod权限模型的改进，并提供了不同操作系统的安装包。</description>
-    </item>
-  
-    <item>
-      <title>Node v18.20.4 (LTS)</title>
-      <link>https://nodejs.org/en/blog/release/v18.20.4</link>
-      <description>Node.js发布18.20.4版本，这是一个安全更新，修复了CVE-2024-36138和CVE-2024-22020等安全问题。提供了多种安装包和二进制文件下载链接，包括Windows、macOS和Linux版本。</description>
-    </item>
-  
-    <item>
-      <title>The Challenges of MySQL, and Why It Might Be Time to Migrate to SingleStore</title>
-      <link>https://www.singlestore.com/blog/why-you-should-migrate-from-mysql-to-singlestore</link>
-      <description>MySQL在处理大规模和复杂数据时存在局限性，包括查询性能差、用户体验不佳、ETL处理时间长和维护成本高等问题。SingleStore提供高性能、可扩展的解决方案，支持事务和数据分析，简化数据架构，提高性能和响应速度。迁移到SingleStore可提升业务效率和用户体验。</description>
-    </item>
-  
-    <item>
       <title>French elections: political cyber attacks and Internet traffic shifts</title>
       <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
       <description>2024年法国立法选举第二轮投票结果显示，新民众阵线（NPF）获得最多席位，随后是法国总统马克龙的“全体”党和国民联盟。在选举期间，法国政治党派遭受了DDoS攻击，导致互联网流量显著下降。投票结束后，电视媒体开始公布初步结果，法国的互联网流量下降了16%。此外，移动设备的使用量也有所增加。</description>
@@ -96,21 +60,9 @@
     </item>
   
     <item>
-      <title>Improvements to Runtime Logs</title>
-      <link>https://vercel.com/changelog/improvements-to-runtime-logs</link>
-      <description>Vercel近日对运行日志进行了改进，增加了查询参数可见性和请求ID过滤功能，提升了日志的过滤和可见性。这些改进对所有Vercel客户开放，旨在帮助开发者更高效地管理和分析请求细节。</description>
-    </item>
-  
-    <item>
       <title>Databricks Named a Leader in Stream Processing and Cloud Data Pipelines</title>
       <link>https://www.databricks.com/blog/databricks-named-leader-stream-processing-and-cloud-data-pipelines</link>
       <description>Databricks荣获IDC MarketScape和Forrester Wave报告的领导者称号，在数据工程和云数据管道领域表现出色。该平台支持构建智能批处理和流数据管道，提供实时分析和人工智能应用，助力企业快速响应和决策。</description>
-    </item>
-  
-    <item>
-      <title>Livewire Strict: Enforce additional security measures to Livewire</title>
-      <link>https://freek.dev/2737-livewire-strict-enforce-additional-security-measures-to-livewire</link>
-      <description>Livewire Strict 是一项增强 Livewire 安全性的措施，旨在防止敏感公共属性未受保护。通过实施额外安全措施，它有助于确保应用程序的安全性。</description>
     </item>
   
     <item>
@@ -123,12 +75,6 @@
       <title>My Typescript to C# Cheatsheet</title>
       <link>https://spin.atomicobject.com/typescript-c-sharp-cheatsheet/</link>
       <description>本文为TypeScript到C#的速查表，涵盖数组方法、Promise API、可选值处理等，帮助开发者快速了解两种语言之间的对应关系。</description>
-    </item>
-  
-    <item>
-      <title>The ultimate guide on prompt injection</title>
-      <link>https://algolia.com/blog/ai/prompt-injection/</link>
-      <description>本文探讨了“提示注入”这一技术，它可能导致大型语言模型（LLM）产生有害输出。文章分析了提示注入的风险，并提出了减少这些风险的策略，包括对抗性压力测试和模型训练。文章强调，在使用LLM时，应仔细评估其用途，并采取适当的安全措施以防止潜在的安全漏洞。</description>
     </item>
   
     <item>
@@ -183,18 +129,6 @@
       <title>Recapping the first Local-First conference in 15 minutes</title>
       <link>https://evilmartians.com/chronicles/recapping-the-first-local-first-conference-in-15-minutes</link>
       <description>首届Local-First会议回顾：Local-First理念强调数据本地存储，通过云同步数据。会议探讨了Local-First的多种实现方式，如端到端加密、零延迟用户体验等，并强调了其提升开发效率和用户体验的优势。会议还讨论了Local-First在构建社区、协作和社交软件中的应用，以及如何通过技术让Local-First应用更易于开发和使用。</description>
-    </item>
-  
-    <item>
-      <title>Create a Custom Commitlint Pattern</title>
-      <link>https://jaketrent.com/post/create-custom-commitlint-pattern</link>
-      <description>创建自定义的commitlint模式，通过设置commitlint.config.mjs文件，确保每个git提交日志标题以ticket编号开头，如"COOL-1234 - 标题"。此模式要求提交消息必须符合特定格式，以增强代码提交的一致性和可读性。</description>
-    </item>
-  
-    <item>
-      <title>Transforming Developer Experience: A New Era for Twilio's Documentation</title>
-      <link>https://www.twilio.com/en-us/blog/new-era-for-twilio-documentation</link>
-      <description>Twilio推出全新文档平台，提升用户体验和性能。该平台基于静态网站生成，提高可访问性和协作效率，同时支持未来功能开发。Twilio致力于通过创新技术，为开发者提供更便捷的API集成和文档使用体验。</description>
     </item>
   
     </channel>
