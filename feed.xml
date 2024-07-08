@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Beginner’s guide to GitHub: Uploading files and folders to GitHub</title>
+      <link>https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/</link>
+      <description>GitHub入门指南：学习如何将文件和文件夹上传到GitHub，包括使用GitHub.com和终端上传文件的方法，以及如何初始化仓库、添加文件、提交更改并推送到GitHub。</description>
+    </item>
+  
+    <item>
+      <title>Syntactic vs Semantic Highlighting</title>
+      <link>https://tomassetti.me/syntactic-vs-semantic-highlighting/</link>
+      <description>本文探讨了语法高亮和语义高亮的区别。语法高亮通过将代码文本划分为标记并分配类别来简化代码理解，而语义高亮则利用上下文信息对标记进行更精细的分类。文章以Kuki语言服务器为例，展示了如何实现这两种高亮方式，并讨论了它们的性能、可重用性和限制。总结来说，语法高亮快速且用户友好，而语义高亮提供更复杂的规则，两者可以结合使用。</description>
+    </item>
+  
+    <item>
       <title>My Typescript to C# Cheatsheet</title>
       <link>https://spin.atomicobject.com/typescript-c-sharp-cheatsheet/</link>
       <description>本文为TypeScript到C#的速查表，涵盖数组方法、Promise API、可选值处理等，帮助开发者快速了解两种语言之间的对应关系。</description>
@@ -45,6 +57,12 @@
       <title>Notes on "Subdomain Takeover: Ignore This Vulnerability at Your Peril"</title>
       <link>https://advancedweb.hu/shorts/notes-on-subdomain-takeover-ignore-this-vulnerability-at-your-peril/</link>
       <description>文章探讨了子域名接管漏洞的严重性，包括攻击者如何通过取消服务后注册相同账户来控制子域名，以及不同产品团队管理下的安全风险。特别指出，即使SameSite: Strict设置，子域名接管也可能导致CSRF攻击。文章建议通过Sec-Fetch-Site头部来防御此类攻击。</description>
+    </item>
+  
+    <item>
+      <title>Deep learning vs. machine learning: Understanding the differences</title>
+      <link>https://www.elastic.co/blog/deep-learning-vs-machine-learning</link>
+      <description>深度学习和机器学习是人工智能领域的两个关键分支，它们在处理数据和解决问题方面各有优势。机器学习通过算法从数据中学习，适用于结构化数据，如电子邮件分类和推荐系统。而深度学习则模仿人脑的神经网络，擅长处理大量非结构化数据，如图像和语音识别。两者在复杂性和可解释性上有所不同，但都推动了人工智能的进步，为各行各业带来了创新和效率提升。</description>
     </item>
   
     </channel>
