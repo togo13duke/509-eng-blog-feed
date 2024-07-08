@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>My Typescript to C# Cheatsheet</title>
+      <link>https://spin.atomicobject.com/typescript-c-sharp-cheatsheet/</link>
+      <description>本文为TypeScript到C#的速查表，涵盖数组方法、Promise API、可选值处理等，帮助开发者快速了解两种语言之间的对应关系。</description>
+    </item>
+  
+    <item>
+      <title>As the Web Hosting Market Changes, 000webhost Closes</title>
+      <link>https://www.hostinger.com/blog/000webhost-closes</link>
+      <description>000webhost，由Hostinger运营的免费网站托管品牌，在运营17年后宣布关闭。由于市场变化和用户需求转向功能丰富的托管解决方案，000webhost将于10月14日全面关闭。现有用户可以选择合适的托管计划或下载网站备份，并享受Hostinger提供的优惠。Hostinger提供快速、安全的网站托管服务，包括免费SSL证书、专业电子邮件账户和24/7客户支持团队。</description>
+    </item>
+  
+    <item>
       <title>What Is An API Definition?</title>
       <link>https://nordicapis.com/what-is-an-api-definition/</link>
       <description>API定义是API结构和操作的蓝图，它详细描述了API的端点、请求和响应类型、参数以及认证方法。API定义作为API提供者和消费者之间的合同，确保了双方对API运作有清晰的理解。使用API定义可以确保API的一致性和标准化，提高协作效率，并简化API的维护和更新。OpenAPI、RAML和API Blueprint是三种流行的API定义格式，各有其特点和优势。选择合适的API定义对于确保API项目的成功至关重要。</description>
@@ -18,9 +30,21 @@
     </item>
   
     <item>
+      <title>Best of…: Classic WTF: XML Anybody?</title>
+      <link>https://thedailywtf.com/articles/classic-wtf-xml-anybody</link>
+      <description>《经典WTF：XML Anybody？》一文由Alex Papadimoulis撰写，探讨了XML的生成和应用。文章指出，尽管XML在数据描述和共享方面非常出色，但实际应用中存在代码重复和紧耦合问题，导致维护困难。作者分享了个人在项目中的经验，强调创建DTD和文档的重要性，以改善XML格式的可维护性。</description>
+    </item>
+  
+    <item>
       <title>Real-time payments: Are banks ready to capitalize on the revenue opportunities?</title>
       <link>https://www.thoughtworks.com/insights/articles/instant-payments</link>
       <description>实时支付市场预计到2028年将增长近三倍，为银行提供了巨大的收入机会。然而，实现实时支付需要克服构建强大基础设施的挑战，以满足不断增长的需求，并确保符合复杂法规的最佳客户体验。银行必须确保实时支付具备实时欺诈检测，以保护客户安全并避免机构面临罚款。随着市场增长，银行正面临转变以适应这一趋势的挑战。</description>
+    </item>
+  
+    <item>
+      <title>Notes on "Subdomain Takeover: Ignore This Vulnerability at Your Peril"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-subdomain-takeover-ignore-this-vulnerability-at-your-peril/</link>
+      <description>文章探讨了子域名接管漏洞的严重性，包括攻击者如何通过取消服务后注册相同账户来控制子域名，以及不同产品团队管理下的安全风险。特别指出，即使SameSite: Strict设置，子域名接管也可能导致CSRF攻击。文章建议通过Sec-Fetch-Site头部来防御此类攻击。</description>
     </item>
   
     </channel>
