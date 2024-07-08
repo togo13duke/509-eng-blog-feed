@@ -6,9 +6,39 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Travels with ChatGPT</title>
+      <link>https://darkcoding.net/society/travels-with-chatgpt/</link>
+      <description>这个夏天，作者 Graham King 将 ChatGPT 带上了假期。他使用 GPT-4o 在手机应用程序中翻译菜单、寻找历史文物、理解艺术和葡萄酒。ChatGPT 的翻译功能强大，能够从法语菜单到西班牙语粉笔板，甚至包括拉丁文碑文。此外，它还能提供关于葡萄酒和艺术品的详细信息，如米开朗基罗·卡拉瓦乔的画作《占卜者》。ChatGPT 的应用让作者在旅行中更加轻松地了解世界，提高了旅行的趣味性。</description>
+    </item>
+  
+    <item>
+      <title>We've Added Another 15 New WebP Tools</title>
+      <link>https://catonmat.net/15-new-webp-tools</link>
+      <description>Browserling团队新增了15款WebP工具，包括优化、压缩、转换等，并计划下周继续增加更多工具。使用优惠码WEBPLING可享受30%折扣。</description>
+    </item>
+  
+    <item>
+      <title>VPS Showdown – July 2024 – DigitalOcean vs. Linode vs. Vultr</title>
+      <link>https://joshtronic.com/2024/07/07/vps-showdown-july-2024-digitalocean-vs-linode-vs-vultr/</link>
+      <description>本月比较了DigitalOcean、Linode和Vultr的AMD处理器VPS计划，价格在5至7美元之间。所有实例均运行最新的Ubuntu LTS版本，测试结果显示Linode在多数类别中表现最佳。建议用户在做出选择前进行自己的测试，并考虑使用提供的链接以获得信用额度。</description>
+    </item>
+  
+    <item>
+      <title>Who reads my blog? Send me an email or comment if you do!</title>
+      <link>https://blog.rtwilson.com/who-reads-my-blog-send-me-an-email-or-comment-if-you-do/</link>
+      <description>博主Robin邀请读者通过电子邮件或评论与他互动，了解读者如何阅读他的博客，包括阅读方式、频率、发现博客的途径以及感兴趣的特定内容。他希望通过这种方式更好地了解读者，并可能根据反馈撰写更多相关内容。</description>
+    </item>
+  
+    <item>
       <title>John von Neumann – The Man from the Future</title>
       <link>https://henrikwarne.com/2024/07/07/john-von-neumann-the-man-from-the-future/</link>
       <description>约翰·冯·诺伊曼是一位多才多艺的数学家和物理学家，他对20世纪的科学产生了深远影响。他提出了冯·诺伊曼架构，这是现代计算机的基础。冯·诺伊曼在数学和物理学领域都有杰出贡献，包括解决数学悖论和量子力学中的难题。他还参与了原子弹的研发，并推动了计算机科学的发展。他的智慧和成就使他成为20世纪最伟大的科学家之一。</description>
+    </item>
+  
+    <item>
+      <title>Dynamic watermarking with imgproxy and Apache APISIX</title>
+      <link>https://blog.frankel.ch/dynamic-watermarking/2/</link>
+      <description>本文介绍了如何使用imgproxy和Apache APISIX实现动态水印功能。作者通过自定义开发或使用现有库，结合imgproxy和Apache APISIX，实现了对图像的实时水印添加。文章详细描述了水印添加的流程和配置方法，并提供了相应的代码示例。</description>
     </item>
   
     <item>
@@ -164,6 +194,12 @@
     </item>
   
     <item>
+      <title>BW #73: Avocado hand (solution)</title>
+      <link>https://www.bambooweekly.com/bw-73-avocado-hand-solution/</link>
+      <description>文章探讨了“鳄梨手”这一现象，即人们在切鳄梨时受伤的情况。作者引用了美国消费者产品安全委员会的数据，指出1998年至2017年间有超过50,000起与鳄梨相关的伤害。文章还介绍了如何从国家电子伤害监测系统（NEISS）下载数据，并使用Pandas库处理这些数据，分析不同月份的受伤情况。结果显示，5月是事故发生最多的月份，而12月最少。</description>
+    </item>
+  
+    <item>
       <title>How do I produce a Windows Runtime asynchronous activity from C#?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240704-00/?p=109955</link>
       <description>在C#中创建Windows Runtime异步活动的方法涉及使用AsyncInfo.Run方法，它将C#的Task转换为Windows Runtime异步活动。此方法接受一个lambda表达式，该表达式返回类型R并接受参数Params...。根据lambda的签名，AsyncInfo.Run返回相应的Windows Runtime接口，如IAsyncAction或IAsyncOperation。文章还讨论了如何处理取消和进度报告，以及如何使用扩展方法将Task转换为IAsyncAction或IAsyncOperation。</description>
@@ -173,6 +209,12 @@
       <title>Locally patching dependencies in Go</title>
       <link>https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/</link>
       <description>本文介绍了在Go语言中本地修补依赖的方法。通过设置测试模块，展示了如何修改依赖包的代码，并使用不同的方法（如模块替换指令、Go工作空间和gohack工具）来应用这些修改。这些方法使得在本地环境中调试和测试依赖包变得更加灵活和高效。</description>
+    </item>
+  
+    <item>
+      <title>Cloudflare 1.1.1.1 incident on June 27, 2024</title>
+      <link>https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024</link>
+      <description>2024年6月27日，Cloudflare的1.1.1.1 DNS服务遭遇了全球范围内的访问问题，原因是一起BGP劫持和路由泄露事件。尽管影响范围有限（不到1%的用户受到影响），但Cloudflare对此事件表示歉意，并承诺将继续改进检测方法，以更快地响应此类事件。</description>
     </item>
   
     <item>
@@ -311,6 +353,12 @@
       <title>[Math] Project Euler 142 and Google OR-tools</title>
       <link>https://yurichev.com/n/PE_142/</link>
       <description>本文探讨了使用Google OR-tools解决Project Euler第142题的方法。问题要求找到最小的x + y + z，其中x &gt; y &gt; z &gt; 0，使得x + y, x - y, x + z, x - z, y + z, y - z都是完全平方数。通过构建约束求解器，作者成功找到了解并输出了x, y, z的值，以及搜索过程中的相关统计数据。</description>
+    </item>
+  
+    <item>
+      <title>BW #73: Avocado hand</title>
+      <link>https://www.bambooweekly.com/bw-73-avocado-hand/</link>
+      <description>近年来，牛油果因其流行而成为大生意，但也引发了一种新的伤害——“牛油果手”。据华盛顿邮报报道，1998年至2017年间，已有超过5万人因切牛油果受伤。本文将探讨美国消费者产品安全委员会的数据，分析近年来牛油果相关伤害的情况。</description>
     </item>
   
     <item>
@@ -650,6 +698,12 @@
     </item>
   
     <item>
+      <title>DevBit Recap: Summer 2024 – Get Integrated!</title>
+      <link>https://algolia.com/blog/engineering/devbit-recap-summer-2024-get-integrated/</link>
+      <description>2024年夏季，Algolia举办了第二季度DevBit直播活动，主题为“集成一切”。活动包括数据库连接器、前端集成、定制代码解决方案和电子商务平台等主题的研讨会。会议内容涉及如何使用Algolia数据连接器、与Hyvä主题集成Algolia的挑战、使用Algolia和Supabase搜索救援动物以及构建AI搜索和推荐系统等。此外，还介绍了Algolia DevCon 2024的日期和内容征集。</description>
+    </item>
+  
+    <item>
       <title>Get started quickly with SurveyMonkey for HR, marketing, and market research pros</title>
       <link>https://www.surveymonkey.com/curiosity/quickstart-hr-mrx-marketing/?ut_source=rss</link>
       <description>本文探讨了如何利用SurveyMonkey快速创建调查，以收集员工、客户和市场研究数据。文章针对HR、营销和市场研究人员提供了实用建议，包括建立反馈日程、选择合适的调查类型、分析数据并转化为行动方案，以提升员工满意度、优化营销策略和推动市场研究。</description>
@@ -683,6 +737,12 @@
       <title>Indenting output in a shell script with pr</title>
       <link>https://akrabat.com/indenting-output-in-a-shell-script-with-pr/</link>
       <description>Shell脚本中使用pr命令缩进输出，以组织信息。通过curl获取数据，使用echo和pr -to 4命令实现缩进，使输出更易读。此方法自AT&amp;T Unix版本1以来一直存在，是Shell脚本编写中的一个实用技巧。</description>
+    </item>
+  
+    <item>
+      <title>Ecommerce personalization: benefits, challenges, and how to implement</title>
+      <link>https://algolia.com/blog/ecommerce/ecommerce-personalization-benefits-challenges-and-how-to-implement/</link>
+      <description>电子商务个性化：通过精准推荐和个性化体验提升销售额和客户满意度。通过分析用户行为和偏好，商家可以提供定制化的产品推荐、搜索结果和购物体验，从而提高转化率和客户忠诚度。尽管实施个性化存在挑战，如数据准确性和系统整合，但通过合理规划和利用技术，个性化可以为电商带来显著的投资回报。</description>
     </item>
   
     <item>
