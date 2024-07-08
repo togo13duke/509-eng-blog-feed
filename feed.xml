@@ -42,12 +42,6 @@
     </item>
   
     <item>
-      <title>File.exists or Files.fileExists?</title>
-      <link>https://www.yegor256.com/2024/07/07/checking-object-existence.html</link>
-      <description>设计文件类时，应先检查文件是否存在，然后再创建对象。不同编程语言和SDK在实现文件存在性检查时存在两种设计选择：先创建文件对象再检查其存在性，或先检查磁盘上是否存在文件，然后再创建对象。这种设计决策对程序员理解文件的存在状态和异常处理有重要影响。例如，Java中检查账单是否已支付的设计，应先获取账单对象再检查其支付状态，以保持两种属性（存在性和支付状态）的独立性。这种设计有助于程序员更好地理解文件的存在和异常处理。</description>
-    </item>
-  
-    <item>
       <title>Time is Finite, Energy Isn’t: Figure Out How to Renew Your Energy to Avoid Burnout</title>
       <link>https://spin.atomicobject.com/renew-energy-avoid-burnout/</link>
       <description>避免职业倦怠，通过识别和安排能给你带来能量的活动来重振精神。通过自我发现和实验，找到与你的激情相关的活动，并确保它们成为你日常生活中的习惯。提前规划假期和带薪休假，确保你的身体和心灵得到恢复。</description>
