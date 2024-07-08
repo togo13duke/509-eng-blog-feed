@@ -6,9 +6,63 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>French elections: political cyber attacks and Internet traffic shifts</title>
+      <link>https://blog.cloudflare.com/2024-french-elections-political-cyber-attacks-and-internet-traffic-shifts</link>
+      <description>2024年法国立法选举第二轮投票结果显示，新民众阵线（NPF）获得最多席位，随后是法国总统马克龙的“全体”党和国民联盟。在选举期间，法国政治党派遭受了DDoS攻击，导致互联网流量显著下降。投票结束后，电视媒体开始公布初步结果，法国的互联网流量下降了16%。此外，移动设备的使用量也有所增加。</description>
+    </item>
+  
+    <item>
+      <title>Key Steps in Machine Learning Model Development | Chicago Taxi Trips Use Case</title>
+      <link>https://blog.avenuecode.com/key-steps-in-machine-learning-model-development-chicago-taxi-trips-use-case</link>
+      <description>本文展示了使用Google Cloud平台上的芝加哥出租车行程数据集进行机器学习预测的案例。通过开发一个完整的从数据探索到模型部署的工作流程，旨在通过深度学习回归模型预测出租车行程时长。文章详细描述了数据探索、特征工程、模型训练和部署的步骤，并提供了性能评估和未来改进的建议。</description>
+    </item>
+  
+    <item>
+      <title>Understanding Serverless PostgreSQL</title>
+      <link>https://www.timescale.com/blog/understanding-serverless-postgresql/</link>
+      <description>Timescale提供增强版的PostgreSQL，专注于时间序列和AI/ML应用。它提供快速的数据摄入和查询，支持RAG、搜索和AI代理构建。Timescale Cloud提供可靠的云服务，支持多种部署选项和开源扩展。适用于金融、能源和物流等行业，并支持开发者学习使用。</description>
+    </item>
+  
+    <item>
+      <title>In It for the Long Haul: Waabi Pioneers Generative AI to Unleash Fully Driverless Autonomous Trucking</title>
+      <link>https://blogs.nvidia.com/blog/waabi-autonomous-trucking/</link>
+      <description>Waabi，一家位于多伦多的初创公司，正利用生成式AI技术推动自动驾驶卡车的发展。该公司计划使用NVIDIA的DRIVE Thor中央车载计算机，推出名为Waabi Driver的安全、基于生成式AI的自动驾驶解决方案。Waabi结合了两个生成式AI系统：Waabi World（一个高级模拟器）和Waabi Driver（一个能够进行类似人类推理的端到端AI系统），以减少道路测试需求，实现更安全、高效的自动驾驶。</description>
+    </item>
+  
+    <item>
+      <title>Geomys, a blueprint for a sustainable open source maintenance firm</title>
+      <link>https://words.filippo.io/dispatches/geomys/</link>
+      <description>Geomys是一家专注于开源维护的小型专业公司，由前谷歌工程师创立，旨在为关键开源项目提供可持续的维护服务。公司提供一系列专业维护者，负责维护多个流行的Go语言开源项目，如SSH实现、静态分析工具等。客户支付固定月费以获得专业维护和专家支持，同时维护者获得稳定收入和项目收益分成。这种模式旨在使开源维护成为一个成熟的职业，并为项目提供可持续的资金支持。</description>
+    </item>
+  
+    <item>
+      <title>Welcoming Prodvana to Databricks: Investing in Next-Gen Infrastructure</title>
+      <link>https://www.databricks.com/blog/welcoming-prodvana-databricks-investing-next-gen-infrastructure</link>
+      <description>Databricks宣布欢迎Prodvana团队加入，以加强其下一代基础设施。Prodvana的加入将简化云原生环境中的部署复杂性，并提升Databricks平台的性能和安全性，从而更好地服务于客户。</description>
+    </item>
+  
+    <item>
+      <title>What’s the point of std::monostate? You can’t do anything with it!</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959</link>
+      <description>C++17引入了std::monostate，它是一个不执行任何操作的占位符类型。其目的是作为一个默认构造的空状态，用于std::variant，以避免不必要的副作用。std::monostate可以被视为一个“空”状态，用于在需要默认构造类型但不想执行任何操作时使用。</description>
+    </item>
+  
+    <item>
+      <title>Python News Roundup: July 2024</title>
+      <link>https://realpython.com/python-news-july-2024/</link>
+      <description>NumPy发布2.0版本，带来改进和兼容性问题；Polars达到1.0里程碑，成为生产就绪的DataFrame库；PyCon US会议和Python语言峰会讨论了Python的未来发展，包括API清理和版本控制。</description>
+    </item>
+  
+    <item>
       <title>Beginner’s guide to GitHub: Uploading files and folders to GitHub</title>
       <link>https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/</link>
       <description>GitHub入门指南：学习如何将文件和文件夹上传到GitHub，包括使用GitHub.com和终端上传文件的方法，以及如何初始化仓库、添加文件、提交更改并推送到GitHub。</description>
+    </item>
+  
+    <item>
+      <title>Databricks Named a Leader in Stream Processing and Cloud Data Pipelines</title>
+      <link>https://www.databricks.com/blog/databricks-named-leader-stream-processing-and-cloud-data-pipelines</link>
+      <description>Databricks荣获IDC MarketScape和Forrester Wave报告的领导者称号，在数据工程和云数据管道领域表现出色。该平台支持构建智能批处理和流数据管道，提供实时分析和人工智能应用，助力企业快速响应和决策。</description>
     </item>
   
     <item>
@@ -63,6 +117,18 @@
       <title>Deep learning vs. machine learning: Understanding the differences</title>
       <link>https://www.elastic.co/blog/deep-learning-vs-machine-learning</link>
       <description>深度学习和机器学习是人工智能领域的两个关键分支，它们在处理数据和解决问题方面各有优势。机器学习通过算法从数据中学习，适用于结构化数据，如电子邮件分类和推荐系统。而深度学习则模仿人脑的神经网络，擅长处理大量非结构化数据，如图像和语音识别。两者在复杂性和可解释性上有所不同，但都推动了人工智能的进步，为各行各业带来了创新和效率提升。</description>
+    </item>
+  
+    <item>
+      <title>End-to-end SAP Observability with Elastic, Google, and Kyndryl: A deep dive</title>
+      <link>https://www.elastic.co/blog/sap-observability-elastic-google-kyndryl</link>
+      <description>Elastic与Kyndryl和Google Cloud合作，为SAP环境提供全面的可观察性体验。该解决方案结合了各行业领导者的优势，使企业能够充分利用SAP数据，做出数据驱动的决策。通过Kibana，用户可以从基础设施到业务分析，在四个不同的层次上获得SAP生态系统的全面视图，包括云和混合基础设施、SAP工作负载的机器层和应用层，以及业务分析。</description>
+    </item>
+  
+    <item>
+      <title>Recapping the first Local-First conference in 15 minutes</title>
+      <link>https://evilmartians.com/chronicles/recapping-the-first-local-first-conference-in-15-minutes</link>
+      <description>首届Local-First会议回顾：Local-First理念强调数据本地存储，通过云同步数据。会议探讨了Local-First的多种实现方式，如端到端加密、零延迟用户体验等，并强调了其提升开发效率和用户体验的优势。会议还讨论了Local-First在构建社区、协作和社交软件中的应用，以及如何通过技术让Local-First应用更易于开发和使用。</description>
     </item>
   
     </channel>
