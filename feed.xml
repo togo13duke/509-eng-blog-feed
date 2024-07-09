@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Goodbye Passwords ? Intégrez les Passkeys avec Auth0 et Keycloak</title>
-      <link>https://blog.octo.com/octo-article-de-blog-7</link>
-      <description>本文探讨了使用Auth0和Keycloak实现Passkeys（密码替代技术）的集成。文章首先介绍了Passkeys的基本原理和优势，随后详细说明了如何在Auth0和Keycloak中配置和使用Passkeys进行用户认证。通过这两个服务，用户可以无需密码即可安全地登录，提高了用户体验和安全性。</description>
-    </item>
-  
-    <item>
       <title>We chat search from both sides now</title>
       <link>https://stackoverflow.blog/2024/07/09/we-chat-search-from-both-sides-now/</link>
       <description>Stack Overflow与Elastic合作，利用向量搜索和生成式AI提升搜索体验。本期播客讨论了从供应商和客户角度探讨向量数据库和语义搜索，以及GenAI对生产力和搜索体验的影响，结构化数据对LLMs的价值，以及知识提取和共享的潜力。</description>
