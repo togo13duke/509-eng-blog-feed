@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A Rare Insight Into The Daily Challenges Of An Experiments Team</title>
+      <link>https://engineering.prezi.com/a-rare-insight-into-the-daily-challenges-of-an-experiments-team-349a94960b4f?source=rss----911e72786e31---4</link>
+      <description>在Prezi的实验团队中，作者Attila Vágó分享了他们在开发A/B测试、优化产品策略和提升用户体验方面的日常挑战。团队专注于通过数据驱动的实验来提高Prezi的成功率和客户满意度，尽管面临失败的风险和复杂的技术挑战。文章通过具体案例展示了实验团队如何通过小改动和大数据分析来影响产品决策，并强调了工程师在团队中的关键作用，包括技能多样性、效率、数据驱动和持续学习的重要性。</description>
+    </item>
+  
+    <item>
+      <title>DDoS threat report for 2024 Q2</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q2</link>
+      <description>2024年第二季度，Cloudflare记录了DDoS攻击同比增长20%，其中网络层攻击和HTTP攻击各占一半。攻击者技术日益复杂， ransomware DDoS攻击比例上升。中国成为最常受攻击的国家，信息技术和电信行业最受攻击。Cloudflare通过自动化防御和全面的安全产品保护客户免受DDoS攻击。</description>
+    </item>
+  
+    <item>
+      <title>RADIUS/UDP vulnerable to improved MD5 collision attack</title>
+      <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
+      <description>RADIUS/UDP协议易受改进的MD5碰撞攻击影响，攻击者可利用此漏洞未经授权访问网络设备。该攻击通过中间人攻击，利用MD5的弱点，将拒绝访问的响应篡改为允许访问的响应，从而控制网络流量。网络运营商应采取措施加强RADIUS部署的安全性。</description>
+    </item>
+  
+    <item>
       <title>Synthetic User Research is a Terrible Idea</title>
       <link>https://spin.atomicobject.com/synthetic-user-research-terrible-idea/</link>
       <description>合成用户研究是一种糟糕的想法，因为它可能导致偏见和泛化，无法满足特定需求，且AI生成的具体信息可能是虚构的。投资于这种研究可能浪费时间和金钱，因为真正的创新和成功在于解决最后20%的特定需求。</description>
@@ -62,6 +80,18 @@
     </item>
   
     <item>
+      <title>Enable Automatic Updates – Fedora/Red Hat + Bonus Tip</title>
+      <link>https://linuxblog.io/enable-automatic-updates-fedora-red-hat-centos-bonus-tip/</link>
+      <description>本文介绍了如何在Fedora和Red Hat系统中启用自动更新以增强Linux服务器的安全性。文章详细说明了在RHEL 8和7版本中配置dnf-automatic和yum-cron包的方法，并提供了启用安全更新自动安装的步骤。此外，还提供了一个额外的提示，即使用cockpit-project远程管理服务器。</description>
+    </item>
+  
+    <item>
+      <title>Best Linux distro and Desktop Environment Combinations</title>
+      <link>https://linuxblog.io/best-linux-distro-desktop-environment-combinations/</link>
+      <description>本文探讨了最佳Linux发行版和桌面环境的组合。针对初学者、有经验和专家用户，推荐了不同的Linux发行版和桌面环境或窗口管理器，如Pop!_OS、Ubuntu、Manjaro、Fedora、Debian、CentOS 8、Arch Linux和Gentoo。文章强调了选择适合个人需求和偏好的组合的重要性，并鼓励用户尝试不同的发行版和环境以找到最适合自己的设置。</description>
+    </item>
+  
+    <item>
       <title>Ruby 3.3.4 Released</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/09/ruby-3-3-4-released/</link>
       <description>Ruby 3.3.4版本发布，修复了3.3.3版本中依赖项缺失的问题，并允许Bundler在Heroku等平台上成功安装相关gem。其他更改主要是小错误修复。未来，Ruby 3.3系列每两个月将发布一个新版本，预计3.3.5将于9月3日发布。</description>
@@ -77,6 +107,12 @@
       <title>This Week in Open Source</title>
       <link>https://thoughtbot.com/blog/this-week-in-open-source-may-2024</link>
       <description>本周开源新闻涵盖四月剩余和五月全部内容，包括多个项目的更新和贡献。重点包括Administrate、Appraisal、Clearance、Design Sprint Guide、thoughtbot dotfiles、factory_bot、factory_bot_rails、Flightdeck、Form Props、Guides、PropsTemplate、Shoulda、Shoulda Context、Shoulda Matchers、thoughtbot stylelint Config、Superglue、Suspenders和Upcase等项目的改进和发布。</description>
+    </item>
+  
+    <item>
+      <title>Launching MacTreasure.com</title>
+      <link>https://www.amitmerchant.com/mac-treasure-com/</link>
+      <description>Amit Merchant宣布推出新项目MacTreasure.com，一个专注于展示不为人知的Mac应用的博客。他计划尝试新应用并撰写简明扼要的评论，旨在建立一个Mac社区可以找到优质应用的宝库。</description>
     </item>
   
     <item>
