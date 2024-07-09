@@ -6,30 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>We chat search from both sides now</title>
-      <link>https://stackoverflow.blog/2024/07/09/we-chat-search-from-both-sides-now/</link>
-      <description>Stack Overflow与Elastic合作，利用向量搜索和生成式AI提升搜索体验。本期播客讨论了从供应商和客户角度探讨向量数据库和语义搜索，以及GenAI对生产力和搜索体验的影响，结构化数据对LLMs的价值，以及知识提取和共享的潜力。</description>
-    </item>
-  
-    <item>
-      <title>Ruby 3.3.4 Released</title>
-      <link>https://www.ruby-lang.org/en/news/2024/07/09/ruby-3-3-4-released/</link>
-      <description>Ruby 3.3.4版本发布，修复了3.3.3版本中依赖项缺失的问题，并允许Bundler在Heroku等平台上成功安装相关gem。其他更改主要是小错误修复。未来，Ruby 3.3系列每两个月将发布一个新版本，预计3.3.5将于9月3日发布。</description>
-    </item>
-  
-    <item>
-      <title>Building a CLI with Laravel Prompts</title>
-      <link>https://www.honeybadger.io/blog/laravel-prompts-api-client/</link>
-      <description>本文介绍了如何使用Laravel Prompts构建交互式CLI/Artisan命令。通过创建一个简单的GitHub CLI客户端，展示了如何利用Prompts在控制台中实现用户友好的表单。文章详细介绍了Prompts的基本用法，包括文本输入、密码输入、确认输入、选择输入和暂停输入等功能，并展示了如何将这些功能组合起来构建一个完整的表单。最后，通过一个示例展示了如何使用Prompts与GitHub API交互，实现列出用户仓库和创建新仓库的功能。</description>
-    </item>
-  
-    <item>
-      <title>This Week in Open Source</title>
-      <link>https://thoughtbot.com/blog/this-week-in-open-source-may-2024</link>
-      <description>本周开源新闻涵盖四月剩余和五月全部内容，包括多个项目的更新和贡献。重点包括Administrate、Appraisal、Clearance、Design Sprint Guide、thoughtbot dotfiles、factory_bot、factory_bot_rails、Flightdeck、Form Props、Guides、PropsTemplate、Shoulda、Shoulda Context、Shoulda Matchers、thoughtbot stylelint Config、Superglue、Suspenders和Upcase等项目的改进和发布。</description>
-    </item>
-  
-    <item>
       <title>Brush Assets is out!</title>
       <link>https://code.blender.org/2024/07/brush-assets-is-out/</link>
       <description>Blender 4.3版本新增了Brush Assets功能，改善了画笔的可重用性和共享性。用户可以轻松创建、更新和管理画笔资产，并从资产库中快速访问它们。新功能包括统一的画笔工具、资产架和画笔选择弹出窗口，以及将画笔资产保存为特殊文件格式，以防止数据丢失。</description>
@@ -174,18 +150,6 @@
     </item>
   
     <item>
-      <title>eBay Advertising Unveils New Dashboard, Personalized Insights, and Intuitive Campaign Tools</title>
-      <link>https://innovation.ebayinc.com/tech/features/ebay-advertising-helps-sellers-grow-their-business-with-introduction-of-new-dashboard-personalized-insights-and-intuitive-campaign-tools/</link>
-      <description>eBay推出全新广告平台，包括个性化仪表板、定制洞察力和直观的营销工具，旨在帮助卖家提升业务增长。新平台提供简化广告流程、提高商品可见性和增强销售速度的功能，包括基于趋势的营销活动、广告洞察和个性化推荐，助力卖家更有效地推广商品。</description>
-    </item>
-  
-    <item>
-      <title>eBay’s Magical Listing Tool Wins AI Breakthrough Award for ‘Best Overall Generative AI Solution’</title>
-      <link>https://innovation.ebayinc.com/tech/features/ebays-magical-listing-tool-wins-ai-breakthrough-award-for-best-overall-generative-ai-solution/</link>
-      <description>eBay的“神奇列表工具”荣获2024年AI突破奖“最佳整体生成式AI解决方案”奖项，该工具利用生成式AI简化卖家产品列表流程，节省时间和精力。该工具第一阶段已在全球五大市场推出，第二阶段正在测试中，可从卖家上传的图片中推断出更多列表详情。</description>
-    </item>
-  
-    <item>
       <title>Best of…: Classic WTF: XML Anybody?</title>
       <link>https://thedailywtf.com/articles/classic-wtf-xml-anybody</link>
       <description>《经典WTF：XML Anybody？》一文由Alex Papadimoulis撰写，探讨了XML的生成和应用。文章指出，尽管XML在数据描述和共享方面非常出色，但实际应用中存在代码重复和紧耦合问题，导致维护困难。作者分享了个人在项目中的经验，强调创建DTD和文档的重要性，以改善XML格式的可维护性。</description>
@@ -231,12 +195,6 @@
       <title>Transforming Developer Experience: A New Era for Twilio's Documentation</title>
       <link>https://www.twilio.com/en-us/blog/new-era-for-twilio-documentation</link>
       <description>Twilio推出全新文档平台，提升用户体验和性能。该平台基于静态网站生成，提高可访问性和协作效率，同时支持未来功能开发。Twilio致力于通过创新技术，为开发者提供更便捷的API集成和文档使用体验。</description>
-    </item>
-  
-    <item>
-      <title>Why TDD and Pair Programming are the perfect companions for Copilot</title>
-      <link>https://www.thoughtworks.com/insights/blog/generative-ai/tdd-and-pair-programming-the-perfect-companions-for-copilot</link>
-      <description>TDD和结对编程是GitHub Copilot的完美伴侣，因为Copilot虽然能提高开发效率和代码质量，但也可能产生不符合预期的代码。通过实践，我们发现TDD和结对编程能有效减少AI产生的错误代码，帮助开发者更专注于实现决策，确保代码质量。</description>
     </item>
   
     </channel>
