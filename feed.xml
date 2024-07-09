@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Synthetic User Research is a Terrible Idea</title>
+      <link>https://spin.atomicobject.com/synthetic-user-research-terrible-idea/</link>
+      <description>合成用户研究是一种糟糕的想法，因为它可能导致偏见和泛化，无法满足特定需求，且AI生成的具体信息可能是虚构的。投资于这种研究可能浪费时间和金钱，因为真正的创新和成功在于解决最后20%的特定需求。</description>
+    </item>
+  
+    <item>
+      <title>The Curious case of Eco Saver</title>
+      <link>https://bytes.swiggy.com/the-curious-case-of-eco-saver-5e2cf80730d7?source=rss----9556560f659---4</link>
+      <description>Swiggy推出Eco-Saver配送选项，鼓励用户选择更环保的配送方式，以减少碳足迹。通过将附近订单分组，Swiggy减少了行程次数和燃料消耗，同时提高了配送效率和配送伙伴的收入。此举已使Swiggy减少超过300吨的CO2排放，相当于种植了超过10,000棵树。</description>
+    </item>
+  
+    <item>
       <title>Goodbye Passwords ? Intégrez les Passkeys avec Auth0 et Keycloak</title>
       <link>https://blog.octo.com/octo-article-de-blog-7</link>
       <description>本文探讨了使用Auth0和Keycloak实现Passkeys（密码替代技术）的集成。文章首先介绍了Passkeys的基本原理和优势，随后详细说明了如何在Auth0和Keycloak中配置和使用Passkeys进行用户认证。通过这两个服务，用户可以无需密码即可安全地登录，提高了用户体验和安全性。</description>
@@ -39,6 +51,14 @@
       <title>Highlights from Voxxed Days Luxembourg 2024</title>
       <link>https://medium.com/criteo-engineering/highlights-from-voxxed-days-luxembourg-2024-c6f00ae43a7b?source=rss----fc3ea5a64a12---4</link>
       <description>在2024年卢森堡Voxxed Days会议上，Sylvain DEDIEU分享了关于前端框架、人工智能、网页可访问性和Nx构建系统的见解。他探讨了Angular、React、Vue等框架的工作原理，介绍了如何构建和部署AI模型，强调了alt属性在提升网页可访问性方面的重要性，并展示了Nx如何优化开发流程。</description>
+    </item>
+  
+    <item>
+      <title>Best of…: Classic WTF: What's in a Name?</title>
+      <link>https://thedailywtf.com/articles/classic-wtf-what-s-in-a-name</link>
+      <description>标题：经典WTF：名字的奥秘
+
+内容摘要：本文讲述了作者Alex Papadimoulis在1993年帮助大学迁移旧MVS主frame到新UNIX服务器时遇到的一个有趣问题。由于使用了与网络主机名相同的宏变量名，导致迁移脚本无法连接到目标服务器。最终，通过更改变量名解决了这个问题，揭示了在SAS中使用宏变量时需要注意避免与网络主机名冲突的重要性。</description>
     </item>
   
     <item>
