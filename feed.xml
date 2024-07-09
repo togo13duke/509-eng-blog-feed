@@ -6,24 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>C# 13: Explore the latest preview features</title>
-      <link>https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/</link>
-      <description>C# 13引入了多项新特性，包括扩展params集合以支持更多类型、改进lock对象使用、索引操作符在初始化器中的应用、新的转义序列、部分属性、方法组自然类型改进、允许ref struct作为泛型类型参数以及支持在异步方法和迭代器中使用ref和unsafe。这些更新旨在提高灵活性和性能，并使C#编程更加高效。</description>
-    </item>
-  
-    <item>
-      <title>.NET and .NET Framework July 2024 servicing releases updates</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates/</link>
-      <description>2024年7月，.NET和.NET Framework发布了服务更新，包括安全改进和功能更新。主要修复了多个安全漏洞，如CVE-2024-30105和CVE-2024-35264，并提供了.NET 6.0.32和.NET 8.0.7等版本更新。同时，.NET MAUI、ASP.NET Core和Entity Framework Core等组件也获得了更新。</description>
-    </item>
-  
-    <item>
-      <title>Creating an already-completed asynchonous activity in C++/WinRT, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240709-00/?p=109961</link>
-      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者Raymond Chen解释了如何使用co_return和抛出异常来处理已知结果的异步方法，并讨论了如何避免错误地返回非协程函数。</description>
-    </item>
-  
-    <item>
       <title>A Rare Insight Into The Daily Challenges Of An Experiments Team</title>
       <link>https://engineering.prezi.com/a-rare-insight-into-the-daily-challenges-of-an-experiments-team-349a94960b4f?source=rss----911e72786e31---4</link>
       <description>在Prezi的实验团队中，作者Attila Vágó分享了他们在开发A/B测试、优化产品策略和提升用户体验方面的日常挑战。团队专注于通过数据驱动的实验来提高Prezi的成功率和客户满意度，尽管面临失败的风险和复杂的技术挑战。文章通过具体案例展示了实验团队如何通过小改动和大数据分析来影响产品决策，并强调了工程师在团队中的关键作用，包括技能多样性、效率、数据驱动和持续学习的重要性。</description>
