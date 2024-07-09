@@ -12,6 +12,30 @@
     </item>
   
     <item>
+      <title>Understanding The Phantom Token Approach</title>
+      <link>https://nordicapis.com/understanding-the-phantom-token-approach/</link>
+      <description>Phantom Token方法是一种结合了JWT和透明令牌优势的授权解决方案，旨在平衡API空间中的效率和隐私。它通过使用中间件将透明令牌转换为JWT令牌，在保护隐私的同时提高内部服务的效率，从而提升API授权流程的效率、可扩展性和可扩展性。</description>
+    </item>
+  
+    <item>
+      <title>Deploying SQL Server on Linux using an Ansible playbook</title>
+      <link>https://developers.redhat.com/articles/2024/07/09/deploying-sql-server-linux-using-ansible-playbook</link>
+      <description>使用Ansible playbooks在Linux上部署SQL Server。</description>
+    </item>
+  
+    <item>
+      <title>Get started with the OpenShift Cluster Observability Operator</title>
+      <link>https://developers.redhat.com/articles/2024/07/09/get-started-openshift-cluster-observability-operator</link>
+      <description>开始使用OpenShift集群可观察性操作员，探索Red Hat Developer提供的资源。</description>
+    </item>
+  
+    <item>
+      <title>Highlights from Voxxed Days Luxembourg 2024</title>
+      <link>https://medium.com/criteo-engineering/highlights-from-voxxed-days-luxembourg-2024-c6f00ae43a7b?source=rss----fc3ea5a64a12---4</link>
+      <description>在2024年卢森堡Voxxed Days会议上，Sylvain DEDIEU分享了关于前端框架、人工智能、网页可访问性和Nx构建系统的见解。他探讨了Angular、React、Vue等框架的工作原理，介绍了如何构建和部署AI模型，强调了alt属性在提升网页可访问性方面的重要性，并展示了Nx如何优化开发流程。</description>
+    </item>
+  
+    <item>
       <title>Ruby 3.3.4 Released</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/09/ruby-3-3-4-released/</link>
       <description>Ruby 3.3.4版本发布，修复了3.3.3版本中依赖项缺失的问题，并允许Bundler在Heroku等平台上成功安装相关gem。其他更改主要是小错误修复。未来，Ruby 3.3系列每两个月将发布一个新版本，预计3.3.5将于9月3日发布。</description>
