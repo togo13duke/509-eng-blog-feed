@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Taming the tail utilization of ads inference at Meta scale</title>
+      <link>https://engineering.fb.com/2024/07/10/production-engineering/tail-utilization-ads-inference-meta/</link>
+      <description>Meta通过优化广告推理服务的尾利用率，显著提高了计算资源利用率和系统可靠性。通过改进负载均衡机制和系统级变更，Meta将超时错误率降低了三分之二，计算资源效率提升了35%，并将p99延迟减半。这些优化使得系统在无需额外资源的情况下，能够吸收高达35%的负载增长。</description>
+    </item>
+  
+    <item>
+      <title>Playwright and Pytest parametrization for responsive E2E tests</title>
+      <link>http://blog.pamelafox.org/2024/07/playwright-and-pytest-parametrization.html</link>
+      <description>本文探讨了使用Playwright和Pytest进行端到端测试，特别是针对响应式网页的测试。作者展示了如何通过Pytest参数化测试来确保在不同视口尺寸下功能正常，并介绍了如何使用Playwright的set_viewport_size函数来调整浏览器窗口的视口大小。</description>
+    </item>
+  
+    <item>
       <title>The Scalable SQL, Full-Text and Vector Platform for Gen AI</title>
       <link>https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai</link>
       <description>SingleStore 8.7版本推出，完全重新实现了基于Apache Lucene的全文搜索引擎，并提供了高性能的向量搜索。新版本支持模糊搜索、邻近搜索、BM25评分和JSON搜索，同时增强了向量搜索功能，包括向量范围搜索和过滤ANN搜索。SingleStore旨在简化开发过程，让开发者无需使用多个数据存储，即可构建集交易处理、分析、搜索和生成式AI于一体的智能应用程序。</description>
@@ -15,6 +27,12 @@
       <title>Introducing @let in Angular</title>
       <link>https://blog.angular.dev/introducing-let-in-angular-686f9f383f0f?source=rss----447683c3d9a3---4</link>
       <description>Angular新特性：引入@let语法，允许开发者定义可重用模板变量，简化模板中变量定义和复用，提升开发体验。</description>
+    </item>
+  
+    <item>
+      <title>From zero to hero with HashiCorp Boundary</title>
+      <link>https://www.hashicorp.com/blog/from-zero-to-hero-hashicorp-boundary</link>
+      <description>HashiCorp Boundary是一款简化并保障远程访问系统与应用的工具，提供细粒度的访问控制，无需管理复杂的网络配置或暴露敏感凭证。本文介绍了如何从零开始创建Boundary集群，并配置一个完整的远程访问工作流程，使无Boundary知识的人也能使用。Boundary提供社区版、企业版和云平台版，支持在Microsoft Azure上使用Terraform进行部署。</description>
     </item>
   
     <item>
@@ -287,6 +305,12 @@
       <description>Twilio教程：如何将MP3添加到自动语音通话中
 
 本教程介绍了如何使用Twilio将MP3文件添加到自动语音通话中，以增加个性化效果。首先，需要注册Twilio账户并获取电话号码、授权令牌等基本信息。然后，将MP3文件上传到Twilio Assets，获取文件URL。最后，使用.NET SDK编写代码，实现自动语音通话功能。通过这种方式，可以给自动语音通话增添音乐和音效，提升用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Some tricks from the Scrapscript compiler</title>
+      <link>https://bernsteinbear.com/blog/scrapscript-tricks/?utm_source=rss</link>
+      <description>Scrapscript编译器通过优化技巧提高了性能，包括将小整数和字符串编码在指针中，以及引入即时变体和常量堆。这些改进减少了内存分配，并加快了模式匹配速度。编译器还支持常量闭包，进一步优化了数据结构。</description>
     </item>
   
     <item>
