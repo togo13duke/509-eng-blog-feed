@@ -6,6 +6,66 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Scalable SQL, Full-Text and Vector Platform for Gen AI</title>
+      <link>https://www.singlestore.com/blog/sql-full-text-vector-platform-for-gen-ai</link>
+      <description>SingleStore 8.7版本推出，完全重新实现了基于Apache Lucene的全文搜索引擎，并提供了高性能的向量搜索。新版本支持模糊搜索、邻近搜索、BM25评分和JSON搜索，同时增强了向量搜索功能，包括向量范围搜索和过滤ANN搜索。SingleStore旨在简化开发过程，让开发者无需使用多个数据存储，即可构建集交易处理、分析、搜索和生成式AI于一体的智能应用程序。</description>
+    </item>
+  
+    <item>
+      <title>Introducing @let in Angular</title>
+      <link>https://blog.angular.dev/introducing-let-in-angular-686f9f383f0f?source=rss----447683c3d9a3---4</link>
+      <description>Angular新特性：引入@let语法，允许开发者定义可重用模板变量，简化模板中变量定义和复用，提升开发体验。</description>
+    </item>
+  
+    <item>
+      <title>In bid to loosen Nvidia’s grip on AI, AMD to buy Finnish startup for $665M</title>
+      <link>https://arstechnica.com/?p=2036193</link>
+      <description>AMD以6.65亿美元收购芬兰人工智能初创公司Silo AI，旨在扩大其AI服务并挑战市场领导者Nvidia。Silo AI的团队将利用其软件工具构建定制的大型语言模型，以加强AMD在AI技术栈的竞争力。这笔交易是欧洲十年来的最大AI初创公司收购案。</description>
+    </item>
+  
+    <item>
+      <title>Should you use Quart or FastAPI for an AI app?</title>
+      <link>http://blog.pamelafox.org/2024/07/should-you-use-quart-or-fastapi-for-ai.html</link>
+      <description>选择Quart或FastAPI开发AI应用时，应考虑其异步处理能力、与现有Flask应用的兼容性、静态文件处理、API文档生成、扩展生态系统和性能。Quart与Flask相似，易于转换现有应用，适合静态文件处理，但扩展较少；FastAPI则更适合API开发，文档生成更便捷，但扩展生态系统较小。两者性能相似，均为活跃的开源项目。</description>
+    </item>
+  
+    <item>
+      <title>Vector search for Amazon MemoryDB is now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/</link>
+      <description>Amazon MemoryDB推出向量搜索功能，支持存储、索引、检索和搜索向量，以开发实时机器学习和生成式人工智能应用。此功能提供高速向量搜索性能，简化了生成式人工智能应用架构，同时降低许可成本和运营负担。用户可利用MemoryDB API实现生成式人工智能用例，如检索增强生成（RAG）、异常（欺诈）检测、文档检索和实时推荐引擎。</description>
+    </item>
+  
+    <item>
+      <title>Build enterprise-grade applications with natural language using AWS App Studio (preview)</title>
+      <link>https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/</link>
+      <description>AWS App Studio是一个基于生成式AI的服务，允许用户通过自然语言在几分钟内创建企业级应用，无需软件开发技能。它支持管理员和构建者角色，提供低代码开发环境，自动生成应用界面、数据模型和业务逻辑，并支持与AWS服务和第三方服务集成。目前处于预览阶段，可在美国西部（俄勒冈）AWS区域访问。</description>
+    </item>
+  
+    <item>
+      <title>Amazon Q Apps, now generally available, enables users to build their own generative AI apps</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps/</link>
+      <description>亚马逊Q Apps现已全面上市，允许用户根据组织数据创建自己的生成式AI应用，通过自然语言构建并安全发布到组织应用库中，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>Customize Amazon Q Developer (in your IDE) with your private code base</title>
+      <link>https://aws.amazon.com/blogs/aws/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/</link>
+      <description>Amazon Q Developer现在支持在IDE中通过私有代码库进行定制，提供更相关的代码建议。开发者可以生成特定代码推荐，并询问关于组织代码的问题。此功能基于内部库、API、包、类和方法，确保数据隐私和安全。</description>
+    </item>
+  
+    <item>
+      <title>Agents for Amazon Bedrock now support memory retention and code interpretation (preview)</title>
+      <link>https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/</link>
+      <description>亚马逊Bedrock的代理现在支持记忆保留和代码解释（预览），使生成式人工智能应用能够执行跨不同系统和数据源的多步骤任务。这些新功能包括保留与每个用户的对话摘要，以提供流畅、自适应的体验，以及支持在安全沙盒环境中动态生成和运行代码片段，以处理复杂用例。</description>
+    </item>
+  
+    <item>
+      <title>Technical Decision-Making in a Fragmented Space: Spotify In-Car Case Study</title>
+      <link>https://engineering.atspotify.com/2024/07/technical-decision-making-in-a-fragmented-space-spotify-in-car-case-study/</link>
+      <description>Spotify在车内提供无缝音乐体验面临多重挑战，包括不同平台间的互操作性、屏幕尺寸差异和用户注意力限制。通过采用请求评论（RFC）文档，Spotify团队实现了跨部门协作，以解决这些问题，确保音乐播放体验既安全又便捷。</description>
+    </item>
+  
+    <item>
       <title>Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs</title>
       <link>https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/</link>
       <description>亚马逊Bedrock的Guardrails功能现在可以检测幻觉并保护使用自定义或第三方FM构建的应用程序。它提供了额外的可定制安全措施，包括阻止85%以上的有害内容，并允许客户在单一解决方案中自定义和实施安全、隐私和真实性保护。此外，Guardrails还支持上下文定位检查，以检测模型响应中的幻觉，并引入了ApplyGuardrail API，用于评估所有FMs的输入提示和模型响应，从而实现集中式治理。</description>
@@ -60,6 +120,18 @@
     </item>
   
     <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240710-00/?p=109963</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动。作者Raymond Chen解释了如何创建成功的异步操作和失败的异步操作，并讨论了在编译器优化和错误处理方面的挑战。他提出了使用`std::suspend_never`和`winrt::cancellation_token`的解决方案，以避免编译器诊断和优化问题。</description>
+    </item>
+  
+    <item>
+      <title>How Do You Choose Python Function Names?</title>
+      <link>https://realpython.com/python-function-names/</link>
+      <description>选择Python函数名时，应遵循PEP 8风格指南，使用小写字母和下划线分隔单词（snake_case）。函数名应描述其行为，清晰简洁，避免冗长。使用描述性名称可提高代码可读性和可维护性，减少错误。尽管存在一些规则，但最佳实践和约定对于编写Pythonic代码同样重要。</description>
+    </item>
+  
+    <item>
       <title>The Perils of Deprecating a Legacy Microservice</title>
       <link>https://medium.com/expedia-group-tech/the-perils-of-deprecating-a-legacy-microservice-febfa3e9f6cc?source=rss----38998a53046f---4</link>
       <description>Expedia集团技术团队在现代化其航班详情栈的过程中，遇到了通过淘汰一个简单的缓存服务带来的挑战。文章描述了将Cassandra直接集成到详情服务中，以及引入Redis缓存以简化Pub/Sub实现和减少供应商调用，从而提高性能和节省成本的过程。这个项目不仅实现了预期目标，还为未来的改进奠定了基础。</description>
@@ -93,6 +165,12 @@
       <title>Mission NIMpossible: Decoding the Microservices That Accelerate Generative AI</title>
       <link>https://blogs.nvidia.com/blog/ai-decoded-nim/</link>
       <description>NVIDIA的NIM微服务简化了生成式AI的部署，通过提供预训练模型和运行时组件的容器，使开发者能够轻松地将AI功能集成到应用程序中。这些微服务支持本地和云部署，优化了资源利用和系统性能，同时允许独立扩展和优化各个服务，加快了开发过程并提高了代码质量。NVIDIA NIM还支持在本地工作站上运行大型语言模型，如Meta Llama 3 8B，为开发者提供了更多灵活性和控制权。</description>
+    </item>
+  
+    <item>
+      <title>Vercel Firewall now supports localized challenge pages</title>
+      <link>https://vercel.com/changelog/vercel-firewall-now-supports-localized-challenge-pages</link>
+      <description>Vercel Firewall更新支持22种语言的本地化挑战页面，自动为恶意流量或自定义规则定义的流量提供服务。新页面设计支持浅色和深色模式。</description>
     </item>
   
     <item>
@@ -198,6 +276,26 @@
     </item>
   
     <item>
+      <title>Drive more sales, engagement and better support: Introducing WhatsApp Business Calling from Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/drive-more-sales--engagement-and-better-support--introducing-wha</link>
+      <description>Twilio推出WhatsApp Business Calling API，帮助企业通过WhatsApp应用进行VoIP通话，提升客户满意度。此API允许用户通过点击“呼叫”按钮或接收包含呼叫选项的消息模板与业务代表通话。Twilio客户可利用此API集成现有解决方案，提供更个性化的用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Adding an MP3 to an Automated Voice Call using Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/adding-mp3-to-voice-call-using-twilio</link>
+      <description>Twilio教程：如何将MP3添加到自动语音通话中
+
+本教程介绍了如何使用Twilio将MP3文件添加到自动语音通话中，以增加个性化效果。首先，需要注册Twilio账户并获取电话号码、授权令牌等基本信息。然后，将MP3文件上传到Twilio Assets，获取文件URL。最后，使用.NET SDK编写代码，实现自动语音通话功能。通过这种方式，可以给自动语音通话增添音乐和音效，提升用户体验。</description>
+    </item>
+  
+    <item>
+      <title>[Math] Calculus: derivatives of x^2 and x^3: visual demonstration</title>
+      <link>https://yurichev.com/n/calculus/</link>
+      <description>本文通过可视化演示了如何通过递增的方式计算x^2和x^3的导数。作者通过在迭代中增加特定的数值来“增长”正方形和立方体，从而避免重新计算平方和立方，这种方法在某些情况下可能更快。文章还提到了如何通过添加平方板和红色线条来“增长”立方体，并解释了这些表达式实际上是x^2和x^3的导数。</description>
+    </item>
+  
+    <item>
       <title>Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail</title>
       <link>https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/</link>
       <description>AWS CloudTrail现在支持监控Amazon S3 Express One Zone的数据事件，包括对象级别的操作和存储桶级别的操作，以帮助用户进行审计和合规性检查，同时降低请求成本。通过CloudTrail，用户可以追踪数据事件，如创建、读取、更新或删除对象，并识别API调用来源，从而提高安全性。</description>
@@ -273,6 +371,12 @@
       <title>PKI certificate metadata in Vault</title>
       <link>https://www.hashicorp.com/blog/pki-certificate-metadata-in-vault</link>
       <description>HashiCorp Vault中的PKI证书元数据允许用户为证书添加自定义属性，如所有者、业务单元和联系信息，以更好地管理和扩展证书。通过1.17版本更新，用户现在可以在证书签名请求中创建和提交自定义元数据，Vault将保留证书及其相关元数据，从而自动化元数据的保留和关联。元数据可以帮助组织监控证书使用情况，确保符合行业法规和内部政策标准。此外，通过角色配置，用户可以创建和管理自定义元数据，这些元数据与证书关联，但不会物理附加到证书上。</description>
+    </item>
+  
+    <item>
+      <title>HCP Packer adds bucket-level RBAC</title>
+      <link>https://www.hashicorp.com/blog/hcp-packer-adds-bucket-level-rbac</link>
+      <description>HCP Packer新增桶级别RBAC功能，允许用户在桶级别定义用户访问权限，从而更细粒度地管理权限，降低安全风险。这一改进使得组织能够保护敏感的金色镜像免受未经授权的修改，同时为开发者提供自助服务能力，提高敏捷性和效率。</description>
     </item>
   
     <item>
