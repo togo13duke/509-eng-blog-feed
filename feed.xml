@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Chinese government is going all-in on autonomous vehicles</title>
+      <link>https://www.technologyreview.com/2024/07/10/1094811/chinese-government-policy-autonomous-vehicles/</link>
+      <description>中国政府对自动驾驶汽车行业大力支持，推动行业发展。特斯拉获得在中国推广全自动驾驶（FSD）功能的批准，政府发放许可测试无人驾驶汽车，并计划在20个城市试点建设智能道路基础设施。中国企业在自动驾驶领域积极应对政府号召，力图在新兴领域占据领先地位。</description>
+    </item>
+  
+    <item>
+      <title>Book Review – Beginning Helidon</title>
+      <link>https://vladmihalcea.com/book-review-beginning-helidon/</link>
+      <description>《Beginning Helidon》是一本针对Java开发者的入门级书籍，介绍了如何使用Helidon框架开发轻量级微服务应用。书中详细讲解了Helidon的两个版本：MP和SE，以及如何使用各种工具和规范，如CLI、Project Starter、MicroProfile Config、Observability、Web服务、数据访问层、故障容忍性、安全性和测试等。作者推荐此书作为学习Helidon的实用指南。</description>
+    </item>
+  
+    <item>
+      <title>A Guide to Fixing Broken Access Control in Your APIs</title>
+      <link>https://nordicapis.com/a-guide-to-fixing-broken-access-control-in-your-apis/</link>
+      <description>本文探讨了API访问控制问题，指出API在当今数字世界中无处不在，但随之而来的是安全威胁，尤其是访问控制问题。文章介绍了OWASP Top 10 API安全风险，并提出了通过API网关、身份验证和授权层来加强API安全的方法。此外，还讨论了OAuth 2.0和OpenID Connect等标准在API认证中的应用，以及如何通过策略执行点（PEP）、策略决策点（PDP）和策略信息点（PIP）架构来实施细粒度授权。</description>
+    </item>
+  
+    <item>
       <title>Introducing the new Traces UI in the Red Hat OpenShift Web Console</title>
       <link>https://developers.redhat.com/articles/2024/07/10/introducing-new-traces-ui-red-hat-openshift-web-console</link>
       <description>Red Hat OpenShift Web Console推出新功能Traces UI，提升用户体验和系统管理效率。</description>
@@ -45,6 +63,12 @@
       <title>Integrate your data and collaborate using data preparation in AWS Glue Studio</title>
       <link>https://aws.amazon.com/blogs/aws/integrate-your-data-and-collaborate-using-data-preparation-in-aws-glue-studio/</link>
       <description>AWS Glue Studio现在提供了一种新的无代码数据准备体验，允许业务用户和数据分析师通过类似电子表格的用户界面在AWS Glue上大规模运行数据集成作业。这种视觉数据准备体验简化了数据清洗和转换过程，支持自动化数据准备任务，并允许与数据工程师协作构建数据集成作业。</description>
+    </item>
+  
+    <item>
+      <title>The benefits of custom internal site search</title>
+      <link>https://algolia.com/blog/product/internal-search/</link>
+      <description>定制内部网站搜索的优势在于提升用户体验和商业效益。通过提供快速、相关且个性化的搜索结果，它帮助用户轻松找到所需信息，减少搜索摩擦，提高转化率。同时，它为商家揭示了客户意图，增强内容可发现性，并助力业务增长。</description>
     </item>
   
     <item>
