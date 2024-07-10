@@ -296,6 +296,48 @@
     </item>
   
     <item>
+      <title>How Orca leverages Search AI to help users gain visibility, achieve compliance, and prioritize risks</title>
+      <link>https://www.elastic.co/blog/orca-search-ai</link>
+      <description>Orca Security利用搜索人工智能技术，帮助用户提高可见性、实现合规性并优先处理风险。通过整合Elasticsearch的高级搜索功能，Orca Security创建了一个智能的、AI驱动的搜索引擎，使用户能够轻松准确地执行复杂的领域特定搜索。这种搜索AI技术简化了任务，加速了修复，并提高了对云环境的理解，从而提升了云安全体验。</description>
+    </item>
+  
+    <item>
+      <title>UK government: Reduce cyber risk by modernising legacy IT</title>
+      <link>https://www.elastic.co/blog/uk-government-reduce-legacy-it-streamline-budget</link>
+      <description>英国政府可以通过以下四步减少遗留IT系统并简化预算：1. 制定全组织统一的数据战略；2. 利用单一数据平台实现多用途工具整合；3. 建立以数据为中心的文化；4. 通过减少许可成本降低技术债务。这些措施有助于提高效率、降低成本并提升政府机构的数据管理能力。</description>
+    </item>
+  
+    <item>
+      <title>Connection avalanche safety tips and prepping for real-time applications</title>
+      <link>https://evilmartians.com/chronicles/connection-avalanche-safety-tips-and-prepping-for-realtime-applications</link>
+      <description>本文探讨了实时应用中常见的“雷鸣群问题”，即大量并发请求导致的系统压力过大。文章分析了问题产生的原因，如服务恢复、名人效应等，并提出了预防措施，包括部署窗口、缓慢推出、退避与抖动、线性化订阅等。通过合理部署和优化客户端行为，可以有效减轻服务器压力，确保实时应用的稳定运行。</description>
+    </item>
+  
+    <item>
+      <title>Testing the EV ecosystem (part one)</title>
+      <link>https://www.thoughtworks.com/insights/blog/compliance/testing-the-EV-ecosystem-part-one</link>
+      <description>Thoughtworks发布了一篇关于电动汽车生态系统测试的文章，强调了标准化充电生态系统的重要性。文章详细介绍了如何测试充电站管理系统（CSMS）的关键通信协议和交互，以确保充电站与用户之间的无缝集成和可靠体验。</description>
+    </item>
+  
+    <item>
+      <title>VisionOS Dev: Taylor's Opinionated and Already-Outdated Guide (2024)</title>
+      <link>https://taylor.town/visionos</link>
+      <description>VisionOS开发指南概述了VisionOS 2.0的框架，包括项目结构、状态管理、视图和沉浸式空间配置。指南强调了基于项目的学习，并提供了关于构建VisionOS应用的基础知识，包括预览、应用状态、视图和沉浸式视图的使用。此外，它还讨论了显示容器、显示内容、实体、感知和手势处理，以及如何使用SwiftUI和RealityKit进行开发。</description>
+    </item>
+  
+    <item>
+      <title>[Russian] Насчет локального поисковика.</title>
+      <link>https://yurichev.com/n/local_search/</link>
+      <description>本文主要讨论了如何使用grep命令进行文本搜索，包括如何搜索特定文件、如何处理搜索结果以及如何使用grep进行更复杂的搜索。文章还提到了在GitHub上搜索相关资源的方法，并讨论了Disqus评论系统中的广告问题。</description>
+    </item>
+  
+    <item>
+      <title>“Transference”</title>
+      <link>https://blog.rinesi.com/2024/07/transference/</link>
+      <description>在《转移》这篇科幻小说中，一位心理治疗师面对一位患有“洛夫克拉夫特综合症”的记者，该症状使记者因AI增强的感知能力而承受着巨大的心理压力。治疗师在帮助记者处理责任感和心理创伤的过程中，反思了记忆与数据、现实与虚拟之间的界限，以及心理治疗在现代社会中的挑战。</description>
+    </item>
+  
+    <item>
       <title>Brush Assets is out!</title>
       <link>https://code.blender.org/2024/07/brush-assets-is-out/</link>
       <description>Blender 4.3版本新增了Brush Assets功能，改善了画笔的可重用性和共享性。用户可以轻松创建、更新和管理画笔资产，并从资产库中快速访问它们。新功能包括统一的画笔工具、资产架和画笔选择弹出窗口，以及将画笔资产保存为特殊文件格式，以防止数据丢失。</description>
@@ -323,6 +365,18 @@
       <title>Node v18.20.4 (LTS)</title>
       <link>https://nodejs.org/en/blog/release/v18.20.4</link>
       <description>Node.js发布18.20.4版本，这是一个安全更新，修复了CVE-2024-36138和CVE-2024-22020等安全问题。提供了多种安装包和二进制文件下载链接，包括Windows、macOS和Linux版本。</description>
+    </item>
+  
+    <item>
+      <title>Laravel Rest Api now supports Laravel Scout</title>
+      <link>https://laravel-news.com/laravel-rest-api-scout</link>
+      <description>Laravel Rest Api最新版本支持Laravel Scout，实现前端全文搜索功能。通过指定“search.text.value”进行搜索，可结合其他Laravel Rest Api特性，如过滤、排序、选择等，提高API管理效率。</description>
+    </item>
+  
+    <item>
+      <title>The president ordered a board to probe a massive Russian cyberattack. It never did.</title>
+      <link>https://arstechnica.com/?p=2035563</link>
+      <description>美国总统下令调查俄罗斯大规模网络攻击，但调查委员会未能履行职责。专家表示，这一失误错失了预防未来攻击的机会。调查委员会未能对SolarWinds事件进行彻底审查，导致微软的安全漏洞未得到解决，从而增加了美国政府和企业的网络安全风险。</description>
     </item>
   
     <item>
@@ -386,6 +440,12 @@
     </item>
   
     <item>
+      <title>Entering text in the terminal is complicated</title>
+      <link>https://jvns.ca/blog/2024/07/08/readline/</link>
+      <description>终端文本输入的复杂性源于不同程序处理文本输入的不一致性。文章探讨了四种主要模式：基础模式、使用readline的工具、使用libedit的工具和自定义输入系统。每种模式都有其特点和局限性，了解这些有助于更好地使用终端。</description>
+    </item>
+  
+    <item>
       <title>Improvements to Runtime Logs</title>
       <link>https://vercel.com/changelog/improvements-to-runtime-logs</link>
       <description>Vercel近日对运行日志进行了改进，增加了查询参数可见性和请求ID过滤功能，提升了日志的过滤和可见性。这些改进对所有Vercel客户开放，旨在帮助开发者更高效地管理和分析请求细节。</description>
@@ -410,6 +470,12 @@
     </item>
   
     <item>
+      <title>The Download: vacation planning with AI, and smaller models</title>
+      <link>https://www.technologyreview.com/2024/07/08/1094742/the-download-vacation-planning-with-ai-and-smaller-models/</link>
+      <description>人工智能在度假规划中的应用正在发展，尽管完全自动化的旅行规划工具尚不成熟，但现有的AI工具可以帮助用户创建行程、预订航班以及提高语言技能，从而简化度假准备过程。</description>
+    </item>
+  
+    <item>
       <title>My Typescript to C# Cheatsheet</title>
       <link>https://spin.atomicobject.com/typescript-c-sharp-cheatsheet/</link>
       <description>本文为TypeScript到C#的速查表，涵盖数组方法、Promise API、可选值处理等，帮助开发者快速了解两种语言之间的对应关系。</description>
@@ -425,6 +491,12 @@
       <title>As the Web Hosting Market Changes, 000webhost Closes</title>
       <link>https://www.hostinger.com/blog/000webhost-closes</link>
       <description>000webhost，由Hostinger运营的免费网站托管品牌，在运营17年后宣布关闭。由于市场变化和用户需求转向功能丰富的托管解决方案，000webhost将于10月14日全面关闭。现有用户可以选择合适的托管计划或下载网站备份，并享受Hostinger提供的优惠。Hostinger提供快速、安全的网站托管服务，包括免费SSL证书、专业电子邮件账户和24/7客户支持团队。</description>
+    </item>
+  
+    <item>
+      <title>How to use AI to plan your next vacation</title>
+      <link>https://www.technologyreview.com/2024/07/08/1094733/how-to-use-ai-to-plan-your-next-vacation/</link>
+      <description>人工智能工具可以帮助规划假期，从选择目的地到预订住宿，再到制定行程和练习语言。例如，大型语言模型（LLMs）如ChatGPT可以根据你的偏好提供目的地建议，而Google Maps的沉浸式视图功能可以帮助你规划城市游。此外，AI聊天机器人可以帮助你比较航班和住宿价格，甚至帮助你练习外语或撰写在线评论。尽管AI工具可能存在误导性，但它们可以大大简化假期规划过程。</description>
     </item>
   
     <item>
