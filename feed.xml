@@ -6,9 +6,75 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs</title>
+      <link>https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/</link>
+      <description>亚马逊Bedrock的Guardrails功能现在可以检测幻觉并保护使用自定义或第三方FM构建的应用程序。它提供了额外的可定制安全措施，包括阻止85%以上的有害内容，并允许客户在单一解决方案中自定义和实施安全、隐私和真实性保护。此外，Guardrails还支持上下文定位检查，以检测模型响应中的幻觉，并引入了ApplyGuardrail API，用于评估所有FMs的输入提示和模型响应，从而实现集中式治理。</description>
+    </item>
+  
+    <item>
+      <title>Knowledge Bases for Amazon Bedrock now supports additional data connectors (in preview)</title>
+      <link>https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-additional-data-connectors-in-preview/</link>
+      <description>亚马逊Bedrock的知识库现在支持额外的数据连接器，包括网站域名、Confluence、Salesforce和SharePoint，以增强检索增强生成（RAG）应用的响应相关性和准确性。这些新连接器允许用户将现有公司数据源添加到RAG应用中，从而提高用户输入响应的全面性和时效性。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Amazon Q Developer in SageMaker Studio to streamline ML workflows</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-amazon-q-developer-in-sagemaker-studio-to-streamline-ml-workflows/</link>
+      <description>Amazon SageMaker Studio新增功能Amazon Q Developer，通过生成式AI助手简化机器学习开发流程。该助手可推荐最佳工具、提供指导、生成代码并协助调试，帮助用户在SageMaker Studio内完成模型构建、训练和部署，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>OpenAI board shakeup: Microsoft out, Apple backs away amid AI partnership scrutiny</title>
+      <link>https://arstechnica.com/?p=2036094</link>
+      <description>OpenAI董事会发生变动，微软退出非投票观察员角色，苹果放弃类似计划。此举因欧盟和美国监管机构对大型科技公司投资AI初创企业的审查加强。OpenAI将定期与合作伙伴和投资者会面，而非通过董事会代表。</description>
+    </item>
+  
+    <item>
+      <title>Interview with Samuel Iseli</title>
+      <link>https://tomassetti.me/interview-with-samuel-iseli/</link>
+      <description>瑞士公司Vertec与Strumenta合作开发SQL转译器，以将业务对象模型和数据库从德语迁移至英语，以拓展国际市场。Vertec的ERP系统高度可配置，拥有数千名瑞士和德国客户。合作过程中，Strumenta迅速解决了几个小问题，确保了转译器的有效性和可靠性。</description>
+    </item>
+  
+    <item>
+      <title>PHP 8.4 Alpha 1 is now out!</title>
+      <link>https://laravel-news.com/php-84-alpha-1</link>
+      <description>PHP 8.4 Alpha 1版本现已发布，预计于2024年11月21日正式发布。目前处于预发布阶段，包括Alpha、Beta和Release Candidates。此版本为测试版，不建议用于生产环境。用户可下载源代码或通过Laravel Herd直接安装。PHP团队鼓励用户测试并报告问题。</description>
+    </item>
+  
+    <item>
+      <title>JWT Access Tokens Profiles, Now in GA</title>
+      <link>https://auth0.com/blog/jwt-access-tokens-profiles-now-in-ga/</link>
+      <description>Auth0现在提供两种访问令牌配置文件：默认的Auth0令牌配置文件和RFC 9068。RFC 9068支持API网关和服务器之间的互操作性，并允许在需要时更改身份提供者。生成RFC 9068兼容的访问令牌与获取任何访问令牌的过程相同。</description>
+    </item>
+  
+    <item>
+      <title>BW #74: UK elections</title>
+      <link>https://www.bambooweekly.com/bw-74-uk-elections/</link>
+      <description>英国近期举行了大选，保守党意外失利，工党赢得多数席位。文章分析了选举的透明度和数据公开的重要性，并介绍了如何使用数据分析工具来研究选举结果。作者还分享了从英国议会图书馆获取的数据，用于进一步分析选举赢家和输家。</description>
+    </item>
+  
+    <item>
+      <title>MiFID II: Data Streaming for Post-Trade Reporting</title>
+      <link>https://www.confluent.io/blog/mifid-II-reporting/</link>
+      <description>MiFID II要求金融机构在规定时间内向监管机构报告交易详情。由于数据量增加和异构数据的存在，这给数据工程团队带来了挑战。数据流技术，如Apache Kafka，可以帮助金融机构实时处理和传输大量数据，以满足MiFID II的合规要求。通过使用Confluent平台，金融机构能够构建一个集成的交易生态系统，确保在规定时间内向监管机构提交符合标准的数据。</description>
+    </item>
+  
+    <item>
       <title>The Perils of Deprecating a Legacy Microservice</title>
       <link>https://medium.com/expedia-group-tech/the-perils-of-deprecating-a-legacy-microservice-febfa3e9f6cc?source=rss----38998a53046f---4</link>
       <description>Expedia集团技术团队在现代化其航班详情栈的过程中，遇到了通过淘汰一个简单的缓存服务带来的挑战。文章描述了将Cassandra直接集成到详情服务中，以及引入Redis缓存以简化Pub/Sub实现和减少供应商调用，从而提高性能和节省成本的过程。这个项目不仅实现了预期目标，还为未来的改进奠定了基础。</description>
+    </item>
+  
+    <item>
+      <title>Cloudflare Zaraz adds support for server-side rendering of X and Instagram embeds</title>
+      <link>https://blog.cloudflare.com/zaraz-supports-server-side-rendering-of-embeds</link>
+      <description>Cloudflare Zaraz新增了对X和Instagram嵌入内容的服务器端渲染支持，通过不加载第三方JavaScript或cookies，提供更安全、隐私保护和性能更优的嵌入方式。该功能允许用户在网站中嵌入社交媒体内容，同时避免传统方法带来的隐私和安全风险。</description>
+    </item>
+  
+    <item>
+      <title>Meta’s approach to machine learning prediction robustness</title>
+      <link>https://engineering.fb.com/2024/07/10/data-infrastructure/machine-learning-ml-prediction-robustness-meta/</link>
+      <description>Meta通过构建一套全面的预测鲁棒性解决方案，确保其机器学习系统的稳定性和可靠性，从而为用户和广告商提供不间断的服务。这些解决方案包括对模型、特征、训练数据、校准和可解释性的全面监控和优化，以减少预测质量问题的发生，并确保机器学习系统在面对数据变化和模型更新时保持稳定。</description>
     </item>
   
     <item>
