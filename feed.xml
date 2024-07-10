@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing the new Traces UI in the Red Hat OpenShift Web Console</title>
+      <link>https://developers.redhat.com/articles/2024/07/10/introducing-new-traces-ui-red-hat-openshift-web-console</link>
+      <description>Red Hat OpenShift Web Console推出新功能Traces UI，提升用户体验和系统管理效率。</description>
+    </item>
+  
+    <item>
+      <title>Improved observability signal correlation for Red Hat OpenShift</title>
+      <link>https://developers.redhat.com/articles/2024/07/10/improved-observability-signal-correlation-red-hat-openshift</link>
+      <description>Red Hat OpenShift的观察性信号相关性得到改进，提升了系统监控和问题诊断能力。</description>
+    </item>
+  
+    <item>
       <title>Asking an LLM to build a simple web tool</title>
       <link>https://eli.thegreenplace.net/2024/asking-an-llm-to-build-a-simple-web-tool/</link>
       <description>Eli Bendersky尝试使用大型语言模型（LLM）构建一个简单的网页工具，以配置和预览阴影设置并复制CSS代码。他发现使用LLM可以快速实现这一功能，尽管结果在布局和空间上仍有改进空间。他强调了LLM在代码生成中的稳定性和准确性，认为这对于代码生成是一个积极的进展。</description>
+    </item>
+  
+    <item>
+      <title>How Canva collects 25 billion events per day</title>
+      <link>https://www.canva.dev/blog/engineering/product-analytics-event-collection/</link>
+      <description>Canva每天收集25亿个事件，通过其产品分析事件交付管道的架构来实现。该平台使用Protobuf语言定义事件架构，并确保架构具有完全的兼容性，以支持长期数据存储和访问。通过使用Kinesis Data Stream（KDS）和压缩技术，Canva优化了数据收集和传输，同时确保高可用性和成本效益。此外，Canva还通过解耦路由器和数据消费者，以及支持多种订阅类型，实现了灵活的事件分发。</description>
     </item>
   
     <item>
