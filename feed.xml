@@ -6,6 +6,42 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Perils of Deprecating a Legacy Microservice</title>
+      <link>https://medium.com/expedia-group-tech/the-perils-of-deprecating-a-legacy-microservice-febfa3e9f6cc?source=rss----38998a53046f---4</link>
+      <description>Expedia集团技术团队在现代化其航班详情栈的过程中，遇到了通过淘汰一个简单的缓存服务带来的挑战。文章描述了将Cassandra直接集成到详情服务中，以及引入Redis缓存以简化Pub/Sub实现和减少供应商调用，从而提高性能和节省成本的过程。这个项目不仅实现了预期目标，还为未来的改进奠定了基础。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Cloudera Observability Premium</title>
+      <link>https://blog.cloudera.com/introducing-cloudera-observability-premium/</link>
+      <description>Cloudera推出Observability Premium，旨在解决数据中心健康优化和云成本管理问题。该服务提供本地和云端数据监控，包括实时监控和自动操作，以及数据温度功能，以优化数据质量和性能。通过这些功能，企业可以减少不必要的开支，提高数据中心的效率。</description>
+    </item>
+  
+    <item>
+      <title>Paige Cofounder Thomas Fuchs’ Diagnosis on Improving Cancer Patient Outcomes With AI</title>
+      <link>https://blogs.nvidia.com/blog/paige-thomas-fuchs/</link>
+      <description>Paige公司联合创始人兼首席科学官托马斯·富克斯在NVIDIA的AI播客中讨论了利用人工智能改善癌症患者预后。他探讨了机器学习和AI在医疗行业中的应用，以及如何通过技术提高诊断的精确性和护理水平。</description>
+    </item>
+  
+    <item>
+      <title>Mission NIMpossible: Decoding the Microservices That Accelerate Generative AI</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-nim/</link>
+      <description>NVIDIA的NIM微服务简化了生成式AI的部署，通过提供预训练模型和运行时组件的容器，使开发者能够轻松地将AI功能集成到应用程序中。这些微服务支持本地和云部署，优化了资源利用和系统性能，同时允许独立扩展和优化各个服务，加快了开发过程并提高了代码质量。NVIDIA NIM还支持在本地工作站上运行大型语言模型，如Meta Llama 3 8B，为开发者提供了更多灵活性和控制权。</description>
+    </item>
+  
+    <item>
+      <title>Generics Added to Eloquent Builder in Laravel 11.15</title>
+      <link>https://laravel-news.com/laravel-11-15-0</link>
+      <description>Laravel 11.15版本更新包括对Eloquent Builder和关系的泛型支持，改进了make:mail命令，增加了对SQLite数据库迁移的支持，以及多个其他功能和修复。</description>
+    </item>
+  
+    <item>
+      <title>The Download: defining AI, and China’s driverless ambitions</title>
+      <link>https://www.technologyreview.com/2024/07/10/1094823/the-download-defining-ai-and-chinas-driverless-ambitions/</link>
+      <description>本文探讨了人工智能（AI）的定义及其对经济、就业和教育的影响。文章指出，中国政府对自动驾驶汽车行业的全力支持，以及特斯拉在中国推出全自动驾驶功能。同时，还提到了微软和苹果退出OpenAI董事会，以及亚马逊在可再生能源方面的进展。</description>
+    </item>
+  
+    <item>
       <title>Software Developers, Have a Feature? Resist This Urge</title>
       <link>https://spin.atomicobject.com/feature-work/</link>
       <description>软件开发者应避免过度具体化功能工作，而是应从宏观角度出发，明确功能需求，同时保持技术实现的灵活性。例如，在添加信用卡支付功能时，应关注用户界面、验证、安全性和与后端系统的集成等方面，而不是过早地指定技术细节。这种方法有助于避免忽视用户偏好和法规要求，从而提高开发效率和适应性。</description>
@@ -15,6 +51,12 @@
       <title>Optimizing the picking process to enable faster deliveries for Instamart</title>
       <link>https://bytes.swiggy.com/optimizing-the-picking-process-to-enable-faster-deliveries-for-instamart-93de0fe9d819?source=rss----9556560f659---4</link>
       <description>Instamart通过优化拣选流程，提高高峰时段的配送效率。通过批量拣选相似商品，减少拣选时间，并优化配送路线，确保即使在高峰时段也能快速配送，提升客户满意度。</description>
+    </item>
+  
+    <item>
+      <title>How disinformation from a Russian AI spam farm ended up on top of Google search results</title>
+      <link>https://arstechnica.com/?p=2035995</link>
+      <description>一篇关于乌克兰总统泽连斯基妻子购买Bugatti汽车的虚假新闻在互联网上迅速传播，成为热门话题和Google搜索结果中的头条。该新闻起源于一个与俄罗斯政府有关联的网站网络，该网络利用AI生成和传播虚假信息。这一事件突显了恶意行为者如何轻易地破坏人们对在线信息的信任。</description>
     </item>
   
     <item>
