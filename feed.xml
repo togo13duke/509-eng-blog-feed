@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Software Developers, Have a Feature? Resist This Urge</title>
+      <link>https://spin.atomicobject.com/feature-work/</link>
+      <description>软件开发者应避免过度具体化功能工作，而是应从宏观角度出发，明确功能需求，同时保持技术实现的灵活性。例如，在添加信用卡支付功能时，应关注用户界面、验证、安全性和与后端系统的集成等方面，而不是过早地指定技术细节。这种方法有助于避免忽视用户偏好和法规要求，从而提高开发效率和适应性。</description>
+    </item>
+  
+    <item>
+      <title>Optimizing the picking process to enable faster deliveries for Instamart</title>
+      <link>https://bytes.swiggy.com/optimizing-the-picking-process-to-enable-faster-deliveries-for-instamart-93de0fe9d819?source=rss----9556560f659---4</link>
+      <description>Instamart通过优化拣选流程，提高高峰时段的配送效率。通过批量拣选相似商品，减少拣选时间，并优化配送路线，确保即使在高峰时段也能快速配送，提升客户满意度。</description>
+    </item>
+  
+    <item>
+      <title>Housetraining robot dogs: How generative AI might change consumer IoT</title>
+      <link>https://www.technologyreview.com/2024/07/10/1094477/housetraining-robot-dogs-how-generative-ai-might-change-consumer-iot/</link>
+      <description>生成式人工智能（Generative AI）的兴起与硬件和网络技术的创新相结合，有望推动物联网（IoT）消费产品的增长。物联网不再仅仅是大量设备的集合，而是一个庞大的技术生态系统，包括物理设备、数据生成、网络通信技术和软件应用。这种技术变革正在推动智能家居控制、可穿戴设备和虚拟现实游戏等多个领域的应用发展。</description>
+    </item>
+  
+    <item>
+      <title>Behind the Scenes: a Fireside Chat on Inclusion and Women in Tech at Babbel</title>
+      <link>https://www.babbel.com/en/magazine/behind-the-scenes-a-fireside-chat-on-inclusion-and-women-in-tech-at-babbel</link>
+      <description>Babbel举办了一场关于包容性和女性在科技领域的圆桌讨论，旨在促进开放和诚实的讨论，为所有声音提供一个安全的空间，并加深对Babbel内部挑战和经验的理解。活动通过匿名问卷收集了参与者的个人经历，并邀请了不同背景和职级的演讲者分享观点。参与者对活动给予了高度评价，认为它对提高包容性和促进对话非常有用。</description>
+    </item>
+  
+    <item>
       <title>The Chinese government is going all-in on autonomous vehicles</title>
       <link>https://www.technologyreview.com/2024/07/10/1094811/chinese-government-policy-autonomous-vehicles/</link>
       <description>中国政府对自动驾驶汽车行业大力支持，推动行业发展。特斯拉获得在中国推广全自动驾驶（FSD）功能的批准，政府发放许可测试无人驾驶汽车，并计划在20个城市试点建设智能道路基础设施。中国企业在自动驾驶领域积极应对政府号召，力图在新兴领域占据领先地位。</description>
@@ -15,6 +39,12 @@
       <title>Book Review – Beginning Helidon</title>
       <link>https://vladmihalcea.com/book-review-beginning-helidon/</link>
       <description>《Beginning Helidon》是一本针对Java开发者的入门级书籍，介绍了如何使用Helidon框架开发轻量级微服务应用。书中详细讲解了Helidon的两个版本：MP和SE，以及如何使用各种工具和规范，如CLI、Project Starter、MicroProfile Config、Observability、Web服务、数据访问层、故障容忍性、安全性和测试等。作者推荐此书作为学习Helidon的实用指南。</description>
+    </item>
+  
+    <item>
+      <title>What is AI?</title>
+      <link>https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/</link>
+      <description>人工智能是当今最热门的技术，但对其定义和潜力存在广泛争议。尽管AI在各个领域都有应用，但对其本质和道德责任的讨论仍然激烈。从大型语言模型到通用人工智能，AI的未来充满不确定性，需要更深入的探讨和共识。</description>
     </item>
   
     <item>
@@ -33,6 +63,18 @@
       <title>Improved observability signal correlation for Red Hat OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/07/10/improved-observability-signal-correlation-red-hat-openshift</link>
       <description>Red Hat OpenShift的观察性信号相关性得到改进，提升了系统监控和问题诊断能力。</description>
+    </item>
+  
+    <item>
+      <title>eBay Seller Capital and Liberis Partner to Accelerate Small Business Growth</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-seller-capital-and-liberis-partner-to-accelerate-small-business-growth/</link>
+      <description>eBay与Liberis合作推出基于收入的融资产品，旨在加速小企业增长。该产品为符合条件的美国eBay卖家提供高达100万美元的流动资金，申请过程简单快捷，资金通常在12-24小时内到账，支付灵活，有助于卖家更好地管理资金和业务增长。</description>
+    </item>
+  
+    <item>
+      <title>Best of…: Classic WTF: Python Charmer</title>
+      <link>https://thedailywtf.com/articles/classic-wtf-python-charmer</link>
+      <description>Jakob分享了一段Python代码，用于生成密码，但代码结构复杂且存在冗余。他对此表示担忧，并幽默地评论道：“我只希望这门语言没有goto语句。”</description>
     </item>
   
     <item>
