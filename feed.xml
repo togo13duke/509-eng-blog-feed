@@ -6,6 +6,54 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Asking an LLM to build a simple web tool</title>
+      <link>https://eli.thegreenplace.net/2024/asking-an-llm-to-build-a-simple-web-tool/</link>
+      <description>Eli Bendersky尝试使用大型语言模型（LLM）构建一个简单的网页工具，以配置和预览阴影设置并复制CSS代码。他发现使用LLM可以快速实现这一功能，尽管结果在布局和空间上仍有改进空间。他强调了LLM在代码生成中的稳定性和准确性，认为这对于代码生成是一个积极的进展。</description>
+    </item>
+  
+    <item>
+      <title>Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail</title>
+      <link>https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/</link>
+      <description>AWS CloudTrail现在支持监控Amazon S3 Express One Zone的数据事件，包括对象级别的操作和存储桶级别的操作，以帮助用户进行审计和合规性检查，同时降低请求成本。通过CloudTrail，用户可以追踪数据事件，如创建、读取、更新或删除对象，并识别API调用来源，从而提高安全性。</description>
+    </item>
+  
+    <item>
+      <title>Top Announcements of the AWS Summit in New York, 2024</title>
+      <link>https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2024-2/</link>
+      <description>2024年纽约AWS峰会将带来一系列最新发布和技术创新，包括AWS Glue Studio的新可视化界面，使数据团队能够协作构建ETL管道。注册观看主旨演讲，获取所有精彩产品新闻。</description>
+    </item>
+  
+    <item>
+      <title>Integrate your data and collaborate using data preparation in AWS Glue Studio</title>
+      <link>https://aws.amazon.com/blogs/aws/integrate-your-data-and-collaborate-using-data-preparation-in-aws-glue-studio/</link>
+      <description>AWS Glue Studio现在提供了一种新的无代码数据准备体验，允许业务用户和数据分析师通过类似电子表格的用户界面在AWS Glue上大规模运行数据集成作业。这种视觉数据准备体验简化了数据清洗和转换过程，支持自动化数据准备任务，并允许与数据工程师协作构建数据集成作业。</description>
+    </item>
+  
+    <item>
+      <title>AWS Graviton4-based Amazon EC2 R8g instances: best price performance in Amazon EC2</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/</link>
+      <description>AWS宣布推出基于Graviton4处理器的Amazon EC2 R8g实例，提供最佳性价比。这些实例性能比前代产品提升30%，适用于高性能数据库、内存缓存和实时大数据分析。R8g实例提供更大的实例规模，更高的内存带宽和缓存，以及更快的网络和EBS带宽。这些实例适用于所有基于Linux的工作负载，包括容器化和微服务应用。</description>
+    </item>
+  
+    <item>
+      <title>Exploring the challenges in creating an accessible sortable list (drag-and-drop)</title>
+      <link>https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/</link>
+      <description>GitHub团队在开发可访问的拖放排序列表时面临了挑战，包括屏幕阅读器的使用、键盘导航、鼠标事件模拟、快速移动的公告、新用户模式和语音控制。通过使用角色属性、分离键盘和鼠标功能、调整公告延迟和使用对话框，团队解决了这些问题，提高了拖放功能的可访问性。</description>
+    </item>
+  
+    <item>
+      <title>New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere</title>
+      <link>https://arstechnica.com/?p=2035809</link>
+      <description>新的Blast-RADIUS攻击破坏了广泛使用的RADIUS协议，该协议基于MD5认证，存在安全漏洞，可能使攻击者控制包括工业控制器、电信服务和企业网络在内的各种环境。尽管存在MD5的已知弱点，RADIUS协议仍未更新以移除MD5，导致新的攻击风险。</description>
+    </item>
+  
+    <item>
+      <title>Lessons from election night</title>
+      <link>https://codeblog.jonskeet.uk/2024/07/09/lessons-from-election-night/</link>
+      <description>在2024年7月4日的英国大选中，博主Jon Skeet通过自己的选举网站学习到了宝贵的经验。网站在处理实时数据和用户交互方面表现出色，但也遇到了一些技术挑战，如数据输入错误和网站短暂中断。尽管如此，Skeet对整个项目感到满意，并计划在未来的版本中改进数据管理和错误处理，以提高网站的性能和可靠性。</description>
+    </item>
+  
+    <item>
       <title>C# 13: Explore the latest preview features</title>
       <link>https://devblogs.microsoft.com/dotnet/csharp-13-explore-preview-features/</link>
       <description>C# 13引入了多项新特性，包括扩展params集合以支持更多类型、改进lock对象使用、索引操作符在初始化器中的应用、新的转义序列、部分属性、方法组自然类型改进、允许ref struct作为泛型类型参数以及支持在异步方法和迭代器中使用ref和unsafe。这些更新旨在提高灵活性和性能，并使C#编程更加高效。</description>
@@ -18,9 +66,69 @@
     </item>
   
     <item>
+      <title>Reducing Hallucinations with the Ontology in Palantir AIP</title>
+      <link>https://blog.palantir.com/reducing-hallucinations-with-the-ontology-in-palantir-aip-288552477383?source=rss----3c87dc14372f---4</link>
+      <description>Palantir AIP通过将大型语言模型（LLM）与组织的数据和逻辑相结合，有效减少了AI生成中的幻觉问题。通过查询可信数据、利用逻辑工具以及人工审查，Palantir AIP帮助确保AI生成的文本和决策更加准确和可靠。</description>
+    </item>
+  
+    <item>
+      <title>Widescreen Wonder: Las Vegas Sphere Delivers Dazzling Displays</title>
+      <link>https://blogs.nvidia.com/blog/sphere-las-vegas/</link>
+      <description>NVIDIA的技术支持使得拉斯维加斯的Sphere成为全球最大的LED屏幕之一，提供沉浸式视觉体验。Sphere利用NVIDIA的GPU和DPUs，实现高分辨率视频流和精确同步，为观众带来前所未有的视听盛宴。Sphere Studios则致力于开发原创的沉浸式娱乐内容，使用先进的技术和设备，如Big Sky相机系统和NVIDIA A40 GPU，打造独特的娱乐体验。</description>
+    </item>
+  
+    <item>
+      <title>PKI certificate metadata in Vault</title>
+      <link>https://www.hashicorp.com/blog/pki-certificate-metadata-in-vault</link>
+      <description>HashiCorp Vault中的PKI证书元数据允许用户为证书添加自定义属性，如所有者、业务单元和联系信息，以更好地管理和扩展证书。通过1.17版本更新，用户现在可以在证书签名请求中创建和提交自定义元数据，Vault将保留证书及其相关元数据，从而自动化元数据的保留和关联。元数据可以帮助组织监控证书使用情况，确保符合行业法规和内部政策标准。此外，通过角色配置，用户可以创建和管理自定义元数据，这些元数据与证书关联，但不会物理附加到证书上。</description>
+    </item>
+  
+    <item>
+      <title>Python in Visual Studio Code – July 2024 Release</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2024-release/</link>
+      <description>Visual Studio Code的2024年7月发布版为Python和Jupyter扩展带来了多项更新，包括增强的环境发现工具、对reStructuredText文档字符串的改进支持以及社区贡献的Pixi环境检测。此外，还添加了智能发送、pytest参数化测试和测试发现等新功能，以提高Python和Jupyter在VS Code中的使用体验。</description>
+    </item>
+  
+    <item>
+      <title>Enhanced Column Selection DSL in Kotlin DataFrame</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/</link>
+      <description>Kotlin DataFrame库增强了列选择领域特定语言（DSL），简化了从结构化数据中提取值的过程。新功能包括改进的语法和新的函数，允许用户通过索引、条件或类型选择多个列，甚至可以处理嵌套数据。此外，还提供了辅助函数来简化常见场景，如按类型选择列或按名称过滤列。这些改进使得DataFrame库在处理复杂数据时更加灵活和高效。</description>
+    </item>
+  
+    <item>
+      <title>Use Data Cloud Event Monitoring for Security, Performance, and Adoption</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/use-data-cloud-event-monitoring-for-security-performance-and-adoption.html</link>
+      <description>本文介绍了Salesforce Shield套件中的Shield Event Monitoring功能，它帮助客户进行数据安全、性能监控和用户采用度分析。通过近80种事件类型和详细的数据，用户可以监控关键业务数据，理解用户在应用程序中的采用情况，并优化应用性能。文章还讨论了如何使用事件监控来观察和监控数据云，包括实时事件监控和事件日志文件，以及如何将事件监控与第三方系统集成。</description>
+    </item>
+  
+    <item>
+      <title>Strong Customer Authentication Explained</title>
+      <link>https://auth0.com/blog/strong-customer-authentication-explained/</link>
+      <description>强客户认证（SCA）是一种提高敏感交易安全性的机制，起源于金融服务业，现被广泛应用于欧盟的在线和接触式支付中。SCA要求使用多因素认证，包括知识、拥有和内在因素，并要求用户在授权前了解支付金额和收款人。本文介绍了SCA的组成部分、实施方法和Auth0如何帮助实现SCA。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Global Load Balancer: Scale your HTTP traffic globally</title>
+      <link>https://www.digitalocean.com/blog/announcing-global-load-balancer-beta</link>
+      <description>DigitalOcean推出全球负载均衡器Beta版，旨在提高应用在全球范围内的弹性。该解决方案可基于地理位置平衡HTTP请求，避免单点故障，减少用户延迟，并增强安全性和合规性。设置简单，定价透明，适用于中小企业。</description>
+    </item>
+  
+    <item>
+      <title>Creating an Animated Displaced Sphere with a Custom Three.js Material</title>
+      <link>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</link>
+      <description>本教程介绍了如何使用Three.js和React Three Fiber创建一个动画位移球体。通过自定义着色器和Shader，作者详细讲解了如何修改内置材质、位移网格顶点、处理光照以及修复阴影问题。教程适合对React和Three.js有一定了解的开发者。</description>
+    </item>
+  
+    <item>
       <title>Creating an already-completed asynchonous activity in C++/WinRT, part 1</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240709-00/?p=109961</link>
       <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者Raymond Chen解释了如何使用co_return和抛出异常来处理已知结果的异步方法，并讨论了如何避免错误地返回非协程函数。</description>
+    </item>
+  
+    <item>
+      <title>Customize VS Code Settings</title>
+      <link>https://realpython.com/courses/customize-vscode-settings/</link>
+      <description>学习如何自定义VS Code设置，以优化Python开发环境。通过调整用户设置、创建配置文件、清理界面等，提高工作效率和代码可读性。课程包含15个视频教程，涵盖从基础到高级的设置调整技巧。</description>
     </item>
   
     <item>
@@ -36,6 +144,18 @@
     </item>
   
     <item>
+      <title>OpenID Connect (OIDC) Federation now available in Beta</title>
+      <link>https://vercel.com/changelog/oidc-federation-now-available-in-beta</link>
+      <description>Vercel现在推出OpenID Connect (OIDC) Federation的Beta版本，通过使用短期RSA签名JWT替换长期环境变量凭证，增强外部请求的安全性。用户可以利用Vercel的OIDC身份提供者（IdP）为云服务提供商如AWS、Azure、GCP等发行持久令牌，并在项目中启用OIDC以实现与第三方服务的集成。</description>
+    </item>
+  
+    <item>
+      <title>The Download: planning a honeymoon with AI, and deepfakes in 2024</title>
+      <link>https://www.technologyreview.com/2024/07/09/1094779/the-download-planning-a-honeymoon-with-ai-and-deepfakes-in-2024/</link>
+      <description>人工智能在2024年帮助计划蜜月，深度伪造技术引发担忧。文章探讨了如何利用AI规划旅行，并分析了深度伪造技术的滥用风险。同时，报道了中国自动驾驶汽车在美国行驶、汽油的持久性以及欧洲挑战SpaceX的最新火箭等科技新闻。</description>
+    </item>
+  
+    <item>
       <title>RADIUS/UDP vulnerable to improved MD5 collision attack</title>
       <link>https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack</link>
       <description>RADIUS/UDP协议易受改进的MD5碰撞攻击影响，攻击者可利用此漏洞未经授权访问网络设备。该攻击通过中间人攻击，利用MD5的弱点，将拒绝访问的响应篡改为允许访问的响应，从而控制网络流量。网络运营商应采取措施加强RADIUS部署的安全性。</description>
@@ -48,15 +168,39 @@
     </item>
   
     <item>
+      <title>Quiz: Split Your Dataset With scikit-learn's train_test_split()</title>
+      <link>https://realpython.com/quizzes/train-test-split-python-data/</link>
+      <description>本篇文章介绍了如何使用scikit-learn库中的train_test_split()函数来分割数据集，以进行机器学习模型的训练和测试。文章通过一个包含7个问题的互动测验，帮助读者复习数据集分割的重要性、如何进行分割以及如何与预测方法结合使用。</description>
+    </item>
+  
+    <item>
       <title>The Curious case of Eco Saver</title>
       <link>https://bytes.swiggy.com/the-curious-case-of-eco-saver-5e2cf80730d7?source=rss----9556560f659---4</link>
       <description>Swiggy推出Eco-Saver配送选项，鼓励用户选择更环保的配送方式，以减少碳足迹。通过将附近订单分组，Swiggy减少了行程次数和燃料消耗，同时提高了配送效率和配送伙伴的收入。此举已使Swiggy减少超过300吨的CO2排放，相当于种植了超过10,000棵树。</description>
     </item>
   
     <item>
+      <title>A short primer on SPF, DKIM and DMARC</title>
+      <link>https://akrabat.com/email-setup/</link>
+      <description>本文介绍了SPF、DKIM和DMARC三种DNS记录，用于保护电子邮件不被伪造。SPF限制允许发送邮件的服务器，DKIM验证邮件来源，DMARC则处理验证失败的情况，如隔离或拒绝邮件。通过这些设置，可以确保邮件安全，防止垃圾邮件和欺诈。</description>
+    </item>
+  
+    <item>
+      <title>Can AI help me plan my honeymoon?</title>
+      <link>https://www.technologyreview.com/2024/07/09/1094774/can-ai-help-me-plan-my-honeymoon/</link>
+      <description>人工智能在规划蜜月旅行方面展现出潜力，但当前技术仍存在局限性。作者通过使用ChatGPT规划日本和菲律宾的行程，发现AI在推荐不熟悉的地点和活动方面表现良好，但在了解的地点如东京则建议较为明显。AI缺乏对体验的理解和规划能力，如建议花费一整天拍照，且推荐的住宿超出预算。未来，随着AI技术的发展，AI代理有望提供更全面的服务，包括预订航班、酒店和餐厅，并记住个人偏好。</description>
+    </item>
+  
+    <item>
       <title>Goodbye Passwords ? Intégrez les Passkeys avec Auth0 et Keycloak</title>
       <link>https://blog.octo.com/octo-article-de-blog-7</link>
       <description>本文探讨了使用Auth0和Keycloak实现Passkeys（密码替代技术）的集成。文章首先介绍了Passkeys的基本原理和优势，随后详细说明了如何在Auth0和Keycloak中配置和使用Passkeys进行用户认证。通过这两个服务，用户可以无需密码即可安全地登录，提高了用户体验和安全性。</description>
+    </item>
+  
+    <item>
+      <title>How to Enable Unattended Upgrades on Ubuntu/Debian</title>
+      <link>https://linuxblog.io/how-to-enable-unattended-upgrades-on-ubuntu-debian/</link>
+      <description>如何在Ubuntu/Debian上启用无人值守升级，以自动安装更新包和安全更新，从而提高服务器安全性并节省管理员时间。通过配置unattended-upgrades包，可以自动更新安全补丁，减少漏洞窗口，并确保服务器环境的一致性和稳定性。</description>
     </item>
   
     <item>
@@ -110,9 +254,21 @@
     </item>
   
     <item>
+      <title>Manage Roles and Permissions in Filament with Hex Lite</title>
+      <link>https://laravel-news.com/filament-hexa-lite</link>
+      <description>Filament Hexa Lite插件简化了Filament的角色和权限管理，提供专用的管理界面，支持编辑角色、定义资源和动作权限，并验证访问权限。通过GitHub可获取详细安装说明和源代码。</description>
+    </item>
+  
+    <item>
       <title>Ruby 3.3.4 Released</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/09/ruby-3-3-4-released/</link>
       <description>Ruby 3.3.4版本发布，修复了3.3.3版本中依赖项缺失的问题，并允许Bundler在Heroku等平台上成功安装相关gem。其他更改主要是小错误修复。未来，Ruby 3.3系列每两个月将发布一个新版本，预计3.3.5将于9月3日发布。</description>
+    </item>
+  
+    <item>
+      <title>Rockset Migration + Replacement: ConveYour</title>
+      <link>https://www.singlestore.com/blog/rockset-migration-replacement-conveyour</link>
+      <description>SingleStore收购Rockset后，许多客户寻求替代方案。ConveYour选择SingleStore进行迁移，因其低延迟、高性能和全面支持。SingleStore提供实时数据层，支持快速访问和操作大量数据，满足现代智能应用的需求。</description>
     </item>
   
     <item>
@@ -131,6 +287,12 @@
       <title>Launching MacTreasure.com</title>
       <link>https://www.amitmerchant.com/mac-treasure-com/</link>
       <description>Amit Merchant宣布推出新项目MacTreasure.com，一个专注于展示不为人知的Mac应用的博客。他计划尝试新应用并撰写简明扼要的评论，旨在建立一个Mac社区可以找到优质应用的宝库。</description>
+    </item>
+  
+    <item>
+      <title>Elastic and Google Cloud: Enhancing security analytics from data ingestion to incident response</title>
+      <link>https://www.elastic.co/blog/elastic-google-cloud-security-data-ingestion-incident-response</link>
+      <description>Elastic与Google Cloud合作，推出全面的安全解决方案，整合Elastic搜索AI平台和Google Cloud的云基础设施服务，提供高效的安全平台。该平台涵盖从威胁情报到事件响应的全面安全分析，简化混合环境的安全管理，增强保护能力，并利用先进的人工智能技术，如Elastic AI助手和攻击发现功能，提高安全分析师的效率和响应速度。</description>
     </item>
   
     <item>
