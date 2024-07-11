@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Argonaut: Part Seven.</title>
+      <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-seven/</link>
+      <description>Argonaut是REA集团微前端平台，负责大部分realestate.com.au的流量。文章探讨了Argonaut的未来发展，包括减少微前端运营开销、提高性能和可访问性、扩大平台采用范围、增强平台弹性以及重新思考微前端边界，以支持更细粒度的微前端，从而提高产品交付效率。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Argonaut: Part Six.</title>
+      <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-six/</link>
+      <description>本文介绍了Argonaut微前端平台的发展历程，探讨了其成功之处和存在的问题。Argonaut旨在解决开发者在构建产品时遇到的难题，如开发速度慢、维护成本高、视觉一致性难以实现等。平台注重开发者体验，提供清晰的文档和及时的支持，同时保持与公司品牌的清晰分离。然而，平台与微前端团队之间缺乏服务等级协议，平台团队成为代码的实际拥有者，以及平台团队与产品团队的工作节奏不同等问题也影响了其发展。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Argonaut – Part Five.</title>
+      <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-five/</link>
+      <description>本文探讨了Argonaut微前端平台在应对系统故障时的挑战，包括确保租户应用代码的隔离、防止资源饥饿（噪声邻居问题）和避免租户崩溃连锁反应（毒丸问题）。为了解决这些问题，Argonaut采用了专用虚拟环境和分片架构，以实现更高级别的隔离和容错能力。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Argonaut – Part Four</title>
+      <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-four/</link>
+      <description>Argonaut平台第四篇介绍文章探讨了开发者体验（DX）的重要性，包括如何识别和改进DX问题。文章强调，良好的DX能提升开发效率，减少认知负荷，并带来长期收益，如提高开发满意度、缩短开发周期。Argonaut通过提供运行时平台、CLI工具和常用功能，简化开发流程，提升开发者体验。</description>
+    </item>
+  
+    <item>
       <title>Flesh Out Your Conference Talk Idea Using a Rubric</title>
       <link>https://thoughtbot.com/blog/flesh-out-your-conference-talk-idea-using-a-rubric</link>
       <description>使用评分标准完善您的会议演讲想法，通过一系列问题帮助您细化演讲主题、明确主要观点、确定目标受众和演讲风格，从而生成可用于会议提案的内容。</description>
