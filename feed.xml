@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Building Pinterest Canvas, a text-to-image foundation model</title>
+      <link>https://medium.com/pinterest-engineering/building-pinterest-canvas-a-text-to-image-foundation-model-aa34965e84d9?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest推出了一种名为Pinterest Canvas的文本到图像基础模型，用于增强平台上的现有图像和产品。该模型通过结合产品掩码和风格指导图像，支持任意条件信息，并经过精心训练以生成高质量、引人入胜的图像。Pinterest Canvas利用先进的扩散模型和视觉嵌入技术，能够根据文本描述生成与产品相匹配的背景，为用户提供个性化的视觉体验。</description>
+    </item>
+  
+    <item>
+      <title>Threat actors exploited Windows 0-day for more than a year before Microsoft fixed it</title>
+      <link>https://arstechnica.com/?p=2036304</link>
+      <description>黑客利用Windows系统漏洞进行攻击超过一年，微软才修复该漏洞。攻击者通过恶意代码诱导用户运行恶意软件，漏洞存在于Windows 10和11中，导致设备打开已停用的Internet Explorer浏览器。微软在2024年7月修复了该漏洞。</description>
+    </item>
+  
+    <item>
       <title>Taming the tail utilization of ads inference at Meta scale</title>
       <link>https://engineering.fb.com/2024/07/10/production-engineering/tail-utilization-ads-inference-meta/</link>
       <description>Meta通过优化广告推理服务的尾利用率，显著提高了计算资源利用率和系统可靠性。通过改进负载均衡机制和系统级变更，Meta将超时错误率降低了三分之二，计算资源效率提升了35%，并将p99延迟减半。这些优化使得系统在无需额外资源的情况下，能够吸收高达35%的负载增长。</description>
@@ -311,6 +323,12 @@
       <title>Some tricks from the Scrapscript compiler</title>
       <link>https://bernsteinbear.com/blog/scrapscript-tricks/?utm_source=rss</link>
       <description>Scrapscript编译器通过优化技巧提高了性能，包括将小整数和字符串编码在指针中，以及引入即时变体和常量堆。这些改进减少了内存分配，并加快了模式匹配速度。编译器还支持常量闭包，进一步优化了数据结构。</description>
+    </item>
+  
+    <item>
+      <title>Embracing individuality in a culture of innovation</title>
+      <link>https://www.elastic.co/blog/culture-embracing-individuality-in-a-culture-of-innovation</link>
+      <description>在创新文化中拥抱个性：Jamie Yoo在Elastic的经历展示了如何在多元文化环境中庆祝个人背景，这促进了创新和团队协作。她分享了自己作为双语人士和母亲的独特经历，如何在Elastic的“如你所是”文化中找到归属感，并强调了在保持进步的同时平衡完美主义的重要性。</description>
     </item>
   
     <item>
