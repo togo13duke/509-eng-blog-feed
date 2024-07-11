@@ -6,24 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Japan Enhances AI Sovereignty With Advanced ABCI 3.0 Supercomputer</title>
-      <link>https://blogs.nvidia.com/blog/abci-aist/</link>
-      <description>日本国家先进工业科学技术研究所（AIST）将利用由惠普企业（HPE）构建并由数千个NVIDIA H200 GPU和NVIDIA Quantum-2 InfiniBand驱动的先进ABCI 3.0超级计算机，增强其AI主权和研究开发能力，以推动日本在人工智能领域的全球竞争力。</description>
-    </item>
-  
-    <item>
-      <title>Here’s the problem with new plastic recycling methods</title>
-      <link>https://www.technologyreview.com/2024/07/11/1094844/plastic-reycling-problem/</link>
-      <description>新塑料回收方法面临挑战：尽管新技术理论上吸引人，但实际回收率低，且大规模实施困难。传统回收需要精确分类，而新方法如化学回收在处理混合材料时效果有限，且存在成本高、材料降解等问题。目前，大多数新回收方法仍处于研发阶段，难以在大规模上有效回收材料。</description>
-    </item>
-  
-    <item>
-      <title>Searching an aerial photo with text queries – a demo and how it works</title>
-      <link>https://blog.rtwilson.com/searching-an-aerial-photo-with-text-queries-a-demo-and-how-it-works/</link>
-      <description>我创建了一个演示网站，用户可以使用文本查询（如“环岛”、“网球场”或“船只”）搜索南安普顿的航拍照片。该网站利用向量嵌入技术，通过将文本和图像转换为向量来匹配搜索结果。这种方法基于SkyCLIP模型，该模型在图像-文本对上进行训练，能够生成相似内容的相似向量。用户可以通过前端界面在Leaflet地图上查看搜索结果。</description>
-    </item>
-  
-    <item>
       <title>Streamlining Menu Browsing with OCR Text Recognition</title>
       <link>https://bytes.swiggy.com/streamlining-menu-browsing-with-ocr-text-recognition-71e89f5bda28?source=rss----9556560f659---4</link>
       <description>Swiggy Dineout利用OCR技术简化了菜单浏览，通过VisionKit框架实现离线文本识别，用户可快速搜索并定位到心仪菜品，提升用餐体验。</description>
@@ -33,12 +15,6 @@
       <title>AI’s Glaring Problem: API Security</title>
       <link>https://nordicapis.com/ais-glaring-problem-api-security/</link>
       <description>AI的快速发展带来了API安全风险。AI使用API进行数据交换，而API数量激增，许多是公开的，增加了攻击面。AI API可能面临各种安全威胁，如注入攻击、认证绕过等。开发者需要重视API安全，采用多层次的网络安全策略，并确保AI工具的安全。</description>
-    </item>
-  
-    <item>
-      <title>MySQL replication between VMs in OpenShift through external network</title>
-      <link>https://developers.redhat.com/articles/2024/07/11/mysql-replication-between-vms-openshift-through-external-network</link>
-      <description>MySQL在OpenShift中通过外部网络在虚拟机之间进行复制。</description>
     </item>
   
     <item>
@@ -75,12 +51,6 @@
       <title>Flesh Out Your Conference Talk Idea Using a Rubric</title>
       <link>https://thoughtbot.com/blog/flesh-out-your-conference-talk-idea-using-a-rubric</link>
       <description>使用评分标准完善您的会议演讲想法，通过一系列问题帮助您细化演讲主题、明确主要观点、确定目标受众和演讲风格，从而生成可用于会议提案的内容。</description>
-    </item>
-  
-    <item>
-      <title>My notes on "The Trough of Despair"</title>
-      <link>https://advancedweb.hu/shorts/my-notes-on-the-trough-of-despair/</link>
-      <description>软件设计过程中，设计师需预见理想状态并设计曲线，以应对现实挑战。文章强调，软件设计往往先经历恶化阶段，设计师需在要求变化时调整架构，以适应未来需求。避免局部最优解，勇于尝试和犯错，是软件设计成功的关键。</description>
     </item>
   
     <item>
@@ -297,12 +267,6 @@
       <title>Software Developers, Have a Feature? Resist This Urge</title>
       <link>https://spin.atomicobject.com/feature-work/</link>
       <description>软件开发者应避免过度具体化功能工作，而是应从宏观角度出发，明确功能需求，同时保持技术实现的灵活性。例如，在添加信用卡支付功能时，应关注用户界面、验证、安全性和与后端系统的集成等方面，而不是过早地指定技术细节。这种方法有助于避免忽视用户偏好和法规要求，从而提高开发效率和适应性。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Choosing the Best Font for Programming</title>
-      <link>https://realpython.com/quizzes/coding-fonts/</link>
-      <description>选择编程的最佳字体，通过12个问题的互动测验来测试你对如何选择适合日常编程的字体理解。测验将涵盖选择编程字体时需要考虑的技术细节和特性，帮助你刷新识别高质量编码字体的知识。</description>
     </item>
   
     <item>
