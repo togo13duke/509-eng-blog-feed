@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Solving the data security challenge for AI builders</title>
+      <link>https://www.hashicorp.com/blog/solving-the-data-security-challenge-for-ai-builders</link>
+      <description>本文探讨了人工智能构建者面临的数据安全问题，并展示了如何使用HashiCorp Vault和Pinecone来保护基于大型语言模型（LLM）的应用程序的数据完整性。文章强调了生成式AI聊天机器人如ChatGPT、Google的Gemini和Microsoft的Copilot的潜在风险，以及如何通过集成Vault来加密和管理工作流程中的敏感数据，从而增强RAG系统的安全性。</description>
+    </item>
+  
+    <item>
       <title>EEVEE Next Generation in Blender 4.2 LTS</title>
       <link>https://code.blender.org/2024/07/eevee-next-generation-in-blender-4-2-lts/</link>
       <description>Blender 4.2 LTS版本中，EEVEE Next项目实现了对Blender视口系统的重大升级，旨在提升渲染性能和视觉质量。新系统支持更广泛的照明和阴影效果，引入了新的全局光照系统和无限灯光功能，并优化了体积渲染和运动模糊。尽管存在兼容性问题，但该项目为未来交互式光照管道奠定了基础，并预计将带来更高效的渲染和着色器编译。</description>
