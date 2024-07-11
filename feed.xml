@@ -6,78 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Robot-packed meals are coming to the frozen-food aisle</title>
-      <link>https://www.technologyreview.com/2024/07/11/1094850/robot-packed-meals-are-coming-to-the-frozen-food-aisle/</link>
-      <description>人工智能驱动的机器人正在改变冷冻食品的包装方式。美国初创公司Chef Robotics开发了一套AI机器人手臂系统，能够根据食谱快速编程，准确分配各种菜肴的分量。这些机器人在Amy's Kitchen等品牌的生产线上证明了其价值，并正在扩展到更多生产设施。Chef Robotics采用服务模式，客户支付年费以覆盖维护和培训。这些机器人不仅提高了效率，还减少了浪费，预计将在未来几年内得到更广泛的应用。</description>
-    </item>
-  
-    <item>
-      <title>Intuit’s AI gamble: Mass layoff of 1,800 paired with hiring spree</title>
-      <link>https://arstechnica.com/?p=2036383</link>
-      <description>Intuit宣布裁员1800人，同时计划招聘同等数量的新员工，以支持其AI战略。CEO Sasan Goodarzi强调AI的重要性，并表示此举是为了将资源集中于关键领域，推动增长。裁员涉及多个部门，包括关闭加拿大和爱达荷州的办公室。公司还计划加速投资AI驱动的财务助手Intuit Assist，并招聘更多AI专家。</description>
-    </item>
-  
-    <item>
-      <title>Improve Your Productivity with Salesforce Inspector Reloaded</title>
-      <link>https://developer.salesforce.com/blogs/2024/07/improve-your-productivity-with-salesforce-inspector-reloaded.html</link>
-      <description>Salesforce Inspector Reloaded是一个开源的Chrome扩展，旨在提高Salesforce开发者的工作效率。它提供快速访问数据导入/导出、API请求、设置快捷方式和元数据搜索等功能，无需切换到其他外部工具。该扩展基于原始的Salesforce Inspector，由社区维护，并已帮助开发者节省大量时间。</description>
-    </item>
-  
-    <item>
-      <title>Palantir’s Response to OMB on Responsible Procurement of AI in Government</title>
-      <link>https://blog.palantir.com/palantirs-response-to-omb-on-responsible-procurement-of-ai-in-government-39c390cedd30?source=rss----3c87dc14372f---4</link>
-      <description>Palantir在回应美国管理预算办公室（OMB）关于负责任采购人工智能的请求时，强调了政府应考虑的几个关键原则，包括对特定用例进行评估、验证软件功能、从行业供应商采购软件和AI解决方案、奖励最佳实践等。Palantir还提出了关于促进竞争、标准化评估、性能采购、数据权利保护、测试和评估责任以及合同条款的建议，以确保负责任地采购和部署人工智能。</description>
-    </item>
-  
-    <item>
-      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240711-00/?p=109965</link>
-      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法，并扩展到四种Windows Runtime异步活动类型。作者Raymond Chen展示了如何使用模板和协程技术实现这一目标，并提供了示例代码。</description>
-    </item>
-  
-    <item>
-      <title>Bringing AI-powered answers and summaries to file previews on the web</title>
-      <link>https://dropbox.tech/machine-learning/bringing-ai-powered-answers-and-summaries-to-file-previews-on-the-web</link>
-      <description>Dropbox利用人工智能技术，通过机器学习理解文件内容，提供文件预览时的摘要和问答功能。该功能利用大型语言模型分析文件内容，生成文本摘要和回答用户问题。此外，Dropbox还扩展了这一功能，使其能够同时处理多个文件，帮助用户更高效地获取所需信息。</description>
-    </item>
-  
-    <item>
-      <title>How to Redirect Uppercase URLs to Lowercase with Laravel Middleware</title>
-      <link>https://laravel-news.com/redirect-uppercase-urls-to-lowercase</link>
-      <description>本文介绍了如何使用Laravel中间件将大写URL重定向到小写，以优化SEO。作者通过代码示例展示了如何实现这一功能，并解释了如何将其注册到Laravel应用中。此外，还提到了排除某些路由以避免影响敏感的URL。</description>
-    </item>
-  
-    <item>
-      <title>The Download: automating warehouse tasks, and problems with recycling plastics</title>
-      <link>https://www.technologyreview.com/2024/07/11/1094856/the-download-automating-warehouse-tasks-and-problems-with-recycling-plastics/</link>
-      <description>人工智能自动化仓库任务，提高效率；新型塑料回收方法面临挑战，回收率低。</description>
-    </item>
-  
-    <item>
-      <title>Application Security report: 2024 update</title>
-      <link>https://blog.cloudflare.com/application-security-report-2024-update</link>
-      <description>2024年，互联网安全形势发生重大变化。恶意流量活动显著增加，DDoS攻击和针对CVE的攻击成为主要威胁。Cloudflare报告显示，全球网络中平均有7%的流量被缓解，其中WAF和Bot缓解占一半以上。API流量增长，60%的流量与API相关，但许多组织未对其API端点进行适当管理。此外，Cloudflare网络处理能力增强，每天平均处理57亿个HTTP请求，并成功阻止了2090亿次网络威胁。</description>
-    </item>
-  
-    <item>
-      <title>‘Once Human,’ Twice the Thrills on GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-once-human/</link>
-      <description>本周，GeForce NOW新增了三款游戏，其中包括由Starry Studio开发的生存游戏《Once Human》。玩家将进入一个由宇宙能量改造的人类后末日世界，作为元人类，在充满污染的新奇开放世界中生存，挑战收集资源、建造避难所和对抗人类与怪物威胁。此外，还有《Anger Foot》等新游戏加入。</description>
-    </item>
-  
-    <item>
-      <title>How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers</title>
-      <link>https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/</link>
-      <description>Hugging Face模型数量超过70万，但部署复杂。Ollama和Testcontainers简化了模型部署，通过Ollama容器运行模型，Testcontainers提供易于使用的API。开发者可使用Hugging Face模型，通过自定义容器进行定制化设置，实现程序化访问和可重复配置，提高AI开发效率。</description>
-    </item>
-  
-    <item>
-      <title>AI is poised to automate today’s most mundane manual warehouse task</title>
-      <link>https://www.technologyreview.com/2024/07/11/1094829/ai-is-poised-to-automate-todays-most-mundane-manual-warehouse-task/</link>
-      <description>人工智能技术正加速自动化仓库中最枯燥的手动任务，如货盘堆叠。加州大学伯克利分校的初创公司Jacobi Robotics开发了一种基于AI的软件，能够快速训练机器人进行货盘堆叠，大幅缩短编程时间，提高效率。该软件利用深度学习生成机器人动作的初步方案，并通过传统机器人技术进行优化，确保动作安全无故障。</description>
-    </item>
-  
-    <item>
       <title>The Bugs They Missed – Finding Bugs in Production</title>
       <link>https://spin.atomicobject.com/bugs-production/</link>
       <description>在软件开发过程中，客户在产品发布后发现的bug往往揭示了测试过程中的不足。文章指出，客户可能会使用产品以意想不到的方式，但他们会错过已经修复的已知bug。通过分析历史数据，如二战中轰炸机弹孔分布，作者强调了关注未被发现的漏洞的重要性。文章建议，当客户在生产环境中发现新bug时，应将其视为改进测试流程的机会，并确保测试环境与生产环境相匹配，同时考虑用户的不同使用习惯和设备。</description>
@@ -99,12 +27,6 @@
       <title>Searching an aerial photo with text queries – a demo and how it works</title>
       <link>https://blog.rtwilson.com/searching-an-aerial-photo-with-text-queries-a-demo-and-how-it-works/</link>
       <description>我创建了一个演示网站，用户可以使用文本查询（如“环岛”、“网球场”或“船只”）搜索南安普顿的航拍照片。该网站利用向量嵌入技术，通过将文本和图像转换为向量来匹配搜索结果。这种方法基于SkyCLIP模型，该模型在图像-文本对上进行训练，能够生成相似内容的相似向量。用户可以通过前端界面在Leaflet地图上查看搜索结果。</description>
-    </item>
-  
-    <item>
-      <title>Social Media Outsourcing: How to Streamline Your Social Strategy</title>
-      <link>https://s14415.pcdn.co/blog/social-media-outsourcing/</link>
-      <description>社交媒体外包可帮助中小企业提升品牌影响力，节省时间和成本。通过专业团队或个人管理社交媒体，企业可专注于核心业务，同时保持内容质量和品牌一致性。选择合适的合作伙伴，明确目标，并定期沟通，以确保外包效果。</description>
     </item>
   
     <item>
@@ -141,12 +63,6 @@
       <title>Best of…: Classic WTF: Cluster#$%&amp;</title>
       <link>https://thedailywtf.com/articles/classic-wtf-cluster</link>
       <description>马克·鲍威茨在《The Daily WTF》上分享了一个关于集群系统故障的真实故事。故事讲述了马西莫在凌晨4点被紧急叫醒，因为意大利一家电视台的VoD服务出现了问题。他发现，由于软件设计缺陷，两个服务器在连接丢失后无法正确处理，导致它们互相竞争资源，陷入无限循环。尽管马西莫多次尝试解释问题根源在于软件而非他的管理，但最终他不得不亲自进入服务器室手动解决问题。</description>
-    </item>
-  
-    <item>
-      <title>BW #74: UK elections (solution)</title>
-      <link>https://www.bambooweekly.com/bw-74-uk-elections-solution-2/</link>
-      <description>本周分析了英国议会选举数据，探讨了各政党在各个地区的得票情况。结果显示，工党在多数地区获胜，而保守党则在部分地区失利。</description>
     </item>
   
     <item>
@@ -189,36 +105,6 @@
       <title>My notes on "The Trough of Despair"</title>
       <link>https://advancedweb.hu/shorts/my-notes-on-the-trough-of-despair/</link>
       <description>软件设计过程中，设计师需预见理想状态并设计曲线，以应对现实挑战。文章强调，软件设计往往先经历恶化阶段，设计师需在要求变化时调整架构，以适应未来需求。避免局部最优解，勇于尝试和犯错，是软件设计成功的关键。</description>
-    </item>
-  
-    <item>
-      <title>Exploring AI's game-changing role in customer engagement</title>
-      <link>https://www.twilio.com/en-us/blog/exploring-ai-game-changing-role-in-customer-engagement</link>
-      <description>人工智能在客户互动中的变革性作用正在推动个性化客户体验的新时代。研究表明，企业正利用AI来定制内容和营销，以提升客户满意度。通过数据工具和AI的整合，企业可以改善客户体验，提高忠诚度和保留率。然而，数据隐私和安全问题是企业面临的主要挑战。通过投资合适的数据和通信平台，企业可以更好地利用AI，同时减轻数据隐私风险，从而提升客户互动并增强业务成果。</description>
-    </item>
-  
-    <item>
-      <title>3 ways engagement leaders are closing the customer expectation gap</title>
-      <link>https://www.twilio.com/en-us/blog/3-ways-engagement-leaders-closing-customer-expectation-gap</link>
-      <description>Twilio的2024年客户参与度报告揭示了企业提供的客户参与度与消费者期望之间的差距。报告显示，虽然84%的企业认为他们提供了“良好”或“优秀”的客户参与度，但只有54%的消费者同意。为了缩小这一差距，企业可以采取以下三种策略：1）激活客户数据，通过CDP集中数据，建立全面的客户视图；2）整合AI工具，利用AI进行个性化内容和营销；3）提高个性化，55%的消费者愿意为个性化体验支付更多。</description>
-    </item>
-  
-    <item>
-      <title>Elastic Stack 8.14.3 released</title>
-      <link>https://www.elastic.co/blog/elastic-stack-8-14-3-released</link>
-      <description>Elastic Stack 8.14.3版本发布，推荐用户升级以获得性能改进和修复。此版本解决了apm-server的性能回归问题，并改进了Enterprise Search节点自动缩放逻辑。详细问题和变更请参阅发布说明。</description>
-    </item>
-  
-    <item>
-      <title>Using Generics in Laravel Eloquent</title>
-      <link>https://www.amitmerchant.com/using-generics-in-laravel-eloquent/</link>
-      <description>本文探讨了在Laravel Eloquent中使用泛型编程的特性。泛型提供了类型安全、更好的IDE支持和代码可读性，有助于减少运行时错误。通过PHPStan等工具，Laravel Eloquent模型可以定义泛型，从而在关系方法中指定模型类型，提高代码的健壮性和可维护性。</description>
-    </item>
-  
-    <item>
-      <title>Driven by problem solving and data, Liran Agami built her career in generative AI</title>
-      <link>https://www.elastic.co/blog/culture-problem-solving-skills-gen-ai</link>
-      <description>Liran Agami，Elastic公司软件工程高级经理，致力于生成式AI领域。她领导团队致力于提升搜索相关性，使开发者能够轻松集成强大的搜索功能。Agami强调，她的团队致力于使搜索与生成式AI易于使用，不仅针对高级用例，还便于集成到工作流程中。她分享了自己在技术行业的经验，鼓励女性不要被工作描述所吓倒，勇敢申请，并在工作中积极提问和提出想法。</description>
     </item>
   
     <item>
