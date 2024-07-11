@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>EEVEE Next Generation in Blender 4.2 LTS</title>
+      <link>https://code.blender.org/2024/07/eevee-next-generation-in-blender-4-2-lts/</link>
+      <description>Blender 4.2 LTS版本中，EEVEE Next项目实现了对Blender视口系统的重大升级，旨在提升渲染性能和视觉质量。新系统支持更广泛的照明和阴影效果，引入了新的全局光照系统和无限灯光功能，并优化了体积渲染和运动模糊。尽管存在兼容性问题，但该项目为未来交互式光照管道奠定了基础，并预计将带来更高效的渲染和着色器编译。</description>
+    </item>
+  
+    <item>
+      <title>Why and How to Execute GraphQL Queries in .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/</link>
+      <description>本文介绍了在.NET中使用GraphQL查询API的方法。通过使用Strawberry Shake GraphQL客户端，可以减少网络数据传输量，提高性能。文章详细说明了如何创建一个控制台应用程序，使用Strawberry Shake工具生成客户端代码，并执行GraphQL查询。此外，还展示了如何在项目中添加新的查询，并使用生成的客户端进行数据检索。</description>
+    </item>
+  
+    <item>
+      <title>Euro 2024’s impact on Internet traffic: a closer look at finalists Spain and England</title>
+      <link>https://blog.cloudflare.com/euro-2024s-impact-on-internet-traffic-a-closer-look-at-finalists-spain-and-england</link>
+      <description>2024年欧洲杯对互联网流量产生了显著影响，尤其是在决赛队伍西班牙和英格兰的比赛期间。分析显示，比赛中的关键时刻，如最后时刻进球、加时赛或点球大战，会导致互联网流量大幅下降。西班牙在对阵传统足球强国如意大利、德国和法国的比赛中，互联网流量下降最为明显，而英格兰在淘汰赛阶段的比赛则出现了最大的流量减少。</description>
+    </item>
+  
+    <item>
+      <title>New Research: Try this ritual to spark joy at work</title>
+      <link>https://www.atlassian.com/blog/teamwork/chief-vibes-officer-experiment</link>
+      <description>研究发现，团队间的乐趣可以提高工作效率和满意度。Atlassian的“首席氛围官”实验通过非工作相关的主题讨论，促进了团队成员之间的连接和快乐。该实验表明，当超过50%的团队成员参与时，这种仪式可以增强团队连接，并使团队成员更容易互相帮助。</description>
+    </item>
+  
+    <item>
+      <title>Building a Full-Stack Application With Kafka and Node.js</title>
+      <link>https://www.confluent.io/blog/building-full-stack-app-with-kafka-and-nodejs/</link>
+      <description>本文介绍了如何使用confluent-kafka-javascript客户端构建一个全栈应用程序，该应用程序通过Kafka和Node.js技术实现投票计数功能。文章详细解释了如何设置环境、生产者与消费者之间的消息传递，以及如何在用户界面中展示投票结果。此外，还讨论了如何从KafkaJS和node-rdkafka迁移到confluent-kafka-javascript客户端，并提供了相关资源供读者进一步学习。</description>
+    </item>
+  
+    <item>
       <title>Robot-packed meals are coming to the frozen-food aisle</title>
       <link>https://www.technologyreview.com/2024/07/11/1094850/robot-packed-meals-are-coming-to-the-frozen-food-aisle/</link>
       <description>人工智能驱动的机器人正在改变冷冻食品的包装方式。美国初创公司Chef Robotics开发了一套AI机器人手臂系统，能够根据食谱快速编程，准确分配各种菜肴的分量。这些机器人在Amy's Kitchen等品牌的生产线上证明了其价值，并正在扩展到更多生产设施。Chef Robotics采用服务模式，客户支付年费以覆盖维护和培训。这些机器人不仅提高了效率，还减少了浪费，预计将在未来几年内得到更广泛的应用。</description>
