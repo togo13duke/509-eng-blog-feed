@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Bugs They Missed – Finding Bugs in Production</title>
+      <link>https://spin.atomicobject.com/bugs-production/</link>
+      <description>在软件开发过程中，客户在产品发布后发现的bug往往揭示了测试过程中的不足。文章指出，客户可能会使用产品以意想不到的方式，但他们会错过已经修复的已知bug。通过分析历史数据，如二战中轰炸机弹孔分布，作者强调了关注未被发现的漏洞的重要性。文章建议，当客户在生产环境中发现新bug时，应将其视为改进测试流程的机会，并确保测试环境与生产环境相匹配，同时考虑用户的不同使用习惯和设备。</description>
+    </item>
+  
+    <item>
       <title>Japan Enhances AI Sovereignty With Advanced ABCI 3.0 Supercomputer</title>
       <link>https://blogs.nvidia.com/blog/abci-aist/</link>
       <description>日本国家先进工业科学技术研究所（AIST）将利用由惠普企业（HPE）构建并由数千个NVIDIA H200 GPU和NVIDIA Quantum-2 InfiniBand驱动的先进ABCI 3.0超级计算机，增强其AI主权和研究开发能力，以推动日本在人工智能领域的全球竞争力。</description>
@@ -21,6 +27,12 @@
       <title>Searching an aerial photo with text queries – a demo and how it works</title>
       <link>https://blog.rtwilson.com/searching-an-aerial-photo-with-text-queries-a-demo-and-how-it-works/</link>
       <description>我创建了一个演示网站，用户可以使用文本查询（如“环岛”、“网球场”或“船只”）搜索南安普顿的航拍照片。该网站利用向量嵌入技术，通过将文本和图像转换为向量来匹配搜索结果。这种方法基于SkyCLIP模型，该模型在图像-文本对上进行训练，能够生成相似内容的相似向量。用户可以通过前端界面在Leaflet地图上查看搜索结果。</description>
+    </item>
+  
+    <item>
+      <title>5 Social Media News Stories You Need to Read Right Now</title>
+      <link>https://s14415.pcdn.co/blog/5-social-media-news-stories-you-need-to-read-this-week/</link>
+      <description>本周社交媒体新闻摘要：Instagram测试不可跳过的视频广告；TikTok推出创意AI套件“Symphony”和营销工具空间“TikTok One”；X考虑将“赞”功能设为私密；YouTube向所有用户扩展免费游戏库；TikTok推出音乐艺术家特色视频功能。</description>
     </item>
   
     <item>
@@ -48,6 +60,12 @@
     </item>
   
     <item>
+      <title>Best of…: Classic WTF: Cluster#$%&amp;</title>
+      <link>https://thedailywtf.com/articles/classic-wtf-cluster</link>
+      <description>马克·鲍威茨在《The Daily WTF》上分享了一个关于集群系统故障的真实故事。故事讲述了马西莫在凌晨4点被紧急叫醒，因为意大利一家电视台的VoD服务出现了问题。他发现，由于软件设计缺陷，两个服务器在连接丢失后无法正确处理，导致它们互相竞争资源，陷入无限循环。尽管马西莫多次尝试解释问题根源在于软件而非他的管理，但最终他不得不亲自进入服务器室手动解决问题。</description>
+    </item>
+  
+    <item>
       <title>Introducing Argonaut: Part Seven.</title>
       <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-seven/</link>
       <description>Argonaut是REA集团微前端平台，负责大部分realestate.com.au的流量。文章探讨了Argonaut的未来发展，包括减少微前端运营开销、提高性能和可访问性、扩大平台采用范围、增强平台弹性以及重新思考微前端边界，以支持更细粒度的微前端，从而提高产品交付效率。</description>
@@ -69,6 +87,12 @@
       <title>Introducing Argonaut – Part Four</title>
       <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-four/</link>
       <description>Argonaut平台第四篇介绍文章探讨了开发者体验（DX）的重要性，包括如何识别和改进DX问题。文章强调，良好的DX能提升开发效率，减少认知负荷，并带来长期收益，如提高开发满意度、缩短开发周期。Argonaut通过提供运行时平台、CLI工具和常用功能，简化开发流程，提升开发者体验。</description>
+    </item>
+  
+    <item>
+      <title>A World Tour Of Athletics: The Most Popular Sports By Country</title>
+      <link>https://www.babbel.com/en/magazine/most-popular-sports-by-country</link>
+      <description>全球各地最受欢迎的体育运动各有不同。足球在大多数国家是最受欢迎的运动，但在一些国家，如阿富汗、巴布亚新几内亚和斐济，板球和橄榄球更为流行。美国则以美式足球为主，而爱尔兰则以盖尔式足球为主。这些运动反映了各国的文化特色和体育传统。</description>
     </item>
   
     <item>
@@ -997,6 +1021,12 @@
       <title>Why TDD and Pair Programming are the perfect companions for Copilot</title>
       <link>https://www.thoughtworks.com/insights/blog/generative-ai/tdd-and-pair-programming-the-perfect-companions-for-copilot</link>
       <description>TDD和结对编程是GitHub Copilot的完美伴侣，因为Copilot虽然能提高开发效率和代码质量，但也可能产生不符合预期的代码。通过实践，我们发现TDD和结对编程能有效减少AI产生的错误代码，帮助开发者更专注于实现决策，确保代码质量。</description>
+    </item>
+  
+    <item>
+      <title>Streamlining GraphQL Service Testing with Karate</title>
+      <link>https://tech.trivago.com/post/2024-07-08-streamlining-graphql-service-testing-with-karate/</link>
+      <description>trivago通过采用Karate框架和Docker技术，优化了GraphQL服务的测试流程。这种方法简化了测试编写，提高了测试的可读性和可维护性，并支持并行测试，从而加快了测试执行速度。通过结合Karate的灵活性和Docker的容器化，trivago实现了更可靠和高效的部署策略，确保了服务质量和开发效率。</description>
     </item>
   
     </channel>
