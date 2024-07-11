@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Streamlining Menu Browsing with OCR Text Recognition</title>
+      <link>https://bytes.swiggy.com/streamlining-menu-browsing-with-ocr-text-recognition-71e89f5bda28?source=rss----9556560f659---4</link>
+      <description>Swiggy Dineout利用OCR技术简化了菜单浏览，通过VisionKit框架实现离线文本识别，用户可快速搜索并定位到心仪菜品，提升用餐体验。</description>
+    </item>
+  
+    <item>
+      <title>AI’s Glaring Problem: API Security</title>
+      <link>https://nordicapis.com/ais-glaring-problem-api-security/</link>
+      <description>AI的快速发展带来了API安全风险。AI使用API进行数据交换，而API数量激增，许多是公开的，增加了攻击面。AI API可能面临各种安全威胁，如注入攻击、认证绕过等。开发者需要重视API安全，采用多层次的网络安全策略，并确保AI工具的安全。</description>
+    </item>
+  
+    <item>
+      <title>My notes from CVPR 2024</title>
+      <link>https://medium.com/criteo-engineering/my-notes-from-cvpr-2024-66bf7f575319?source=rss----fc3ea5a64a12---4</link>
+      <description>CVPR 2024是计算机视觉领域的顶级会议，汇集了众多专家讨论最新研究。Criteo在会议上发表了关于高效学习大量3D资产的研究，并展示了在扩散模型、多模态学习、3D技术和基础模型等方面的最新进展。这些研究有望推动人工智能在广告和视觉应用领域的创新。</description>
+    </item>
+  
+    <item>
       <title>Introducing Argonaut: Part Seven.</title>
       <link>https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-seven/</link>
       <description>Argonaut是REA集团微前端平台，负责大部分realestate.com.au的流量。文章探讨了Argonaut的未来发展，包括减少微前端运营开销、提高性能和可访问性、扩大平台采用范围、增强平台弹性以及重新思考微前端边界，以支持更细粒度的微前端，从而提高产品交付效率。</description>
