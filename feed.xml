@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Advancing responsible practices for open source AI</title>
-      <link>https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/</link>
-      <description>GitHub与人工智能伙伴关系组织（PAI）共同发布了一份关于开源AI风险缓解策略的报告，旨在指导开发者、托管者、适配者和AI服务提供者。报告基于GitHub与PAI共同举办的研讨会，强调了开源AI价值链中负责任实践的重要性，并提供了对AI系统创建中角色和责任分布的清晰理解。</description>
-    </item>
-  
-    <item>
-      <title>Exim vulnerability affecting 1.5 million servers lets attackers attach malicious files</title>
-      <link>https://arstechnica.com/?p=2036607</link>
-      <description>Exim邮件传输代理的一个严重漏洞影响超过150万台服务器，允许攻击者向用户账户发送恶意文件。该漏洞（CVE-2024-39929）评级为9.1/10，攻击者可利用它绕过附件保护，发送可执行文件。尽管目前没有已知攻击，但鉴于攻击的简便性和大量易受攻击的服务器，未来可能会有针对性的攻击。管理员应优先更新到最新版本以防止攻击。</description>
-    </item>
-  
-    <item>
       <title>Solving the data security challenge for AI builders</title>
       <link>https://www.hashicorp.com/blog/solving-the-data-security-challenge-for-ai-builders</link>
       <description>本文探讨了人工智能构建者面临的数据安全问题，并展示了如何使用HashiCorp Vault和Pinecone来保护基于大型语言模型（LLM）的应用程序的数据完整性。文章强调了生成式AI聊天机器人如ChatGPT、Google的Gemini和Microsoft的Copilot的潜在风险，以及如何通过集成Vault来加密和管理工作流程中的敏感数据，从而增强RAG系统的安全性。</description>
@@ -555,12 +543,6 @@
       <title>eBay Seller Capital and Liberis Partner to Accelerate Small Business Growth</title>
       <link>https://www.ebayinc.com/stories/news/ebay-seller-capital-and-liberis-partner-to-accelerate-small-business-growth/</link>
       <description>eBay与Liberis合作推出基于收入的融资产品，旨在加速小企业增长。该产品为符合条件的美国eBay卖家提供高达100万美元的流动资金，申请过程简单快捷，资金通常在12-24小时内到账，支付灵活，有助于卖家更好地管理资金和业务增长。</description>
-    </item>
-  
-    <item>
-      <title>Where does eBay do most of its AI development? You might be surprised</title>
-      <link>https://siliconangle.com/2024/07/10/ebay-ai-development-might-surprised/</link>
-      <description>eBay在人工智能开发方面主要在其自有数据中心进行，以符合客户隐私和合规性标准，并加快市场投放速度。公司拥有强大的工程团队和服务器硬件制造能力，采用定制的AI堆栈和HPC基础设施，以支持大规模的AI训练工作。eBay的AI应用包括生成式列表功能和个性化推荐，以及用于客户服务的AI工具。</description>
     </item>
   
     <item>
