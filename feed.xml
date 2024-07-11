@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Flesh Out Your Conference Talk Idea Using a Rubric</title>
+      <link>https://thoughtbot.com/blog/flesh-out-your-conference-talk-idea-using-a-rubric</link>
+      <description>使用评分标准完善您的会议演讲想法，通过一系列问题帮助您细化演讲主题、明确主要观点、确定目标受众和演讲风格，从而生成可用于会议提案的内容。</description>
+    </item>
+  
+    <item>
       <title>Building Pinterest Canvas, a text-to-image foundation model</title>
       <link>https://medium.com/pinterest-engineering/building-pinterest-canvas-a-text-to-image-foundation-model-aa34965e84d9?source=rss-ef81ef829bcb------2</link>
       <description>Pinterest推出了一种名为Pinterest Canvas的文本到图像基础模型，用于增强平台上的现有图像和产品。该模型通过结合产品掩码和风格指导图像，支持任意条件信息，并经过精心训练以生成高质量、引人入胜的图像。Pinterest Canvas利用先进的扩散模型和视觉嵌入技术，能够根据文本描述生成与产品相匹配的背景，为用户提供个性化的视觉体验。</description>
