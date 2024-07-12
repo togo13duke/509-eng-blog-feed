@@ -6,51 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>The fraudulent nature of university research</title>
-      <link>https://medium.com/@jpolak/the-fraudulent-nature-of-university-research-65f950a7cc6d?source=rss-f2f00cd05fc0------2</link>
-      <description>学术研究被商业利益所驱使，导致研究方向偏离了真正的科学好奇心和人类需求。大学为了吸引学生和资金，过度强调量化产出，导致研究变得狭隘和低效，忽视了教育的真正目的。这种模式不仅抑制了人类的创造力，还使科学成为一种自我维持的机制，而非为了改善生活。</description>
-    </item>
-  
-    <item>
-      <title>5 Million Google Clicks 🤩</title>
-      <link>https://catonmat.net/5-million-google-clicks</link>
-      <description>上个月，在线PNG工具的Google点击量突破400万，今天已超过500万！欢迎尝试并查看更多相关工具。</description>
-    </item>
-  
-    <item>
-      <title>FreeBSD Announces Major Changes to Release Schedule and Support Duration</title>
-      <link>https://linuxiac.com/freebsd-announces-major-changes/</link>
-      <description>FreeBSD将缩短支持周期，从五年缩短至四年，并增加更频繁的发布频率，以更好地管理稳定分支和安全团队的工作。新计划包括每季度从支持稳定分支中发布一个新版本，简化发布流程，并提高整体稳定性和安全性。</description>
-    </item>
-  
-    <item>
-      <title>Mile-High AI: NVIDIA Research to Present Advancements in Simulation and Gen AI at SIGGRAPH</title>
-      <link>https://blogs.nvidia.com/blog/siggraph-2024-ai-graphics-research/</link>
-      <description>NVIDIA在SIGGRAPH 2024上展示了其在渲染、模拟和生成式AI方面的最新进展。研究重点包括改进合成数据生成器和反向渲染工具，以训练下一代模型，并提升图像质量和3D世界的3D表示。此外，还展示了基于物理的模拟技术，如用于模拟复杂人类动作的SuperPADL项目，以及用于加速流体模拟的新技术。NVIDIA的研究成果将有助于开发者生成复杂的虚拟对象和环境，并应用于故事讲述、科学研究和机器人训练等领域。</description>
-    </item>
-  
-    <item>
-      <title>How Alexri Amplifies Tech Innovation as a Customer Marketing Manager</title>
-      <link>https://www.confluent.io/blog/tech-innovation-customer-marketing/</link>
-      <description>Alexri Patel-Sigmon，作为Confluent的客户营销经理，负责讲述客户的故事，推动数据流技术的创新和应用。她在Confluent的工作经历中，不仅提升了技术知识和领导能力，还促进了个人和职业成长。她期待在Confluent继续发展，深化对Kafka和流数据技术的理解，并致力于推动公司的创新和卓越文化。</description>
-    </item>
-  
-    <item>
-      <title>The Download: robot-packed meals, and the looming fertility crisis</title>
-      <link>https://www.technologyreview.com/2024/07/12/1094889/the-download-robot-packed-meals-and-the-looming-fertility-crisis/</link>
-      <description>人工智能技术正推动机器人组装的预制餐进入冷冻食品市场，Chef Robotics公司利用AI驱动的机械臂实现精确配餐。同时，全球生育率下降，仅依赖IVF无法解决即将到来的生育危机。</description>
-    </item>
-  
-    <item>
       <title>Saying “No” is a Powerful Tool</title>
       <link>https://spin.atomicobject.com/saying-no-is-powerful/</link>
       <description>说“不”是一种强大的工具。随着职业生涯的发展，我们应认识到自己的专业知识是价值所在。在完成任务时，我们应评估各种想法，避免不必要的风险和浪费。在团队和项目管理中，学会说“不”可以帮助我们避免低效工作，提高项目质量，并最终促进个人和公司的发展。</description>
-    </item>
-  
-    <item>
-      <title>The Real Python Podcast – Episode #212: Digging Into Graph Theory in Python With David Amos</title>
-      <link>https://realpython.com/podcasts/rpp/212/</link>
-      <description>David Amos在Real Python播客中探讨了Python中的图论，分享了他对图论的热情以及如何使用Python库进行探索。他讨论了从Julia语言中学习的新技术，以及这些技术如何增强Python编程。</description>
     </item>
   
     <item>
@@ -63,12 +21,6 @@
       <title>KDE Frameworks 6.4.0 Rolls Out, Here’s What’s New</title>
       <link>https://linuxiac.com/kde-frameworks-6-4-0-released/</link>
       <description>KDE发布最新框架6.4.0，带来功能升级、新特性和关键修复。更新包括文件跟踪优化、Baloo文件索引和搜索框架改进、蓝牙音频支持增强、图标更新、构建系统改进、稳定性增强等。开发者可通过Linux发行版的包管理器安装，或下载源代码进行手动安装。</description>
-    </item>
-  
-    <item>
-      <title>Ensuring Data Sovereignty: Jio Haptik Completes SAR Audit for Data-localization</title>
-      <link>https://www.haptik.ai/tech/sar-for-data-localization</link>
-      <description>Jio Haptik完成数据本地化审计，确保数据主权。此举符合印度政府对关键数据存储在本国的要求，以保护个人隐私和加强国家网络安全。Haptik通过加强IT基础设施、修订数据治理政策、实施高级加密和安全措施，确保数据符合印度数据保护法规。</description>
     </item>
   
     <item>
@@ -534,12 +486,6 @@
     </item>
   
     <item>
-      <title>Learn to master Query Scopes in Laravel</title>
-      <link>https://laravel-news.com/query-scopes</link>
-      <description>Laravel中的查询作用域可以帮助开发者定义可重用的查询约束，提高代码可读性和可维护性。本文介绍了本地和全局查询作用域的创建和使用方法，包括如何为模型添加约束、如何自动应用约束以及如何测试这些作用域。通过使用查询作用域，开发者可以更高效地管理Laravel应用程序中的查询逻辑。</description>
-    </item>
-  
-    <item>
       <title>OpenAI board shakeup: Microsoft out, Apple backs away amid AI partnership scrutiny</title>
       <link>https://arstechnica.com/?p=2036094</link>
       <description>OpenAI董事会发生变动，微软退出非投票观察员角色，苹果放弃类似计划。此举因欧盟和美国监管机构对大型科技公司投资AI初创企业的审查加强。OpenAI将定期与合作伙伴和投资者会面，而非通过董事会代表。</description>
@@ -681,12 +627,6 @@
       <title>Behind the Scenes: a Fireside Chat on Inclusion and Women in Tech at Babbel</title>
       <link>https://www.babbel.com/en/magazine/behind-the-scenes-a-fireside-chat-on-inclusion-and-women-in-tech-at-babbel</link>
       <description>Babbel举办了一场关于包容性和女性在科技领域的圆桌讨论，旨在促进开放和诚实的讨论，为所有声音提供一个安全的空间，并加深对Babbel内部挑战和经验的理解。活动通过匿名问卷收集了参与者的个人经历，并邀请了不同背景和职级的演讲者分享观点。参与者对活动给予了高度评价，认为它对提高包容性和促进对话非常有用。</description>
-    </item>
-  
-    <item>
-      <title>18 Social Media Holidays to Celebrate This August</title>
-      <link>https://www.brandwatch.com/blog/social-media-holidays-august/</link>
-      <description>8月社交媒体节日精选，为品牌丰富社交媒体日历提供灵感。涵盖世界互联网日、国际猫日、世界摄影日等，鼓励分享创意内容，增强社区互动。</description>
     </item>
   
     <item>
