@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unlocking secure, private AI with confidential computing</title>
+      <link>https://www.technologyreview.com/2024/07/12/1094838/unlocking-secure-private-ai-with-confidential-computing/</link>
+      <description>保密计算技术正在为人工智能提供更安全的解决方案，保护数据在内存和操作过程中的安全性。这项技术通过硬件根信任和可信执行环境（TEE）确保数据安全，适用于从模型训练到推理的整个AI生命周期。微软Azure和NVIDIA的合作使得这项技术得以在云端和GPU上应用，为政府、医疗、金融和制造业等行业提供数据保护，同时无需客户修改代码即可实现无缝迁移。</description>
+    </item>
+  
+    <item>
+      <title>AI can make you more creative—but it has limits</title>
+      <link>https://www.technologyreview.com/2024/07/12/1094892/ai-can-make-you-more-creative-but-it-has-limits/</link>
+      <description>人工智能虽然能提升个人创造力，但也会使集体创作趋于同质化。研究发现，AI对创意较低者的作品提升明显，但对已有创意的人影响不大，且AI生成的作品间相似度较高，可能降低整体创造力。</description>
+    </item>
+  
+    <item>
+      <title>Patronus AI x Databricks: Training Models for Hallucination Detection</title>
+      <link>https://www.databricks.com/blog/patronus-ai-lynx</link>
+      <description>Patronus AI与Databricks合作开发了一种名为Lynx的幻觉检测模型，用于识别大型语言模型（LLM）中的错误输出。该模型通过复杂推理识别冲突输出，并在实验中优于现有LLM评估器。Lynx基于Llama-3-70B-Instruct模型，使用Databricks Mosaic AI工具进行训练，并在HuggingFace上开源。</description>
+    </item>
+  
+    <item>
       <title>Thunderbird 128 ‘Nebula’ Takes Flight with Major Enhancements</title>
       <link>https://linuxiac.com/thunderbird-128-nebula/</link>
       <description>Thunderbird 128 'Nebula'版本带来了重大更新，包括Rust语言集成、改进的界面和主题兼容性、新的卡片视图和文件夹管理功能，以及个性化账户图标和优化通知。此外，即将推出Exchange和Mozilla Sync支持，但需注意目前仅可通过直接下载获取。</description>
@@ -132,6 +150,18 @@
     </item>
   
     <item>
+      <title>How Discord Uses Open-Source Tools for Scalable Data Orchestration &amp; Transformation</title>
+      <link>https://discord.com/blog/how-discord-uses-open-source-tools-for-scalable-data-orchestration-transformation</link>
+      <description>Discord通过采用Dagster和dbt等开源工具，对其数据编排系统进行了全面升级，以支持其快速增长的用户基础。新系统提高了数据质量和可观察性，简化了数据管理流程，并实现了自动化和可扩展性，从而提升了用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Fixing Bugs in the OpenSearch API Documentation using API Spec Tests</title>
+      <link>https://code.dblock.org/2024/07/12/fixing-bugs-in-opensearch-api-documentation-using-api-spec-tests.html</link>
+      <description>通过使用API规范测试，作者Daniel Doubrovkine修复了OpenSearch API文档中的错误，包括参数拼写错误和文档中的其他问题，并计划从规范生成更多文档。</description>
+    </item>
+  
+    <item>
       <title>40 AI prompts to boost your marketing team’s creativity and efficiency</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-prompts-for-marketing</link>
       <description>本文探讨了如何利用人工智能提示来提升营销团队的创造力和效率。文章介绍了如何通过AI生成创意想法、优化内容创作、自动化重复性任务，以及如何将AI提示融入日常营销策略中，从而提高工作效率和营销效果。</description>
@@ -171,6 +201,12 @@
       <title>OpenShot 3.2.1 Video Editor: Smoother, Faster, Better</title>
       <link>https://linuxiac.com/openshot-3-2-1-video-editor-released/</link>
       <description>OpenShot 3.2.1视频编辑器更新，带来更流畅的用户体验和稳定性提升，包括改进的UI/UX、主题和窗口管理、错误修复以及部署脚本增强。</description>
+    </item>
+  
+    <item>
+      <title>From Idea to Prototype in Minutes: Claude Sonnet 3.5</title>
+      <link>https://www.sitepoint.com/from-idea-to-prototype-in-minutes-claude-sonnet-3-5/?utm_source=rss</link>
+      <description>Claude Sonnet 3.5，一款大型语言模型，能快速将想法转化为原型。用户Balaji展示如何用Claude在不到一分钟内创建一个待办事项应用原型。尽管需要进一步优化和调试，但Claude Sonnet 3.5在技术编程领域展现出超越GPT-4的能力，降低了从想法到现实的门槛。</description>
     </item>
   
     <item>
