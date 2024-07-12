@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Active Directory Utility for SQL Server (ADUTIL) now officially supported with RHEL 9</title>
+      <link>https://developers.redhat.com/articles/2024/07/12/active-directory-utility-sql-server-adutil-now-officially-supported-rhel-9</link>
+      <description>Active Directory Utility for SQL Server (ADUTIL) 现已正式支持 RHEL 9。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 4</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240712-00/?p=109967</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动，介绍了如何使用MakeFailed函数来处理异步操作失败的情况。文章详细解释了如何避免异常切片问题，并提供了相应的代码示例。</description>
+    </item>
+  
+    <item>
       <title>The fraudulent nature of university research</title>
       <link>https://medium.com/@jpolak/the-fraudulent-nature-of-university-research-65f950a7cc6d?source=rss-f2f00cd05fc0------2</link>
       <description>学术研究被商业利益所驱使，导致研究方向偏离了真正的科学好奇心和人类需求。大学为了吸引学生和资金，过度强调量化产出，导致研究变得狭隘和低效，忽视了教育的真正目的。这种模式不仅抑制了人类的创造力，还使科学成为一种自我维持的机制，而非为了改善生活。</description>
@@ -99,6 +111,12 @@
       <title>Error'd: Watching the Days</title>
       <link>https://thedailywtf.com/articles/watching-the-days</link>
       <description>本周，英国政治出现了一些意想不到的结果，包括小党派的支持激增。文章中提到了一些幸运数字和不幸的人们的感受，以及个人对存储空间的担忧。</description>
+    </item>
+  
+    <item>
+      <title>Crystal 1.13.1 is released!</title>
+      <link>https://crystal-lang.org/2024/07/12/1.13.1-released/</link>
+      <description>Crystal编程语言发布了1.13.1版本，修复了JSON解析器中Unicode字符串的回归问题。新版本包含2项更改，可在GitHub和官方渠道获取预构建包。安装说明请访问crystal-lang.org/install。感谢所有贡献者对语言改进的努力。</description>
     </item>
   
     <item>
