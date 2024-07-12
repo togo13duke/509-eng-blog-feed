@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unfold's Modern Mobile Release Process and the Subtle Art of Making Them Boring</title>
+      <link>https://engineering.squarespace.com/blog/2024/unfolds-modern-mobile-release-process-and-the-subtle-art-of-making-them-boring</link>
+      <description>Squarespace的Unfold团队通过优化移动应用发布流程，实现了高效且无干扰的发布过程。他们从手动干预繁杂的发布流程转变为自动化的每周发布，减少了工程师的负担，提高了产品质量。通过引入自动化工具和明确的职责分配，Unfold团队确保了发布过程的标准化和可预测性，从而实现了更稳定和高效的发布管理。</description>
+    </item>
+  
+    <item>
+      <title>Incus 6.3 Container &amp; Virtual Machine Manager Released</title>
+      <link>https://linuxiac.com/incus-6-3-container-and-vm-manager-released/</link>
+      <description>Incus 6.3容器和虚拟机管理器发布，引入了对OCI应用容器的初始支持、新的虚拟机选项、改进的实时迁移功能等。该版本允许用户直接在Incus环境中使用Docker/OCI镜像，并解决了集群中实时迁移的挑战，同时增强了文件系统灵活性、改进了Incus Top命令和统一镜像管理。</description>
+    </item>
+  
+    <item>
+      <title>GitHub Availability Report: June 2024</title>
+      <link>https://github.blog/2024-07-12-github-availability-report-june-2024/</link>
+      <description>在2024年6月，GitHub经历了两次服务性能下降事件。6月5日，GitHub Issues服务因配置错误导致项目事件未显示；6月27日，GitHub迁移服务因无效基础设施凭证失败。GitHub已采取措施缓解这些问题，并正在改进监控和警报系统以防止未来发生类似事件。</description>
+    </item>
+  
+    <item>
+      <title>TUXEDO InfinityBook Pro 14: Where Elegance Meets Performance</title>
+      <link>https://linuxiac.com/tuxedo-infinitybook-pro-14-subnotebook/</link>
+      <description>TUXEDO InfinityBook Pro 14 Gen9是一款轻薄型Linux笔记本电脑，搭载高性能的AMD和Intel CPU，适合商务人士移动办公。它拥有14英寸3K高分辨率显示屏，全铝机身设计，配备高效散热系统，支持多种键盘布局和长达10小时的电池续航。售价从1229欧元起，预计8月底开始发货。</description>
+    </item>
+  
+    <item>
       <title>Unlocking secure, private AI with confidential computing</title>
       <link>https://www.technologyreview.com/2024/07/12/1094838/unlocking-secure-private-ai-with-confidential-computing/</link>
       <description>保密计算技术正在为人工智能提供更安全的解决方案，保护数据在内存和操作过程中的安全性。这项技术通过硬件根信任和可信执行环境（TEE）确保数据安全，适用于从模型训练到推理的整个AI生命周期。微软Azure和NVIDIA的合作使得这项技术得以在云端和GPU上应用，为政府、医疗、金融和制造业等行业提供数据保护，同时无需客户修改代码即可实现无缝迁移。</description>
