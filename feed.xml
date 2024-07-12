@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>PipeWire 1.2.1 Update Fixes Audio Bugs Across Multimedia Apps</title>
+      <link>https://linuxiac.com/pipewire-1-2-1-fixes-audio-bugs-across-multimedia-apps/</link>
+      <description>PipeWire 1.2.1更新修复了多媒体应用程序中的音频问题，包括KODI音频问题、Ardour导出问题和KDE屏幕预览问题。此外，更新还提高了脚本兼容性和系统稳定性，优化了SPA、JACK和GStreamer的性能。</description>
+    </item>
+  
+    <item>
+      <title>IVF alone can’t save us from a looming fertility crisis</title>
+      <link>https://www.technologyreview.com/2024/07/12/1094876/ivf-alone-cant-save-us-from-a-looming-fertility-crisis/</link>
+      <description>单独依赖试管婴儿技术无法解决即将到来的生育危机，性别平等和家庭友好政策可能比技术更有帮助。全球生育率下降，技术如试管婴儿只能在一定程度上提高生育率，而性别平等和家庭支持政策可能对提高生育率有更大的影响。</description>
+    </item>
+  
+    <item>
       <title>Why we built Staging Ground</title>
       <link>https://stackoverflow.blog/2024/07/12/why-we-built-staging-ground/</link>
       <description>Stack Overflow推出了“Staging Ground”，一个新用户在提问前可获取经验用户指导的私密空间。此举旨在为新手提供更安全的提问体验，并已获得社区积极反馈。文章探讨了在现有架构中构建Staging Ground的挑战。</description>
@@ -1045,6 +1057,12 @@
       <title>Use React and Rust to Build a Real-Time Video Chat App</title>
       <link>https://www.twilio.com/en-us/blog/react-rust-build-real-time-video-chat-app</link>
       <description>使用React和Rust构建实时视频聊天应用，本文介绍了如何使用Zoom Video SDK和Rust（Axum）构建视频聊天应用，前端使用React，后端使用Rust。</description>
+    </item>
+  
+    <item>
+      <title>Crystal 1.13.0 is released!</title>
+      <link>https://crystal-lang.org/2024/07/09/1.13.0-released/</link>
+      <description>Crystal编程语言发布了1.13.0版本，包含多线程支持改进、新的执行上下文预览、API变更、编译器优化等新特性和修复。版本更新包括180项变更，由25位贡献者完成。</description>
     </item>
   
     <item>
