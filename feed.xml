@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Thunderbird 128 ‘Nebula’ Takes Flight with Major Enhancements</title>
+      <link>https://linuxiac.com/thunderbird-128-nebula/</link>
+      <description>Thunderbird 128 'Nebula'版本带来了重大更新，包括Rust语言集成、改进的界面和主题兼容性、新的卡片视图和文件夹管理功能，以及个性化账户图标和优化通知。此外，即将推出Exchange和Mozilla Sync支持，但需注意目前仅可通过直接下载获取。</description>
+    </item>
+  
+    <item>
       <title>Active Directory Utility for SQL Server (ADUTIL) now officially supported with RHEL 9</title>
       <link>https://developers.redhat.com/articles/2024/07/12/active-directory-utility-sql-server-adutil-now-officially-supported-rhel-9</link>
       <description>Active Directory Utility for SQL Server (ADUTIL) 现已正式支持 RHEL 9。</description>
@@ -63,6 +69,12 @@
       <title>The Real Python Podcast – Episode #212: Digging Into Graph Theory in Python With David Amos</title>
       <link>https://realpython.com/podcasts/rpp/212/</link>
       <description>David Amos在Real Python播客中探讨了Python中的图论，分享了他对图论的热情以及如何使用Python库进行探索。他讨论了从Julia语言中学习的新技术，以及这些技术如何增强Python编程。</description>
+    </item>
+  
+    <item>
+      <title>Social Media Management Tips: Streamline Your Strategy for Success</title>
+      <link>https://s14415.pcdn.co/blog/social-media-management-tips/</link>
+      <description>社交媒体管理已成为企业沟通的关键部分，本文提供了策略制定、目标设定、平台选择、内容创作、发布时间、互动管理和分析等实用建议，帮助品牌在社交媒体上成功。</description>
     </item>
   
     <item>
@@ -314,6 +326,12 @@
     <item>
       <title>Social Media Outsourcing: How to Streamline Your Social Strategy</title>
       <link>https://s14415.pcdn.co/blog/social-media-outsourcing/</link>
+      <description>社交媒体外包可帮助中小企业提升品牌影响力，节省时间和成本。通过专业团队或个人管理社交媒体，企业可专注于核心业务，同时保持内容质量和品牌一致性。选择合适的合作伙伴，明确目标，并定期沟通，以确保外包效果。</description>
+    </item>
+  
+    <item>
+      <title>Social Media Outsourcing: How to Streamline Your Social Strategy</title>
+      <link>https://www.brandwatch.com/blog/social-media-outsourcing/</link>
       <description>社交媒体外包可帮助中小企业提升品牌影响力，节省时间和成本。通过专业团队或个人管理社交媒体，企业可专注于核心业务，同时保持内容质量和品牌一致性。选择合适的合作伙伴，明确目标，并定期沟通，以确保外包效果。</description>
     </item>
   
