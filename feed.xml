@@ -12,9 +12,21 @@
     </item>
   
     <item>
+      <title>Use of Cryostat and Java Flight Recording in Red Hat OpenShift 4</title>
+      <link>https://developers.redhat.com/articles/2024/07/12/use-cryostat-and-java-flight-recording-red-hat-openshift-4</link>
+      <description>本文探讨了在Red Hat OpenShift 4中使用Cryostat和Java Flight Recording的功能。</description>
+    </item>
+  
+    <item>
       <title>40 AI prompts to boost your marketing team’s creativity and efficiency</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-prompts-for-marketing</link>
       <description>本文探讨了如何利用人工智能提示来提升营销团队的创造力和效率。文章介绍了如何通过AI生成创意想法、优化内容创作、自动化重复性任务，以及如何将AI提示融入日常营销策略中，从而提高工作效率和营销效果。</description>
+    </item>
+  
+    <item>
+      <title>AWS Simple Email Service Security</title>
+      <link>https://capgemini.github.io/cloud%20native/ses-email-security/</link>
+      <description>本文探讨了如何通过AWS Simple Email Service (SES)实现电子邮件安全。作者Tom Spencer分享了他在开发MovieBooker应用程序时，如何通过实施SPF、DKIM和DMARC来增强电子邮件安全性，以防止邮件欺骗和钓鱼攻击。文章详细介绍了这些安全措施的工作原理，并提供了AWS SES的集成方法，以确保电子邮件通信的安全和可靠性。</description>
     </item>
   
     <item>
