@@ -6,24 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Saying “No” is a Powerful Tool</title>
-      <link>https://spin.atomicobject.com/saying-no-is-powerful/</link>
-      <description>说“不”是一种强大的工具。随着职业生涯的发展，我们应认识到自己的专业知识是价值所在。在完成任务时，我们应评估各种想法，避免不必要的风险和浪费。在团队和项目管理中，学会说“不”可以帮助我们避免低效工作，提高项目质量，并最终促进个人和公司的发展。</description>
-    </item>
-  
-    <item>
-      <title>Collective #854</title>
-      <link>https://tympanus.net/codrops/collective/collective-854/</link>
-      <description>本周前端技术精选：探索容器查询的实际应用，了解JavaScript中的随机数函数，以及新平台特性。文章还推荐了ZETR网站，并介绍了Meco等实用工具。</description>
-    </item>
-  
-    <item>
-      <title>KDE Frameworks 6.4.0 Rolls Out, Here’s What’s New</title>
-      <link>https://linuxiac.com/kde-frameworks-6-4-0-released/</link>
-      <description>KDE发布最新框架6.4.0，带来功能升级、新特性和关键修复。更新包括文件跟踪优化、Baloo文件索引和搜索框架改进、蓝牙音频支持增强、图标更新、构建系统改进、稳定性增强等。开发者可通过Linux发行版的包管理器安装，或下载源代码进行手动安装。</description>
-    </item>
-  
-    <item>
       <title>PipeWire 1.2.1 Update Fixes Audio Bugs Across Multimedia Apps</title>
       <link>https://linuxiac.com/pipewire-1-2-1-fixes-audio-bugs-across-multimedia-apps/</link>
       <description>PipeWire 1.2.1更新修复了多媒体应用程序中的音频问题，包括KODI音频问题、Ardour导出问题和KDE屏幕预览问题。此外，更新还提高了脚本兼容性和系统稳定性，优化了SPA、JACK和GStreamer的性能。</description>
@@ -45,12 +27,6 @@
       <title>Use of Cryostat and Java Flight Recording in Red Hat OpenShift 4</title>
       <link>https://developers.redhat.com/articles/2024/07/12/use-cryostat-and-java-flight-recording-red-hat-openshift-4</link>
       <description>本文探讨了在Red Hat OpenShift 4中使用Cryostat和Java Flight Recording的功能。</description>
-    </item>
-  
-    <item>
-      <title>Error'd: Watching the Days</title>
-      <link>https://thedailywtf.com/articles/watching-the-days</link>
-      <description>本周，英国政治出现了一些意想不到的结果，包括小党派的支持激增。文章中提到了一些幸运数字和不幸的人们的感受，以及个人对存储空间的担忧。</description>
     </item>
   
     <item>
