@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why we built Staging Ground</title>
+      <link>https://stackoverflow.blog/2024/07/12/why-we-built-staging-ground/</link>
+      <description>Stack Overflow推出了“Staging Ground”，一个新用户在提问前可获取经验用户指导的私密空间。此举旨在为新手提供更安全的提问体验，并已获得社区积极反馈。文章探讨了在现有架构中构建Staging Ground的挑战。</description>
+    </item>
+  
+    <item>
       <title>40 AI prompts to boost your marketing team’s creativity and efficiency</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-prompts-for-marketing</link>
       <description>本文探讨了如何利用人工智能提示来提升营销团队的创造力和效率。文章介绍了如何通过AI生成创意想法、优化内容创作、自动化重复性任务，以及如何将AI提示融入日常营销策略中，从而提高工作效率和营销效果。</description>
@@ -165,6 +171,12 @@
       <title>The Bugs They Missed – Finding Bugs in Production</title>
       <link>https://spin.atomicobject.com/bugs-production/</link>
       <description>在软件开发过程中，客户在产品发布后发现的bug往往揭示了测试过程中的不足。文章指出，客户可能会使用产品以意想不到的方式，但他们会错过已经修复的已知bug。通过分析历史数据，如二战中轰炸机弹孔分布，作者强调了关注未被发现的漏洞的重要性。文章建议，当客户在生产环境中发现新bug时，应将其视为改进测试流程的机会，并确保测试环境与生产环境相匹配，同时考虑用户的不同使用习惯和设备。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Build a Blog Using Django, GraphQL, and Vue</title>
+      <link>https://realpython.com/quizzes/python-django-blog/</link>
+      <description>本篇博客介绍如何使用Django、GraphQL和Vue构建一个博客。通过互动测验，测试读者对Django后端和Vue前端构建的理解，包括同时运行Django服务器和Vue应用。测验包含8个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
     </item>
   
     <item>
@@ -1015,6 +1027,12 @@
       <title>VisionOS Dev: Taylor's Opinionated and Already-Outdated Guide (2024)</title>
       <link>https://taylor.town/visionos</link>
       <description>VisionOS开发指南概述了VisionOS 2.0的框架，包括项目结构、状态管理、视图和沉浸式空间配置。指南强调了基于项目的学习，并提供了关于构建VisionOS应用的基础知识，包括预览、应用状态、视图和沉浸式视图的使用。此外，它还讨论了显示容器、显示内容、实体、感知和手势处理，以及如何使用SwiftUI和RealityKit进行开发。</description>
+    </item>
+  
+    <item>
+      <title>Use React and Rust to Build a Real-Time Video Chat App</title>
+      <link>https://www.twilio.com/en-us/blog/react-rust-build-real-time-video-chat-app</link>
+      <description>使用React和Rust构建实时视频聊天应用，本文介绍了如何使用Zoom Video SDK和Rust（Axum）构建视频聊天应用，前端使用React，后端使用Rust。</description>
     </item>
   
     <item>
