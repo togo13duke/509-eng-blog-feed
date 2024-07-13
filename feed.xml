@@ -24,6 +24,12 @@
     </item>
   
     <item>
+      <title>Announcing GoReleaser v2.1</title>
+      <link>https://carlosbecker.com/posts/goreleaser-v2.1/</link>
+      <description>GoReleaser v2.1发布，新增Pro版发布前钩子、云smith发布者、全局元数据等功能，以及支持tar.zst存档格式、GOCACHEPROG、ipk包格式等。同时优化了GitHub、GitLab、Snapcraft等集成，并更新了文档。</description>
+    </item>
+  
+    <item>
       <title>Google makes it easier for users to switch on advanced account protection</title>
       <link>https://arstechnica.com/?p=2036985</link>
       <description>Google简化了高级账户保护程序的设置，用户现在可以使用密钥或物理令牌，而不是仅限于两个物理安全密钥。这一变化旨在使高级保护计划（APP）更加易于访问，并鼓励更多用户启用强多因素认证。</description>
