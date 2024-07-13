@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>OBS Studio 30.2 Unveils New Multitrack Streaming Features</title>
+      <link>https://linuxiac.com/obs-studio-30-2-unveils-new-multitrack-features/</link>
+      <description>OBS Studio 30.2版本更新，引入了新的多轨道流媒体功能和改进，包括视觉升级、混合MP4格式、多轨道输出、主题定制和可访问性增强。此外，还支持了AV1编码和硬件加速，优化了Linux用户的体验。</description>
+    </item>
+  
+    <item>
       <title>Google makes it easier for users to switch on advanced account protection</title>
       <link>https://arstechnica.com/?p=2036985</link>
       <description>Google简化了高级账户保护程序的设置，用户现在可以使用密钥或物理令牌，而不是仅限于两个物理安全密钥。这一变化旨在使高级保护计划（APP）更加易于访问，并鼓励更多用户启用强多因素认证。</description>
@@ -279,6 +285,12 @@
       <title>New Research: Try this ritual to spark joy at work</title>
       <link>https://www.atlassian.com/blog/teamwork/chief-vibes-officer-experiment</link>
       <description>研究发现，团队间的乐趣可以提高工作效率和满意度。Atlassian的“首席氛围官”实验通过非工作相关的主题讨论，促进了团队成员之间的连接和快乐。该实验表明，当超过50%的团队成员参与时，这种仪式可以增强团队连接，并使团队成员更容易互相帮助。</description>
+    </item>
+  
+    <item>
+      <title>AWTF24 pre-contest</title>
+      <link>http://blog.mitrichev.ch/2024/07/awtf24-pre-contest.html</link>
+      <description>参赛者在酒店集合，进行了桌游活动，并体验了自助印刷T恤服务。今天是自由活动日，参赛者们探索了东京，并进行了问题解决练习。明天将进行AWTF24比赛，比赛规则与去年相似，共有5个问题，5小时完成。直播将在12:30开始，持续5小时。所有12名决赛选手实力强劲，比赛结果难以预测。</description>
     </item>
   
     <item>
@@ -1037,6 +1049,12 @@
       <title>Introducing Global Load Balancer: Scale your HTTP traffic globally</title>
       <link>https://www.digitalocean.com/blog/announcing-global-load-balancer-beta</link>
       <description>DigitalOcean推出全球负载均衡器Beta版，旨在提高应用在全球范围内的弹性。该解决方案可基于地理位置平衡HTTP请求，避免单点故障，减少用户延迟，并增强安全性和合规性。设置简单，定价透明，适用于中小企业。</description>
+    </item>
+  
+    <item>
+      <title>A 熱中症予防 week</title>
+      <link>http://blog.mitrichev.ch/2024/07/a-week.html</link>
+      <description>本周没有要提及的比赛，因此作者将博客内容转向旅行博客。他将前往东京参加AtCoder World Tour Finals 2024，作为观众和评论员。文章还讨论了一个关于多边形顶点的问题，涉及复数和整数运算，以及如何使用数论中的高斯多项式来解决该问题。作者还探讨了在模p下的整数运算如何帮助解决该问题，并解释了为什么这种方法是有效的。</description>
     </item>
   
     <item>
