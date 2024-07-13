@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AWTF24 contest</title>
+      <link>http://blog.mitrichev.ch/2024/07/awtf24-contest.html</link>
+      <description>本周，Petr Mitrichev分享了他在AtCoder World Tour Finals 2024的5小时评论员经历，对比赛中的“忏悔亭”概念表示赞赏，并祝贺ecnerwala、zhoukangyang和ksun48获奖。他鼓励读者提供改进建议，并期待下周的总结。</description>
+    </item>
+  
+    <item>
       <title>OBS Studio 30.2 Unveils New Multitrack Streaming Features</title>
       <link>https://linuxiac.com/obs-studio-30-2-unveils-new-multitrack-features/</link>
       <description>OBS Studio 30.2版本更新，引入了新的多轨道流媒体功能和改进，包括视觉升级、混合MP4格式、多轨道输出、主题定制和可访问性增强。此外，还支持了AV1编码和硬件加速，优化了Linux用户的体验。</description>
