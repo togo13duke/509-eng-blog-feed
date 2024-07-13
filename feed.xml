@@ -198,6 +198,12 @@
     </item>
   
     <item>
+      <title>Building a Multilingual Email App with SendGrid and Amazon Translate</title>
+      <link>https://www.twilio.com/en-us/blog/building-multilingual-email-app-sendgrid-amazon-translate</link>
+      <description>使用Twilio SendGrid和Amazon Translate构建多语言电子邮件应用，通过个性化电子邮件内容提升客户体验，本教程将指导开发者如何利用这些工具和Node.js实现电子邮件翻译功能。</description>
+    </item>
+  
+    <item>
       <title>40 AI prompts to boost your marketing team’s creativity and efficiency</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-prompts-for-marketing</link>
       <description>本文探讨了如何利用人工智能提示来提升营销团队的创造力和效率。文章介绍了如何通过AI生成创意想法、优化内容创作、自动化重复性任务，以及如何将AI提示融入日常营销策略中，从而提高工作效率和营销效果。</description>
