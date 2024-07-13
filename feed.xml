@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Google makes it easier for users to switch on advanced account protection</title>
+      <link>https://arstechnica.com/?p=2036985</link>
+      <description>Google简化了高级账户保护程序的设置，用户现在可以使用密钥或物理令牌，而不是仅限于两个物理安全密钥。这一变化旨在使高级保护计划（APP）更加易于访问，并鼓励更多用户启用强多因素认证。</description>
+    </item>
+  
+    <item>
+      <title>OpenAI reportedly nears breakthrough with “reasoning” AI, reveals progress framework</title>
+      <link>https://arstechnica.com/?p=2036853</link>
+      <description>OpenAI推出一个五级AI发展框架，旨在评估其向通用人工智能（AGI）发展的进展。该框架从当前AI能力到可能管理整个组织的系统，目前认为其技术处于第一级，正接近达到第二级“Reasoners”，即能进行与博士水平相当的问题解决能力。这一系统旨在吸引投资者，展示公司的雄心目标，而非科学或技术进步的测量。</description>
+    </item>
+  
+    <item>
       <title>Unfold's Modern Mobile Release Process and the Subtle Art of Making Them Boring</title>
       <link>https://engineering.squarespace.com/blog/2024/unfolds-modern-mobile-release-process-and-the-subtle-art-of-making-them-boring</link>
       <description>Squarespace的Unfold团队通过优化移动应用发布流程，实现了高效且无干扰的发布过程。他们从手动干预繁杂的发布流程转变为自动化的每周发布，减少了工程师的负担，提高了产品质量。通过引入自动化工具和明确的职责分配，Unfold团队确保了发布过程的标准化和可预测性，从而实现了更稳定和高效的发布管理。</description>
