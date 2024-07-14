@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>An ecnerwala week</title>
-      <link>http://blog.mitrichev.ch/2024/07/an-ecnerwala-week.html</link>
-      <description>本周主要讨论了AWTF24算法竞赛，包括问题A和B的简洁解决方案，以及问题D与旧Codeforces问题的关联。此外，还提到了C和E问题的解决过程，以及作者对这次竞赛的总体评价和对未来AGC赛事的期待。</description>
-    </item>
-  
-    <item>
-      <title>Pacman 7.0 Package Manager Released, Here’s What’s New</title>
-      <link>https://linuxiac.com/pacman-7-0-package-manager-released/</link>
-      <description>Arch Linux发布Pacman 7.0包管理器，新增DownloadUser配置选项增强安全性，修复多个关键漏洞，并引入DisableSandbox选项以提供更多控制。此外，更新了makepkg脚本和pacman-key工具，以提升包管理器的可靠性和安全性。</description>
-    </item>
-  
-    <item>
       <title>Whonix 17.2 Privacy-Focused Linux Distro Released</title>
       <link>https://linuxiac.com/whonix-17-2-privacy-focused-linux-distro-released/</link>
       <description>Whonix 17.2，一款以隐私保护为特色的Linux发行版，已发布。它基于Debian，专为追求最高匿名性和在线隐私的用户设计。新版本17.2集成了Kicksecure 1安全框架，默认连接到公共Tor网络，简化了新用户的初始设置。此外，Whonix-Firewall已从iptables迁移到nftables，并增加了对Bisq 2的去中心化比特币交易所的支持。</description>
