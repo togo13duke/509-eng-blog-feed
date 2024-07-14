@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Whonix 17.2 Privacy-Focused Linux Distro Released</title>
+      <link>https://linuxiac.com/whonix-17-2-privacy-focused-linux-distro-released/</link>
+      <description>Whonix 17.2，一款以隐私保护为特色的Linux发行版，已发布。它基于Debian，专为追求最高匿名性和在线隐私的用户设计。新版本17.2集成了Kicksecure 1安全框架，默认连接到公共Tor网络，简化了新用户的初始设置。此外，Whonix-Firewall已从iptables迁移到nftables，并增加了对Bisq 2的去中心化比特币交易所的支持。</description>
+    </item>
+  
+    <item>
       <title>Holly Million Steps Down as GNOME Foundation Executive Director</title>
       <link>https://linuxiac.com/holly-million-steps-down-as-gnome-executive-director/</link>
       <description>GNOME基金会执行董事Holly Million将于2024年7月31日离职，由Richard Littauer接任临时执行董事。Million在任期内推动了五年战略计划和财务赞助协议，为基金会奠定了坚实基础。Littauer拥有丰富的开源项目管理和社区发展经验，将帮助基金会过渡。GNOME董事会感谢Million的贡献，并计划寻找永久执行董事。GUADEC会议将讨论GNOME社区的下一步行动。</description>
