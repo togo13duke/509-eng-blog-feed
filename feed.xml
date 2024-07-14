@@ -282,12 +282,6 @@
     </item>
   
     <item>
-      <title>Prepare your app for the new Samsung Galaxy foldables and watches!</title>
-      <link>http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html</link>
-      <description>为迎接三星Galaxy折叠屏和手表，开发者需准备适配新设备的App。三星最新Galaxy Watch系列将搭载Wear OS 5，带来更多功能。开发者应测试App在Wear OS 5模拟器上的表现。同时，构建自适应App以适应不同屏幕尺寸和类型至关重要。利用Compose自适应布局库和窗口大小类，开发者可轻松创建响应式布局。探索Wear OS开发者网站和Wear OS画廊获取灵感，打造跨屏幕的App体验。</description>
-    </item>
-  
-    <item>
       <title>EEVEE Next Generation in Blender 4.2 LTS</title>
       <link>https://code.blender.org/2024/07/eevee-next-generation-in-blender-4-2-lts/</link>
       <description>Blender 4.2 LTS版本中，EEVEE Next项目实现了对Blender视口系统的重大升级，旨在提升渲染性能和视觉质量。新系统支持更广泛的照明和阴影效果，引入了新的全局光照系统和无限灯光功能，并优化了体积渲染和运动模糊。尽管存在兼容性问题，但该项目为未来交互式光照管道奠定了基础，并预计将带来更高效的渲染和着色器编译。</description>
