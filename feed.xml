@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Here’s how carefully concealed backdoor in fake AWS files escaped mainstream notice</title>
-      <link>https://arstechnica.com/?p=2037194</link>
-      <description>研究人员发现，两个假冒的AWS软件包在开源NPM JavaScript仓库中被下载数百次，这些软件包包含精心隐藏的后门代码，当执行时会在开发者的计算机上留下后门。这些软件包模仿了合法的JavaScript库aws-s3-object-multipart-copy，但添加了一个名为loadformat.js的额外JavaScript文件，其中包含用于后门开发者设备的代码片段。这种攻击表明，针对开源仓库的攻击日益复杂，需要开发者和安全组织提高警惕。</description>
-    </item>
-  
-    <item>
       <title>Understanding Develocity Build Data with Honeycomb</title>
       <link>https://medium.com/pinterest-engineering/understanding-develocity-build-data-with-honeycomb-78bc655f654f?source=rss-ef81ef829bcb------2</link>
       <description>Pinterest的工程师团队通过将Develocity构建数据与Honeycomb结合，实现了对构建过程的深入洞察和快速问题识别。这种方法利用了Honeycomb强大的查询能力和快速处理，帮助团队更有效地分析构建数据，提高开发效率。</description>
@@ -107,12 +101,6 @@
       <title>Log Drains now support the Vercel Firewall</title>
       <link>https://vercel.com/changelog/log-drains-now-support-the-vercel-firewall</link>
       <description>Vercel更新了Log Drains功能，现在支持Vercel Firewall。这一更新允许将Vercel Firewall的请求拒绝事件通过Log Drains输出到外部服务提供商。包括由自定义规则、挑战模式、OWASP CRS等规则阻止的请求，以及IP规则阻止的请求。如果规则设置为记录或绕过，则请求不会发送到Log Drains。同时，Firewall操作也会在监控中显示。</description>
-    </item>
-  
-    <item>
-      <title>Fast Origin Transfer is now automatically compressed</title>
-      <link>https://vercel.com/changelog/fast-origin-transfer-is-now-automatically-compressed</link>
-      <description>Vercel已优化其边缘网络，使Fast Origin Transfer功能默认自动压缩数据传输，提高效率。此更新适用于所有使用Vercel计算项目的用户，包括Functions、Middleware和ISR。自动压缩功能与Fast Data Transfer保持一致，有助于优化数据传输。</description>
     </item>
   
     <item>
