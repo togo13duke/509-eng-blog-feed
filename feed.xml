@@ -6,9 +6,33 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Module Augmentation is a Hidden Gem in TypeScript</title>
+      <link>https://spin.atomicobject.com/module-augmentation-typescript/</link>
+      <description>TypeScript中的模块扩展和接口合并是强大的特性，允许在不修改原始源代码的情况下扩展或修改现有模块。在作者的项目中，这些特性被用于创建一个提供类型安全访问功能标志的包，通过模块扩展和接口合并，可以轻松地添加新属性或方法到接口中，同时扩展现有模块以满足特定需求。</description>
+    </item>
+  
+    <item>
+      <title>How to Create a Liquid Raymarching Scene Using Three.js Shading Language</title>
+      <link>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</link>
+      <description>本文介绍了如何使用Three.js着色语言创建一个液态光线追踪场景。作者Ben McCormick通过介绍使用有符号距离场（SDFs）和简单光照来创建液体形状效果，详细讲解了光线追踪技术。文章中，作者首先介绍了光线追踪的基本概念，然后逐步展示了如何使用React Three Fiber（R3F）和Three.js着色语言（TSL）构建一个简单的光线追踪场景，并添加了光照效果，使场景看起来更加立体和生动。</description>
+    </item>
+  
+    <item>
+      <title>New Atlassian research on developer experience highlights a major disconnect between developers and leaders</title>
+      <link>https://www.atlassian.com/blog/developer/developer-experience-report-2024</link>
+      <description>Atlassian的最新研究揭示了开发人员与领导者之间存在着巨大的脱节，只有44%的开发人员认为领导者了解导致糟糕的开发体验的问题。研究表明，69%的开发人员每周因效率低下而浪费8小时或更多时间，而大多数开发人员认为他们的组织没有优先考虑开发体验。领导者认为AI是提高生产力和开发人员满意度的最有效方式，但大多数开发人员尚未从使用AI工具中获得显著的生产力提升。为了改善开发体验，领导者需要与开发人员沟通，了解他们的需求和挑战，并实施有效的解决方案。</description>
+    </item>
+  
+    <item>
       <title>Creating and deploying an OVF Template to support image mode for RHEL at scale</title>
       <link>https://developers.redhat.com/articles/2024/07/15/creating-and-deploying-ovf-template-support-image-mode-rhel-scale</link>
       <description>本文介绍了如何在vSphere环境中创建和部署OVF模板，以支持大规模管理RHEL的镜像模式。通过使用OVF模板，可以简化虚拟机的部署过程，并优化部署时间。文章详细说明了创建OVF模板的步骤，包括使用govc命令行工具和配置文件，以及如何从vSphere内容库部署模板。</description>
+    </item>
+  
+    <item>
+      <title>England vs Spain: How the Game Went Down on Social</title>
+      <link>https://s14415.pcdn.co/blog/eng-vs-esp/</link>
+      <description>英格兰与西班牙的比赛在社交媒体上的热门瞬间和最受关注的球员揭晓，西班牙在球场上获胜的同时，也在社交媒体上赢得了人心。通过分析比赛期间的公开在线提及，西班牙获得了57%的整体声音份额，且正面提及远多于负面提及。</description>
     </item>
   
     <item>
@@ -21,6 +45,12 @@
       <title>Integrating a VMDK produced with image mode for RHEL into vSphere</title>
       <link>https://developers.redhat.com/articles/2024/07/15/integrating-vmdk-produced-image-mode-rhel-vsphere</link>
       <description>本文介绍了如何将使用RHEL镜像模式创建的VMDK磁盘镜像集成到vSphere环境中。通过使用govc工具，可以简化与vSphere平台的交互，并实现自动化操作。文章详细说明了如何安装govc、连接到vSphere环境、上传VMDK文件、创建虚拟机以及使用cloud-init进行远程连接配置。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Uniquely Enough Identifiers</title>
+      <link>https://thedailywtf.com/articles/uniquely-enough-identifiers</link>
+      <description>这篇文章讲述了Lucas使用Google Sheets作为数据库来创建营销应用的故事。由于用户数量少，记录不多，Google Sheets是一个可行的选择。然而，为了生成唯一标识符，Lucas编写了一个函数，通过随机数和日期时间生成ID。这种方法虽然可行，但引入了额外的复杂性，使得应用更脆弱且难以维护。文章指出，原本只需使用Google Sheets和正确使用说明，就能避免这些问题。</description>
     </item>
   
     <item>
@@ -51,6 +81,12 @@
       <title>Notes on "DynamoDB now supports cross-account access. But is that a good idea?"</title>
       <link>https://advancedweb.hu/shorts/notes-on-dynamodb-now-supports-cross-account-access-but-is-that-a-good-idea/</link>
       <description>DynamoDB支持跨账户访问，但作者认为这通常不是一个好主意。他强调，服务应拥有自己的数据，并通过API访问其他服务的数据，以保持安全性和减少耦合。尽管有使用场景，如增强访问控制，但直接访问数据库可能引入意外，影响软件质量。</description>
+    </item>
+  
+    <item>
+      <title>Proud to be an LGBTQIA+ inclusive employer</title>
+      <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/proud-to-be-an-LGBTQIAplus-inclusive-employer</link>
+      <description>Thoughtworks致力于成为包容LGBTQIA+的雇主，通过政策和实践提升LGBTQIA+同事的体验。在英国，公司排名在Stonewall Top 100中大幅上升，并获得多个奖项，展示了其在LGBTQIA+包容性方面的努力。Thoughtworks通过多种活动和倡议，如历史之旅、庆祝活动和网络研讨会，支持LGBTQIA+社区，并承诺在全球范围内继续推动这一事业。</description>
     </item>
   
     </channel>
