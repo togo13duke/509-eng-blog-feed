@@ -6,11 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Developer Day 2024 Is Here!</title>
+      <link>https://auth0.com/blog/developer-day-2024-is-here/</link>
+      <description>2024年开发者日即将到来，这是由开发者为开发者设计的免费虚拟活动，旨在帮助开发者学习如何使用Auth0确保应用程序和用户身份的安全。活动将于7月15日举行，包括关键演讲和35多个开发者会议和实验室，涵盖Auth0的最新功能。不要错过这个直接从领域专家学习的机会。</description>
+    </item>
+  
+    <item>
+      <title>L'intelligence artificielle : de la théorie à la pratique - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
+      <link>https://blog.octo.com/l'intelligence-artificielle--de-la-theorie-a-la-pratique-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
+      <description>在法国，国家信息与自由委员会（CNIL）致力于通过提高信息透明度来保护个人数据，并促进对个人数据的控制。CNIL最近在里尔举办了一场关于通用数据保护条例（GDPR）的研讨会，讨论了人工智能（AI）在数据保护中的重要性。研讨会强调了AI生成模型（如ChatGPT）的成功，以及即将实施的欧洲人工智能法规（RIA）与GDPR的互补性。此外，讨论了数据保护官（DPO）面临的新挑战，包括理解AI技术、进行数据影响评估以及确保数据透明度和安全性。</description>
+    </item>
+  
+    <item>
       <title>Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT</title>
       <link>https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/</link>
       <description>Docker最佳实践：选择RUN、CMD和ENTRYPOINT
 
 本文深入探讨了Dockerfile中的RUN、CMD和ENTRYPOINT指令，解释了它们在构建Docker镜像时的作用和区别。RUN用于构建镜像时执行命令，CMD指定容器启动时的默认命令，而ENTRYPOINT设置容器的默认可执行文件。通过理解这些指令的用法，开发者可以更有效地管理Docker容器，确保其配置、安全和性能。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 5</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240715-00/?p=109971</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动，并深入分析了异常处理和调试技巧。作者Raymond Chen介绍了如何使用`hresult_error`和`exception_ptr`来捕获和传播异常，确保调试信息准确无误。此外，还讨论了如何处理异常传播到失败操作的情况，以及如何优化代码以减少模板类型参数的使用。</description>
+    </item>
+  
+    <item>
+      <title>Split Your Dataset With scikit-learn's train_test_split()</title>
+      <link>https://realpython.com/train-test-split-python-data/</link>
+      <description>本文介绍了使用scikit-learn库中的train_test_split()函数来分割数据集的重要性。通过将数据集分为训练集、验证集和测试集，可以确保模型评估的无偏性，并帮助检测模型是否过拟合或欠拟合。文章详细解释了如何使用train_test_split()函数，包括如何设置训练集和测试集的大小，以及如何通过随机状态参数实现可重复的结果。</description>
+    </item>
+  
+    <item>
+      <title>How an AI Assistant Can Help Configure Your Project’s Git Hooks</title>
+      <link>https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/</link>
+      <description>AI助手可以帮助配置项目的Git钩子，简化重复任务如编写提交信息或运行检查。通过分析项目上下文和利用现有工具，AI可以提供具体的建议和脚本，甚至自动执行配置，提高开发效率。</description>
     </item>
   
     <item>
@@ -41,6 +71,12 @@
       <title>How to Create a Liquid Raymarching Scene Using Three.js Shading Language</title>
       <link>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</link>
       <description>本文介绍了如何使用Three.js着色语言创建一个液态光线追踪场景。作者Ben McCormick通过介绍使用有符号距离场（SDFs）和简单光照来创建液体形状效果，详细讲解了光线追踪技术。文章中，作者首先介绍了光线追踪的基本概念，然后逐步展示了如何使用React Three Fiber（R3F）和Three.js着色语言（TSL）构建一个简单的光线追踪场景，并添加了光照效果，使场景看起来更加立体和生动。</description>
+    </item>
+  
+    <item>
+      <title>Swift Switch And If Expressions</title>
+      <link>https://useyourloaf.com/blog/swift-switch-and-if-expressions/</link>
+      <description>Swift 5.9引入了将if和switch语句作为表达式的功能，允许在满足一定限制条件下返回或赋值。例如，可以计算URL的最后路径组件或测试状态。但每个分支必须是一个单一表达式，且if语句必须包含else并返回相同类型。</description>
     </item>
   
     <item>
