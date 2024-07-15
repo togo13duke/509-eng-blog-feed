@@ -6,24 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Understanding Develocity Build Data with Honeycomb</title>
-      <link>https://medium.com/pinterest-engineering/understanding-develocity-build-data-with-honeycomb-78bc655f654f?source=rss-ef81ef829bcb------2</link>
-      <description>Pinterest的工程师团队通过将Develocity构建数据与Honeycomb结合，实现了对构建过程的深入洞察和快速问题识别。这种方法利用了Honeycomb强大的查询能力和快速处理，帮助团队更有效地分析构建数据，提高开发效率。</description>
-    </item>
-  
-    <item>
-      <title>AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more (July 15, 2024).</title>
-      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/</link>
-      <description>AWS本周发布了多项新功能和更新，包括Amazon Bedrock和Amazon Q的高级功能，Amazon EC2 R8g实例的推出，以及Amazon MemoryDB的向量搜索。此外，还扩展了服务在多个AWS区域的支持，并推出了新的开源项目和社区活动。</description>
-    </item>
-  
-    <item>
-      <title>Announcing the General Availability of Serverless Compute for Notebooks, Workflows and Delta Live Tables</title>
-      <link>https://www.databricks.com/blog/announcing-general-availability-serverless-compute-notebooks-workflows-and-delta-live-tables</link>
-      <description>Databricks宣布其无服务器计算服务现在可用于Notebooks、工作流程和Delta Live Tables，支持AWS和Azure。这项服务提供快速、简单且可靠的计算环境，用户只需为实际使用的工作量付费。无服务器计算简化了计算基础设施的管理，并自动调整资源以优化性能和成本。Databricks还提供预算管理和成本监控工具，确保用户能够有效控制开支。</description>
-    </item>
-  
-    <item>
       <title>Jensen Huang, Mark Zuckerberg to Discuss Future of Graphics and Virtual Worlds at SIGGRAPH 2024</title>
       <link>https://blogs.nvidia.com/blog/huang-zuckerberg-siggraph-2024/</link>
       <description>NVIDIA创始人黄仁勋和Meta创始人扎克伯格将在SIGGRAPH 2024会议上探讨图形和虚拟世界的未来，以及AI和模拟的潜力。会议将展示图形技术的未来趋势，包括初创公司如何将图形技术应用于不同领域，以及生成式AI在专业图形领域的应用。会议还将表彰对计算机图形领域做出贡献的Stephen Parker。</description>
@@ -101,12 +83,6 @@
       <title>Log Drains now support the Vercel Firewall</title>
       <link>https://vercel.com/changelog/log-drains-now-support-the-vercel-firewall</link>
       <description>Vercel更新了Log Drains功能，现在支持Vercel Firewall。这一更新允许将Vercel Firewall的请求拒绝事件通过Log Drains输出到外部服务提供商。包括由自定义规则、挑战模式、OWASP CRS等规则阻止的请求，以及IP规则阻止的请求。如果规则设置为记录或绕过，则请求不会发送到Log Drains。同时，Firewall操作也会在监控中显示。</description>
-    </item>
-  
-    <item>
-      <title>Monolithic, headless, or composable architecture? What to choose and why in 2024</title>
-      <link>https://algolia.com/blog/ecommerce/monolithic-headless-composable/</link>
-      <description>在2024年，选择合适的架构对于构建现代数字体验至关重要。文章比较了三种架构：单体、无头和可组合架构。单体架构虽然简单，但缺乏灵活性和可扩展性。无头架构通过分离前端和后端提供更高的灵活性和定制性。可组合架构则更进一步，允许使用可互换的组件来构建解决方案。这些架构都旨在提高性能、响应速度和用户体验，以适应不断变化的消费者需求。</description>
     </item>
   
     <item>
