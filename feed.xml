@@ -12,20 +12,6 @@
     </item>
   
     <item>
-      <title>Client-Driven Demos: Get Real Feedback Early</title>
-      <link>https://spin.atomicobject.com/client-driven-demos/</link>
-      <description>客户主导的演示：尽早获取真实反馈
-
-在软件开发中，演示对于展示进度和收集反馈至关重要。它们有助于确保团队走在正确的轨道上，并且客户对项目的方向感到满意。然而，传统的软件演示有一个主要缺陷：它们无法激发真实的反馈。本文探讨了让客户在软件演示中“主导”的不同方法，通过让他们亲自与软件互动并提供实时反馈来提高互动性和实用性。</description>
-    </item>
-  
-    <item>
-      <title>A short history of AI, and what it is (and isn’t)</title>
-      <link>https://www.technologyreview.com/2024/07/16/1095001/a-short-history-of-ai-and-what-it-is-and-isnt/</link>
-      <description>人工智能的历史与定义：本文探讨了人工智能（AI）的定义及其发展历程，从1955年约翰·麦卡锡提出“人工智能”一词开始，到如今AI在各个领域的应用。文章指出，尽管AI被广泛用于自动驾驶、面部识别、聊天机器人等领域，但对其本质和未来仍存在争议。文章强调，了解AI的本质对于评估其影响和制定相关政策至关重要。</description>
-    </item>
-  
-    <item>
       <title>Changing port maps in Docker Compose</title>
       <link>https://akrabat.com/changing-port-maps-in-docker-compose/</link>
       <description>Docker Compose中更改端口映射：Rob Allen介绍了如何在Docker Compose中映射端口，包括添加、替换和删除端口映射，并解释了如何使用`compose.override.yaml`文件来覆盖配置。他还提到了`!override`和`!reset`关键字以及Docker Compose配置文件名的变更。</description>
@@ -62,12 +48,6 @@
     </item>
   
     <item>
-      <title>CodeSOD: Prefixual</title>
-      <link>https://thedailywtf.com/articles/prefixual</link>
-      <description>Prefixual博客文章探讨了在Dynamics Ax ERP系统中，由于缺乏适当的功能钩子，导致代码混乱和复杂性的问题。作者Remy Porter通过一个名为modified的函数示例，展示了如何在不恰当的位置插入代码，导致代码难以理解和维护。文章强调了技术债务和代码质量的重要性，并指出这种做法可能导致未来维护的困难。</description>
-    </item>
-  
-    <item>
       <title>CVE-2024-39908 : DoS in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
       <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
@@ -101,12 +81,6 @@
       <title>My notes on "Things you wish you didn't need to know about S3"</title>
       <link>https://advancedweb.hu/shorts/my-notes-on-things-you-wish-you-didnt-need-to-know-about-s3/</link>
       <description>这篇文章探讨了S3的一些令人惊讶的事实，包括其API的错误和难以修复的问题，如公开可写存储桶和非加密对象。文章还讨论了存储类和对象锁等特性，以及AWS中存在的一些可能导致安全问题的默认设置。作者强调了理解底层技术的重要性，并指出了一些可能导致系统不稳定的“快速修复”方法。</description>
-    </item>
-  
-    <item>
-      <title>Tech Up or Suit Up: Corporate strategy for BFSI growth</title>
-      <link>https://www.thoughtworks.com/insights/blog/product-innovation/corporate-strategy_bfsi_growth</link>
-      <description>本文探讨了企业如何通过科技或银行牌照两种方式进入金融服务业（BFSI）。文章分析了两种策略：FinTech Forward（科技驱动）和Building a Bank（银行化）。FinTech Forward侧重于利用技术提供金融服务，而Building a Bank则是通过获得银行牌照来提供金融服务。文章还讨论了市场分析、知识库建设、产品开发、合规性和市场推广等关键步骤，并提供了苹果和约翰·迪尔作为案例研究的例子。</description>
     </item>
   
     <item>
