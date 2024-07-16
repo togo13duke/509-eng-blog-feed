@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The framework helping devs build LLM apps</title>
+      <link>https://stackoverflow.blog/2024/07/16/the-framework-helping-devs-build-llm-apps/</link>
+      <description>LlamaIndex CEO Jerry Lu与风险投资家Jerry Chen讨论了如何简化开发者构建大型语言模型（LLM）应用的流程。他们强调了高质量训练数据的重要性，以及提示工程、更大上下文窗口的影响和检索增强生成（RAG）的挑战。LlamaIndex是一个用于构建LLM应用的数据框架，提供开源框架和开发者社区LlamaHub。</description>
+    </item>
+  
+    <item>
       <title>CVE-2024-39908 : DoS in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
       <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
@@ -263,6 +269,12 @@
       <title>Effective Identity Threat Response with Teleport</title>
       <link>https://goteleport.com/blog/identity-threat-response-with-teleport/</link>
       <description>Teleport 16通过设备信任、多因素认证和VNET等技术，加强基础设施深度防御。文章介绍了如何利用Teleport平台检测和响应身份威胁，包括锁定会话和身份、监控访问、记录会话等，以保护基础设施免受身份攻击。</description>
+    </item>
+  
+    <item>
+      <title>How recent New York State cybersecurity regulations could affect your business</title>
+      <link>https://www.twilio.com/en-us/blog/new-york-state-23-nycrr-part-500</link>
+      <description>纽约州最新的网络安全法规可能对您的业务产生重大影响。这些法规，如23 NYCRR Part 500，要求金融机构实施全面的网络安全计划，包括风险评估和特定安全措施，以保护客户数据和防止网络威胁。法规还强制要求多因素认证（MFA），以增强信息系统的安全性并保护免受身份攻击。Twilio Verify提供了一种API，旨在满足MFA的需求，通过多种渠道提供定制和用户友好的体验，帮助组织加强防御并符合法规要求。</description>
     </item>
   
     </channel>
