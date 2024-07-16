@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>CVE-2024-39908 : DoS in REXML</title>
+      <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
+      <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
+    </item>
+  
+    <item>
+      <title>Ethical Considerations in Link Building</title>
+      <link>https://soshace.com/2024/07/15/ethical-considerations-in-link-building/</link>
+      <description>链接建设是提升网站在线权威和可见性的关键，通过SEO店铺购买高质量链接，可以增强网站吸引力，提高搜索引擎排名。链接建设不仅是交易，更是对数字未来的投资，通过策略和洞察力，构建可持续的在线存在。</description>
+    </item>
+  
+    <item>
       <title>How Many People Speak Croatian, And Where Is It Spoken?</title>
       <link>https://www.babbel.com/en/magazine/croatian-language</link>
       <description>克罗地亚语是一种广泛使用的语言，属于塞尔维亚-克罗地亚语系。其历史可追溯至6至7世纪斯拉夫人的迁移，最早的书面证据可追溯到11世纪的Bescanuova石碑。19世纪，塞尔维亚和克罗地亚的知识分子推动了文学统一，形成了所谓的塞尔维亚-克罗地亚语。如今，克罗地亚语是克罗地亚和波斯尼亚和黑塞哥维那的官方语言，约有6400万人使用，其中5000万人将其作为母语。克罗地亚语使用拉丁字母，有三种主要方言：Ciacavo、Caicavo和Stocavo。</description>
