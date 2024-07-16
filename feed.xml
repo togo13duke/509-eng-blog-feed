@@ -12,12 +12,6 @@
     </item>
   
     <item>
-      <title>Introducing Replit Teams</title>
-      <link>https://blog.replit.com/teams-ga</link>
-      <description>Replit Teams推出，旨在为21世纪团队提供更高效的软件协作工具。它简化了软件开发流程，通过AI辅助、实时协作和便捷的部署功能，使非工程师也能参与软件开发，提高团队协作效率。</description>
-    </item>
-  
-    <item>
       <title>Fish in Water</title>
       <link>https://blog.rootsofprogress.org/thm-ch1-fish-in-water</link>
       <description>现代社会的高科技和工业成就让我们享受着前所未有的繁荣，但我们也容易忽视这些成就背后的艰辛和牺牲。作者通过对比过去和现在的生活条件，提醒我们珍惜科技进步带来的便利，并感激前人的努力，同时也要继续推动进步，为后代创造更美好的世界。</description>
@@ -155,12 +149,6 @@
       <title>Changing port maps in Docker Compose</title>
       <link>https://akrabat.com/changing-port-maps-in-docker-compose/</link>
       <description>Docker Compose中更改端口映射：Rob Allen介绍了如何在Docker Compose中映射端口，包括添加、替换和删除端口映射，并解释了如何使用`compose.override.yaml`文件来覆盖配置。他还提到了`!override`和`!reset`关键字以及Docker Compose配置文件名的变更。</description>
-    </item>
-  
-    <item>
-      <title>The Biggest Industry Trends in Education Right Now</title>
-      <link>https://s14415.pcdn.co/blog/education-trends/</link>
-      <description>2024年教育行业的主要趋势包括人工智能在教育中的应用、在线学习的普及以及教育可及性的重视。人工智能在教育领域的应用引发了关于学习效率和学术诚信的讨论，而在线学习模式因疫情和技术进步而变得更加普遍。同时，教育机构正致力于提供更具包容性的学习资源和无障碍校园环境。</description>
     </item>
   
     <item>
