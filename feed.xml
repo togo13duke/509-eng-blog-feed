@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How Many People Speak Croatian, And Where Is It Spoken?</title>
-      <link>https://www.babbel.com/en/magazine/croatian-language</link>
-      <description>克罗地亚语是一种广泛使用的语言，属于塞尔维亚-克罗地亚语系。其历史可追溯至6至7世纪斯拉夫人的迁移，最早的书面证据可追溯到11世纪的Bescanuova石碑。19世纪，塞尔维亚和克罗地亚的知识分子推动了文学统一，形成了所谓的塞尔维亚-克罗地亚语。如今，克罗地亚语是克罗地亚和波斯尼亚和黑塞哥维那的官方语言，约有6400万人使用，其中5000万人将其作为母语。克罗地亚语使用拉丁字母，有三种主要方言：Ciacavo、Caicavo和Stocavo。</description>
-    </item>
-  
-    <item>
       <title>How Mixpanel delivers funnels up to 7x faster than the data warehouse</title>
       <link>https://engineering.mixpanel.com/how-mixpanel-delivers-funnels-up-to-7x-faster-than-the-data-warehouse-af6da1f5a982?source=rss----b5de3443ad1f---4</link>
       <description>Mixpanel通过其自定义数据库Arb，实现了比传统数据仓库更快的漏斗查询，性能提升高达7倍。Arb利用事件数据模型优化了产品分析查询，而Mixpanel的架构和事件数据模型使得漏斗查询比Snowflake等数据仓库更高效。尽管数据仓库可以通过扩展和聚类来提高性能，但Mixpanel在漏斗查询方面的优势依然明显。</description>
