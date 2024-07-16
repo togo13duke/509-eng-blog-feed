@@ -12,6 +12,58 @@
     </item>
   
     <item>
+      <title>Eliminating hardware with Load Balancing and Cloudflare One</title>
+      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
+      <description>Cloudflare推出了一项新的负载均衡解决方案，支持本地流量管理（LTM），并扩展到私有网络，允许组织在公共和私有网络之间无缝平衡流量。该解决方案通过Cloudflare One平台与云负载均衡的集成，消除了对专用硬件负载均衡器的需求，降低了成本并提高了效率。</description>
+    </item>
+  
+    <item>
+      <title>Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features</title>
+      <link>https://blogs.nvidia.com/blog/studio-wondershare-filmora-rtx-ai-july-driver/</link>
+      <description>Wondershare Filmora视频编辑软件新增NVIDIA RTX Video HDR支持，显著提升视频质量。同时，OBS Studio和XSplit Broadcaster支持Twitch增强式直播，提供更高质量的直播体验。NVIDIA Studio Driver更新包含创意应用更新，支持创作者使用最新技术。内容创作者Kevin Stratvert分享如何利用AI功能在Filmora中创作内容。</description>
+    </item>
+  
+    <item>
+      <title>City of Hope Redefines Predictive Sepsis Detection Using Kafka</title>
+      <link>https://www.confluent.io/blog/city-of-hope-redefines-predictive-sepsis-detection-using-kafka/</link>
+      <description>City of Hope利用Apache Kafka构建实时数据流平台，以预测和预防骨髓移植患者的败血症风险。该平台通过整合患者生命体征、药物、实验室结果和ADT数据，实时分析并触发临床工作流程和通知，从而降低败血症和重症监护病房的转诊率。Confluent Cloud在Azure上的部署为City of Hope提供了可扩展和可靠的实时基础设施，确保了数据流平台的稳定运行。</description>
+    </item>
+  
+    <item>
+      <title>Q2 2024 Internet disruption summary</title>
+      <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
+      <description>2024年第二季度，全球互联网中断事件频发。中东和北非地区政府为防止学生作弊，多次关闭或干扰互联网连接。海底光缆切割、维护、电力故障和未知问题也导致互联网连接中断。乌克兰互联网连接因俄罗斯攻击而受损。此外，肯尼亚、乌干达、坦桑尼亚等国家因抗议活动而出现互联网流量下降。海底光缆故障影响东非多个国家，造成互联网连接中断。</description>
+    </item>
+  
+    <item>
+      <title>Deploying SQL Server on Linux using an Ansible playbook</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/deploying-sql-server-linux-using-ansible-playbook</link>
+      <description>使用Ansible Playbook在Linux上部署SQL Server
+
+本文介绍了如何使用Ansible Playbook在Linux上自动化部署和配置Microsoft SQL Server。通过Ansible和Red Hat Enterprise Linux (RHEL)的系统角色，可以简化部署过程，减少手动干预和错误。文章详细说明了安装Ansible Core、配置SSH访问、安装SQL Server系统角色以及创建和配置Ansible Playbook的步骤。此外，还讨论了迁移到SQL Server 2022 on RHEL 9的好处，包括成本降低、简化配置和管理，以及增强安全性。</description>
+    </item>
+  
+    <item>
+      <title>How to Install TimescaleDB on AWS</title>
+      <link>https://www.timescale.com/blog/how-to-install-timescaledb-on-aws/</link>
+      <description>如何在AWS上安装TimescaleDB
+
+本文介绍了如何在AWS上安装TimescaleDB，一个基于PostgreSQL的强大开源数据库，用于高效管理时间序列数据、事件和分析。文章详细说明了如何创建AWS账户、设置EC2实例、安装和配置TimescaleDB，以及如何使用它进行数据查询。通过本教程，用户可以快速搭建一个可扩展且高性能的数据库，满足时间序列数据需求。</description>
+    </item>
+  
+    <item>
+      <title>★ A package to use Filepond in your Livewire component</title>
+      <link>https://freek.dev/2738-a-package-to-use-filepond-in-your-livewire-component</link>
+      <description>新包livewire-filepond允许在Livewire组件中轻松上传文件，使用JavaScript库Filepond实现。通过简单步骤，即可在Laravel应用中集成，提供多种自定义选项，并已在邮件营销平台Mailcoach中应用。</description>
+    </item>
+  
+    <item>
+      <title>The Download: K-pop stans’ climate plans, and what AI isn’t</title>
+      <link>https://www.technologyreview.com/2024/07/16/1095006/the-download-k-pop-stans-climate-plans-and-what-ai-isnt/</link>
+      <description>K-pop粉丝发起环保行动，呼吁音乐流媒体行业减少能源消耗；同时，文章探讨了人工智能的定义及其在技术领域的应用和争议。</description>
+    </item>
+  
+    <item>
       <title>Client-Driven Demos: Get Real Feedback Early</title>
       <link>https://spin.atomicobject.com/client-driven-demos/</link>
       <description>客户主导的演示：尽早获取真实反馈
@@ -107,6 +159,18 @@
       <title>Tech Up or Suit Up: Corporate strategy for BFSI growth</title>
       <link>https://www.thoughtworks.com/insights/blog/product-innovation/corporate-strategy_bfsi_growth</link>
       <description>本文探讨了企业如何通过科技或银行牌照两种方式进入金融服务业（BFSI）。文章分析了两种策略：FinTech Forward（科技驱动）和Building a Bank（银行化）。FinTech Forward侧重于利用技术提供金融服务，而Building a Bank则是通过获得银行牌照来提供金融服务。文章还讨论了市场分析、知识库建设、产品开发、合规性和市场推广等关键步骤，并提供了苹果和约翰·迪尔作为案例研究的例子。</description>
+    </item>
+  
+    <item>
+      <title>How to make complex Chrome plugins: a zero gravity guide</title>
+      <link>https://evilmartians.com/chronicles/how-to-make-complex-chrome-plugins-a-zero-gravity-guide</link>
+      <description>本文介绍了如何创建复杂的Chrome插件，以Evil Martians团队开发的Playbook插件为例，详细阐述了插件开发的过程，包括OAuth授权、内容脚本的使用、图像预览和保存等功能。文章强调了前端工程师在插件开发中的重要性，并提供了实用的开发技巧和代码示例。</description>
+    </item>
+  
+    <item>
+      <title>A Resize Plugin for Alpine.js</title>
+      <link>https://laravel-news.com/alpinejs-resize</link>
+      <description>Alpine.js的创建者Caleb Porzio发布了一个名为Resize的插件，它通过Resize Observer API允许用户轻松地响应元素大小的变化。该插件可用于自定义基于大小的动画、智能粘性定位、根据元素大小条件性地添加属性等。示例代码展示了如何使用x-resize属性来处理大小变化，并提供了使用document修饰符获取整个文档宽高的方法。更多关于此插件的信息可在Alpine.js文档中找到。</description>
     </item>
   
     <item>
