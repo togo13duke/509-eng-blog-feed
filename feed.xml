@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Mixpanel delivers funnels up to 7x faster than the data warehouse</title>
+      <link>https://engineering.mixpanel.com/how-mixpanel-delivers-funnels-up-to-7x-faster-than-the-data-warehouse-af6da1f5a982?source=rss----b5de3443ad1f---4</link>
+      <description>Mixpanel通过其自定义数据库Arb，实现了比传统数据仓库更快的漏斗查询，性能提升高达7倍。Arb利用事件数据模型优化了产品分析查询，而Mixpanel的架构和事件数据模型使得漏斗查询比Snowflake等数据仓库更高效。尽管数据仓库可以通过扩展和聚类来提高性能，但Mixpanel在漏斗查询方面的优势依然明显。</description>
+    </item>
+  
+    <item>
       <title>Here’s how carefully concealed backdoor in fake AWS files escaped mainstream notice</title>
       <link>https://arstechnica.com/?p=2037194</link>
       <description>研究人员发现，两个假冒的AWS软件包在开源NPM JavaScript仓库中被下载数百次，这些软件包包含精心隐藏的后门代码，当执行时会在开发者的计算机上留下后门。这些软件包模仿了合法的JavaScript库aws-s3-object-multipart-copy，但添加了一个名为loadformat.js的额外JavaScript文件，其中包含用于后门开发者设备的代码片段。这种攻击表明，针对开源仓库的攻击日益复杂，需要开发者和安全组织提高警惕。</description>
@@ -233,6 +239,12 @@
       <title>Boosting America's digital defense: Key takeaways from the FY 2026 budget priorities</title>
       <link>https://www.elastic.co/blog/fiscal-year-2026-budget-key-takeaways</link>
       <description>美国2026财年预算优先事项中，加强数字防御的关键要点包括：强调零信任架构的实施，提高关键基础设施的网络安全标准，确保开源软件的安全使用，打击网络犯罪和威胁行为者，加强网络安全人才队伍建设，为后量子密码学做准备，扩大公私合作。这些措施旨在建立一个更强大、更适应性的网络安全生态系统。</description>
+    </item>
+  
+    <item>
+      <title>Effective Identity Threat Response with Teleport</title>
+      <link>https://goteleport.com/blog/identity-threat-response-with-teleport/</link>
+      <description>Teleport 16通过设备信任、多因素认证和VNET等技术，加强基础设施深度防御。文章介绍了如何利用Teleport平台检测和响应身份威胁，包括锁定会话和身份、监控访问、记录会话等，以保护基础设施免受身份攻击。</description>
     </item>
   
     </channel>
