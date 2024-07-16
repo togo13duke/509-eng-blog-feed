@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Mercari Ranked #1 in Technology Branding Ranking for three years in a row!</title>
+      <link>https://engineering.mercari.com/en/blog/entry/20240716-dx-award-2024/</link>
+      <description>Mercari连续三年荣获日本CTO协会“技术品牌排名”第一，得益于工程师们的日常技术贡献和积极参与社区活动。公司致力于培养工程师间的交流，支持开源社区，并致力于传播工程组织提供的价值。</description>
+    </item>
+  
+    <item>
+      <title>Changing port maps in Docker Compose</title>
+      <link>https://akrabat.com/changing-port-maps-in-docker-compose/</link>
+      <description>Docker Compose中更改端口映射：Rob Allen介绍了如何在Docker Compose中映射端口，包括添加、替换和删除端口映射，并解释了如何使用`compose.override.yaml`文件来覆盖配置。他还提到了`!override`和`!reset`关键字以及Docker Compose配置文件名的变更。</description>
+    </item>
+  
+    <item>
+      <title>Music streaming can be a drag on the environment. These K-pop fans want to clean it up.</title>
+      <link>https://www.technologyreview.com/2024/07/16/1094982/music-streaming-climate-kpop-fan/</link>
+      <description>K-pop粉丝团体Kpop4Planet通过倡导使用可再生能源，成功促使韩国最大音乐流媒体平台Melon承诺到2030年使用100%可再生能源。该团体还推动汽车制造商现代放弃与依赖新燃煤电厂的铝生产商的合作，以减少碳排放。Kpop4Planet通过在线请愿和线下活动，动员粉丝支持环保行动，展示了K-pop粉丝在推动社会变革方面的力量。</description>
+    </item>
+  
+    <item>
       <title>The framework helping devs build LLM apps</title>
       <link>https://stackoverflow.blog/2024/07/16/the-framework-helping-devs-build-llm-apps/</link>
       <description>LlamaIndex CEO Jerry Lu与风险投资家Jerry Chen讨论了如何简化开发者构建大型语言模型（LLM）应用的流程。他们强调了高质量训练数据的重要性，以及提示工程、更大上下文窗口的影响和检索增强生成（RAG）的挑战。LlamaIndex是一个用于构建LLM应用的数据框架，提供开源框架和开发者社区LlamaHub。</description>
@@ -51,6 +69,18 @@
       <title>Beyond ordinary: Finding passion and purpose at work</title>
       <link>https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/beyond-ordinary-finding-passion-and-purpose-at-work</link>
       <description>在Thoughtworks，我们相信工作不应仅仅是生存的手段，而是一个可以发掘个人优势、创造真正影响并因面对挑战而感到激情的地方。本文通过几位Thoughtworkers的亲身经历，展示了他们如何找到充满意义和激情的职业道路，以及Thoughtworks如何通过强调社区、创新、社会影响和持续学习来支持员工的个人成长和职业发展。</description>
+    </item>
+  
+    <item>
+      <title>So you want to compete with or replace open source</title>
+      <link>https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html</link>
+      <description>开源软件运动基于协作，其成功归功于这一基础。然而，商业利益进入这一运动后，其经济模式与单一企业运作的经济模式大相径庭。开源软件的商业模式与竞争不相容，因为竞争模式忽视了开源的核心优势——协作。要成功在开源领域竞争，企业必须找到一种方式，既能保持创新合作，又能实现商业利益。</description>
+    </item>
+  
+    <item>
+      <title>My notes on "Things you wish you didn't need to know about S3"</title>
+      <link>https://advancedweb.hu/shorts/my-notes-on-things-you-wish-you-didnt-need-to-know-about-s3/</link>
+      <description>这篇文章探讨了S3的一些令人惊讶的事实，包括其API的错误和难以修复的问题，如公开可写存储桶和非加密对象。文章还讨论了存储类和对象锁等特性，以及AWS中存在的一些可能导致安全问题的默认设置。作者强调了理解底层技术的重要性，并指出了一些可能导致系统不稳定的“快速修复”方法。</description>
     </item>
   
     <item>
