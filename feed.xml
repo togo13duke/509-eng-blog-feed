@@ -12,6 +12,32 @@
     </item>
   
     <item>
+      <title>Fish in Water</title>
+      <link>https://blog.rootsofprogress.org/thm-ch1-fish-in-water</link>
+      <description>现代社会的高科技和工业成就让我们享受着前所未有的繁荣，但我们也容易忽视这些成就背后的艰辛和牺牲。作者通过对比过去和现在的生活条件，提醒我们珍惜科技进步带来的便利，并感激前人的努力，同时也要继续推动进步，为后代创造更美好的世界。</description>
+    </item>
+  
+    <item>
+      <title>Nomad Bench: Load testing and benchmarking for Nomad</title>
+      <link>https://www.hashicorp.com/blog/nomad-bench-load-testing-and-benchmarking-for-nomad</link>
+      <description>Nomad Bench是一个用于Nomad集群的负载测试和基准测试工具，旨在帮助用户理解Nomad的可扩展性并发现大规模部署中的问题。它由核心集群和测试集群组成，使用nomad-nodesim模拟大量Nomad客户端，并通过InfluxDB收集和分析数据。Nomad Bench允许用户进行可重复的大规模测试，以优化Nomad的性能和资源使用。</description>
+    </item>
+  
+    <item>
+      <title>How and when to use an authoritative leadership style</title>
+      <link>https://www.atlassian.com/blog/leadership/authoritative-leadership</link>
+      <description>权威领导风格：定义、优点和缺点
+
+权威领导风格并非如名字所示那样严格和无情。这种领导方式在特定情况下有其优点。权威领导者设定目标并提供资源，同时鼓励团队成员自主决定最佳路径。这种风格有助于提高决策速度和效率，提供清晰的指导，并增强团队信任。然而，它也可能导致过度依赖领导者、缺乏团队参与和潜在的微观管理问题。在面临重大变革、需要快速决策、新员工入职或团队面临批评时，权威领导风格可能最为有效。</description>
+    </item>
+  
+    <item>
+      <title>A Brief History of AI: How Did We Get Here, and What's Next?</title>
+      <link>https://www.timescale.com/blog/a-brief-history-of-ai/</link>
+      <description>人工智能从科幻变为现实，本文探讨了人工智能的历史、发展及其对未来的影响。文章指出，人工智能的发展得益于合作与开放分享、经济投资、以及技术突破。作者强调，了解人工智能的历史有助于预测其未来，并提出了三个关键教训：合作与开放分享、经济周期、以及技术发展速度的加快。</description>
+    </item>
+  
+    <item>
       <title>AI Lab: The secrets to keeping machine learning engineers moving fast</title>
       <link>https://engineering.fb.com/2024/07/16/developer-tools/ai-lab-secrets-machine-learning-engineers-moving-fast/</link>
       <description>Meta的AI Lab通过优化机器学习工程师的首次批量时间（TTFB）来加速开发速度。该框架允许持续进行A/B测试，以主动改进并防止回归，从而将TTFB减少高达40%。AI Lab通过减少TTFB的延迟，提高了工程师的迭代速度，并促进了Meta的整体创新速度。</description>
@@ -77,6 +103,12 @@
       <description>使用Ansible Playbook在Linux上部署SQL Server
 
 本文介绍了如何使用Ansible Playbook在Linux上自动化部署和配置Microsoft SQL Server。通过Ansible和Red Hat Enterprise Linux (RHEL)的系统角色，可以简化部署过程，减少手动干预和错误。文章详细说明了安装Ansible Core、配置SSH访问、安装SQL Server系统角色以及创建和配置Ansible Playbook的步骤。此外，还讨论了迁移到SQL Server 2022 on RHEL 9的好处，包括成本降低、简化配置和管理，以及增强安全性。</description>
+    </item>
+  
+    <item>
+      <title>Improved CDN Performance</title>
+      <link>https://vercel.com/changelog/improved-cdn-performance</link>
+      <description>Vercel通过增加初始TCP拥塞窗口300%来提升边缘网络性能，使网站加载速度更快。这项优化立即对所有Vercel客户生效，无需用户操作，可显著提升网站加载速度。</description>
     </item>
   
     <item>
@@ -156,6 +188,12 @@
     </item>
   
     <item>
+      <title>Testing Pseudo-elements Using Cypress</title>
+      <link>https://glebbahmutov.com/blog/testing-pseudo-elements-using-cypress/</link>
+      <description>本文介绍了如何使用Cypress测试伪元素，如`::after`。作者通过实际案例展示了如何验证伪元素的存在和内容，包括处理延迟加载的情况。文章还提供了测试购物车图标旁红点的示例，展示了如何通过颜色变化来确认伪元素的状态。</description>
+    </item>
+  
+    <item>
       <title>CVE-2024-39908 : DoS in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
       <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
@@ -165,6 +203,12 @@
       <title>SkillsEngine: Accelerating product &amp; design with Replit Teams</title>
       <link>https://blog.replit.com/skillsengine-accelerating-product-and-design-with-replit-teams</link>
       <description>Replit Teams帮助SkillsEngine团队从传统的无代码部门转变为高效的代码编写团队，通过快速原型设计和内部工具开发，提高了工作效率，节省了大量资源和成本。该团队利用Replit的实时协作功能，在不到一天的时间内就完成了原型设计，并加速了从想法到软件的开发过程。通过使用Replit，SkillsEngine在数据自动化和内部工具构建方面取得了显著成果，提高了工作效率，节省了大量时间和资金。</description>
+    </item>
+  
+    <item>
+      <title>Bolt Foundry: How an ex-Meta engineering leader built his startup with Replit Teams</title>
+      <link>https://blog.replit.com/bolt-foundry-how-an-ex-meta-engineering-leader-built-his-startup-with-replit-teams</link>
+      <description>Bolt Foundry，由前Meta工程领导创立，通过使用Replit Teams平台，大幅减少了在云基础设施上的开发时间，从而将更多精力投入到创意和产品开发中。Replit Teams提供了端到端的应用构建、协作和部署平台，简化了资源管理、原型设计和迭代过程，并优化了基础设施设置。这使Bolt Foundry能够更快地部署产品，提高效率，并节省了大量成本。</description>
     </item>
   
     <item>
@@ -398,6 +442,12 @@
     </item>
   
     <item>
+      <title>England vs Spain: How the Game Went Down on Social</title>
+      <link>https://www.brandwatch.com/blog/eng-vs-esp/</link>
+      <description>英格兰与西班牙的比赛在社交媒体上的热门瞬间和最受关注的球员揭晓，西班牙在球场上获胜的同时，也在社交媒体上赢得了人心。通过分析比赛期间的公开在线提及，西班牙获得了57%的整体声音份额，且正面提及远多于负面提及。</description>
+    </item>
+  
+    <item>
       <title>Ansible Collection for Red Hat Runtimes</title>
       <link>https://developers.redhat.com/articles/2024/07/15/ansible-collection-red-hat-runtimes</link>
       <description>本文介绍了如何为Red Hat Runtimes产品选择合适的Ansible集合。文章详细解释了开源版本和商业版本之间的区别，并提供了使用Ansible自动化部署和管理Red Hat Runtimes产品的指南。对于非Red Hat客户，可以使用开源版本，而对于有Red Hat订阅的客户，应使用由Red Hat支持的商业版本。文章还提供了如何安装和使用Ansible集合的示例。</description>
@@ -479,6 +529,12 @@
       <title>How recent New York State cybersecurity regulations could affect your business</title>
       <link>https://www.twilio.com/en-us/blog/new-york-state-23-nycrr-part-500</link>
       <description>纽约州最新的网络安全法规可能对您的业务产生重大影响。这些法规，如23 NYCRR Part 500，要求金融机构实施全面的网络安全计划，包括风险评估和特定安全措施，以保护客户数据和防止网络威胁。法规还强制要求多因素认证（MFA），以增强信息系统的安全性并保护免受身份攻击。Twilio Verify提供了一种API，旨在满足MFA的需求，通过多种渠道提供定制和用户友好的体验，帮助组织加强防御并符合法规要求。</description>
+    </item>
+  
+    <item>
+      <title>Publishable Network Contracts in Scrapscript</title>
+      <link>https://taylor.town/unsound-2024-cfp</link>
+      <description>Scrapscript通过结合编程语言特性、类型系统保证和生态系统默认设置，解决了网络程序间通信的不稳定性问题。它采用强类型函数式语言，确保所有表达式可内容寻址，并通过“废料场”共享代码片段。所有条目都经过加密签名，提供简单合同机制。Scrapscript的地址类型支持类型检查和编译时安全性，同时提供SLA合同和审计跟踪。</description>
     </item>
   
     </channel>
