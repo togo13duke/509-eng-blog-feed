@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>10 AI-Powered API Security Tools</title>
+      <link>https://nordicapis.com/10-ai-powered-api-security-tools/</link>
+      <description>本文介绍了10款AI驱动的API安全工具，包括Salt Security、AI Copilot by APIMatic、Bright Security等，这些工具利用AI和机器学习技术提高API安全性，提供自动化、智能化的安全解决方案，有助于提升网络安全态势。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Toolbx</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/introducing-toolbx</link>
+      <description>Red Hat Enterprise Linux（RHEL）推出了一款名为Toolbx的开发和故障排除工具，它支持现代开发和故障排除工作流程。Toolbx基于Podman和其他标准容器技术，允许用户在容器内安装开发工具和SDK，而不会影响主机操作系统。Toolbx适用于开发各种应用程序，包括桌面应用和操作系统组件，同时也能用于网络故障排除。</description>
+    </item>
+  
+    <item>
+      <title>Improved Right Sizing experience in Red Hat Advanced Cluster Management for Kubernetes (RHACM)</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/improved-right-sizing-experience-red-hat-advanced-cluster-management-kubernetes</link>
+      <description>Red Hat Advanced Cluster Management for Kubernetes (RHACM)的“Right Sizing”功能得到增强，帮助管理员优化资源分配，提高集群效率。通过分析历史使用数据和资源请求，该功能可提供CPU和内存利用率的建议，帮助管理员识别资源浪费，并实施最佳实践，从而降低成本。此功能目前处于开发者预览阶段，可通过RHACM控制台访问。</description>
+    </item>
+  
+    <item>
       <title>CVE-2024-39908 : DoS in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
       <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
@@ -27,6 +45,12 @@
       <title>How Many People Speak Croatian, And Where Is It Spoken?</title>
       <link>https://www.babbel.com/en/magazine/croatian-language</link>
       <description>克罗地亚语是一种广泛使用的语言，属于塞尔维亚-克罗地亚语系。其历史可追溯至6至7世纪斯拉夫人的迁移，最早的书面证据可追溯到11世纪的Bescanuova石碑。19世纪，塞尔维亚和克罗地亚的知识分子推动了文学统一，形成了所谓的塞尔维亚-克罗地亚语。如今，克罗地亚语是克罗地亚和波斯尼亚和黑塞哥维那的官方语言，约有6400万人使用，其中5000万人将其作为母语。克罗地亚语使用拉丁字母，有三种主要方言：Ciacavo、Caicavo和Stocavo。</description>
+    </item>
+  
+    <item>
+      <title>Beyond ordinary: Finding passion and purpose at work</title>
+      <link>https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/beyond-ordinary-finding-passion-and-purpose-at-work</link>
+      <description>在Thoughtworks，我们相信工作不应仅仅是生存的手段，而是一个可以发掘个人优势、创造真正影响并因面对挑战而感到激情的地方。本文通过几位Thoughtworkers的亲身经历，展示了他们如何找到充满意义和激情的职业道路，以及Thoughtworks如何通过强调社区、创新、社会影响和持续学习来支持员工的个人成长和职业发展。</description>
     </item>
   
     <item>
