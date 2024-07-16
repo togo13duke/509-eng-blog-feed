@@ -12,6 +12,36 @@
     </item>
   
     <item>
+      <title>AI Lab: The secrets to keeping machine learning engineers moving fast</title>
+      <link>https://engineering.fb.com/2024/07/16/developer-tools/ai-lab-secrets-machine-learning-engineers-moving-fast/</link>
+      <description>Meta的AI Lab通过优化机器学习工程师的首次批量时间（TTFB）来加速开发速度。该框架允许持续进行A/B测试，以主动改进并防止回归，从而将TTFB减少高达40%。AI Lab通过减少TTFB的延迟，提高了工程师的迭代速度，并促进了Meta的整体创新速度。</description>
+    </item>
+  
+    <item>
+      <title>Inline Code Suggestions, Test Generation, and More With Einstein for Developers</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/inline-code-suggestions-test-generation-and-more-with-einstein-for-developers.html</link>
+      <description>Einstein for Developers（Beta）是一款由人工智能驱动的代码生成工具，旨在提高开发者的生产力。它支持Apex和LWC开发，可安装于Visual Studio Code和Code Builder，且完全免费。该工具集成了大型语言模型、新的配置面板、Apex和LWC的行内自动完成以及测试用例生成等功能，旨在帮助开发者更快地完成工作。</description>
+    </item>
+  
+    <item>
+      <title>Big Brain Discount for PhDs (1% off)</title>
+      <link>https://catonmat.net/phd-big-brain-discount</link>
+      <description>PhD用户可享受Browserling和Online Tools的1%折扣，使用优惠码BIGBRAINS。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 6</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240716-00/?p=109973</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者介绍了如何使用MakeCompleted和MakeFailed函数创建异步活动，并提出了使用模板和转换操作符来简化代码的技巧。文章还讨论了在协程外创建失败或完成的异步活动的情况，并提出了改进建议。</description>
+    </item>
+  
+    <item>
+      <title>Exercises Course: Introduction to Web Scraping With Python</title>
+      <link>https://realpython.com/courses/exercises-introduction-web-scraping/</link>
+      <description>本课程介绍如何使用Python进行网页抓取，包括使用字符串方法和正则表达式解析网站数据，以及与表单和其他网站组件交互。课程包含23个课时，视频字幕和完整脚本，并提供相关资源，适合有一定基础的Python学习者。</description>
+    </item>
+  
+    <item>
       <title>Eliminating hardware with Load Balancing and Cloudflare One</title>
       <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
       <description>Cloudflare推出了一项新的负载均衡解决方案，支持本地流量管理（LTM），并扩展到私有网络，允许组织在公共和私有网络之间无缝平衡流量。该解决方案通过Cloudflare One平台与云负载均衡的集成，消除了对专用硬件负载均衡器的需求，降低了成本并提高了效率。</description>
@@ -33,6 +63,12 @@
       <title>Q2 2024 Internet disruption summary</title>
       <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
       <description>2024年第二季度，全球互联网中断事件频发。中东和北非地区政府为防止学生作弊，多次关闭或干扰互联网连接。海底光缆切割、维护、电力故障和未知问题也导致互联网连接中断。乌克兰互联网连接因俄罗斯攻击而受损。此外，肯尼亚、乌干达、坦桑尼亚等国家因抗议活动而出现互联网流量下降。海底光缆故障影响东非多个国家，造成互联网连接中断。</description>
+    </item>
+  
+    <item>
+      <title>Active Directory Utility for SQL Server (ADUTIL) now officially supported with RHEL 9</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/active-directory-utility-sql-server-adutil-now-officially-supported-rhel-9</link>
+      <description>Active Directory Utility for SQL Server (ADUTIL) 现已正式支持 RHEL 9。该工具允许在 Linux 和容器上配置和管理 Windows Active Directory 域，无需在 Windows 和 Linux 机器之间切换。ADUTIL 提供了创建账户、配置 SPN 和生成密钥表等功能，以简化 SQL Server 在 Linux 和容器上的 AD 认证配置。</description>
     </item>
   
     <item>
@@ -126,6 +162,12 @@
     </item>
   
     <item>
+      <title>SkillsEngine: Accelerating product &amp; design with Replit Teams</title>
+      <link>https://blog.replit.com/skillsengine-accelerating-product-and-design-with-replit-teams</link>
+      <description>Replit Teams帮助SkillsEngine团队从传统的无代码部门转变为高效的代码编写团队，通过快速原型设计和内部工具开发，提高了工作效率，节省了大量资源和成本。该团队利用Replit的实时协作功能，在不到一天的时间内就完成了原型设计，并加速了从想法到软件的开发过程。通过使用Replit，SkillsEngine在数据自动化和内部工具构建方面取得了显著成果，提高了工作效率，节省了大量时间和资金。</description>
+    </item>
+  
+    <item>
       <title>Ethical Considerations in Link Building</title>
       <link>https://soshace.com/2024/07/15/ethical-considerations-in-link-building/</link>
       <description>链接建设是提升网站在线权威和可见性的关键，通过SEO店铺购买高质量链接，可以增强网站吸引力，提高搜索引擎排名。链接建设不仅是交易，更是对数字未来的投资，通过策略和洞察力，构建可持续的在线存在。</description>
@@ -201,6 +243,12 @@
       <title>Announcing the General Availability of Serverless Compute for Notebooks, Workflows and Delta Live Tables</title>
       <link>https://www.databricks.com/blog/announcing-general-availability-serverless-compute-notebooks-workflows-and-delta-live-tables</link>
       <description>Databricks宣布其无服务器计算服务现在可用于Notebooks、工作流程和Delta Live Tables，支持AWS和Azure。这项服务提供快速、简单且可靠的计算环境，用户只需为实际使用的工作量付费。无服务器计算简化了计算基础设施的管理，并自动调整资源以优化性能和成本。Databricks还提供预算管理和成本监控工具，确保用户能够有效控制开支。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Docker on Ubuntu 24.04</title>
+      <link>https://www.rosehosting.com/blog/how-to-install-docker-on-ubuntu-24-04/</link>
+      <description>本文介绍了如何在Ubuntu 24.04操作系统上安装Docker。通过一系列步骤，包括更新系统、添加Docker GPG密钥、添加仓库到APT源、安装Docker、管理Docker服务和创建Docker容器，用户可以成功安装并运行Docker。教程还提供了创建和启动Docker容器的示例。</description>
     </item>
   
     <item>
@@ -305,6 +353,18 @@
       <title>Module Augmentation is a Hidden Gem in TypeScript</title>
       <link>https://spin.atomicobject.com/module-augmentation-typescript/</link>
       <description>TypeScript中的模块扩展和接口合并是强大的特性，允许在不修改原始源代码的情况下扩展或修改现有模块。在作者的项目中，这些特性被用于创建一个提供类型安全访问功能标志的包，通过模块扩展和接口合并，可以轻松地添加新属性或方法到接口中，同时扩展现有模块以满足特定需求。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Use Generators and yield in Python</title>
+      <link>https://realpython.com/quizzes/generators-and-yield-in-python/</link>
+      <description>本篇文章介绍了Python中的生成器和yield语句，它们在处理大数据集和保持函数内部状态时非常有用。通过理解生成器，可以更高效地处理大量数据，创建生成器函数和表达式，并构建高效的数据管道。文章提供了一个包含10个问题的互动测验，帮助检验对生成器的理解。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Write Beautiful Python Code With PEP 8</title>
+      <link>https://realpython.com/quizzes/python-pep8/</link>
+      <description>本文章介绍了一个关于如何使用PEP 8编写美观Python代码的互动测验。测验包含12个问题，旨在帮助读者复习PEP 8的关键指南，并学习如何设置开发环境以编写符合PEP 8规范的代码。</description>
     </item>
   
     <item>
