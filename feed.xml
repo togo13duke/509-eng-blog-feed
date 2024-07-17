@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Vulnerability in Cisco Smart Software Manager lets attackers change any user password</title>
+      <link>https://arstechnica.com/?p=2037733</link>
+      <description>Cisco Smart Software Manager On-Prem存在严重漏洞，允许攻击者无需认证即可更改任何用户的密码，包括管理员账户。该漏洞可能导致攻击者控制设备，进而威胁网络安全。Cisco已发布安全更新以修复此漏洞。</description>
+    </item>
+  
+    <item>
       <title>Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers</title>
       <link>https://www.docker.com/blog/docker-desktop-4-32/</link>
       <description>Docker Desktop 4.32版本推出多项新功能，包括Beta版本的Compose文件查看器、终端集成和云提供商的卷备份，旨在简化数据工作流程并提高用户生产力。新功能包括改进的开发者体验、增强的生产力、简化数据管理和简化管理，旨在帮助开发团队更有效地构建、共享和运行创新应用程序。</description>
