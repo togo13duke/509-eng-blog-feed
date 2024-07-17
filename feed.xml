@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Inside the Vision for SingleStore's New Portal Navigation</title>
+      <link>https://www.singlestore.com/blog/singlestores-new-portal-navigation</link>
+      <description>SingleStore即将推出新的门户导航，以更好地服务于不断发展的业务。新导航旨在解决现有界面的问题，并重新定义核心用户群体。设计目标是创建一个可扩展的导航方案，增强管理员和开发者的工作流程，并提高用户对对象及其关系的理解。新功能包括可折叠侧边栏、数据工作室模式探索器和通用部署下拉菜单。</description>
+    </item>
+  
+    <item>
+      <title>Rite Aid says breach exposes sensitive details of 2.2 million customers</title>
+      <link>https://arstechnica.com/?p=2037497</link>
+      <description>Rite Aid表示，一次数据泄露事件暴露了220万客户的敏感信息，包括姓名、地址、出生日期和驾照号码。泄露的数据与2017年6月6日至2018年7月30日期间的零售产品购买或尝试购买有关。Rite Aid在内部调查后迅速采取措施终止未授权访问并修复受影响的系统。</description>
+    </item>
+  
+    <item>
       <title>Former OpenAI researcher’s new company will teach you how to build an LLM</title>
       <link>https://arstechnica.com/?p=2037425</link>
       <description>前OpenAI研究员安德烈·卡尔帕西创立了名为Eureka Labs的新AI学习平台，旨在教授学生如何构建大型语言模型（LLM）。该平台结合了专家设计的课程材料和基于LLM的人工智能教学助手，以提供个性化的教育体验，并使高质量的教育更加普及。</description>
