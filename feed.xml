@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT</title>
+      <link>https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/</link>
+      <description>研究人员利用GitHub创新图数据估计ChatGPT对软件开发活动的影响，发现ChatGPT的可用性显著增加了每个国家的Git推送数量，并提高了开发者的参与度。研究采用因果推断技术，分析了生成式AI工具对软件开发速度的影响，结果表明ChatGPT加速了既定的开发过程。</description>
+    </item>
+  
+    <item>
+      <title>Data Cloud in Sandbox Environments is Now in Beta</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/data-cloud-in-sandbox-environments.html</link>
+      <description>Salesforce宣布Data Cloud功能现在可在沙盒环境中进行开发和测试，为开发者提供了一个统一的测试平台，结合了Data Cloud的强大功能和现有的Salesforce数据、配置和工作流程。这允许开发者在一个安全、隔离的环境中测试、定制和培训用户，而不会影响生产环境。通过沙盒，开发者可以探索和验证Data Cloud的多种能力，如数据流、模型、AI和Analytics，以及个性化营销等，从而在将更改部署到生产环境之前确保所有方面都能和谐工作。</description>
+    </item>
+  
+    <item>
+      <title>Trump allies want to “Make America First in AI” with sweeping executive order</title>
+      <link>https://arstechnica.com/?p=2037557</link>
+      <description>特朗普盟友计划通过全面行政命令“让美国在人工智能领域领先”，旨在推动军事技术发展并减少人工智能开发的监管。该计划包括一系列“曼哈顿计划”，旨在提升军事人工智能能力，并呼吁立即审查对人工智能发展的“不必要和繁重的监管”。</description>
+    </item>
+  
+    <item>
+      <title>age Plugins</title>
+      <link>https://words.filippo.io/dispatches/age-plugins/</link>
+      <description>Age是一个文件加密工具，支持将文件加密给多个接收者，并使用相应的身份进行解密。它具有内置的接收者类型，如公钥和密码加密，同时支持第三方接收者类型。Age的插件系统允许使用不同的算法和硬件，甚至远程API。文章介绍了Age的格式、库和工具级别的实现，以及如何使用插件进行加密和解密。</description>
+    </item>
+  
+    <item>
       <title>Tech Trends 2025 : prenez le pouls de la tech avec OCTO Pulse</title>
       <link>https://blog.octo.com/tech-trends-2025--prenez-le-pouls-de-la-tech-avec-octo-pulse</link>
       <description>2025年技术趋势展望：GenAI的普及、社会经济发展压力、可持续发展和IT监管成为关键议题。文章分析了软件工程、架构、可持续性和组织结构等方面的趋势，强调分布式软件工程、MACH架构和零信任安全的重要性。</description>
@@ -15,6 +39,12 @@
       <title>Python Protocols: Leveraging Structural Subtyping</title>
       <link>https://realpython.com/python-protocol/</link>
       <description>Python协议通过定义类必须实现的方法和属性来指定类型。它们在Python的类型提示系统中扮演重要角色，允许通过外部工具进行静态类型检查。协议克服了传统类型检查的限制，使静态鸭子类型成为可能。本文介绍了Python协议的概念、如何使用它们进行类型提示和静态鸭子类型，以及如何创建自定义协议。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 7</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240717-00/?p=109975</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动。作者Raymond Chen解释了如何通过实现异步接口来模拟已完成的异步活动，而不是使用协程。他提供了一个名为`completed_action`的结构体，该结构体实现了`IAsyncAction`接口，并演示了如何使用它来创建一个总是立即完成的异步操作。此外，他还讨论了如何处理进度更新和错误代码。</description>
     </item>
   
     <item>
