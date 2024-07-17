@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How I Take Smart Daily Notes as a Developer</title>
-      <link>https://spin.atomicobject.com/smart-daily-notes-developer/</link>
-      <description>作为一名开发者，作者分享了他如何通过日常笔记来提高个人效率。他从量化生产力开始，逐渐发展出一种好奇心驱动的文档系统，使用多种工具如Evernote、Markdown和Obsidian来记录任务、日志、会议和思考。这种方法帮助他保持工作清晰，提高沟通效率，并促进个人成长。</description>
-    </item>
-  
-    <item>
-      <title>Five ways to make music streaming better for the climate</title>
-      <link>https://www.technologyreview.com/2024/07/17/1095024/music-streaming-climate-friendly-tips/</link>
-      <description>音乐流媒体对环境的影响可以通过以下五种方式来改善：使用小型设备而非大电视，延长手机使用时间，回归数字下载，推动流媒体平台使用可再生能源，以及珍惜音乐并抵制过度消费。这些措施旨在减少碳排放，使音乐流媒体对环境的影响更小。</description>
-    </item>
-  
-    <item>
       <title>Google, Amazon and the problem with Big Tech’s climate claims</title>
       <link>https://www.technologyreview.com/2024/07/17/1095019/google-amazon-and-the-problem-with-big-techs-climate-claims/</link>
       <description>谷歌和亚马逊在实现气候目标方面都存在问题，但谷歌在减少温室气体排放方面的方法更具可辩护性。文章指出，公司实现净零排放的方式比速度更重要，应关注更广泛的气候影响，而非仅仅平衡碳排放。谷歌正在采取更可靠的方法，包括投资于碳移除技术和24/7清洁能源。亚马逊则依赖碳信用和可再生能源证书，但面临质疑，其清洁能源目标可能存在夸大之嫌。</description>
@@ -33,12 +21,6 @@
       <title>A brief introduction to Apps and Stacks Container Images</title>
       <link>https://developers.redhat.com/articles/2024/07/17/brief-introduction-apps-and-stacks-container-images</link>
       <description>本文介绍了Apps和Stacks容器镜像，从用户和开发者两个角度进行了阐述。Apps和Stacks容器镜像分为两类：Source-to-Image（S2I）镜像和无S2I镜像。S2I镜像包括Node.js、PHP、Ruby、Python等语言的容器镜像，无S2I镜像包括PostgreSQL、MySQL、Redis等数据库容器镜像。这些镜像支持多种操作系统，如Fedora、CentOS Stream、Red Hat Enterprise Linux等。用户可以通过容器注册库获取所需版本的容器镜像，开发者可以参与贡献新的容器版本。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: Sanitary Paths</title>
-      <link>https://thedailywtf.com/articles/sanitary-paths</link>
-      <description>Remy Porter在TDWTF上撰文讨论了C#中的SanitizePath方法。该方法旨在清理文件路径中的无效字符，但若路径无效，则仅记录错误并返回原始路径，导致其实用性大打折扣。Christian甚至将其简化为无操作，并最终从应用中移除。</description>
     </item>
   
     <item>
