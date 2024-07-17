@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-32/</link>
+      <description>Docker Desktop 4.32版本推出多项新功能，包括Beta版本的Compose文件查看器、终端集成和云提供商的卷备份，旨在简化数据工作流程并提高用户生产力。新功能包括改进的开发者体验、增强的生产力、简化数据管理和简化管理，旨在帮助开发团队更有效地构建、共享和运行创新应用程序。</description>
+    </item>
+  
+    <item>
       <title>Lessons Learned on a UI Revamp</title>
       <link>https://www.singlestore.com/blog/lessons-learned-on-a-ui-revamp</link>
       <description>在UI改版中，我们学到了用户对变化的极端反应需要被考虑，视觉提示对于引导用户适应新界面至关重要，以及用户对旧习惯的依赖难以改变。我们通过引入模态和指示器来帮助用户适应新变化，并意识到用户需要时间来习惯新界面。</description>
@@ -75,6 +81,12 @@
       <title>Transforming the energy industry through disruptive innovation</title>
       <link>https://www.technologyreview.com/2024/07/17/1095012/transforming-the-energy-industry-through-disruptive-innovation/</link>
       <description>施耐德电气首席创新官Nadège Petit强调，通过颠覆性创新转型能源行业，应对气候变化和能源需求增长的双重挑战。她提出，利用数字技术，如AI驱动的物联网解决方案，可以提升能源使用效率和弹性。Petit认为，逐步实施开放标准，推动短期影响，同时为长期脱碳目标奠定基础至关重要。她还强调了合作和创新的力量，以及施耐德电气通过投资初创企业加速可持续能源解决方案的重要性。</description>
+    </item>
+  
+    <item>
+      <title>New utilities to work with Vercel Functions</title>
+      <link>https://vercel.com/changelog/new-utilities-to-work-with-vercel-functions</link>
+      <description>Vercel Functions新增实用工具，包括地理位置、IP地址获取和系统环境变量获取等功能。通过安装最新包，开发者可立即使用这些方法。Vercel致力于为前端开发者提供快速、可靠的平台，助力创新。</description>
     </item>
   
     <item>
