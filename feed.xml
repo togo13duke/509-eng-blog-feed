@@ -6,6 +6,14 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Product management insights: Measuring change</title>
+      <link>https://thoughtbot.com/blog/product-management-insights-measuring-change</link>
+      <description>产品管理洞察：衡量变化
+
+本文探讨了如何有效衡量产品变化，强调了定量和定性方法的重要性。通过结合数据分析、用户反馈和测试，产品团队能够获得全面的洞察，以指导战略决策并提升产品。文章还讨论了用户体验测试、分析实施挑战、用户细分和A/B测试策略，以及平衡产出和结果的重要性。</description>
+    </item>
+  
+    <item>
       <title>Inside the Vision for SingleStore's New Portal Navigation</title>
       <link>https://www.singlestore.com/blog/singlestores-new-portal-navigation</link>
       <description>SingleStore即将推出新的门户导航，以更好地服务于不断发展的业务。新导航旨在解决现有界面的问题，并重新定义核心用户群体。设计目标是创建一个可扩展的导航方案，增强管理员和开发者的工作流程，并提高用户对对象及其关系的理解。新功能包括可折叠侧边栏、数据工作室模式探索器和通用部署下拉菜单。</description>
