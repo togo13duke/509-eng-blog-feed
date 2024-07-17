@@ -6,44 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Tech Trends 2025 : prenez le pouls de la tech avec OCTO Pulse</title>
-      <link>https://blog.octo.com/tech-trends-2025--prenez-le-pouls-de-la-tech-avec-octo-pulse</link>
-      <description>2025年技术趋势展望：GenAI的普及、社会经济发展压力、可持续发展和IT监管成为关键议题。文章分析了软件工程、架构、可持续性和组织结构等方面的趋势，强调分布式软件工程、MACH架构和零信任安全的重要性。</description>
-    </item>
-  
-    <item>
-      <title>Python Protocols: Leveraging Structural Subtyping</title>
-      <link>https://realpython.com/python-protocol/</link>
-      <description>Python协议通过定义类必须实现的方法和属性来指定类型。它们在Python的类型提示系统中扮演重要角色，允许通过外部工具进行静态类型检查。协议克服了传统类型检查的限制，使静态鸭子类型成为可能。本文介绍了Python协议的概念、如何使用它们进行类型提示和静态鸭子类型，以及如何创建自定义协议。</description>
-    </item>
-  
-    <item>
-      <title>Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality</title>
-      <link>https://blogs.nvidia.com/blog/ai-decoded-upscaling/</link>
-      <description>NVIDIA的RTX平台利用人工智能技术提升视频画质，通过分析图像和运动矢量生成新细节，实现视频无损放大。RTX Video Super Resolution可提升至4K分辨率，支持AI HDR，将标准动态范围内容转换为HDR。此外，GeForce NOW和SHIELD TV等设备也支持AI增强的视频画质提升，为用户提供更优质的观看体验。</description>
-    </item>
-  
-    <item>
-      <title>Transforming the energy industry through disruptive innovation</title>
-      <link>https://www.technologyreview.com/2024/07/17/1095012/transforming-the-energy-industry-through-disruptive-innovation/</link>
-      <description>施耐德电气首席创新官Nadège Petit强调，通过颠覆性创新转型能源行业，应对气候变化和能源需求增长的双重挑战。她提出，利用数字技术，如AI驱动的物联网解决方案，可以提升能源使用效率和弹性。Petit认为，逐步实施开放标准，推动短期影响，同时为长期脱碳目标奠定基础至关重要。她还强调了合作和创新的力量，以及施耐德电气通过投资初创企业加速可持续能源解决方案的重要性。</description>
-    </item>
-  
-    <item>
-      <title>The Download: Big Tech’s climate claims, and reducing your music streaming carbon footprint</title>
-      <link>https://www.technologyreview.com/2024/07/17/1095061/the-download-big-techs-climate-claims-and-reducing-your-music-streaming-carbon-footprint/</link>
-      <description>MIT Technology Review最新报道指出，尽管亚马逊和谷歌在气候承诺方面存在不足，但谷歌在减少温室气体排放方面的方法更具可辩护性。同时，文章还探讨了如何通过音乐流媒体减少碳排放，并提供了减少碳足迹的建议。</description>
-    </item>
-  
-    <item>
-      <title>How to Break Out of the Fear Loop</title>
-      <link>https://spin.atomicobject.com/how-to-break-out-of-the-fear-loop/</link>
-      <description>如何摆脱恐惧循环
-
-本文探讨了如何识别恐惧在主导我们的行为，并提供了克服恐惧、勇敢行动的策略。作者通过个人经历，分享了如何通过接受失败、培养自信和倾听直觉来改变恐惧循环，从而促进个人成长和职业发展。</description>
-    </item>
-  
-    <item>
       <title>How I Take Smart Daily Notes as a Developer</title>
       <link>https://spin.atomicobject.com/smart-daily-notes-developer/</link>
       <description>作为一名开发者，作者分享了他如何通过日常笔记来提高个人效率。他从量化生产力开始，逐渐发展出一种好奇心驱动的文档系统，使用多种工具如Evernote、Markdown和Obsidian来记录任务、日志、会议和思考。这种方法帮助他保持工作清晰，提高沟通效率，并促进个人成长。</description>
@@ -80,12 +42,6 @@
     </item>
   
     <item>
-      <title>API Versioning in Laravel 11</title>
-      <link>https://laravel-news.com/api-versioning-in-laravel-11</link>
-      <description>Laravel 11发布后，简化了应用骨架，移除了不必要的文件，并允许通过Artisan命令安装API。文章介绍了在Laravel中通过分离路由文件来管理API版本的方法，包括在`api.php`中添加版本前缀和创建相应的控制器。此外，还讨论了在`bootstrap/app.php`中定义版本化路由的另一种方法。</description>
-    </item>
-  
-    <item>
       <title>How To Cheer For Your Sports Team In Six Languages</title>
       <link>https://www.babbel.com/en/magazine/sports-cheers</link>
       <description>学习六种语言为你的体育队伍加油助威。文章介绍了如何通过学习不同语言的加油口号和欢呼声，融入全球体育赛事的观众中。提供了西班牙语、法语、德语、意大利语、俄语和葡萄牙语的常见体育加油词，帮助球迷在国际比赛中为支持的队伍加油。</description>
@@ -105,12 +61,6 @@
       <description>探索业务转型：通过进化式服务设计解决组织僵局
 
 本文探讨了业务转型中的挑战，特别是如何通过进化式服务设计来克服组织僵局。文章以一家豪华汽车公司的案例为例，说明了如何通过引入进化式服务设计方法，将复杂问题分解为可实现的任务，并促进团队合作和持续改进。这种方法强调了用户中心的设计，通过角色扮演和用户故事来确保满足用户需求。通过这种方式，组织能够更有效地应对转型过程中的挑战，并实现长期的成功。</description>
-    </item>
-  
-    <item>
-      <title>Why We’re Updating Our Logo</title>
-      <link>https://goteleport.com/blog/why-we-are-updating-our-logo/</link>
-      <description>Teleport更新了其标志，以更好地代表其使命和价值观。新标志去除了代表公司名称的“T”，取而代之的是一个圆形元素，象征着信任、统一、创新和客户至上。这一变化旨在强调Teleport作为安全基础设施访问平台的身份，并庆祝其成长历程。</description>
     </item>
   
     <item>
@@ -179,12 +129,6 @@
       <title>AI Lab: The secrets to keeping machine learning engineers moving fast</title>
       <link>https://engineering.fb.com/2024/07/16/developer-tools/ai-lab-secrets-machine-learning-engineers-moving-fast/</link>
       <description>Meta的AI Lab通过优化机器学习工程师的首次批量时间（TTFB）来加速开发速度。该框架允许持续进行A/B测试，以主动改进并防止回归，从而将TTFB减少高达40%。AI Lab通过减少TTFB的延迟，提高了工程师的迭代速度，并促进了Meta的整体创新速度。</description>
-    </item>
-  
-    <item>
-      <title>How to bridge the gap between Web2 skills and Web3 workflows</title>
-      <link>https://stackoverflow.blog/2024/07/16/how-to-bridge-the-gap-between-web2-skills-and-web3-workflows/</link>
-      <description>如何将Web2技能与Web3工作流程相结合——使用JavaScript构建Web3应用，XRPL简化了区块链开发，提供快速、低成本的跨境支付，并支持使用JavaScript、Java和Python等熟悉的语言进行编程。XRPL的DEX功能支持传统订单簿和自动市场制作，优化交易效率。通过XRPL Learning Portal，Web2开发者可以学习如何在XRPL上构建应用，并利用现有技能过渡到区块链开发。</description>
     </item>
   
     <item>
