@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Lessons Learned on a UI Revamp</title>
+      <link>https://www.singlestore.com/blog/lessons-learned-on-a-ui-revamp</link>
+      <description>在UI改版中，我们学到了用户对变化的极端反应需要被考虑，视觉提示对于引导用户适应新界面至关重要，以及用户对旧习惯的依赖难以改变。我们通过引入模态和指示器来帮助用户适应新变化，并意识到用户需要时间来习惯新界面。</description>
+    </item>
+  
+    <item>
+      <title>Use Private Key JWTs to Authenticate Your .NET Application</title>
+      <link>https://auth0.com/blog/use-private-key-jwt-to-authenticate-dotnet-app/</link>
+      <description>使用私钥JWT认证提升.NET应用程序的安全性。在敏感环境中，私钥JWT认证提供了一种更安全的替代方案，通过非对称加密来验证应用程序。这种方法涉及生成一对私钥和公钥，私钥由应用程序安全存储，公钥与授权服务器共享。当应用程序需要访问令牌时，它会使用私钥签名JWT，然后将其发送到授权服务器进行验证。这种方法适用于需要更高安全级别的业务环境，如金融、保险和医疗保健行业。</description>
+    </item>
+  
+    <item>
       <title>How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT</title>
       <link>https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/</link>
       <description>研究人员利用GitHub创新图数据估计ChatGPT对软件开发活动的影响，发现ChatGPT的可用性显著增加了每个国家的Git推送数量，并提高了开发者的参与度。研究采用因果推断技术，分析了生成式AI工具对软件开发速度的影响，结果表明ChatGPT加速了既定的开发过程。</description>
+    </item>
+  
+    <item>
+      <title>Boost sales efficiency with 33 AI prompts for sales teams</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/33-ai-prompt-ideas-for-sales-teams</link>
+      <description>本文探讨了如何利用人工智能提示提高销售团队的效率。通过自动化任务、生成洞察和改善客户互动，AI提示可以帮助销售团队更智能地工作。文章提供了33个AI提示示例，涵盖销售流程优化、客户细分、竞争对手分析和客户流失预测等方面，旨在帮助销售团队提高业绩。</description>
     </item>
   
     <item>
@@ -80,6 +98,12 @@
     </item>
   
     <item>
+      <title>Unlocking True Water Risk Assessment Worldwide</title>
+      <link>https://www.databricks.com/blog/unlocking-true-water-risk-assessment-worldwide</link>
+      <description>Databricks的博客文章探讨了全球水风险评估的重要性，强调了实时水风险数据在保险、金融、公共安全和更多领域中的应用。文章指出，缺乏实时数据会导致风险评估不准确，并可能导致经济损失和人员伤亡。Divirod公司利用Databricks平台处理大量水数据，建立了一个包含数亿实时数据系列的水风险数据湖，帮助用户识别异常情况，从而提高对水相关挑战的应对能力。</description>
+    </item>
+  
+    <item>
       <title>Five ways to make music streaming better for the climate</title>
       <link>https://www.technologyreview.com/2024/07/17/1095024/music-streaming-climate-friendly-tips/</link>
       <description>音乐流媒体对环境的影响可以通过以下五种方式来改善：使用小型设备而非大电视，延长手机使用时间，回归数字下载，推动流媒体平台使用可再生能源，以及珍惜音乐并抵制过度消费。这些措施旨在减少碳排放，使音乐流媒体对环境的影响更小。</description>
@@ -141,6 +165,12 @@
       <title>Why We’re Updating Our Logo</title>
       <link>https://goteleport.com/blog/why-we-are-updating-our-logo/</link>
       <description>Teleport更新了其标志，以更好地代表其使命和价值观。新标志去除了代表公司名称的“T”，取而代之的是一个圆形元素，象征着信任、统一、创新和客户至上。这一变化旨在强调Teleport作为安全基础设施访问平台的身份，并庆祝其成长历程。</description>
+    </item>
+  
+    <item>
+      <title>Ep. 9: Go Package Design: Authorization and API Structures</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/go-package-design-authorization-and-api-structures-ep-9.html</link>
+      <description>本篇博客深入探讨了在Go包中实现强大的授权和API结构。文章介绍了如何使用Rego脚本来实现基于角色的授权逻辑，以及如何组织导出和未导出的API以保持代码的清晰和可维护性。此外，还讨论了错误管理和上下文的使用，以确保数据流畅和高效处理。通过实际示例和实用技巧，文章帮助开发者构建高质量、可扩展和可维护的软件系统。</description>
     </item>
   
     <item>
