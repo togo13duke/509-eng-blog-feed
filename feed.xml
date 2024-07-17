@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Is API Design an Art?</title>
+      <link>https://nordicapis.com/is-api-design-an-art/</link>
+      <description>API设计是一门融合了分析思维和创造力的艺术，它不仅仅是将产品需求转化为API的过程，还涉及到如何提供吸引人的开发者体验。API设计需要平衡艺术和科学，既要考虑功能也要注重形式，同时确保API的可发现性、可理解和易于使用。尽管自动化和AI在API开发中扮演重要角色，但它们不能完全取代人类开发者对领域知识的深入理解和主观判断。API设计的关键在于创造既符合用户需求又超越预期的解决方案，使开发者能够更轻松地工作。</description>
+    </item>
+  
+    <item>
+      <title>A brief introduction to Apps and Stacks Container Images</title>
+      <link>https://developers.redhat.com/articles/2024/07/17/brief-introduction-apps-and-stacks-container-images</link>
+      <description>本文介绍了Apps和Stacks容器镜像，从用户和开发者两个角度进行了阐述。Apps和Stacks容器镜像分为两类：Source-to-Image（S2I）镜像和无S2I镜像。S2I镜像包括Node.js、PHP、Ruby、Python等语言的容器镜像，无S2I镜像包括PostgreSQL、MySQL、Redis等数据库容器镜像。这些镜像支持多种操作系统，如Fedora、CentOS Stream、Red Hat Enterprise Linux等。用户可以通过容器注册库获取所需版本的容器镜像，开发者可以参与贡献新的容器版本。</description>
+    </item>
+  
+    <item>
       <title>Product management insights: Measuring change</title>
       <link>https://thoughtbot.com/blog/product-management-insights-measuring-change</link>
       <description>产品管理洞察：衡量变化
