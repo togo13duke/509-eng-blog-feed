@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Google, Amazon and the problem with Big Tech’s climate claims</title>
-      <link>https://www.technologyreview.com/2024/07/17/1095019/google-amazon-and-the-problem-with-big-techs-climate-claims/</link>
-      <description>谷歌和亚马逊在实现气候目标方面都存在问题，但谷歌在减少温室气体排放方面的方法更具可辩护性。文章指出，公司实现净零排放的方式比速度更重要，应关注更广泛的气候影响，而非仅仅平衡碳排放。谷歌正在采取更可靠的方法，包括投资于碳移除技术和24/7清洁能源。亚马逊则依赖碳信用和可再生能源证书，但面临质疑，其清洁能源目标可能存在夸大之嫌。</description>
-    </item>
-  
-    <item>
       <title>Is API Design an Art?</title>
       <link>https://nordicapis.com/is-api-design-an-art/</link>
       <description>API设计是一门融合了分析思维和创造力的艺术，它不仅仅是将产品需求转化为API的过程，还涉及到如何提供吸引人的开发者体验。API设计需要平衡艺术和科学，既要考虑功能也要注重形式，同时确保API的可发现性、可理解和易于使用。尽管自动化和AI在API开发中扮演重要角色，但它们不能完全取代人类开发者对领域知识的深入理解和主观判断。API设计的关键在于创造既符合用户需求又超越预期的解决方案，使开发者能够更轻松地工作。</description>
@@ -24,31 +18,11 @@
     </item>
   
     <item>
-      <title>How To Cheer For Your Sports Team In Six Languages</title>
-      <link>https://www.babbel.com/en/magazine/sports-cheers</link>
-      <description>学习六种语言为你的体育队伍加油助威。文章介绍了如何通过学习不同语言的加油口号和欢呼声，融入全球体育赛事的观众中。提供了西班牙语、法语、德语、意大利语、俄语和葡萄牙语的常见体育加油词，帮助球迷在国际比赛中为支持的队伍加油。</description>
-    </item>
-  
-    <item>
       <title>Product management insights: Measuring change</title>
       <link>https://thoughtbot.com/blog/product-management-insights-measuring-change</link>
       <description>产品管理洞察：衡量变化
 
 本文探讨了如何有效衡量产品变化，强调了定量和定性方法的重要性。通过结合数据分析、用户反馈和测试，产品团队能够获得全面的洞察，以指导战略决策并提升产品。文章还讨论了用户体验测试、分析实施挑战、用户细分和A/B测试策略，以及平衡产出和结果的重要性。</description>
-    </item>
-  
-    <item>
-      <title>Unravel Gridlock: An exploratory workshop for business transformation with evolutionary service design</title>
-      <link>https://www.thoughtworks.com/insights/articles/Unravel-Gridlock-an-exploratory-workshop-for-business-transformation-with-evolutionary-service-design</link>
-      <description>探索业务转型：通过进化式服务设计解决组织僵局
-
-本文探讨了业务转型中的挑战，特别是如何通过进化式服务设计来克服组织僵局。文章以一家豪华汽车公司的案例为例，说明了如何通过引入进化式服务设计方法，将复杂问题分解为可实现的任务，并促进团队合作和持续改进。这种方法强调了用户中心的设计，通过角色扮演和用户故事来确保满足用户需求。通过这种方式，组织能够更有效地应对转型过程中的挑战，并实现长期的成功。</description>
-    </item>
-  
-    <item>
-      <title>[Math] Project Euler 108 and 110</title>
-      <link>https://yurichev.com/n/PE_108_110/</link>
-      <description>本文探讨了Project Euler的第108和第110个问题。第108个问题要求找到满足特定条件的n值，使得方程\( \frac{1}{x} + \frac{1}{y} = \frac{1}{n} \)有超过1000个不同的整数解。作者使用Wolfram Mathematica解决了这个问题。第110个问题更复杂，要求找到使得A018892函数超过\( 4 \cdot 10^6 \)个解的最小数。作者通过分析素数因子和它们的幂次，找到了满足条件的最小数。</description>
     </item>
   
     <item>
