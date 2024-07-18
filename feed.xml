@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>The Evolution of Conversational Commerce: Authvia's Journey with Twilio</title>
-      <link>https://www.twilio.com/en-us/blog/conversational-commerce-with-authvia</link>
-      <description>Authvia与Twilio合作，打造了创新的对话式商业平台，通过短信等即时通讯渠道，为商家提供高效的支付和客户服务解决方案。该平台提高了客户参与度和满意度，显著缩短了收款周期，并简化了支付流程，为商家带来更便捷的交易体验。</description>
-    </item>
-  
-    <item>
       <title>[Math][SAT] Project Euler 877 and 878: solving using SAT-solver</title>
       <link>https://yurichev.com/n/PE_877_878/</link>
       <description>本文探讨了使用SAT求解器解决Project Euler的第877和878题。作者通过在GF(2)上进行数学运算，实现了方程的简化，并使用Python代码找到了问题的解。尽管计算过程缓慢，但最终得到了正确的结果，展示了SAT/SMT在原型设计中的实用性。</description>
