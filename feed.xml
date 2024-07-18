@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Data Cloud Fundamentals: A Guided Tour</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/data-cloud-fundamentals-a-guided-tour.html</link>
+      <description>本文介绍了Salesforce Data Cloud的基本概念和应用案例。通过Coral Cloud Resort的实例，展示了如何利用Data Cloud统一数据、解锁客户洞察，并利用数据驱动决策，提升客户体验。文章强调了数据云在整合数据源、实现身份解析、丰富数据洞察和驱动业务成果方面的核心能力。</description>
+    </item>
+  
+    <item>
+      <title>Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model</title>
+      <link>https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/</link>
+      <description>Mistral AI与NVIDIA共同推出Mistral NeMo 12B，这是一款先进的语言模型，适用于企业应用，支持聊天机器人、多语言任务、编码和总结。该模型结合了Mistral AI在训练数据方面的专长和NVIDIA优化的硬件和软件生态系统，提供高性能，并具有高精度、灵活性和高效性。Mistral NeMo采用Apache 2.0许可，使用FP8数据格式，适用于企业级使用。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 8</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240718-00/?p=109977</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动。作者详细介绍了如何使用traits类来处理Windows Runtime异步接口的不同部分，并展示了如何实现IAsyncAction和IAsyncOperation接口。文章还讨论了如何处理成功和失败的活动，并介绍了如何使用proxy对象来简化接口的创建。</description>
+    </item>
+  
+    <item>
+      <title>Building supply chain resilience with AI</title>
+      <link>https://www.technologyreview.com/2024/07/18/1094899/building-supply-chain-resilience-with-ai/</link>
+      <description>人工智能助力构建供应链韧性，以应对疫情等不确定性带来的挑战。加拿大肥料公司Nutrien利用云技术和AI/ML提高供应链透明度，实现实时可见性，优化库存管理和供应链运营。企业需通过AI/ML分析云中数据，提升供应链的差异化服务、速度和可靠性。</description>
+    </item>
+  
+    <item>
       <title>Hot Deal, Cool Prices: GeForce NOW Summer Sale Offers Priority and Ultimate Memberships Half Off</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2024/</link>
       <description>NVIDIA GeForce NOW夏季促销活动正在进行，提供高性能云游戏服务，优先会员和终极会员资格享受半价优惠。活动期间，新加入云服务的游戏包括Capcom的最新作品《Kunitsu-Gami: Path of the Goddess》。此外，玩家可通过Xbox.com游戏页面直接访问GeForce NOW上的支持PC游戏。</description>
@@ -125,6 +149,18 @@
       <title>Notes on "Why Swift's type checker is so slow"</title>
       <link>https://advancedweb.hu/shorts/notes-on-why-swifts-type-checker-is-so-slow/</link>
       <description>Swift的类型检查器速度慢的原因分析：Swift 6在处理12行代码时耗时42秒，其标准库中的运算符重载和类型导致约束求解器尝试的组合呈指数级增长。即使求解器尝试所有组合，也无法解决某些错误。例如，一行代码的编译时间可达6.2秒。</description>
+    </item>
+  
+    <item>
+      <title>WHO LIVES ON YOUR PROFILE FOR ALL TO SEE? 🎶 SPONGEBOB, IN THE SHOP!</title>
+      <link>https://discord.com/blog/spongebob-shop-collection</link>
+      <description>为了庆祝《海绵宝宝》25周年，Discord商店将推出一系列以海绵宝宝为主题的头像装饰和资料效果，包括海绵宝宝、派大星、珊迪等角色。活动从7月18日持续至8月15日，支持桌面、iOS和Android平台。Nitro会员可享受折扣购买。</description>
+    </item>
+  
+    <item>
+      <title>DevRel newsletter — July 2024</title>
+      <link>https://www.elastic.co/blog/devrel-newsletter-july-2024</link>
+      <description>Elastic DevRel团队在2024年7月的通讯中介绍了针对OpenTelemetry的Elastic分布，支持Java、.NET、Python和Node.js，并提供了增强功能和兼容性。此外，还涵盖了语义搜索、AI搜索、性能监控和即将举行的活动。</description>
     </item>
   
     <item>
@@ -253,6 +289,12 @@
       <title>How I Take Smart Daily Notes as a Developer</title>
       <link>https://spin.atomicobject.com/smart-daily-notes-developer/</link>
       <description>作为一名开发者，作者分享了他如何通过日常笔记来提高个人效率。他从量化生产力开始，逐渐发展出一种好奇心驱动的文档系统，使用多种工具如Evernote、Markdown和Obsidian来记录任务、日志、会议和思考。这种方法帮助他保持工作清晰，提高沟通效率，并促进个人成长。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: How Do You Choose Python Function Names?</title>
+      <link>https://realpython.com/quizzes/python-function-names/</link>
+      <description>本篇文章是关于如何选择Python函数名的互动测验。通过解答7个问题，复习命名规则和惯例，了解良好命名的函数如何提高代码可读性和维护性，减少错误。测验无时间限制，每答对一题得1分，满分100%。</description>
     </item>
   
     <item>
