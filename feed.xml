@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>[Math][SAT] Project Euler 877 and 878: solving using SAT-solver</title>
+      <link>https://yurichev.com/n/PE_877_878/</link>
+      <description>本文探讨了使用SAT求解器解决Project Euler的第877和878题。作者通过在GF(2)上进行数学运算，实现了方程的简化，并使用Python代码找到了问题的解。尽管计算过程缓慢，但最终得到了正确的结果，展示了SAT/SMT在原型设计中的实用性。</description>
+    </item>
+  
+    <item>
       <title>BW #75: Refugees</title>
       <link>https://www.bambooweekly.com/bw-75-refugees/</link>
       <description>本周，我们将探讨国际难民的数据，了解涉及的国家和数量。这是一个庞大且复杂的话题，充满了许多悲伤和痛苦，以及难民来源国和到达国的政治动荡。我们将分析来自世界银行的数据，包括各国人口、难民流出数量等，以了解难民问题。</description>
