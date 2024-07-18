@@ -6,47 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Hot Deal, Cool Prices: GeForce NOW Summer Sale Offers Priority and Ultimate Memberships Half Off</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2024/</link>
-      <description>NVIDIA GeForce NOW夏季促销活动正在进行，提供高性能云游戏服务，优先会员和终极会员资格享受半价优惠。活动期间，新加入云服务的游戏包括Capcom的最新作品《Kunitsu-Gami: Path of the Goddess》。此外，玩家可通过Xbox.com游戏页面直接访问GeForce NOW上的支持PC游戏。</description>
-    </item>
-  
-    <item>
-      <title>Meet Caddy – Meta’s next-gen mixed reality CAD software</title>
-      <link>https://engineering.fb.com/2024/07/18/virtual-reality/caddy-cad-mixed-reality-mr-meta/</link>
-      <description>Meta推出新一代混合现实CAD软件Caddy，由机械工程师团队开发，旨在解决远程会议中3D模型展示的局限性。该软件与Llama 3集成，可通过多种平台收听相关播客。</description>
-    </item>
-  
-    <item>
-      <title>How to Start a Social Media Marketing Agency: Key Steps for Success</title>
-      <link>https://s14415.pcdn.co/blog/how-to-start-a-social-media-marketing-agency-key-steps-for-success/</link>
-      <description>如何创办一家社交媒体营销机构：成功指南
-
-本文为有志于创办社交媒体营销机构的人士提供指导。首先，了解数字营销和社交媒体策略是基础。选择合适的平台，如Facebook、Instagram、X（前Twitter）等，并深入研究广告政策、算法和趋势。明确你的细分市场，制定业务计划，进行竞争对手分析，建立品牌身份，并确保合法合规。提供包括策略、社区管理、内容创作和社交媒体管理等服务，并制定合理的定价策略。建立在线存在感，利用网站和社交媒体展示你的能力。</description>
-    </item>
-  
-    <item>
-      <title>How to Create Distortion and Grain Effects on Scroll with Shaders in Three.js</title>
-      <link>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</link>
-      <description>本文介绍了如何使用Three.js和着色器在滚动时创建扭曲和颗粒效果。作者详细解释了如何同步HTML图像与WebGL，并展示了如何通过调整着色器参数来实现这些效果。教程中包含了设置、媒体和网格管理、相机和几何体设置、渲染循环以及着色器代码的详细说明。</description>
-    </item>
-  
-    <item>
-      <title>The Download: Falcon 9’s future, and Big Tech’s climate goals</title>
-      <link>https://www.technologyreview.com/2024/07/18/1095115/the-download-falcon-9s-future-and-big-techs-climate-goals/</link>
-      <description>SpaceX的Falcon 9火箭近期发生故障，引发了对美国航天工业依赖火箭的风险关注。同时，科技巨头如谷歌在气候目标上的进展引发讨论，尽管其排放量上升，但可能代表气候行动的进步。此外，文章还提到了其他科技新闻，如人工智能、深fake检测、太空太阳能和气候变化等。</description>
-    </item>
-  
-    <item>
       <title>From Green to Great: Building Confidence in Consulting</title>
       <link>https://spin.atomicobject.com/software-consultants-confidence/</link>
       <description>软件顾问成长之路：本文探讨了软件顾问如何建立自信，强调了沟通、承认不确定性、时间限制的实验和关注简洁性等关键特质。作者指出，虽然咨询可能看似艰巨，但好奇心、自我驱动的实验和利用组织内的集体智慧可以减轻挑战，并提升职业发展。</description>
-    </item>
-  
-    <item>
-      <title>How Much Do Social Media Managers Make: Salary Insights and Factors</title>
-      <link>https://www.brandwatch.com/blog/how-much-do-social-media-managers-make-salary-insights-and-factors/</link>
-      <description>社交媒体经理的薪资范围从无到超过80,000美元不等，平均年薪约为55,000美元。薪资差异取决于专业技能、地理位置和行业。在科技、金融、医疗保健和电子商务等行业，社交媒体经理的薪资较高。要提升薪资，可以通过谈判、展示价值、寻找更高薪酬的工作机会或成为自由职业者来实现。</description>
     </item>
   
     <item>
@@ -59,12 +21,6 @@
       <title>What’s next for SpaceX’s Falcon 9</title>
       <link>https://www.technologyreview.com/2024/07/18/1095036/whats-next-for-spacexs-falcon-9/</link>
       <description>SpaceX的Falcon 9火箭因发动机故障而停飞，突显了美国对这款火箭的依赖。此次故障导致美国宇航工业面临风险，并可能影响多项太空任务。SpaceX正在与联邦航空管理局合作调查，并寻求尽快恢复飞行。同时，美国需要探索Falcon 9的替代方案，以保障太空探索的多样性。</description>
-    </item>
-  
-    <item>
-      <title>How Consumer Travel and Leisure Habits Have Changed</title>
-      <link>https://www.brandwatch.com/blog/hospitality-travel-leisure-trends/</link>
-      <description>消费者旅行和休闲习惯发生了变化，包括独自旅行的兴起、对全面度假的需求增加以及对“值得旅行”体验的重视。品牌应关注客户的安全担忧，提供休息和放松的体验，并确保提供物有所值的服务。</description>
     </item>
   
     <item>
@@ -98,12 +54,6 @@
     </item>
   
     <item>
-      <title>A guide to Laravel's model events</title>
-      <link>https://laravel-news.com/model-events</link>
-      <description>Laravel模型事件是自动执行逻辑的强大功能，本文介绍了模型事件及其使用方法，包括事件和监听器的概念、模型事件的自动触发、如何监听模型事件以及一些注意事项。此外，还探讨了使用闭包和观察者监听模型事件的不同方法。</description>
-    </item>
-  
-    <item>
       <title>The Evolution of Conversational Commerce: Authvia's Journey with Twilio</title>
       <link>https://www.twilio.com/en-us/blog/conversational-commerce-with-authvia</link>
       <description>Authvia与Twilio合作，打造了创新的对话式商业平台，通过短信等即时通讯渠道，为商家提供高效的支付和客户服务解决方案。该平台提高了客户参与度和满意度，显著缩短了收款周期，并简化了支付流程，为商家带来更便捷的交易体验。</description>
@@ -119,12 +69,6 @@
       <title>Brighton Ruby 2024 Recap</title>
       <link>https://thoughtbot.com/blog/brighton-ruby-2024-recap</link>
       <description>在2024年布莱顿Ruby会议上，多位专家分享了关于Ruby编程和软件开发的经验。会议涵盖了从用户增长策略到技术挑战的多个主题，包括Rails应用的用户测试、减轻工作压力的方法、Ractors并发模型、SQLite数据库的使用、数据库调试技巧、代码设计概念等。与会者还参与了闪电演讲和游戏互动，享受了充满启发和知识的交流。</description>
-    </item>
-  
-    <item>
-      <title>Notes on "Why Swift's type checker is so slow"</title>
-      <link>https://advancedweb.hu/shorts/notes-on-why-swifts-type-checker-is-so-slow/</link>
-      <description>Swift的类型检查器速度慢的原因分析：Swift 6在处理12行代码时耗时42秒，其标准库中的运算符重载和类型导致约束求解器尝试的组合呈指数级增长。即使求解器尝试所有组合，也无法解决某些错误。例如，一行代码的编译时间可达6.2秒。</description>
     </item>
   
     <item>
@@ -528,12 +472,6 @@
     <item>
       <title>The Biggest Industry Trends in Education Right Now</title>
       <link>https://s14415.pcdn.co/blog/education-trends/</link>
-      <description>2024年教育行业的主要趋势包括人工智能在教育中的应用、在线学习的普及以及教育可及性的重视。人工智能在教育领域的应用引发了关于学习效率和学术诚信的讨论，而在线学习模式因疫情和技术进步而变得更加普遍。同时，教育机构正致力于提供更具包容性的学习资源和无障碍校园环境。</description>
-    </item>
-  
-    <item>
-      <title>The Biggest Industry Trends in Education Right Now</title>
-      <link>https://www.brandwatch.com/blog/education-trends/</link>
       <description>2024年教育行业的主要趋势包括人工智能在教育中的应用、在线学习的普及以及教育可及性的重视。人工智能在教育领域的应用引发了关于学习效率和学术诚信的讨论，而在线学习模式因疫情和技术进步而变得更加普遍。同时，教育机构正致力于提供更具包容性的学习资源和无障碍校园环境。</description>
     </item>
   
