@@ -6,9 +6,33 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>API Discovery: How Do You Count APIs?</title>
+      <link>https://nordicapis.com/api-discovery-how-do-you-count-apis/</link>
+      <description>API发现是理解攻击面和风险的关键过程。文章探讨了如何定义和计数API，强调了API的多样性和复杂性。作者提出，通过生命周期状态分类和风险指标跟踪，可以更准确地管理API库存，从而提高安全性。</description>
+    </item>
+  
+    <item>
+      <title>Accessing Red Hat Data Grid in Red Hat OpenShift Container Platform 4</title>
+      <link>https://developers.redhat.com/articles/2024/07/18/accessing-red-hat-data-grid-red-hat-openshift-container-platform-4</link>
+      <description>Red Hat Data Grid在Red Hat OpenShift Container Platform 4中的访问方法包括通过Data Grid Operator或Helm Charts部署，支持集群部署和多种访问方式，如内部服务、Route、LoadBalancer和NodePort。这些方法各有优缺点，用户可根据需求选择合适的部署和访问方式。</description>
+    </item>
+  
+    <item>
+      <title>Think Data Warehouse, NOT Database.</title>
+      <link>https://last9.io/blog/think-data-warehouse-not-database/</link>
+      <description>数据仓库而非数据库是软件监控世界的正确选择。监控数据需要以时间序列形式记录，以便分析趋势、检测异常、进行容量规划等。开源项目将监控导向了时间序列数据库（TSDB），如Prometheus，但这并非最佳选择。数据仓库更适合处理大量数据，优化读取性能，并支持业务智能。对于快速增长的组织，数据仓库能够有效降低成本并提高性能。</description>
+    </item>
+  
+    <item>
       <title>The Evolution of Conversational Commerce: Authvia's Journey with Twilio</title>
       <link>https://www.twilio.com/en-us/blog/conversational-commerce-with-authvia</link>
       <description>Authvia与Twilio合作，打造了创新的对话式商业平台，通过短信等即时通讯渠道，为商家提供高效的支付和客户服务解决方案。该平台提高了客户参与度和满意度，显著缩短了收款周期，并简化了支付流程，为商家带来更便捷的交易体验。</description>
+    </item>
+  
+    <item>
+      <title>Testing the EV ecosystem [part two]</title>
+      <link>https://www.thoughtworks.com/insights/blog/compliance/testing-the-EV-ecosystem-part-two</link>
+      <description>Thoughtworks在第二部分中深入探讨了电动汽车生态系统（EV）的测试，重点在于OCPP实施和合规性。文章介绍了如何通过自动化端到端测试来确保软件与OCPP 2.0.1标准的一致性，并使用OCTT工具进行合规性测试，以确保充电站和CSMS软件的互操作性，从而构建高效可靠的EV生态系统。</description>
     </item>
   
     <item>
@@ -57,6 +81,12 @@
       <title>Boost sales efficiency with 33 AI prompts for sales teams</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/33-ai-prompt-ideas-for-sales-teams</link>
       <description>本文探讨了如何利用人工智能提示提高销售团队的效率。通过自动化任务、生成洞察和改善客户互动，AI提示可以帮助销售团队更智能地工作。文章提供了33个AI提示示例，涵盖销售流程优化、客户细分、竞争对手分析和客户流失预测等方面，旨在帮助销售团队提高业绩。</description>
+    </item>
+  
+    <item>
+      <title>Berlin Buzzwords &amp; MICES24: Paradoxes and Paradigm shifts</title>
+      <link>https://algolia.com/blog/engineering/berlin-buzzwords-mices24/</link>
+      <description>在2024年柏林的Berlin Buzzwords和MICES24会议上，讨论了技术开放性的悖论、LLM的范式转变、语义搜索、RAG和图像理解等主题。会议强调了技术对社会的影响，以及如何通过开源和知识共享来促进公平和创新的未来。</description>
     </item>
   
     <item>
@@ -161,6 +191,12 @@
       <title>A brief introduction to Apps and Stacks Container Images</title>
       <link>https://developers.redhat.com/articles/2024/07/17/brief-introduction-apps-and-stacks-container-images</link>
       <description>本文介绍了Apps和Stacks容器镜像，从用户和开发者两个角度进行了阐述。Apps和Stacks容器镜像分为两类：Source-to-Image（S2I）镜像和无S2I镜像。S2I镜像包括Node.js、PHP、Ruby、Python等语言的容器镜像，无S2I镜像包括PostgreSQL、MySQL、Redis等数据库容器镜像。这些镜像支持多种操作系统，如Fedora、CentOS Stream、Red Hat Enterprise Linux等。用户可以通过容器注册库获取所需版本的容器镜像，开发者可以参与贡献新的容器版本。</description>
+    </item>
+  
+    <item>
+      <title>Simplifying assertions in Terraform using provider-defined functions</title>
+      <link>https://www.hashicorp.com/blog/simplifying-assertions-in-terraform-using-provider-defined-functions</link>
+      <description>使用Terraform Assert提供程序简化断言，提高基础设施配置的可靠性和完整性。通过提供定义的函数如http_success()、expired()和between()，Assert提供程序简化了Terraform配置，使变量验证、持续验证和测试更加容易。这些功能与Terraform内置函数互补，允许用户根据需求选择最合适的工具。通过使用Assert提供程序，可以确保基础设施配置符合标准，遵循最佳实践，并减少配置错误的风险。</description>
     </item>
   
     <item>
