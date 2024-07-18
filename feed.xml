@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What’s next for SpaceX’s Falcon 9</title>
+      <link>https://www.technologyreview.com/2024/07/18/1095036/whats-next-for-spacexs-falcon-9/</link>
+      <description>SpaceX的Falcon 9火箭因发动机故障而停飞，突显了美国对这款火箭的依赖。此次故障导致美国宇航工业面临风险，并可能影响多项太空任务。SpaceX正在与联邦航空管理局合作调查，并寻求尽快恢复飞行。同时，美国需要探索Falcon 9的替代方案，以保障太空探索的多样性。</description>
+    </item>
+  
+    <item>
       <title>API Discovery: How Do You Count APIs?</title>
       <link>https://nordicapis.com/api-discovery-how-do-you-count-apis/</link>
       <description>API发现是理解攻击面和风险的关键过程。文章探讨了如何定义和计数API，强调了API的多样性和复杂性。作者提出，通过生命周期状态分类和风险指标跟踪，可以更准确地管理API库存，从而提高安全性。</description>
@@ -15,6 +21,12 @@
       <title>Accessing Red Hat Data Grid in Red Hat OpenShift Container Platform 4</title>
       <link>https://developers.redhat.com/articles/2024/07/18/accessing-red-hat-data-grid-red-hat-openshift-container-platform-4</link>
       <description>Red Hat Data Grid在Red Hat OpenShift Container Platform 4中的访问方法包括通过Data Grid Operator或Helm Charts部署，支持集群部署和多种访问方式，如内部服务、Route、LoadBalancer和NodePort。这些方法各有优缺点，用户可根据需求选择合适的部署和访问方式。</description>
+    </item>
+  
+    <item>
+      <title>Summary of Devfest Lille 2024</title>
+      <link>https://medium.com/criteo-engineering/summary-of-devfest-lille-2024-9ad32eb4aa3a?source=rss----fc3ea5a64a12---4</link>
+      <description>2024年Devfest Lille活动聚焦于AI和数字技术可持续发展，包括软件效率提升、架构建模、避免过度工程和AI信息管理等多个主题。活动为期两天，吸引了1500名参与者，通过一系列并行的研讨会和互动环节，分享了前沿技术和实践经验。</description>
     </item>
   
     <item>
