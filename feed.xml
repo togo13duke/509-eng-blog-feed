@@ -204,6 +204,12 @@
     </item>
   
     <item>
+      <title>Automate Dialogflow CX Virtual Agent Creation with API Calls and Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/automate-dialogflow-cx-virtual-agent-creation-api-calls</link>
+      <description>使用API调用和Twilio自动化创建Dialogflow CX虚拟代理。通过Google Dialogflow CX创建一个代理，然后使用Twilio API创建多个虚拟代理连接器，指向同一个Dialogflow CX代理。这种方法适用于需要快速扩展虚拟代理的ISV或客户。</description>
+    </item>
+  
+    <item>
       <title>[Math] Project Euler 108 and 110</title>
       <link>https://yurichev.com/n/PE_108_110/</link>
       <description>本文探讨了Project Euler的第108和第110个问题。第108个问题要求找到满足特定条件的n值，使得方程\( \frac{1}{x} + \frac{1}{y} = \frac{1}{n} \)有超过1000个不同的整数解。作者使用Wolfram Mathematica解决了这个问题。第110个问题更复杂，要求找到使得A018892函数超过\( 4 \cdot 10^6 \)个解的最小数。作者通过分析素数因子和它们的幂次，找到了满足条件的最小数。</description>
@@ -775,6 +781,12 @@
       <title>Publishable Network Contracts in Scrapscript</title>
       <link>https://taylor.town/unsound-2024-cfp</link>
       <description>Scrapscript通过结合编程语言特性、类型系统保证和生态系统默认设置，解决了网络程序间通信的不稳定性问题。它采用强类型函数式语言，确保所有表达式可内容寻址，并通过“废料场”共享代码片段。所有条目都经过加密签名，提供简单合同机制。Scrapscript的地址类型支持类型检查和编译时安全性，同时提供SLA合同和审计跟踪。</description>
+    </item>
+  
+    <item>
+      <title>Toolbox languages</title>
+      <link>https://www.hillelwayne.com/post/toolbox-languages/</link>
+      <description>本文探讨了多种工具箱语言，包括Python、shell脚本、AutoHotKey、J、Frink、Raku和Picat，并分析了它们的特点和适用场景。作者强调了工具箱语言应具备快速编写、易于学习和强大的功能，同时介绍了其他有用的工具，如jq和JavaScript，以及如何构建一个高效的工具箱语言。</description>
     </item>
   
     </channel>
