@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The next Nvidia driver makes even more GPUs “open,” in a specific, quirky way</title>
+      <link>https://arstechnica.com/?p=2037900</link>
+      <description>NVIDIA最新驱动程序使更多GPU以独特方式“开放”，通过开源GPU内核模块提高了应用性能，并增加了新功能。大多数现代NVIDIA GPU将默认使用这些开源模块，但用户空间驱动程序和固件仍保持封闭。这一举措使NVIDIA更接近Linux社区，但开源程度有限，并非所有GPU都能使用这些开源驱动程序。</description>
+    </item>
+  
+    <item>
       <title>.NET 6 will reach End of Support on November 12, 2024</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/</link>
       <description>.NET 6将于2024年11月12日停止支持，之后将不再提供更新、安全修复和技术支持。建议用户在截止日期前升级到.NET 8以保持支持。企业Linux公司也提供.NET支持，但可能有不同的政策。升级到.NET 8涉及更改项目文件中的TargetFramework属性，并更新开发环境。</description>
@@ -21,6 +27,12 @@
       <title>OpenAI launches GPT-4o mini, which will replace GPT-3.5 in ChatGPT</title>
       <link>https://arstechnica.com/?p=2037843</link>
       <description>OpenAI推出GPT-4o mini，作为ChatGPT中GPT-3.5的替代品，面向免费用户和付费用户免费提供。该模型具备多模态功能，并采用“指令层次”技术，提高安全性。小型语言模型成本更低，适用于简单任务，有助于降低能耗和用户成本。</description>
+    </item>
+  
+    <item>
+      <title>Building a Real-Time Analytics Pipeline for Race Cars</title>
+      <link>https://www.singlestore.com/blog/building-a-real-time-analytics-pipeline-for-race-cars</link>
+      <description>构建实时赛车数据分析管道，通过使用SingleStore技术处理传感器数据，Gaucho Racing团队实现了从车辆传感器收集数据，并通过MQTT协议传输至云端，实时上传至SingleStore数据库。该系统在赛道上实现了270毫秒的平均延迟，展示了数据在赛车运动中的关键作用。</description>
     </item>
   
     <item>
@@ -101,6 +113,12 @@
       <title>What’s next for SpaceX’s Falcon 9</title>
       <link>https://www.technologyreview.com/2024/07/18/1095036/whats-next-for-spacexs-falcon-9/</link>
       <description>SpaceX的Falcon 9火箭因发动机故障而停飞，突显了美国对这款火箭的依赖。此次故障导致美国宇航工业面临风险，并可能影响多项太空任务。SpaceX正在与联邦航空管理局合作调查，并寻求尽快恢复飞行。同时，美国需要探索Falcon 9的替代方案，以保障太空探索的多样性。</description>
+    </item>
+  
+    <item>
+      <title>Ensuring Quality Forecasts with Databricks Lakehouse Monitoring</title>
+      <link>https://www.databricks.com/blog/ensuring-quality-forecasts-databricks-lakehouse-monitoring</link>
+      <description>Databricks Lakehouse Monitoring提供统一解决方案，监控数据质量和预测模型性能，确保预测准确。通过监测数据漂移、预测漂移、模型性能指标，及时发现并解决问题，优化模型训练流程。此外，Databricks平台支持多种预测库和AutoML，简化模型开发，并可通过Lakehouse Monitoring进行实时监控和部署。</description>
     </item>
   
     <item>
