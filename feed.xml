@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>.NET 6 will reach End of Support on November 12, 2024</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/</link>
+      <description>.NET 6将于2024年11月12日停止支持，之后将不再提供更新、安全修复和技术支持。建议用户在截止日期前升级到.NET 8以保持支持。企业Linux公司也提供.NET支持，但可能有不同的政策。升级到.NET 8涉及更改项目文件中的TargetFramework属性，并更新开发环境。</description>
+    </item>
+  
+    <item>
+      <title>The 2024 HashiCorp Principle Awards</title>
+      <link>https://www.hashicorp.com/blog/the-2024-hashicorp-principle-awards</link>
+      <description>2024年，HashiCorp通过HashiCorp Principle Awards表彰体现公司原则的员工。文章介绍了获奖团队和决赛团队，他们通过非凡的贡献和协作展示了公司的原则。其中，Madrid Tech Hub团队在建立新办公室时体现了公司的九大原则，包括诚信、善良、实用主义等。此外，基础设施云发布团队和可访问性修复团队也展示了公司的原则。</description>
+    </item>
+  
+    <item>
+      <title>OpenAI launches GPT-4o mini, which will replace GPT-3.5 in ChatGPT</title>
+      <link>https://arstechnica.com/?p=2037843</link>
+      <description>OpenAI推出GPT-4o mini，作为ChatGPT中GPT-3.5的替代品，面向免费用户和付费用户免费提供。该模型具备多模态功能，并采用“指令层次”技术，提高安全性。小型语言模型成本更低，适用于简单任务，有助于降低能耗和用户成本。</description>
+    </item>
+  
+    <item>
       <title>Data Cloud Fundamentals: A Guided Tour</title>
       <link>https://developer.salesforce.com/blogs/2024/07/data-cloud-fundamentals-a-guided-tour.html</link>
       <description>本文介绍了Salesforce Data Cloud的基本概念和应用案例。通过Coral Cloud Resort的实例，展示了如何利用Data Cloud统一数据、解锁客户洞察，并利用数据驱动决策，提升客户体验。文章强调了数据云在整合数据源、实现身份解析、丰富数据洞察和驱动业务成果方面的核心能力。</description>
@@ -161,6 +179,12 @@
       <title>DevRel newsletter — July 2024</title>
       <link>https://www.elastic.co/blog/devrel-newsletter-july-2024</link>
       <description>Elastic DevRel团队在2024年7月的通讯中介绍了针对OpenTelemetry的Elastic分布，支持Java、.NET、Python和Node.js，并提供了增强功能和兼容性。此外，还涵盖了语义搜索、AI搜索、性能监控和即将举行的活动。</description>
+    </item>
+  
+    <item>
+      <title>OKLCH in CSS: why we moved from RGB and HSL</title>
+      <link>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</link>
+      <description>OKLCH是CSS中一种新的颜色定义方式，它通过感知亮度、色相、饱和度和透明度来定义颜色，比RGB和HSL更易于理解和修改。OKLCH支持广泛的颜色范围，包括P3颜色，并且能够自动生成设计系统调色板。尽管OKLCH生态系统仍在发展中，但它为设计师提供了更多灵活性，并改善了可访问性。</description>
     </item>
   
     <item>
