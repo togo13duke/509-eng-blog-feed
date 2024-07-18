@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #75: Refugees</title>
+      <link>https://www.bambooweekly.com/bw-75-refugees/</link>
+      <description>本周，我们将探讨国际难民的数据，了解涉及的国家和数量。这是一个庞大且复杂的话题，充满了许多悲伤和痛苦，以及难民来源国和到达国的政治动荡。我们将分析来自世界银行的数据，包括各国人口、难民流出数量等，以了解难民问题。</description>
+    </item>
+  
+    <item>
       <title>Vulnerability in Cisco Smart Software Manager lets attackers change any user password</title>
       <link>https://arstechnica.com/?p=2037733</link>
       <description>Cisco Smart Software Manager On-Prem存在严重漏洞，允许攻击者无需认证即可更改任何用户的密码，包括管理员账户。该漏洞可能导致攻击者控制设备，进而威胁网络安全。Cisco已发布安全更新以修复此漏洞。</description>
