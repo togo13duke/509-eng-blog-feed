@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Using pnpm on Heroku</title>
-      <link>https://blog.heroku.com/using-pnpm-on-heroku</link>
-      <description>Heroku现在支持使用pnpm作为Node.js应用的依赖管理器，这可以显著提高安装速度并节省磁盘空间。本文介绍了如何设置pnpm项目，创建一个简单的Express应用，并将其部署到Heroku。通过使用pnpm，开发者可以更高效地构建和部署Node.js应用。</description>
-    </item>
-  
-    <item>
-      <title>Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET</title>
-      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/</link>
-      <description>微软发布了两个新的.NET库：CoreWCF Azure Queue Storage服务库和WCF Azure Queue Storage客户端库，旨在无缝集成CoreWCF服务与Azure Queue Storage，以实现可靠的消息传递和可扩展的通信。这些库支持跨平台，包括Windows、Linux和Mac，并提供了详细的配置和安全性选项，帮助开发者构建可靠和可扩展的应用程序。</description>
-    </item>
-  
-    <item>
       <title>The next Nvidia driver makes even more GPUs “open,” in a specific, quirky way</title>
       <link>https://arstechnica.com/?p=2037900</link>
       <description>NVIDIA最新驱动程序使更多GPU以独特方式“开放”，通过开源GPU内核模块提高了应用性能，并增加了新功能。大多数现代NVIDIA GPU将默认使用这些开源模块，但用户空间驱动程序和固件仍保持封闭。这一举措使NVIDIA更接近Linux社区，但开源程度有限，并非所有GPU都能使用这些开源驱动程序。</description>
@@ -218,12 +206,6 @@
     </item>
   
     <item>
-      <title>Transform CX with customer-centric AI strategies</title>
-      <link>https://www.twilio.com/en-us/blog/transform-cx-customer-centric-ai-strategies</link>
-      <description>Twilio通过客户中心的AI策略转型客户体验。许多自助服务渠道未能满足客户对快速、便捷和可靠解决方案的需求，导致客户满意度下降。Twilio的AI工具可分析大量实时客户数据，帮助服务代表个性化互动，并通过聊天机器人和虚拟助手处理常规查询，使人类代理有更多时间处理复杂问题，从而提高服务速度和准确性。</description>
-    </item>
-  
-    <item>
       <title>[Math][SAT] Project Euler 877 and 878: solving using SAT-solver</title>
       <link>https://yurichev.com/n/PE_877_878/</link>
       <description>本文探讨了使用SAT求解器解决Project Euler的第877和878题。作者通过在GF(2)上进行数学运算，实现了方程的简化，并使用Python代码找到了问题的解。尽管计算过程缓慢，但最终得到了正确的结果，展示了SAT/SMT在原型设计中的实用性。</description>
@@ -275,12 +257,6 @@
       <title>Berlin Buzzwords &amp; MICES24: Paradoxes and Paradigm shifts</title>
       <link>https://algolia.com/blog/engineering/berlin-buzzwords-mices24/</link>
       <description>在2024年柏林的Berlin Buzzwords和MICES24会议上，讨论了技术开放性的悖论、LLM的范式转变、语义搜索、RAG和图像理解等主题。会议强调了技术对社会的影响，以及如何通过开源和知识共享来促进公平和创新的未来。</description>
-    </item>
-  
-    <item>
-      <title>GPU Droplets, HIPAA Covered Products, and more updates from DigitalOcean Deploy</title>
-      <link>https://www.digitalocean.com/blog/gpu-droplets-hipaa-covered-products-deploy-updates</link>
-      <description>DigitalOcean发布了一系列新功能和产品更新，包括GPU Droplets、符合HIPAA标准的云产品、全球负载均衡器（Beta版）等。这些更新旨在满足开发者对高性能计算、数据安全和全球部署的需求，同时通过角色基于访问控制（RBAC）等新特性提升安全性。DigitalOcean还计划推出生成式AI服务，以支持更广泛的开发需求。</description>
     </item>
   
     <item>
