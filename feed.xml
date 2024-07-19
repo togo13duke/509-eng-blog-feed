@@ -6,24 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Why we need safeguards against genetic discrimination</title>
-      <link>https://www.technologyreview.com/2024/07/19/1095120/why-we-need-safeguards-against-genetic-discrimination/</link>
-      <description>随着基因数据的普及，我们需要防范基因歧视。基因歧视可能影响保险和医疗决策，甚至导致不公平对待。尽管已有法律保护，但定义和执行存在差异。了解个人权利和公司政策，以及关注相关法律，是保护自己的关键。</description>
-    </item>
-  
-    <item>
-      <title>Balloons will surf wind currents to track wildfires</title>
-      <link>https://www.technologyreview.com/2024/07/19/1095125/balloons-will-surf-wind-currents-to-track-wildfires/</link>
-      <description>美国公司Urban Sky计划利用高空气球监测野火，以更经济的方式及时发现和追踪火灾。这些气球携带热感器，可从空中测量地面热量，帮助研究人员在火灾发生前了解地面状况，并在火灾燃烧时提供详细的热点信息。这种技术有望提高对火灾的早期预警和应对能力，有助于保护社区和环境。</description>
-    </item>
-  
-    <item>
-      <title>★ How to test all routes in your Laravel app by writing just a single Pest test</title>
-      <link>https://freek.dev/2739-how-to-test-all-routes-in-your-laravel-app-by-writing-just-a-single-pest-test</link>
-      <description>通过使用spatie/pest-plugin-route-testing包，您可以轻松地通过编写单个测试来测试Laravel应用中的所有路由，确保它们返回200 HTTP状态码。此包允许您测试所有GET路由，包括特定路由和排除特定路由，同时支持路由模型绑定和设置测试前的准备工作。</description>
-    </item>
-  
-    <item>
       <title>Java, but why? The state of Java in 2024</title>
       <link>https://stackoverflow.blog/2024/07/19/java-but-why-the-state-of-java-in-2024/</link>
       <description>Java在2024年的状态令人兴奋，资深Java爱好者Lenny Primak认为Java是一项领先的技术，它不再像早期那样冗长，运行良好，且没有近期安全漏洞和故障。Java每六个月就会有一个生产质量的发布，同时还有如Apache Groovy、Virtual Threads、Apache Shiro和Jakarta EE等工具和框架支持开发。</description>
