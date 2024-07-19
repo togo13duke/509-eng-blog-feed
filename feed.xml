@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Collective #855</title>
+      <link>https://tympanus.net/codrops/collective/collective-855/</link>
+      <description>本周前端与设计领域精彩内容汇总：探索CSS clip-path的魔法，学习Framer Motion Theatre的React动画库，了解文本渲染技术的最新进展，以及如何处理网络空间中的争议。还有精选网站设计、产品设计和CSS技巧分享。</description>
+    </item>
+  
+    <item>
+      <title>TiDB Adoption at Pinterest</title>
+      <link>https://medium.com/pinterest-engineering/tidb-adoption-at-pinterest-1130ab787a10?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest采用TiDB作为新的存储技术，以替代原有的HBase。由于HBase在扩展和性能上逐渐无法满足业务需求，Pinterest开始寻找下一代存储技术。经过一系列评估和测试，TiDB因其可靠性、性能、功能以及开源社区支持等优势脱颖而出。TiDB的部署采用Teletraan系统，并使用三副本复制和额外的只读副本进行数据快照。Pinterest正在探索将TiDB迁移到EKS，并使用TiSpark进行离线分析。</description>
+    </item>
+  
+    <item>
       <title>Byte-Sized Courses: NVIDIA Offers Self-Paced Career Development in AI and Data Science</title>
       <link>https://blogs.nvidia.com/blog/ai-data-science-career-development/</link>
       <description>NVIDIA提供自我定速的AI和数据分析职业发展课程，通过行业专家分享经验，帮助学员加速职业成长。课程涵盖技术培训、认证和资源，如免费软件开发套件、社区资源和专业课程。此外，学员可通过LinkedIn建立人脉，提升职业竞争力。NVIDIA还提供AI学习基础课程和深度学习学院，助力学员掌握AI技能。</description>
+    </item>
+  
+    <item>
+      <title>CrowdStrike fixes start at “reboot up to 15 times” and get more complex from there</title>
+      <link>https://arstechnica.com/?p=2038144</link>
+      <description>CrowdStrike的Falcon安全软件更新出现故障，导致Windows系统崩溃并显示蓝屏错误。微软建议通过重启系统多次尝试修复，或使用备份恢复系统。如果重启无效，可能需要进入安全模式手动删除导致问题的CrowdStrike驱动文件。对于使用BitLocker加密的客户，删除文件前需要恢复密钥。CrowdStrikeCEO表示对此事表示歉意，并正在与受影响客户合作解决问题。</description>
     </item>
   
     <item>
@@ -147,6 +165,12 @@
       <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Jeevanandham Selvaraj</title>
       <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-jeevanandham-selvaraj</link>
       <description>Jeevanandham Selvaraj是一位拥有10年IT经验的Elastic Gold贡献者，专注于使用ELK Stack建立可观察性和企业搜索系统。他通过撰写技术文章分享经验，帮助他人解决问题，并从Elastic贡献者计划中获得了宝贵的技能和知识，这对他的职业生涯和个人发展都有很大帮助。</description>
+    </item>
+  
+    <item>
+      <title>Build an Image Editing WhatsApp Chatbot with Twilio and AI</title>
+      <link>https://www.twilio.com/en-us/blog/build-image-editing-whatsapp-chatbot-twilio-ai</link>
+      <description>本文介绍了如何使用Twilio和AI构建一个能够编辑图像背景的WhatsApp聊天机器人。通过Twilio的编程消息API发送和接收WhatsApp消息，并使用Transformers.js库和Sharp模块进行图像处理，实现图像背景的去除和替换。教程详细介绍了环境搭建、所需组件、代码实现等步骤，旨在帮助开发者创建一个功能强大的图像编辑聊天机器人。</description>
     </item>
   
     <item>
@@ -534,6 +558,12 @@
     </item>
   
     <item>
+      <title>Using SQL and Your Chat.db File to Look Through All of Your iMessages</title>
+      <link>https://spin.atomicobject.com/search-imessage-sql/</link>
+      <description>使用SQL查询iMessage数据库（Chat.db文件）以搜索所有iMessage消息。文章介绍了如何设置环境、探索数据库表、执行查询以及访问附件。作者详细说明了如何通过SQL查询找到特定文本、计算消息总数、查看与特定人的消息统计等信息。此外，还提供了如何打开和删除附件的示例。</description>
+    </item>
+  
+    <item>
       <title>Quiz: How Do You Choose Python Function Names?</title>
       <link>https://realpython.com/quizzes/python-function-names/</link>
       <description>本篇文章是关于如何选择Python函数名的互动测验。通过解答7个问题，复习命名规则和惯例，了解良好命名的函数如何提高代码可读性和维护性，减少错误。测验无时间限制，每答对一题得1分，满分100%。</description>
@@ -795,6 +825,12 @@
       <description>客户主导的演示：尽早获取真实反馈
 
 在软件开发中，演示对于展示进度和收集反馈至关重要。它们有助于确保团队走在正确的轨道上，并且客户对项目的方向感到满意。然而，传统的软件演示有一个主要缺陷：它们无法激发真实的反馈。本文探讨了让客户在软件演示中“主导”的不同方法，通过让他们亲自与软件互动并提供实时反馈来提高互动性和实用性。</description>
+    </item>
+  
+    <item>
+      <title>Build an SQL Query from Variables with a Prisma Raw Query (prisma.$queryRaw)</title>
+      <link>https://spin.atomicobject.com/prisma-queryraw/</link>
+      <description>在本文中，作者Nick Hawn介绍了如何使用Prisma的`prisma.$queryRaw`功能从变量构建SQL查询。他首先尝试了一个排序查询，但遇到了语法错误。随后，他使用了Prisma.sql助手来安全地构建SQL语句，并成功实现了排序功能。此外，他还分享了一个额外的技巧，即使用Prisma.empty来处理不重要的排序情况。</description>
     </item>
   
     <item>
