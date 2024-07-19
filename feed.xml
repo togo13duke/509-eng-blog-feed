@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Download: Windows’ CrowdStrike outage, and wildfire-tracking balloons</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095149/the-download-windows-crowdstrike-outage-and-wildfire-tracking-balloons/</link>
+      <description>Windows系统遭遇大规模故障，影响全球航空公司、银行和电视广播公司。故障源于CrowdStrike的安全更新问题，导致Windows工作站无法启动。同时，公司Urban Sky将使用气球跟踪野火，以更好地管理火灾。</description>
+    </item>
+  
+    <item>
       <title>Don’t Let Fear Drive: How to Break Out of a Fear Loop</title>
       <link>https://spin.atomicobject.com/break-out-fear-loop/</link>
       <description>克服恐惧循环，勇敢面对挑战。作者分享了自己如何通过停止让恐惧主导行动，识别恐惧循环的迹象，以及如何通过个人冒险和接受失败来建立自信和韧性。她强调，勇敢不是不害怕，而是即使害怕也继续前进。</description>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #213: Constraint Programming &amp; Exploring Python's Built-in Functions</title>
+      <link>https://realpython.com/podcasts/rpp/213/</link>
+      <description>本期《Real Python播客》探讨了约束编程和Python内置函数。主持人讨论了使用CP-SAT包解决工作排班问题的文章，以及关于Python内置函数的全面探索教程。此外，还分享了关于卫星追踪船只、处理苹果应用商店拒绝Python应用、讨论Python安全模型变化等新闻和项目。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Python Strings and Character Data</title>
+      <link>https://realpython.com/quizzes/python-strings-update/</link>
+      <description>本篇博客介绍了一篇名为“Python Strings and Character Data Quiz”的互动测验，旨在测试读者对Python字符串数据类型和文本操作的理解。测验包含11个问题，无时间限制，每答对一题得1分，满分100%。建议在阅读完“Strings and Character Data in Python”教程后进行测验。</description>
     </item>
   
     <item>
@@ -241,6 +259,12 @@
       <title>Accessing Red Hat Data Grid in Red Hat OpenShift Container Platform 4</title>
       <link>https://developers.redhat.com/articles/2024/07/18/accessing-red-hat-data-grid-red-hat-openshift-container-platform-4</link>
       <description>Red Hat Data Grid在Red Hat OpenShift Container Platform 4中的访问方法包括通过Data Grid Operator或Helm Charts部署，支持集群部署和多种访问方式，如内部服务、Route、LoadBalancer和NodePort。这些方法各有优缺点，用户可根据需求选择合适的部署和访问方式。</description>
+    </item>
+  
+    <item>
+      <title>Living Our Values Assessment</title>
+      <link>https://www.ebayinc.com/stories/news/living-our-values-assessment/</link>
+      <description>eBay致力于践行其价值观，致力于为所有人创造包容的工作环境。公司正在进行一项独立第三方评估，以衡量其在工作场所实践、政策和文化方面的进展，并听取员工和外部利益相关者的反馈。评估将审查现有政策和项目，并通过多种方式收集反馈，旨在促进公司成为更强大、更具包容性的企业。</description>
     </item>
   
     <item>
