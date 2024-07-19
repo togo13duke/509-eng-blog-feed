@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Don’t Let Fear Drive: How to Break Out of a Fear Loop</title>
+      <link>https://spin.atomicobject.com/break-out-fear-loop/</link>
+      <description>克服恐惧循环，勇敢面对挑战。作者分享了自己如何通过停止让恐惧主导行动，识别恐惧循环的迹象，以及如何通过个人冒险和接受失败来建立自信和韧性。她强调，勇敢不是不害怕，而是即使害怕也继续前进。</description>
+    </item>
+  
+    <item>
+      <title>Compte-rendu du Café du Produit #32 :&nbsp; “La Discovery et la gestion d'opportunités”</title>
+      <link>https://blog.octo.com/compte-rendu-du-cafe-du-produit-32--la-discovery-et-la-gestion-d'opportunites</link>
+      <description>本文探讨了产品发现和机会管理的重要性，强调了用户需求、团队协作和持续探索在产品开发中的作用。文章介绍了发现流程、机会评估和优先级排序，以及如何通过工具和方法来优化这一过程。</description>
+    </item>
+  
+    <item>
       <title>Why we need safeguards against genetic discrimination</title>
       <link>https://www.technologyreview.com/2024/07/19/1095120/why-we-need-safeguards-against-genetic-discrimination/</link>
       <description>随着基因数据的普及，我们需要防范基因歧视。基因歧视可能影响保险和医疗决策，甚至导致不公平对待。尽管已有法律保护，但定义和执行存在差异。了解个人权利和公司政策，以及关注相关法律，是保护自己的关键。</description>
@@ -30,6 +42,12 @@
     </item>
   
     <item>
+      <title>The 20 Most Liked Posts on Instagram</title>
+      <link>https://s14415.pcdn.co/blog/most-liked-pictures-on-instagram/</link>
+      <description>Instagram上最受欢迎的20个帖子揭晓，包括足球明星C罗和梅西的动态，以及一个神秘的鸡蛋图片，打破了Instagram的点赞记录。这些帖子展示了社交媒体的强大影响力，以及名人效应在吸引关注和点赞方面的作用。</description>
+    </item>
+  
+    <item>
       <title>The Role of APIs in Quantum Computing</title>
       <link>https://nordicapis.com/the-role-of-apis-in-quantum-computing/</link>
       <description>量子计算API在简化量子硬件使用方面发挥着关键作用，使开发者能够通过用户友好的界面与量子计算机交互，无需深入了解底层硬件。文章介绍了Cirq、Qiskit、Rigetti Forest SDK等流行的量子计算API，并探讨了它们如何帮助开发者构建和运行量子电路。这些API的兴起推动了量子计算的创新，为材料科学、药物发现等领域带来了新的可能性。</description>
@@ -39,6 +57,12 @@
       <title>Metaspace setting and tuning in JDK 8+ Applications (in and outside containers)</title>
       <link>https://developers.redhat.com/articles/2024/07/19/metaspace-setting-and-tuning-jdk-8-applications-and-outside-containers</link>
       <description>本文探讨了JDK 8+中Metaspace的设置和调整，包括其在容器和非容器应用中的使用。文章解释了Metaspace如何从JDK 7的永久代迁移到非堆内存，并讨论了如何设置和调整Metaspace的大小，以避免内存溢出错误。此外，还提供了在容器和非容器环境中处理Metaspace问题的策略和工具。</description>
+    </item>
+  
+    <item>
+      <title>Error'd: Pennies From Heaven</title>
+      <link>https://thedailywtf.com/articles/pennies-from-heaven</link>
+      <description>Lyle Seaman在《Error'd》专栏中分享了几个技术相关的趣事，包括Siemens Mobility的版权问题、Doordash的软件故障、Samsung Galaxy Watch 7的促销争议以及一个餐厅的创意收入方式。文章还提到了社区成员对资金支持的请求。</description>
     </item>
   
     <item>
@@ -149,6 +173,14 @@
       <description>如何创办一家社交媒体营销机构：成功指南
 
 本文为有志于创办社交媒体营销机构的人士提供指导。首先，了解数字营销和社交媒体策略是基础。选择合适的平台，如Facebook、Instagram、X（前Twitter）等，并深入研究广告政策、算法和趋势。明确你的细分市场，制定业务计划，进行竞争对手分析，建立品牌身份，并确保合法合规。提供包括策略、社区管理、内容创作和社交媒体管理等服务，并制定合理的定价策略。建立在线存在感，利用网站和社交媒体展示你的能力。</description>
+    </item>
+  
+    <item>
+      <title>How to Start a Social Media Marketing Agency: Key Steps for Success</title>
+      <link>https://www.brandwatch.com/blog/how-to-start-a-social-media-marketing-agency-key-steps-for-success/</link>
+      <description>如何开启社交媒体营销机构：成功指南
+
+本文为有志于开启社交媒体营销机构的人士提供指导。文章强调了数字营销和社交媒体策略的基础知识，包括了解不同平台、市场调研、竞争对手分析、制定业务计划、建立品牌身份和合法结构。此外，文章还讨论了服务定义、内容创作、社交媒体管理、客户获取和保留策略，以及如何通过建立在线存在感来展示机构的专业能力。</description>
     </item>
   
     <item>
@@ -305,6 +337,12 @@
       <title>Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers</title>
       <link>https://www.docker.com/blog/docker-desktop-4-32/</link>
       <description>Docker Desktop 4.32版本推出多项新功能，包括Beta版本的Compose文件查看器、终端集成和云提供商的卷备份，旨在简化数据工作流程并提高用户生产力。新功能包括改进的开发者体验、增强的生产力、简化数据管理和简化管理，旨在帮助开发团队更有效地构建、共享和运行创新应用程序。</description>
+    </item>
+  
+    <item>
+      <title>VS Code Snippets for Livewire and Alpine.js</title>
+      <link>https://laravel-news.com/vs-code-snippets-for-livewire-and-alpinejs</link>
+      <description>本文介绍了如何在VS Code中配置代码片段，特别是针对Livewire和Alpine.js应用程序的开发。作者分享了如何设置快捷方式来快速插入常用的代码片段，包括Livewire的mount方法和属性，以及Blade和Alpine.js的片段，如console.log和Tailwind CDN脚本。此外，还推荐了Caleb Porzio的“Make VS Code Awesome”课程，其中包含更多有用的代码片段和技巧。</description>
     </item>
   
     <item>
