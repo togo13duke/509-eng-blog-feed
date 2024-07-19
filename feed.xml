@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment</title>
+      <link>https://simonwillison.net/2024/Jul/19/weeknotes/#atom-entries</link>
+      <description>本周，我发布了GPT-4o mini和LLM 0.15版本，并修复了sqlite-utils中的bug。我还致力于构建Datasette Cloud的预演环境，以简化代码更改。此外，我分享了关于AI和Python的见解，并发布了多个项目更新。</description>
+    </item>
+  
+    <item>
+      <title>New in our Playbook: AI ethics training</title>
+      <link>https://thoughtbot.com/blog/new-in-our-playbook-ai-ethics-training</link>
+      <description>thoughtbot发布了一项新的AI伦理培训，旨在确保其AI解决方案符合公司价值观。他们推荐了Linux Foundation提供的免费、自定步调的AI伦理和数据科学课程，以提升团队的知识和责任意识。</description>
+    </item>
+  
+    <item>
       <title>BW #75: Refugees (solution)</title>
       <link>https://www.bambooweekly.com/bw-75-refugees-solution/</link>
       <description>本周探讨了难民问题，分析了难民数量、来源和去向。通过世界银行数据，构建了包含国家、目的地和人口的多维数据集，并探讨了2000年和2023年接受难民最多的十个国家。结果显示，伊朗、土耳其、约旦和德国在2023年接受了大量难民，与2000年相比，难民数量显著增加。</description>
