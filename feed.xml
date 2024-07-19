@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Long Should You Train Your Language Model?</title>
+      <link>https://www.databricks.com/blog/how-long-should-you-train-your-language-model</link>
+      <description>训练语言模型的最佳时长和规模是关键问题。研究人员提出了一种新的缩放定律，考虑了训练和推理的成本，以优化模型质量和效率。通过实验证明，在大量数据上训练较小模型可以匹配甚至超越传统方法训练的大模型，从而在推理阶段节省计算资源。这种方法有助于在保证模型质量的同时，降低训练和部署成本。</description>
+    </item>
+  
+    <item>
       <title>Collective #855</title>
       <link>https://tympanus.net/codrops/collective/collective-855/</link>
       <description>本周前端与设计领域精彩内容汇总：探索CSS clip-path的魔法，学习Framer Motion Theatre的React动画库，了解文本渲染技术的最新进展，以及如何处理网络空间中的争议。还有精选网站设计、产品设计和CSS技巧分享。</description>
@@ -141,6 +147,12 @@
       <title>Error'd: Pennies From Heaven</title>
       <link>https://thedailywtf.com/articles/pennies-from-heaven</link>
       <description>Lyle Seaman在《Error'd》专栏中分享了几个技术相关的趣事，包括Siemens Mobility的版权问题、Doordash的软件故障、Samsung Galaxy Watch 7的促销争议以及一个餐厅的创意收入方式。文章还提到了社区成员对资金支持的请求。</description>
+    </item>
+  
+    <item>
+      <title>Highlight Elements During Testing</title>
+      <link>https://glebbahmutov.com/blog/highlight-element/</link>
+      <description>本文介绍了如何使用Selenium、Playwright和Cypress在测试中突出显示元素。作者通过实际操作展示了如何修改元素样式以突出显示，并提供了Cypress测试的示例代码。此外，还讨论了Cypress与其他测试运行器的不同之处，以及如何使用Cypress的内置功能来简化测试过程。</description>
     </item>
   
     <item>
