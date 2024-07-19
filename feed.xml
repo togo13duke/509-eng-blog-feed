@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Java, but why? The state of Java in 2024</title>
-      <link>https://stackoverflow.blog/2024/07/19/java-but-why-the-state-of-java-in-2024/</link>
-      <description>Java在2024年的状态令人兴奋，资深Java爱好者Lenny Primak认为Java是一项领先的技术，它不再像早期那样冗长，运行良好，且没有近期安全漏洞和故障。Java每六个月就会有一个生产质量的发布，同时还有如Apache Groovy、Virtual Threads、Apache Shiro和Jakarta EE等工具和框架支持开发。</description>
-    </item>
-  
-    <item>
       <title>Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment</title>
       <link>https://simonwillison.net/2024/Jul/19/weeknotes/#atom-entries</link>
       <description>本周，我发布了GPT-4o mini和LLM 0.15版本，并修复了sqlite-utils中的bug。我还致力于构建Datasette Cloud的预演环境，以简化代码更改。此外，我分享了关于AI和Python的见解，并发布了多个项目更新。</description>
