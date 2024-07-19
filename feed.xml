@@ -216,6 +216,12 @@
     </item>
   
     <item>
+      <title>Key Steps in Machine Learning Model Development | Black Friday DataSet</title>
+      <link>https://blog.avenuecode.com/key-steps-in-machine-learning-model-development-black-friday-dataset</link>
+      <description>本文探讨了机器学习模型开发的关键步骤，以预测黑五销售数据集为例。通过分析销售数据，了解客户行为和产品性能，开发预测模型，帮助零售公司制定数据驱动的策略，提高运营和盈利能力。文章详细介绍了数据探索、特征工程、模型选择和评估等过程，并强调了模型部署和公平性分析的重要性。</description>
+    </item>
+  
+    <item>
       <title>OpenAI launches GPT-4o mini, which will replace GPT-3.5 in ChatGPT</title>
       <link>https://arstechnica.com/?p=2037843</link>
       <description>OpenAI推出GPT-4o mini，作为ChatGPT中GPT-3.5的替代品，面向免费用户和付费用户免费提供。该模型具备多模态功能，并采用“指令层次”技术，提高安全性。小型语言模型成本更低，适用于简单任务，有助于降低能耗和用户成本。</description>
