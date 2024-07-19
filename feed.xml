@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Byte-Sized Courses: NVIDIA Offers Self-Paced Career Development in AI and Data Science</title>
+      <link>https://blogs.nvidia.com/blog/ai-data-science-career-development/</link>
+      <description>NVIDIA提供自我定速的AI和数据分析职业发展课程，通过行业专家分享经验，帮助学员加速职业成长。课程涵盖技术培训、认证和资源，如免费软件开发套件、社区资源和专业课程。此外，学员可通过LinkedIn建立人脉，提升职业竞争力。NVIDIA还提供AI学习基础课程和深度学习学院，助力学员掌握AI技能。</description>
+    </item>
+  
+    <item>
+      <title>How to harness the power of professional development goals</title>
+      <link>https://www.atlassian.com/blog/productivity/professional-development-goals</link>
+      <description>如何利用职业发展目标的力量：设定职业发展目标对于提升职业满意度和动力至关重要。通过明确、可衡量、可实现、相关和时限性的SMART目标框架，结合个人价值观和行动计划，可以有效地推动个人职业成长。例如，通过参加公开演讲课程和在公司活动中担任演讲者，可以提升公众演讲技能。与同事或朋友合作，共同学习和发展，也是实现职业目标的有效途径。</description>
+    </item>
+  
+    <item>
+      <title>Exploring Internet traffic during the 2024 U.S. Republican National Convention</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
+      <description>在2024年美国共和党全国代表大会期间，互联网流量反映了人类行为，尤其在大型政治事件期间出现显著波动。研究发现，自2024年4月以来，美国联邦和州政府以及与政治相关的网站遭受了多次DDoS攻击。大会期间，DNS流量到共和党政治党和筹款网站有所增加，但未观察到明显的流量激增。此外，前总统特朗普在宾夕法尼亚州的一次竞选集会上遭遇刺杀未遂事件后，美国互联网流量显著增加。</description>
+    </item>
+  
+    <item>
+      <title>Magnetic Marvels: NVIDIA’s Supercomputers Spin a Quantum Tale</title>
+      <link>https://blogs.nvidia.com/blog/quantum-research-gpus/</link>
+      <description>NVIDIA的超级计算机利用NVIDIA-powered supercomputers进行的研究，验证了量子计算商业化的途径。该研究由诺贝尔奖获得者Giorgio Parisi领导，专注于量子退火，这是一种可能有一天解决传统计算机难以处理的复杂优化问题的方法。研究团队使用了先进的资源来模拟量子退火器（一种特殊的量子计算机）的行为，并展示了GPU加速系统在开发量子计算方法中的关键作用。这项研究有助于科学家通过模拟自然界处理复杂性和无序的方式，开发出解决困难问题的更好算法。</description>
+    </item>
+  
+    <item>
+      <title>How to fix a Windows PC affected by the global outage</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095161/fix-windows-pc-microsoft-crowdstrike-outage/</link>
+      <description>全球范围内，由于CrowdStrike安全软件更新问题，许多Windows电脑出现故障，导致航班延误、银行服务中断、医院系统瘫痪。CrowdStrike已发布修复方案，受影响的用户需手动删除特定文件以恢复系统。此问题非恶意攻击，预计不会造成长期损害。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 9</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240719-00/?p=109980</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者通过实现接口直接创建代理对象，并讨论了使用协程基础设施的优缺点。文章还涉及了C++和Windows Runtime编码技术，并提供了相关代码示例。</description>
+    </item>
+  
+    <item>
+      <title>Major outages at CrowdStrike, Microsoft leave the world with BSODs and confusion</title>
+      <link>https://arstechnica.com/?p=2038106</link>
+      <description>CrowdStrike和微软近期遭遇重大故障，导致全球多个系统出现蓝屏死机，影响包括电视网络、紧急呼叫中心和奥运会等。CrowdStrike承认其软件更新存在问题，而微软则因Azure服务中断而受到指责。目前尚不清楚责任方，但这次故障可能是有史以来最大的IT中断事件。</description>
+    </item>
+  
+    <item>
       <title>The Download: Windows’ CrowdStrike outage, and wildfire-tracking balloons</title>
       <link>https://www.technologyreview.com/2024/07/19/1095149/the-download-windows-crowdstrike-outage-and-wildfire-tracking-balloons/</link>
       <description>Windows系统遭遇大规模故障，影响全球航空公司、银行和电视广播公司。故障源于CrowdStrike的安全更新问题，导致Windows工作站无法启动。同时，公司Urban Sky将使用气球跟踪野火，以更好地管理火灾。</description>
@@ -93,6 +135,18 @@
       <title>New in our Playbook: AI ethics training</title>
       <link>https://thoughtbot.com/blog/new-in-our-playbook-ai-ethics-training</link>
       <description>thoughtbot发布了一项新的AI伦理培训，旨在确保其AI解决方案符合公司价值观。他们推荐了Linux Foundation提供的免费、自定步调的AI伦理和数据科学课程，以提升团队的知识和责任意识。</description>
+    </item>
+  
+    <item>
+      <title>Elasticians give back to causes they care about — without taking PTO</title>
+      <link>https://www.elastic.co/blog/culture-elasticians-vto-benefit</link>
+      <description>Elasticians利用他们的志愿者时间（VTO）回馈社会，如帮助无家可归者、支持动物庇护所和参与地图绘制等公益活动。公司鼓励员工利用VTO参与他们关心的慈善事业，并通过“Dollars for Doers”计划捐赠志愿者小时数。这不仅有助于社区，也促进了团队合作和个人成长。</description>
+    </item>
+  
+    <item>
+      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Jeevanandham Selvaraj</title>
+      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-jeevanandham-selvaraj</link>
+      <description>Jeevanandham Selvaraj是一位拥有10年IT经验的Elastic Gold贡献者，专注于使用ELK Stack建立可观察性和企业搜索系统。他通过撰写技术文章分享经验，帮助他人解决问题，并从Elastic贡献者计划中获得了宝贵的技能和知识，这对他的职业生涯和个人发展都有很大帮助。</description>
     </item>
   
     <item>
