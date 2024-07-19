@@ -12,6 +12,18 @@
     </item>
   
     <item>
+      <title>The Role of APIs in Quantum Computing</title>
+      <link>https://nordicapis.com/the-role-of-apis-in-quantum-computing/</link>
+      <description>量子计算API在简化量子硬件使用方面发挥着关键作用，使开发者能够通过用户友好的界面与量子计算机交互，无需深入了解底层硬件。文章介绍了Cirq、Qiskit、Rigetti Forest SDK等流行的量子计算API，并探讨了它们如何帮助开发者构建和运行量子电路。这些API的兴起推动了量子计算的创新，为材料科学、药物发现等领域带来了新的可能性。</description>
+    </item>
+  
+    <item>
+      <title>Metaspace setting and tuning in JDK 8+ Applications (in and outside containers)</title>
+      <link>https://developers.redhat.com/articles/2024/07/19/metaspace-setting-and-tuning-jdk-8-applications-and-outside-containers</link>
+      <description>本文探讨了JDK 8+中Metaspace的设置和调整，包括其在容器和非容器应用中的使用。文章解释了Metaspace如何从JDK 7的永久代迁移到非堆内存，并讨论了如何设置和调整Metaspace的大小，以避免内存溢出错误。此外，还提供了在容器和非容器环境中处理Metaspace问题的策略和工具。</description>
+    </item>
+  
+    <item>
       <title>Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment</title>
       <link>https://simonwillison.net/2024/Jul/19/weeknotes/#atom-entries</link>
       <description>本周，我发布了GPT-4o mini和LLM 0.15版本，并修复了sqlite-utils中的bug。我还致力于构建Datasette Cloud的预演环境，以简化代码更改。此外，我分享了关于AI和Python的见解，并发布了多个项目更新。</description>
