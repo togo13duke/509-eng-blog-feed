@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>You Should Probably Be Saying “No” to Your Client More Often</title>
+      <link>https://spin.atomicobject.com/say-no-to-a-client/</link>
+      <description>在咨询行业中，有时说“不”是必要的。文章指出，当客户请求超出专业范围、不可行、不道德或不符合用户需求时，应拒绝。同时，要善于引导客户，找到双方都满意的解决方案。平衡是关键，作为顾问，需要在直接和策略之间找到合适的路径。</description>
+    </item>
+  
+    <item>
       <title>Request fingerprints and how to use them in Laravel</title>
       <link>https://www.amitmerchant.com/request-fingerprinting-and-how-to-use-it-in-laravel/</link>
       <description>Laravel中的请求指纹是一种用于唯一标识用户请求的技术，通过结合URL、IP地址和用户代理等参数生成。这有助于缓存、日志记录和调试，提高应用的可靠性和可维护性。通过使用请求指纹，可以追踪每个请求，为调试提供详细信息，从而优化请求管理和问题隔离。</description>
