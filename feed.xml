@@ -72,6 +72,12 @@
     </item>
   
     <item>
+      <title>Improvements to Support Center</title>
+      <link>https://vercel.com/changelog/improvements-to-support-center</link>
+      <description>Vercel更新了支持中心，优化了设计，使理解支持案例状态更便捷。用户可通过搜索主题行、按状态筛选、按最后更新时间、创建日期和严重性排序来查找案例。此功能适用于Pro和Enterprise客户。</description>
+    </item>
+  
+    <item>
       <title>The Download: Windows’ CrowdStrike outage, and wildfire-tracking balloons</title>
       <link>https://www.technologyreview.com/2024/07/19/1095149/the-download-windows-crowdstrike-outage-and-wildfire-tracking-balloons/</link>
       <description>Windows系统遭遇大规模故障，影响全球航空公司、银行和电视广播公司。故障源于CrowdStrike的安全更新问题，导致Windows工作站无法启动。同时，公司Urban Sky将使用气球跟踪野火，以更好地管理火灾。</description>
