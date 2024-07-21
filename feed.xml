@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>[Math] Project Euler 164: solving it using Google OR-tools</title>
-      <link>https://yurichev.com/n/PE_164/</link>
-      <description>本文探讨了如何使用Google OR-tools解决Project Euler的第164题。作者通过编程实现了对20位数字的枚举，这些数字没有前导零，且任意三个连续数字之和不超过9。作者比较了使用Google OR-tools和SAT/SMT求解器在枚举解方面的性能，发现OR-tools在处理此类问题时更为高效。然而，随着数字长度的增加，求解时间逐渐增加。作者还发现，通过排除以零开头的数字，可以显著减少解的数量，从而提高求解效率。</description>
-    </item>
-  
-    <item>
       <title>Pandas office hours, July 21st</title>
       <link>https://www.bambooweekly.com/pandas-office-hours-july-21st/</link>
       <description>Pandas办公室时间将于7月21日举行，届时所有付费订阅者均可提问关于Pandas的问题，包括Bamboo Weekly问题和Python+数据程序相关内容。活动将于以色列时间晚上7:15开始，参与者需提前准备好问题。</description>
