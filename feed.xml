@@ -11,23 +11,5 @@
       <description>Mercari Engineering团队开发了一套系统，以创建公司攻击面地图，旨在提高基础设施和服务的安全性。该系统允许开发者在部署和部署方式上具有灵活性，同时提供对基础设施、弱点和可弃用服务的良好监督。通过这个过程，团队更好地理解了基础设施，并学会了在设计映射未知系统的系统时拥抱灵活性。他们强调了开发者态度的重要性，认为有效的安全流程不应成为负担，并应通过直观的工具和清晰的网络安全信息来赋权开发者。</description>
     </item>
   
-    <item>
-      <title>Why API Security Is a Growing Concern for CISOs in 2024</title>
-      <link>https://nordicapis.com/why-api-security-is-a-growing-concern-for-cisos-in-2024/</link>
-      <description>2024年，API安全成为CISO关注的焦点。API使用增长导致攻击面扩大，数据泄露风险增加。CISO需采取综合策略，包括API治理、安全测试、第三方应用评估、基础设施更新和先进的安全解决方案，以及为开发者提供培训，以保护API免受威胁。</description>
-    </item>
-  
-    <item>
-      <title>​​Try OpenShift AI and integrate with Apache Camel</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel</link>
-      <description>体验Red Hat OpenShift AI，学习如何使用Apache Camel构建AI应用。通过Developer Sandbox，无需本地环境，即可创建和部署模型，并使用OpenShift Dev Spaces开发智能应用。教程详细介绍了创建AI项目、使用模型工厂以及执行训练周期，帮助开发者快速上手。</description>
-    </item>
-  
-    <item>
-      <title>A quick look at large language models with Node.js, Podman desktop, and the Granite model</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model</link>
-      <description>本文探讨了使用Node.js和JavaScript与大型语言模型（LLM）结合使用的方法，特别是介绍了如何使用Podman AI Lab运行Granite模型。文章详细描述了安装Podman Desktop、下载Granite模型以及如何通过Node.js和Langchain.js实现检索增强生成（RAG）。通过实验，作者展示了如何将Granite模型与现有应用集成，并讨论了使用不同模型可能带来的差异。</description>
-    </item>
-  
     </channel>
   </rss>
