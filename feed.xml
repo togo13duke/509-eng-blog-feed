@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A Developer’s Journey with User Authentication: Species360</title>
+      <link>https://auth0.com/blog/auth0-species360/</link>
+      <description>Species360通过Auth0实现了用户身份验证的转型，简化了其ZIMS平台的安全设置，并利用Auth0的集成工具和SDK提高了效率。通过Auth0的通用登录和企业连接功能，Species360为用户提供更流畅的体验，同时确保了数据管理的安全。</description>
+    </item>
+  
+    <item>
       <title>Maestro: Netflix’s Workflow Orchestrator</title>
       <link>https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78?source=rss----2615bd06b42e---4</link>
       <description>Netflix推出Maestro，一款通用、可扩展的工作流编排器，用于管理大规模工作流，如数据管道和机器学习模型训练。Maestro支持多种业务逻辑格式，包括Docker镜像、笔记本、bash脚本、SQL、Python等，并支持循环和条件分支等模式。Maestro已成功迁移数十万个工作流，每天处理数百万个任务，适用于ETL、机器学习、AB测试等多种场景。</description>
@@ -15,6 +21,12 @@
       <title>AI companies promised the White House to self-regulate one year ago. What’s changed?</title>
       <link>https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/</link>
       <description>一年前，七家领先的AI公司承诺与白宫进行自我监管。尽管这些公司采取了一些措施，如进行红队测试和为AI生成内容添加水印，但他们在透明度和问责制方面仍缺乏实质性进展。尽管如此，这些自愿承诺在推动技术进步方面取得了一些进展，但仍需更多努力以确保AI系统的安全性和可靠性。</description>
+    </item>
+  
+    <item>
+      <title>Microsoft says 8.5M systems hit by CrowdStrike BSOD, releases USB recovery tool</title>
+      <link>https://arstechnica.com/?p=2038277</link>
+      <description>微软表示，约850万台系统受到CrowdStrike安全软件更新错误的影响，并发布了USB恢复工具，以帮助修复受影响的PC。</description>
     </item>
   
     <item>
@@ -33,6 +45,12 @@
       <title>Introducing Mosaic AI Model Training for Fine-Tuning GenAI Models</title>
       <link>https://www.databricks.com/blog/introducing-mosaic-ai-model-training-fine-tuning-genai-models</link>
       <description>Databricks推出Mosaic AI模型训练，支持公共预览，用于微调生成式AI模型。该服务允许用户使用企业数据对各种模型进行微调或预训练，并通过Unity Catalog注册模型，实现模型和权重的完全控制和所有权。Mosaic AI模型训练旨在简化模型训练过程，提高效率，并支持与RAG结合使用，以实现更准确的应用。</description>
+    </item>
+  
+    <item>
+      <title>Astronomers discover technique to spot AI fakes using galaxy-measurement tools</title>
+      <link>https://arstechnica.com/?p=2038332</link>
+      <description>研究人员开发了一种利用天文学工具检测AI生成深度伪造图像的新方法，通过分析人眼中的光反射一致性来识别。这种方法基于眼睛在相同光源照射下反射光形状的一致性原理，AI生成的图像往往在这一方面存在不一致。尽管这种方法可能存在误报，但它为检测深度伪造图像提供了一种有前景的工具。</description>
     </item>
   
     <item>
@@ -104,6 +122,12 @@
     </item>
   
     <item>
+      <title>Automatically skip unnecessary deployments in monorepos</title>
+      <link>https://vercel.com/changelog/automatically-skip-unnecessary-deployments-in-monorepos</link>
+      <description>Vercel通过Turborepo技术，现在可以自动跳过monorepos中未更改代码的构建，从而减少构建队列并提高受影响项目的部署时间。此功能适用于任何使用工作区的monorepo，并支持更高级的定制，如基于分支取消构建。</description>
+    </item>
+  
+    <item>
       <title>Testing Saloon API Integrations in Laravel</title>
       <link>https://freek.dev/2740-testing-saloon-api-integrations-in-laravel</link>
       <description>Laravel开发者Freek Van der Herten在其博客上分享了如何使用Saloon API测试工具来模拟和记录HTTP响应，以便在Laravel应用程序中测试API集成。文章提供了实用的编程技巧和项目经验，适合关注Laravel、PHP和JavaScript的现代开发者。</description>
@@ -163,6 +187,12 @@
       <title>5 myths about platform engineering, debunked</title>
       <link>https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked</link>
       <description>平台工程并非拖慢开发进程的负担，而是提升开发效率的助力。它通过自动化基础设施配置和提供安全、合规的预配置环境，使开发者能够更快地交付代码。平台工程不仅不牺牲安全性和治理，反而通过内置安全功能和自动化工具来增强它们。此外，平台工程强调团队合作，需要与产品团队、安全专家和运维团队紧密合作，以确保平台的有效性和用户友好性。最后，平台工程可以逐步实施，无需颠覆现有基础设施，而是通过渐进式的方法来提升组织的技术基础。</description>
+    </item>
+  
+    <item>
+      <title>This Luxury Watch Seller Built a Multi-Million Dollar Business</title>
+      <link>https://www.ebayinc.com/stories/news/this-luxury-watch-seller-built-a-multi-million-dollar-business/</link>
+      <description>Arman Baig是一位第三代奢侈品手表卖家，他在eBay上建立了一家价值数百万美元的生意。他从全球各地采购独特的手表，并提供个性化的客户体验。Baig从小就在父亲的高级珠宝和手表店里长大，学习了销售艺术，并最终将家族生意扩展到eBay。他的店铺展示了全球最新的手表趋势，服务于国际客户。Baig强调诚信和卓越的客户服务，通过快速配送和全面退款保证赢得了良好的买家评价。他计划在未来十年内将Swiss Ice打造成领先的在线奢侈品手表零售商。</description>
     </item>
   
     <item>
