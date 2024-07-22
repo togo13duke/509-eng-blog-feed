@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Install TimescaleDB on Azure</title>
+      <link>https://www.timescale.com/blog/how-to-install-timescaledb-on-azure/</link>
+      <description>如何在Azure上安装TimescaleDB
+
+本文介绍了如何在Azure上安装TimescaleDB，一个基于PostgreSQL的强大开源时间序列数据库，用于高效管理时间序列数据、事件和分析。文章详细说明了从创建Azure账户、配置虚拟机、安装TimescaleDB到配置PostgreSQL和使用TimescaleDB的整个过程。通过本指南，用户可以快速搭建一个可扩展且高性能的数据库，以满足时间序列数据需求。</description>
+    </item>
+  
+    <item>
+      <title>The Download: technological complexity, and climate change Catan</title>
+      <link>https://www.technologyreview.com/2024/07/22/1095178/the-download-technological-complexity-and-climate-change-catan/</link>
+      <description>科技复杂性及气候变化问题日益凸显，MIT Technology Review最新一期《The Download》探讨了技术难题的复杂性，以及如何应对由此产生的“云问题”。此外，文章还介绍了应对气候变化的创新游戏，如Catan版本，以及全球科技新闻的精选摘要。</description>
+    </item>
+  
+    <item>
       <title>Using Videos and Blend Modes in Figma to Create More Interesting Screen Transitions</title>
       <link>https://spin.atomicobject.com/blend-mode-figma/</link>
       <description>Figma支持视频和混合模式，可用于创建更吸引人的屏幕过渡效果。作者Kyle Harris通过在Figma中使用视频和混合模式，实现了类似手机游戏中的屏幕切换效果。他使用After Effects制作视频，并通过调整混合模式实现透明效果，使Figma原型在视频上显示。此方法适用于游戏和移动应用开发，但可能不适用于商业软件和网页应用。</description>
