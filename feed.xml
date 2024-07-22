@@ -6,11 +6,59 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>3 ways to get Remote Code Execution in Kafka UI</title>
+      <link>https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
+      <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞涉及Groovy脚本执行、JMX连接器和JndiLoginModule。研究人员发现，攻击者可以通过这些漏洞读取文件、发现凭证或执行任意代码。Kafka UI的版本0.7.2已修复这些漏洞，用户应确保升级以保护系统安全。</description>
+    </item>
+  
+    <item>
+      <title>A new weather prediction model from Google combines AI with traditional physics</title>
+      <link>https://www.technologyreview.com/2024/07/22/1095184/a-new-weather-prediction-model-from-google-combines-ai-with-traditional-physics/</link>
+      <description>谷歌开发了一种结合人工智能和传统物理学的天气预报模型，名为NeuralGCN，旨在提高预测准确性并降低成本。该模型结合了传统模型对大气变化的大规模模拟和人工智能在小尺度预测上的优势，有望在更广泛的气候事件预测中发挥作用。</description>
+    </item>
+  
+    <item>
+      <title>Countdown to Paris 2024 Olympics: France leads in web interest</title>
+      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
+      <description>2024年巴黎奥运会即将举行，法国在互联网关注度上领先。从1月到7月，Cloudflare的DNS流量分析显示，法国对官方奥运网站的DNS请求占比最高，达24%，其次是英国和美国的20%和17%。分析还发现，与奥运相关的邮件数量也在增加，其中大部分为普通邮件，少量为垃圾邮件和恶意邮件。随着奥运会的临近，相关流量和邮件数量预计将继续增加。</description>
+    </item>
+  
+    <item>
+      <title>Organizing the five creation dispositions of the Create­File function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240722-00/?p=110026</link>
+      <description>本文探讨了Windows API中的CreateFile函数的五种创建处置值。当请求的文件不存在时，可以选择失败或创建新文件；当文件已存在时，可以选择失败、保留现有数据或截断文件内容。文章还讨论了API中未涵盖的“始终失败”情况，并提供了模拟该行为的示例代码。</description>
+    </item>
+  
+    <item>
+      <title>Logging in Python</title>
+      <link>https://realpython.com/python-logging/</link>
+      <description>Python的日志记录是开发者理解代码执行情况的重要工具。本文介绍了Python标准库中的日志模块，包括如何设置基本配置、调整日志级别、格式化输出、将日志记录到文件、捕获堆栈跟踪以及创建自定义日志记录器。通过学习这些内容，开发者可以更好地调试错误、分析性能，并规划项目发展。</description>
+    </item>
+  
+    <item>
+      <title>Data-Driven Quality: Change the Game with Knowledge Graphs &amp; Generative AI</title>
+      <link>https://www.databricks.com/blog/data-driven-quality-change-game-knowledge-graphs-generative-ai</link>
+      <description>利用知识图谱和生成式AI，Databricks和Stardog帮助制造企业通过快速识别问题来改善客户结果，进行质量事件取证。通过整合不同数据源，企业可以更好地理解问题范围、潜在影响和根本原因，从而避免未来出现类似问题。这种方法有助于企业制定有效的解决方案，并预防问题的再次发生。</description>
+    </item>
+  
+    <item>
       <title>How to Install TimescaleDB on Azure</title>
       <link>https://www.timescale.com/blog/how-to-install-timescaledb-on-azure/</link>
       <description>如何在Azure上安装TimescaleDB
 
 本文介绍了如何在Azure上安装TimescaleDB，一个基于PostgreSQL的强大开源时间序列数据库，用于高效管理时间序列数据、事件和分析。文章详细说明了从创建Azure账户、配置虚拟机、安装TimescaleDB到配置PostgreSQL和使用TimescaleDB的整个过程。通过本指南，用户可以快速搭建一个可扩展且高性能的数据库，以满足时间序列数据需求。</description>
+    </item>
+  
+    <item>
+      <title>Longer history available in Speed Insights</title>
+      <link>https://vercel.com/changelog/longer-history-available-in-speed-insights</link>
+      <description>Vercel宣布在Speed Insights中增加了可查看的历史记录时间，现在所有计划类型（Hobby、Pro、Enterprise）的用户都可以查看更长时间的历史数据，无需额外费用。这一更新允许用户更长时间地衡量网站性能。</description>
+    </item>
+  
+    <item>
+      <title>Testing Saloon API Integrations in Laravel</title>
+      <link>https://freek.dev/2740-testing-saloon-api-integrations-in-laravel</link>
+      <description>Laravel开发者Freek Van der Herten在其博客上分享了如何使用Saloon API测试工具来模拟和记录HTTP响应，以便在Laravel应用程序中测试API集成。文章提供了实用的编程技巧和项目经验，适合关注Laravel、PHP和JavaScript的现代开发者。</description>
     </item>
   
     <item>
@@ -79,6 +127,14 @@
       <title>CodeSOD: Serial Properties</title>
       <link>https://thedailywtf.com/articles/serial-properties</link>
       <description>Remy Porter在TDWTF上撰文，讨论了C#代码中一个设置和读取属性值时出现的意外问题。代码中，一个字符串属性被错误地序列化为JSON，并引入了一个名为`IsNotValid`的扩展方法，这可能导致不期望的行为。文章指出，这种在属性访问器中放置非标准代码的做法在.NET语言中并不罕见，并提醒开发者注意此类潜在陷阱。</description>
+    </item>
+  
+    <item>
+      <title>Elastic data tiering strategy: Optimizing for a resilient and efficient implementation</title>
+      <link>https://www.elastic.co/blog/elastic-data-tiering-strategy</link>
+      <description>Elastic数据分层策略：优化弹性、高效实施
+
+本文探讨了如何通过数据分层策略优化数据存储，以实现成本节约和提升数据价值。通过分析业务目标，确定数据收集、使用和保留策略，企业可以优化数据存储和利用，提高效率并降低成本。案例研究展示了如何通过分层存储优化日志管理、提高许可证利用率、增强业务效率和扩展新用例。此外，文章还讨论了数据分层、数据增长和保留、存储优化以及重新架构的好处。通过实施数据分层策略，企业可以优化性能，同时高效地存储大量数据。</description>
     </item>
   
     </channel>
