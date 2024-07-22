@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Using Videos and Blend Modes in Figma to Create More Interesting Screen Transitions</title>
+      <link>https://spin.atomicobject.com/blend-mode-figma/</link>
+      <description>Figma支持视频和混合模式，可用于创建更吸引人的屏幕过渡效果。作者Kyle Harris通过在Figma中使用视频和混合模式，实现了类似手机游戏中的屏幕切换效果。他使用After Effects制作视频，并通过调整混合模式实现透明效果，使Figma原型在视频上显示。此方法适用于游戏和移动应用开发，但可能不适用于商业软件和网页应用。</description>
+    </item>
+  
+    <item>
       <title>Mapping the Attack Surface from the Inside</title>
       <link>https://engineering.mercari.com/en/blog/entry/20240722-mapping-the-attack-surface-from-the-inside/</link>
       <description>Mercari Engineering团队开发了一套系统，以创建公司攻击面地图，旨在提高基础设施和服务的安全性。该系统允许开发者在部署和部署方式上具有灵活性，同时提供对基础设施、弱点和可弃用服务的良好监督。通过这个过程，团队更好地理解了基础设施，并学会了在设计映射未知系统的系统时拥抱灵活性。他们强调了开发者态度的重要性，认为有效的安全流程不应成为负担，并应通过直观的工具和清晰的网络安全信息来赋权开发者。</description>
@@ -53,6 +59,12 @@
       <title>Data Fetching with Server Actions in Next.js</title>
       <link>https://www.robinwieruch.de/next-server-actions-fetch-data/</link>
       <description>Next.js中的Server Actions在数据获取方面提供了便利，允许在服务器端执行代码，直接访问数据层。虽然官方推荐在Client Components中使用Route Handlers进行数据获取，但Server Actions也可以用于Client Components，以实现类型安全的远程过程调用。这种方法可以重用Server Components中的函数，提高开发效率，但Server Actions执行HTTP POST请求，且按顺序运行。作者建议在需要时使用Server Actions，并关注未来官方推荐的演变。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Serial Properties</title>
+      <link>https://thedailywtf.com/articles/serial-properties</link>
+      <description>Remy Porter在TDWTF上撰文，讨论了C#代码中一个设置和读取属性值时出现的意外问题。代码中，一个字符串属性被错误地序列化为JSON，并引入了一个名为`IsNotValid`的扩展方法，这可能导致不期望的行为。文章指出，这种在属性访问器中放置非标准代码的做法在.NET语言中并不罕见，并提醒开发者注意此类潜在陷阱。</description>
     </item>
   
     </channel>
