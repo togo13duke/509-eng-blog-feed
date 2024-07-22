@@ -6,54 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Maestro: Netflix’s Workflow Orchestrator</title>
-      <link>https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78?source=rss----2615bd06b42e---4</link>
-      <description>Netflix推出Maestro，一款通用、可扩展的工作流编排器，用于管理大规模工作流，如数据管道和机器学习模型训练。Maestro支持多种业务逻辑格式，包括Docker镜像、笔记本、bash脚本、SQL、Python等，并支持循环和条件分支等模式。Maestro已成功迁移数十万个工作流，每天处理数百万个任务，适用于ETL、机器学习、AB测试等多种场景。</description>
-    </item>
-  
-    <item>
-      <title>AI companies promised the White House to self-regulate one year ago. What’s changed?</title>
-      <link>https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/</link>
-      <description>一年前，七家领先的AI公司承诺与白宫进行自我监管。尽管这些公司采取了一些措施，如进行红队测试和为AI生成内容添加水印，但他们在透明度和问责制方面仍缺乏实质性进展。尽管如此，这些自愿承诺在推动技术进步方面取得了一些进展，但仍需更多努力以确保AI系统的安全性和可靠性。</description>
-    </item>
-  
-    <item>
-      <title>Add AI to Your .NET Apps Easily with Prompty</title>
-      <link>https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/</link>
-      <description>Prompty是一个Visual Studio Code扩展，可轻松将大型语言模型（如GPT-4o）集成到.NET应用程序中。它简化了代码片段生成、文档创建和应用程序调试的过程，使开发者能够通过编写代码直接与LLM交互，从而提高开发效率和生产力。</description>
-    </item>
-  
-    <item>
-      <title>AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more (July 22, 2024)</title>
-      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/</link>
-      <description>上周，全球AWS英雄齐聚全球AWS英雄峰会，庆祝AWS英雄计划的10周年。此外，推出了Amazon Corretto、Amazon Redshift等更新，并支持了AWS Lambda的新功能。AWS社区也发布了多个技术博客，并即将举办AWS峰会和社区日活动。</description>
-    </item>
-  
-    <item>
-      <title>Introducing Mosaic AI Model Training for Fine-Tuning GenAI Models</title>
-      <link>https://www.databricks.com/blog/introducing-mosaic-ai-model-training-fine-tuning-genai-models</link>
-      <description>Databricks推出Mosaic AI模型训练，支持公共预览，用于微调生成式AI模型。该服务允许用户使用企业数据对各种模型进行微调或预训练，并通过Unity Catalog注册模型，实现模型和权重的完全控制和所有权。Mosaic AI模型训练旨在简化模型训练过程，提高效率，并支持与RAG结合使用，以实现更准确的应用。</description>
-    </item>
-  
-    <item>
-      <title>New Auth0 Integration for Vercel: Available Now</title>
-      <link>https://auth0.com/blog/auth0-vercel-integration/</link>
-      <description>Auth0与Vercel推出全新集成，简化身份验证流程。该集成允许用户快速部署应用，并利用Auth0和Vercel的优势构建安全、可扩展的应用。通过一键式操作，用户可在Vercel中设置生产环境，并自动创建与Auth0租户关联的应用。</description>
-    </item>
-  
-    <item>
-      <title>Just-in-time approval workflow with Boundary and Azure</title>
-      <link>https://www.hashicorp.com/blog/just-in-time-approval-workflow-with-boundary-and-azure</link>
-      <description>Boundary与Azure的即时审批工作流通过Microsoft Privileged Identity Management (PIM)扩展了其功能，允许基于请求和审批工作流进行临时访问。该平台简化了用户对基础设施资源的访问，同时通过最小权限原则保护基础设施安全。本文介绍了如何设置这种工作流，包括配置步骤和组件交互，以及如何通过Boundary和Azure实现用户请求访问和审批的过程。</description>
-    </item>
-  
-    <item>
-      <title>HCP Terraform adds granular API access for audit trails</title>
-      <link>https://www.hashicorp.com/blog/hcp-terraform-adds-granular-api-access-for-audit-trails</link>
-      <description>HCP Terraform新增了细粒度的API访问权限，以简化审计跟踪的权限管理。新功能允许组织所有者生成专用的API密钥，以实现最小权限访问审计跟踪，从而提高安全性并简化权限流程。此功能现在已在HCP Terraform中提供。</description>
-    </item>
-  
-    <item>
       <title>3 ways to get Remote Code Execution in Kafka UI</title>
       <link>https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
       <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞涉及Groovy脚本执行、JMX连接器和JndiLoginModule。研究人员发现，攻击者可以通过这些漏洞读取文件、发现凭证或执行任意代码。Kafka UI的版本0.7.2已修复这些漏洞，用户应确保升级以保护系统安全。</description>
@@ -119,12 +71,6 @@
       <title>Using Videos and Blend Modes in Figma to Create More Interesting Screen Transitions</title>
       <link>https://spin.atomicobject.com/blend-mode-figma/</link>
       <description>Figma支持视频和混合模式，可用于创建更吸引人的屏幕过渡效果。作者Kyle Harris通过在Figma中使用视频和混合模式，实现了类似手机游戏中的屏幕切换效果。他使用After Effects制作视频，并通过调整混合模式实现透明效果，使Figma原型在视频上显示。此方法适用于游戏和移动应用开发，但可能不适用于商业软件和网页应用。</description>
-    </item>
-  
-    <item>
-      <title>Sustainable Strides: How AI and Accelerated Computing Are Driving Energy Efficiency</title>
-      <link>https://blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/</link>
-      <description>NVIDIA的技术在推动能源效率方面发挥着关键作用，通过加速计算和人工智能的结合，显著降低了多个行业的能耗。例如，金融、制造和医疗等行业都实现了显著的能源节约。NVIDIA的GPU和AI平台帮助用户在药物发现、数据分析、气候模拟等领域取得了突破，同时减少了碳足迹。NVIDIA的解决方案不仅提高了效率，还推动了可持续计算的发展。</description>
     </item>
   
     <item>
