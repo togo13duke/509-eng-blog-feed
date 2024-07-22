@@ -11,5 +11,49 @@
       <description>Mercari Engineering团队开发了一套系统，以创建公司攻击面地图，旨在提高基础设施和服务的安全性。该系统允许开发者在部署和部署方式上具有灵活性，同时提供对基础设施、弱点和可弃用服务的良好监督。通过这个过程，团队更好地理解了基础设施，并学会了在设计映射未知系统的系统时拥抱灵活性。他们强调了开发者态度的重要性，认为有效的安全流程不应成为负担，并应通过直观的工具和清晰的网络安全信息来赋权开发者。</description>
     </item>
   
+    <item>
+      <title>Why API Security Is a Growing Concern for CISOs in 2024</title>
+      <link>https://nordicapis.com/why-api-security-is-a-growing-concern-for-cisos-in-2024/</link>
+      <description>2024年，API安全成为CISO关注的焦点。API使用增长导致攻击面扩大，数据泄露风险增加。CISO需采取综合策略，包括API治理、安全测试、第三方应用评估、基础设施更新和先进的安全解决方案，以及为开发者提供培训，以保护API免受威胁。</description>
+    </item>
+  
+    <item>
+      <title>​​Try OpenShift AI and integrate with Apache Camel</title>
+      <link>https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel</link>
+      <description>体验Red Hat OpenShift AI，学习如何使用Apache Camel构建AI应用。通过Developer Sandbox，无需本地环境，即可创建和部署模型，并使用OpenShift Dev Spaces开发智能应用。教程详细介绍了创建AI项目、使用模型工厂以及执行训练周期，帮助开发者快速上手。</description>
+    </item>
+  
+    <item>
+      <title>A quick look at large language models with Node.js, Podman desktop, and the Granite model</title>
+      <link>https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model</link>
+      <description>本文探讨了使用Node.js和JavaScript与大型语言模型（LLM）结合使用的方法，特别是介绍了如何使用Podman AI Lab运行Granite模型。文章详细描述了安装Podman Desktop、下载Granite模型以及如何通过Node.js和Langchain.js实现检索增强生成（RAG）。通过实验，作者展示了如何将Granite模型与现有应用集成，并讨论了使用不同模型可能带来的差异。</description>
+    </item>
+  
+    <item>
+      <title>Protecting your models made easy with Authorino</title>
+      <link>https://developers.redhat.com/articles/2024/07/22/protecting-your-models-made-easy-authorino</link>
+      <description>使用Authorino简化模型保护
+
+本文介绍了如何使用Authorino在Open Data Hub环境中部署和认证模型。通过简单的步骤，用户可以轻松地为模型添加认证，确保模型免受未经授权的访问。文章详细说明了安装Authorino Operator、配置认证策略以及部署示例模型的过程。通过Open Data Hub Dashboard，用户可以轻松地创建自定义ServingRuntime并部署模型，同时使用Authorino进行安全保护。</description>
+    </item>
+  
+    <item>
+      <title>5 myths about platform engineering, debunked</title>
+      <link>https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked</link>
+      <description>平台工程并非拖慢开发进程的负担，而是提升开发效率的助力。它通过自动化基础设施配置和提供安全、合规的预配置环境，使开发者能够更快地交付代码。平台工程不仅不牺牲安全性和治理，反而通过内置安全功能和自动化工具来增强它们。此外，平台工程强调团队合作，需要与产品团队、安全专家和运维团队紧密合作，以确保平台的有效性和用户友好性。最后，平台工程可以逐步实施，无需颠覆现有基础设施，而是通过渐进式的方法来提升组织的技术基础。</description>
+    </item>
+  
+    <item>
+      <title>Live Data Transfer: RDS to DynamoDB Made Easy</title>
+      <link>https://bytes.swiggy.com/live-data-transfer-rds-to-dynamodb-made-easy-2f2aef94f847?source=rss----9556560f659---4</link>
+      <description>本文介绍了从RDS到DynamoDB的数据库迁移策略。通过使用AWS的S3导入功能，将数据从CSV格式转换为DynamoDB ION格式，并处理了数据一致性和ID冲突问题。文章详细描述了迁移过程中的关键步骤，包括数据导入、最终一致性考虑、缓慢推出和成本执行时间，以确保迁移过程平稳进行。</description>
+    </item>
+  
+    <item>
+      <title>Data Fetching with Server Actions in Next.js</title>
+      <link>https://www.robinwieruch.de/next-server-actions-fetch-data/</link>
+      <description>Next.js中的Server Actions在数据获取方面提供了便利，允许在服务器端执行代码，直接访问数据层。虽然官方推荐在Client Components中使用Route Handlers进行数据获取，但Server Actions也可以用于Client Components，以实现类型安全的远程过程调用。这种方法可以重用Server Components中的函数，提高开发效率，但Server Actions执行HTTP POST请求，且按顺序运行。作者建议在需要时使用Server Actions，并关注未来官方推荐的演变。</description>
+    </item>
+  
     </channel>
   </rss>
