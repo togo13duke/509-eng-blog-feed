@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Navigating the new web accessibility ruling in the U.S.</title>
+      <link>https://thoughtbot.com/blog/navigating-the-new-web-accessibility-ruling-in-the-u-s</link>
+      <description>美国新网络无障碍法规解读：美国司法部发布关于州和地方政府网站无障碍的最终裁决，要求确保残疾人士平等获取政府服务。新规采用WCAG 2.1作为新的一致性标准，要求组织确保其网站和移动应用符合W3C网络内容无障碍指南（WCAG）2.1 AA级。组织需制定无障碍行动计划，包括了解新要求、确定受影响的组织、遵循WCAG指南、解决常见无障碍问题，并持续改进以保持合规。</description>
+    </item>
+  
+    <item>
       <title>NVIDIA’s AI Masters Sweep KDD Cup 2024 Data Science Competition</title>
       <link>https://blogs.nvidia.com/blog/nvidia-ai-masters-kdd-cup-2024/</link>
       <description>NVIDIA团队在KDD Cup 2024数据科学竞赛中荣获所有五项比赛的第一名，展示了其在生成式AI领域的强大实力。他们利用Qwen2-72B语言模型和NVIDIA A100 Tensor Core GPU，通过创新的方法解决了在线购物挑战，实现了对复杂购物概念的理解、购物知识推理、用户行为对齐和多语言能力。NVIDIA计划在KDD 2024会议上分享其解决方案。</description>
@@ -237,6 +243,12 @@
       <title>Device Trust for the Web: The Hard Parts</title>
       <link>https://goteleport.com/blog/device-trust-for-web-challenges-and-solutions/</link>
       <description>Teleport 16通过设备信任、多因素认证和VNET，加强了基础设施防御深度。文章探讨了设备信任在Web上的挑战，包括浏览器隔离和过程边界攻击，以及Teleport如何通过“Token Move check”等技术解决这些问题，确保只有可信设备才能访问敏感资源。</description>
+    </item>
+  
+    <item>
+      <title>"work hard, play hard"</title>
+      <link>https://taylor.town/work-hard-play-hard</link>
+      <description>努力工作，尽情享受生活。</description>
     </item>
   
     </channel>
