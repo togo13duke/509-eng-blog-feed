@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The On-Call Chronicles: Enhancing B2B P&amp;E Defense</title>
+      <link>https://www.babbel.com/en/magazine/the-on-call-chronicles-enhancing-b2b-pe-defense</link>
+      <description>Babbel通过优化B2B产品与工程（P&amp;E）的值班流程，确保系统稳定和快速解决事件。通过周轮换值班责任，持续监控技术和业务指标，并使用工具如PagerDuty、Rollbar和JIRA来管理警报和事件跟踪。此外，通过收集和分析关键指标，如平均恢复时间（MTTR），团队不断改进和加强防御系统。</description>
+    </item>
+  
+    <item>
+      <title>Accelerate your data streaming journey with the latest in Confluent Cloud</title>
+      <link>https://www.confluent.io/blog/accelerate-data-streaming-with-latest-in-confluent-cloud/</link>
+      <description>2024年第二季度，Confluent Cloud推出了一系列更新，包括增强数据流平台的四个关键支柱：Stream、Connect、Process和Govern，以及与合作伙伴生态系统合作的新功能。这些更新包括Flink SQL工作区的交互式表格、Flink的私有网络支持、弹性企业集群的扩展、新的连接器集成以及BYOK功能的增强。这些改进旨在提高数据安全性、简化操作负担并扩展数据流生态系统。</description>
+    </item>
+  
+    <item>
+      <title>The Download: AI’s self-regulation promises, and predicting the weather</title>
+      <link>https://www.technologyreview.com/2024/07/23/1095222/the-download-ais-self-regulation-promises-and-predicting-the-weather/</link>
+      <description>MIT Technology Review报道了人工智能公司承诺自我监管一年来的进展，以及谷歌结合AI和传统物理学的天气预报系统。AI公司承诺提高AI系统的测试和透明度，并分享潜在危害和风险的信息。谷歌的新模型NeuralGCM旨在结合机器学习和传统方法，以更低的成本提供准确的长期天气预报。</description>
+    </item>
+  
+    <item>
       <title>Simplify Your Page State with React’s useReducer Hook</title>
       <link>https://spin.atomicobject.com/page-state-usereducer-hook/</link>
       <description>使用React的useReducer钩子简化页面状态管理
@@ -155,6 +173,12 @@
       <title>3 ways to get Remote Code Execution in Kafka UI</title>
       <link>https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
       <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞涉及Groovy脚本执行、JMX连接器和JndiLoginModule。研究人员发现，攻击者可以通过这些漏洞读取文件、发现凭证或执行任意代码。Kafka UI的版本0.7.2已修复这些漏洞，用户应确保升级以保护系统安全。</description>
+    </item>
+  
+    <item>
+      <title>3 ways to get Remote Code Execution in Kafka UI</title>
+      <link>https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
+      <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞包括通过Groovy脚本执行和JMX连接器进行攻击。用户应升级到0.7.2版本以修复这些问题，并确保Kafka UI实例安全。</description>
     </item>
   
     <item>
