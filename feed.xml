@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The first GPT-4-class AI model anyone can download has arrived: Llama 405B</title>
+      <link>https://arstechnica.com/?p=2038486</link>
+      <description>Meta发布了Llama 3.1 405B，这是首个可供免费下载的GPT-4级大型语言模型，可在个人硬件上运行。该模型具有与GPT-4 Turbo、GPT-4o和Claude 3.5 Sonnet等顶级AI模型相媲美的能力，适用于长文本摘要、多语言对话代理和编码助手等应用。Meta强调开源AI的重要性，并认为开放模型有助于用户控制、数据安全和成本效益。</description>
+    </item>
+  
+    <item>
       <title>The Surrender of the Gods, part 1</title>
       <link>https://blog.rootsofprogress.org/thm-ch2-the-surrender-of-the-gods-part-1</link>
       <description>人类从受自然支配的原始生活，通过农业和定居社会的出现，逐步获得了更大的能动性。我们学会了种植作物、驯养牲畜，并利用火和工具改造材料，从而超越了自然资源的限制。随着对能源和材料的控制，我们开始建造城市、船只，并开拓新的职业。然而，直到工业革命之前，人类仍受制于自然灾害、疾病和技术的局限性。启蒙运动和科技进步逐渐削弱了这种无力感，我们学会了预测和控制自然，拥有了前所未有的选择和自由。尽管如此，面对新的选择，我们仍需负责任地做出决策，以构建一个更加美好的社会。</description>
@@ -21,6 +27,12 @@
       <title>Announcing .NET Conf: Focus on AI – August 20th 2024</title>
       <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/</link>
       <description>.NET Conf 2024年8月20日将聚焦人工智能，提供一系列由社区和微软团队带来的深入研讨会，展示如何将强大的AI功能融入.NET应用程序。活动包括关键演讲、技术研讨会和案例研究，旨在帮助.NET开发者利用AI构建更智能的应用。</description>
+    </item>
+  
+    <item>
+      <title>How Airbnb Smoothly Upgrades React</title>
+      <link>https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd?source=rss----53c7c27702d5---4</link>
+      <description>Airbnb成功将前端基础设施从React 16升级到React 18，通过创建React升级系统，实现了渐进式升级，避免了中断。该系统允许逐步推出新版本，并测量升级结果。Airbnb通过模块别名和环境定位解决了版本冲突和重复导入问题，并使用类型扩展和测试套件确保兼容性和稳定性。这一升级过程为Airbnb带来了性能提升，并为其未来的升级奠定了基础。</description>
     </item>
   
     <item>
