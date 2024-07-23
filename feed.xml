@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to review code effectively: A GitHub staff engineer’s philosophy</title>
+      <link>https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/</link>
+      <description>GitHub员工Sarah Vessels分享了她对代码审查的哲学，包括如何区分良好与不良的代码审查，她的代码审查策略，以及如何从自己的代码审查中获得最大收益。她强调代码审查的重要性，认为它是提高代码质量和职业发展的关键。Vessels还提供了如何找到待审查的拉取请求、管理通知以及使用自动化来标准化团队间的代码审查的建议。</description>
+    </item>
+  
+    <item>
+      <title>Meta Llama 3.1 now available on Workers AI</title>
+      <link>https://blog.cloudflare.com/meta-llama-3-1-available-on-workers-ai</link>
+      <description>Cloudflare宣布Meta Llama 3.1模型现已可在Workers AI上使用。该模型提供高级功能，包括多语言支持和内置函数调用，可帮助开发者构建更广泛的应用。此外，Workers AI的嵌入式函数调用功能进一步提高了效率。</description>
+    </item>
+  
+    <item>
+      <title>AI, Go Fetch! New NVIDIA NeMo Retriever Microservices Boost LLM Accuracy and Throughput</title>
+      <link>https://blogs.nvidia.com/blog/nemo-retriever-microservices/</link>
+      <description>NVIDIA发布新的NeMo Retriever微服务，提升大型语言模型（LLM）的准确性和吞吐量。这些微服务允许企业通过检索增强生成（RAG）技术，在Cohesity、DataStax、NetApp和Snowflake平台上高效地获取数据，从而构建更准确的AI应用。NeMo Retriever支持多种模型，包括文本问答检索和文本重排序，旨在提高AI应用的准确性和效率。</description>
+    </item>
+  
+    <item>
+      <title>Local LLM Messenger: Chat with GenAI on Your iPhone</title>
+      <link>https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/</link>
+      <description>Local LLM Messenger是一款由Justin Garrison开发的聊天应用，允许用户在iMessage中与本地运行的生成式AI模型进行交流，无需复杂设置或云服务。该应用支持多种AI模型，提供本地执行、可扩展性和用户友好的界面，同时集成了Sendblue和ChatGPT，使用户能够通过简单的对话方式与AI互动，提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>pandas GroupBy: Grouping Real World Data in Python</title>
+      <link>https://realpython.com/courses/pandas-groupby-real-world-data/</link>
+      <description>本课程深入讲解pandas的GroupBy功能，通过实际数据集演示如何分组、分解操作链，并理解其方法。涵盖10个课时，包括数据访问、分组操作、以及优化性能等，适合希望掌握pandas核心功能的Python用户。</description>
+    </item>
+  
+    <item>
       <title>The On-Call Chronicles: Enhancing B2B P&amp;E Defense</title>
       <link>https://www.babbel.com/en/magazine/the-on-call-chronicles-enhancing-b2b-pe-defense</link>
       <description>Babbel通过优化B2B产品与工程（P&amp;E）的值班流程，确保系统稳定和快速解决事件。通过周轮换值班责任，持续监控技术和业务指标，并使用工具如PagerDuty、Rollbar和JIRA来管理警报和事件跟踪。此外，通过收集和分析关键指标，如平均恢复时间（MTTR），团队不断改进和加强防御系统。</description>
@@ -15,6 +45,12 @@
       <title>Accelerate your data streaming journey with the latest in Confluent Cloud</title>
       <link>https://www.confluent.io/blog/accelerate-data-streaming-with-latest-in-confluent-cloud/</link>
       <description>2024年第二季度，Confluent Cloud推出了一系列更新，包括增强数据流平台的四个关键支柱：Stream、Connect、Process和Govern，以及与合作伙伴生态系统合作的新功能。这些更新包括Flink SQL工作区的交互式表格、Flink的私有网络支持、弹性企业集群的扩展、新的连接器集成以及BYOK功能的增强。这些改进旨在提高数据安全性、简化操作负担并扩展数据流生态系统。</description>
+    </item>
+  
+    <item>
+      <title>How to choose the best rendering strategy for your app</title>
+      <link>https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app</link>
+      <description>选择最佳渲染策略以优化应用程序性能。文章探讨了静态站点生成（SSG）、服务器端渲染（SSR）、客户端渲染（CSR）和增量静态再生（ISR）等策略，以及它们在不同场景下的适用性和优缺点。建议根据内容变化频率、搜索引擎可见性、用户交互和负载时间要求等因素选择合适的渲染策略。</description>
     </item>
   
     <item>
@@ -29,6 +65,12 @@
       <description>使用React的useReducer钩子简化页面状态管理
 
 本文介绍了如何使用React的useReducer钩子来简化页面状态管理，特别是对于模态、表单工作流程等用户可交互的内容。通过定义状态类型和动作，可以创建一个可扩展的解决方案，减少状态冲突，提高代码的可维护性。作者通过一个示例展示了如何实现和使用这个钩子，强调了其在处理复杂状态变化时的优势。</description>
+    </item>
+  
+    <item>
+      <title>Building Industry IoT and M2M Solutions With Databricks for Communications</title>
+      <link>https://www.databricks.com/blog/building-industry-iot-and-m2m-solutions-databricks-communications</link>
+      <description>Databricks助力通信服务提供商（CSP）利用其数据智能平台，快速构建物联网（IoT）和机器对机器（M2M）解决方案，以应对数据管理、隐私安全、可扩展性等挑战。通过边缘计算、多云架构和开放数据共享，Databricks简化了ML模型的管理和部署，并提供了行业解决方案加速器，帮助CSP在零售、能源等行业中实现实时数据分析和AI应用，提升客户体验和业务效率。</description>
     </item>
   
     <item>
@@ -95,6 +137,12 @@
       <title>Notes on "Navigating Corporate Giants: Jeffrey Snover and the Making of PowerShell"</title>
       <link>https://advancedweb.hu/shorts/notes-on-navigating-corporate-giants-jeffrey-snover-and-the-making-of-powershell/</link>
       <description>杰弗里·斯诺弗在微软开发PowerShell的过程中，面临了重重挑战和阻力。尽管经历了职位降级、项目不被重视和办公室政治等困难，他坚持自己的理念，最终成功地将PowerShell推向市场，并成为微软云计算的关键。这个故事揭示了在大型企业中推动创新和变革的艰辛，以及个人坚持和远见的重要性。</description>
+    </item>
+  
+    <item>
+      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Tomasz Dzierżanowski</title>
+      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-tomasz-dzierzanowski</link>
+      <description>Tomasz Dzierżanowski是一位经验丰富的软件工程师，专注于Elasticsearch，通过YouTube教程、博客文章和代码示例，帮助开发者掌握Elasticsearch。他分享了成为Elastic Gold Contributor的经历，强调了持续学习和分享知识的重要性，并鼓励新成员保持一致性，追随兴趣，并解决常见问题。</description>
     </item>
   
     <item>
