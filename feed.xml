@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>What is the Arazzo Specification?</title>
+      <link>https://nordicapis.com/what-is-the-arazzo-specification/</link>
+      <description>Arazzo规范是一种新的API工作流描述标准，旨在简化API调用流程的描述和自动化。它通过定义API调用序列及其依赖关系，使API文档更易于理解和维护，同时提高开发者的工作效率。Arazzo规范支持机器阅读和人类阅读，有助于开发者创建更模块化和灵活的API，并促进生成式AI在API开发中的应用。</description>
+    </item>
+  
+    <item>
+      <title>Research Card: Fixed Point Label Attribution for Real-Time Bidding</title>
+      <link>https://medium.com/criteo-engineering/research-card-fixed-point-label-attribution-for-real-time-bidding-d25aa96c253a?source=rss----fc3ea5a64a12---4</link>
+      <description>Criteo工程团队提出了一种名为FiPLA的算法，用于解决实时竞价中的标签归因问题。该算法通过迭代更新标签归因机制和机器学习模型，将用户级奖励分配给单个广告展示，从而提高预测广告价值的能力，并显著提升预测用户转化和模拟市场竞争时的利润。</description>
+    </item>
+  
+    <item>
+      <title>What is intelligent search and how does it work?</title>
+      <link>https://algolia.com/blog/ux/what-is-intelligent-search-and-how-does-it-work/</link>
+      <description>智能搜索是一种利用人工智能和机器学习技术提供更准确、相关和个性化结果的搜索技术。它通过理解搜索查询背后的上下文和意图，提供最佳信息。与传统搜索相比，智能搜索使用AI和机器学习来理解查询背后的上下文和意图，从而提供更准确和相关的结果。</description>
+    </item>
+  
+    <item>
       <title>Navigating the new web accessibility ruling in the U.S.</title>
       <link>https://thoughtbot.com/blog/navigating-the-new-web-accessibility-ruling-in-the-u-s</link>
       <description>美国新网络无障碍法规解读：美国司法部发布关于州和地方政府网站无障碍的最终裁决，要求确保残疾人士平等获取政府服务。新规采用WCAG 2.1作为新的一致性标准，要求组织确保其网站和移动应用符合W3C网络内容无障碍指南（WCAG）2.1 AA级。组织需制定无障碍行动计划，包括了解新要求、确定受影响的组织、遵循WCAG指南、解决常见无障碍问题，并持续改进以保持合规。</description>
