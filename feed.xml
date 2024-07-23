@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>NVIDIA’s AI Masters Sweep KDD Cup 2024 Data Science Competition</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-ai-masters-kdd-cup-2024/</link>
-      <description>NVIDIA团队在KDD Cup 2024数据科学竞赛中荣获所有五项比赛的第一名，展示了其在生成式AI领域的强大实力。他们利用Qwen2-72B语言模型和NVIDIA A100 Tensor Core GPU，通过创新的方法解决了在线购物挑战，实现了对复杂购物概念的理解、购物知识推理、用户行为对齐和多语言能力。NVIDIA计划在KDD 2024会议上分享其解决方案。</description>
-    </item>
-  
-    <item>
       <title>A Developer’s Journey with User Authentication: Species360</title>
       <link>https://auth0.com/blog/auth0-species360/</link>
       <description>Species360通过Auth0实现了用户身份验证的转型，简化了其ZIMS平台的安全设置，并利用Auth0的集成工具和SDK提高了效率。通过Auth0的通用登录和企业连接功能，Species360为用户提供更流畅的体验，同时确保了数据管理的安全。</description>
@@ -231,12 +225,6 @@
       <description>Elastic数据分层策略：优化弹性、高效实施
 
 本文探讨了如何通过数据分层策略优化数据存储，以实现成本节约和提升数据价值。通过分析业务目标，确定数据收集、使用和保留策略，企业可以优化数据存储和利用，提高效率并降低成本。案例研究展示了如何通过分层存储优化日志管理、提高许可证利用率、增强业务效率和扩展新用例。此外，文章还讨论了数据分层、数据增长和保留、存储优化以及重新架构的好处。通过实施数据分层策略，企业可以优化性能，同时高效地存储大量数据。</description>
-    </item>
-  
-    <item>
-      <title>Device Trust for the Web: The Hard Parts</title>
-      <link>https://goteleport.com/blog/device-trust-for-web-challenges-and-solutions/</link>
-      <description>Teleport 16通过设备信任、多因素认证和VNET，加强了基础设施防御深度。文章探讨了设备信任在Web上的挑战，包括浏览器隔离和过程边界攻击，以及Teleport如何通过“Token Move check”等技术解决这些问题，确保只有可信设备才能访问敏感资源。</description>
     </item>
   
     </channel>
