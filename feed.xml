@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>The problem with the tech debt mindset</title>
-      <link>https://stackoverflow.blog/2024/07/23/the-problem-with-the-tech-debt-mindset/</link>
-      <description>技术债务心态的问题：软件工程师Jon Bevan讨论了技术债务的概念，包括其源于过时技术选择、捷径和必要的维护工作。文章还探讨了升级依赖项的挑战以及随着时间的推移，需求和功能的潜在范围蔓延。</description>
-    </item>
-  
-    <item>
       <title>Navigating the new web accessibility ruling in the U.S.</title>
       <link>https://thoughtbot.com/blog/navigating-the-new-web-accessibility-ruling-in-the-u-s</link>
       <description>美国新网络无障碍法规解读：美国司法部发布关于州和地方政府网站无障碍的最终裁决，要求确保残疾人士平等获取政府服务。新规采用WCAG 2.1作为新的一致性标准，要求组织确保其网站和移动应用符合W3C网络内容无障碍指南（WCAG）2.1 AA级。组织需制定无障碍行动计划，包括了解新要求、确定受影响的组织、遵循WCAG指南、解决常见无障碍问题，并持续改进以保持合规。</description>
@@ -255,20 +249,6 @@
       <title>"work hard, play hard"</title>
       <link>https://taylor.town/work-hard-play-hard</link>
       <description>努力工作，尽情享受生活。</description>
-    </item>
-  
-    <item>
-      <title>How ISVs Can Add Voice as a Channel to their AI Platform</title>
-      <link>https://www.twilio.com/en-us/blog/isvs-voice-channel-ai-platform</link>
-      <description>Twilio为ISV提供了一种将语音作为渠道添加到其AI平台的方法。通过Twilio的全球通信网络，ISV可以确保其AI平台能够连接到世界各地的用户，提供本地化的服务，减少延迟并提高通话质量。文章概述了所需的先决条件、产品概述和架构，以帮助ISV构建可扩展的语音解决方案。</description>
-    </item>
-  
-    <item>
-      <title>Error Handling in Go: 6 Effective Approaches</title>
-      <link>https://www.twilio.com/en-us/blog/error-handling-go-6-effective-approaches</link>
-      <description>Go语言错误处理：6种有效方法
-
-本文探讨了Go语言中处理错误的有效方法。Go不同于Java和C#等语言，它通过返回错误值而非异常来处理错误。文章介绍了Go的错误类型、错误处理机制，并通过示例展示了如何创建错误、返回错误值以及立即处理错误。这种方法强调了显式错误处理，有助于编写清晰、可维护和健壮的代码。</description>
     </item>
   
     </channel>
