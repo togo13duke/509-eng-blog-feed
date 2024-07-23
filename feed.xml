@@ -6,9 +6,57 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Surrender of the Gods, part 1</title>
+      <link>https://blog.rootsofprogress.org/thm-ch2-the-surrender-of-the-gods-part-1</link>
+      <description>人类从受自然支配的原始生活，通过农业和定居社会的出现，逐步获得了更大的能动性。我们学会了种植作物、驯养牲畜，并利用火和工具改造材料，从而超越了自然资源的限制。随着对能源和材料的控制，我们开始建造城市、船只，并开拓新的职业。然而，直到工业革命之前，人类仍受制于自然灾害、疾病和技术的局限性。启蒙运动和科技进步逐渐削弱了这种无力感，我们学会了预测和控制自然，拥有了前所未有的选择和自由。尽管如此，面对新的选择，我们仍需负责任地做出决策，以构建一个更加美好的社会。</description>
+    </item>
+  
+    <item>
+      <title>Browserling now has Android 15!</title>
+      <link>https://catonmat.net/browserling-android-15</link>
+      <description>Browserling新增Android 15版本，用户可测试网站和应用。提供多种Android版本选择，包括14至9（Pie）。欢迎测试并享受愉快的体验。</description>
+    </item>
+  
+    <item>
+      <title>Announcing .NET Conf: Focus on AI – August 20th 2024</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/</link>
+      <description>.NET Conf 2024年8月20日将聚焦人工智能，提供一系列由社区和微软团队带来的深入研讨会，展示如何将强大的AI功能融入.NET应用程序。活动包括关键演讲、技术研讨会和案例研究，旨在帮助.NET开发者利用AI构建更智能的应用。</description>
+    </item>
+  
+    <item>
+      <title>How we improved availability through iterative simplification</title>
+      <link>https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/</link>
+      <description>GitHub通过迭代简化提高了可用性，通过使用多种工具和策略，如Datadog、Splunk和Scientist，优化了数据库查询和代码性能，从而提升了系统的稳定性和响应速度。</description>
+    </item>
+  
+    <item>
+      <title>What’s new in .NET Aspire 8.1 for cloud native developers!</title>
+      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/</link>
+      <description>.NET Aspire 8.1为云原生开发者带来了多项新功能和改进，包括支持构建容器镜像和编排Python代码，增强了仪表板和遥测功能，并新增了多种资源类型和组件，如Keycloak、Elasticsearch和Kafka UI。此外，还改进了测试和遥测功能，使开发者能够更有效地构建和监控云原生应用。</description>
+    </item>
+  
+    <item>
+      <title>Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/</link>
+      <description>Meta宣布在Amazon Bedrock推出Llama 3.1模型，包括8B、70B和405B参数大小的模型，这些模型在多个行业基准测试中表现出色，适用于生成式AI应用。这些模型支持128K上下文长度，适用于多语言对话，并具有多种应用场景，如文本摘要、翻译、代码生成等。AWS提供了Llama 3.1模型在Amazon Bedrock的访问和使用方法，包括模型评估和安全性保障。</description>
+    </item>
+  
+    <item>
       <title>How to review code effectively: A GitHub staff engineer’s philosophy</title>
       <link>https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/</link>
       <description>GitHub员工Sarah Vessels分享了她对代码审查的哲学，包括如何区分良好与不良的代码审查，她的代码审查策略，以及如何从自己的代码审查中获得最大收益。她强调代码审查的重要性，认为它是提高代码质量和职业发展的关键。Vessels还提供了如何找到待审查的拉取请求、管理通知以及使用自动化来标准化团队间的代码审查的建议。</description>
+    </item>
+  
+    <item>
+      <title>Why use Vault-backed dynamic credentials to secure HCP Terraform infrastructure?</title>
+      <link>https://www.hashicorp.com/blog/why-use-vault-backed-dynamic-credentials-to-secure-hcp-terraform-infrastructure</link>
+      <description>使用基于Vault的动态凭证来保护HCP Terraform基础设施的原因在于，它们提供了一种更安全、更集中的方式来管理云凭证和其他机密信息。这些凭证是临时、时间限制的，并且对每个Terraform工作负载都是唯一的。与仅使用动态提供者凭证相比，Vault-backed动态凭证提供了更全面的审计和管理功能，无需在云提供商中设置OIDC，并利用Vault的认证和授权能力来限制权限。这使得它们成为安全路线图中的新标准。</description>
+    </item>
+  
+    <item>
+      <title>How NVIDIA AI Foundry Lets Enterprises Forge Custom Generative AI Models</title>
+      <link>https://blogs.nvidia.com/blog/ai-foundry-enterprise-generative-ai/</link>
+      <description>NVIDIA AI Foundry为企业提供定制化生成式AI模型，通过数据、加速计算和软件工具，帮助企业创建和部署符合行业需求的模型。该服务支持企业使用NVIDIA和开源社区模型，如Llama 3.1，并得到专家支持和广泛的合作伙伴生态系统。NVIDIA AI Foundry简化了模型开发，提高了效率，帮助企业获得竞争优势。</description>
     </item>
   
     <item>
@@ -24,6 +72,12 @@
     </item>
   
     <item>
+      <title>Salesforce Org Recommendations for ISVs</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/salesforce-org-recommendations-for-isvs.html</link>
+      <description>本文探讨了Salesforce为独立软件供应商（ISV）提供的不同类型的组织（Org）及其用途。包括为ISV合作伙伴提供的免费生产Org、环境中心（用于开发、测试和演示）、合作伙伴开发者版Org（PDE）以及用于测试和演示的测试/演示Org。此外，还介绍了Trialforce框架及其相关Org，用于设置试用模板和提供试用体验。</description>
+    </item>
+  
+    <item>
       <title>Local LLM Messenger: Chat with GenAI on Your iPhone</title>
       <link>https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/</link>
       <description>Local LLM Messenger是一款由Justin Garrison开发的聊天应用，允许用户在iMessage中与本地运行的生成式AI模型进行交流，无需复杂设置或云服务。该应用支持多种AI模型，提供本地执行、可扩展性和用户友好的界面，同时集成了Sendblue和ChatGPT，使用户能够通过简单的对话方式与AI互动，提高开发效率。</description>
@@ -33,6 +87,12 @@
       <title>pandas GroupBy: Grouping Real World Data in Python</title>
       <link>https://realpython.com/courses/pandas-groupby-real-world-data/</link>
       <description>本课程深入讲解pandas的GroupBy功能，通过实际数据集演示如何分组、分解操作链，并理解其方法。涵盖10个课时，包括数据访问、分组操作、以及优化性能等，适合希望掌握pandas核心功能的Python用户。</description>
+    </item>
+  
+    <item>
+      <title>Unquoted service paths: The new frontier in script kiddie security vulnerability reports</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240723-00/?p=110032</link>
+      <description>文章讨论了“未引用的服务路径”在脚本小子安全漏洞报告中的新趋势。作者指出，许多关于未引用服务路径的漏洞报告过于夸张，实际上并不容易利用。他解释了为什么某些报告中的路径不需要引号，并强调了即使路径未引用，也不一定构成安全漏洞。作者还提到了一些报告中的错误信息，并强调了在处理安全漏洞报告时，需要仔细分析和验证信息的重要性。</description>
     </item>
   
     <item>
@@ -68,6 +128,12 @@
     </item>
   
     <item>
+      <title>Databricks on Databricks: Kicking off the Journey to Governance with Unity Catalog</title>
+      <link>https://www.databricks.com/blog/databricks-databricks-kicking-journey-governance-unity-catalog</link>
+      <description>Databricks成功将内部最大的工作空间转变为受管理的数据湖，通过使用Unity Catalog实现了数据治理。迁移过程分为四个阶段：规划、数据保留、分配工作和自动化处理。通过自动化工具和策略，Databricks显著减少了数据冗余，提高了效率，并简化了数据迁移过程。</description>
+    </item>
+  
+    <item>
       <title>Building Industry IoT and M2M Solutions With Databricks for Communications</title>
       <link>https://www.databricks.com/blog/building-industry-iot-and-m2m-solutions-databricks-communications</link>
       <description>Databricks助力通信服务提供商（CSP）利用其数据智能平台，快速构建物联网（IoT）和机器对机器（M2M）解决方案，以应对数据管理、隐私安全、可扩展性等挑战。通过边缘计算、多云架构和开放数据共享，Databricks简化了ML模型的管理和部署，并提供了行业解决方案加速器，帮助CSP在零售、能源等行业中实现实时数据分析和AI应用，提升客户体验和业务效率。</description>
@@ -89,6 +155,12 @@
       <title>How to access Chinese LLM chatbots across the world</title>
       <link>https://www.technologyreview.com/2024/07/23/1095211/how-to-access-chinese-llm-chatbots/</link>
       <description>全球用户如何访问中国大型语言模型聊天机器人：自2023年夏季中国政府允许AI公司向公众开放其模型以来，数百个中国大型语言模型已发布。对于西方用户来说，由于语言障碍和注册要求，找到并尝试这些模型可能具有挑战性。但许多聊天机器人支持英语对话，且易于访问。本文介绍了如何通过不同平台和方式访问这些聊天机器人，包括使用中国电话号码、无需中国电话号码的开放平台，以及全球AI社区Hugging Face和ModelScope等。</description>
+    </item>
+  
+    <item>
+      <title>A New Standard in Open Source AI: Meta Llama 3.1 on Databricks</title>
+      <link>https://www.databricks.com/blog/new-standard-open-source-ai-meta-llama-31-databricks</link>
+      <description>Databricks与Meta合作，在Databricks数据智能平台上推出Llama 3.1系列模型，进一步提升了开源AI的标准。Llama 3.1模型具备强大的推理能力、可引导性和通用知识，适用于构建高质量的生成式AI应用。这些模型易于在Databricks上使用，支持多种语言，并提供了丰富的工具和功能，帮助企业利用其独特数据构建生产规模的AI应用。</description>
     </item>
   
     <item>
@@ -143,6 +215,30 @@
       <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Tomasz Dzierżanowski</title>
       <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-tomasz-dzierzanowski</link>
       <description>Tomasz Dzierżanowski是一位经验丰富的软件工程师，专注于Elasticsearch，通过YouTube教程、博客文章和代码示例，帮助开发者掌握Elasticsearch。他分享了成为Elastic Gold Contributor的经历，强调了持续学习和分享知识的重要性，并鼓励新成员保持一致性，追随兴趣，并解决常见问题。</description>
+    </item>
+  
+    <item>
+      <title>Flying free: a tale of partitioning with canaries in PostgreSQL</title>
+      <link>https://evilmartians.com/chronicles/flying-free-a-tale-of-partitioning-with-canaries-in-postgresql</link>
+      <description>本文讲述了使用金丝雀测试在PostgreSQL数据库中进行表分区的过程。作者分享了他们在处理一个拥有800万用户和近6亿记录的大型数据库时，如何通过金丝雀测试来优化查询，确保数据库稳定性和性能。文章详细介绍了设置金丝雀测试、构建检测工具、数据库配置和基础设施调整等步骤，为面临类似挑战的开发者提供了宝贵的经验和指导。</description>
+    </item>
+  
+    <item>
+      <title>Let's talk about Developer Experience: The Spectrum of DX</title>
+      <link>https://www.twilio.com/en-us/blog/developer-experience-spectrum</link>
+      <description>Twilio致力于提升开发者体验，通过提供全面的产品和服务，包括通信、身份验证、电子邮件、客户数据管理等，帮助开发者构建和部署应用程序。文章探讨了开发者体验（DX）的重要性，并提出了一个框架来评估和改进DX，从“破碎体验”到“魔法体验”，旨在为开发者提供更流畅、高效和愉悦的开发过程。</description>
+    </item>
+  
+    <item>
+      <title>Developing and Managing Tools for Twilio AI Assistants</title>
+      <link>https://www.twilio.com/en-us/blog/developing-managing-tools-twilio-ai-assistants</link>
+      <description>Twilio AI助手工具可构建了解客户并解决问题的智能代理，通过连接现有系统获取实时数据并执行任务。工具是API，助手可用来完成特定任务和解决问题。本文介绍了工具的概念、常见用例和安全性，并通过设置基本天气工具展示了实际应用。</description>
+    </item>
+  
+    <item>
+      <title>Abstract interpretation in the Toy Optimizer</title>
+      <link>https://bernsteinbear.com/blog/toy-abstract-interpretation/?utm_source=rss</link>
+      <description>本文探讨了Toy优化器中的抽象解释，介绍了抽象解释在程序行为推理中的应用。通过构建抽象域和转移函数，可以分析程序的所有可能执行情况，从而进行优化。文章以一个简单的例子展示了如何使用抽象解释进行奇偶性分析，并展示了如何通过优化操作来提高程序效率。</description>
     </item>
   
     <item>
@@ -403,6 +499,12 @@
       <description>Go语言错误处理：6种有效方法
 
 本文探讨了Go语言中处理错误的有效方法。Go不同于Java和C#等语言，它通过返回错误值而非异常来处理错误。文章介绍了Go的错误类型、错误处理机制，并通过示例展示了如何创建错误、返回错误值以及立即处理错误。这种方法强调了显式错误处理，有助于编写清晰、可维护和健壮的代码。</description>
+    </item>
+  
+    <item>
+      <title>Announcing Twilio’s AI Startup Searchlight 2.0 Awards Program</title>
+      <link>https://www.twilio.com/en-us/blog/twilio-ai-startup-searchlight-2-0</link>
+      <description>Twilio推出AI初创企业搜索灯2.0奖项计划，旨在表彰利用大型语言模型、生成式人工智能和大数据等新兴技术与Twilio结合，创新通信和客户体验的初创企业。获奖者将获得Twilio信用额度、苹果礼品卡，并有机会在Twilio市场展示其产品。申请截止日期为2024年9月29日。</description>
     </item>
   
     </channel>
