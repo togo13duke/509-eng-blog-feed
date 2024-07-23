@@ -6,6 +6,32 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Simplify Your Page State with React’s useReducer Hook</title>
+      <link>https://spin.atomicobject.com/page-state-usereducer-hook/</link>
+      <description>使用React的useReducer钩子简化页面状态管理
+
+本文介绍了如何使用React的useReducer钩子来简化页面状态管理，特别是对于模态、表单工作流程等用户可交互的内容。通过定义状态类型和动作，可以创建一个可扩展的解决方案，减少状态冲突，提高代码的可维护性。作者通过一个示例展示了如何实现和使用这个钩子，强调了其在处理复杂状态变化时的优势。</description>
+    </item>
+  
+    <item>
+      <title>Use xxd to convert to hex</title>
+      <link>https://akrabat.com/use-xxd-to-convert-to-hex/</link>
+      <description>使用`xxd`工具转换文件为十六进制格式，通过`xxd`可以查看文件的十六进制值，输出包括行号、十六进制表示和ASCII表示。`-u`选项用于获取大写十六进制字母，`-R`选项为输出着色，`-p`选项提供纯十六进制字符的输出。`xxd`是一个强大的工具，用于精确查找字符串中的字符。</description>
+    </item>
+  
+    <item>
+      <title>How’s AI self-regulation going?</title>
+      <link>https://www.technologyreview.com/2024/07/23/1095218/hows-ai-self-regulation-going/</link>
+      <description>一年前，美国总统拜登与科技巨头达成自愿遵守的AI规则，旨在规范AI行业。尽管美国政治极化，AI监管法案难以通过，但这些承诺和现有法律为保护人们免受AI伤害提供了最佳保障。科技公司已实施一些积极变化，如AI红队、水印和投资于AI系统安全研究。然而，这些非约束性承诺易于签署和忘记，未来拜登继任者的AI政策走向仍存在不确定性。</description>
+    </item>
+  
+    <item>
+      <title>How to access Chinese LLM chatbots across the world</title>
+      <link>https://www.technologyreview.com/2024/07/23/1095211/how-to-access-chinese-llm-chatbots/</link>
+      <description>全球用户如何访问中国大型语言模型聊天机器人：自2023年夏季中国政府允许AI公司向公众开放其模型以来，数百个中国大型语言模型已发布。对于西方用户来说，由于语言障碍和注册要求，找到并尝试这些模型可能具有挑战性。但许多聊天机器人支持英语对话，且易于访问。本文介绍了如何通过不同平台和方式访问这些聊天机器人，包括使用中国电话号码、无需中国电话号码的开放平台，以及全球AI社区Hugging Face和ModelScope等。</description>
+    </item>
+  
+    <item>
       <title>The problem with the tech debt mindset</title>
       <link>https://stackoverflow.blog/2024/07/23/the-problem-with-the-tech-debt-mindset/</link>
       <description>技术债务心态的问题：软件工程师Jon Bevan讨论了技术债务的概念，包括其源于过时技术选择、捷径和必要的维护工作。文章还探讨了升级依赖项的挑战以及随着时间的推移，需求和功能的潜在范围蔓延。</description>
@@ -18,9 +44,21 @@
     </item>
   
     <item>
+      <title>How to get Red Hat OpenShift operators' information without oc-mirror plug-in</title>
+      <link>https://developers.redhat.com/articles/2024/07/23/how-get-red-hat-openshift-operators-information-without-oc-mirror-plug</link>
+      <description>本文介绍了如何在断开连接的环境中获取Red Hat OpenShift操作符信息，而不使用oc-mirror插件。由于安全考虑，许多客户需要将服务器与互联网断开连接，这给部署OpenShift操作符带来了挑战。文章提出了一种使用shell脚本来自动化收集操作符信息的方法，从而提高系统管理员的效率。通过这种方式，可以简化OpenShift操作符信息的收集过程，并提高部署工作流程的效率。</description>
+    </item>
+  
+    <item>
       <title>Research Card: Fixed Point Label Attribution for Real-Time Bidding</title>
       <link>https://medium.com/criteo-engineering/research-card-fixed-point-label-attribution-for-real-time-bidding-d25aa96c253a?source=rss----fc3ea5a64a12---4</link>
       <description>Criteo工程团队提出了一种名为FiPLA的算法，用于解决实时竞价中的标签归因问题。该算法通过迭代更新标签归因机制和机器学习模型，将用户级奖励分配给单个广告展示，从而提高预测广告价值的能力，并显著提升预测用户转化和模拟市场竞争时的利润。</description>
+    </item>
+  
+    <item>
+      <title>NPath Complexity</title>
+      <link>https://thedailywtf.com/articles/npath-complexity</link>
+      <description>NPath复杂性是衡量代码复杂度的指标，指一个方法中无环执行路径的数量。理想情况下，这个数字应该很小，但许多代码并未达到这一标准。文章通过一个示例说明了NPath复杂性过高的问题，并指出这需要通过重构来解决。</description>
     </item>
   
     <item>
@@ -33,6 +71,12 @@
       <title>Navigating the new web accessibility ruling in the U.S.</title>
       <link>https://thoughtbot.com/blog/navigating-the-new-web-accessibility-ruling-in-the-u-s</link>
       <description>美国新网络无障碍法规解读：美国司法部发布关于州和地方政府网站无障碍的最终裁决，要求确保残疾人士平等获取政府服务。新规采用WCAG 2.1作为新的一致性标准，要求组织确保其网站和移动应用符合W3C网络内容无障碍指南（WCAG）2.1 AA级。组织需制定无障碍行动计划，包括了解新要求、确定受影响的组织、遵循WCAG指南、解决常见无障碍问题，并持续改进以保持合规。</description>
+    </item>
+  
+    <item>
+      <title>Notes on "Navigating Corporate Giants: Jeffrey Snover and the Making of PowerShell"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-navigating-corporate-giants-jeffrey-snover-and-the-making-of-powershell/</link>
+      <description>杰弗里·斯诺弗在微软开发PowerShell的过程中，面临了重重挑战和阻力。尽管经历了职位降级、项目不被重视和办公室政治等困难，他坚持自己的理念，最终成功地将PowerShell推向市场，并成为微软云计算的关键。这个故事揭示了在大型企业中推动创新和变革的艰辛，以及个人坚持和远见的重要性。</description>
     </item>
   
     <item>
