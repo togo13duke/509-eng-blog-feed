@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Angular vs. React: Learning React as an Angular Developer</title>
+      <link>https://spin.atomicobject.com/angular-vs-react/</link>
+      <description>作为一名熟悉Angular的开发者，本文探讨了学习React的过程，并比较了Angular和React的主要差异。Angular是一个完整的模型-视图框架，而React是一个专注于视图层的JavaScript库。React使用组件，而Angular有指令、管道和模块。React使用虚拟DOM，而Angular使用变更检测。数据绑定在React中是单向的，而在Angular中是双向的。Angular使用*ngFor和*ngIf，而React使用map()和if语句。两者各有优势，选择时应根据项目需求而定。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Hugging Face Transformers</title>
+      <link>https://realpython.com/quizzes/hugging-face-transformers/</link>
+      <description>Hugging Face Transformers库是自然语言处理、计算机视觉等领域中处理transformer模型的流行选择。本互动测验包含6个问题，旨在测试你对该库的理解。每答对一题得1分，满分100%。测验无时间限制，完成后可获得总分。</description>
+    </item>
+  
+    <item>
       <title>How to use symbolic links to move the DB data folder</title>
       <link>https://vladmihalcea.com/symbolic-link-data-folder/</link>
       <description>使用符号链接移动数据库数据文件夹，以解决磁盘空间不足问题。通过将数据文件夹从C分区移动到D分区，并创建符号链接，可以简化数据库文件夹的迁移过程，同时保持数据访问的连续性。这种方法适用于测试环境，有助于释放生产系统中的高性能SSD驱动器空间。</description>
+    </item>
+  
+    <item>
+      <title>Why Chinese companies are betting on open-source AI</title>
+      <link>https://www.technologyreview.com/2024/07/24/1095239/chinese-companies-open-source-ai/</link>
+      <description>中国公司为何押注开源AI：阿里巴巴和多家中国AI初创公司认为，开源AI为快速商业化和国外认可提供了机会。通过开源AI模型，中国公司如阿里巴巴和DeepSeek等，不仅能够加速产品开发，还能在全球范围内获得更高的排名和认可。这种策略有助于中国公司在AI领域找到自己的市场定位，并推动行业向更多元化的方向发展。</description>
     </item>
   
     <item>
@@ -21,6 +39,12 @@
       <title>New features in Cryostat 3.0 for monitoring Java applications on OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/07/24/new-features-cryostat-30-monitoring-java-applications-openshift</link>
       <description>Cryostat 3.0为Java应用程序在OpenShift上的监控带来了多项新功能和改进，包括引入Cryostat数据库和存储解决方案，增强安全性和访问控制，以及支持动态连接到JVM。这些更新旨在提高性能、安全性和灵活性，简化Java应用程序的监控和管理。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: How to Validate an IP Address</title>
+      <link>https://thedailywtf.com/articles/how-to-validate-an-ip-address</link>
+      <description>Remy Porter在《Daily WTF》上撰文，讨论了如何验证IP地址的问题。文章指出，一个C#代码示例在验证IP地址时存在缺陷，因为它没有正确处理地址长度，可能导致错误地识别某些地址为有效。同时，作者也提到了C#已经内置了正确的IP地址解析功能。</description>
     </item>
   
     <item>
