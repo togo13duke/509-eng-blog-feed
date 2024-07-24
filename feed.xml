@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Rigorous Robot Security: How Galois’s RDE Framework Is Streamlining NIST Compliance and Change Impact Analysis for Cyber-Physical Systems</title>
+      <link>https://galois.com/blog/2024/07/rigorous-robot-security-how-galoiss-rde-framework-is-streamlining-nist-compliance-and-change-impact-analysis-for-cyber-physical-systems/</link>
+      <description>Galois公司利用其严格的数字工程（RDE）框架，帮助ReconRobotics简化了NIST合规性和网络物理系统变更影响分析，确保了其复杂机器人的安全性。通过建立动态数字模型，Galois工程师能够分析系统中的数据流，识别潜在的安全漏洞，并确保机器人满足NIST标准。这种合作旨在为微机器人领域铺平高可靠性未来的道路。</description>
+    </item>
+  
+    <item>
+      <title>6 ways leaders can build a culture of voice</title>
+      <link>https://www.atlassian.com/blog/leadership/building-a-culture-of-voice</link>
+      <description>领导者建立发声文化的6种方法：通过建立关系、了解沟通风格、提出具体问题、鼓励不同观点、使用澄清问题以及以身作则，来营造一个让员工能够真实表达自己的工作环境。</description>
+    </item>
+  
+    <item>
       <title>Browserling now has Android 14!</title>
       <link>https://catonmat.net/browserling-android-14</link>
       <description>Browserling新增支持Android 14，允许用户在浏览器中测试最新Android版本的应用和网站。Browserling是一个云平台，提供即时访问在线Android设备，被全球成千上万的开发者、测试人员使用。</description>
@@ -15,6 +27,12 @@
       <title>How to delete old data from DynamoDB without spending thousands</title>
       <link>https://medium.engineering/how-to-delete-old-data-from-dynamodb-without-spending-thousands-0ce3e48ef4a1?source=rss----2817475205d3---4</link>
       <description>如何在不花费数千美元的情况下从DynamoDB中删除旧数据，作者Raphael Montaud在Medium Engineering上分享了他的经验。他提出了一种基本方法，即编写一个脚本扫描数据库并删除不再有用的数据项。他还讨论了三种可能的清理路径：不做任何处理、删除“坏”数据项或迁移“好”数据项到新表并删除旧表。通过成本估算，他展示了不同方案在6个月和3年后的总费用，并提供了在Medium上实施这些策略的详细步骤。</description>
+    </item>
+  
+    <item>
+      <title>CrowdStrike blames testing bugs for security update that took down 8.5M Windows PCs</title>
+      <link>https://arstechnica.com/?p=2038917</link>
+      <description>CrowdStrike因测试错误导致安全更新导致850万台Windows电脑崩溃，公司正在改进测试流程以避免再次发生。更新中的内容验证器错误未能检测到导致系统崩溃的问题内容数据。CrowdStrike计划实施分阶段部署策略，并增加更多测试层，同时提高对传感器和系统性能的监控，以指导分阶段推出。</description>
     </item>
   
     <item>
@@ -171,6 +189,12 @@
       <title>CodeSOD: How to Validate an IP Address</title>
       <link>https://thedailywtf.com/articles/how-to-validate-an-ip-address</link>
       <description>Remy Porter在《Daily WTF》上撰文，讨论了如何验证IP地址的问题。文章指出，一个C#代码示例在验证IP地址时存在缺陷，因为它没有正确处理地址长度，可能导致错误地识别某些地址为有效。同时，作者也提到了C#已经内置了正确的IP地址解析功能。</description>
+    </item>
+  
+    <item>
+      <title>The takes market</title>
+      <link>https://blog.sbensu.com/posts/takes-market/</link>
+      <description>社交媒体上，人们追求娱乐和自我肯定，通过点赞、转发和关注为“观点”付费。这些观点迅速传播，形成循环，但往往与事实脱节。在Twitter上，观点经济成为主导，内容创作者追求关注，而用户则被这种循环所影响，即使意识到其机制，也难以摆脱。</description>
     </item>
   
     <item>
