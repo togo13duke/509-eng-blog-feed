@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>APIs and Edge Computing: A Match Made for Speed</title>
-      <link>https://nordicapis.com/apis-and-edge-computing-a-match-made-for-speed/</link>
-      <description>APIs和边缘计算的结合为速度和效率带来了革命性的变化。APIs作为软件开发的基石，允许不同系统无缝交互，而边缘计算通过在数据生成源头处理数据，减少了延迟并提高了通信速度。这种协同作用优化了API性能，实现了实时交互，并提升了用户体验，特别是在需要实时数据处理的场景中。</description>
-    </item>
-  
-    <item>
       <title>Notes on Taylor and Maclaurin series</title>
       <link>https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/</link>
       <description>麦拉林级数是一种用于近似任意函数的幂级数，通过选择合适的系数和无限项，在输入值接近0时进行近似。它是一种特殊的泰勒级数，可以在任何值附近找到多项式近似。通过将多项式的导数与函数的导数相匹配，可以逐步构建出更精确的近似。例如，使用麦拉林级数可以近似余弦函数，通过增加级数项数，近似效果会逐渐提高。泰勒级数则可以用于在任意点进行近似，适用于函数在0附近行为不佳的情况，如自然对数函数。通过比较级数项的比值极限，可以判断级数的收敛性。</description>
