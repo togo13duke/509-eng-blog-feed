@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Notes on Taylor and Maclaurin series</title>
+      <link>https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/</link>
+      <description>麦拉林级数是一种用于近似任意函数的幂级数，通过选择合适的系数和无限项，在输入值接近0时进行近似。它是一种特殊的泰勒级数，可以在任何值附近找到多项式近似。通过将多项式的导数与函数的导数相匹配，可以逐步构建出更精确的近似。例如，使用麦拉林级数可以近似余弦函数，通过增加级数项数，近似效果会逐渐提高。泰勒级数则可以用于在任意点进行近似，适用于函数在0附近行为不佳的情况，如自然对数函数。通过比较级数项的比值极限，可以判断级数的收敛性。</description>
+    </item>
+  
+    <item>
+      <title>GitHub tip-hub: habitual permalinks</title>
+      <link>https://huonw.github.io/blog/2024/07/github-permalinks/</link>
+      <description>GitHub的永久链接功能方便地指向文件和行的特定版本，即使代码更新也不会失效。通过快捷键“y”创建链接，并复制浏览器地址栏中的更新链接。使用永久链接可以确保引用的代码始终如一，避免因文件移动或删除而导致的链接失效。建议养成使用永久链接的习惯，以提高代码引用的准确性。</description>
+    </item>
+  
+    <item>
+      <title>[Math] Project Euler 166, solving it using Google OR-tools</title>
+      <link>https://yurichev.com/n/PE_166/</link>
+      <description>本文介绍了使用Google OR-tools解决Project Euler 166问题的方法。作者通过构建一个拉丁方阵模型，并利用OR-tools的模型计数功能，快速找到了问题的解。文章详细展示了如何设置变量、添加约束条件，并最终找到所有可能的解。</description>
+    </item>
+  
+    <item>
       <title>Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine</title>
       <link>https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/</link>
       <description>Docker发布安全警告，指出某些版本Docker Engine存在安全漏洞，可能导致攻击者绕过授权插件（AuthZ），存在权限提升风险。受影响的用户应更新至最新补丁版本，以防止未经授权的操作。</description>
