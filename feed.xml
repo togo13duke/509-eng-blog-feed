@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #76: Aging legislators</title>
+      <link>https://www.bambooweekly.com/bw-76-aging-legislators/</link>
+      <description>美国立法者老龄化问题备受关注，本文分析了国会成员的年龄及其变化，并探讨了如何处理复杂数据。作者通过GitHub上的数据集，使用Pandas进行数据处理，旨在揭示立法者年龄的演变趋势。</description>
+    </item>
+  
+    <item>
+      <title>Navigating the Gen AI Revolution: An Engineering Executive’s Perspective on Organizational Adoption</title>
+      <link>https://medium.com/gumgum-tech/navigating-the-gen-ai-revolution-an-engineering-executives-perspective-on-organizational-adoption-3711aa48b34d?source=rss----d4c1dee0f87b---4</link>
+      <description>在生成式AI革命中，CTO在推动组织采纳方面扮演关键角色。成功实施的关键策略包括获得领导层支持、教育团队、培养内部倡导者、实施试点项目、解决安全和道德问题、培养实验文化以及持续学习和适应。通过这些方法，组织可以充分利用生成式AI的潜力，实现业务目标和创新。</description>
+    </item>
+  
+    <item>
       <title>Rigorous Robot Security: How Galois’s RDE Framework Is Streamlining NIST Compliance and Change Impact Analysis for Cyber-Physical Systems</title>
       <link>https://galois.com/blog/2024/07/rigorous-robot-security-how-galoiss-rde-framework-is-streamlining-nist-compliance-and-change-impact-analysis-for-cyber-physical-systems/</link>
       <description>Galois公司利用其严格的数字工程（RDE）框架，帮助ReconRobotics简化了NIST合规性和网络物理系统变更影响分析，确保了其复杂机器人的安全性。通过建立动态数字模型，Galois工程师能够分析系统中的数据流，识别潜在的安全漏洞，并确保机器人满足NIST标准。这种合作旨在为微机器人领域铺平高可靠性未来的道路。</description>
@@ -117,6 +129,12 @@
       <title>Instantly redirect traffic using custom Vercel Firewall rules</title>
       <link>https://vercel.com/changelog/instantly-redirect-traffic-using-custom-vercel-firewall-rules</link>
       <description>Vercel推出自定义防火墙规则，可即时重定向流量至新页面，无需新部署，快速传播至全球边缘网络。此功能可作为紧急情况下的快速替代方案，且对所有计划免费提供。</description>
+    </item>
+  
+    <item>
+      <title>Elkjøp's Digital Transformation: Powering Retail Innovation with Next.js and Vercel</title>
+      <link>https://vercel.com/blog/elkjops-digital-transformation-with-next-js-and-vercel</link>
+      <description>Elkjøp通过采用Next.js和Vercel，将发布周期缩短了7周，提升了数字收入并改善了用户体验。这一转型不仅提高了性能和SEO，还增强了用户稳定性，使页面加载更快，内容渲染更一致，从而实现了超过10亿美元的数字收入。</description>
     </item>
   
     <item>
