@@ -6,15 +6,69 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Quickly define terms with AI definitions</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/guide-to-ai-definitions</link>
+      <description>Atlassian Intelligence提供了一种通过AI定义快速定义术语的方法，以增强协作和生产力。该功能允许用户在Confluence页面上直接定义公司特定的术语、缩写、项目名称和状态，从而加速团队协作，确保团队成员能够快速理解并一致地使用这些术语。通过使用AI驱动的定义，团队可以更高效地工作，减少误解，并提高沟通一致性。</description>
+    </item>
+  
+    <item>
+      <title>Empowering Developers with Docker: Simplifying Compliance and Enhancing Security for SOC 2, ISO 27001, FedRAMP, and More</title>
+      <link>https://www.docker.com/blog/empowering-developers-with-docker-simplifying-compliance-and-enhancing-security-for-soc-2-iso-27001-fedramp-and-more/</link>
+      <description>Docker通过其产品和服务，帮助开发者简化合规性和增强安全性，以符合SOC 2、ISO 27001、FedRAMP等标准。通过提供细粒度的访问控制、增强的容器隔离、图像访问管理和漏洞监控，Docker确保安全成为开发流程的连续部分，使开发者能够高效地管理合规性和安全风险。</description>
+    </item>
+  
+    <item>
+      <title>Tableau Insights Delivered Directly to Salesforce with Dynamic Data Security</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/tableau-insights-delivered-directly-to-salesforce-with-dynamic-data-security.html</link>
+      <description>本文介绍了如何将Tableau仪表板直接集成到Salesforce中，利用Salesforce平台和Tableau连接应用（CA）以及用户属性函数（UAF）来增强数据安全性。通过使用Salesforce Lightning Web Components（LWC）、Apex、Tableau嵌入v3 API和连接应用，开发者可以动态查询Salesforce对象，并通过JWT进行安全认证，确保用户只能访问授权的数据。</description>
+    </item>
+  
+    <item>
+      <title>AI trained on AI garbage spits out AI garbage</title>
+      <link>https://www.technologyreview.com/2024/07/24/1095263/ai-that-feeds-on-a-diet-of-ai-garbage-ends-up-spitting-out-nonsense/</link>
+      <description>AI训练数据质量下降导致模型输出质量恶化，新研究显示，当AI在AI生成的数据上训练时，模型的输出质量会逐渐下降。这可能导致大型AI模型如GPT-3的性能下降，并可能加剧AI生成垃圾网站的问题。</description>
+    </item>
+  
+    <item>
       <title>Developers want more, more, more: the 2024 results from Stack Overflow’s Annual Developer Survey</title>
       <link>https://stackoverflow.blog/2024/07/24/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/</link>
       <description>2024年Stack Overflow开发者调查结果显示，JavaScript和PostgreSQL仍是最受欢迎的技术，Rust和Markdown最受推崇。开发者对工作中的技术债务感到最沮丧，但并不认为AI是职业威胁。调查还发现，开发者普遍使用在线资源学习编程，并积极采用AI工具，尽管对AI工具的准确性和处理复杂任务的能力存在疑虑。</description>
     </item>
   
     <item>
+      <title>API naming principle: If there is no direct object, then the direct object is the source object</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240724-00/?p=110037</link>
+      <description>API命名原则：如果没有直接宾语，则直接宾语是源对象。在方法命名中，通常动词后跟直接宾语，指明操作对象或结果。如果没有直接宾语，则默认为源对象。例如，widget.Toggle()中的直接宾语是widget。此原则有助于避免命名歧义，提高代码可读性。</description>
+    </item>
+  
+    <item>
+      <title>Hugging Face Transformers: Leverage Open-Source AI in Python</title>
+      <link>https://realpython.com/huggingface-transformers/</link>
+      <description>Hugging Face的Transformers库是一个强大的Python库，允许用户下载、操作和运行数千个预训练的开源AI模型，涵盖自然语言处理、计算机视觉、音频和跨模态学习等多个任务。本教程介绍了如何使用Transformers库，包括导航Hugging Face生态系统、下载和操作模型、利用GPU加速模型推理。通过本教程，读者将了解Hugging Face的AI产品，并通过实际操作学习如何使用Transformers库。</description>
+    </item>
+  
+    <item>
+      <title>Demystifying AI-Assisted Artistry With Adobe Apps Using NVIDIA RTX</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-adobe-firefly-creative-cloud-rtx/</link>
+      <description>NVIDIA与Adobe合作，利用RTX GPU加速AI艺术创作。通过Adobe Creative Cloud应用程序，艺术家可以利用超过100个AI功能，如生成式AI模型Firefly，实现更高效的内容创作。这些工具包括图像修复、风格转换、智能人像编辑和3D内容创作等，大大提升了创作效率和作品质量。</description>
+    </item>
+  
+    <item>
+      <title>How Georgia Tech’s AI Makerspace Is Preparing the Future Workforce for AI</title>
+      <link>https://blogs.nvidia.com/blog/georgia-tech-ai-makerspace-supercomputer/</link>
+      <description>乔治亚理工学院的新AI制造空间通过提供计算资源，帮助学生巩固课程学习并亲身体验人工智能，为未来AI驱动的劳动力市场做准备。该空间与NVIDIA合作建设，强调学校对培养学生迎接AI未来的承诺，并促进与当地学校和大学的合作。</description>
+    </item>
+  
+    <item>
       <title>Zero Downtime Upgrades – Redefining Your Platform Upgrade Experience</title>
       <link>https://blog.cloudera.com/zero-downtime-upgrades-redefining-your-platform-upgrade-experience/</link>
       <description>Cloudera推出零停机时间升级（ZDU）功能，简化平台升级过程，提高服务可用性。ZDU通过优化升级流程和减少服务中断时间，允许管理员在最小化停机的情况下进行重大升级、应用服务包和累积热修复。此功能旨在确保集群管理员能够高效管理升级，同时保持业务连续性。</description>
+    </item>
+  
+    <item>
+      <title>Improvements to command line logs</title>
+      <link>https://vercel.com/changelog/improvements-to-command-line-logs</link>
+      <description>Vercel CLI v35新增命令，便于访问部署和运行日志。通过`vercel deploy --logs`和`vercel inspect --logs`可查看构建日志，`vercel logs`可跟踪现有部署的运行日志。新增`--json`选项，以JSON格式流式传输日志，便于使用工具如jq进行解析和过滤。</description>
     </item>
   
     <item>
@@ -51,6 +105,12 @@
       <title>How to use symbolic links to move the DB data folder</title>
       <link>https://vladmihalcea.com/symbolic-link-data-folder/</link>
       <description>使用符号链接移动数据库数据文件夹，以解决磁盘空间不足问题。通过将数据文件夹从C分区移动到D分区，并创建符号链接，可以简化数据库文件夹的迁移过程，同时保持数据访问的连续性。这种方法适用于测试环境，有助于释放生产系统中的高性能SSD驱动器空间。</description>
+    </item>
+  
+    <item>
+      <title>How battery-powered trailers could transform trucking</title>
+      <link>https://www.technologyreview.com/2024/07/24/1095233/battery-trailers-trucking/</link>
+      <description>Range Energy正在开发电池动力拖车，旨在减少重型卡车运输的排放。这些拖车通过增加电池和电机，能够在不改变现有柴油车辆的情况下显著降低排放，并提高燃油效率。这种创新的解决方案有望在减少运输业温室气体排放方面发挥重要作用。</description>
     </item>
   
     <item>
@@ -386,6 +446,12 @@
     </item>
   
     <item>
+      <title>Enhancing LLM-as-a-Judge with Grading Notes</title>
+      <link>https://www.databricks.com/blog/enhancing-llm-as-a-judge-with-grading-notes</link>
+      <description>Databricks提出了一种名为“评分注释”的技术，用于评估特定领域内长文本LLM输出的质量和准确性。这种方法通过为每个问题添加简短的注释来描述期望的答案属性，从而为LLM法官提供足够的领域知识，同时允许领域专家进行可扩展的测试集标注。在Databricks Assistant的开发中，评分注释显著提高了LLM法官与人类法官的一致性，从而提高了AI系统的质量。</description>
+    </item>
+  
+    <item>
       <title>AI companies promised the White House to self-regulate one year ago. What’s changed?</title>
       <link>https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/</link>
       <description>一年前，七家领先的AI公司承诺与白宫进行自我监管。尽管这些公司采取了一些措施，如进行红队测试和为AI生成内容添加水印，但他们在透明度和问责制方面仍缺乏实质性进展。尽管如此，这些自愿承诺在推动技术进步方面取得了一些进展，但仍需更多努力以确保AI系统的安全性和可靠性。</description>
@@ -529,6 +595,12 @@
       <title>Sustainable Strides: How AI and Accelerated Computing Are Driving Energy Efficiency</title>
       <link>https://blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/</link>
       <description>NVIDIA的技术在推动能源效率方面发挥着关键作用，通过加速计算和人工智能的结合，显著降低了多个行业的能耗。例如，金融、制造和医疗等行业都实现了显著的能源节约。NVIDIA的GPU和AI平台帮助用户在药物发现、数据分析、气候模拟等领域取得了突破，同时减少了碳足迹。NVIDIA的解决方案不仅提高了效率，还推动了可持续计算的发展。</description>
+    </item>
+  
+    <item>
+      <title>How  we detected GQL caching issues with an ESLint plugin</title>
+      <link>https://engineering.hashnode.com/how-we-detected-gql-caching-issues-with-an-eslint-plugin</link>
+      <description>在Hashnode开发GraphQL API的过程中，我们遇到了缓存问题，主要原因是查询和突变响应中缺少id字段。为了解决这个问题，我们引入了ESLint插件来强制在CI/CD管道中包含id字段，从而减少调试缓存相关问题的耗时，并专注于构建新功能。</description>
     </item>
   
     <item>
