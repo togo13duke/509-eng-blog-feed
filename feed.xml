@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine</title>
-      <link>https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/</link>
-      <description>Docker发布安全警告，指出某些版本Docker Engine存在安全漏洞，可能导致攻击者绕过授权插件（AuthZ），存在权限提升风险。受影响的用户应更新至最新补丁版本，以防止未经授权的操作。</description>
-    </item>
-  
-    <item>
       <title>The first GPT-4-class AI model anyone can download has arrived: Llama 405B</title>
       <link>https://arstechnica.com/?p=2038486</link>
       <description>Meta发布了Llama 3.1 405B，这是首个可供免费下载的GPT-4级大型语言模型，可在个人硬件上运行。该模型具有与GPT-4 Turbo、GPT-4o和Claude 3.5 Sonnet等顶级AI模型相媲美的能力，适用于长文本摘要、多语言对话代理和编码助手等应用。Meta强调开源AI的重要性，并认为开放模型有助于用户控制、数据安全和成本效益。</description>
@@ -129,12 +123,6 @@
       <title>How to choose the best rendering strategy for your app</title>
       <link>https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app</link>
       <description>选择最佳渲染策略以优化应用程序性能。文章探讨了静态站点生成（SSG）、服务器端渲染（SSR）、客户端渲染（CSR）和增量静态再生（ISR）等策略，以及它们在不同场景下的适用性和优缺点。建议根据内容变化频率、搜索引擎可见性、用户交互和负载时间要求等因素选择合适的渲染策略。</description>
-    </item>
-  
-    <item>
-      <title>Turbopack updates: Moving homes</title>
-      <link>https://vercel.com/blog/turbopack-moving-homes</link>
-      <description>Vercel的Turbopack更新：Turbopack代码库将迁移至Next.js仓库，以加快迭代速度并支持生产构建。目前，Turbopack与Next.js兼容，可加速开发流程，并正在解决用户报告的问题和性能回归。团队优先解决内存消耗、磁盘缓存和生产构建支持等问题。</description>
     </item>
   
     <item>
