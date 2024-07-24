@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Browserling now has Android 14!</title>
+      <link>https://catonmat.net/browserling-android-14</link>
+      <description>Browserling新增支持Android 14，允许用户在浏览器中测试最新Android版本的应用和网站。Browserling是一个云平台，提供即时访问在线Android设备，被全球成千上万的开发者、测试人员使用。</description>
+    </item>
+  
+    <item>
+      <title>How to delete old data from DynamoDB without spending thousands</title>
+      <link>https://medium.engineering/how-to-delete-old-data-from-dynamodb-without-spending-thousands-0ce3e48ef4a1?source=rss----2817475205d3---4</link>
+      <description>如何在不花费数千美元的情况下从DynamoDB中删除旧数据，作者Raphael Montaud在Medium Engineering上分享了他的经验。他提出了一种基本方法，即编写一个脚本扫描数据库并删除不再有用的数据项。他还讨论了三种可能的清理路径：不做任何处理、删除“坏”数据项或迁移“好”数据项到新表并删除旧表。通过成本估算，他展示了不同方案在6个月和3年后的总费用，并提供了在Medium上实施这些策略的详细步骤。</description>
+    </item>
+  
+    <item>
+      <title>How use a Blazor QuickGrid with GraphQL</title>
+      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/</link>
+      <description>本文介绍了如何使用Blazor QuickGrid组件结合GraphQL进行数据展示。通过Strawberry Shake生成客户端，使用GraphQL查询获取数据，并通过QuickGrid组件展示。文章详细说明了如何添加GraphQL查询到Blazor，如何使用QuickGrid组件，以及如何实现虚拟化以提高性能。此外，还介绍了如何自定义GraphQL API以支持虚拟化，并提供了示例代码。</description>
+    </item>
+  
+    <item>
+      <title>Elon Musk claims he is training “the world’s most powerful AI by every metric”</title>
+      <link>https://arstechnica.com/?p=2038885</link>
+      <description>埃隆·马斯克宣布在田纳西州孟菲斯启动了名为“世界最强大AI训练集群”的项目，位于xAI的新超级计算机设施。该项目预计将使用100,000个液冷H100 GPU，旨在通过各项指标成为世界上最强大的AI。然而，由于电力合同问题，该项目可能面临电力供应挑战。</description>
+    </item>
+  
+    <item>
       <title>Quickly define terms with AI definitions</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/guide-to-ai-definitions</link>
       <description>Atlassian Intelligence提供了一种通过AI定义快速定义术语的方法，以增强协作和生产力。该功能允许用户在Confluence页面上直接定义公司特定的术语、缩写、项目名称和状态，从而加速团队协作，确保团队成员能够快速理解并一致地使用这些术语。通过使用AI驱动的定义，团队可以更高效地工作，减少误解，并提高沟通一致性。</description>
@@ -72,6 +96,12 @@
     </item>
   
     <item>
+      <title>Instantly redirect traffic using custom Vercel Firewall rules</title>
+      <link>https://vercel.com/changelog/instantly-redirect-traffic-using-custom-vercel-firewall-rules</link>
+      <description>Vercel推出自定义防火墙规则，可即时重定向流量至新页面，无需新部署，快速传播至全球边缘网络。此功能可作为紧急情况下的快速替代方案，且对所有计划免费提供。</description>
+    </item>
+  
+    <item>
       <title>Beyond Semantics: Enhancing Retrieval Augmented Generation with Hybrid Search (pgvector + Elasticsearch)</title>
       <link>https://severalnines.com/blog/beyond-semantics-enhancing-retrieval-augmented-generation-with-hybrid-search-pgvector-elasticsearch/</link>
       <description>本文探讨了如何通过混合搜索（结合pgvector和Elasticsearch）来增强检索增强生成（RAG），以提升大型语言模型（LLM）的性能。文章介绍了RAG在电子商务聊天机器人中的应用，通过结合语义搜索和关键词搜索，实现更精确和相关的信息检索，从而提高聊天机器人的响应质量。</description>
@@ -120,6 +150,12 @@
     </item>
   
     <item>
+      <title>Primary Key and Foreign Key constraints are GA and now enable faster queries</title>
+      <link>https://www.databricks.com/blog/primary-key-and-foreign-key-constraints-are-ga-and-now-enable-faster-queries</link>
+      <description>Databricks宣布其Delta Lake表的Primary Key（PK）和Foreign Key（FK）约束功能正式推出。这一更新可优化查询性能，通过消除不必要的操作来加速查询。用户现在可以在创建表时定义约束，并在现有表中添加或删除约束。Databricks支持使用RELY选项来启用基于约束的优化，例如消除不必要的聚合和连接，从而显著提高查询速度。</description>
+    </item>
+  
+    <item>
       <title>APIs and Edge Computing: A Match Made for Speed</title>
       <link>https://nordicapis.com/apis-and-edge-computing-a-match-made-for-speed/</link>
       <description>APIs和边缘计算的结合为速度和效率带来了革命性的变化。APIs作为软件开发的基石，允许不同系统无缝交互，而边缘计算通过在数据生成源头处理数据，减少了延迟并提高了通信速度。这种协同作用优化了API性能，实现了实时交互，并提升了用户体验，特别是在需要实时数据处理的场景中。</description>
@@ -153,6 +189,24 @@
       <title>GitHub tip-hub: habitual permalinks</title>
       <link>https://huonw.github.io/blog/2024/07/github-permalinks/</link>
       <description>GitHub的永久链接功能方便地指向文件和行的特定版本，即使代码更新也不会失效。通过快捷键“y”创建链接，并复制浏览器地址栏中的更新链接。使用永久链接可以确保引用的代码始终如一，避免因文件移动或删除而导致的链接失效。建议养成使用永久链接的习惯，以提高代码引用的准确性。</description>
+    </item>
+  
+    <item>
+      <title>How tackling a client’s technical debt improved system resilience and delivered commercial impact</title>
+      <link>https://www.thoughtworks.com/insights/blog/product-innovation/How-tackling-a-client-technical-debt-improved-system-resilience-and-delivered-commercial-impact</link>
+      <description>通过解决客户的技术债务，提高了系统弹性和商业影响。文章强调了技术债务管理的重要性，通过案例展示了如何通过技术改进提升业务成果，包括优化支付页面加载速度，从而提高转化率和客户体验。</description>
+    </item>
+  
+    <item>
+      <title>Join Nitro &amp; Get 1 Month Free During our Summer Promo</title>
+      <link>https://discord.com/blog/join-nitro-get-1-month-free-during-our-summer-promo</link>
+      <description>Discord夏季促销活动期间，新用户注册Nitro可免费获得一个月服务。活动从即日起至2024年7月31日，符合条件的用户可通过桌面或网页版Discord应用参与。活动期间，用户需更新应用并链接支付方式。此外，Nitro会员享有额外优惠，包括自定义表情、主题和会员折扣等。</description>
+    </item>
+  
+    <item>
+      <title>Log it like you mean it: Best practices for security</title>
+      <link>https://www.elastic.co/blog/best-practices-security-log</link>
+      <description>本文探讨了在Elastic安全环境中优化日志记录的最佳实践。文章强调了识别和优先处理安全可见性要求的重要性，并提供了如何通过威胁分析确定关键数据源和资产的方法。此外，文章还讨论了如何将业务威胁转化为SIEM检测规则，以及如何利用MITRE ATT&amp;CK框架来构建检测规则和跟踪攻击链。最后，文章建议使用Elastic Security工具来简化数据收集和检测规则覆盖的跟踪。</description>
     </item>
   
     <item>
