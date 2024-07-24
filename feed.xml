@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Developers want more, more, more: the 2024 results from Stack Overflow’s Annual Developer Survey</title>
+      <link>https://stackoverflow.blog/2024/07/24/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/</link>
+      <description>2024年Stack Overflow开发者调查结果显示，JavaScript和PostgreSQL仍是最受欢迎的技术，Rust和Markdown最受推崇。开发者对工作中的技术债务感到最沮丧，但并不认为AI是职业威胁。调查还发现，开发者普遍使用在线资源学习编程，并积极采用AI工具，尽管对AI工具的准确性和处理复杂任务的能力存在疑虑。</description>
+    </item>
+  
+    <item>
+      <title>Zero Downtime Upgrades – Redefining Your Platform Upgrade Experience</title>
+      <link>https://blog.cloudera.com/zero-downtime-upgrades-redefining-your-platform-upgrade-experience/</link>
+      <description>Cloudera推出零停机时间升级（ZDU）功能，简化平台升级过程，提高服务可用性。ZDU通过优化升级流程和减少服务中断时间，允许管理员在最小化停机的情况下进行重大升级、应用服务包和累积热修复。此功能旨在确保集群管理员能够高效管理升级，同时保持业务连续性。</description>
+    </item>
+  
+    <item>
+      <title>Beyond Semantics: Enhancing Retrieval Augmented Generation with Hybrid Search (pgvector + Elasticsearch)</title>
+      <link>https://severalnines.com/blog/beyond-semantics-enhancing-retrieval-augmented-generation-with-hybrid-search-pgvector-elasticsearch/</link>
+      <description>本文探讨了如何通过混合搜索（结合pgvector和Elasticsearch）来增强检索增强生成（RAG），以提升大型语言模型（LLM）的性能。文章介绍了RAG在电子商务聊天机器人中的应用，通过结合语义搜索和关键词搜索，实现更精确和相关的信息检索，从而提高聊天机器人的响应质量。</description>
+    </item>
+  
+    <item>
+      <title>The Download: Chinese LLMs, and transforming heavy-duty trucking</title>
+      <link>https://www.technologyreview.com/2024/07/24/1095248/the-download-chinese-llms-and-transforming-heavy-duty-trucking/</link>
+      <description>中国大型语言模型在全球范围内发布，尽管存在语言障碍和注册要求，但许多聊天机器人支持英语对话且易于访问。此外，一家公司正在开发电池动力拖车，以减少重型卡车运输的排放。</description>
+    </item>
+  
+    <item>
       <title>Angular vs. React: Learning React as an Angular Developer</title>
       <link>https://spin.atomicobject.com/angular-vs-react/</link>
       <description>作为一名熟悉Angular的开发者，本文探讨了学习React的过程，并比较了Angular和React的主要差异。Angular是一个完整的模型-视图框架，而React是一个专注于视图层的JavaScript库。React使用组件，而Angular有指令、管道和模块。React使用虚拟DOM，而Angular使用变更检测。数据绑定在React中是单向的，而在Angular中是双向的。Angular使用*ngFor和*ngIf，而React使用map()和if语句。两者各有优势，选择时应根据项目需求而定。</description>
@@ -15,6 +39,12 @@
       <title>Quiz: Hugging Face Transformers</title>
       <link>https://realpython.com/quizzes/hugging-face-transformers/</link>
       <description>Hugging Face Transformers库是自然语言处理、计算机视觉等领域中处理transformer模型的流行选择。本互动测验包含6个问题，旨在测试你对该库的理解。每答对一题得1分，满分100%。测验无时间限制，完成后可获得总分。</description>
+    </item>
+  
+    <item>
+      <title>How Russia-linked malware cut heat to 600 Ukrainian buildings in deep winter</title>
+      <link>https://arstechnica.com/?p=2038848</link>
+      <description>俄罗斯黑客利用恶意软件在乌克兰冬季期间切断600栋建筑的供暖和热水供应，这是首次黑客直接破坏供暖系统。恶意软件名为FrostyGoop，通过Modbus协议发送命令，影响工业控制系统。Dragos公司发现此恶意软件后，与乌克兰网络安全机构合作，揭露了针对利沃夫供暖设施的攻击。</description>
     </item>
   
     <item>
@@ -329,6 +359,12 @@
       <title>Abstract interpretation in the Toy Optimizer</title>
       <link>https://bernsteinbear.com/blog/toy-abstract-interpretation/?utm_source=rss</link>
       <description>本文探讨了Toy优化器中的抽象解释，介绍了抽象解释在程序行为推理中的应用。通过构建抽象域和转移函数，可以分析程序的所有可能执行情况，从而进行优化。文章以一个简单的例子展示了如何使用抽象解释进行奇偶性分析，并展示了如何通过优化操作来提高程序效率。</description>
+    </item>
+  
+    <item>
+      <title>Ep. 10: Building Secure Go Systems: Key Management, Middleware, and Error Handling</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/building-secure-go-systems-key-management-middleware-and-error-handling-ep-10.html</link>
+      <description>本篇博客介绍了如何构建安全的Go系统，包括密钥管理、中间件和错误处理。文章详细讲解了如何使用KeyStore配置和管理加密密钥，创建中间件以处理令牌解析和用户ID提取，以及集中处理错误和利用上下文传递认证信息。通过这些方法，开发者可以构建安全、可扩展且易于维护的软件系统。</description>
     </item>
   
     <item>
