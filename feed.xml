@@ -6,15 +6,39 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Participate in the State Of Laravel Survey</title>
+      <link>https://freek.dev/2742-participate-in-the-state-of-laravel-survey</link>
+      <description>Freek Van der Herten在其博客上鼓励参与由Tobias组织的“State Of Laravel”调查，旨在收集关于Laravel框架的意见和建议。调查结果将帮助开发者了解社区的需求和期望。</description>
+    </item>
+  
+    <item>
       <title>How Developer Portals Help Prevent API Sprawl</title>
       <link>https://nordicapis.com/how-developer-portals-help-prevent-api-sprawl/</link>
       <description>开发者门户如何帮助防止API蔓延：通过集中管理API数据、文档和工具，开发者门户提供全面的API视图，确保API设计、安全和使用的一致性。这有助于减少API蔓延，提高开发效率，并确保API生态系统的可靠性和效率。</description>
     </item>
   
     <item>
+      <title>Easily upgrade hosted OpenShift Virtualization clusters on hosted control planes</title>
+      <link>https://developers.redhat.com/articles/2024/07/25/easily-upgrade-hosted-openshift-virtualization-clusters-hosted-control-planes</link>
+      <description>本文介绍了如何轻松升级托管在控制平面上的OpenShift虚拟化集群。通过使用OpenShift高级集群管理器UI，可以简化升级过程，减少停机时间和风险。文章详细说明了升级步骤，包括检查可用版本、更新集群规范以及监控升级进度。这种方法使得升级过程更加高效和便捷。</description>
+    </item>
+  
+    <item>
+      <title>Managing Sensitive Assets Within Image Mode for Red Hat Enterprise Linux</title>
+      <link>https://developers.redhat.com/articles/2024/07/25/managing-sensitive-assets-within-image-mode-red-hat-enterprise-linux</link>
+      <description>在本文中，我们探讨了在红帽企业Linux的镜像模式下管理敏感资产的方法。文章强调了敏感资产（如凭证）的管理挑战，并提供了在构建、部署和运行时阶段内实施安全实践的建议。文章还讨论了使用SSH密钥、证书和用户详情等敏感内容时的注意事项，并提供了在云环境中注入敏感资产的方法。通过遵循这些指导原则，可以降低安全风险并提高整体安全性。</description>
+    </item>
+  
+    <item>
       <title>WordPress 6.6 “Dorsey” is here – key features and changes</title>
       <link>https://www.hostinger.com/blog/wordpress-6-6</link>
       <description>WordPress 6.6版本“Dorsey”发布，重点改进了块体验，包括延迟的图案覆盖功能、新的主题.json版本和55多项可访问性改进。新功能包括图案覆盖、网格块、样式和字体预设、负边距、改进的站点编辑器数据视图、经典主题中的图案管理、全站背景图片、批量导出图案、自定义宽高比预设、theme.json版本3以及PHP 7.0和7.1的支持终止。</description>
+    </item>
+  
+    <item>
+      <title>RailsConf 2024 highlights</title>
+      <link>https://thoughtbot.com/blog/railsconf-2024-highlights</link>
+      <description>RailsConf 2024上，thoughtbot团队分享了他们在会议中的亮点，包括多个技术演讲和开源项目合作。他们强调了Ruby on Rails作为强大框架的重要性，并展示了如何通过测试和开源项目提升开发效率。此外，他们还赞助了女性和非二元Ruby开发者晚宴，并讨论了他们的Superglue项目在Rails社区中的受欢迎程度。</description>
     </item>
   
     <item>
