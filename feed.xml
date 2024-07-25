@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>WordPress 6.6 “Dorsey” is here – key features and changes</title>
+      <link>https://www.hostinger.com/blog/wordpress-6-6</link>
+      <description>WordPress 6.6版本“Dorsey”发布，重点改进了块体验，包括延迟的图案覆盖功能、新的主题.json版本和55多项可访问性改进。新功能包括图案覆盖、网格块、样式和字体预设、负边距、改进的站点编辑器数据视图、经典主题中的图案管理、全站背景图片、批量导出图案、自定义宽高比预设、theme.json版本3以及PHP 7.0和7.1的支持终止。</description>
+    </item>
+  
+    <item>
       <title>Data Science Spotlight: Cracking the SQL Interview at Instacart (LLM Edition)</title>
       <link>https://tech.instacart.com/data-science-spotlight-cracking-the-sql-interview-at-instacart-llm-edition-52d04bde474c?source=rss----587883b5d2ee---4</link>
       <description>Instacart的数据科学家面试流程包括SQL面试，测试候选人将业务问题转化为代码的能力。随着LLM的普及，Instacart正在调整面试流程，更注重AI驱动的流程，如将洞察转化为SQL查询提示、解释和调试SQL查询、以及优化SQL查询效率。这些变化旨在更好地评估候选人的技能，并提升Instacart的数据科学团队。</description>
