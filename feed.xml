@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Data Science Spotlight: Cracking the SQL Interview at Instacart (LLM Edition)</title>
+      <link>https://tech.instacart.com/data-science-spotlight-cracking-the-sql-interview-at-instacart-llm-edition-52d04bde474c?source=rss----587883b5d2ee---4</link>
+      <description>Instacart的数据科学家面试流程包括SQL面试，测试候选人将业务问题转化为代码的能力。随着LLM的普及，Instacart正在调整面试流程，更注重AI驱动的流程，如将洞察转化为SQL查询提示、解释和调试SQL查询、以及优化SQL查询效率。这些变化旨在更好地评估候选人的技能，并提升Instacart的数据科学团队。</description>
+    </item>
+  
+    <item>
       <title>We made a cat drink a beer with Runway’s AI video generator, and it sprouted hands</title>
       <link>https://arstechnica.com/?p=2036379</link>
       <description>Runway的AI视频生成器Gen-3 Alpha能够将文字描述转化为高清视频，但其在生成新颖结构方面表现不佳。测试显示，生成有趣的结果需要多次迭代和精选。例如，将猫喝啤酒的请求结合了猫和啤酒广告的视频元素，产生了猫长出人类手的有趣效果。</description>
@@ -291,6 +297,18 @@
       <title>Enumerating DigitalOcean Apps with a Deprecated Ubuntu 18 Stack</title>
       <link>https://code.dblock.org/2024/07/24/doctl-stack-deprecation-notice.html</link>
       <description>DigitalOcean用户Daniel Doubrovkine分享了他如何使用doctl命令行工具来检查其DigitalOcean应用所使用的Ubuntu版本，并发现其中一些应用仍在使用不再受支持的Ubuntu 18。他讨论了升级的必要性，并提出了在收到第二次和第三次通知后再升级的疑问。</description>
+    </item>
+  
+    <item>
+      <title>Build A Message Queue For Email notifications Using .NET Azure Queue Trigger Function and Twilio SendGrid</title>
+      <link>https://www.twilio.com/en-us/blog/build-a-message-queue-for-emails-using-dot-net-azure-queue-triggers-and-twilio-sendgrid</link>
+      <description>使用.NET Azure存储队列触发器和Twilio SendGrid构建消息队列以发送电子邮件通知。教程介绍了如何创建一个消息队列，使用Azure存储队列存储通知，并通过Twilio SendGrid发送电子邮件。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Twilio’s Customer Deliverability Engine: Elevating Communication with Transparency and AI</title>
+      <link>https://www.twilio.com/en-us/blog/customer-deliverability-engine</link>
+      <description>Twilio推出客户交付引擎，通过透明度和人工智能提升沟通效果。该引擎提供可操作的见解和指导，以优化消息流量，提高消息投递成功率。新功能包括智能警报、智能发现AI助手、交付率评分和产品/解决方案推荐，帮助用户即时解决问题，提升运营效率。</description>
     </item>
   
     <item>
