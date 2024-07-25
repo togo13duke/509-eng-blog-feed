@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Secure Boot is completely broken on 200+ models from 5 big device makers</title>
+      <link>https://arstechnica.com/?p=2039140</link>
+      <description>超过200款来自5大设备制造商的电脑存在安全漏洞，Secure Boot被完全破坏，导致恶意软件可以轻松感染BIOS，对工业控制和企业网络等关键环境构成严重威胁。</description>
+    </item>
+  
+    <item>
       <title>Roundtables: CRISPR Babies—Six years later</title>
       <link>https://www.technologyreview.com/2024/07/25/1095301/roundtables-crispr-babies-six-years-later/</link>
       <description>六年后，CRISPR婴儿技术引发争议。MIT Technology Review的Mat Honan和Antonio Regalado与CRISPR先驱He Jiankui讨论了基因编辑技术及其在试管婴儿诊所的未来。</description>
@@ -263,6 +269,12 @@
       <title>Quickly define terms with AI definitions</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/guide-to-ai-definitions</link>
       <description>Atlassian Intelligence提供了一种通过AI定义快速定义术语的方法，以增强协作和生产力。该功能允许用户在Confluence页面上直接定义公司特定的术语、缩写、项目名称和状态，从而加速团队协作，确保团队成员能够快速理解并一致地使用这些术语。通过使用AI驱动的定义，团队可以更高效地工作，减少误解，并提高沟通一致性。</description>
+    </item>
+  
+    <item>
+      <title>Terraform extension for VS Code speeds up loading of large workspaces</title>
+      <link>https://www.hashicorp.com/blog/terraform-extension-for-vs-code-speeds-up-loading-of-large-workspaces</link>
+      <description>新版本的HashiCorp Terraform扩展和语言服务器显著减少了大型工作空间启动时的内存使用和启动时间。通过并行加载语言构造和仅解析用户当前正在处理的文件，新版本将内存使用和启动时间减少了99%以上。</description>
     </item>
   
     <item>
