@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>3 Ways CARIAD Configures Docker Business for Security and Compliance</title>
+      <link>https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/</link>
+      <description>CARIAD利用Docker Business平台，通过集成单点登录和图像访问管理，确保安全合规地更新汽车软件。结合WSL 2技术，CARIAD在Windows系统上运行Linux容器，提高开发效率。这些策略为大型企业提供了安全、合规的Docker部署方案。</description>
+    </item>
+  
+    <item>
+      <title>Unleash the Dragonborn: ‘Elder Scrolls V: Skyrim Special Edition’ Joins GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-elder-scrolls-skyrim/</link>
+      <description>《上古卷轴V：天际特别版》加入GeForce NOW，玩家可在云平台上体验这款经典角色扮演游戏。本周GeForce NOW新增九款游戏，包括生存恐怖游戏《CONSCRIPT》。此外，GeForce NOW夏季促销活动正在进行，新会员可享受50%折扣。</description>
+    </item>
+  
+    <item>
+      <title>Data Fetching Patterns in Single-Page Applications</title>
+      <link>https://freek.dev/2741-data-fetching-patterns-in-single-page-applications</link>
+      <description>单页应用中数据获取模式分析：本文探讨了在单页应用中从远程源获取数据时，保持响应性和在查询过程中向用户提供反馈的五种模式。</description>
+    </item>
+  
+    <item>
       <title>How to Approach Tech Stack Selection in the Era of AI</title>
       <link>https://spin.atomicobject.com/tech-stack-selection-ai/</link>
       <description>在人工智能时代选择技术栈时，应优先考虑成熟的技术栈，遵循基于约定的框架，并保持简单性。这有助于确保人工智能的集成更加顺畅，并提高开发效率。通过使用经过验证的技术和遵循最佳实践，可以减少复杂性，使人工智能能够更有效地理解和解决问题。</description>
@@ -27,6 +45,14 @@
       <title>Participate in the State Of Laravel Survey</title>
       <link>https://freek.dev/2742-participate-in-the-state-of-laravel-survey</link>
       <description>Freek Van der Herten在其博客上鼓励参与由Tobias组织的“State Of Laravel”调查，旨在收集关于Laravel框架的意见和建议。调查结果将帮助开发者了解社区的需求和期望。</description>
+    </item>
+  
+    <item>
+      <title>Generating HTTP clients in Spring Boot application from OpenAPI spec</title>
+      <link>https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/</link>
+      <description>从OpenAPI规范生成Spring Boot应用中的HTTP客户端
+
+本文介绍了如何使用OpenAPI Generator Gradle插件从OpenAPI规范生成Spring Boot应用的HTTP客户端代码。文章详细说明了项目设置、配置生成器、指定规范位置、生成代码、排除不需要的代码、配置包名、包含生成的源代码、排除Jackson可空模块、在构建前运行生成器以及配置Bean。尽管生成的代码可能不是最佳实践，但OpenAPI Generator是一个有用的工具，可以帮助减少手动编写客户端代码的工作量，并减少错误。</description>
     </item>
   
     <item>
@@ -63,6 +89,12 @@
       <title>RailsConf 2024 highlights</title>
       <link>https://thoughtbot.com/blog/railsconf-2024-highlights</link>
       <description>RailsConf 2024上，thoughtbot团队分享了他们在会议中的亮点，包括多个技术演讲和开源项目合作。他们强调了Ruby on Rails作为强大框架的重要性，并展示了如何通过测试和开源项目提升开发效率。此外，他们还赞助了女性和非二元Ruby开发者晚宴，并讨论了他们的Superglue项目在Rails社区中的受欢迎程度。</description>
+    </item>
+  
+    <item>
+      <title>Announcing Rust 1.80.0</title>
+      <link>https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html</link>
+      <description>Rust 1.80.0版本发布，新增LazyCell和LazyLock类型，支持延迟初始化数据，并引入了Checked cfg names和values功能，优化了exclusive ranges在pattern中的使用。此外，还稳定了多个API，包括Rc、Arc、Duration、Option等，并提供了更多改进和功能。</description>
     </item>
   
     <item>
