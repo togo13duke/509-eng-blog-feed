@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>Heroku CLI v9: Infrastructure Upgrades and oclif Transition</title>
+      <link>https://blog.heroku.com/heroku-cli-v9-infrastructure-upgrades-oclif-transition</link>
+      <description>Heroku CLI v9.0.0 引入重大升级，基于 oclif 平台，优化架构，提高效率。核心命令统一打包，测试覆盖范围扩大，发布流程自动化。此版本采用 oclif 平台，提升命令一致性、维护性和可扩展性，为用户提供更可靠、高效的 CLI。</description>
+    </item>
+  
+    <item>
       <title>Navigating the Gen AI Revolution: An Engineering Executive’s Perspective on Organizational Adoption</title>
       <link>https://medium.com/gumgum-tech/navigating-the-gen-ai-revolution-an-engineering-executives-perspective-on-organizational-adoption-3711aa48b34d?source=rss----d4c1dee0f87b---4</link>
       <description>在生成式AI革命中，CTO在推动组织采纳方面扮演关键角色。成功实施的关键策略包括获得领导层支持、教育团队、培养内部倡导者、实施试点项目、解决安全和道德问题、培养实验文化以及持续学习和适应。通过这些方法，组织可以充分利用生成式AI的潜力，实现业务目标和创新。</description>
@@ -27,6 +33,12 @@
       <title>6 ways leaders can build a culture of voice</title>
       <link>https://www.atlassian.com/blog/leadership/building-a-culture-of-voice</link>
       <description>领导者建立发声文化的6种方法：通过建立关系、了解沟通风格、提出具体问题、鼓励不同观点、使用澄清问题以及以身作则，来营造一个让员工能够真实表达自己的工作环境。</description>
+    </item>
+  
+    <item>
+      <title>Managing Your Cloud Security Posture on DigitalOcean</title>
+      <link>https://www.digitalocean.com/blog/managing-cloud-security-on-digitalocean</link>
+      <description>DigitalOcean提供云安全解决方案，帮助用户管理云安全态势。通过ScoutSuite工具，用户可以扫描和修复27种常见的安全配置错误，确保云环境的安全。ScoutSuite支持多种云服务提供商，包括DigitalOcean，帮助用户识别和解决潜在的安全风险。DigitalOcean还提供了一系列安全工具和最佳实践，以简化云安全配置，让开发者无需成为安全专家也能保护其云基础设施。</description>
     </item>
   
     <item>
@@ -216,6 +228,18 @@
     </item>
   
     <item>
+      <title>The Market for Takes</title>
+      <link>https://blog.sbensu.com/posts/market-for-takes/</link>
+      <description>社交媒体上的“观点市场”分析：用户追求娱乐和自我肯定，而影响者通过提供观点来吸引关注和利益。这种观点循环导致内容与事实脱节，形成封闭系统，影响用户的世界观。</description>
+    </item>
+  
+    <item>
+      <title>But I want to turn people into dinosaurs</title>
+      <link>https://blog.sbensu.com/posts/turn-people-into-dinosaurs/</link>
+      <description>我尝试制作蛋白质布丁，却意外地发现我更享受制作甜点的过程。这让我反思了人们追求目标的方式，我们往往专注于次要目标而忽略了真正的动机。大多数人擅长追求自己的主要动机，但在其他方面可能显得不擅长。我意识到，我的真正目标可能并不像我希望的那样崇高。</description>
+    </item>
+  
+    <item>
       <title>Notes on Taylor and Maclaurin series</title>
       <link>https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/</link>
       <description>麦拉林级数是一种用于近似任意函数的幂级数，通过选择合适的系数和无限项，在输入值接近0时进行近似。它是一种特殊的泰勒级数，可以在任何值附近找到多项式近似。通过将多项式的导数与函数的导数相匹配，可以逐步构建出更精确的近似。例如，使用麦拉林级数可以近似余弦函数，通过增加级数项数，近似效果会逐渐提高。泰勒级数则可以用于在任意点进行近似，适用于函数在0附近行为不佳的情况，如自然对数函数。通过比较级数项的比值极限，可以判断级数的收敛性。</description>
@@ -249,6 +273,12 @@
       <title>Log it like you mean it: Best practices for security</title>
       <link>https://www.elastic.co/blog/best-practices-security-log</link>
       <description>本文探讨了在Elastic安全环境中优化日志记录的最佳实践。文章强调了识别和优先处理安全可见性要求的重要性，并提供了如何通过威胁分析确定关键数据源和资产的方法。此外，文章还讨论了如何将业务威胁转化为SIEM检测规则，以及如何利用MITRE ATT&amp;CK框架来构建检测规则和跟踪攻击链。最后，文章建议使用Elastic Security工具来简化数据收集和检测规则覆盖的跟踪。</description>
+    </item>
+  
+    <item>
+      <title>Enumerating DigitalOcean Apps with a Deprecated Ubuntu 18 Stack</title>
+      <link>https://code.dblock.org/2024/07/24/doctl-stack-deprecation-notice.html</link>
+      <description>DigitalOcean用户Daniel Doubrovkine分享了他如何使用doctl命令行工具来检查其DigitalOcean应用所使用的Ubuntu版本，并发现其中一些应用仍在使用不再受支持的Ubuntu 18。他讨论了升级的必要性，并提出了在收到第二次和第三次通知后再升级的疑问。</description>
     </item>
   
     <item>
