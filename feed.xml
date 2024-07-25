@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Approach Tech Stack Selection in the Era of AI</title>
+      <link>https://spin.atomicobject.com/tech-stack-selection-ai/</link>
+      <description>在人工智能时代选择技术栈时，应优先考虑成熟的技术栈，遵循基于约定的框架，并保持简单性。这有助于确保人工智能的集成更加顺畅，并提高开发效率。通过使用经过验证的技术和遵循最佳实践，可以减少复杂性，使人工智能能够更有效地理解和解决问题。</description>
+    </item>
+  
+    <item>
+      <title>PsiQuantum plans to build the biggest quantum computing facility in the US</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095287/psiquantum-plans-to-build-the-biggest-quantum-computing-facility-in-the-us/</link>
+      <description>PsiQuantum计划在美国建造最大的量子计算设施，旨在未来十年内拥有高达一百万个量子比特的量子计算机。该公司采用光子技术，相比传统超导材料，能在更高温度下运行，降低冷却需求，提高能效。PsiQuantum将重点开发大型系统，以实现更有效的错误纠正和商业化。</description>
+    </item>
+  
+    <item>
+      <title>The race to clean up heavy-duty trucks</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095273/the-race-to-clean-up-heavy-duty-trucks/</link>
+      <description>重卡清洁化竞赛：电池和氢能技术有望改善道路最大车辆的环保性能。文章探讨了电池和氢能技术在重卡清洁化中的应用，分析了电池动力卡车面临的成本、重量和充电等挑战，并讨论了氢能作为替代能源的潜力。</description>
+    </item>
+  
+    <item>
       <title>Participate in the State Of Laravel Survey</title>
       <link>https://freek.dev/2742-participate-in-the-state-of-laravel-survey</link>
       <description>Freek Van der Herten在其博客上鼓励参与由Tobias组织的“State Of Laravel”调查，旨在收集关于Laravel框架的意见和建议。调查结果将帮助开发者了解社区的需求和期望。</description>
@@ -21,6 +39,12 @@
       <title>Easily upgrade hosted OpenShift Virtualization clusters on hosted control planes</title>
       <link>https://developers.redhat.com/articles/2024/07/25/easily-upgrade-hosted-openshift-virtualization-clusters-hosted-control-planes</link>
       <description>本文介绍了如何轻松升级托管在控制平面上的OpenShift虚拟化集群。通过使用OpenShift高级集群管理器UI，可以简化升级过程，减少停机时间和风险。文章详细说明了升级步骤，包括检查可用版本、更新集群规范以及监控升级进度。这种方法使得升级过程更加高效和便捷。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Reflections on Privacy</title>
+      <link>https://thedailywtf.com/articles/reflections-on-privacy</link>
+      <description>Remy Porter在《Daily WTF》上撰文反思了隐私问题，讨论了一个团队在处理嵌入式Web服务器关闭时遇到的问题。他们通过反射技术修改了私有字段，导致线程中断以停止服务器，但这种方法被批评为错误和混乱。文章指出，使用反射通常表明问题理解有误，并建议避免这种做法。</description>
     </item>
   
     <item>
