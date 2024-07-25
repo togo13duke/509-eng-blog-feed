@@ -6,9 +6,63 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Roundtables: CRISPR Babies—Six years later</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095301/roundtables-crispr-babies-six-years-later/</link>
+      <description>六年后，CRISPR婴儿技术引发争议。MIT Technology Review的Mat Honan和Antonio Regalado与CRISPR先驱He Jiankui讨论了基因编辑技术及其在试管婴儿诊所的未来。</description>
+    </item>
+  
+    <item>
+      <title>A new tool for copyright holders can show if their work is in AI training data</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/</link>
+      <description>一项新工具帮助版权所有者检测其作品是否被用于AI训练数据，由伦敦帝国学院的研究团队开发。该工具名为“版权陷阱”，通过在文本中嵌入隐藏的文本标记，以检测作品是否被AI模型使用。这一技术旨在解决版权所有者与科技公司之间的知识产权纠纷，但目前存在一些局限性，如可能影响文本可读性和被AI模型检测到的问题。</description>
+    </item>
+  
+    <item>
+      <title>Google DeepMind’s AI systems can now solve complex math problems</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095315/google-deepminds-ai-systems-can-now-solve-complex-math-problems/</link>
+      <description>Google DeepMind开发的AI系统AlphaProof和AlphaGeometry 2成功解决了国际数学奥林匹克竞赛中的复杂数学问题，标志着机器学习在解决逻辑推理问题上的重大进步。这些系统在数学领域展现出前所未有的能力，有望推动人工智能与人类数学家的合作，共同解决和创造新的数学问题。</description>
+    </item>
+  
+    <item>
+      <title>Secure Node.js Applications from Supply Chain Attacks</title>
+      <link>https://auth0.com/blog/secure-nodejs-applications-from-supply-chain-attacks/</link>
+      <description>本文深入探讨了如何保护Node.js应用程序免受供应链攻击。文章强调了NPM生态系统中的安全担忧，并提供了最佳实践来减轻供应链攻击和软件开发生命周期中的各种安全弱点。建议包括使用锁文件、更新依赖项、审计依赖项、运行应用程序以无特权的模式、使用只读文件系统以及采用无分发版的镜像。</description>
+    </item>
+  
+    <item>
+      <title>Moody's is now a Browserling customer!</title>
+      <link>https://catonmat.net/moodys-browserling-customer</link>
+      <description>Moody's成为Browserling客户，标志着Browserling在浏览器技术领域迈出重要一步。Browserling推出Android 14，提供多种浏览器相关工具和指南，鼓励用户订阅获取最新资讯。</description>
+    </item>
+  
+    <item>
+      <title>GitHub Accelerator Showcase: Celebrating our second cohort and what’s next</title>
+      <link>https://github.blog/open-source/maintainers/github-accelerator-showcase-celebrating-our-second-cohort-and-whats-next/</link>
+      <description>GitHub Accelerator Showcase庆祝第二期开源AI项目，展示11个项目的维护者故事和项目演示。这些项目在10周的课程中获得了指导和支持，包括法律、伦理、社区健康、可持续性和安全性等方面的知识。GitHub Accelerator旨在推动开源AI的发展，并鼓励更多人参与其中。</description>
+    </item>
+  
+    <item>
+      <title>Beer, hydrogen, and heat: Why the US is still trying to make mirror-magnified solar energy work</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095304/beer-hydrogen-and-heat-why-the-us-is-still-trying-to-make-mirror-magnified-solar-energy-work/</link>
+      <description>美国继续投资于将阳光转化为热能的技术，以推动可再生能源的发展。能源部将投资3300万美元支持九个基于集中式太阳能热能的试点项目，包括为酿酒厂提供蒸汽、生产低碳燃料和电网的长期储能。这些项目旨在降低成本，提高效率，并解决气候变化问题。</description>
+    </item>
+  
+    <item>
+      <title>In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
+      <description>在Visual Studio项目中，即使将合规模式设置为宽松模式，也可能不会生效。这是因为从Visual Studio 2019版本16.8开始，/permissive-选项会隐式设置为/stand:c++latest选项，并且在16.11版本中由/stand:c++20选项设置。解决方法是明确在“附加选项”框中添加/permissive标志，以确保宽松模式被正确启用。</description>
+    </item>
+  
+    <item>
       <title>3 Ways CARIAD Configures Docker Business for Security and Compliance</title>
       <link>https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/</link>
       <description>CARIAD利用Docker Business平台，通过集成单点登录和图像访问管理，确保安全合规地更新汽车软件。结合WSL 2技术，CARIAD在Windows系统上运行Linux容器，提高开发效率。这些策略为大型企业提供了安全、合规的Docker部署方案。</description>
+    </item>
+  
+    <item>
+      <title>Making WAF ML models go brrr: saving decades of processing time</title>
+      <link>https://blog.cloudflare.com/making-waf-ai-models-go-brr</link>
+      <description>Cloudflare通过优化其WAF机器学习模型，将处理速度提高了5.5倍，将执行时间缩短了约82%。这项改进通过优化特征提取和推理过程实现，包括使用Aho-Corasick算法和Rust的match语句，以及改进正则表达式替换逻辑，显著提升了系统效率。这些优化不仅减少了延迟，还提高了对未知威胁的保护能力。</description>
     </item>
   
     <item>
@@ -21,6 +75,12 @@
       <title>Data Fetching Patterns in Single-Page Applications</title>
       <link>https://freek.dev/2741-data-fetching-patterns-in-single-page-applications</link>
       <description>单页应用中数据获取模式分析：本文探讨了在单页应用中从远程源获取数据时，保持响应性和在查询过程中向用户提供反馈的五种模式。</description>
+    </item>
+  
+    <item>
+      <title>The Download: US quantum computing, and AI garbage</title>
+      <link>https://www.technologyreview.com/2024/07/25/1095281/the-download-us-quantum-computing-ai-garbage/</link>
+      <description>美国量子计算公司PsiQuantum计划在芝加哥建立一个大型量子计算设施，预计未来十年内将拥有多达一百万个量子比特。同时，研究发现，AI训练过程中使用AI生成的数据会导致模型输出质量逐渐下降，这对当前的大型AI模型可能产生严重影响。</description>
     </item>
   
     <item>
@@ -98,6 +158,24 @@
     </item>
   
     <item>
+      <title>Against the Advice of My Superintelligence</title>
+      <link>https://taylor.town/my-superintelligence</link>
+      <description>我拒绝听从智能设备的建议，坚持自己的生活方式。尽管周围的人、机器和专家都给出了各种建议，但我选择独立探索，不依赖他人的意见。我意识到，如果想要变得更聪明，我应该倾听机器的智慧，利用它们收集的数据和知识来指导我的生活。然而，我目前更倾向于依赖推荐算法，它们似乎能准确反映我当下的愿望。我意识到，要真正进步，我需要开始倾听、寻求建议、与他人合作，并不断学习和成长。</description>
+    </item>
+  
+    <item>
+      <title>Lookup SMS Pumping Risk Score is now Generally Available</title>
+      <link>https://www.twilio.com/en-us/blog/lookup-sms-pumping-risk-score-is-now-generally-available</link>
+      <description>Twilio宣布其Lookup SMS Pumping Risk Score现在正式推出，这是一项用于识别与短信泵吸欺诈相关的行为的产品。该工具提供风险评分，帮助用户决定是否允许或阻止来自特定电话号码的流量，以减轻短信泵吸欺诈的影响。</description>
+    </item>
+  
+    <item>
+      <title>Embracing Disability Pride Month: Celebrating and Promoting Accessibility</title>
+      <link>https://discord.com/blog/embracing-disability-pride-month-celebrating-and-promoting-accessibility</link>
+      <description>庆祝残疾骄傲月：庆祝成就，推广无障碍</description>
+    </item>
+  
+    <item>
       <title>Data Science Spotlight: Cracking the SQL Interview at Instacart (LLM Edition)</title>
       <link>https://tech.instacart.com/data-science-spotlight-cracking-the-sql-interview-at-instacart-llm-edition-52d04bde474c?source=rss----587883b5d2ee---4</link>
       <description>Instacart的数据科学家面试流程包括SQL面试，测试候选人将业务问题转化为代码的能力。随着LLM的普及，Instacart正在调整面试流程，更注重AI驱动的流程，如将洞察转化为SQL查询提示、解释和调试SQL查询、以及优化SQL查询效率。这些变化旨在更好地评估候选人的技能，并提升Instacart的数据科学团队。</description>
@@ -161,6 +239,12 @@
       <title>CrowdStrike blames testing bugs for security update that took down 8.5M Windows PCs</title>
       <link>https://arstechnica.com/?p=2038917</link>
       <description>CrowdStrike因测试错误导致安全更新导致850万台Windows电脑崩溃，公司正在改进测试流程以避免再次发生。更新中的内容验证器错误未能检测到导致系统崩溃的问题内容数据。CrowdStrike计划实施分阶段部署策略，并增加更多测试层，同时提高对传感器和系统性能的监控，以指导分阶段推出。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Mattermost on Debian 12</title>
+      <link>https://www.rosehosting.com/blog/how-to-install-mattermost-on-debian-12/</link>
+      <description>本文介绍了如何在Debian 12服务器上安装Mattermost。首先，需要准备Debian 12 VPS和SSH访问权限。接着，更新系统，创建用户和数据库，下载并安装Mattermost，配置Systemd服务文件，最后安装和配置Nginx以通过域名访问Mattermost。</description>
     </item>
   
     <item>
@@ -275,6 +359,24 @@
       <title>Quiz: Hugging Face Transformers</title>
       <link>https://realpython.com/quizzes/hugging-face-transformers/</link>
       <description>Hugging Face Transformers库是自然语言处理、计算机视觉等领域中处理transformer模型的流行选择。本互动测验包含6个问题，旨在测试你对该库的理解。每答对一题得1分，满分100%。测验无时间限制，完成后可获得总分。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Logging in Python</title>
+      <link>https://realpython.com/quizzes/logging-in-python/</link>
+      <description>本篇博客介绍了一道Python日志模块的互动测验。测验旨在检验读者对Python日志功能的理解，强调日志在程序开发中的重要性，包括追踪程序流程、记录用户访问和错误状态。测验包含9个问题，无时间限制，每答对一题得1分，满分100%。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Python Protocols: Leveraging Structural Subtyping</title>
+      <link>https://realpython.com/quizzes/python-protocol/</link>
+      <description>本文章介绍了一个名为“Python协议：利用结构化子类型”的互动测验，旨在测试读者对如何在Python中使用协议和类型提示的理解。测验包含11个问题，无时间限制，每答对一题得1分，最终获得总分。文章鼓励读者在阅读相关教程后尝试此测验。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Python String Formatting: Available Tools and Their Features</title>
+      <link>https://realpython.com/quizzes/python-string-formatting-update/</link>
+      <description>Python字符串格式化工具及其特性测试：本篇博客介绍了Python字符串格式化的不同工具，包括f-strings、.format()方法和模运算符，并提供了一个包含6个问题的互动测试，帮助读者检验对相关知识的掌握程度。</description>
     </item>
   
     <item>
@@ -697,6 +799,12 @@
       <title>Enhancing LLM-as-a-Judge with Grading Notes</title>
       <link>https://www.databricks.com/blog/enhancing-llm-as-a-judge-with-grading-notes</link>
       <description>Databricks提出了一种名为“评分注释”的技术，用于评估特定领域内长文本LLM输出的质量和准确性。这种方法通过为每个问题添加简短的注释来描述期望的答案属性，从而为LLM法官提供足够的领域知识，同时允许领域专家进行可扩展的测试集标注。在Databricks Assistant的开发中，评分注释显著提高了LLM法官与人类法官的一致性，从而提高了AI系统的质量。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Git on Ubuntu 24.04</title>
+      <link>https://www.rosehosting.com/blog/how-to-install-git-on-ubuntu-24-04/</link>
+      <description>本教程介绍了如何在Ubuntu 24.04上安装Git，包括使用包管理器和从源代码编译两种方法。首先更新系统包，然后检查Git是否已安装，若未安装，可使用包管理器安装或从源代码编译指定版本。</description>
     </item>
   
     <item>
