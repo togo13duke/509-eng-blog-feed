@@ -6,9 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Browserling now has all Androids!</title>
+      <link>https://catonmat.net/browserling-has-all-androids</link>
+      <description>Browserling更新了其Android云平台，安装了所有Android版本，用户可直接在浏览器中运行在线Android模拟器。该平台为开发者提供测试网站和应用程序在不同Android版本上的服务，被全球成千上万的用户使用。</description>
+    </item>
+  
+    <item>
+      <title>How to Use the COBOL Parser</title>
+      <link>https://tomassetti.me/how-to-use-the-cobol-parser/</link>
+      <description>本文介绍了Strumenta的COBOL解析器，它基于Chisel方法和开源库Kolasu。解析器可理解COBOL代码的语法，但不执行代码。它支持多种COBOL变体，包括COBOL85、Micro Focus Visual COBOL和Micro Focus ACUCOBOL-GT。解析器旨在帮助用户分析COBOL代码，理解其结构和功能，并支持从COBOL到其他语言的迁移。</description>
+    </item>
+  
+    <item>
+      <title>Announcing TypeScript 5.6 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/</link>
+      <description>TypeScript 5.6 Beta版本发布，新增功能包括：禁止nullish和truthy检查、迭代器辅助方法、严格内置迭代器检查、支持任意模块标识符、无检查选项、允许构建时中间错误、编辑器中的区域优先诊断、搜索祖先配置文件以确定项目所有权、lib.d.ts更新、.tsbuildinfo始终写入、尊重文件扩展名和package.json等。</description>
+    </item>
+  
+    <item>
+      <title>What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240726-00/?p=110048</link>
+      <description>如果IMlangConvertCharset无法直接从代码页28591转换为UTF-8，可以通过先将字符从28591转换为UTF-16LE，然后再从UTF-16LE转换为UTF-8来实现转换。这种方法利用了UTF-16LE编码的特性，确保转换过程的有效性。</description>
+    </item>
+  
+    <item>
       <title>How to Build Applications With Asyncpg and PostgreSQL</title>
       <link>https://www.timescale.com/blog/how-to-build-applications-with-asyncpg-and-postgresql/</link>
       <description>TimescaleDB是一个基于PostgreSQL的扩展，专为高效管理大规模时间序列数据设计。它通过自动分区、基于时间的查询优化、数据保留策略和压缩等功能，提高了时间序列数据管理与分析的效率。结合Python的asyncpg库，可以异步执行数据库操作，提高应用性能和响应速度。通过TimescaleDB和asyncpg，开发者可以构建高效且可扩展的应用程序，同时简化数据库管理。</description>
+    </item>
+  
+    <item>
+      <title>Hang out with Ars in San Jose and DC this fall for two infrastructure events</title>
+      <link>https://arstechnica.com/?p=2037812</link>
+      <description>秋天，Ars Technica将与IBM合作，在旧金山和华盛顿特区举办两场基础设施会议。会议将探讨人工智能和存储的未来，以及数据管理、基础设施的脆弱性和环境影响等话题。会议将在计算机历史博物馆和华盛顿特区举行，并邀请当地居民优先注册参加。</description>
+    </item>
+  
+    <item>
+      <title>Geography in Laravel: retrieving geographical data</title>
+      <link>https://freek.dev/2743-geography-in-laravel-retrieving-geographical-data</link>
+      <description>Laravel开发者Freek Van der Herten在其博客上分享了如何从OpenStreetMap获取地理数据并将其转换为PHP对象的方法。文章提供了实用的编程技巧和项目经验，适合关注Laravel、PHP和JavaScript的开发者阅读。</description>
     </item>
   
     <item>
@@ -24,6 +60,12 @@
     </item>
   
     <item>
+      <title>The Download: AI’s math solutions, and brewing beer with sunlight</title>
+      <link>https://www.technologyreview.com/2024/07/26/1095394/the-download-ais-math-solutions-and-brewing-beer-with-sunlight/</link>
+      <description>MIT Technology Review最新报道了人工智能在数学问题解决上的突破，DeepMind开发的AI系统成功解决了国际数学奥林匹克竞赛中的复杂问题。同时，文章还探讨了美国在太阳能技术商业化方面的努力，以及如何利用AI技术追踪和标记版权内容。此外，还涉及了基因组与生成性AI模型的相似性以及AI搜索引擎的现状。</description>
+    </item>
+  
+    <item>
       <title>Improving Video Cache Hits on Swiggy Apps</title>
       <link>https://bytes.swiggy.com/improving-video-cache-hits-on-swiggy-apps-610f395fff46?source=rss----9556560f659---4</link>
       <description>Swiggy通过优化视频缓存命中率来提升用户体验，通过分析视频请求宽度分布，采用基于宽度的桶划分技术，减少视频处理成本和响应时间。通过K-means聚类算法将视频请求映射到特定宽度，实现高效的视频加载和缓存管理。</description>
@@ -36,9 +78,21 @@
     </item>
   
     <item>
+      <title>The Real Python Podcast – Episode #214: Build Captivating Display Tables in Python With Great Tables</title>
+      <link>https://realpython.com/podcasts/rpp/214/</link>
+      <description>本篇博客介绍了如何在Python中使用Great Tables库创建引人注目的数据表格。讨论了设计理念、功能特性，以及如何通过实例展示其优势。同时，还提到了如何通过开源项目提升数据技能，并分享了相关资源。</description>
+    </item>
+  
+    <item>
       <title>A Framework for Multi-Model Forecasting on Databricks</title>
       <link>https://www.databricks.com/blog/framework-multi-model-forecasting-databricks</link>
       <description>Databricks推出了一种名为“多模型预测”（MMF）的框架，用于比较评估预测模型。该框架支持大规模训练和预测，可同时使用多种预测模型，并包含40多个内置模型。MMF通过自动化和标准化模型输出，帮助团队快速评估和部署解决方案，提高预测准确性，并确保模型管理自动化。</description>
+    </item>
+  
+    <item>
+      <title>Ruby 3.2.5 Released</title>
+      <link>https://www.ruby-lang.org/en/news/2024/07/26/ruby-3-2-5-released/</link>
+      <description>Ruby 3.2.5版本发布，包含多个错误修复和REXML安全更新。感谢社区成员的贡献，包括提交错误报告的开发者和用户。</description>
     </item>
   
     <item>
@@ -81,6 +135,18 @@
       <title>After CrowdStrike: Navigating the path to digital resilience</title>
       <link>https://www.thoughtworks.com/insights/blog/technology-strategy/after-crowdStrike-navigating-path-digital-resilience</link>
       <description>在CrowdStrike事件之后，企业和技术领导者需要认识到，尽管无法完全避免重大中断，但通过充分理解并建模数字资产，实现全面的系统可见性，并据此最小化风险，可以增强应对意外事件的能力。这包括识别关键资产、采用稳健的工程实践、加强安全措施，并建立有效的团队协作机制，以构建抵御和从数字中断中恢复的基础。</description>
+    </item>
+  
+    <item>
+      <title>AI and Innovation Take Center Stage at trivago Tech Get Together 2024</title>
+      <link>https://tech.trivago.com/post/2024-07-25-ai-and-innovation-innovation-take-center-stage-at-trivago-tech-get-together-2024/</link>
+      <description>2024年trivago Tech Get Together活动聚焦于人工智能，超过300名技术人才参与，通过演讲、研讨会和圆桌讨论等形式，分享了关于AI的最新趋势和挑战。活动强调了AI在多个行业的颠覆性影响，并探讨了其在商业、感知和自主领域的应用。与会者就AI的机遇与挑战进行了深入交流，共同庆祝技术团队的成就。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Security excels in the AV-Comparatives Business Security Test</title>
+      <link>https://www.elastic.co/blog/elastic-av-comparatives-business-security-test</link>
+      <description>Elastic Security在最新的AV-Comparatives商业安全测试中排名前五，展示了其强大的安全工具和对抗现实世界攻击的能力。该测试不仅评估了基本恶意软件检测，还模拟了企业可能遇到的攻击场景。Elastic Security在真实世界保护测试中几乎满分，在恶意软件保护测试中达到99.5%的准确率，且无误报，确保了高效的安全团队工作流程。</description>
     </item>
   
     <item>
@@ -281,6 +347,12 @@
       <title>Embracing Disability Pride Month: Celebrating and Promoting Accessibility</title>
       <link>https://discord.com/blog/embracing-disability-pride-month-celebrating-and-promoting-accessibility</link>
       <description>庆祝残疾骄傲月：庆祝成就，推广无障碍</description>
+    </item>
+  
+    <item>
+      <title>Ep. 3: Proper Prompt Formatting for Enhanced AI Model Performance</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/ep3-proper-prompt-formatting-for-enhanced-ai-model-performance.html</link>
+      <description>本篇博客探讨了如何通过适当的提示格式来提升AI模型性能。文章强调了正确格式化提示的重要性，并介绍了如何使用API简化格式化过程，以及如何通过服务器发送事件（SSE）处理实时响应，从而提高AI交互的动态性和用户体验。</description>
     </item>
   
     <item>
@@ -1173,6 +1245,12 @@
       <title>Announcing Twilio’s AI Startup Searchlight 2.0 Awards Program</title>
       <link>https://www.twilio.com/en-us/blog/twilio-ai-startup-searchlight-2-0</link>
       <description>Twilio推出AI初创企业搜索灯2.0奖项计划，旨在表彰利用大型语言模型、生成式人工智能和大数据等新兴技术与Twilio结合，创新通信和客户体验的初创企业。获奖者将获得Twilio信用额度、苹果礼品卡，并有机会在Twilio市场展示其产品。申请截止日期为2024年9月29日。</description>
+    </item>
+  
+    <item>
+      <title>What does Open Source AI Even Mean</title>
+      <link>https://www.amazingcto.com/what-does-open-source-ai-meta-even-mean/</link>
+      <description>开源AI的含义并不明确。尽管开源AI成为热门话题，但对其定义缺乏共识。开源AI不仅涉及许可证，还包括工具链和训练数据。当前对AI工具和组件的理解不足，导致开源AI的实际含义模糊不清。</description>
     </item>
   
     </channel>
