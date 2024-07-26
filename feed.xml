@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Google claims math breakthrough with proof-solving AI models</title>
-      <link>https://arstechnica.com/?p=2039221</link>
-      <description>Google的DeepMind宣布，其AI系统AlphaProof和AlphaGeometry 2在今年的国际数学奥林匹克竞赛中解决了四道问题，相当于银牌水平。这些系统通过强化学习和大量数据训练，展示了在数学推理方面的能力，但它们的处理速度和依赖人类翻译的步骤限制了其应用范围。尽管如此，这些AI系统可能成为数学研究的有用工具。</description>
-    </item>
-  
-    <item>
       <title>BW #76: Aging legislators (solution)</title>
       <link>https://www.bambooweekly.com/bw-76-aging-legislators-copy/</link>
       <description>美国政治家普遍年龄较大，尤其是参议员。本文分析了美国政治家的年龄数据，发现尽管有年轻政治家出现，但整体上政治家群体仍然老龄化。文章通过GitHub上的数据源，详细探讨了如何处理和整合这些数据，并展示了政治家年龄分布的详细情况。</description>
