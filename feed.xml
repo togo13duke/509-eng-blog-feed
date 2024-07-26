@@ -6,6 +6,42 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Build Applications With Asyncpg and PostgreSQL</title>
+      <link>https://www.timescale.com/blog/how-to-build-applications-with-asyncpg-and-postgresql/</link>
+      <description>TimescaleDB是一个基于PostgreSQL的扩展，专为高效管理大规模时间序列数据设计。它通过自动分区、基于时间的查询优化、数据保留策略和压缩等功能，提高了时间序列数据管理与分析的效率。结合Python的asyncpg库，可以异步执行数据库操作，提高应用性能和响应速度。通过TimescaleDB和asyncpg，开发者可以构建高效且可扩展的应用程序，同时简化数据库管理。</description>
+    </item>
+  
+    <item>
+      <title>Le contrôle de la conformité au RGPD - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
+      <link>https://blog.octo.com/le-controle-de-la-conformite-au-rgpd-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
+      <description>La Commission Nationale de l’Informatique et des Libertés (CNIL) en France organise des journées RGPD pour discuter des actualités en droit du numérique. Ces journées abordent divers sujets, comme le contrôle de la conformité au RGPD, la gestion des risques cyber et l'intelligence artificielle. Les contrôles de la CNIL visent à garantir la sécurité juridique et la transparence des systèmes d’information, avec des équipes spécialisées et des méthodes variées, allant des audits sur place aux vérifications en ligne. Les DPO jouent un rôle crucial dans la conformité au RGPD, et les organismes doivent se préparer à ces contrôles pour assurer leur conformité et coopérer avec la CNIL.</description>
+    </item>
+  
+    <item>
+      <title>Hermes: A Text-to-SQL solution at Swiggy</title>
+      <link>https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e?source=rss----9556560f659---4</link>
+      <description>Swiggy开发了名为Hermes的文本到SQL解决方案，旨在提高数据访问和决策速度。通过自然语言提问，用户可自动生成SQL查询并获取结果，从而节省时间和提高效率。Hermes V2版本进一步优化了数据流程，通过Slack界面和中间件处理，结合知识库和RAG模型，实现了更精准的查询生成和验证。Hermes已在Swiggy内部广泛使用，帮助产品经理、数据科学家和分析师等角色快速获取数据洞察。</description>
+    </item>
+  
+    <item>
+      <title>Improving Video Cache Hits on Swiggy Apps</title>
+      <link>https://bytes.swiggy.com/improving-video-cache-hits-on-swiggy-apps-610f395fff46?source=rss----9556560f659---4</link>
+      <description>Swiggy通过优化视频缓存命中率来提升用户体验，通过分析视频请求宽度分布，采用基于宽度的桶划分技术，减少视频处理成本和响应时间。通过K-means聚类算法将视频请求映射到特定宽度，实现高效的视频加载和缓存管理。</description>
+    </item>
+  
+    <item>
+      <title>How to Set Boundaries with Your Team and Leadership</title>
+      <link>https://spin.atomicobject.com/setting-boundaries-leadership/</link>
+      <description>在高压工作环境中，学会与团队和领导设定界限至关重要。保持积极心态，明确沟通期望和限制，准备应对反对意见，并记录所有交流。同时，找到释放压力的途径，寻求他人建议，以保持最佳工作状态。</description>
+    </item>
+  
+    <item>
+      <title>A Framework for Multi-Model Forecasting on Databricks</title>
+      <link>https://www.databricks.com/blog/framework-multi-model-forecasting-databricks</link>
+      <description>Databricks推出了一种名为“多模型预测”（MMF）的框架，用于比较评估预测模型。该框架支持大规模训练和预测，可同时使用多种预测模型，并包含40多个内置模型。MMF通过自动化和标准化模型输出，帮助团队快速评估和部署解决方案，提高预测准确性，并确保模型管理自动化。</description>
+    </item>
+  
+    <item>
       <title>How our genome is like a generative AI model</title>
       <link>https://www.technologyreview.com/2024/07/26/1095332/genome-is-like-generative-ai/</link>
       <description>我们的基因组如何像生成式AI模型：文章探讨了基因组与生成式AI模型之间的相似性，提出基因组更像是一种生成模型，能够生成新的生物体。通过类比AI模型，如Midjourney和DALL-E，文章解释了基因组如何通过捕捉现有信息来构建新的生物体，强调了基因功能的复杂性和多样性。</description>
@@ -24,6 +60,12 @@
     </item>
   
     <item>
+      <title>Error'd: Too Spicy For My Hat</title>
+      <link>https://thedailywtf.com/articles/too-spicy-for-my-hat</link>
+      <description>《Too Spicy For My Hat》一文由Lyle Seaman撰写，探讨了不同地区对三明治称呼的差异，并指出这些差异只是同一事物的区域变体。文章还涉及了其他趣事，如餐厅餐具、时间戳引用的思考、芬兰交通标志的双语问题以及Air Europa对秘鲁天气描述的不准确。</description>
+    </item>
+  
+    <item>
       <title>The 19th|SurveyMonkey poll: Biden exits the presidential race, endorses Harris</title>
       <link>https://www.surveymonkey.com/curiosity/19th-biden-dropout-poll/?ut_source=rss</link>
       <description>拜登退出总统竞选，支持哈里斯。大多数美国人支持拜登不寻求连任的决定，但对他的支持哈里斯的决定看法不一。民主党人普遍认为这将有利于民主党，而共和党人则持不同意见。许多民主党人对哈里斯在即将到来的选举中对阵特朗普的机会持谨慎态度。美国人对哈里斯的性别和种族背景对其成为总统机会的影响意见分歧。</description>
@@ -33,6 +75,12 @@
       <title>Town Hall #23: Clown World</title>
       <link>https://taylor.town/town-hall-0023</link>
       <description>本文主要讨论了Taylor Town的博客内容，包括技术讨论、会议安排、书籍评论和个人思考。文章涵盖了软件开发、异步任务处理、会议地点和日期，以及书籍推荐和个人生活感悟。</description>
+    </item>
+  
+    <item>
+      <title>After CrowdStrike: Navigating the path to digital resilience</title>
+      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/after-crowdStrike-navigating-path-digital-resilience</link>
+      <description>在CrowdStrike事件之后，企业和技术领导者需要认识到，尽管无法完全避免重大中断，但通过充分理解并建模数字资产，实现全面的系统可见性，并据此最小化风险，可以增强应对意外事件的能力。这包括识别关键资产、采用稳健的工程实践、加强安全措施，并建立有效的团队协作机制，以构建抵御和从数字中断中恢复的基础。</description>
     </item>
   
     <item>
