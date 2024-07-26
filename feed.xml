@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Controversial CRISPR scientist promises “no more gene-edited babies” until society comes around</title>
+      <link>https://www.technologyreview.com/2024/07/26/1095398/controversial-crispr-scientist-promises-no-more-gene-edited-babies-until-society-comes-around/</link>
+      <description>中国生物物理学家贺建奎承诺，在得到社会认可之前，将不再进行基因编辑婴儿的研究。他表示，将专注于动物和非存活人类胚胎的研究，并寻求通过基因编辑预防常见疾病，如阿尔茨海默病。尽管面临争议和伦理问题，贺建奎仍在继续他的基因治疗研究，并寻求在美国和中国获得资金支持。</description>
+    </item>
+  
+    <item>
+      <title>97% of CrowdStrike systems are back online; Microsoft suggests Windows changes</title>
+      <link>https://arstechnica.com/?p=2039500</link>
+      <description>CrowdStrike的Falcon安全软件更新导致约8.5百万Windows系统出现故障，但已恢复97%。微软表示将加强Windows系统的安全性和弹性，并考虑改变内核访问权限。CrowdStrike承诺改进测试流程，并采取措施防止类似事件再次发生。</description>
+    </item>
+  
+    <item>
       <title>Pro tips for using Confluence and Loom together</title>
       <link>https://www.atlassian.com/blog/work-management/confluence-loom-beta-waitlist</link>
       <description>使用Confluence和Loom结合提高工作效率：通过视频消息增加工作上下文，简化团队管理和培训，使项目更新更灵活，并优化设计审查流程。Loom视频使沟通更自然、直观，提高团队连接感和知识传递效率。</description>
@@ -195,6 +207,12 @@
       <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Wagner Souza</title>
       <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-wagner-souza</link>
       <description>Wagner Souza，一位专注于信息安全领域的专家，分享了他在Elastic Gold Contributor Program中的经验。他通过撰写文章和视频，提高了自己的工作效率，并帮助他人学习Elastic技术。他鼓励新成员积极参与，分享知识，以促进社区发展。</description>
+    </item>
+  
+    <item>
+      <title>Effortless Content Publishing: A Developer’s Guide to Adobe Experience Manager</title>
+      <link>https://www.sitepoint.com/adobe-experience-manager-guide/?utm_source=rss</link>
+      <description>Adobe Experience Manager（AEM）简化了内容管理，使营销人员能够像使用Microsoft Word一样轻松创建和编辑网页。AEM Edge Delivery Services进一步优化了这一过程，允许营销人员直接从源文档发布内容，而开发者仍能控制最终输出。通过使用AEM，企业可以提升效率，减少复杂性，实现更快的项目交付和更高的内容质量。</description>
     </item>
   
     <item>
