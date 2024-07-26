@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #76: Aging legislators (solution)</title>
+      <link>https://www.bambooweekly.com/bw-76-aging-legislators-copy/</link>
+      <description>美国政治家普遍年龄较大，尤其是参议员。本文分析了美国政治家的年龄数据，发现尽管有年轻政治家出现，但整体上政治家群体仍然老龄化。文章通过GitHub上的数据源，详细探讨了如何处理和整合这些数据，并展示了政治家年龄分布的详细情况。</description>
+    </item>
+  
+    <item>
+      <title>OpenAI hits Google where it hurts with new SearchGPT prototype</title>
+      <link>https://arstechnica.com/?p=2039302</link>
+      <description>OpenAI推出新型AI搜索引擎SearchGPT，旨在解决由AI生成内容导致的网络搜索问题。该原型结合了OpenAI的AI模型和实时网络数据，提供快速、准确的搜索结果，并直接挑战了Google的搜索服务。尽管技术仍处于早期阶段，但SearchGPT有望改善网络搜索体验，并为内容创作者提供更多选择。</description>
+    </item>
+  
+    <item>
+      <title>Chrome will now prompt some users to send passwords for suspicious files</title>
+      <link>https://arstechnica.com/?p=2039375</link>
+      <description>Chrome浏览器将提示部分用户为可疑文件发送密码，以便进行深度扫描。Google表示，密码和文件将在深度扫描后不久被删除。这一变化旨在检测更多恶意威胁，包括加密存档中的恶意软件。Chrome还引入了两个保护机制，以应对恶意软件的逃避技术。此外，Chrome还更新了下载文件时的通知系统，以区分可疑文件和危险文件。</description>
+    </item>
+  
+    <item>
       <title>Secure Boot is completely broken on 200+ models from 5 big device makers</title>
       <link>https://arstechnica.com/?p=2039140</link>
       <description>超过200款来自5大设备制造商的电脑存在安全漏洞，Secure Boot被完全破坏，导致恶意软件可以轻松感染BIOS，对工业控制和企业网络等关键环境构成严重威胁。</description>
