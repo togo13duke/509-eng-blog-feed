@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Pro tips for using Confluence and Loom together</title>
+      <link>https://www.atlassian.com/blog/work-management/confluence-loom-beta-waitlist</link>
+      <description>使用Confluence和Loom结合提高工作效率：通过视频消息增加工作上下文，简化团队管理和培训，使项目更新更灵活，并优化设计审查流程。Loom视频使沟通更自然、直观，提高团队连接感和知识传递效率。</description>
+    </item>
+  
+    <item>
+      <title>Is There A Simpler Alternative To Google Analytics?</title>
+      <link>https://www.gosquared.com/blog/is-there-a-simpler-alternative-to-google-analytics</link>
+      <description>GoSquared Analytics是一个简单易用的网站分析工具，旨在替代复杂的Google Analytics。它提供简洁的仪表板，支持数据隐私，不依赖广告盈利，且易于集成。GoSquared Analytics提供多种数据，包括访问者行为、流量来源和用户位置，并支持CSV导出，帮助用户构建报告。它适用于从小型初创企业到全球企业，并提供免费试用。</description>
+    </item>
+  
+    <item>
+      <title>At the Olympics, AI is watching you</title>
+      <link>https://arstechnica.com/?p=2039514</link>
+      <description>在2024年巴黎奥运会上，人工智能技术被用于监控和增强安全措施。巴黎部署了新的AI系统，通过分析交通站的监控录像来识别潜在威胁。这一系统在2024年3月的两场Depeche Mode音乐会中首次测试。批评者和支持者都认为，这种算法监控CCTV录像预示着未来监控录像过多，以至于人类操作员无法亲自观看。</description>
+    </item>
+  
+    <item>
+      <title>Parsing: the merit of strictly typed JSON</title>
+      <link>https://www.theguardian.com/info/article/2024/jul/26/parsing-the-merit-of-strictly-typed-json</link>
+      <description>严格类型化的JSON在处理动态内容时能减少用户设备上的错误，通过使用TypeScript和适当的解析库，可以确保数据结构符合预期，从而避免运行时错误，提高代码的可维护性和用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Unlock new efficiencies with the latest updates to Atlassian automation</title>
+      <link>https://www.atlassian.com/blog/announcements/cloud-automation-2024-recap</link>
+      <description>Atlassian自动化工具的最新更新，旨在提高工作效率。这些更新包括更高级的自动化功能、更易于使用的自动化规则构建器和更强大的管理员控制功能。通过这些改进，用户可以更有效地管理复杂的流程，节省时间，并专注于更重要的工作。</description>
+    </item>
+  
+    <item>
       <title>Browserling now has all Androids!</title>
       <link>https://catonmat.net/browserling-has-all-androids</link>
       <description>Browserling更新了其Android云平台，安装了所有Android版本，用户可直接在浏览器中运行在线Android模拟器。该平台为开发者提供测试网站和应用程序在不同Android版本上的服务，被全球成千上万的用户使用。</description>
@@ -33,6 +63,12 @@
       <title>How to Build Applications With Asyncpg and PostgreSQL</title>
       <link>https://www.timescale.com/blog/how-to-build-applications-with-asyncpg-and-postgresql/</link>
       <description>TimescaleDB是一个基于PostgreSQL的扩展，专为高效管理大规模时间序列数据设计。它通过自动分区、基于时间的查询优化、数据保留策略和压缩等功能，提高了时间序列数据管理与分析的效率。结合Python的asyncpg库，可以异步执行数据库操作，提高应用性能和响应速度。通过TimescaleDB和asyncpg，开发者可以构建高效且可扩展的应用程序，同时简化数据库管理。</description>
+    </item>
+  
+    <item>
+      <title>Flags as code in Next.js</title>
+      <link>https://vercel.com/blog/flags-as-code-in-next-js</link>
+      <description>Next.js中的特征标志（Feature Flags）使用Vercel的Flags SDK进行探索，该SDK允许在Next.js和SvelteKit中使用特征标志，并与任何特征标志提供者兼容。SDK通过将特征标志转换为函数，仅在服务器端评估标志，并限制调用端不传递任何参数，从而提供了一种更安全、更灵活的方式来管理特征标志。通过Vercel Toolbar可以轻松地覆盖和测试标志，而Edge Config则允许异步读取配置，从而实现更复杂的配置管理。</description>
     </item>
   
     <item>
@@ -126,6 +162,12 @@
     </item>
   
     <item>
+      <title>Announcing General Availability of Lakehouse Federation</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-lakehouse-federation</link>
+      <description>Databricks宣布Lakehouse Federation在Unity Catalog中正式推出，支持AWS、Azure和GCP。此功能允许用户在一个地方发现、查询和管理所有数据，提高数据发现和治理的效率。新版本增强了性能、稳定性和安全性，并引入了新的连接器和安全选项。</description>
+    </item>
+  
+    <item>
       <title>Town Hall #23: Clown World</title>
       <link>https://taylor.town/town-hall-0023</link>
       <description>本文主要讨论了Taylor Town的博客内容，包括技术讨论、会议安排、书籍评论和个人思考。文章涵盖了软件开发、异步任务处理、会议地点和日期，以及书籍推荐和个人生活感悟。</description>
@@ -147,6 +189,12 @@
       <title>Elastic Security excels in the AV-Comparatives Business Security Test</title>
       <link>https://www.elastic.co/blog/elastic-av-comparatives-business-security-test</link>
       <description>Elastic Security在最新的AV-Comparatives商业安全测试中排名前五，展示了其强大的安全工具和对抗现实世界攻击的能力。该测试不仅评估了基本恶意软件检测，还模拟了企业可能遇到的攻击场景。Elastic Security在真实世界保护测试中几乎满分，在恶意软件保护测试中达到99.5%的准确率，且无误报，确保了高效的安全团队工作流程。</description>
+    </item>
+  
+    <item>
+      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Wagner Souza</title>
+      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-wagner-souza</link>
+      <description>Wagner Souza，一位专注于信息安全领域的专家，分享了他在Elastic Gold Contributor Program中的经验。他通过撰写文章和视频，提高了自己的工作效率，并帮助他人学习Elastic技术。他鼓励新成员积极参与，分享知识，以促进社区发展。</description>
     </item>
   
     <item>
