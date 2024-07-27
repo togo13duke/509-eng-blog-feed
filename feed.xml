@@ -12,6 +12,18 @@
     </item>
   
     <item>
+      <title>Get All Intercepted Network Calls In Cypress</title>
+      <link>https://glebbahmutov.com/blog/get-all-network-calls/</link>
+      <description>本文介绍了如何在Cypress中获取所有拦截的网络调用。通过使用`alias.all`语法，可以一次性获取所有拦截的网络调用。文章提供了具体的代码示例，展示了如何设置网络拦截、使用`cy.get('alias.all')`语法来确认调用数量，以及如何进行灵活的断言。此外，还讨论了如何等待网络拦截和如何使用查询命令来验证特定的响应。</description>
+    </item>
+  
+    <item>
+      <title>Popover API 101</title>
+      <link>https://www.amitmerchant.com/popover-api-101/</link>
+      <description>本文介绍了如何使用现代浏览器中的Popover API创建弹出框。通过简单的HTML属性和CSS样式，开发者可以轻松实现弹出框功能，包括通过点击元素显示、自定义样式和动画效果。Popover API支持轻量级实现，无需依赖外部库，提高了用户体验。</description>
+    </item>
+  
+    <item>
       <title>[Russian] Мой блог на русском языке</title>
       <link>https://yurichev.com/n/russian/</link>
       <description>我的博客分为英文和俄文两个版本，分别发布在https://yurichev.com/n/和https://yurichev.com/nr/。此外，还有短篇笔记在https://yurichev.com/notes-EN.html和https://yurichev.com/notes-RU.html上。内容会逐渐从笔记变为博客文章、PDF文档，最终可能形成书籍。</description>
