@@ -222,6 +222,18 @@
     </item>
   
     <item>
+      <title>Experience an out-of-the-box, no-code texting solution powered by Salesmsg</title>
+      <link>https://www.twilio.com/en-us/blog/no-code-text-solution-with-salesmsg</link>
+      <description>Salesmsg CEO Chris Brisson访谈：Salesmsg是一个集短信和电话于一体的全平台，旨在帮助各种规模的企业轻松与客户沟通。通过Salesmsg，企业可以从电脑或手机上发送双向短信、群发短信，并添加自动化短信到营销活动或工作流程中。Salesmsg自2017年推出以来，已帮助数千家企业引入短信服务，改变了他们与客户沟通的方式。</description>
+    </item>
+  
+    <item>
+      <title>How to configure Auth0 MFA using Twilio Verify</title>
+      <link>https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify</link>
+      <description>本文介绍了如何使用Twilio Verify为Auth0配置多因素认证（MFA）。通过Twilio的Verify API，可以轻松地将用户验证和MFA添加到任何认证流程中，支持通过短信、语音和电子邮件发送的一次性密码（OTP）以及基于应用的推送认证。文章详细说明了如何设置Twilio Verify服务、在Auth0中启用自定义代码以及连接Twilio Verify与Auth0 Action以实现MFA。</description>
+    </item>
+  
+    <item>
       <title>Effortless Content Publishing: A Developer’s Guide to Adobe Experience Manager</title>
       <link>https://www.sitepoint.com/adobe-experience-manager-guide/?utm_source=rss</link>
       <description>Adobe Experience Manager（AEM）简化了内容管理，使营销人员能够像使用Microsoft Word一样轻松创建和编辑网页。AEM Edge Delivery Services进一步优化了这一过程，允许营销人员直接从源文档发布内容，而开发者仍能控制最终输出。通过使用AEM，企业可以提升效率，减少复杂性，实现更快的项目交付和更高的内容质量。</description>
