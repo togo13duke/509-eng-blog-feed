@@ -372,18 +372,6 @@
     </item>
   
     <item>
-      <title>Quiz: Getting Started With Testing in Python</title>
-      <link>https://realpython.com/quizzes/testing-python/</link>
-      <description>本篇博客介绍如何在Python中进行测试，强调测试是Python编程中的重要且复杂的主题，但可以通过简单的步骤开始创建测试。文章提供了一个互动测验，包含19个问题，旨在检验读者对Python测试基础知识的理解。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Python Basics: Lists and Tuples</title>
-      <link>https://realpython.com/quizzes/python-basics-lists-and-tuples/</link>
-      <description>本篇博客介绍了Python中的列表和元组两种数据结构，它们都是有序序列，具有独特的属性和方法。文章通过一个包含6个问题的互动测验，帮助读者检验对创建、索引、切片、迭代以及理解列表和元组差异（特别是可变性的影响）等知识的掌握程度。测验无时间限制，每答对一题得1分，满分100%。</description>
-    </item>
-  
-    <item>
       <title>PsiQuantum plans to build the biggest quantum computing facility in the US</title>
       <link>https://www.technologyreview.com/2024/07/25/1095287/psiquantum-plans-to-build-the-biggest-quantum-computing-facility-in-the-us/</link>
       <description>PsiQuantum计划在美国建造最大的量子计算设施，旨在未来十年内拥有高达一百万个量子比特的量子计算机。该公司采用光子技术，相比传统超导材料，能在更高温度下运行，降低冷却需求，提高能效。PsiQuantum将重点开发大型系统，以实现更有效的错误纠正和商业化。</description>
