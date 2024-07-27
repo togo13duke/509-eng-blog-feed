@@ -228,6 +228,12 @@
     </item>
   
     <item>
+      <title>Integrate Twilio Verify Service with RSA SecurID</title>
+      <link>https://www.twilio.com/en-us/blog/verify-rsa-secureid</link>
+      <description>Twilio与RSA SecurID集成，以提供替代的多因素认证（MFA）解决方案，帮助银行等组织减少因硬件令牌丢失导致的登录问题，提高员工效率和用户体验。通过Twilio Verify服务，员工可以通过手机接收一次性密码（OTP）进行登录。本文介绍了如何设置Twilio Verify服务和Twilio Function，以及如何与RSA Authentication Manager集成。</description>
+    </item>
+  
+    <item>
       <title>How to configure Auth0 MFA using Twilio Verify</title>
       <link>https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify</link>
       <description>本文介绍了如何使用Twilio Verify为Auth0配置多因素认证（MFA）。通过Twilio的Verify API，可以轻松地将用户验证和MFA添加到任何认证流程中，支持通过短信、语音和电子邮件发送的一次性密码（OTP）以及基于应用的推送认证。文章详细说明了如何设置Twilio Verify服务、在Auth0中启用自定义代码以及连接Twilio Verify与Auth0 Action以实现MFA。</description>
