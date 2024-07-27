@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>[Russian] Мой блог на русском языке</title>
+      <link>https://yurichev.com/n/russian/</link>
+      <description>我的博客分为英文和俄文两个版本，分别发布在https://yurichev.com/n/和https://yurichev.com/nr/。此外，还有短篇笔记在https://yurichev.com/notes-EN.html和https://yurichev.com/notes-RU.html上。内容会逐渐从笔记变为博客文章、PDF文档，最终可能形成书籍。</description>
+    </item>
+  
+    <item>
       <title>Elevating Education with Generative AI: Panorama Education’s Journey</title>
       <link>https://medium.com/building-panorama-education/elevating-education-with-generative-ai-panorama-educations-journey-815a37bc5d5f?source=rss----9b022488f892---4</link>
       <description>Panorama Education利用生成式AI技术，通过开发一系列基于AI的功能，旨在提升教育质量和学生福祉。文章详细介绍了公司如何通过实验、原型设计和客户反馈来不断优化这些功能，同时强调了跨职能团队合作、持续评估和透明治理的重要性。这些AI工具能够帮助教育者更有效地理解学生需求，提供及时支持，并改善学习成果。</description>
