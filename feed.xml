@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Ben Recht on Meehl's Philosophical Psychology</title>
-      <link>https://www.jeremykun.com/shortform/2024-07-27-1149/</link>
-      <description>Ben Recht在加州大学伯克利分校的博客系列中探讨了Paul Meehl的《哲学心理学》。他通过简化复杂概念，结合实际例子，分析了科学辩论框架和科学实践。Recht指出，社会科学中的统计研究往往存在问题，并探讨了替代随机对照试验的方法，如F. Gowland Hopkins的1906年实验，为理解科学知识获取提供了新的视角。</description>
-    </item>
-  
-    <item>
       <title>Home Automation in 2024: What’s New?</title>
       <link>https://spin.atomicobject.com/home-automation-2024/</link>
       <description>2024年智能家居自动化领域迎来新进展。多家科技公司推出智能家庭平台，简化设备管理。Matter协议和Thread无线网状协议提供更开放、安全的连接方式。尽管制造商应用仍存在，但Matter正逐步扩展功能，允许用户选择更多智能设备，享受更灵活的智能家居体验。</description>
@@ -521,12 +515,6 @@
       <title>Navigating the Gen AI Revolution: An Engineering Executive’s Perspective on Organizational Adoption</title>
       <link>https://medium.com/gumgum-tech/navigating-the-gen-ai-revolution-an-engineering-executives-perspective-on-organizational-adoption-3711aa48b34d?source=rss----d4c1dee0f87b---4</link>
       <description>在生成式AI革命中，CTO在推动组织采纳方面扮演关键角色。成功实施的关键策略包括获得领导层支持、教育团队、培养内部倡导者、实施试点项目、解决安全和道德问题、培养实验文化以及持续学习和适应。通过这些方法，组织可以充分利用生成式AI的潜力，实现业务目标和创新。</description>
-    </item>
-  
-    <item>
-      <title>A 39 vs 17 week</title>
-      <link>http://blog.mitrichev.ch/2024/07/a-39-vs-17-week.html</link>
-      <description>上周的主要事件是NEAR赞助的Codeforces Round 959，Egor成功解决所有问题，获得第三名，而tourist赢得了冠军。文章讨论了两个问题：第一个问题涉及在数轴上移动的slimes，需要选择k个slimes以最大化最终合并时间；第二个问题要求从字符串中删除一个子串，计算得到的唯一字符串数量。</description>
     </item>
   
     <item>
