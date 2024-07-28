@@ -6,1419 +6,1375 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Ben Recht on Meehl's Philosophical Psychology</title>
-      <link>https://www.jeremykun.com/shortform/2024-07-27-1149/</link>
-      <description>Ben Recht在加州大学伯克利分校的博客系列中探讨了Paul Meehl的《哲学心理学》。他通过简化复杂概念，结合实际例子，分析了科学辩论框架和科学实践。Recht指出，社会科学中的统计研究往往存在问题，并探讨了替代随机对照试验的方法，如F. Gowland Hopkins的1906年实验，为理解科学知识获取提供了新的视角。</description>
+      <title>Pandas office hours, July 21st (recording)</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-july-21st-copy/</link>
+      <description>7月21日，Pandas办公室时间活动举行，Reuven M. Lerner分享了关于Pandas的数据处理技巧和问题解答。活动包括视频和Jupyter笔记本，供订阅者学习。</description>
     </item>
   
     <item>
-      <title>Home Automation in 2024: What’s New?</title>
-      <link>https://spin.atomicobject.com/home-automation-2024/</link>
-      <description>2024年智能家居自动化领域迎来新进展。多家科技公司推出智能家庭平台，简化设备管理。Matter协议和Thread无线网状协议提供更开放、安全的连接方式。尽管制造商应用仍存在，但Matter正逐步扩展功能，允许用户选择更多智能设备，享受更灵活的智能家居体验。</description>
+      <title>How to Make Your WordPress RSS Feed Show Full Articles Instantly</title>
+      <link>https://joshtronic.com/2024/07/21/wordpress-rss-feed-full-articles/</link>
+      <description>WordPress RSS全文显示设置方法：在设置中的阅读部分，将文章摘要更改为全文，然后保存更改。但请注意，更改后需要更新现有文章以触发RSS更新。</description>
     </item>
   
     <item>
-      <title>Get All Intercepted Network Calls In Cypress</title>
-      <link>https://glebbahmutov.com/blog/get-all-network-calls/</link>
-      <description>本文介绍了如何在Cypress中获取所有拦截的网络调用。通过使用`alias.all`语法，可以一次性获取所有拦截的网络调用。文章提供了具体的代码示例，展示了如何设置网络拦截、使用`cy.get('alias.all')`语法来确认调用数量，以及如何进行灵活的断言。此外，还讨论了如何等待网络拦截和如何使用查询命令来验证特定的响应。</description>
+      <title>No More Blue Fridays</title>
+      <link>http://www.brendangregg.com/blog//2024-07-22/no-more-blue-fridays.html</link>
+      <description>随着eBPF技术的发展，未来计算机将不再因软件更新而崩溃，包括涉及内核代码的更新。eBPF作为一种安全的内核执行环境，能够防止系统崩溃，并已在Linux和即将在Windows上得到应用。通过eBPF，可以减少软件部署风险，提高系统安全性。</description>
     </item>
   
     <item>
-      <title>Popover API 101</title>
-      <link>https://www.amitmerchant.com/popover-api-101/</link>
-      <description>本文介绍了如何使用现代浏览器中的Popover API创建弹出框。通过简单的HTML属性和CSS样式，开发者可以轻松实现弹出框功能，包括通过点击元素显示、自定义样式和动画效果。Popover API支持轻量级实现，无需依赖外部库，提高了用户体验。</description>
+      <title>Design Thinking Toolkit, Activity 6 – Card Sorting</title>
+      <link>https://spin.atomicobject.com/card-sorting-user-research/</link>
+      <description>卡牌分类是一种设计思维活动，用于用户研究，通过让参与者对预制的卡片进行优先排序或分组，快速了解用户最关心的问题。这种方法适用于理解产品或功能的价值和重要性，通常需要1小时，参与者为1名引导者和2名以上排序者。活动简单易行，但可能不足以深入复杂的流程或信息架构。通过整理参与者对卡片的排序结果，可以识别出共同模式和主题，为进一步分析提供基础。</description>
     </item>
   
     <item>
-      <title>[Russian] Мой блог на русском языке</title>
-      <link>https://yurichev.com/n/russian/</link>
-      <description>我的博客分为英文和俄文两个版本，分别发布在https://yurichev.com/n/和https://yurichev.com/nr/。此外，还有短篇笔记在https://yurichev.com/notes-EN.html和https://yurichev.com/notes-RU.html上。内容会逐渐从笔记变为博客文章、PDF文档，最终可能形成书籍。</description>
+      <title>Differentiating rate limits in Apache APISIX</title>
+      <link>https://blog.frankel.ch/different-rate-limits-apisix/</link>
+      <description>Apache APISIX 提供了多种插件来限制请求，包括按连接、请求和固定时间窗口限制。本文详细介绍了如何使用 Apache APISIX 实现按消费者和消费者组进行速率限制，以区分不同用户或用户组的请求限制，从而提高API服务的安全性和性能。</description>
     </item>
   
     <item>
-      <title>Elevating Education with Generative AI: Panorama Education’s Journey</title>
-      <link>https://medium.com/building-panorama-education/elevating-education-with-generative-ai-panorama-educations-journey-815a37bc5d5f?source=rss----9b022488f892---4</link>
-      <description>Panorama Education利用生成式AI技术，通过开发一系列基于AI的功能，旨在提升教育质量和学生福祉。文章详细介绍了公司如何通过实验、原型设计和客户反馈来不断优化这些功能，同时强调了跨职能团队合作、持续评估和透明治理的重要性。这些AI工具能够帮助教育者更有效地理解学生需求，提供及时支持，并改善学习成果。</description>
+      <title>[Math] Project Euler 164: solving it using Google OR-tools</title>
+      <link>https://yurichev.com/n/PE_164/</link>
+      <description>本文探讨了如何使用Google OR-tools解决Project Euler的第164题。作者通过编程实现了对20位数字的枚举，这些数字没有前导零，且任意三个连续数字之和不超过9。作者比较了使用Google OR-tools和SAT/SMT求解器在枚举解方面的性能，发现OR-tools在处理此类问题时更为高效。然而，随着数字长度的增加，求解时间逐渐增加。作者还发现，通过排除以零开头的数字，可以显著减少解的数量，从而提高求解效率。</description>
     </item>
   
     <item>
-      <title>Controversial CRISPR scientist promises “no more gene-edited babies” until society comes around</title>
-      <link>https://www.technologyreview.com/2024/07/26/1095398/controversial-crispr-scientist-promises-no-more-gene-edited-babies-until-society-comes-around/</link>
-      <description>中国生物物理学家贺建奎承诺，在得到社会认可之前，将不再进行基因编辑婴儿的研究。他表示，将专注于动物和非存活人类胚胎的研究，并寻求通过基因编辑预防常见疾病，如阿尔茨海默病。尽管面临争议和伦理问题，贺建奎仍在继续他的基因治疗研究，并寻求在美国和中国获得资金支持。</description>
+      <title>Pandas office hours, July 21st</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-july-21st/</link>
+      <description>Pandas办公室时间将于7月21日举行，届时所有付费订阅者均可提问关于Pandas的问题，包括Bamboo Weekly问题和Python+数据程序相关内容。活动将于以色列时间晚上7:15开始，参与者需提前准备好问题。</description>
     </item>
   
     <item>
-      <title>97% of CrowdStrike systems are back online; Microsoft suggests Windows changes</title>
-      <link>https://arstechnica.com/?p=2039500</link>
-      <description>CrowdStrike的Falcon安全软件更新导致约8.5百万Windows系统出现故障，但已恢复97%。微软表示将加强Windows系统的安全性和弹性，并考虑改变内核访问权限。CrowdStrike承诺改进测试流程，并采取措施防止类似事件再次发生。</description>
+      <title>You Should Probably Be Saying “No” to Your Client More Often</title>
+      <link>https://spin.atomicobject.com/say-no-to-a-client/</link>
+      <description>在咨询行业中，有时说“不”是必要的。文章指出，当客户请求超出专业范围、不可行、不道德或不符合用户需求时，应拒绝。同时，要善于引导客户，找到双方都满意的解决方案。平衡是关键，作为顾问，需要在直接和策略之间找到合适的路径。</description>
     </item>
   
     <item>
-      <title>Pro tips for using Confluence and Loom together</title>
-      <link>https://www.atlassian.com/blog/work-management/confluence-loom-beta-waitlist</link>
-      <description>使用Confluence和Loom结合提高工作效率：通过视频消息增加工作上下文，简化团队管理和培训，使项目更新更灵活，并优化设计审查流程。Loom视频使沟通更自然、直观，提高团队连接感和知识传递效率。</description>
+      <title>Request fingerprints and how to use them in Laravel</title>
+      <link>https://www.amitmerchant.com/request-fingerprinting-and-how-to-use-it-in-laravel/</link>
+      <description>Laravel中的请求指纹是一种用于唯一标识用户请求的技术，通过结合URL、IP地址和用户代理等参数生成。这有助于缓存、日志记录和调试，提高应用的可靠性和可维护性。通过使用请求指纹，可以追踪每个请求，为调试提供详细信息，从而优化请求管理和问题隔离。</description>
     </item>
   
     <item>
-      <title>Is There A Simpler Alternative To Google Analytics?</title>
-      <link>https://www.gosquared.com/blog/is-there-a-simpler-alternative-to-google-analytics</link>
-      <description>GoSquared Analytics是一个简单易用的网站分析工具，旨在替代复杂的Google Analytics。它提供简洁的仪表板，支持数据隐私，不依赖广告盈利，且易于集成。GoSquared Analytics提供多种数据，包括访问者行为、流量来源和用户位置，并支持CSV导出，帮助用户构建报告。它适用于从小型初创企业到全球企业，并提供免费试用。</description>
+      <title>Introducing Replit Projects</title>
+      <link>https://blog.replit.com/introducing-replit-projects</link>
+      <description>Replit推出新功能“Replit Projects”，旨在提高团队协作效率。该功能目前处于测试阶段，允许团队成员维护多个代码版本，并轻松合并更改。通过隔离的工作环境，团队成员可以独立工作，避免代码冲突，并实时查看项目历史和合并更改。Replit Projects基于Git，无需额外学习Git即可使用，同时支持高级Git工作流程。</description>
     </item>
   
     <item>
-      <title>At the Olympics, AI is watching you</title>
-      <link>https://arstechnica.com/?p=2039514</link>
-      <description>在2024年巴黎奥运会上，人工智能技术被用于监控和增强安全措施。巴黎部署了新的AI系统，通过分析交通站的监控录像来识别潜在威胁。这一系统在2024年3月的两场Depeche Mode音乐会中首次测试。批评者和支持者都认为，这种算法监控CCTV录像预示着未来监控录像过多，以至于人类操作员无法亲自观看。</description>
+      <title>How Long Should You Train Your Language Model?</title>
+      <link>https://www.databricks.com/blog/how-long-should-you-train-your-language-model</link>
+      <description>训练语言模型的最佳时长和规模是关键问题。研究人员提出了一种新的缩放定律，考虑了训练和推理的成本，以优化模型质量和效率。通过实验证明，在大量数据上训练较小模型可以匹配甚至超越传统方法训练的大模型，从而在推理阶段节省计算资源。这种方法有助于在保证模型质量的同时，降低训练和部署成本。</description>
     </item>
   
     <item>
-      <title>Parsing: the merit of strictly typed JSON</title>
-      <link>https://www.theguardian.com/info/article/2024/jul/26/parsing-the-merit-of-strictly-typed-json</link>
-      <description>严格类型化的JSON在处理动态内容时能减少用户设备上的错误，通过使用TypeScript和适当的解析库，可以确保数据结构符合预期，从而避免运行时错误，提高代码的可维护性和用户体验。</description>
+      <title>Collective #855</title>
+      <link>https://tympanus.net/codrops/collective/collective-855/</link>
+      <description>本周前端与设计领域精彩内容汇总：探索CSS clip-path的魔法，学习Framer Motion Theatre的React动画库，了解文本渲染技术的最新进展，以及如何处理网络空间中的争议。还有精选网站设计、产品设计和CSS技巧分享。</description>
     </item>
   
     <item>
-      <title>Unlock new efficiencies with the latest updates to Atlassian automation</title>
-      <link>https://www.atlassian.com/blog/announcements/cloud-automation-2024-recap</link>
-      <description>Atlassian自动化工具的最新更新，旨在提高工作效率。这些更新包括更高级的自动化功能、更易于使用的自动化规则构建器和更强大的管理员控制功能。通过这些改进，用户可以更有效地管理复杂的流程，节省时间，并专注于更重要的工作。</description>
+      <title>TiDB Adoption at Pinterest</title>
+      <link>https://medium.com/pinterest-engineering/tidb-adoption-at-pinterest-1130ab787a10?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest采用TiDB作为新的存储技术，以替代原有的HBase。由于HBase在扩展和性能上逐渐无法满足业务需求，Pinterest开始寻找下一代存储技术。经过一系列评估和测试，TiDB因其可靠性、性能、功能以及开源社区支持等优势脱颖而出。TiDB的部署采用Teletraan系统，并使用三副本复制和额外的只读副本进行数据快照。Pinterest正在探索将TiDB迁移到EKS，并使用TiSpark进行离线分析。</description>
     </item>
   
     <item>
-      <title>Browserling now has all Androids!</title>
-      <link>https://catonmat.net/browserling-has-all-androids</link>
-      <description>Browserling更新了其Android云平台，安装了所有Android版本，用户可直接在浏览器中运行在线Android模拟器。该平台为开发者提供测试网站和应用程序在不同Android版本上的服务，被全球成千上万的用户使用。</description>
+      <title>Byte-Sized Courses: NVIDIA Offers Self-Paced Career Development in AI and Data Science</title>
+      <link>https://blogs.nvidia.com/blog/ai-data-science-career-development/</link>
+      <description>NVIDIA提供自我定速的AI和数据分析职业发展课程，通过行业专家分享经验，帮助学员加速职业成长。课程涵盖技术培训、认证和资源，如免费软件开发套件、社区资源和专业课程。此外，学员可通过LinkedIn建立人脉，提升职业竞争力。NVIDIA还提供AI学习基础课程和深度学习学院，助力学员掌握AI技能。</description>
     </item>
   
     <item>
-      <title>How to Use the COBOL Parser</title>
-      <link>https://tomassetti.me/how-to-use-the-cobol-parser/</link>
-      <description>本文介绍了Strumenta的COBOL解析器，它基于Chisel方法和开源库Kolasu。解析器可理解COBOL代码的语法，但不执行代码。它支持多种COBOL变体，包括COBOL85、Micro Focus Visual COBOL和Micro Focus ACUCOBOL-GT。解析器旨在帮助用户分析COBOL代码，理解其结构和功能，并支持从COBOL到其他语言的迁移。</description>
+      <title>CrowdStrike fixes start at “reboot up to 15 times” and get more complex from there</title>
+      <link>https://arstechnica.com/?p=2038144</link>
+      <description>CrowdStrike的Falcon安全软件更新出现故障，导致Windows系统崩溃并显示蓝屏错误。微软建议通过重启系统多次尝试修复，或使用备份恢复系统。如果重启无效，可能需要进入安全模式手动删除导致问题的CrowdStrike驱动文件。对于使用BitLocker加密的客户，删除文件前需要恢复密钥。CrowdStrikeCEO表示对此事表示歉意，并正在与受影响客户合作解决问题。</description>
     </item>
   
     <item>
-      <title>Announcing TypeScript 5.6 Beta</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/</link>
-      <description>TypeScript 5.6 Beta版本发布，新增功能包括：禁止nullish和truthy检查、迭代器辅助方法、严格内置迭代器检查、支持任意模块标识符、无检查选项、允许构建时中间错误、编辑器中的区域优先诊断、搜索祖先配置文件以确定项目所有权、lib.d.ts更新、.tsbuildinfo始终写入、尊重文件扩展名和package.json等。</description>
+      <title>How to harness the power of professional development goals</title>
+      <link>https://www.atlassian.com/blog/productivity/professional-development-goals</link>
+      <description>如何利用职业发展目标的力量：设定职业发展目标对于提升职业满意度和动力至关重要。通过明确、可衡量、可实现、相关和时限性的SMART目标框架，结合个人价值观和行动计划，可以有效地推动个人职业成长。例如，通过参加公开演讲课程和在公司活动中担任演讲者，可以提升公众演讲技能。与同事或朋友合作，共同学习和发展，也是实现职业目标的有效途径。</description>
     </item>
   
     <item>
-      <title>What can I do if IMlangConvertCharset is unable to convert from code page 28591 directly to UTF-8?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240726-00/?p=110048</link>
-      <description>如果IMlangConvertCharset无法直接从代码页28591转换为UTF-8，可以通过先将字符从28591转换为UTF-16LE，然后再从UTF-16LE转换为UTF-8来实现转换。这种方法利用了UTF-16LE编码的特性，确保转换过程的有效性。</description>
+      <title>Exploring Internet traffic during the 2024 U.S. Republican National Convention</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-during-the-2024-us-republican-national-convention</link>
+      <description>在2024年美国共和党全国代表大会期间，互联网流量反映了人类行为，尤其在大型政治事件期间出现显著波动。研究发现，自2024年4月以来，美国联邦和州政府以及与政治相关的网站遭受了多次DDoS攻击。大会期间，DNS流量到共和党政治党和筹款网站有所增加，但未观察到明显的流量激增。此外，前总统特朗普在宾夕法尼亚州的一次竞选集会上遭遇刺杀未遂事件后，美国互联网流量显著增加。</description>
     </item>
   
     <item>
-      <title>How to Build Applications With Asyncpg and PostgreSQL</title>
-      <link>https://www.timescale.com/blog/how-to-build-applications-with-asyncpg-and-postgresql/</link>
-      <description>TimescaleDB是一个基于PostgreSQL的扩展，专为高效管理大规模时间序列数据设计。它通过自动分区、基于时间的查询优化、数据保留策略和压缩等功能，提高了时间序列数据管理与分析的效率。结合Python的asyncpg库，可以异步执行数据库操作，提高应用性能和响应速度。通过TimescaleDB和asyncpg，开发者可以构建高效且可扩展的应用程序，同时简化数据库管理。</description>
+      <title>Magnetic Marvels: NVIDIA’s Supercomputers Spin a Quantum Tale</title>
+      <link>https://blogs.nvidia.com/blog/quantum-research-gpus/</link>
+      <description>NVIDIA的超级计算机利用NVIDIA-powered supercomputers进行的研究，验证了量子计算商业化的途径。该研究由诺贝尔奖获得者Giorgio Parisi领导，专注于量子退火，这是一种可能有一天解决传统计算机难以处理的复杂优化问题的方法。研究团队使用了先进的资源来模拟量子退火器（一种特殊的量子计算机）的行为，并展示了GPU加速系统在开发量子计算方法中的关键作用。这项研究有助于科学家通过模拟自然界处理复杂性和无序的方式，开发出解决困难问题的更好算法。</description>
     </item>
   
     <item>
-      <title>Flags as code in Next.js</title>
-      <link>https://vercel.com/blog/flags-as-code-in-next-js</link>
-      <description>Next.js中的特征标志（Feature Flags）使用Vercel的Flags SDK进行探索，该SDK允许在Next.js和SvelteKit中使用特征标志，并与任何特征标志提供者兼容。SDK通过将特征标志转换为函数，仅在服务器端评估标志，并限制调用端不传递任何参数，从而提供了一种更安全、更灵活的方式来管理特征标志。通过Vercel Toolbar可以轻松地覆盖和测试标志，而Edge Config则允许异步读取配置，从而实现更复杂的配置管理。</description>
+      <title>How to fix a Windows PC affected by the global outage</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095161/fix-windows-pc-microsoft-crowdstrike-outage/</link>
+      <description>全球范围内，由于CrowdStrike安全软件更新问题，许多Windows电脑出现故障，导致航班延误、银行服务中断、医院系统瘫痪。CrowdStrike已发布修复方案，受影响的用户需手动删除特定文件以恢复系统。此问题非恶意攻击，预计不会造成长期损害。</description>
     </item>
   
     <item>
-      <title>Hang out with Ars in San Jose and DC this fall for two infrastructure events</title>
-      <link>https://arstechnica.com/?p=2037812</link>
-      <description>秋天，Ars Technica将与IBM合作，在旧金山和华盛顿特区举办两场基础设施会议。会议将探讨人工智能和存储的未来，以及数据管理、基础设施的脆弱性和环境影响等话题。会议将在计算机历史博物馆和华盛顿特区举行，并邀请当地居民优先注册参加。</description>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 9</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240719-00/?p=109980</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者通过实现接口直接创建代理对象，并讨论了使用协程基础设施的优缺点。文章还涉及了C++和Windows Runtime编码技术，并提供了相关代码示例。</description>
     </item>
   
     <item>
-      <title>Geography in Laravel: retrieving geographical data</title>
-      <link>https://freek.dev/2743-geography-in-laravel-retrieving-geographical-data</link>
-      <description>Laravel开发者Freek Van der Herten在其博客上分享了如何从OpenStreetMap获取地理数据并将其转换为PHP对象的方法。文章提供了实用的编程技巧和项目经验，适合关注Laravel、PHP和JavaScript的开发者阅读。</description>
+      <title>Major outages at CrowdStrike, Microsoft leave the world with BSODs and confusion</title>
+      <link>https://arstechnica.com/?p=2038106</link>
+      <description>CrowdStrike和微软近期遭遇重大故障，导致全球多个系统出现蓝屏死机，影响包括电视网络、紧急呼叫中心和奥运会等。CrowdStrike承认其软件更新存在问题，而微软则因Azure服务中断而受到指责。目前尚不清楚责任方，但这次故障可能是有史以来最大的IT中断事件。</description>
     </item>
   
     <item>
-      <title>Le contrôle de la conformité au RGPD - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
-      <link>https://blog.octo.com/le-controle-de-la-conformite-au-rgpd-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
-      <description>La Commission Nationale de l’Informatique et des Libertés (CNIL) en France organise des journées RGPD pour discuter des actualités en droit du numérique. Ces journées abordent divers sujets, comme le contrôle de la conformité au RGPD, la gestion des risques cyber et l'intelligence artificielle. Les contrôles de la CNIL visent à garantir la sécurité juridique et la transparence des systèmes d’information, avec des équipes spécialisées et des méthodes variées, allant des audits sur place aux vérifications en ligne. Les DPO jouent un rôle crucial dans la conformité au RGPD, et les organismes doivent se préparer à ces contrôles pour assurer leur conformité et coopérer avec la CNIL.</description>
+      <title>Improvements to Support Center</title>
+      <link>https://vercel.com/changelog/improvements-to-support-center</link>
+      <description>Vercel更新了支持中心，优化了设计，使理解支持案例状态更便捷。用户可通过搜索主题行、按状态筛选、按最后更新时间、创建日期和严重性排序来查找案例。此功能适用于Pro和Enterprise客户。</description>
     </item>
   
     <item>
-      <title>Hermes: A Text-to-SQL solution at Swiggy</title>
-      <link>https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e?source=rss----9556560f659---4</link>
-      <description>Swiggy开发了名为Hermes的文本到SQL解决方案，旨在提高数据访问和决策速度。通过自然语言提问，用户可自动生成SQL查询并获取结果，从而节省时间和提高效率。Hermes V2版本进一步优化了数据流程，通过Slack界面和中间件处理，结合知识库和RAG模型，实现了更精准的查询生成和验证。Hermes已在Swiggy内部广泛使用，帮助产品经理、数据科学家和分析师等角色快速获取数据洞察。</description>
+      <title>The Download: Windows’ CrowdStrike outage, and wildfire-tracking balloons</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095149/the-download-windows-crowdstrike-outage-and-wildfire-tracking-balloons/</link>
+      <description>Windows系统遭遇大规模故障，影响全球航空公司、银行和电视广播公司。故障源于CrowdStrike的安全更新问题，导致Windows工作站无法启动。同时，公司Urban Sky将使用气球跟踪野火，以更好地管理火灾。</description>
     </item>
   
     <item>
-      <title>The Download: AI’s math solutions, and brewing beer with sunlight</title>
-      <link>https://www.technologyreview.com/2024/07/26/1095394/the-download-ais-math-solutions-and-brewing-beer-with-sunlight/</link>
-      <description>MIT Technology Review最新报道了人工智能在数学问题解决上的突破，DeepMind开发的AI系统成功解决了国际数学奥林匹克竞赛中的复杂问题。同时，文章还探讨了美国在太阳能技术商业化方面的努力，以及如何利用AI技术追踪和标记版权内容。此外，还涉及了基因组与生成性AI模型的相似性以及AI搜索引擎的现状。</description>
+      <title>Don’t Let Fear Drive: How to Break Out of a Fear Loop</title>
+      <link>https://spin.atomicobject.com/break-out-fear-loop/</link>
+      <description>克服恐惧循环，勇敢面对挑战。作者分享了自己如何通过停止让恐惧主导行动，识别恐惧循环的迹象，以及如何通过个人冒险和接受失败来建立自信和韧性。她强调，勇敢不是不害怕，而是即使害怕也继续前进。</description>
     </item>
   
     <item>
-      <title>Improving Video Cache Hits on Swiggy Apps</title>
-      <link>https://bytes.swiggy.com/improving-video-cache-hits-on-swiggy-apps-610f395fff46?source=rss----9556560f659---4</link>
-      <description>Swiggy通过优化视频缓存命中率来提升用户体验，通过分析视频请求宽度分布，采用基于宽度的桶划分技术，减少视频处理成本和响应时间。通过K-means聚类算法将视频请求映射到特定宽度，实现高效的视频加载和缓存管理。</description>
+      <title>The Real Python Podcast – Episode #213: Constraint Programming &amp; Exploring Python's Built-in Functions</title>
+      <link>https://realpython.com/podcasts/rpp/213/</link>
+      <description>本期《Real Python播客》探讨了约束编程和Python内置函数。主持人讨论了使用CP-SAT包解决工作排班问题的文章，以及关于Python内置函数的全面探索教程。此外，还分享了关于卫星追踪船只、处理苹果应用商店拒绝Python应用、讨论Python安全模型变化等新闻和项目。</description>
     </item>
   
     <item>
-      <title>How to Set Boundaries with Your Team and Leadership</title>
-      <link>https://spin.atomicobject.com/setting-boundaries-leadership/</link>
-      <description>在高压工作环境中，学会与团队和领导设定界限至关重要。保持积极心态，明确沟通期望和限制，准备应对反对意见，并记录所有交流。同时，找到释放压力的途径，寻求他人建议，以保持最佳工作状态。</description>
+      <title>Quiz: Python Strings and Character Data</title>
+      <link>https://realpython.com/quizzes/python-strings-update/</link>
+      <description>本篇博客介绍了一篇名为“Python Strings and Character Data Quiz”的互动测验，旨在测试读者对Python字符串数据类型和文本操作的理解。测验包含11个问题，无时间限制，每答对一题得1分，满分100%。建议在阅读完“Strings and Character Data in Python”教程后进行测验。</description>
     </item>
   
     <item>
-      <title>The Real Python Podcast – Episode #214: Build Captivating Display Tables in Python With Great Tables</title>
-      <link>https://realpython.com/podcasts/rpp/214/</link>
-      <description>本篇博客介绍了如何在Python中使用Great Tables库创建引人注目的数据表格。讨论了设计理念、功能特性，以及如何通过实例展示其优势。同时，还提到了如何通过开源项目提升数据技能，并分享了相关资源。</description>
+      <title>Compte-rendu du Café du Produit #32 :&nbsp; “La Discovery et la gestion d'opportunités”</title>
+      <link>https://blog.octo.com/compte-rendu-du-cafe-du-produit-32--la-discovery-et-la-gestion-d'opportunites</link>
+      <description>本文探讨了产品发现和机会管理的重要性，强调了用户需求、团队协作和持续探索在产品开发中的作用。文章介绍了发现流程、机会评估和优先级排序，以及如何通过工具和方法来优化这一过程。</description>
     </item>
   
     <item>
-      <title>A Framework for Multi-Model Forecasting on Databricks</title>
-      <link>https://www.databricks.com/blog/framework-multi-model-forecasting-databricks</link>
-      <description>Databricks推出了一种名为“多模型预测”（MMF）的框架，用于比较评估预测模型。该框架支持大规模训练和预测，可同时使用多种预测模型，并包含40多个内置模型。MMF通过自动化和标准化模型输出，帮助团队快速评估和部署解决方案，提高预测准确性，并确保模型管理自动化。</description>
+      <title>Why we need safeguards against genetic discrimination</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095120/why-we-need-safeguards-against-genetic-discrimination/</link>
+      <description>随着基因数据的普及，我们需要防范基因歧视。基因歧视可能影响保险和医疗决策，甚至导致不公平对待。尽管已有法律保护，但定义和执行存在差异。了解个人权利和公司政策，以及关注相关法律，是保护自己的关键。</description>
     </item>
   
     <item>
-      <title>Ruby 3.2.5 Released</title>
-      <link>https://www.ruby-lang.org/en/news/2024/07/26/ruby-3-2-5-released/</link>
-      <description>Ruby 3.2.5版本发布，包含多个错误修复和REXML安全更新。感谢社区成员的贡献，包括提交错误报告的开发者和用户。</description>
+      <title>Balloons will surf wind currents to track wildfires</title>
+      <link>https://www.technologyreview.com/2024/07/19/1095125/balloons-will-surf-wind-currents-to-track-wildfires/</link>
+      <description>美国公司Urban Sky计划利用高空气球监测野火，以更经济的方式及时发现和追踪火灾。这些气球携带热感器，可从空中测量地面热量，帮助研究人员在火灾发生前了解地面状况，并在火灾燃烧时提供详细的热点信息。这种技术有望提高对火灾的早期预警和应对能力，有助于保护社区和环境。</description>
     </item>
   
     <item>
-      <title>How our genome is like a generative AI model</title>
-      <link>https://www.technologyreview.com/2024/07/26/1095332/genome-is-like-generative-ai/</link>
-      <description>我们的基因组如何像生成式AI模型：文章探讨了基因组与生成式AI模型之间的相似性，提出基因组更像是一种生成模型，能够生成新的生物体。通过类比AI模型，如Midjourney和DALL-E，文章解释了基因组如何通过捕捉现有信息来构建新的生物体，强调了基因功能的复杂性和多样性。</description>
+      <title>★ How to test all routes in your Laravel app by writing just a single Pest test</title>
+      <link>https://freek.dev/2739-how-to-test-all-routes-in-your-laravel-app-by-writing-just-a-single-pest-test</link>
+      <description>通过使用spatie/pest-plugin-route-testing包，您可以轻松地通过编写单个测试来测试Laravel应用中的所有路由，确保它们返回200 HTTP状态码。此包允许您测试所有GET路由，包括特定路由和排除特定路由，同时支持路由模型绑定和设置测试前的准备工作。</description>
     </item>
   
     <item>
-      <title>On the web, data doesn’t define us. It creates us.</title>
-      <link>https://stackoverflow.blog/2024/07/26/on-the-web-data-doesn-t-define-us-it-creates-us/</link>
-      <description>在互联网上，数据不是定义我们的东西，而是塑造我们的存在。本期播客中，Ben采访了罗马卢伊索大学教授Jannis Kallinikos，讨论了他的新书《数据规则：重塑市场经济》，书中探讨了数据的社会影响，以及数据如何过滤我们的世界观和人际互动，强调了数据追踪和监控中的社会责任。</description>
+      <title>Java, but why? The state of Java in 2024</title>
+      <link>https://stackoverflow.blog/2024/07/19/java-but-why-the-state-of-java-in-2024/</link>
+      <description>Java在2024年的状态令人兴奋，资深Java爱好者Lenny Primak认为Java是一项领先的技术，它不再像早期那样冗长，运行良好，且没有近期安全漏洞和故障。Java每六个月就会有一个生产质量的发布，同时还有如Apache Groovy、Virtual Threads、Apache Shiro和Jakarta EE等工具和框架支持开发。</description>
     </item>
   
     <item>
-      <title>H2Eau: 10 Of Our Favorite Swimming Sayings In Other Languages</title>
-      <link>https://www.babbel.com/en/magazine/phrases-about-swimming-in-other-languages</link>
-      <description>在疫情期间，户外游泳因其对心理健康的好处而变得流行。冷水游泳能激活身体“战斗或逃跑”的反应，增加多巴胺水平，带来快乐和兴奋感。本文推荐了七个欧洲的户外游泳地点，包括斯洛文尼亚的布莱德湖、威尔士的斯诺登尼亚、芬兰的萨伊马湖、瑞士苏黎世的莱滕湖、德国巴伐利亚阿尔卑斯山的瓦尔琴湖、希腊米尔奥斯岛的萨拉基尼科海滩和奥地利蒂罗尔的阿琴湖。这些地方不仅风景优美，还提供了独特的游泳体验。</description>
+      <title>The 20 Most Liked Posts on Instagram</title>
+      <link>https://s14415.pcdn.co/blog/most-liked-pictures-on-instagram/</link>
+      <description>Instagram上最受欢迎的20个帖子揭晓，包括足球明星C罗和梅西的动态，以及一个神秘的鸡蛋图片，打破了Instagram的点赞记录。这些帖子展示了社交媒体的强大影响力，以及名人效应在吸引关注和点赞方面的作用。</description>
     </item>
   
     <item>
-      <title>Error'd: Too Spicy For My Hat</title>
-      <link>https://thedailywtf.com/articles/too-spicy-for-my-hat</link>
-      <description>《Too Spicy For My Hat》一文由Lyle Seaman撰写，探讨了不同地区对三明治称呼的差异，并指出这些差异只是同一事物的区域变体。文章还涉及了其他趣事，如餐厅餐具、时间戳引用的思考、芬兰交通标志的双语问题以及Air Europa对秘鲁天气描述的不准确。</description>
+      <title>The Role of APIs in Quantum Computing</title>
+      <link>https://nordicapis.com/the-role-of-apis-in-quantum-computing/</link>
+      <description>量子计算API在简化量子硬件使用方面发挥着关键作用，使开发者能够通过用户友好的界面与量子计算机交互，无需深入了解底层硬件。文章介绍了Cirq、Qiskit、Rigetti Forest SDK等流行的量子计算API，并探讨了它们如何帮助开发者构建和运行量子电路。这些API的兴起推动了量子计算的创新，为材料科学、药物发现等领域带来了新的可能性。</description>
     </item>
   
     <item>
-      <title>The 19th|SurveyMonkey poll: Biden exits the presidential race, endorses Harris</title>
-      <link>https://www.surveymonkey.com/curiosity/19th-biden-dropout-poll/?ut_source=rss</link>
-      <description>拜登退出总统竞选，支持哈里斯。大多数美国人支持拜登不寻求连任的决定，但对他的支持哈里斯的决定看法不一。民主党人普遍认为这将有利于民主党，而共和党人则持不同意见。许多民主党人对哈里斯在即将到来的选举中对阵特朗普的机会持谨慎态度。美国人对哈里斯的性别和种族背景对其成为总统机会的影响意见分歧。</description>
+      <title>Metaspace setting and tuning in JDK 8+ Applications (in and outside containers)</title>
+      <link>https://developers.redhat.com/articles/2024/07/19/metaspace-setting-and-tuning-jdk-8-applications-and-outside-containers</link>
+      <description>本文探讨了JDK 8+中Metaspace的设置和调整，包括其在容器和非容器应用中的使用。文章解释了Metaspace如何从JDK 7的永久代迁移到非堆内存，并讨论了如何设置和调整Metaspace的大小，以避免内存溢出错误。此外，还提供了在容器和非容器环境中处理Metaspace问题的策略和工具。</description>
     </item>
   
     <item>
-      <title>Announcing General Availability of Lakehouse Federation</title>
-      <link>https://www.databricks.com/blog/announcing-general-availability-lakehouse-federation</link>
-      <description>Databricks宣布Lakehouse Federation在Unity Catalog中正式推出，支持AWS、Azure和GCP。此功能允许用户在一个地方发现、查询和管理所有数据，提高数据发现和治理的效率。新版本增强了性能、稳定性和安全性，并引入了新的连接器和安全选项。</description>
+      <title>Error'd: Pennies From Heaven</title>
+      <link>https://thedailywtf.com/articles/pennies-from-heaven</link>
+      <description>Lyle Seaman在《Error'd》专栏中分享了几个技术相关的趣事，包括Siemens Mobility的版权问题、Doordash的软件故障、Samsung Galaxy Watch 7的促销争议以及一个餐厅的创意收入方式。文章还提到了社区成员对资金支持的请求。</description>
     </item>
   
     <item>
-      <title>Town Hall #23: Clown World</title>
-      <link>https://taylor.town/town-hall-0023</link>
-      <description>本文主要讨论了Taylor Town的博客内容，包括技术讨论、会议安排、书籍评论和个人思考。文章涵盖了软件开发、异步任务处理、会议地点和日期，以及书籍推荐和个人生活感悟。</description>
+      <title>Highlight Elements During Testing</title>
+      <link>https://glebbahmutov.com/blog/highlight-element/</link>
+      <description>本文介绍了如何使用Selenium、Playwright和Cypress在测试中突出显示元素。作者通过实际操作展示了如何修改元素样式以突出显示，并提供了Cypress测试的示例代码。此外，还讨论了Cypress与其他测试运行器的不同之处，以及如何使用Cypress的内置功能来简化测试过程。</description>
     </item>
   
     <item>
-      <title>After CrowdStrike: Navigating the path to digital resilience</title>
-      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/after-crowdStrike-navigating-path-digital-resilience</link>
-      <description>在CrowdStrike事件之后，企业和技术领导者需要认识到，尽管无法完全避免重大中断，但通过充分理解并建模数字资产，实现全面的系统可见性，并据此最小化风险，可以增强应对意外事件的能力。这包括识别关键资产、采用稳健的工程实践、加强安全措施，并建立有效的团队协作机制，以构建抵御和从数字中断中恢复的基础。</description>
+      <title>Weeknotes: GPT-4o mini, LLM 0.15, sqlite-utils 3.37 and building a staging environment</title>
+      <link>https://simonwillison.net/2024/Jul/19/weeknotes/#atom-entries</link>
+      <description>本周，我发布了GPT-4o mini和LLM 0.15版本，并修复了sqlite-utils中的bug。我还致力于构建Datasette Cloud的预演环境，以简化代码更改。此外，我分享了关于AI和Python的见解，并发布了多个项目更新。</description>
     </item>
   
     <item>
-      <title>AI and Innovation Take Center Stage at trivago Tech Get Together 2024</title>
-      <link>https://tech.trivago.com/post/2024-07-25-ai-and-innovation-innovation-take-center-stage-at-trivago-tech-get-together-2024/</link>
-      <description>2024年trivago Tech Get Together活动聚焦于人工智能，超过300名技术人才参与，通过演讲、研讨会和圆桌讨论等形式，分享了关于AI的最新趋势和挑战。活动强调了AI在多个行业的颠覆性影响，并探讨了其在商业、感知和自主领域的应用。与会者就AI的机遇与挑战进行了深入交流，共同庆祝技术团队的成就。</description>
+      <title>New in our Playbook: AI ethics training</title>
+      <link>https://thoughtbot.com/blog/new-in-our-playbook-ai-ethics-training</link>
+      <description>thoughtbot发布了一项新的AI伦理培训，旨在确保其AI解决方案符合公司价值观。他们推荐了Linux Foundation提供的免费、自定步调的AI伦理和数据科学课程，以提升团队的知识和责任意识。</description>
     </item>
   
     <item>
-      <title>Elastic Security excels in the AV-Comparatives Business Security Test</title>
-      <link>https://www.elastic.co/blog/elastic-av-comparatives-business-security-test</link>
-      <description>Elastic Security在最新的AV-Comparatives商业安全测试中排名前五，展示了其强大的安全工具和对抗现实世界攻击的能力。该测试不仅评估了基本恶意软件检测，还模拟了企业可能遇到的攻击场景。Elastic Security在真实世界保护测试中几乎满分，在恶意软件保护测试中达到99.5%的准确率，且无误报，确保了高效的安全团队工作流程。</description>
+      <title>Elasticians give back to causes they care about — without taking PTO</title>
+      <link>https://www.elastic.co/blog/culture-elasticians-vto-benefit</link>
+      <description>Elasticians利用他们的志愿者时间（VTO）回馈社会，如帮助无家可归者、支持动物庇护所和参与地图绘制等公益活动。公司鼓励员工利用VTO参与他们关心的慈善事业，并通过“Dollars for Doers”计划捐赠志愿者小时数。这不仅有助于社区，也促进了团队合作和个人成长。</description>
     </item>
   
     <item>
-      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Wagner Souza</title>
-      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-wagner-souza</link>
-      <description>Wagner Souza，一位专注于信息安全领域的专家，分享了他在Elastic Gold Contributor Program中的经验。他通过撰写文章和视频，提高了自己的工作效率，并帮助他人学习Elastic技术。他鼓励新成员积极参与，分享知识，以促进社区发展。</description>
+      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Jeevanandham Selvaraj</title>
+      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-jeevanandham-selvaraj</link>
+      <description>Jeevanandham Selvaraj是一位拥有10年IT经验的Elastic Gold贡献者，专注于使用ELK Stack建立可观察性和企业搜索系统。他通过撰写技术文章分享经验，帮助他人解决问题，并从Elastic贡献者计划中获得了宝贵的技能和知识，这对他的职业生涯和个人发展都有很大帮助。</description>
     </item>
   
     <item>
-      <title>Find Your Squad and Lock In: Get Hyped for VALORANT Champions with a Quest &amp; Upcoming Shop Items!</title>
-      <link>https://discord.com/blog/valorant-champions-quest-upcoming-shop-items</link>
-      <description>《VALORANT冠军赛》即将到来，Discord将推出新活动，包括Discord任务和即将到来的商店物品。玩家可以加入队伍，完成15分钟的游戏时间，获得专属头像装饰。同时，商店将推出更多VALORANT主题装饰和效果。</description>
+      <title>Build an Image Editing WhatsApp Chatbot with Twilio and AI</title>
+      <link>https://www.twilio.com/en-us/blog/build-image-editing-whatsapp-chatbot-twilio-ai</link>
+      <description>本文介绍了如何使用Twilio和AI构建一个能够编辑图像背景的WhatsApp聊天机器人。通过Twilio的编程消息API发送和接收WhatsApp消息，并使用Transformers.js库和Sharp模块进行图像处理，实现图像背景的去除和替换。教程详细介绍了环境搭建、所需组件、代码实现等步骤，旨在帮助开发者创建一个功能强大的图像编辑聊天机器人。</description>
     </item>
   
     <item>
-      <title>Experience an out-of-the-box, no-code texting solution powered by Salesmsg</title>
-      <link>https://www.twilio.com/en-us/blog/no-code-text-solution-with-salesmsg</link>
-      <description>Salesmsg CEO Chris Brisson访谈：Salesmsg是一个集短信和电话于一体的全平台，旨在帮助各种规模的企业轻松与客户沟通。通过Salesmsg，企业可以从电脑或手机上发送双向短信、群发短信，并添加自动化短信到营销活动或工作流程中。Salesmsg自2017年推出以来，已帮助数千家企业引入短信服务，改变了他们与客户沟通的方式。</description>
+      <title>BW #75: Refugees (solution)</title>
+      <link>https://www.bambooweekly.com/bw-75-refugees-solution/</link>
+      <description>本周探讨了难民问题，分析了难民数量、来源和去向。通过世界银行数据，构建了包含国家、目的地和人口的多维数据集，并探讨了2000年和2023年接受难民最多的十个国家。结果显示，伊朗、土耳其、约旦和德国在2023年接受了大量难民，与2000年相比，难民数量显著增加。</description>
     </item>
   
     <item>
-      <title>Integrate Twilio Verify Service with RSA SecurID</title>
-      <link>https://www.twilio.com/en-us/blog/verify-rsa-secureid</link>
-      <description>Twilio与RSA SecurID集成，以提供替代的多因素认证（MFA）解决方案，帮助银行等组织减少因硬件令牌丢失导致的登录问题，提高员工效率和用户体验。通过Twilio Verify服务，员工可以通过手机接收一次性密码（OTP）进行登录。本文介绍了如何设置Twilio Verify服务和Twilio Function，以及如何与RSA Authentication Manager集成。</description>
+      <title>[SAT] Parallel SAT solver Mallob used in DynexCoin cryptocurrency</title>
+      <link>https://yurichev.com/n/mallob/</link>
+      <description>Mallob，一款并行SAT求解器，意外地被用于新的加密货币DynexCoin中，这引发了作者对“街头自有其用途”这一名言的思考。</description>
     </item>
   
     <item>
-      <title>How to configure Auth0 MFA using Twilio Verify</title>
-      <link>https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify</link>
-      <description>本文介绍了如何使用Twilio Verify为Auth0配置多因素认证（MFA）。通过Twilio的Verify API，可以轻松地将用户验证和MFA添加到任何认证流程中，支持通过短信、语音和电子邮件发送的一次性密码（OTP）以及基于应用的推送认证。文章详细说明了如何设置Twilio Verify服务、在Auth0中启用自定义代码以及连接Twilio Verify与Auth0 Action以实现MFA。</description>
+      <title>Using pnpm on Heroku</title>
+      <link>https://blog.heroku.com/using-pnpm-on-heroku</link>
+      <description>Heroku现在支持使用pnpm作为Node.js应用的依赖管理器，这可以显著提高安装速度并节省磁盘空间。本文介绍了如何设置pnpm项目，创建一个简单的Express应用，并将其部署到Heroku。通过使用pnpm，开发者可以更高效地构建和部署Node.js应用。</description>
     </item>
   
     <item>
-      <title>Effortless Content Publishing: A Developer’s Guide to Adobe Experience Manager</title>
-      <link>https://www.sitepoint.com/adobe-experience-manager-guide/?utm_source=rss</link>
-      <description>Adobe Experience Manager（AEM）简化了内容管理，使营销人员能够像使用Microsoft Word一样轻松创建和编辑网页。AEM Edge Delivery Services进一步优化了这一过程，允许营销人员直接从源文档发布内容，而开发者仍能控制最终输出。通过使用AEM，企业可以提升效率，减少复杂性，实现更快的项目交付和更高的内容质量。</description>
+      <title>Introducing CoreWCF and WCF Client Azure Queue Storage bindings for .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-core-wcf-and-wcf-client-azure-queue-storage-bindings-for-dotnet/</link>
+      <description>微软发布了两个新的.NET库：CoreWCF Azure Queue Storage服务库和WCF Azure Queue Storage客户端库，旨在无缝集成CoreWCF服务与Azure Queue Storage，以实现可靠的消息传递和可扩展的通信。这些库支持跨平台，包括Windows、Linux和Mac，并提供了详细的配置和安全性选项，帮助开发者构建可靠和可扩展的应用程序。</description>
     </item>
   
     <item>
-      <title>Google claims math breakthrough with proof-solving AI models</title>
-      <link>https://arstechnica.com/?p=2039221</link>
-      <description>Google的DeepMind宣布，其AI系统AlphaProof和AlphaGeometry 2在今年的国际数学奥林匹克竞赛中解决了四道问题，相当于银牌水平。这些系统通过强化学习和大量数据训练，展示了在数学推理方面的能力，但它们的处理速度和依赖人类翻译的步骤限制了其应用范围。尽管如此，这些AI系统可能成为数学研究的有用工具。</description>
+      <title>The Fourth Beta of Android 15</title>
+      <link>http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html</link>
+      <description>Android 15第四个Beta版发布，为开发者提供了最终的平台稳定版API和所有应用行为，包括最新的修复和优化。开发者需确保应用兼容性，并利用新特性如预测性动画、低光模式、字体变化等提升用户体验。同时，需注意新功能如隐私空间、屏幕共享等对应用的影响，并使用最新版本的Android Studio进行开发测试。</description>
     </item>
   
     <item>
-      <title>BW #76: Aging legislators (solution)</title>
-      <link>https://www.bambooweekly.com/bw-76-aging-legislators-copy/</link>
-      <description>美国政治家普遍年龄较大，尤其是参议员。本文分析了美国政治家的年龄数据，发现尽管有年轻政治家出现，但整体上政治家群体仍然老龄化。文章通过GitHub上的数据源，详细探讨了如何处理和整合这些数据，并展示了政治家年龄分布的详细情况。</description>
+      <title>The next Nvidia driver makes even more GPUs “open,” in a specific, quirky way</title>
+      <link>https://arstechnica.com/?p=2037900</link>
+      <description>NVIDIA最新驱动程序使更多GPU以独特方式“开放”，通过开源GPU内核模块提高了应用性能，并增加了新功能。大多数现代NVIDIA GPU将默认使用这些开源模块，但用户空间驱动程序和固件仍保持封闭。这一举措使NVIDIA更接近Linux社区，但开源程度有限，并非所有GPU都能使用这些开源驱动程序。</description>
     </item>
   
     <item>
-      <title>OpenAI hits Google where it hurts with new SearchGPT prototype</title>
-      <link>https://arstechnica.com/?p=2039302</link>
-      <description>OpenAI推出新型AI搜索引擎SearchGPT，旨在解决由AI生成内容导致的网络搜索问题。该原型结合了OpenAI的AI模型和实时网络数据，提供快速、准确的搜索结果，并直接挑战了Google的搜索服务。尽管技术仍处于早期阶段，但SearchGPT有望改善网络搜索体验，并为内容创作者提供更多选择。</description>
+      <title>.NET 6 will reach End of Support on November 12, 2024</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-6-end-of-support/</link>
+      <description>.NET 6将于2024年11月12日停止支持，之后将不再提供更新、安全修复和技术支持。建议用户在截止日期前升级到.NET 8以保持支持。企业Linux公司也提供.NET支持，但可能有不同的政策。升级到.NET 8涉及更改项目文件中的TargetFramework属性，并更新开发环境。</description>
     </item>
   
     <item>
-      <title>Chrome will now prompt some users to send passwords for suspicious files</title>
-      <link>https://arstechnica.com/?p=2039375</link>
-      <description>Chrome浏览器将提示部分用户为可疑文件发送密码，以便进行深度扫描。Google表示，密码和文件将在深度扫描后不久被删除。这一变化旨在检测更多恶意威胁，包括加密存档中的恶意软件。Chrome还引入了两个保护机制，以应对恶意软件的逃避技术。此外，Chrome还更新了下载文件时的通知系统，以区分可疑文件和危险文件。</description>
+      <title>The 2024 HashiCorp Principle Awards</title>
+      <link>https://www.hashicorp.com/blog/the-2024-hashicorp-principle-awards</link>
+      <description>2024年，HashiCorp通过HashiCorp Principle Awards表彰体现公司原则的员工。文章介绍了获奖团队和决赛团队，他们通过非凡的贡献和协作展示了公司的原则。其中，Madrid Tech Hub团队在建立新办公室时体现了公司的九大原则，包括诚信、善良、实用主义等。此外，基础设施云发布团队和可访问性修复团队也展示了公司的原则。</description>
     </item>
   
     <item>
-      <title>Secure Boot is completely broken on 200+ models from 5 big device makers</title>
-      <link>https://arstechnica.com/?p=2039140</link>
-      <description>超过200款来自5大设备制造商的电脑存在安全漏洞，Secure Boot被完全破坏，导致恶意软件可以轻松感染BIOS，对工业控制和企业网络等关键环境构成严重威胁。</description>
+      <title>Key Steps in Machine Learning Model Development | Black Friday DataSet</title>
+      <link>https://blog.avenuecode.com/key-steps-in-machine-learning-model-development-black-friday-dataset</link>
+      <description>本文探讨了机器学习模型开发的关键步骤，以预测黑五销售数据集为例。通过分析销售数据，了解客户行为和产品性能，开发预测模型，帮助零售公司制定数据驱动的策略，提高运营和盈利能力。文章详细介绍了数据探索、特征工程、模型选择和评估等过程，并强调了模型部署和公平性分析的重要性。</description>
     </item>
   
     <item>
-      <title>Roundtables: CRISPR Babies—Six years later</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095301/roundtables-crispr-babies-six-years-later/</link>
-      <description>六年后，CRISPR婴儿技术引发争议。MIT Technology Review的Mat Honan和Antonio Regalado与CRISPR先驱He Jiankui讨论了基因编辑技术及其在试管婴儿诊所的未来。</description>
+      <title>OpenAI launches GPT-4o mini, which will replace GPT-3.5 in ChatGPT</title>
+      <link>https://arstechnica.com/?p=2037843</link>
+      <description>OpenAI推出GPT-4o mini，作为ChatGPT中GPT-3.5的替代品，面向免费用户和付费用户免费提供。该模型具备多模态功能，并采用“指令层次”技术，提高安全性。小型语言模型成本更低，适用于简单任务，有助于降低能耗和用户成本。</description>
     </item>
   
     <item>
-      <title>A new tool for copyright holders can show if their work is in AI training data</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095347/a-new-tool-for-copyright-holders-can-show-if-their-work-is-in-ai-training-data/</link>
-      <description>一项新工具帮助版权所有者检测其作品是否被用于AI训练数据，由伦敦帝国学院的研究团队开发。该工具名为“版权陷阱”，通过在文本中嵌入隐藏的文本标记，以检测作品是否被AI模型使用。这一技术旨在解决版权所有者与科技公司之间的知识产权纠纷，但目前存在一些局限性，如可能影响文本可读性和被AI模型检测到的问题。</description>
+      <title>Building a Real-Time Analytics Pipeline for Race Cars</title>
+      <link>https://www.singlestore.com/blog/building-a-real-time-analytics-pipeline-for-race-cars</link>
+      <description>构建实时赛车数据分析管道，通过使用SingleStore技术处理传感器数据，Gaucho Racing团队实现了从车辆传感器收集数据，并通过MQTT协议传输至云端，实时上传至SingleStore数据库。该系统在赛道上实现了270毫秒的平均延迟，展示了数据在赛车运动中的关键作用。</description>
     </item>
   
     <item>
-      <title>Making security easy: How we are helping you fix vulnerabilities in your Android apps</title>
-      <link>http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html</link>
-      <description>Google致力于简化Android应用的安全性，通过扫描Google Play上的应用来检测常见的安全漏洞，并提供修复建议。新推出的Android应用安全知识库（AAKB）提供详细的指导，帮助开发者编写更安全的代码，并通过Android Studio的lint检查直接应用这些指导。这些措施旨在构建一个更安全的Android生态系统。</description>
+      <title>Data Cloud Fundamentals: A Guided Tour</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/data-cloud-fundamentals-a-guided-tour.html</link>
+      <description>本文介绍了Salesforce Data Cloud的基本概念和应用案例。通过Coral Cloud Resort的实例，展示了如何利用Data Cloud统一数据、解锁客户洞察，并利用数据驱动决策，提升客户体验。文章强调了数据云在整合数据源、实现身份解析、丰富数据洞察和驱动业务成果方面的核心能力。</description>
     </item>
   
     <item>
-      <title>Google DeepMind’s AI systems can now solve complex math problems</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095315/google-deepminds-ai-systems-can-now-solve-complex-math-problems/</link>
-      <description>Google DeepMind开发的AI系统AlphaProof和AlphaGeometry 2成功解决了国际数学奥林匹克竞赛中的复杂数学问题，标志着机器学习在解决逻辑推理问题上的重大进步。这些系统在数学领域展现出前所未有的能力，有望推动人工智能与人类数学家的合作，共同解决和创造新的数学问题。</description>
+      <title>The Top Social Media Manager Interview Questions: Key Insights to Hire Successfully</title>
+      <link>https://www.brandwatch.com/blog/social-media-manager-interview-questions/</link>
+      <description>本文探讨了招聘社交媒体经理的关键面试问题。强调了社交媒体经理在品牌形象、客户服务和危机管理中的重要性，并提出了评估候选人专业知识、经验、技能和适应性的问题。建议关注候选人的内容创作能力、对社交媒体平台的了解、成功和失败的案例研究、危机管理技能以及对最新趋势的掌握。</description>
     </item>
   
     <item>
-      <title>Secure Node.js Applications from Supply Chain Attacks</title>
-      <link>https://auth0.com/blog/secure-nodejs-applications-from-supply-chain-attacks/</link>
-      <description>本文深入探讨了如何保护Node.js应用程序免受供应链攻击。文章强调了NPM生态系统中的安全担忧，并提供了最佳实践来减轻供应链攻击和软件开发生命周期中的各种安全弱点。建议包括使用锁文件、更新依赖项、审计依赖项、运行应用程序以无特权的模式、使用只读文件系统以及采用无分发版的镜像。</description>
+      <title>Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model</title>
+      <link>https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/</link>
+      <description>Mistral AI与NVIDIA共同推出Mistral NeMo 12B，这是一款先进的语言模型，适用于企业应用，支持聊天机器人、多语言任务、编码和总结。该模型结合了Mistral AI在训练数据方面的专长和NVIDIA优化的硬件和软件生态系统，提供高性能，并具有高精度、灵活性和高效性。Mistral NeMo采用Apache 2.0许可，使用FP8数据格式，适用于企业级使用。</description>
     </item>
   
     <item>
-      <title>Moody's is now a Browserling customer!</title>
-      <link>https://catonmat.net/moodys-browserling-customer</link>
-      <description>Moody's成为Browserling客户，标志着Browserling在浏览器技术领域迈出重要一步。Browserling推出Android 14，提供多种浏览器相关工具和指南，鼓励用户订阅获取最新资讯。</description>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 8</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240718-00/?p=109977</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动。作者详细介绍了如何使用traits类来处理Windows Runtime异步接口的不同部分，并展示了如何实现IAsyncAction和IAsyncOperation接口。文章还讨论了如何处理成功和失败的活动，并介绍了如何使用proxy对象来简化接口的创建。</description>
     </item>
   
     <item>
-      <title>GitHub Accelerator Showcase: Celebrating our second cohort and what’s next</title>
-      <link>https://github.blog/open-source/maintainers/github-accelerator-showcase-celebrating-our-second-cohort-and-whats-next/</link>
-      <description>GitHub Accelerator Showcase庆祝第二期开源AI项目，展示11个项目的维护者故事和项目演示。这些项目在10周的课程中获得了指导和支持，包括法律、伦理、社区健康、可持续性和安全性等方面的知识。GitHub Accelerator旨在推动开源AI的发展，并鼓励更多人参与其中。</description>
+      <title>Building supply chain resilience with AI</title>
+      <link>https://www.technologyreview.com/2024/07/18/1094899/building-supply-chain-resilience-with-ai/</link>
+      <description>人工智能助力构建供应链韧性，以应对疫情等不确定性带来的挑战。加拿大肥料公司Nutrien利用云技术和AI/ML提高供应链透明度，实现实时可见性，优化库存管理和供应链运营。企业需通过AI/ML分析云中数据，提升供应链的差异化服务、速度和可靠性。</description>
     </item>
   
     <item>
-      <title>Beer, hydrogen, and heat: Why the US is still trying to make mirror-magnified solar energy work</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095304/beer-hydrogen-and-heat-why-the-us-is-still-trying-to-make-mirror-magnified-solar-energy-work/</link>
-      <description>美国继续投资于将阳光转化为热能的技术，以推动可再生能源的发展。能源部将投资3300万美元支持九个基于集中式太阳能热能的试点项目，包括为酿酒厂提供蒸汽、生产低碳燃料和电网的长期储能。这些项目旨在降低成本，提高效率，并解决气候变化问题。</description>
+      <title>Hot Deal, Cool Prices: GeForce NOW Summer Sale Offers Priority and Ultimate Memberships Half Off</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2024/</link>
+      <description>NVIDIA GeForce NOW夏季促销活动正在进行，提供高性能云游戏服务，优先会员和终极会员资格享受半价优惠。活动期间，新加入云服务的游戏包括Capcom的最新作品《Kunitsu-Gami: Path of the Goddess》。此外，玩家可通过Xbox.com游戏页面直接访问GeForce NOW上的支持PC游戏。</description>
     </item>
   
     <item>
-      <title>In my Visual Studio project, I set my Conformance mode to permissive, but it’s still not permissive</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240725-00/?p=110045</link>
-      <description>在Visual Studio项目中，即使将合规模式设置为宽松模式，也可能不会生效。这是因为从Visual Studio 2019版本16.8开始，/permissive-选项会隐式设置为/stand:c++latest选项，并且在16.11版本中由/stand:c++20选项设置。解决方法是明确在“附加选项”框中添加/permissive标志，以确保宽松模式被正确启用。</description>
+      <title>Meet Caddy – Meta’s next-gen mixed reality CAD software</title>
+      <link>https://engineering.fb.com/2024/07/18/virtual-reality/caddy-cad-mixed-reality-mr-meta/</link>
+      <description>Meta推出新一代混合现实CAD软件Caddy，由机械工程师团队开发，旨在解决远程会议中3D模型展示的局限性。该软件与Llama 3集成，可通过多种平台收听相关播客。</description>
     </item>
   
     <item>
-      <title>3 Ways CARIAD Configures Docker Business for Security and Compliance</title>
-      <link>https://www.docker.com/blog/3-ways-cariad-configures-docker-business-for-security-and-compliance/</link>
-      <description>CARIAD利用Docker Business平台，通过集成单点登录和图像访问管理，确保安全合规地更新汽车软件。结合WSL 2技术，CARIAD在Windows系统上运行Linux容器，提高开发效率。这些策略为大型企业提供了安全、合规的Docker部署方案。</description>
-    </item>
-  
-    <item>
-      <title>Making WAF ML models go brrr: saving decades of processing time</title>
-      <link>https://blog.cloudflare.com/making-waf-ai-models-go-brr</link>
-      <description>Cloudflare通过优化其WAF机器学习模型，将处理速度提高了5.5倍，将执行时间缩短了约82%。这项改进通过优化特征提取和推理过程实现，包括使用Aho-Corasick算法和Rust的match语句，以及改进正则表达式替换逻辑，显著提升了系统效率。这些优化不仅减少了延迟，还提高了对未知威胁的保护能力。</description>
-    </item>
-  
-    <item>
-      <title>Unleash the Dragonborn: ‘Elder Scrolls V: Skyrim Special Edition’ Joins GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-elder-scrolls-skyrim/</link>
-      <description>《上古卷轴V：天际特别版》加入GeForce NOW，玩家可在云平台上体验这款经典角色扮演游戏。本周GeForce NOW新增九款游戏，包括生存恐怖游戏《CONSCRIPT》。此外，GeForce NOW夏季促销活动正在进行，新会员可享受50%折扣。</description>
-    </item>
-  
-    <item>
-      <title>Data Fetching Patterns in Single-Page Applications</title>
-      <link>https://freek.dev/2741-data-fetching-patterns-in-single-page-applications</link>
-      <description>单页应用中数据获取模式分析：本文探讨了在单页应用中从远程源获取数据时，保持响应性和在查询过程中向用户提供反馈的五种模式。</description>
-    </item>
-  
-    <item>
-      <title>The Download: US quantum computing, and AI garbage</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095281/the-download-us-quantum-computing-ai-garbage/</link>
-      <description>美国量子计算公司PsiQuantum计划在芝加哥建立一个大型量子计算设施，预计未来十年内将拥有多达一百万个量子比特。同时，研究发现，AI训练过程中使用AI生成的数据会导致模型输出质量逐渐下降，这对当前的大型AI模型可能产生严重影响。</description>
-    </item>
-  
-    <item>
-      <title>How to Approach Tech Stack Selection in the Era of AI</title>
-      <link>https://spin.atomicobject.com/tech-stack-selection-ai/</link>
-      <description>在人工智能时代选择技术栈时，应优先考虑成熟的技术栈，遵循基于约定的框架，并保持简单性。这有助于确保人工智能的集成更加顺畅，并提高开发效率。通过使用经过验证的技术和遵循最佳实践，可以减少复杂性，使人工智能能够更有效地理解和解决问题。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Getting Started With Testing in Python</title>
-      <link>https://realpython.com/quizzes/testing-python/</link>
-      <description>本篇博客介绍如何在Python中进行测试，强调测试是Python编程中的重要且复杂的主题，但可以通过简单的步骤开始创建测试。文章提供了一个互动测验，包含19个问题，旨在检验读者对Python测试基础知识的理解。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Python Basics: Lists and Tuples</title>
-      <link>https://realpython.com/quizzes/python-basics-lists-and-tuples/</link>
-      <description>本篇博客介绍了Python中的列表和元组两种数据结构，它们都是有序序列，具有独特的属性和方法。文章通过一个包含6个问题的互动测验，帮助读者检验对创建、索引、切片、迭代以及理解列表和元组差异（特别是可变性的影响）等知识的掌握程度。测验无时间限制，每答对一题得1分，满分100%。</description>
-    </item>
-  
-    <item>
-      <title>PsiQuantum plans to build the biggest quantum computing facility in the US</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095287/psiquantum-plans-to-build-the-biggest-quantum-computing-facility-in-the-us/</link>
-      <description>PsiQuantum计划在美国建造最大的量子计算设施，旨在未来十年内拥有高达一百万个量子比特的量子计算机。该公司采用光子技术，相比传统超导材料，能在更高温度下运行，降低冷却需求，提高能效。PsiQuantum将重点开发大型系统，以实现更有效的错误纠正和商业化。</description>
-    </item>
-  
-    <item>
-      <title>The race to clean up heavy-duty trucks</title>
-      <link>https://www.technologyreview.com/2024/07/25/1095273/the-race-to-clean-up-heavy-duty-trucks/</link>
-      <description>重卡清洁化竞赛：电池和氢能技术有望改善道路最大车辆的环保性能。文章探讨了电池和氢能技术在重卡清洁化中的应用，分析了电池动力卡车面临的成本、重量和充电等挑战，并讨论了氢能作为替代能源的潜力。</description>
-    </item>
-  
-    <item>
-      <title>Participate in the State Of Laravel Survey</title>
-      <link>https://freek.dev/2742-participate-in-the-state-of-laravel-survey</link>
-      <description>Freek Van der Herten在其博客上鼓励参与由Tobias组织的“State Of Laravel”调查，旨在收集关于Laravel框架的意见和建议。调查结果将帮助开发者了解社区的需求和期望。</description>
-    </item>
-  
-    <item>
-      <title>Generating HTTP clients in Spring Boot application from OpenAPI spec</title>
-      <link>https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/</link>
-      <description>从OpenAPI规范生成Spring Boot应用中的HTTP客户端
+      <title>How to Start a Social Media Marketing Agency: Key Steps for Success</title>
+      <link>https://s14415.pcdn.co/blog/how-to-start-a-social-media-marketing-agency-key-steps-for-success/</link>
+      <description>如何创办一家社交媒体营销机构：成功指南
 
-本文介绍了如何使用OpenAPI Generator Gradle插件从OpenAPI规范生成Spring Boot应用的HTTP客户端代码。文章详细说明了项目设置、配置生成器、指定规范位置、生成代码、排除不需要的代码、配置包名、包含生成的源代码、排除Jackson可空模块、在构建前运行生成器以及配置Bean。尽管生成的代码可能不是最佳实践，但OpenAPI Generator是一个有用的工具，可以帮助减少手动编写客户端代码的工作量，并减少错误。</description>
+本文为有志于创办社交媒体营销机构的人士提供指导。首先，了解数字营销和社交媒体策略是基础。选择合适的平台，如Facebook、Instagram、X（前Twitter）等，并深入研究广告政策、算法和趋势。明确你的细分市场，制定业务计划，进行竞争对手分析，建立品牌身份，并确保合法合规。提供包括策略、社区管理、内容创作和社交媒体管理等服务，并制定合理的定价策略。建立在线存在感，利用网站和社交媒体展示你的能力。</description>
     </item>
   
     <item>
-      <title>How Developer Portals Help Prevent API Sprawl</title>
-      <link>https://nordicapis.com/how-developer-portals-help-prevent-api-sprawl/</link>
-      <description>开发者门户如何帮助防止API蔓延：通过集中管理API数据、文档和工具，开发者门户提供全面的API视图，确保API设计、安全和使用的一致性。这有助于减少API蔓延，提高开发效率，并确保API生态系统的可靠性和效率。</description>
-    </item>
-  
-    <item>
-      <title>Easily upgrade hosted OpenShift Virtualization clusters on hosted control planes</title>
-      <link>https://developers.redhat.com/articles/2024/07/25/easily-upgrade-hosted-openshift-virtualization-clusters-hosted-control-planes</link>
-      <description>本文介绍了如何轻松升级托管在控制平面上的OpenShift虚拟化集群。通过使用OpenShift高级集群管理器UI，可以简化升级过程，减少停机时间和风险。文章详细说明了升级步骤，包括检查可用版本、更新集群规范以及监控升级进度。这种方法使得升级过程更加高效和便捷。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: Reflections on Privacy</title>
-      <link>https://thedailywtf.com/articles/reflections-on-privacy</link>
-      <description>Remy Porter在《Daily WTF》上撰文反思了隐私问题，讨论了一个团队在处理嵌入式Web服务器关闭时遇到的问题。他们通过反射技术修改了私有字段，导致线程中断以停止服务器，但这种方法被批评为错误和混乱。文章指出，使用反射通常表明问题理解有误，并建议避免这种做法。</description>
-    </item>
-  
-    <item>
-      <title>Managing Sensitive Assets Within Image Mode for Red Hat Enterprise Linux</title>
-      <link>https://developers.redhat.com/articles/2024/07/25/managing-sensitive-assets-within-image-mode-red-hat-enterprise-linux</link>
-      <description>在本文中，我们探讨了在红帽企业Linux的镜像模式下管理敏感资产的方法。文章强调了敏感资产（如凭证）的管理挑战，并提供了在构建、部署和运行时阶段内实施安全实践的建议。文章还讨论了使用SSH密钥、证书和用户详情等敏感内容时的注意事项，并提供了在云环境中注入敏感资产的方法。通过遵循这些指导原则，可以降低安全风险并提高整体安全性。</description>
-    </item>
-  
-    <item>
-      <title>WordPress 6.6 “Dorsey” is here – key features and changes</title>
-      <link>https://www.hostinger.com/blog/wordpress-6-6</link>
-      <description>WordPress 6.6版本“Dorsey”发布，重点改进了块体验，包括延迟的图案覆盖功能、新的主题.json版本和55多项可访问性改进。新功能包括图案覆盖、网格块、样式和字体预设、负边距、改进的站点编辑器数据视图、经典主题中的图案管理、全站背景图片、批量导出图案、自定义宽高比预设、theme.json版本3以及PHP 7.0和7.1的支持终止。</description>
-    </item>
-  
-    <item>
-      <title>RailsConf 2024 highlights</title>
-      <link>https://thoughtbot.com/blog/railsconf-2024-highlights</link>
-      <description>RailsConf 2024上，thoughtbot团队分享了他们在会议中的亮点，包括多个技术演讲和开源项目合作。他们强调了Ruby on Rails作为强大框架的重要性，并展示了如何通过测试和开源项目提升开发效率。此外，他们还赞助了女性和非二元Ruby开发者晚宴，并讨论了他们的Superglue项目在Rails社区中的受欢迎程度。</description>
-    </item>
-  
-    <item>
-      <title>Announcing Rust 1.80.0</title>
-      <link>https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html</link>
-      <description>Rust 1.80.0版本发布，新增LazyCell和LazyLock类型，支持延迟初始化数据，并引入了Checked cfg names和values功能，优化了exclusive ranges在pattern中的使用。此外，还稳定了多个API，包括Rc、Arc、Duration、Option等，并提供了更多改进和功能。</description>
-    </item>
-  
-    <item>
-      <title>Against the Advice of My Superintelligence</title>
-      <link>https://taylor.town/my-superintelligence</link>
-      <description>我拒绝听从智能设备的建议，坚持自己的生活方式。尽管周围的人、机器和专家都给出了各种建议，但我选择独立探索，不依赖他人的意见。我意识到，如果想要变得更聪明，我应该倾听机器的智慧，利用它们收集的数据和知识来指导我的生活。然而，我目前更倾向于依赖推荐算法，它们似乎能准确反映我当下的愿望。我意识到，要真正进步，我需要开始倾听、寻求建议、与他人合作，并不断学习和成长。</description>
-    </item>
-  
-    <item>
-      <title>Lookup SMS Pumping Risk Score is now Generally Available</title>
-      <link>https://www.twilio.com/en-us/blog/lookup-sms-pumping-risk-score-is-now-generally-available</link>
-      <description>Twilio宣布其Lookup SMS Pumping Risk Score现在正式推出，这是一项用于识别与短信泵吸欺诈相关的行为的产品。该工具提供风险评分，帮助用户决定是否允许或阻止来自特定电话号码的流量，以减轻短信泵吸欺诈的影响。</description>
-    </item>
-  
-    <item>
-      <title>Embracing Disability Pride Month: Celebrating and Promoting Accessibility</title>
-      <link>https://discord.com/blog/embracing-disability-pride-month-celebrating-and-promoting-accessibility</link>
-      <description>庆祝残疾骄傲月：庆祝成就，推广无障碍</description>
-    </item>
-  
-    <item>
-      <title>Ep. 3: Proper Prompt Formatting for Enhanced AI Model Performance</title>
-      <link>https://www.ardanlabs.com/blog/2024/07/ep3-proper-prompt-formatting-for-enhanced-ai-model-performance.html</link>
-      <description>本篇博客探讨了如何通过适当的提示格式来提升AI模型性能。文章强调了正确格式化提示的重要性，并介绍了如何使用API简化格式化过程，以及如何通过服务器发送事件（SSE）处理实时响应，从而提高AI交互的动态性和用户体验。</description>
-    </item>
-  
-    <item>
-      <title>Data Science Spotlight: Cracking the SQL Interview at Instacart (LLM Edition)</title>
-      <link>https://tech.instacart.com/data-science-spotlight-cracking-the-sql-interview-at-instacart-llm-edition-52d04bde474c?source=rss----587883b5d2ee---4</link>
-      <description>Instacart的数据科学家面试流程包括SQL面试，测试候选人将业务问题转化为代码的能力。随着LLM的普及，Instacart正在调整面试流程，更注重AI驱动的流程，如将洞察转化为SQL查询提示、解释和调试SQL查询、以及优化SQL查询效率。这些变化旨在更好地评估候选人的技能，并提升Instacart的数据科学团队。</description>
-    </item>
-  
-    <item>
-      <title>We made a cat drink a beer with Runway’s AI video generator, and it sprouted hands</title>
-      <link>https://arstechnica.com/?p=2036379</link>
-      <description>Runway的AI视频生成器Gen-3 Alpha能够将文字描述转化为高清视频，但其在生成新颖结构方面表现不佳。测试显示，生成有趣的结果需要多次迭代和精选。例如，将猫喝啤酒的请求结合了猫和啤酒广告的视频元素，产生了猫长出人类手的有趣效果。</description>
-    </item>
-  
-    <item>
-      <title>BW #76: Aging legislators</title>
-      <link>https://www.bambooweekly.com/bw-76-aging-legislators/</link>
-      <description>美国立法者老龄化问题备受关注，本文分析了国会成员的年龄及其变化，并探讨了如何处理复杂数据。作者通过GitHub上的数据集，使用Pandas进行数据处理，旨在揭示立法者年龄的演变趋势。</description>
-    </item>
-  
-    <item>
-      <title>Heroku CLI v9: Infrastructure Upgrades and oclif Transition</title>
-      <link>https://blog.heroku.com/heroku-cli-v9-infrastructure-upgrades-oclif-transition</link>
-      <description>Heroku CLI v9.0.0 引入重大升级，基于 oclif 平台，优化架构，提高效率。核心命令统一打包，测试覆盖范围扩大，发布流程自动化。此版本采用 oclif 平台，提升命令一致性、维护性和可扩展性，为用户提供更可靠、高效的 CLI。</description>
-    </item>
-  
-    <item>
-      <title>Navigating the Gen AI Revolution: An Engineering Executive’s Perspective on Organizational Adoption</title>
-      <link>https://medium.com/gumgum-tech/navigating-the-gen-ai-revolution-an-engineering-executives-perspective-on-organizational-adoption-3711aa48b34d?source=rss----d4c1dee0f87b---4</link>
-      <description>在生成式AI革命中，CTO在推动组织采纳方面扮演关键角色。成功实施的关键策略包括获得领导层支持、教育团队、培养内部倡导者、实施试点项目、解决安全和道德问题、培养实验文化以及持续学习和适应。通过这些方法，组织可以充分利用生成式AI的潜力，实现业务目标和创新。</description>
-    </item>
-  
-    <item>
-      <title>A 39 vs 17 week</title>
-      <link>http://blog.mitrichev.ch/2024/07/a-39-vs-17-week.html</link>
-      <description>上周的主要事件是NEAR赞助的Codeforces Round 959，Egor成功解决所有问题，获得第三名，而tourist赢得了冠军。文章讨论了两个问题：第一个问题涉及在数轴上移动的slimes，需要选择k个slimes以最大化最终合并时间；第二个问题要求从字符串中删除一个子串，计算得到的唯一字符串数量。</description>
-    </item>
-  
-    <item>
-      <title>Rigorous Robot Security: How Galois’s RDE Framework Is Streamlining NIST Compliance and Change Impact Analysis for Cyber-Physical Systems</title>
-      <link>https://galois.com/blog/2024/07/rigorous-robot-security-how-galoiss-rde-framework-is-streamlining-nist-compliance-and-change-impact-analysis-for-cyber-physical-systems/</link>
-      <description>Galois公司利用其严格的数字工程（RDE）框架，帮助ReconRobotics简化了NIST合规性和网络物理系统变更影响分析，确保了其复杂机器人的安全性。通过建立动态数字模型，Galois工程师能够分析系统中的数据流，识别潜在的安全漏洞，并确保机器人满足NIST标准。这种合作旨在为微机器人领域铺平高可靠性未来的道路。</description>
-    </item>
-  
-    <item>
-      <title>6 ways leaders can build a culture of voice</title>
-      <link>https://www.atlassian.com/blog/leadership/building-a-culture-of-voice</link>
-      <description>领导者建立发声文化的6种方法：通过建立关系、了解沟通风格、提出具体问题、鼓励不同观点、使用澄清问题以及以身作则，来营造一个让员工能够真实表达自己的工作环境。</description>
-    </item>
-  
-    <item>
-      <title>Managing Your Cloud Security Posture on DigitalOcean</title>
-      <link>https://www.digitalocean.com/blog/managing-cloud-security-on-digitalocean</link>
-      <description>DigitalOcean提供云安全解决方案，帮助用户管理云安全态势。通过ScoutSuite工具，用户可以扫描和修复27种常见的安全配置错误，确保云环境的安全。ScoutSuite支持多种云服务提供商，包括DigitalOcean，帮助用户识别和解决潜在的安全风险。DigitalOcean还提供了一系列安全工具和最佳实践，以简化云安全配置，让开发者无需成为安全专家也能保护其云基础设施。</description>
-    </item>
-  
-    <item>
-      <title>Browserling now has Android 14!</title>
-      <link>https://catonmat.net/browserling-android-14</link>
-      <description>Browserling新增支持Android 14，允许用户在浏览器中测试最新Android版本的应用和网站。Browserling是一个云平台，提供即时访问在线Android设备，被全球成千上万的开发者、测试人员使用。</description>
-    </item>
-  
-    <item>
-      <title>How to delete old data from DynamoDB without spending thousands</title>
-      <link>https://medium.engineering/how-to-delete-old-data-from-dynamodb-without-spending-thousands-0ce3e48ef4a1?source=rss----2817475205d3---4</link>
-      <description>如何在不花费数千美元的情况下从DynamoDB中删除旧数据，作者Raphael Montaud在Medium Engineering上分享了他的经验。他提出了一种基本方法，即编写一个脚本扫描数据库并删除不再有用的数据项。他还讨论了三种可能的清理路径：不做任何处理、删除“坏”数据项或迁移“好”数据项到新表并删除旧表。通过成本估算，他展示了不同方案在6个月和3年后的总费用，并提供了在Medium上实施这些策略的详细步骤。</description>
-    </item>
-  
-    <item>
-      <title>CrowdStrike blames testing bugs for security update that took down 8.5M Windows PCs</title>
-      <link>https://arstechnica.com/?p=2038917</link>
-      <description>CrowdStrike因测试错误导致安全更新导致850万台Windows电脑崩溃，公司正在改进测试流程以避免再次发生。更新中的内容验证器错误未能检测到导致系统崩溃的问题内容数据。CrowdStrike计划实施分阶段部署策略，并增加更多测试层，同时提高对传感器和系统性能的监控，以指导分阶段推出。</description>
-    </item>
-  
-    <item>
-      <title>How to Install Mattermost on Debian 12</title>
-      <link>https://www.rosehosting.com/blog/how-to-install-mattermost-on-debian-12/</link>
-      <description>本文介绍了如何在Debian 12服务器上安装Mattermost。首先，需要准备Debian 12 VPS和SSH访问权限。接着，更新系统，创建用户和数据库，下载并安装Mattermost，配置Systemd服务文件，最后安装和配置Nginx以通过域名访问Mattermost。</description>
-    </item>
-  
-    <item>
-      <title>How use a Blazor QuickGrid with GraphQL</title>
-      <link>https://devblogs.microsoft.com/dotnet/how-use-a-blazor-quickgrid-with-graphql/</link>
-      <description>本文介绍了如何使用Blazor QuickGrid组件结合GraphQL进行数据展示。通过Strawberry Shake生成客户端，使用GraphQL查询获取数据，并通过QuickGrid组件展示。文章详细说明了如何添加GraphQL查询到Blazor，如何使用QuickGrid组件，以及如何实现虚拟化以提高性能。此外，还介绍了如何自定义GraphQL API以支持虚拟化，并提供了示例代码。</description>
-    </item>
-  
-    <item>
-      <title>Elon Musk claims he is training “the world’s most powerful AI by every metric”</title>
-      <link>https://arstechnica.com/?p=2038885</link>
-      <description>埃隆·马斯克宣布在田纳西州孟菲斯启动了名为“世界最强大AI训练集群”的项目，位于xAI的新超级计算机设施。该项目预计将使用100,000个液冷H100 GPU，旨在通过各项指标成为世界上最强大的AI。然而，由于电力合同问题，该项目可能面临电力供应挑战。</description>
-    </item>
-  
-    <item>
-      <title>Quickly define terms with AI definitions</title>
-      <link>https://www.atlassian.com/blog/artificial-intelligence/guide-to-ai-definitions</link>
-      <description>Atlassian Intelligence提供了一种通过AI定义快速定义术语的方法，以增强协作和生产力。该功能允许用户在Confluence页面上直接定义公司特定的术语、缩写、项目名称和状态，从而加速团队协作，确保团队成员能够快速理解并一致地使用这些术语。通过使用AI驱动的定义，团队可以更高效地工作，减少误解，并提高沟通一致性。</description>
-    </item>
-  
-    <item>
-      <title>Terraform extension for VS Code speeds up loading of large workspaces</title>
-      <link>https://www.hashicorp.com/blog/terraform-extension-for-vs-code-speeds-up-loading-of-large-workspaces</link>
-      <description>新版本的HashiCorp Terraform扩展和语言服务器显著减少了大型工作空间启动时的内存使用和启动时间。通过并行加载语言构造和仅解析用户当前正在处理的文件，新版本将内存使用和启动时间减少了99%以上。</description>
-    </item>
-  
-    <item>
-      <title>Building security into the redesigned Chrome downloads experience</title>
-      <link>http://security.googleblog.com/2024/07/building-security-into-redesigned.html</link>
-      <description>Chrome浏览器更新了下载体验，增强了下载文件的安全性。通过提供更详细的警告信息和基于AI的恶意软件判断，用户可以更准确地识别潜在风险。此外，自动深度扫描和密码保护机制进一步提升了下载安全，保护用户免受恶意软件的侵害。</description>
-    </item>
-  
-    <item>
-      <title>Introducing Collections, a new on-device surface for your content</title>
-      <link>http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html</link>
-      <description>Android Developers Blog推出全新功能“Collections”，一个在设备上展示个性化内容的全新界面。通过Collections，用户可以直接进入已安装的应用，享受内容或完成购买。开发者可以利用Collections展示重要内容，并通过个性化推荐和促销吸引用户。</description>
-    </item>
-  
-    <item>
-      <title>Empowering Developers with Docker: Simplifying Compliance and Enhancing Security for SOC 2, ISO 27001, FedRAMP, and More</title>
-      <link>https://www.docker.com/blog/empowering-developers-with-docker-simplifying-compliance-and-enhancing-security-for-soc-2-iso-27001-fedramp-and-more/</link>
-      <description>Docker通过其产品和服务，帮助开发者简化合规性和增强安全性，以符合SOC 2、ISO 27001、FedRAMP等标准。通过提供细粒度的访问控制、增强的容器隔离、图像访问管理和漏洞监控，Docker确保安全成为开发流程的连续部分，使开发者能够高效地管理合规性和安全风险。</description>
-    </item>
-  
-    <item>
-      <title>Tableau Insights Delivered Directly to Salesforce with Dynamic Data Security</title>
-      <link>https://developer.salesforce.com/blogs/2024/07/tableau-insights-delivered-directly-to-salesforce-with-dynamic-data-security.html</link>
-      <description>本文介绍了如何将Tableau仪表板直接集成到Salesforce中，利用Salesforce平台和Tableau连接应用（CA）以及用户属性函数（UAF）来增强数据安全性。通过使用Salesforce Lightning Web Components（LWC）、Apex、Tableau嵌入v3 API和连接应用，开发者可以动态查询Salesforce对象，并通过JWT进行安全认证，确保用户只能访问授权的数据。</description>
-    </item>
-  
-    <item>
-      <title>AI trained on AI garbage spits out AI garbage</title>
-      <link>https://www.technologyreview.com/2024/07/24/1095263/ai-that-feeds-on-a-diet-of-ai-garbage-ends-up-spitting-out-nonsense/</link>
-      <description>AI训练数据质量下降导致模型输出质量恶化，新研究显示，当AI在AI生成的数据上训练时，模型的输出质量会逐渐下降。这可能导致大型AI模型如GPT-3的性能下降，并可能加剧AI生成垃圾网站的问题。</description>
-    </item>
-  
-    <item>
-      <title>Developers want more, more, more: the 2024 results from Stack Overflow’s Annual Developer Survey</title>
-      <link>https://stackoverflow.blog/2024/07/24/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/</link>
-      <description>2024年Stack Overflow开发者调查结果显示，JavaScript和PostgreSQL仍是最受欢迎的技术，Rust和Markdown最受推崇。开发者对工作中的技术债务感到最沮丧，但并不认为AI是职业威胁。调查还发现，开发者普遍使用在线资源学习编程，并积极采用AI工具，尽管对AI工具的准确性和处理复杂任务的能力存在疑虑。</description>
-    </item>
-  
-    <item>
-      <title>API naming principle: If there is no direct object, then the direct object is the source object</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240724-00/?p=110037</link>
-      <description>API命名原则：如果没有直接宾语，则直接宾语是源对象。在方法命名中，通常动词后跟直接宾语，指明操作对象或结果。如果没有直接宾语，则默认为源对象。例如，widget.Toggle()中的直接宾语是widget。此原则有助于避免命名歧义，提高代码可读性。</description>
-    </item>
-  
-    <item>
-      <title>Hugging Face Transformers: Leverage Open-Source AI in Python</title>
-      <link>https://realpython.com/huggingface-transformers/</link>
-      <description>Hugging Face的Transformers库是一个强大的Python库，允许用户下载、操作和运行数千个预训练的开源AI模型，涵盖自然语言处理、计算机视觉、音频和跨模态学习等多个任务。本教程介绍了如何使用Transformers库，包括导航Hugging Face生态系统、下载和操作模型、利用GPU加速模型推理。通过本教程，读者将了解Hugging Face的AI产品，并通过实际操作学习如何使用Transformers库。</description>
-    </item>
-  
-    <item>
-      <title>Demystifying AI-Assisted Artistry With Adobe Apps Using NVIDIA RTX</title>
-      <link>https://blogs.nvidia.com/blog/ai-decoded-adobe-firefly-creative-cloud-rtx/</link>
-      <description>NVIDIA与Adobe合作，利用RTX GPU加速AI艺术创作。通过Adobe Creative Cloud应用程序，艺术家可以利用超过100个AI功能，如生成式AI模型Firefly，实现更高效的内容创作。这些工具包括图像修复、风格转换、智能人像编辑和3D内容创作等，大大提升了创作效率和作品质量。</description>
-    </item>
-  
-    <item>
-      <title>How Georgia Tech’s AI Makerspace Is Preparing the Future Workforce for AI</title>
-      <link>https://blogs.nvidia.com/blog/georgia-tech-ai-makerspace-supercomputer/</link>
-      <description>乔治亚理工学院的新AI制造空间通过提供计算资源，帮助学生巩固课程学习并亲身体验人工智能，为未来AI驱动的劳动力市场做准备。该空间与NVIDIA合作建设，强调学校对培养学生迎接AI未来的承诺，并促进与当地学校和大学的合作。</description>
-    </item>
-  
-    <item>
-      <title>Zero Downtime Upgrades – Redefining Your Platform Upgrade Experience</title>
-      <link>https://blog.cloudera.com/zero-downtime-upgrades-redefining-your-platform-upgrade-experience/</link>
-      <description>Cloudera推出零停机时间升级（ZDU）功能，简化平台升级过程，提高服务可用性。ZDU通过优化升级流程和减少服务中断时间，允许管理员在最小化停机的情况下进行重大升级、应用服务包和累积热修复。此功能旨在确保集群管理员能够高效管理升级，同时保持业务连续性。</description>
-    </item>
-  
-    <item>
-      <title>Improvements to command line logs</title>
-      <link>https://vercel.com/changelog/improvements-to-command-line-logs</link>
-      <description>Vercel CLI v35新增命令，便于访问部署和运行日志。通过`vercel deploy --logs`和`vercel inspect --logs`可查看构建日志，`vercel logs`可跟踪现有部署的运行日志。新增`--json`选项，以JSON格式流式传输日志，便于使用工具如jq进行解析和过滤。</description>
-    </item>
-  
-    <item>
-      <title>Instantly redirect traffic using custom Vercel Firewall rules</title>
-      <link>https://vercel.com/changelog/instantly-redirect-traffic-using-custom-vercel-firewall-rules</link>
-      <description>Vercel推出自定义防火墙规则，可即时重定向流量至新页面，无需新部署，快速传播至全球边缘网络。此功能可作为紧急情况下的快速替代方案，且对所有计划免费提供。</description>
-    </item>
-  
-    <item>
-      <title>Elkjøp's Digital Transformation: Powering Retail Innovation with Next.js and Vercel</title>
-      <link>https://vercel.com/blog/elkjops-digital-transformation-with-next-js-and-vercel</link>
-      <description>Elkjøp通过采用Next.js和Vercel，将发布周期缩短了7周，提升了数字收入并改善了用户体验。这一转型不仅提高了性能和SEO，还增强了用户稳定性，使页面加载更快，内容渲染更一致，从而实现了超过10亿美元的数字收入。</description>
-    </item>
-  
-    <item>
-      <title>Beyond Semantics: Enhancing Retrieval Augmented Generation with Hybrid Search (pgvector + Elasticsearch)</title>
-      <link>https://severalnines.com/blog/beyond-semantics-enhancing-retrieval-augmented-generation-with-hybrid-search-pgvector-elasticsearch/</link>
-      <description>本文探讨了如何通过混合搜索（结合pgvector和Elasticsearch）来增强检索增强生成（RAG），以提升大型语言模型（LLM）的性能。文章介绍了RAG在电子商务聊天机器人中的应用，通过结合语义搜索和关键词搜索，实现更精确和相关的信息检索，从而提高聊天机器人的响应质量。</description>
-    </item>
-  
-    <item>
-      <title>The Download: Chinese LLMs, and transforming heavy-duty trucking</title>
-      <link>https://www.technologyreview.com/2024/07/24/1095248/the-download-chinese-llms-and-transforming-heavy-duty-trucking/</link>
-      <description>中国大型语言模型在全球范围内发布，尽管存在语言障碍和注册要求，但许多聊天机器人支持英语对话且易于访问。此外，一家公司正在开发电池动力拖车，以减少重型卡车运输的排放。</description>
-    </item>
-  
-    <item>
-      <title>Angular vs. React: Learning React as an Angular Developer</title>
-      <link>https://spin.atomicobject.com/angular-vs-react/</link>
-      <description>作为一名熟悉Angular的开发者，本文探讨了学习React的过程，并比较了Angular和React的主要差异。Angular是一个完整的模型-视图框架，而React是一个专注于视图层的JavaScript库。React使用组件，而Angular有指令、管道和模块。React使用虚拟DOM，而Angular使用变更检测。数据绑定在React中是单向的，而在Angular中是双向的。Angular使用*ngFor和*ngIf，而React使用map()和if语句。两者各有优势，选择时应根据项目需求而定。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Hugging Face Transformers</title>
-      <link>https://realpython.com/quizzes/hugging-face-transformers/</link>
-      <description>Hugging Face Transformers库是自然语言处理、计算机视觉等领域中处理transformer模型的流行选择。本互动测验包含6个问题，旨在测试你对该库的理解。每答对一题得1分，满分100%。测验无时间限制，完成后可获得总分。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Logging in Python</title>
-      <link>https://realpython.com/quizzes/logging-in-python/</link>
-      <description>本篇博客介绍了一道Python日志模块的互动测验。测验旨在检验读者对Python日志功能的理解，强调日志在程序开发中的重要性，包括追踪程序流程、记录用户访问和错误状态。测验包含9个问题，无时间限制，每答对一题得1分，满分100%。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Python Protocols: Leveraging Structural Subtyping</title>
-      <link>https://realpython.com/quizzes/python-protocol/</link>
-      <description>本文章介绍了一个名为“Python协议：利用结构化子类型”的互动测验，旨在测试读者对如何在Python中使用协议和类型提示的理解。测验包含11个问题，无时间限制，每答对一题得1分，最终获得总分。文章鼓励读者在阅读相关教程后尝试此测验。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Python String Formatting: Available Tools and Their Features</title>
-      <link>https://realpython.com/quizzes/python-string-formatting-update/</link>
-      <description>Python字符串格式化工具及其特性测试：本篇博客介绍了Python字符串格式化的不同工具，包括f-strings、.format()方法和模运算符，并提供了一个包含6个问题的互动测试，帮助读者检验对相关知识的掌握程度。</description>
-    </item>
-  
-    <item>
-      <title>How Russia-linked malware cut heat to 600 Ukrainian buildings in deep winter</title>
-      <link>https://arstechnica.com/?p=2038848</link>
-      <description>俄罗斯黑客利用恶意软件在乌克兰冬季期间切断600栋建筑的供暖和热水供应，这是首次黑客直接破坏供暖系统。恶意软件名为FrostyGoop，通过Modbus协议发送命令，影响工业控制系统。Dragos公司发现此恶意软件后，与乌克兰网络安全机构合作，揭露了针对利沃夫供暖设施的攻击。</description>
-    </item>
-  
-    <item>
-      <title>How to use symbolic links to move the DB data folder</title>
-      <link>https://vladmihalcea.com/symbolic-link-data-folder/</link>
-      <description>使用符号链接移动数据库数据文件夹，以解决磁盘空间不足问题。通过将数据文件夹从C分区移动到D分区，并创建符号链接，可以简化数据库文件夹的迁移过程，同时保持数据访问的连续性。这种方法适用于测试环境，有助于释放生产系统中的高性能SSD驱动器空间。</description>
-    </item>
-  
-    <item>
-      <title>How battery-powered trailers could transform trucking</title>
-      <link>https://www.technologyreview.com/2024/07/24/1095233/battery-trailers-trucking/</link>
-      <description>Range Energy正在开发电池动力拖车，旨在减少重型卡车运输的排放。这些拖车通过增加电池和电机，能够在不改变现有柴油车辆的情况下显著降低排放，并提高燃油效率。这种创新的解决方案有望在减少运输业温室气体排放方面发挥重要作用。</description>
-    </item>
-  
-    <item>
-      <title>Why Chinese companies are betting on open-source AI</title>
-      <link>https://www.technologyreview.com/2024/07/24/1095239/chinese-companies-open-source-ai/</link>
-      <description>中国公司为何押注开源AI：阿里巴巴和多家中国AI初创公司认为，开源AI为快速商业化和国外认可提供了机会。通过开源AI模型，中国公司如阿里巴巴和DeepSeek等，不仅能够加速产品开发，还能在全球范围内获得更高的排名和认可。这种策略有助于中国公司在AI领域找到自己的市场定位，并推动行业向更多元化的方向发展。</description>
-    </item>
-  
-    <item>
-      <title>Primary Key and Foreign Key constraints are GA and now enable faster queries</title>
-      <link>https://www.databricks.com/blog/primary-key-and-foreign-key-constraints-are-ga-and-now-enable-faster-queries</link>
-      <description>Databricks宣布其Delta Lake表的Primary Key（PK）和Foreign Key（FK）约束功能正式推出。这一更新可优化查询性能，通过消除不必要的操作来加速查询。用户现在可以在创建表时定义约束，并在现有表中添加或删除约束。Databricks支持使用RELY选项来启用基于约束的优化，例如消除不必要的聚合和连接，从而显著提高查询速度。</description>
-    </item>
-  
-    <item>
-      <title>APIs and Edge Computing: A Match Made for Speed</title>
-      <link>https://nordicapis.com/apis-and-edge-computing-a-match-made-for-speed/</link>
-      <description>APIs和边缘计算的结合为速度和效率带来了革命性的变化。APIs作为软件开发的基石，允许不同系统无缝交互，而边缘计算通过在数据生成源头处理数据，减少了延迟并提高了通信速度。这种协同作用优化了API性能，实现了实时交互，并提升了用户体验，特别是在需要实时数据处理的场景中。</description>
-    </item>
-  
-    <item>
-      <title>New features in Cryostat 3.0 for monitoring Java applications on OpenShift</title>
-      <link>https://developers.redhat.com/articles/2024/07/24/new-features-cryostat-30-monitoring-java-applications-openshift</link>
-      <description>Cryostat 3.0为Java应用程序在OpenShift上的监控带来了多项新功能和改进，包括引入Cryostat数据库和存储解决方案，增强安全性和访问控制，以及支持动态连接到JVM。这些更新旨在提高性能、安全性和灵活性，简化Java应用程序的监控和管理。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: How to Validate an IP Address</title>
-      <link>https://thedailywtf.com/articles/how-to-validate-an-ip-address</link>
-      <description>Remy Porter在《Daily WTF》上撰文，讨论了如何验证IP地址的问题。文章指出，一个C#代码示例在验证IP地址时存在缺陷，因为它没有正确处理地址长度，可能导致错误地识别某些地址为有效。同时，作者也提到了C#已经内置了正确的IP地址解析功能。</description>
-    </item>
-  
-    <item>
-      <title>The takes market</title>
-      <link>https://blog.sbensu.com/posts/takes-market/</link>
-      <description>社交媒体上，人们追求娱乐和自我肯定，通过点赞、转发和关注为“观点”付费。这些观点迅速传播，形成循环，但往往与事实脱节。在Twitter上，观点经济成为主导，内容创作者追求关注，而用户则被这种循环所影响，即使意识到其机制，也难以摆脱。</description>
-    </item>
-  
-    <item>
-      <title>The Market for Takes</title>
-      <link>https://blog.sbensu.com/posts/market-for-takes/</link>
-      <description>社交媒体上的“观点市场”分析：用户追求娱乐和自我肯定，而影响者通过提供观点来吸引关注和利益。这种观点循环导致内容与事实脱节，形成封闭系统，影响用户的世界观。</description>
-    </item>
-  
-    <item>
-      <title>But I want to turn people into dinosaurs</title>
-      <link>https://blog.sbensu.com/posts/turn-people-into-dinosaurs/</link>
-      <description>我尝试制作蛋白质布丁，却意外地发现我更享受制作甜点的过程。这让我反思了人们追求目标的方式，我们往往专注于次要目标而忽略了真正的动机。大多数人擅长追求自己的主要动机，但在其他方面可能显得不擅长。我意识到，我的真正目标可能并不像我希望的那样崇高。</description>
-    </item>
-  
-    <item>
-      <title>Vibes are music, arguments are lyrics</title>
-      <link>https://blog.sbensu.com/posts/music-and-lyrics/</link>
-      <description>音乐中的旋律是音乐，歌词是歌词；争论中，情绪是旋律，事实和逻辑是歌词。我们更关注情绪是否和谐，而非逻辑是否严谨。就像音乐风格不同，适合不同的人，争论也是如此。我们倾向于喜欢与我们情绪相匹配的争论。</description>
-    </item>
-  
-    <item>
-      <title>Notes on Taylor and Maclaurin series</title>
-      <link>https://eli.thegreenplace.net/2024/notes-on-taylor-and-maclaurin-series/</link>
-      <description>麦拉林级数是一种用于近似任意函数的幂级数，通过选择合适的系数和无限项，在输入值接近0时进行近似。它是一种特殊的泰勒级数，可以在任何值附近找到多项式近似。通过将多项式的导数与函数的导数相匹配，可以逐步构建出更精确的近似。例如，使用麦拉林级数可以近似余弦函数，通过增加级数项数，近似效果会逐渐提高。泰勒级数则可以用于在任意点进行近似，适用于函数在0附近行为不佳的情况，如自然对数函数。通过比较级数项的比值极限，可以判断级数的收敛性。</description>
-    </item>
-  
-    <item>
-      <title>A Guide To The Many, Many Sports Idioms Of English</title>
-      <link>https://www.babbel.com/en/magazine/english-sports-idioms</link>
-      <description>英语中体育习语的丰富多样令人惊讶，即使长期使用英语的人也可能对这些短语的起源感到意外。本文详细介绍了各种体育习语，包括足球、美式足球、棒球、篮球、拳击、高尔夫、赛马和网球等，帮助读者更好地理解这些习语的含义和用法。</description>
-    </item>
-  
-    <item>
-      <title>GitHub tip-hub: habitual permalinks</title>
-      <link>https://huonw.github.io/blog/2024/07/github-permalinks/</link>
-      <description>GitHub的永久链接功能方便地指向文件和行的特定版本，即使代码更新也不会失效。通过快捷键“y”创建链接，并复制浏览器地址栏中的更新链接。使用永久链接可以确保引用的代码始终如一，避免因文件移动或删除而导致的链接失效。建议养成使用永久链接的习惯，以提高代码引用的准确性。</description>
-    </item>
-  
-    <item>
-      <title>How tackling a client’s technical debt improved system resilience and delivered commercial impact</title>
-      <link>https://www.thoughtworks.com/insights/blog/product-innovation/How-tackling-a-client-technical-debt-improved-system-resilience-and-delivered-commercial-impact</link>
-      <description>通过解决客户的技术债务，提高了系统弹性和商业影响。文章强调了技术债务管理的重要性，通过案例展示了如何通过技术改进提升业务成果，包括优化支付页面加载速度，从而提高转化率和客户体验。</description>
-    </item>
-  
-    <item>
-      <title>Join Nitro &amp; Get 1 Month Free During our Summer Promo</title>
-      <link>https://discord.com/blog/join-nitro-get-1-month-free-during-our-summer-promo</link>
-      <description>Discord夏季促销活动期间，新用户注册Nitro可免费获得一个月服务。活动从即日起至2024年7月31日，符合条件的用户可通过桌面或网页版Discord应用参与。活动期间，用户需更新应用并链接支付方式。此外，Nitro会员享有额外优惠，包括自定义表情、主题和会员折扣等。</description>
-    </item>
-  
-    <item>
-      <title>Log it like you mean it: Best practices for security</title>
-      <link>https://www.elastic.co/blog/best-practices-security-log</link>
-      <description>本文探讨了在Elastic安全环境中优化日志记录的最佳实践。文章强调了识别和优先处理安全可见性要求的重要性，并提供了如何通过威胁分析确定关键数据源和资产的方法。此外，文章还讨论了如何将业务威胁转化为SIEM检测规则，以及如何利用MITRE ATT&amp;CK框架来构建检测规则和跟踪攻击链。最后，文章建议使用Elastic Security工具来简化数据收集和检测规则覆盖的跟踪。</description>
-    </item>
-  
-    <item>
-      <title>Enumerating DigitalOcean Apps with a Deprecated Ubuntu 18 Stack</title>
-      <link>https://code.dblock.org/2024/07/24/doctl-stack-deprecation-notice.html</link>
-      <description>DigitalOcean用户Daniel Doubrovkine分享了他如何使用doctl命令行工具来检查其DigitalOcean应用所使用的Ubuntu版本，并发现其中一些应用仍在使用不再受支持的Ubuntu 18。他讨论了升级的必要性，并提出了在收到第二次和第三次通知后再升级的疑问。</description>
-    </item>
-  
-    <item>
-      <title>Build A Message Queue For Email notifications Using .NET Azure Queue Trigger Function and Twilio SendGrid</title>
-      <link>https://www.twilio.com/en-us/blog/build-a-message-queue-for-emails-using-dot-net-azure-queue-triggers-and-twilio-sendgrid</link>
-      <description>使用.NET Azure存储队列触发器和Twilio SendGrid构建消息队列以发送电子邮件通知。教程介绍了如何创建一个消息队列，使用Azure存储队列存储通知，并通过Twilio SendGrid发送电子邮件。</description>
-    </item>
-  
-    <item>
-      <title>Introducing Twilio’s Customer Deliverability Engine: Elevating Communication with Transparency and AI</title>
-      <link>https://www.twilio.com/en-us/blog/customer-deliverability-engine</link>
-      <description>Twilio推出客户交付引擎，通过透明度和人工智能提升沟通效果。该引擎提供可操作的见解和指导，以优化消息流量，提高消息投递成功率。新功能包括智能警报、智能发现AI助手、交付率评分和产品/解决方案推荐，帮助用户即时解决问题，提升运营效率。</description>
-    </item>
-  
-    <item>
-      <title>[Math] Project Euler 166, solving it using Google OR-tools</title>
-      <link>https://yurichev.com/n/PE_166/</link>
-      <description>本文介绍了使用Google OR-tools解决Project Euler 166问题的方法。作者通过构建一个拉丁方阵模型，并利用OR-tools的模型计数功能，快速找到了问题的解。文章详细展示了如何设置变量、添加约束条件，并最终找到所有可能的解。</description>
-    </item>
-  
-    <item>
-      <title>Docker Security Advisory: AuthZ Plugin Bypass Regression in Docker Engine</title>
-      <link>https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/</link>
-      <description>Docker发布安全警告，指出某些版本Docker Engine存在安全漏洞，可能导致攻击者绕过授权插件（AuthZ），存在权限提升风险。受影响的用户应更新至最新补丁版本，以防止未经授权的操作。</description>
-    </item>
-  
-    <item>
-      <title>The first GPT-4-class AI model anyone can download has arrived: Llama 405B</title>
-      <link>https://arstechnica.com/?p=2038486</link>
-      <description>Meta发布了Llama 3.1 405B，这是首个可供免费下载的GPT-4级大型语言模型，可在个人硬件上运行。该模型具有与GPT-4 Turbo、GPT-4o和Claude 3.5 Sonnet等顶级AI模型相媲美的能力，适用于长文本摘要、多语言对话代理和编码助手等应用。Meta强调开源AI的重要性，并认为开放模型有助于用户控制、数据安全和成本效益。</description>
-    </item>
-  
-    <item>
-      <title>The Surrender of the Gods, part 1</title>
-      <link>https://blog.rootsofprogress.org/thm-ch2-the-surrender-of-the-gods-part-1</link>
-      <description>人类从受自然支配的原始生活，通过农业和定居社会的出现，逐步获得了更大的能动性。我们学会了种植作物、驯养牲畜，并利用火和工具改造材料，从而超越了自然资源的限制。随着对能源和材料的控制，我们开始建造城市、船只，并开拓新的职业。然而，直到工业革命之前，人类仍受制于自然灾害、疾病和技术的局限性。启蒙运动和科技进步逐渐削弱了这种无力感，我们学会了预测和控制自然，拥有了前所未有的选择和自由。尽管如此，面对新的选择，我们仍需负责任地做出决策，以构建一个更加美好的社会。</description>
-    </item>
-  
-    <item>
-      <title>Browserling now has Android 15!</title>
-      <link>https://catonmat.net/browserling-android-15</link>
-      <description>Browserling新增Android 15版本，用户可测试网站和应用。提供多种Android版本选择，包括14至9（Pie）。欢迎测试并享受愉快的体验。</description>
-    </item>
-  
-    <item>
-      <title>Announcing .NET Conf: Focus on AI – August 20th 2024</title>
-      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/</link>
-      <description>.NET Conf 2024年8月20日将聚焦人工智能，提供一系列由社区和微软团队带来的深入研讨会，展示如何将强大的AI功能融入.NET应用程序。活动包括关键演讲、技术研讨会和案例研究，旨在帮助.NET开发者利用AI构建更智能的应用。</description>
-    </item>
-  
-    <item>
-      <title>How Airbnb Smoothly Upgrades React</title>
-      <link>https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd?source=rss----53c7c27702d5---4</link>
-      <description>Airbnb成功将前端基础设施从React 16升级到React 18，通过创建React升级系统，实现了渐进式升级，避免了中断。该系统允许逐步推出新版本，并测量升级结果。Airbnb通过模块别名和环境定位解决了版本冲突和重复导入问题，并使用类型扩展和测试套件确保兼容性和稳定性。这一升级过程为Airbnb带来了性能提升，并为其未来的升级奠定了基础。</description>
-    </item>
-  
-    <item>
-      <title>How we improved availability through iterative simplification</title>
-      <link>https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/</link>
-      <description>GitHub通过迭代简化提高了可用性，通过使用多种工具和策略，如Datadog、Splunk和Scientist，优化了数据库查询和代码性能，从而提升了系统的稳定性和响应速度。</description>
-    </item>
-  
-    <item>
-      <title>What’s new in .NET Aspire 8.1 for cloud native developers!</title>
-      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/</link>
-      <description>.NET Aspire 8.1为云原生开发者带来了多项新功能和改进，包括支持构建容器镜像和编排Python代码，增强了仪表板和遥测功能，并新增了多种资源类型和组件，如Keycloak、Elasticsearch和Kafka UI。此外，还改进了测试和遥测功能，使开发者能够更有效地构建和监控云原生应用。</description>
-    </item>
-  
-    <item>
-      <title>Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/</link>
-      <description>Meta宣布在Amazon Bedrock推出Llama 3.1模型，包括8B、70B和405B参数大小的模型，这些模型在多个行业基准测试中表现出色，适用于生成式AI应用。这些模型支持128K上下文长度，适用于多语言对话，并具有多种应用场景，如文本摘要、翻译、代码生成等。AWS提供了Llama 3.1模型在Amazon Bedrock的访问和使用方法，包括模型评估和安全性保障。</description>
-    </item>
-  
-    <item>
-      <title>How to review code effectively: A GitHub staff engineer’s philosophy</title>
-      <link>https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/</link>
-      <description>GitHub员工Sarah Vessels分享了她对代码审查的哲学，包括如何区分良好与不良的代码审查，她的代码审查策略，以及如何从自己的代码审查中获得最大收益。她强调代码审查的重要性，认为它是提高代码质量和职业发展的关键。Vessels还提供了如何找到待审查的拉取请求、管理通知以及使用自动化来标准化团队间的代码审查的建议。</description>
-    </item>
-  
-    <item>
-      <title>Why use Vault-backed dynamic credentials to secure HCP Terraform infrastructure?</title>
-      <link>https://www.hashicorp.com/blog/why-use-vault-backed-dynamic-credentials-to-secure-hcp-terraform-infrastructure</link>
-      <description>使用基于Vault的动态凭证来保护HCP Terraform基础设施的原因在于，它们提供了一种更安全、更集中的方式来管理云凭证和其他机密信息。这些凭证是临时、时间限制的，并且对每个Terraform工作负载都是唯一的。与仅使用动态提供者凭证相比，Vault-backed动态凭证提供了更全面的审计和管理功能，无需在云提供商中设置OIDC，并利用Vault的认证和授权能力来限制权限。这使得它们成为安全路线图中的新标准。</description>
-    </item>
-  
-    <item>
-      <title>#WeArePlay | 153 new stories from people creating apps and games in the U.S.</title>
-      <link>http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html</link>
-      <description>2022年，#WeArePlay项目发布了153个关于美国应用和游戏公司背后人物的访谈故事。这些故事展示了各种创新，如使用虚拟现实探索古代遗迹、AI改善孕产妇健康、以及结合游戏化锻炼的社交互动平台。这些故事不仅展示了开发者的创意，也突显了他们在Google Play上不断增长的业务。</description>
-    </item>
-  
-    <item>
-      <title>How NVIDIA AI Foundry Lets Enterprises Forge Custom Generative AI Models</title>
-      <link>https://blogs.nvidia.com/blog/ai-foundry-enterprise-generative-ai/</link>
-      <description>NVIDIA AI Foundry为企业提供定制化生成式AI模型，通过数据、加速计算和软件工具，帮助企业创建和部署符合行业需求的模型。该服务支持企业使用NVIDIA和开源社区模型，如Llama 3.1，并得到专家支持和广泛的合作伙伴生态系统。NVIDIA AI Foundry简化了模型开发，提高了效率，帮助企业获得竞争优势。</description>
-    </item>
-  
-    <item>
-      <title>Meta Llama 3.1 now available on Workers AI</title>
-      <link>https://blog.cloudflare.com/meta-llama-3-1-available-on-workers-ai</link>
-      <description>Cloudflare宣布Meta Llama 3.1模型现已可在Workers AI上使用。该模型提供高级功能，包括多语言支持和内置函数调用，可帮助开发者构建更广泛的应用。此外，Workers AI的嵌入式函数调用功能进一步提高了效率。</description>
-    </item>
-  
-    <item>
-      <title>AI, Go Fetch! New NVIDIA NeMo Retriever Microservices Boost LLM Accuracy and Throughput</title>
-      <link>https://blogs.nvidia.com/blog/nemo-retriever-microservices/</link>
-      <description>NVIDIA发布新的NeMo Retriever微服务，提升大型语言模型（LLM）的准确性和吞吐量。这些微服务允许企业通过检索增强生成（RAG）技术，在Cohesity、DataStax、NetApp和Snowflake平台上高效地获取数据，从而构建更准确的AI应用。NeMo Retriever支持多种模型，包括文本问答检索和文本重排序，旨在提高AI应用的准确性和效率。</description>
-    </item>
-  
-    <item>
-      <title>Salesforce Org Recommendations for ISVs</title>
-      <link>https://developer.salesforce.com/blogs/2024/07/salesforce-org-recommendations-for-isvs.html</link>
-      <description>本文探讨了Salesforce为独立软件供应商（ISV）提供的不同类型的组织（Org）及其用途。包括为ISV合作伙伴提供的免费生产Org、环境中心（用于开发、测试和演示）、合作伙伴开发者版Org（PDE）以及用于测试和演示的测试/演示Org。此外，还介绍了Trialforce框架及其相关Org，用于设置试用模板和提供试用体验。</description>
-    </item>
-  
-    <item>
-      <title>Local LLM Messenger: Chat with GenAI on Your iPhone</title>
-      <link>https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/</link>
-      <description>Local LLM Messenger是一款由Justin Garrison开发的聊天应用，允许用户在iMessage中与本地运行的生成式AI模型进行交流，无需复杂设置或云服务。该应用支持多种AI模型，提供本地执行、可扩展性和用户友好的界面，同时集成了Sendblue和ChatGPT，使用户能够通过简单的对话方式与AI互动，提高开发效率。</description>
-    </item>
-  
-    <item>
-      <title>pandas GroupBy: Grouping Real World Data in Python</title>
-      <link>https://realpython.com/courses/pandas-groupby-real-world-data/</link>
-      <description>本课程深入讲解pandas的GroupBy功能，通过实际数据集演示如何分组、分解操作链，并理解其方法。涵盖10个课时，包括数据访问、分组操作、以及优化性能等，适合希望掌握pandas核心功能的Python用户。</description>
-    </item>
-  
-    <item>
-      <title>Unquoted service paths: The new frontier in script kiddie security vulnerability reports</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240723-00/?p=110032</link>
-      <description>文章讨论了“未引用的服务路径”在脚本小子安全漏洞报告中的新趋势。作者指出，许多关于未引用服务路径的漏洞报告过于夸张，实际上并不容易利用。他解释了为什么某些报告中的路径不需要引号，并强调了即使路径未引用，也不一定构成安全漏洞。作者还提到了一些报告中的错误信息，并强调了在处理安全漏洞报告时，需要仔细分析和验证信息的重要性。</description>
-    </item>
-  
-    <item>
-      <title>The On-Call Chronicles: Enhancing B2B P&amp;E Defense</title>
-      <link>https://www.babbel.com/en/magazine/the-on-call-chronicles-enhancing-b2b-pe-defense</link>
-      <description>Babbel通过优化B2B产品与工程（P&amp;E）的值班流程，确保系统稳定和快速解决事件。通过周轮换值班责任，持续监控技术和业务指标，并使用工具如PagerDuty、Rollbar和JIRA来管理警报和事件跟踪。此外，通过收集和分析关键指标，如平均恢复时间（MTTR），团队不断改进和加强防御系统。</description>
-    </item>
-  
-    <item>
-      <title>Accelerate your data streaming journey with the latest in Confluent Cloud</title>
-      <link>https://www.confluent.io/blog/accelerate-data-streaming-with-latest-in-confluent-cloud/</link>
-      <description>2024年第二季度，Confluent Cloud推出了一系列更新，包括增强数据流平台的四个关键支柱：Stream、Connect、Process和Govern，以及与合作伙伴生态系统合作的新功能。这些更新包括Flink SQL工作区的交互式表格、Flink的私有网络支持、弹性企业集群的扩展、新的连接器集成以及BYOK功能的增强。这些改进旨在提高数据安全性、简化操作负担并扩展数据流生态系统。</description>
-    </item>
-  
-    <item>
-      <title>How to choose the best rendering strategy for your app</title>
-      <link>https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app</link>
-      <description>选择最佳渲染策略以优化应用程序性能。文章探讨了静态站点生成（SSG）、服务器端渲染（SSR）、客户端渲染（CSR）和增量静态再生（ISR）等策略，以及它们在不同场景下的适用性和优缺点。建议根据内容变化频率、搜索引擎可见性、用户交互和负载时间要求等因素选择合适的渲染策略。</description>
-    </item>
-  
-    <item>
-      <title>Turbopack updates: Moving homes</title>
-      <link>https://vercel.com/blog/turbopack-moving-homes</link>
-      <description>Vercel的Turbopack更新：Turbopack代码库将迁移至Next.js仓库，以加快迭代速度并支持生产构建。目前，Turbopack与Next.js兼容，可加速开发流程，并正在解决用户报告的问题和性能回归。团队优先解决内存消耗、磁盘缓存和生产构建支持等问题。</description>
-    </item>
-  
-    <item>
-      <title>The Download: AI’s self-regulation promises, and predicting the weather</title>
-      <link>https://www.technologyreview.com/2024/07/23/1095222/the-download-ais-self-regulation-promises-and-predicting-the-weather/</link>
-      <description>MIT Technology Review报道了人工智能公司承诺自我监管一年来的进展，以及谷歌结合AI和传统物理学的天气预报系统。AI公司承诺提高AI系统的测试和透明度，并分享潜在危害和风险的信息。谷歌的新模型NeuralGCM旨在结合机器学习和传统方法，以更低的成本提供准确的长期天气预报。</description>
-    </item>
-  
-    <item>
-      <title>Simplify Your Page State with React’s useReducer Hook</title>
-      <link>https://spin.atomicobject.com/page-state-usereducer-hook/</link>
-      <description>使用React的useReducer钩子简化页面状态管理
+      <title>How to Start a Social Media Marketing Agency: Key Steps for Success</title>
+      <link>https://www.brandwatch.com/blog/how-to-start-a-social-media-marketing-agency-key-steps-for-success/</link>
+      <description>如何开启社交媒体营销机构：成功指南
 
-本文介绍了如何使用React的useReducer钩子来简化页面状态管理，特别是对于模态、表单工作流程等用户可交互的内容。通过定义状态类型和动作，可以创建一个可扩展的解决方案，减少状态冲突，提高代码的可维护性。作者通过一个示例展示了如何实现和使用这个钩子，强调了其在处理复杂状态变化时的优势。</description>
+本文为有志于开启社交媒体营销机构的人士提供指导。文章强调了数字营销和社交媒体策略的基础知识，包括了解不同平台、市场调研、竞争对手分析、制定业务计划、建立品牌身份和合法结构。此外，文章还讨论了服务定义、内容创作、社交媒体管理、客户获取和保留策略，以及如何通过建立在线存在感来展示机构的专业能力。</description>
     </item>
   
     <item>
-      <title>Databricks on Databricks: Kicking off the Journey to Governance with Unity Catalog</title>
-      <link>https://www.databricks.com/blog/databricks-databricks-kicking-journey-governance-unity-catalog</link>
-      <description>Databricks成功将内部最大的工作空间转变为受管理的数据湖，通过使用Unity Catalog实现了数据治理。迁移过程分为四个阶段：规划、数据保留、分配工作和自动化处理。通过自动化工具和策略，Databricks显著减少了数据冗余，提高了效率，并简化了数据迁移过程。</description>
-    </item>
-  
-    <item>
-      <title>Building Industry IoT and M2M Solutions With Databricks for Communications</title>
-      <link>https://www.databricks.com/blog/building-industry-iot-and-m2m-solutions-databricks-communications</link>
-      <description>Databricks助力通信服务提供商（CSP）利用其数据智能平台，快速构建物联网（IoT）和机器对机器（M2M）解决方案，以应对数据管理、隐私安全、可扩展性等挑战。通过边缘计算、多云架构和开放数据共享，Databricks简化了ML模型的管理和部署，并提供了行业解决方案加速器，帮助CSP在零售、能源等行业中实现实时数据分析和AI应用，提升客户体验和业务效率。</description>
-    </item>
-  
-    <item>
-      <title>Use xxd to convert to hex</title>
-      <link>https://akrabat.com/use-xxd-to-convert-to-hex/</link>
-      <description>使用`xxd`工具转换文件为十六进制格式，通过`xxd`可以查看文件的十六进制值，输出包括行号、十六进制表示和ASCII表示。`-u`选项用于获取大写十六进制字母，`-R`选项为输出着色，`-p`选项提供纯十六进制字符的输出。`xxd`是一个强大的工具，用于精确查找字符串中的字符。</description>
-    </item>
-  
-    <item>
-      <title>How’s AI self-regulation going?</title>
-      <link>https://www.technologyreview.com/2024/07/23/1095218/hows-ai-self-regulation-going/</link>
-      <description>一年前，美国总统拜登与科技巨头达成自愿遵守的AI规则，旨在规范AI行业。尽管美国政治极化，AI监管法案难以通过，但这些承诺和现有法律为保护人们免受AI伤害提供了最佳保障。科技公司已实施一些积极变化，如AI红队、水印和投资于AI系统安全研究。然而，这些非约束性承诺易于签署和忘记，未来拜登继任者的AI政策走向仍存在不确定性。</description>
-    </item>
-  
-    <item>
-      <title>How to access Chinese LLM chatbots across the world</title>
-      <link>https://www.technologyreview.com/2024/07/23/1095211/how-to-access-chinese-llm-chatbots/</link>
-      <description>全球用户如何访问中国大型语言模型聊天机器人：自2023年夏季中国政府允许AI公司向公众开放其模型以来，数百个中国大型语言模型已发布。对于西方用户来说，由于语言障碍和注册要求，找到并尝试这些模型可能具有挑战性。但许多聊天机器人支持英语对话，且易于访问。本文介绍了如何通过不同平台和方式访问这些聊天机器人，包括使用中国电话号码、无需中国电话号码的开放平台，以及全球AI社区Hugging Face和ModelScope等。</description>
-    </item>
-  
-    <item>
-      <title>A New Standard in Open Source AI: Meta Llama 3.1 on Databricks</title>
-      <link>https://www.databricks.com/blog/new-standard-open-source-ai-meta-llama-31-databricks</link>
-      <description>Databricks与Meta合作，在Databricks数据智能平台上推出Llama 3.1系列模型，进一步提升了开源AI的标准。Llama 3.1模型具备强大的推理能力、可引导性和通用知识，适用于构建高质量的生成式AI应用。这些模型易于在Databricks上使用，支持多种语言，并提供了丰富的工具和功能，帮助企业利用其独特数据构建生产规模的AI应用。</description>
-    </item>
-  
-    <item>
-      <title>The problem with the tech debt mindset</title>
-      <link>https://stackoverflow.blog/2024/07/23/the-problem-with-the-tech-debt-mindset/</link>
-      <description>技术债务心态的问题：软件工程师Jon Bevan讨论了技术债务的概念，包括其源于过时技术选择、捷径和必要的维护工作。文章还探讨了升级依赖项的挑战以及随着时间的推移，需求和功能的潜在范围蔓延。</description>
-    </item>
-  
-    <item>
-      <title>What is the Arazzo Specification?</title>
-      <link>https://nordicapis.com/what-is-the-arazzo-specification/</link>
-      <description>Arazzo规范是一种新的API工作流描述标准，旨在简化API调用流程的描述和自动化。它通过定义API调用序列及其依赖关系，使API文档更易于理解和维护，同时提高开发者的工作效率。Arazzo规范支持机器阅读和人类阅读，有助于开发者创建更模块化和灵活的API，并促进生成式AI在API开发中的应用。</description>
-    </item>
-  
-    <item>
-      <title>How to get Red Hat OpenShift operators' information without oc-mirror plug-in</title>
-      <link>https://developers.redhat.com/articles/2024/07/23/how-get-red-hat-openshift-operators-information-without-oc-mirror-plug</link>
-      <description>本文介绍了如何在断开连接的环境中获取Red Hat OpenShift操作符信息，而不使用oc-mirror插件。由于安全考虑，许多客户需要将服务器与互联网断开连接，这给部署OpenShift操作符带来了挑战。文章提出了一种使用shell脚本来自动化收集操作符信息的方法，从而提高系统管理员的效率。通过这种方式，可以简化OpenShift操作符信息的收集过程，并提高部署工作流程的效率。</description>
-    </item>
-  
-    <item>
-      <title>Research Card: Fixed Point Label Attribution for Real-Time Bidding</title>
-      <link>https://medium.com/criteo-engineering/research-card-fixed-point-label-attribution-for-real-time-bidding-d25aa96c253a?source=rss----fc3ea5a64a12---4</link>
-      <description>Criteo工程团队提出了一种名为FiPLA的算法，用于解决实时竞价中的标签归因问题。该算法通过迭代更新标签归因机制和机器学习模型，将用户级奖励分配给单个广告展示，从而提高预测广告价值的能力，并显著提升预测用户转化和模拟市场竞争时的利润。</description>
-    </item>
-  
-    <item>
-      <title>NPath Complexity</title>
-      <link>https://thedailywtf.com/articles/npath-complexity</link>
-      <description>NPath复杂性是衡量代码复杂度的指标，指一个方法中无环执行路径的数量。理想情况下，这个数字应该很小，但许多代码并未达到这一标准。文章通过一个示例说明了NPath复杂性过高的问题，并指出这需要通过重构来解决。</description>
-    </item>
-  
-    <item>
-      <title>What is intelligent search and how does it work?</title>
-      <link>https://algolia.com/blog/ux/what-is-intelligent-search-and-how-does-it-work/</link>
-      <description>智能搜索是一种利用人工智能和机器学习技术提供更准确、相关和个性化结果的搜索技术。它通过理解搜索查询背后的上下文和意图，提供最佳信息。与传统搜索相比，智能搜索使用AI和机器学习来理解查询背后的上下文和意图，从而提供更准确和相关的结果。</description>
-    </item>
-  
-    <item>
-      <title>Navigating the new web accessibility ruling in the U.S.</title>
-      <link>https://thoughtbot.com/blog/navigating-the-new-web-accessibility-ruling-in-the-u-s</link>
-      <description>美国新网络无障碍法规解读：美国司法部发布关于州和地方政府网站无障碍的最终裁决，要求确保残疾人士平等获取政府服务。新规采用WCAG 2.1作为新的一致性标准，要求组织确保其网站和移动应用符合W3C网络内容无障碍指南（WCAG）2.1 AA级。组织需制定无障碍行动计划，包括了解新要求、确定受影响的组织、遵循WCAG指南、解决常见无障碍问题，并持续改进以保持合规。</description>
-    </item>
-  
-    <item>
-      <title>Notes on "Navigating Corporate Giants: Jeffrey Snover and the Making of PowerShell"</title>
-      <link>https://advancedweb.hu/shorts/notes-on-navigating-corporate-giants-jeffrey-snover-and-the-making-of-powershell/</link>
-      <description>杰弗里·斯诺弗在微软开发PowerShell的过程中，面临了重重挑战和阻力。尽管经历了职位降级、项目不被重视和办公室政治等困难，他坚持自己的理念，最终成功地将PowerShell推向市场，并成为微软云计算的关键。这个故事揭示了在大型企业中推动创新和变革的艰辛，以及个人坚持和远见的重要性。</description>
-    </item>
-  
-    <item>
-      <title>Unlocking success: Insider tips from an Elastic Gold Contributor with Tomasz Dzierżanowski</title>
-      <link>https://www.elastic.co/blog/insider-tips-from-an-elastic-gold-contributor-with-tomasz-dzierzanowski</link>
-      <description>Tomasz Dzierżanowski是一位经验丰富的软件工程师，专注于Elasticsearch，通过YouTube教程、博客文章和代码示例，帮助开发者掌握Elasticsearch。他分享了成为Elastic Gold Contributor的经历，强调了持续学习和分享知识的重要性，并鼓励新成员保持一致性，追随兴趣，并解决常见问题。</description>
-    </item>
-  
-    <item>
-      <title>Flying free: a tale of partitioning with canaries in PostgreSQL</title>
-      <link>https://evilmartians.com/chronicles/flying-free-a-tale-of-partitioning-with-canaries-in-postgresql</link>
-      <description>本文讲述了使用金丝雀测试在PostgreSQL数据库中进行表分区的过程。作者分享了他们在处理一个拥有800万用户和近6亿记录的大型数据库时，如何通过金丝雀测试来优化查询，确保数据库稳定性和性能。文章详细介绍了设置金丝雀测试、构建检测工具、数据库配置和基础设施调整等步骤，为面临类似挑战的开发者提供了宝贵的经验和指导。</description>
-    </item>
-  
-    <item>
-      <title>Let's talk about Developer Experience: The Spectrum of DX</title>
-      <link>https://www.twilio.com/en-us/blog/developer-experience-spectrum</link>
-      <description>Twilio致力于提升开发者体验，通过提供全面的产品和服务，包括通信、身份验证、电子邮件、客户数据管理等，帮助开发者构建和部署应用程序。文章探讨了开发者体验（DX）的重要性，并提出了一个框架来评估和改进DX，从“破碎体验”到“魔法体验”，旨在为开发者提供更流畅、高效和愉悦的开发过程。</description>
-    </item>
-  
-    <item>
-      <title>Developing and Managing Tools for Twilio AI Assistants</title>
-      <link>https://www.twilio.com/en-us/blog/developing-managing-tools-twilio-ai-assistants</link>
-      <description>Twilio AI助手工具可构建了解客户并解决问题的智能代理，通过连接现有系统获取实时数据并执行任务。工具是API，助手可用来完成特定任务和解决问题。本文介绍了工具的概念、常见用例和安全性，并通过设置基本天气工具展示了实际应用。</description>
-    </item>
-  
-    <item>
-      <title>Abstract interpretation in the Toy Optimizer</title>
-      <link>https://bernsteinbear.com/blog/toy-abstract-interpretation/?utm_source=rss</link>
-      <description>本文探讨了Toy优化器中的抽象解释，介绍了抽象解释在程序行为推理中的应用。通过构建抽象域和转移函数，可以分析程序的所有可能执行情况，从而进行优化。文章以一个简单的例子展示了如何使用抽象解释进行奇偶性分析，并展示了如何通过优化操作来提高程序效率。</description>
-    </item>
-  
-    <item>
-      <title>Ep. 10: Building Secure Go Systems: Key Management, Middleware, and Error Handling</title>
-      <link>https://www.ardanlabs.com/blog/2024/07/building-secure-go-systems-key-management-middleware-and-error-handling-ep-10.html</link>
-      <description>本篇博客介绍了如何构建安全的Go系统，包括密钥管理、中间件和错误处理。文章详细讲解了如何使用KeyStore配置和管理加密密钥，创建中间件以处理令牌解析和用户ID提取，以及集中处理错误和利用上下文传递认证信息。通过这些方法，开发者可以构建安全、可扩展且易于维护的软件系统。</description>
-    </item>
-  
-    <item>
-      <title>NVIDIA’s AI Masters Sweep KDD Cup 2024 Data Science Competition</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-ai-masters-kdd-cup-2024/</link>
-      <description>NVIDIA团队在KDD Cup 2024数据科学竞赛中荣获所有五项比赛的第一名，展示了其在生成式AI领域的强大实力。他们利用Qwen2-72B语言模型和NVIDIA A100 Tensor Core GPU，通过创新的方法解决了在线购物挑战，实现了对复杂购物概念的理解、购物知识推理、用户行为对齐和多语言能力。NVIDIA计划在KDD 2024会议上分享其解决方案。</description>
-    </item>
-  
-    <item>
-      <title>A Developer’s Journey with User Authentication: Species360</title>
-      <link>https://auth0.com/blog/auth0-species360/</link>
-      <description>Species360通过Auth0实现了用户身份验证的转型，简化了其ZIMS平台的安全设置，并利用Auth0的集成工具和SDK提高了效率。通过Auth0的通用登录和企业连接功能，Species360为用户提供更流畅的体验，同时确保了数据管理的安全。</description>
-    </item>
-  
-    <item>
-      <title>Maestro: Netflix’s Workflow Orchestrator</title>
-      <link>https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78?source=rss----2615bd06b42e---4</link>
-      <description>Netflix推出Maestro，一款通用、可扩展的工作流编排器，用于管理大规模工作流，如数据管道和机器学习模型训练。Maestro支持多种业务逻辑格式，包括Docker镜像、笔记本、bash脚本、SQL、Python等，并支持循环和条件分支等模式。Maestro已成功迁移数十万个工作流，每天处理数百万个任务，适用于ETL、机器学习、AB测试等多种场景。</description>
-    </item>
-  
-    <item>
-      <title>Enhancing LLM-as-a-Judge with Grading Notes</title>
-      <link>https://www.databricks.com/blog/enhancing-llm-as-a-judge-with-grading-notes</link>
-      <description>Databricks提出了一种名为“评分注释”的技术，用于评估特定领域内长文本LLM输出的质量和准确性。这种方法通过为每个问题添加简短的注释来描述期望的答案属性，从而为LLM法官提供足够的领域知识，同时允许领域专家进行可扩展的测试集标注。在Databricks Assistant的开发中，评分注释显著提高了LLM法官与人类法官的一致性，从而提高了AI系统的质量。</description>
-    </item>
-  
-    <item>
-      <title>How to Install Git on Ubuntu 24.04</title>
-      <link>https://www.rosehosting.com/blog/how-to-install-git-on-ubuntu-24-04/</link>
-      <description>本教程介绍了如何在Ubuntu 24.04上安装Git，包括使用包管理器和从源代码编译两种方法。首先更新系统包，然后检查Git是否已安装，若未安装，可使用包管理器安装或从源代码编译指定版本。</description>
-    </item>
-  
-    <item>
-      <title>AI companies promised the White House to self-regulate one year ago. What’s changed?</title>
-      <link>https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/</link>
-      <description>一年前，七家领先的AI公司承诺与白宫进行自我监管。尽管这些公司采取了一些措施，如进行红队测试和为AI生成内容添加水印，但他们在透明度和问责制方面仍缺乏实质性进展。尽管如此，这些自愿承诺在推动技术进步方面取得了一些进展，但仍需更多努力以确保AI系统的安全性和可靠性。</description>
-    </item>
-  
-    <item>
-      <title>Microsoft says 8.5M systems hit by CrowdStrike BSOD, releases USB recovery tool</title>
-      <link>https://arstechnica.com/?p=2038277</link>
-      <description>微软表示，约850万台系统受到CrowdStrike安全软件更新错误的影响，并发布了USB恢复工具，以帮助修复受影响的PC。</description>
-    </item>
-  
-    <item>
-      <title>Add AI to Your .NET Apps Easily with Prompty</title>
-      <link>https://devblogs.microsoft.com/dotnet/add-ai-to-your-dotnet-apps-easily-with-prompty/</link>
-      <description>Prompty是一个Visual Studio Code扩展，可轻松将大型语言模型（如GPT-4o）集成到.NET应用程序中。它简化了代码片段生成、文档创建和应用程序调试的过程，使开发者能够通过编写代码直接与LLM交互，从而提高开发效率和生产力。</description>
-    </item>
-  
-    <item>
-      <title>AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more (July 22, 2024)</title>
-      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/</link>
-      <description>上周，全球AWS英雄齐聚全球AWS英雄峰会，庆祝AWS英雄计划的10周年。此外，推出了Amazon Corretto、Amazon Redshift等更新，并支持了AWS Lambda的新功能。AWS社区也发布了多个技术博客，并即将举办AWS峰会和社区日活动。</description>
-    </item>
-  
-    <item>
-      <title>Introducing Mosaic AI Model Training for Fine-Tuning GenAI Models</title>
-      <link>https://www.databricks.com/blog/introducing-mosaic-ai-model-training-fine-tuning-genai-models</link>
-      <description>Databricks推出Mosaic AI模型训练，支持公共预览，用于微调生成式AI模型。该服务允许用户使用企业数据对各种模型进行微调或预训练，并通过Unity Catalog注册模型，实现模型和权重的完全控制和所有权。Mosaic AI模型训练旨在简化模型训练过程，提高效率，并支持与RAG结合使用，以实现更准确的应用。</description>
-    </item>
-  
-    <item>
-      <title>Astronomers discover technique to spot AI fakes using galaxy-measurement tools</title>
-      <link>https://arstechnica.com/?p=2038332</link>
-      <description>研究人员开发了一种利用天文学工具检测AI生成深度伪造图像的新方法，通过分析人眼中的光反射一致性来识别。这种方法基于眼睛在相同光源照射下反射光形状的一致性原理，AI生成的图像往往在这一方面存在不一致。尽管这种方法可能存在误报，但它为检测深度伪造图像提供了一种有前景的工具。</description>
-    </item>
-  
-    <item>
-      <title>New Auth0 Integration for Vercel: Available Now</title>
-      <link>https://auth0.com/blog/auth0-vercel-integration/</link>
-      <description>Auth0与Vercel推出全新集成，简化身份验证流程。该集成允许用户快速部署应用，并利用Auth0和Vercel的优势构建安全、可扩展的应用。通过一键式操作，用户可在Vercel中设置生产环境，并自动创建与Auth0租户关联的应用。</description>
-    </item>
-  
-    <item>
-      <title>Just-in-time approval workflow with Boundary and Azure</title>
-      <link>https://www.hashicorp.com/blog/just-in-time-approval-workflow-with-boundary-and-azure</link>
-      <description>Boundary与Azure的即时审批工作流通过Microsoft Privileged Identity Management (PIM)扩展了其功能，允许基于请求和审批工作流进行临时访问。该平台简化了用户对基础设施资源的访问，同时通过最小权限原则保护基础设施安全。本文介绍了如何设置这种工作流，包括配置步骤和组件交互，以及如何通过Boundary和Azure实现用户请求访问和审批的过程。</description>
-    </item>
-  
-    <item>
-      <title>HCP Terraform adds granular API access for audit trails</title>
-      <link>https://www.hashicorp.com/blog/hcp-terraform-adds-granular-api-access-for-audit-trails</link>
-      <description>HCP Terraform新增了细粒度的API访问权限，以简化审计跟踪的权限管理。新功能允许组织所有者生成专用的API密钥，以实现最小权限访问审计跟踪，从而提高安全性并简化权限流程。此功能现在已在HCP Terraform中提供。</description>
-    </item>
-  
-    <item>
-      <title>3 ways to get Remote Code Execution in Kafka UI</title>
-      <link>https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
-      <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞涉及Groovy脚本执行、JMX连接器和JndiLoginModule。研究人员发现，攻击者可以通过这些漏洞读取文件、发现凭证或执行任意代码。Kafka UI的版本0.7.2已修复这些漏洞，用户应确保升级以保护系统安全。</description>
-    </item>
-  
-    <item>
-      <title>3 ways to get Remote Code Execution in Kafka UI</title>
-      <link>https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/</link>
-      <description>Kafka UI存在三个关键漏洞，可能导致远程代码执行。这些漏洞包括通过Groovy脚本执行和JMX连接器进行攻击。用户应升级到0.7.2版本以修复这些问题，并确保Kafka UI实例安全。</description>
-    </item>
-  
-    <item>
-      <title>A new weather prediction model from Google combines AI with traditional physics</title>
-      <link>https://www.technologyreview.com/2024/07/22/1095184/a-new-weather-prediction-model-from-google-combines-ai-with-traditional-physics/</link>
-      <description>谷歌开发了一种结合人工智能和传统物理学的天气预报模型，名为NeuralGCN，旨在提高预测准确性并降低成本。该模型结合了传统模型对大气变化的大规模模拟和人工智能在小尺度预测上的优势，有望在更广泛的气候事件预测中发挥作用。</description>
-    </item>
-  
-    <item>
-      <title>The Art of Data Management</title>
-      <link>https://technology.doximity.com/articles/the-art-of-data-management</link>
-      <description>数据管理艺术：Doximity数据经理通过结合技术贡献和团队管理，实现了工作与生活的平衡。他们通过编写代码解决问题、建立团队流程、有效管理时间和委托任务，以提升团队协作和项目成功。这种管理方式不仅提高了个人技能，也为团队和组织创造了价值。</description>
-    </item>
-  
-    <item>
-      <title>Countdown to Paris 2024 Olympics: France leads in web interest</title>
-      <link>https://blog.cloudflare.com/countdown-to-paris-2024-france-leads-in-olympic-web-interest</link>
-      <description>2024年巴黎奥运会即将举行，法国在互联网关注度上领先。从1月到7月，Cloudflare的DNS流量分析显示，法国对官方奥运网站的DNS请求占比最高，达24%，其次是英国和美国的20%和17%。分析还发现，与奥运相关的邮件数量也在增加，其中大部分为普通邮件，少量为垃圾邮件和恶意邮件。随着奥运会的临近，相关流量和邮件数量预计将继续增加。</description>
-    </item>
-  
-    <item>
-      <title>Organizing the five creation dispositions of the Create­File function</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240722-00/?p=110026</link>
-      <description>本文探讨了Windows API中的CreateFile函数的五种创建处置值。当请求的文件不存在时，可以选择失败或创建新文件；当文件已存在时，可以选择失败、保留现有数据或截断文件内容。文章还讨论了API中未涵盖的“始终失败”情况，并提供了模拟该行为的示例代码。</description>
-    </item>
-  
-    <item>
-      <title>Logging in Python</title>
-      <link>https://realpython.com/python-logging/</link>
-      <description>Python的日志记录是开发者理解代码执行情况的重要工具。本文介绍了Python标准库中的日志模块，包括如何设置基本配置、调整日志级别、格式化输出、将日志记录到文件、捕获堆栈跟踪以及创建自定义日志记录器。通过学习这些内容，开发者可以更好地调试错误、分析性能，并规划项目发展。</description>
-    </item>
-  
-    <item>
-      <title>Data-Driven Quality: Change the Game with Knowledge Graphs &amp; Generative AI</title>
-      <link>https://www.databricks.com/blog/data-driven-quality-change-game-knowledge-graphs-generative-ai</link>
-      <description>利用知识图谱和生成式AI，Databricks和Stardog帮助制造企业通过快速识别问题来改善客户结果，进行质量事件取证。通过整合不同数据源，企业可以更好地理解问题范围、潜在影响和根本原因，从而避免未来出现类似问题。这种方法有助于企业制定有效的解决方案，并预防问题的再次发生。</description>
-    </item>
-  
-    <item>
-      <title>How to Install TimescaleDB on Azure</title>
-      <link>https://www.timescale.com/blog/how-to-install-timescaledb-on-azure/</link>
-      <description>如何在Azure上安装TimescaleDB
+      <title>How to Start a Social Media Marketing Agency: Key Steps for Success</title>
+      <link>https://www.brandwatch.com/blog/start-social-media-marketing-agency/</link>
+      <description>如何开启社交媒体营销机构：成功指南
 
-本文介绍了如何在Azure上安装TimescaleDB，一个基于PostgreSQL的强大开源时间序列数据库，用于高效管理时间序列数据、事件和分析。文章详细说明了从创建Azure账户、配置虚拟机、安装TimescaleDB到配置PostgreSQL和使用TimescaleDB的整个过程。通过本指南，用户可以快速搭建一个可扩展且高性能的数据库，以满足时间序列数据需求。</description>
+本文为有志于开启社交媒体营销机构的人士提供指导。文章强调了数字营销和社交媒体策略的基础知识，包括了解不同平台、市场调研、竞争对手分析、制定业务计划、建立品牌身份和合法结构。此外，文章还讨论了服务定义、在线存在感建立、客户获取和保留策略，以及日常运营和机构扩展的重要性。</description>
     </item>
   
     <item>
-      <title>Longer history available in Speed Insights</title>
-      <link>https://vercel.com/changelog/longer-history-available-in-speed-insights</link>
-      <description>Vercel宣布在Speed Insights中增加了可查看的历史记录时间，现在所有计划类型（Hobby、Pro、Enterprise）的用户都可以查看更长时间的历史数据，无需额外费用。这一更新允许用户更长时间地衡量网站性能。</description>
+      <title>How to Create Distortion and Grain Effects on Scroll with Shaders in Three.js</title>
+      <link>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</link>
+      <description>本文介绍了如何使用Three.js和着色器在滚动时创建扭曲和颗粒效果。作者详细解释了如何同步HTML图像与WebGL，并展示了如何通过调整着色器参数来实现这些效果。教程中包含了设置、媒体和网格管理、相机和几何体设置、渲染循环以及着色器代码的详细说明。</description>
     </item>
   
     <item>
-      <title>Automatically skip unnecessary deployments in monorepos</title>
-      <link>https://vercel.com/changelog/automatically-skip-unnecessary-deployments-in-monorepos</link>
-      <description>Vercel通过Turborepo技术，现在可以自动跳过monorepos中未更改代码的构建，从而减少构建队列并提高受影响项目的部署时间。此功能适用于任何使用工作区的monorepo，并支持更高级的定制，如基于分支取消构建。</description>
+      <title>The Download: Falcon 9’s future, and Big Tech’s climate goals</title>
+      <link>https://www.technologyreview.com/2024/07/18/1095115/the-download-falcon-9s-future-and-big-techs-climate-goals/</link>
+      <description>SpaceX的Falcon 9火箭近期发生故障，引发了对美国航天工业依赖火箭的风险关注。同时，科技巨头如谷歌在气候目标上的进展引发讨论，尽管其排放量上升，但可能代表气候行动的进步。此外，文章还提到了其他科技新闻，如人工智能、深fake检测、太空太阳能和气候变化等。</description>
     </item>
   
     <item>
-      <title>Testing Saloon API Integrations in Laravel</title>
-      <link>https://freek.dev/2740-testing-saloon-api-integrations-in-laravel</link>
-      <description>Laravel开发者Freek Van der Herten在其博客上分享了如何使用Saloon API测试工具来模拟和记录HTTP响应，以便在Laravel应用程序中测试API集成。文章提供了实用的编程技巧和项目经验，适合关注Laravel、PHP和JavaScript的现代开发者。</description>
+      <title>From Green to Great: Building Confidence in Consulting</title>
+      <link>https://spin.atomicobject.com/software-consultants-confidence/</link>
+      <description>软件顾问成长之路：本文探讨了软件顾问如何建立自信，强调了沟通、承认不确定性、时间限制的实验和关注简洁性等关键特质。作者指出，虽然咨询可能看似艰巨，但好奇心、自我驱动的实验和利用组织内的集体智慧可以减轻挑战，并提升职业发展。</description>
     </item>
   
     <item>
-      <title>The Download: technological complexity, and climate change Catan</title>
-      <link>https://www.technologyreview.com/2024/07/22/1095178/the-download-technological-complexity-and-climate-change-catan/</link>
-      <description>科技复杂性及气候变化问题日益凸显，MIT Technology Review最新一期《The Download》探讨了技术难题的复杂性，以及如何应对由此产生的“云问题”。此外，文章还介绍了应对气候变化的创新游戏，如Catan版本，以及全球科技新闻的精选摘要。</description>
+      <title>How Much Do Social Media Managers Make: Salary Insights and Factors</title>
+      <link>https://www.brandwatch.com/blog/how-much-do-social-media-managers-make-salary-insights-and-factors/</link>
+      <description>社交媒体经理的薪资范围从无到超过80,000美元不等，平均年薪约为55,000美元。薪资差异取决于专业技能、地理位置和行业。在科技、金融、医疗保健和电子商务等行业，社交媒体经理的薪资较高。要提升薪资，可以通过谈判、展示价值、寻找更高薪酬的工作机会或成为自由职业者来实现。</description>
     </item>
   
     <item>
-      <title>Using Videos and Blend Modes in Figma to Create More Interesting Screen Transitions</title>
-      <link>https://spin.atomicobject.com/blend-mode-figma/</link>
-      <description>Figma支持视频和混合模式，可用于创建更吸引人的屏幕过渡效果。作者Kyle Harris通过在Figma中使用视频和混合模式，实现了类似手机游戏中的屏幕切换效果。他使用After Effects制作视频，并通过调整混合模式实现透明效果，使Figma原型在视频上显示。此方法适用于游戏和移动应用开发，但可能不适用于商业软件和网页应用。</description>
+      <title>How Much Do Social Media Managers Make: Salary Insights and Factors</title>
+      <link>https://www.brandwatch.com/blog/how-much-do-social-media-managers-make/</link>
+      <description>社交媒体经理的薪资范围从无到80,000美元以上，平均年薪为55,000美元。薪资差异取决于专业技能、地理位置和行业。科技、金融、医疗保健和电子商务等行业支付最高薪资。要提升薪资，可以通过谈判、展示价值、寻找更高薪酬的工作机会或成为自由职业者来实现。</description>
     </item>
   
     <item>
-      <title>Sustainable Strides: How AI and Accelerated Computing Are Driving Energy Efficiency</title>
-      <link>https://blogs.nvidia.com/blog/accelerated-ai-energy-efficiency/</link>
-      <description>NVIDIA的技术在推动能源效率方面发挥着关键作用，通过加速计算和人工智能的结合，显著降低了多个行业的能耗。例如，金融、制造和医疗等行业都实现了显著的能源节约。NVIDIA的GPU和AI平台帮助用户在药物发现、数据分析、气候模拟等领域取得了突破，同时减少了碳足迹。NVIDIA的解决方案不仅提高了效率，还推动了可持续计算的发展。</description>
+      <title>Companies need to stop taking the easy way out on climate goals</title>
+      <link>https://www.technologyreview.com/2024/07/18/1095086/corporate-net-zero-goals/</link>
+      <description>企业应停止在气候目标上走捷径。文章指出，许多公司通过购买碳信用额度来达到“净零排放”的目标，而非真正减少排放。谷歌停止购买大量碳信用额度，转而投资于其他减少排放的方法，这表明了气候行动的进步。文章建议，企业应投资于永久性碳移除和难以脱碳领域的研发，以实现真正的气候行动。</description>
     </item>
   
     <item>
-      <title>How  we detected GQL caching issues with an ESLint plugin</title>
-      <link>https://engineering.hashnode.com/how-we-detected-gql-caching-issues-with-an-eslint-plugin</link>
-      <description>在Hashnode开发GraphQL API的过程中，我们遇到了缓存问题，主要原因是查询和突变响应中缺少id字段。为了解决这个问题，我们引入了ESLint插件来强制在CI/CD管道中包含id字段，从而减少调试缓存相关问题的耗时，并专注于构建新功能。</description>
+      <title>What’s next for SpaceX’s Falcon 9</title>
+      <link>https://www.technologyreview.com/2024/07/18/1095036/whats-next-for-spacexs-falcon-9/</link>
+      <description>SpaceX的Falcon 9火箭因发动机故障而停飞，突显了美国对这款火箭的依赖。此次故障导致美国宇航工业面临风险，并可能影响多项太空任务。SpaceX正在与联邦航空管理局合作调查，并寻求尽快恢复飞行。同时，美国需要探索Falcon 9的替代方案，以保障太空探索的多样性。</description>
     </item>
   
     <item>
-      <title>Mapping the Attack Surface from the Inside</title>
-      <link>https://engineering.mercari.com/en/blog/entry/20240722-mapping-the-attack-surface-from-the-inside/</link>
-      <description>Mercari Engineering团队开发了一套系统，以创建公司攻击面地图，旨在提高基础设施和服务的安全性。该系统允许开发者在部署和部署方式上具有灵活性，同时提供对基础设施、弱点和可弃用服务的良好监督。通过这个过程，团队更好地理解了基础设施，并学会了在设计映射未知系统的系统时拥抱灵活性。他们强调了开发者态度的重要性，认为有效的安全流程不应成为负担，并应通过直观的工具和清晰的网络安全信息来赋权开发者。</description>
+      <title>Ensuring Quality Forecasts with Databricks Lakehouse Monitoring</title>
+      <link>https://www.databricks.com/blog/ensuring-quality-forecasts-databricks-lakehouse-monitoring</link>
+      <description>Databricks Lakehouse Monitoring提供统一解决方案，监控数据质量和预测模型性能，确保预测准确。通过监测数据漂移、预测漂移、模型性能指标，及时发现并解决问题，优化模型训练流程。此外，Databricks平台支持多种预测库和AutoML，简化模型开发，并可通过Lakehouse Monitoring进行实时监控和部署。</description>
     </item>
   
     <item>
-      <title>Why API Security Is a Growing Concern for CISOs in 2024</title>
-      <link>https://nordicapis.com/why-api-security-is-a-growing-concern-for-cisos-in-2024/</link>
-      <description>2024年，API安全成为CISO关注的焦点。API使用增长导致攻击面扩大，数据泄露风险增加。CISO需采取综合策略，包括API治理、安全测试、第三方应用评估、基础设施更新和先进的安全解决方案，以及为开发者提供培训，以保护API免受威胁。</description>
+      <title>How Consumer Travel and Leisure Habits Have Changed</title>
+      <link>https://www.brandwatch.com/blog/hospitality-travel-leisure-trends/</link>
+      <description>消费者旅行和休闲习惯发生了变化，包括独自旅行的兴起、对全面度假的需求增加以及对“值得旅行”体验的重视。品牌应关注客户的安全担忧，提供休息和放松的体验，并确保提供物有所值的服务。</description>
     </item>
   
     <item>
-      <title>​​Try OpenShift AI and integrate with Apache Camel</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel</link>
-      <description>体验Red Hat OpenShift AI，学习如何使用Apache Camel构建AI应用。通过Developer Sandbox，无需本地环境，即可创建和部署模型，并使用OpenShift Dev Spaces开发智能应用。教程详细介绍了创建AI项目、使用模型工厂以及执行训练周期，帮助开发者快速上手。</description>
+      <title>API Discovery: How Do You Count APIs?</title>
+      <link>https://nordicapis.com/api-discovery-how-do-you-count-apis/</link>
+      <description>API发现是理解攻击面和风险的关键过程。文章探讨了如何定义和计数API，强调了API的多样性和复杂性。作者提出，通过生命周期状态分类和风险指标跟踪，可以更准确地管理API库存，从而提高安全性。</description>
     </item>
   
     <item>
-      <title>A quick look at large language models with Node.js, Podman desktop, and the Granite model</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model</link>
-      <description>本文探讨了使用Node.js和JavaScript与大型语言模型（LLM）结合使用的方法，特别是介绍了如何使用Podman AI Lab运行Granite模型。文章详细描述了安装Podman Desktop、下载Granite模型以及如何通过Node.js和Langchain.js实现检索增强生成（RAG）。通过实验，作者展示了如何将Granite模型与现有应用集成，并讨论了使用不同模型可能带来的差异。</description>
+      <title>Accessing Red Hat Data Grid in Red Hat OpenShift Container Platform 4</title>
+      <link>https://developers.redhat.com/articles/2024/07/18/accessing-red-hat-data-grid-red-hat-openshift-container-platform-4</link>
+      <description>Red Hat Data Grid在Red Hat OpenShift Container Platform 4中的访问方法包括通过Data Grid Operator或Helm Charts部署，支持集群部署和多种访问方式，如内部服务、Route、LoadBalancer和NodePort。这些方法各有优缺点，用户可根据需求选择合适的部署和访问方式。</description>
     </item>
   
     <item>
-      <title>Protecting your models made easy with Authorino</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/protecting-your-models-made-easy-authorino</link>
-      <description>使用Authorino简化模型保护
+      <title>Living Our Values Assessment</title>
+      <link>https://www.ebayinc.com/stories/news/living-our-values-assessment/</link>
+      <description>eBay致力于践行其价值观，致力于为所有人创造包容的工作环境。公司正在进行一项独立第三方评估，以衡量其在工作场所实践、政策和文化方面的进展，并听取员工和外部利益相关者的反馈。评估将审查现有政策和项目，并通过多种方式收集反馈，旨在促进公司成为更强大、更具包容性的企业。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: False True is True False</title>
+      <link>https://thedailywtf.com/articles/false-true-is-true-false</link>
+      <description>PHP中类型强制转换可能导致意外结果，如将字符串"false"和"true"视为布尔值。文章讨论了一个PHP示例，其中使用数组来存储布尔值，但可能导致索引错误。作者对这种做法表示质疑，认为其虽简单但复杂且不直观。</description>
+    </item>
+  
+    <item>
+      <title>Summary of Devfest Lille 2024</title>
+      <link>https://medium.com/criteo-engineering/summary-of-devfest-lille-2024-9ad32eb4aa3a?source=rss----fc3ea5a64a12---4</link>
+      <description>2024年Devfest Lille活动聚焦于AI和数字技术可持续发展，包括软件效率提升、架构建模、避免过度工程和AI信息管理等多个主题。活动为期两天，吸引了1500名参与者，通过一系列并行的研讨会和互动环节，分享了前沿技术和实践经验。</description>
+    </item>
+  
+    <item>
+      <title>Think Data Warehouse, NOT Database.</title>
+      <link>https://last9.io/blog/think-data-warehouse-not-database/</link>
+      <description>数据仓库而非数据库是软件监控世界的正确选择。监控数据需要以时间序列形式记录，以便分析趋势、检测异常、进行容量规划等。开源项目将监控导向了时间序列数据库（TSDB），如Prometheus，但这并非最佳选择。数据仓库更适合处理大量数据，优化读取性能，并支持业务智能。对于快速增长的组织，数据仓库能够有效降低成本并提高性能。</description>
+    </item>
+  
+    <item>
+      <title>A guide to Laravel's model events</title>
+      <link>https://laravel-news.com/model-events</link>
+      <description>Laravel模型事件是自动执行逻辑的强大功能，本文介绍了模型事件及其使用方法，包括事件和监听器的概念、模型事件的自动触发、如何监听模型事件以及一些注意事项。此外，还探讨了使用闭包和观察者监听模型事件的不同方法。</description>
+    </item>
+  
+    <item>
+      <title>The Evolution of Conversational Commerce: Authvia's Journey with Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/conversational-commerce-with-authvia</link>
+      <description>Authvia与Twilio合作，打造了创新的对话式商业平台，通过短信等即时通讯渠道，为商家提供高效的支付和客户服务解决方案。该平台提高了客户参与度和满意度，显著缩短了收款周期，并简化了支付流程，为商家带来更便捷的交易体验。</description>
+    </item>
+  
+    <item>
+      <title>Testing the EV ecosystem [part two]</title>
+      <link>https://www.thoughtworks.com/insights/blog/compliance/testing-the-EV-ecosystem-part-two</link>
+      <description>Thoughtworks在第二部分中深入探讨了电动汽车生态系统（EV）的测试，重点在于OCPP实施和合规性。文章介绍了如何通过自动化端到端测试来确保软件与OCPP 2.0.1标准的一致性，并使用OCTT工具进行合规性测试，以确保充电站和CSMS软件的互操作性，从而构建高效可靠的EV生态系统。</description>
+    </item>
+  
+    <item>
+      <title>Brighton Ruby 2024 Recap</title>
+      <link>https://thoughtbot.com/blog/brighton-ruby-2024-recap</link>
+      <description>在2024年布莱顿Ruby会议上，多位专家分享了关于Ruby编程和软件开发的经验。会议涵盖了从用户增长策略到技术挑战的多个主题，包括Rails应用的用户测试、减轻工作压力的方法、Ractors并发模型、SQLite数据库的使用、数据库调试技巧、代码设计概念等。与会者还参与了闪电演讲和游戏互动，享受了充满启发和知识的交流。</description>
+    </item>
+  
+    <item>
+      <title>Notes on "Why Swift's type checker is so slow"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-why-swifts-type-checker-is-so-slow/</link>
+      <description>Swift的类型检查器速度慢的原因分析：Swift 6在处理12行代码时耗时42秒，其标准库中的运算符重载和类型导致约束求解器尝试的组合呈指数级增长。即使求解器尝试所有组合，也无法解决某些错误。例如，一行代码的编译时间可达6.2秒。</description>
+    </item>
+  
+    <item>
+      <title>WHO LIVES ON YOUR PROFILE FOR ALL TO SEE? 🎶 SPONGEBOB, IN THE SHOP!</title>
+      <link>https://discord.com/blog/spongebob-shop-collection</link>
+      <description>为了庆祝《海绵宝宝》25周年，Discord商店将推出一系列以海绵宝宝为主题的头像装饰和资料效果，包括海绵宝宝、派大星、珊迪等角色。活动从7月18日持续至8月15日，支持桌面、iOS和Android平台。Nitro会员可享受折扣购买。</description>
+    </item>
+  
+    <item>
+      <title>DevRel newsletter — July 2024</title>
+      <link>https://www.elastic.co/blog/devrel-newsletter-july-2024</link>
+      <description>Elastic DevRel团队在2024年7月的通讯中介绍了针对OpenTelemetry的Elastic分布，支持Java、.NET、Python和Node.js，并提供了增强功能和兼容性。此外，还涵盖了语义搜索、AI搜索、性能监控和即将举行的活动。</description>
+    </item>
+  
+    <item>
+      <title>OKLCH in CSS: why we moved from RGB and HSL</title>
+      <link>https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl</link>
+      <description>OKLCH是CSS中一种新的颜色定义方式，它通过感知亮度、色相、饱和度和透明度来定义颜色，比RGB和HSL更易于理解和修改。OKLCH支持广泛的颜色范围，包括P3颜色，并且能够自动生成设计系统调色板。尽管OKLCH生态系统仍在发展中，但它为设计师提供了更多灵活性，并改善了可访问性。</description>
+    </item>
+  
+    <item>
+      <title>Transform CX with customer-centric AI strategies</title>
+      <link>https://www.twilio.com/en-us/blog/transform-cx-customer-centric-ai-strategies</link>
+      <description>Twilio通过客户中心的AI策略转型客户体验。许多自助服务渠道未能满足客户对快速、便捷和可靠解决方案的需求，导致客户满意度下降。Twilio的AI工具可分析大量实时客户数据，帮助服务代表个性化互动，并通过聊天机器人和虚拟助手处理常规查询，使人类代理有更多时间处理复杂问题，从而提高服务速度和准确性。</description>
+    </item>
+  
+    <item>
+      <title>[Math][SAT] Project Euler 877 and 878: solving using SAT-solver</title>
+      <link>https://yurichev.com/n/PE_877_878/</link>
+      <description>本文探讨了使用SAT求解器解决Project Euler的第877和878题。作者通过在GF(2)上进行数学运算，实现了方程的简化，并使用Python代码找到了问题的解。尽管计算过程缓慢，但最终得到了正确的结果，展示了SAT/SMT在原型设计中的实用性。</description>
+    </item>
+  
+    <item>
+      <title>BW #75: Refugees</title>
+      <link>https://www.bambooweekly.com/bw-75-refugees/</link>
+      <description>本周，我们将探讨国际难民的数据，了解涉及的国家和数量。这是一个庞大且复杂的话题，充满了许多悲伤和痛苦，以及难民来源国和到达国的政治动荡。我们将分析来自世界银行的数据，包括各国人口、难民流出数量等，以了解难民问题。</description>
+    </item>
+  
+    <item>
+      <title>Vulnerability in Cisco Smart Software Manager lets attackers change any user password</title>
+      <link>https://arstechnica.com/?p=2037733</link>
+      <description>Cisco Smart Software Manager On-Prem存在严重漏洞，允许攻击者无需认证即可更改任何用户的密码，包括管理员账户。该漏洞可能导致攻击者控制设备，进而威胁网络安全。Cisco已发布安全更新以修复此漏洞。</description>
+    </item>
+  
+    <item>
+      <title>Docker Desktop 4.32: Beta Releases of Compose File Viewer, Terminal Shell Integration, and Volume Backups to Cloud Providers</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-32/</link>
+      <description>Docker Desktop 4.32版本推出多项新功能，包括Beta版本的Compose文件查看器、终端集成和云提供商的卷备份，旨在简化数据工作流程并提高用户生产力。新功能包括改进的开发者体验、增强的生产力、简化数据管理和简化管理，旨在帮助开发团队更有效地构建、共享和运行创新应用程序。</description>
+    </item>
+  
+    <item>
+      <title>VS Code Snippets for Livewire and Alpine.js</title>
+      <link>https://laravel-news.com/vs-code-snippets-for-livewire-and-alpinejs</link>
+      <description>本文介绍了如何在VS Code中配置代码片段，特别是针对Livewire和Alpine.js应用程序的开发。作者分享了如何设置快捷方式来快速插入常用的代码片段，包括Livewire的mount方法和属性，以及Blade和Alpine.js的片段，如console.log和Tailwind CDN脚本。此外，还推荐了Caleb Porzio的“Make VS Code Awesome”课程，其中包含更多有用的代码片段和技巧。</description>
+    </item>
+  
+    <item>
+      <title>What is Docker and Kubernetes?</title>
+      <link>https://www.rosehosting.com/blog/what-is-docker-and-kubernetes/</link>
+      <description>Docker和Kubernetes是容器化技术的关键组成部分。Docker是一个运行在计算机上的运行时引擎，用于创建和执行容器，而Kubernetes是一个开源的集群管理平台，用于管理容器组。Docker主要用于容器创建，而Kubernetes专注于容器编排，适用于大规模微服务管理。两者都提供简单、快速、安全、高效和灵活的应用程序构建方式。</description>
+    </item>
+  
+    <item>
+      <title>Lessons Learned on a UI Revamp</title>
+      <link>https://www.singlestore.com/blog/lessons-learned-on-a-ui-revamp</link>
+      <description>在UI改版中，我们学到了用户对变化的极端反应需要被考虑，视觉提示对于引导用户适应新界面至关重要，以及用户对旧习惯的依赖难以改变。我们通过引入模态和指示器来帮助用户适应新变化，并意识到用户需要时间来习惯新界面。</description>
+    </item>
+  
+    <item>
+      <title>Use Private Key JWTs to Authenticate Your .NET Application</title>
+      <link>https://auth0.com/blog/use-private-key-jwt-to-authenticate-dotnet-app/</link>
+      <description>使用私钥JWT认证提升.NET应用程序的安全性。在敏感环境中，私钥JWT认证提供了一种更安全的替代方案，通过非对称加密来验证应用程序。这种方法涉及生成一对私钥和公钥，私钥由应用程序安全存储，公钥与授权服务器共享。当应用程序需要访问令牌时，它会使用私钥签名JWT，然后将其发送到授权服务器进行验证。这种方法适用于需要更高安全级别的业务环境，如金融、保险和医疗保健行业。</description>
+    </item>
+  
+    <item>
+      <title>How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT</title>
+      <link>https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/</link>
+      <description>研究人员利用GitHub创新图数据估计ChatGPT对软件开发活动的影响，发现ChatGPT的可用性显著增加了每个国家的Git推送数量，并提高了开发者的参与度。研究采用因果推断技术，分析了生成式AI工具对软件开发速度的影响，结果表明ChatGPT加速了既定的开发过程。</description>
+    </item>
+  
+    <item>
+      <title>How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT</title>
+      <link>https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/</link>
+      <description>研究人员利用GitHub创新图数据评估ChatGPT的影响，发现ChatGPT的可用性显著增加了每个国家的Git推送次数，并提高了开发者参与度，尤其是在Python和JavaScript等高级语言中。</description>
+    </item>
+  
+    <item>
+      <title>Boost sales efficiency with 33 AI prompts for sales teams</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/33-ai-prompt-ideas-for-sales-teams</link>
+      <description>本文探讨了如何利用人工智能提示提高销售团队的效率。通过自动化任务、生成洞察和改善客户互动，AI提示可以帮助销售团队更智能地工作。文章提供了33个AI提示示例，涵盖销售流程优化、客户细分、竞争对手分析和客户流失预测等方面，旨在帮助销售团队提高业绩。</description>
+    </item>
+  
+    <item>
+      <title>Berlin Buzzwords &amp; MICES24: Paradoxes and Paradigm shifts</title>
+      <link>https://algolia.com/blog/engineering/berlin-buzzwords-mices24/</link>
+      <description>在2024年柏林的Berlin Buzzwords和MICES24会议上，讨论了技术开放性的悖论、LLM的范式转变、语义搜索、RAG和图像理解等主题。会议强调了技术对社会的影响，以及如何通过开源和知识共享来促进公平和创新的未来。</description>
+    </item>
+  
+    <item>
+      <title>GPU Droplets, HIPAA Covered Products, and more updates from DigitalOcean Deploy</title>
+      <link>https://www.digitalocean.com/blog/gpu-droplets-hipaa-covered-products-deploy-updates</link>
+      <description>DigitalOcean发布了一系列新功能和产品更新，包括GPU Droplets、符合HIPAA标准的云产品、全球负载均衡器（Beta版）等。这些更新旨在满足开发者对高性能计算、数据安全和全球部署的需求，同时通过角色基于访问控制（RBAC）等新特性提升安全性。DigitalOcean还计划推出生成式AI服务，以支持更广泛的开发需求。</description>
+    </item>
+  
+    <item>
+      <title>Data Cloud in Sandbox Environments is Now in Beta</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/data-cloud-in-sandbox-environments.html</link>
+      <description>Salesforce宣布Data Cloud功能现在可在沙盒环境中进行开发和测试，为开发者提供了一个统一的测试平台，结合了Data Cloud的强大功能和现有的Salesforce数据、配置和工作流程。这允许开发者在一个安全、隔离的环境中测试、定制和培训用户，而不会影响生产环境。通过沙盒，开发者可以探索和验证Data Cloud的多种能力，如数据流、模型、AI和Analytics，以及个性化营销等，从而在将更改部署到生产环境之前确保所有方面都能和谐工作。</description>
+    </item>
+  
+    <item>
+      <title>Trump allies want to “Make America First in AI” with sweeping executive order</title>
+      <link>https://arstechnica.com/?p=2037557</link>
+      <description>特朗普盟友计划通过全面行政命令“让美国在人工智能领域领先”，旨在推动军事技术发展并减少人工智能开发的监管。该计划包括一系列“曼哈顿计划”，旨在提升军事人工智能能力，并呼吁立即审查对人工智能发展的“不必要和繁重的监管”。</description>
+    </item>
+  
+    <item>
+      <title>age Plugins</title>
+      <link>https://words.filippo.io/dispatches/age-plugins/</link>
+      <description>Age是一个文件加密工具，支持将文件加密给多个接收者，并使用相应的身份进行解密。它具有内置的接收者类型，如公钥和密码加密，同时支持第三方接收者类型。Age的插件系统允许使用不同的算法和硬件，甚至远程API。文章介绍了Age的格式、库和工具级别的实现，以及如何使用插件进行加密和解密。</description>
+    </item>
+  
+    <item>
+      <title>Tech Trends 2025 : prenez le pouls de la tech avec OCTO Pulse</title>
+      <link>https://blog.octo.com/tech-trends-2025--prenez-le-pouls-de-la-tech-avec-octo-pulse</link>
+      <description>2025年技术趋势展望：GenAI的普及、社会经济发展压力、可持续发展和IT监管成为关键议题。文章分析了软件工程、架构、可持续性和组织结构等方面的趋势，强调分布式软件工程、MACH架构和零信任安全的重要性。</description>
+    </item>
+  
+    <item>
+      <title>Python Protocols: Leveraging Structural Subtyping</title>
+      <link>https://realpython.com/python-protocol/</link>
+      <description>Python协议通过定义类必须实现的方法和属性来指定类型。它们在Python的类型提示系统中扮演重要角色，允许通过外部工具进行静态类型检查。协议克服了传统类型检查的限制，使静态鸭子类型成为可能。本文介绍了Python协议的概念、如何使用它们进行类型提示和静态鸭子类型，以及如何创建自定义协议。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 7</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240717-00/?p=109975</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动。作者Raymond Chen解释了如何通过实现异步接口来模拟已完成的异步活动，而不是使用协程。他提供了一个名为`completed_action`的结构体，该结构体实现了`IAsyncAction`接口，并演示了如何使用它来创建一个总是立即完成的异步操作。此外，他还讨论了如何处理进度更新和错误代码。</description>
+    </item>
+  
+    <item>
+      <title>Decoding How AI-Powered Upscaling on NVIDIA RTX Improves Video Quality</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-upscaling/</link>
+      <description>NVIDIA的RTX平台利用人工智能技术提升视频画质，通过分析图像和运动矢量生成新细节，实现视频无损放大。RTX Video Super Resolution可提升至4K分辨率，支持AI HDR，将标准动态范围内容转换为HDR。此外，GeForce NOW和SHIELD TV等设备也支持AI增强的视频画质提升，为用户提供更优质的观看体验。</description>
+    </item>
+  
+    <item>
+      <title>Transforming the energy industry through disruptive innovation</title>
+      <link>https://www.technologyreview.com/2024/07/17/1095012/transforming-the-energy-industry-through-disruptive-innovation/</link>
+      <description>施耐德电气首席创新官Nadège Petit强调，通过颠覆性创新转型能源行业，应对气候变化和能源需求增长的双重挑战。她提出，利用数字技术，如AI驱动的物联网解决方案，可以提升能源使用效率和弹性。Petit认为，逐步实施开放标准，推动短期影响，同时为长期脱碳目标奠定基础至关重要。她还强调了合作和创新的力量，以及施耐德电气通过投资初创企业加速可持续能源解决方案的重要性。</description>
+    </item>
+  
+    <item>
+      <title>New utilities to work with Vercel Functions</title>
+      <link>https://vercel.com/changelog/new-utilities-to-work-with-vercel-functions</link>
+      <description>Vercel Functions新增实用工具，包括地理位置、IP地址获取和系统环境变量获取等功能。通过安装最新包，开发者可立即使用这些方法。Vercel致力于为前端开发者提供快速、可靠的平台，助力创新。</description>
+    </item>
+  
+    <item>
+      <title>The Download: Big Tech’s climate claims, and reducing your music streaming carbon footprint</title>
+      <link>https://www.technologyreview.com/2024/07/17/1095061/the-download-big-techs-climate-claims-and-reducing-your-music-streaming-carbon-footprint/</link>
+      <description>MIT Technology Review最新报道指出，尽管亚马逊和谷歌在气候承诺方面存在不足，但谷歌在减少温室气体排放方面的方法更具可辩护性。同时，文章还探讨了如何通过音乐流媒体减少碳排放，并提供了减少碳足迹的建议。</description>
+    </item>
+  
+    <item>
+      <title>How to Break Out of the Fear Loop</title>
+      <link>https://spin.atomicobject.com/how-to-break-out-of-the-fear-loop/</link>
+      <description>如何摆脱恐惧循环
 
-本文介绍了如何使用Authorino在Open Data Hub环境中部署和认证模型。通过简单的步骤，用户可以轻松地为模型添加认证，确保模型免受未经授权的访问。文章详细说明了安装Authorino Operator、配置认证策略以及部署示例模型的过程。通过Open Data Hub Dashboard，用户可以轻松地创建自定义ServingRuntime并部署模型，同时使用Authorino进行安全保护。</description>
+本文探讨了如何识别恐惧在主导我们的行为，并提供了克服恐惧、勇敢行动的策略。作者通过个人经历，分享了如何通过接受失败、培养自信和倾听直觉来改变恐惧循环，从而促进个人成长和职业发展。</description>
     </item>
   
     <item>
-      <title>5 myths about platform engineering, debunked</title>
-      <link>https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked</link>
-      <description>平台工程并非拖慢开发进程的负担，而是提升开发效率的助力。它通过自动化基础设施配置和提供安全、合规的预配置环境，使开发者能够更快地交付代码。平台工程不仅不牺牲安全性和治理，反而通过内置安全功能和自动化工具来增强它们。此外，平台工程强调团队合作，需要与产品团队、安全专家和运维团队紧密合作，以确保平台的有效性和用户友好性。最后，平台工程可以逐步实施，无需颠覆现有基础设施，而是通过渐进式的方法来提升组织的技术基础。</description>
+      <title>How I Take Smart Daily Notes as a Developer</title>
+      <link>https://spin.atomicobject.com/smart-daily-notes-developer/</link>
+      <description>作为一名开发者，作者分享了他如何通过日常笔记来提高个人效率。他从量化生产力开始，逐渐发展出一种好奇心驱动的文档系统，使用多种工具如Evernote、Markdown和Obsidian来记录任务、日志、会议和思考。这种方法帮助他保持工作清晰，提高沟通效率，并促进个人成长。</description>
     </item>
   
     <item>
-      <title>This Luxury Watch Seller Built a Multi-Million Dollar Business</title>
-      <link>https://www.ebayinc.com/stories/news/this-luxury-watch-seller-built-a-multi-million-dollar-business/</link>
-      <description>Arman Baig是一位第三代奢侈品手表卖家，他在eBay上建立了一家价值数百万美元的生意。他从全球各地采购独特的手表，并提供个性化的客户体验。Baig从小就在父亲的高级珠宝和手表店里长大，学习了销售艺术，并最终将家族生意扩展到eBay。他的店铺展示了全球最新的手表趋势，服务于国际客户。Baig强调诚信和卓越的客户服务，通过快速配送和全面退款保证赢得了良好的买家评价。他计划在未来十年内将Swiss Ice打造成领先的在线奢侈品手表零售商。</description>
+      <title>Using SQL and Your Chat.db File to Look Through All of Your iMessages</title>
+      <link>https://spin.atomicobject.com/search-imessage-sql/</link>
+      <description>使用SQL查询iMessage数据库（Chat.db文件）以搜索所有iMessage消息。文章介绍了如何设置环境、探索数据库表、执行查询以及访问附件。作者详细说明了如何通过SQL查询找到特定文本、计算消息总数、查看与特定人的消息统计等信息。此外，还提供了如何打开和删除附件的示例。</description>
     </item>
   
     <item>
-      <title>Live Data Transfer: RDS to DynamoDB Made Easy</title>
-      <link>https://bytes.swiggy.com/live-data-transfer-rds-to-dynamodb-made-easy-2f2aef94f847?source=rss----9556560f659---4</link>
-      <description>本文介绍了从RDS到DynamoDB的数据库迁移策略。通过使用AWS的S3导入功能，将数据从CSV格式转换为DynamoDB ION格式，并处理了数据一致性和ID冲突问题。文章详细描述了迁移过程中的关键步骤，包括数据导入、最终一致性考虑、缓慢推出和成本执行时间，以确保迁移过程平稳进行。</description>
+      <title>Quiz: How Do You Choose Python Function Names?</title>
+      <link>https://realpython.com/quizzes/python-function-names/</link>
+      <description>本篇文章是关于如何选择Python函数名的互动测验。通过解答7个问题，复习命名规则和惯例，了解良好命名的函数如何提高代码可读性和维护性，减少错误。测验无时间限制，每答对一题得1分，满分100%。</description>
     </item>
   
     <item>
-      <title>Data Fetching with Server Actions in Next.js</title>
-      <link>https://www.robinwieruch.de/next-server-actions-fetch-data/</link>
-      <description>Next.js中的Server Actions在数据获取方面提供了便利，允许在服务器端执行代码，直接访问数据层。虽然官方推荐在Client Components中使用Route Handlers进行数据获取，但Server Actions也可以用于Client Components，以实现类型安全的远程过程调用。这种方法可以重用Server Components中的函数，提高开发效率，但Server Actions执行HTTP POST请求，且按顺序运行。作者建议在需要时使用Server Actions，并关注未来官方推荐的演变。</description>
+      <title>Unlocking True Water Risk Assessment Worldwide</title>
+      <link>https://www.databricks.com/blog/unlocking-true-water-risk-assessment-worldwide</link>
+      <description>Databricks的博客文章探讨了全球水风险评估的重要性，强调了实时水风险数据在保险、金融、公共安全和更多领域中的应用。文章指出，缺乏实时数据会导致风险评估不准确，并可能导致经济损失和人员伤亡。Divirod公司利用Databricks平台处理大量水数据，建立了一个包含数亿实时数据系列的水风险数据湖，帮助用户识别异常情况，从而提高对水相关挑战的应对能力。</description>
     </item>
   
     <item>
-      <title>CodeSOD: Serial Properties</title>
-      <link>https://thedailywtf.com/articles/serial-properties</link>
-      <description>Remy Porter在TDWTF上撰文，讨论了C#代码中一个设置和读取属性值时出现的意外问题。代码中，一个字符串属性被错误地序列化为JSON，并引入了一个名为`IsNotValid`的扩展方法，这可能导致不期望的行为。文章指出，这种在属性访问器中放置非标准代码的做法在.NET语言中并不罕见，并提醒开发者注意此类潜在陷阱。</description>
+      <title>Five ways to make music streaming better for the climate</title>
+      <link>https://www.technologyreview.com/2024/07/17/1095024/music-streaming-climate-friendly-tips/</link>
+      <description>音乐流媒体对环境的影响可以通过以下五种方式来改善：使用小型设备而非大电视，延长手机使用时间，回归数字下载，推动流媒体平台使用可再生能源，以及珍惜音乐并抵制过度消费。这些措施旨在减少碳排放，使音乐流媒体对环境的影响更小。</description>
     </item>
   
     <item>
-      <title>Elastic data tiering strategy: Optimizing for a resilient and efficient implementation</title>
-      <link>https://www.elastic.co/blog/elastic-data-tiering-strategy</link>
-      <description>Elastic数据分层策略：优化弹性、高效实施
+      <title>Google, Amazon and the problem with Big Tech’s climate claims</title>
+      <link>https://www.technologyreview.com/2024/07/17/1095019/google-amazon-and-the-problem-with-big-techs-climate-claims/</link>
+      <description>谷歌和亚马逊在实现气候目标方面都存在问题，但谷歌在减少温室气体排放方面的方法更具可辩护性。文章指出，公司实现净零排放的方式比速度更重要，应关注更广泛的气候影响，而非仅仅平衡碳排放。谷歌正在采取更可靠的方法，包括投资于碳移除技术和24/7清洁能源。亚马逊则依赖碳信用和可再生能源证书，但面临质疑，其清洁能源目标可能存在夸大之嫌。</description>
+    </item>
+  
+    <item>
+      <title>Is API Design an Art?</title>
+      <link>https://nordicapis.com/is-api-design-an-art/</link>
+      <description>API设计是一门融合了分析思维和创造力的艺术，它不仅仅是将产品需求转化为API的过程，还涉及到如何提供吸引人的开发者体验。API设计需要平衡艺术和科学，既要考虑功能也要注重形式，同时确保API的可发现性、可理解和易于使用。尽管自动化和AI在API开发中扮演重要角色，但它们不能完全取代人类开发者对领域知识的深入理解和主观判断。API设计的关键在于创造既符合用户需求又超越预期的解决方案，使开发者能够更轻松地工作。</description>
+    </item>
+  
+    <item>
+      <title>A brief introduction to Apps and Stacks Container Images</title>
+      <link>https://developers.redhat.com/articles/2024/07/17/brief-introduction-apps-and-stacks-container-images</link>
+      <description>本文介绍了Apps和Stacks容器镜像，从用户和开发者两个角度进行了阐述。Apps和Stacks容器镜像分为两类：Source-to-Image（S2I）镜像和无S2I镜像。S2I镜像包括Node.js、PHP、Ruby、Python等语言的容器镜像，无S2I镜像包括PostgreSQL、MySQL、Redis等数据库容器镜像。这些镜像支持多种操作系统，如Fedora、CentOS Stream、Red Hat Enterprise Linux等。用户可以通过容器注册库获取所需版本的容器镜像，开发者可以参与贡献新的容器版本。</description>
+    </item>
+  
+    <item>
+      <title>Simplifying assertions in Terraform using provider-defined functions</title>
+      <link>https://www.hashicorp.com/blog/simplifying-assertions-in-terraform-using-provider-defined-functions</link>
+      <description>使用Terraform Assert提供程序简化断言，提高基础设施配置的可靠性和完整性。通过提供定义的函数如http_success()、expired()和between()，Assert提供程序简化了Terraform配置，使变量验证、持续验证和测试更加容易。这些功能与Terraform内置函数互补，允许用户根据需求选择最合适的工具。通过使用Assert提供程序，可以确保基础设施配置符合标准，遵循最佳实践，并减少配置错误的风险。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Sanitary Paths</title>
+      <link>https://thedailywtf.com/articles/sanitary-paths</link>
+      <description>Remy Porter在TDWTF上撰文讨论了C#中的SanitizePath方法。该方法旨在清理文件路径中的无效字符，但若路径无效，则仅记录错误并返回原始路径，导致其实用性大打折扣。Christian甚至将其简化为无操作，并最终从应用中移除。</description>
+    </item>
+  
+    <item>
+      <title>API Versioning in Laravel 11</title>
+      <link>https://laravel-news.com/api-versioning-in-laravel-11</link>
+      <description>Laravel 11发布后，简化了应用骨架，移除了不必要的文件，并允许通过Artisan命令安装API。文章介绍了在Laravel中通过分离路由文件来管理API版本的方法，包括在`api.php`中添加版本前缀和创建相应的控制器。此外，还讨论了在`bootstrap/app.php`中定义版本化路由的另一种方法。</description>
+    </item>
+  
+    <item>
+      <title>How To Cheer For Your Sports Team In Six Languages</title>
+      <link>https://www.babbel.com/en/magazine/sports-cheers</link>
+      <description>学习六种语言为你的体育队伍加油助威。文章介绍了如何通过学习不同语言的加油口号和欢呼声，融入全球体育赛事的观众中。提供了西班牙语、法语、德语、意大利语、俄语和葡萄牙语的常见体育加油词，帮助球迷在国际比赛中为支持的队伍加油。</description>
+    </item>
+  
+    <item>
+      <title>Product management insights: Measuring change</title>
+      <link>https://thoughtbot.com/blog/product-management-insights-measuring-change</link>
+      <description>产品管理洞察：衡量变化
 
-本文探讨了如何通过数据分层策略优化数据存储，以实现成本节约和提升数据价值。通过分析业务目标，确定数据收集、使用和保留策略，企业可以优化数据存储和利用，提高效率并降低成本。案例研究展示了如何通过分层存储优化日志管理、提高许可证利用率、增强业务效率和扩展新用例。此外，文章还讨论了数据分层、数据增长和保留、存储优化以及重新架构的好处。通过实施数据分层策略，企业可以优化性能，同时高效地存储大量数据。</description>
+本文探讨了如何有效衡量产品变化，强调了定量和定性方法的重要性。通过结合数据分析、用户反馈和测试，产品团队能够获得全面的洞察，以指导战略决策并提升产品。文章还讨论了用户体验测试、分析实施挑战、用户细分和A/B测试策略，以及平衡产出和结果的重要性。</description>
     </item>
   
     <item>
-      <title>Device Trust for the Web: The Hard Parts</title>
-      <link>https://goteleport.com/blog/device-trust-for-web-challenges-and-solutions/</link>
-      <description>Teleport 16通过设备信任、多因素认证和VNET，加强了基础设施防御深度。文章探讨了设备信任在Web上的挑战，包括浏览器隔离和过程边界攻击，以及Teleport如何通过“Token Move check”等技术解决这些问题，确保只有可信设备才能访问敏感资源。</description>
-    </item>
-  
-    <item>
-      <title>"work hard, play hard"</title>
-      <link>https://taylor.town/work-hard-play-hard</link>
-      <description>努力工作，尽情享受生活。</description>
-    </item>
-  
-    <item>
-      <title>How ISVs Can Add Voice as a Channel to their AI Platform</title>
-      <link>https://www.twilio.com/en-us/blog/isvs-voice-channel-ai-platform</link>
-      <description>Twilio为ISV提供了一种将语音作为渠道添加到其AI平台的方法。通过Twilio的全球通信网络，ISV可以确保其AI平台能够连接到世界各地的用户，提供本地化的服务，减少延迟并提高通话质量。文章概述了所需的先决条件、产品概述和架构，以帮助ISV构建可扩展的语音解决方案。</description>
-    </item>
-  
-    <item>
-      <title>Error Handling in Go: 6 Effective Approaches</title>
-      <link>https://www.twilio.com/en-us/blog/error-handling-go-6-effective-approaches</link>
-      <description>Go语言错误处理：6种有效方法
+      <title>Unravel Gridlock: An exploratory workshop for business transformation with evolutionary service design</title>
+      <link>https://www.thoughtworks.com/insights/articles/Unravel-Gridlock-an-exploratory-workshop-for-business-transformation-with-evolutionary-service-design</link>
+      <description>探索业务转型：通过进化式服务设计解决组织僵局
 
-本文探讨了Go语言中处理错误的有效方法。Go不同于Java和C#等语言，它通过返回错误值而非异常来处理错误。文章介绍了Go的错误类型、错误处理机制，并通过示例展示了如何创建错误、返回错误值以及立即处理错误。这种方法强调了显式错误处理，有助于编写清晰、可维护和健壮的代码。</description>
+本文探讨了业务转型中的挑战，特别是如何通过进化式服务设计来克服组织僵局。文章以一家豪华汽车公司的案例为例，说明了如何通过引入进化式服务设计方法，将复杂问题分解为可实现的任务，并促进团队合作和持续改进。这种方法强调了用户中心的设计，通过角色扮演和用户故事来确保满足用户需求。通过这种方式，组织能够更有效地应对转型过程中的挑战，并实现长期的成功。</description>
     </item>
   
     <item>
-      <title>Announcing Twilio’s AI Startup Searchlight 2.0 Awards Program</title>
-      <link>https://www.twilio.com/en-us/blog/twilio-ai-startup-searchlight-2-0</link>
-      <description>Twilio推出AI初创企业搜索灯2.0奖项计划，旨在表彰利用大型语言模型、生成式人工智能和大数据等新兴技术与Twilio结合，创新通信和客户体验的初创企业。获奖者将获得Twilio信用额度、苹果礼品卡，并有机会在Twilio市场展示其产品。申请截止日期为2024年9月29日。</description>
+      <title>Why We’re Updating Our Logo</title>
+      <link>https://goteleport.com/blog/why-we-are-updating-our-logo/</link>
+      <description>Teleport更新了其标志，以更好地代表其使命和价值观。新标志去除了代表公司名称的“T”，取而代之的是一个圆形元素，象征着信任、统一、创新和客户至上。这一变化旨在强调Teleport作为安全基础设施访问平台的身份，并庆祝其成长历程。</description>
     </item>
   
     <item>
-      <title>What does Open Source AI Even Mean</title>
-      <link>https://www.amazingcto.com/what-does-open-source-ai-meta-even-mean/</link>
-      <description>开源AI的含义并不明确。尽管开源AI成为热门话题，但对其定义缺乏共识。开源AI不仅涉及许可证，还包括工具链和训练数据。当前对AI工具和组件的理解不足，导致开源AI的实际含义模糊不清。</description>
+      <title>Ep. 9: Go Package Design: Authorization and API Structures</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/go-package-design-authorization-and-api-structures-ep-9.html</link>
+      <description>本篇博客深入探讨了在Go包中实现强大的授权和API结构。文章介绍了如何使用Rego脚本来实现基于角色的授权逻辑，以及如何组织导出和未导出的API以保持代码的清晰和可维护性。此外，还讨论了错误管理和上下文的使用，以确保数据流畅和高效处理。通过实际示例和实用技巧，文章帮助开发者构建高质量、可扩展和可维护的软件系统。</description>
+    </item>
+  
+    <item>
+      <title>Automate Dialogflow CX Virtual Agent Creation with API Calls and Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/automate-dialogflow-cx-virtual-agent-creation-api-calls</link>
+      <description>使用API调用和Twilio自动化创建Dialogflow CX虚拟代理。通过Google Dialogflow CX创建一个代理，然后使用Twilio API创建多个虚拟代理连接器，指向同一个Dialogflow CX代理。这种方法适用于需要快速扩展虚拟代理的ISV或客户。</description>
+    </item>
+  
+    <item>
+      <title>[Math] Project Euler 108 and 110</title>
+      <link>https://yurichev.com/n/PE_108_110/</link>
+      <description>本文探讨了Project Euler的第108和第110个问题。第108个问题要求找到满足特定条件的n值，使得方程\( \frac{1}{x} + \frac{1}{y} = \frac{1}{n} \)有超过1000个不同的整数解。作者使用Wolfram Mathematica解决了这个问题。第110个问题更复杂，要求找到使得A018892函数超过\( 4 \cdot 10^6 \)个解的最小数。作者通过分析素数因子和它们的幂次，找到了满足条件的最小数。</description>
+    </item>
+  
+    <item>
+      <title>Inside the Vision for SingleStore's New Portal Navigation</title>
+      <link>https://www.singlestore.com/blog/singlestores-new-portal-navigation</link>
+      <description>SingleStore即将推出新的门户导航，以更好地服务于不断发展的业务。新导航旨在解决现有界面的问题，并重新定义核心用户群体。设计目标是创建一个可扩展的导航方案，增强管理员和开发者的工作流程，并提高用户对对象及其关系的理解。新功能包括可折叠侧边栏、数据工作室模式探索器和通用部署下拉菜单。</description>
+    </item>
+  
+    <item>
+      <title>Rite Aid says breach exposes sensitive details of 2.2 million customers</title>
+      <link>https://arstechnica.com/?p=2037497</link>
+      <description>Rite Aid表示，一次数据泄露事件暴露了220万客户的敏感信息，包括姓名、地址、出生日期和驾照号码。泄露的数据与2017年6月6日至2018年7月30日期间的零售产品购买或尝试购买有关。Rite Aid在内部调查后迅速采取措施终止未授权访问并修复受影响的系统。</description>
+    </item>
+  
+    <item>
+      <title>Former OpenAI researcher’s new company will teach you how to build an LLM</title>
+      <link>https://arstechnica.com/?p=2037425</link>
+      <description>前OpenAI研究员安德烈·卡尔帕西创立了名为Eureka Labs的新AI学习平台，旨在教授学生如何构建大型语言模型（LLM）。该平台结合了专家设计的课程材料和基于LLM的人工智能教学助手，以提供个性化的教育体验，并使高质量的教育更加普及。</description>
+    </item>
+  
+    <item>
+      <title>Mercari Ranked #1 in Technology Branding Ranking for three years in a row!</title>
+      <link>https://engineering.mercari.com/en/blog/entry/20240716-dx-award-2024/</link>
+      <description>Mercari连续三年荣获日本CTO协会“技术品牌排名”第一，得益于工程师们的日常技术贡献和积极参与社区活动。公司致力于培养工程师间的交流，支持开源社区，并致力于传播工程组织提供的价值。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Replit Teams</title>
+      <link>https://blog.replit.com/teams-ga</link>
+      <description>Replit Teams推出，旨在为21世纪团队提供更高效的软件协作工具。它简化了软件开发流程，通过AI辅助、实时协作和便捷的部署功能，使非工程师也能参与软件开发，提高团队协作效率。</description>
+    </item>
+  
+    <item>
+      <title>Fish in Water</title>
+      <link>https://blog.rootsofprogress.org/thm-ch1-fish-in-water</link>
+      <description>现代社会的高科技和工业成就让我们享受着前所未有的繁荣，但我们也容易忽视这些成就背后的艰辛和牺牲。作者通过对比过去和现在的生活条件，提醒我们珍惜科技进步带来的便利，并感激前人的努力，同时也要继续推动进步，为后代创造更美好的世界。</description>
+    </item>
+  
+    <item>
+      <title>Nomad Bench: Load testing and benchmarking for Nomad</title>
+      <link>https://www.hashicorp.com/blog/nomad-bench-load-testing-and-benchmarking-for-nomad</link>
+      <description>Nomad Bench是一个用于Nomad集群的负载测试和基准测试工具，旨在帮助用户理解Nomad的可扩展性并发现大规模部署中的问题。它由核心集群和测试集群组成，使用nomad-nodesim模拟大量Nomad客户端，并通过InfluxDB收集和分析数据。Nomad Bench允许用户进行可重复的大规模测试，以优化Nomad的性能和资源使用。</description>
+    </item>
+  
+    <item>
+      <title>How and when to use an authoritative leadership style</title>
+      <link>https://www.atlassian.com/blog/leadership/authoritative-leadership</link>
+      <description>权威领导风格：定义、优点和缺点
+
+权威领导风格并非如名字所示那样严格和无情。这种领导方式在特定情况下有其优点。权威领导者设定目标并提供资源，同时鼓励团队成员自主决定最佳路径。这种风格有助于提高决策速度和效率，提供清晰的指导，并增强团队信任。然而，它也可能导致过度依赖领导者、缺乏团队参与和潜在的微观管理问题。在面临重大变革、需要快速决策、新员工入职或团队面临批评时，权威领导风格可能最为有效。</description>
+    </item>
+  
+    <item>
+      <title>A Brief History of AI: How Did We Get Here, and What's Next?</title>
+      <link>https://www.timescale.com/blog/a-brief-history-of-ai/</link>
+      <description>人工智能从科幻变为现实，本文探讨了人工智能的历史、发展及其对未来的影响。文章指出，人工智能的发展得益于合作与开放分享、经济投资、以及技术突破。作者强调，了解人工智能的历史有助于预测其未来，并提出了三个关键教训：合作与开放分享、经济周期、以及技术发展速度的加快。</description>
+    </item>
+  
+    <item>
+      <title>AI Lab: The secrets to keeping machine learning engineers moving fast</title>
+      <link>https://engineering.fb.com/2024/07/16/developer-tools/ai-lab-secrets-machine-learning-engineers-moving-fast/</link>
+      <description>Meta的AI Lab通过优化机器学习工程师的首次批量时间（TTFB）来加速开发速度。该框架允许持续进行A/B测试，以主动改进并防止回归，从而将TTFB减少高达40%。AI Lab通过减少TTFB的延迟，提高了工程师的迭代速度，并促进了Meta的整体创新速度。</description>
+    </item>
+  
+    <item>
+      <title>How to bridge the gap between Web2 skills and Web3 workflows</title>
+      <link>https://stackoverflow.blog/2024/07/16/how-to-bridge-the-gap-between-web2-skills-and-web3-workflows/</link>
+      <description>如何将Web2技能与Web3工作流程相结合——使用JavaScript构建Web3应用，XRPL简化了区块链开发，提供快速、低成本的跨境支付，并支持使用JavaScript、Java和Python等熟悉的语言进行编程。XRPL的DEX功能支持传统订单簿和自动市场制作，优化交易效率。通过XRPL Learning Portal，Web2开发者可以学习如何在XRPL上构建应用，并利用现有技能过渡到区块链开发。</description>
+    </item>
+  
+    <item>
+      <title>Inline Code Suggestions, Test Generation, and More With Einstein for Developers</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/inline-code-suggestions-test-generation-and-more-with-einstein-for-developers.html</link>
+      <description>Einstein for Developers（Beta）是一款由人工智能驱动的代码生成工具，旨在提高开发者的生产力。它支持Apex和LWC开发，可安装于Visual Studio Code和Code Builder，且完全免费。该工具集成了大型语言模型、新的配置面板、Apex和LWC的行内自动完成以及测试用例生成等功能，旨在帮助开发者更快地完成工作。</description>
+    </item>
+  
+    <item>
+      <title>Big Brain Discount for PhDs (1% off)</title>
+      <link>https://catonmat.net/phd-big-brain-discount</link>
+      <description>PhD用户可享受Browserling和Online Tools的1%折扣，使用优惠码BIGBRAINS。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 6</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240716-00/?p=109973</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动的方法。作者介绍了如何使用MakeCompleted和MakeFailed函数创建异步活动，并提出了使用模板和转换操作符来简化代码的技巧。文章还讨论了在协程外创建失败或完成的异步活动的情况，并提出了改进建议。</description>
+    </item>
+  
+    <item>
+      <title>Exercises Course: Introduction to Web Scraping With Python</title>
+      <link>https://realpython.com/courses/exercises-introduction-web-scraping/</link>
+      <description>本课程介绍如何使用Python进行网页抓取，包括使用字符串方法和正则表达式解析网站数据，以及与表单和其他网站组件交互。课程包含23个课时，视频字幕和完整脚本，并提供相关资源，适合有一定基础的Python学习者。</description>
+    </item>
+  
+    <item>
+      <title>Eliminating hardware with Load Balancing and Cloudflare One</title>
+      <link>https://blog.cloudflare.com/eliminating-hardware-with-load-balancing-and-cloudflare-one</link>
+      <description>Cloudflare推出了一项新的负载均衡解决方案，支持本地流量管理（LTM），并扩展到私有网络，允许组织在公共和私有网络之间无缝平衡流量。该解决方案通过Cloudflare One平台与云负载均衡的集成，消除了对专用硬件负载均衡器的需求，降低了成本并提高了效率。</description>
+    </item>
+  
+    <item>
+      <title>Next-Gen Video Editing: Wondershare Filmora Adds NVIDIA RTX Video HDR Support, RTX-Accelerated AI Features</title>
+      <link>https://blogs.nvidia.com/blog/studio-wondershare-filmora-rtx-ai-july-driver/</link>
+      <description>Wondershare Filmora视频编辑软件新增NVIDIA RTX Video HDR支持，显著提升视频质量。同时，OBS Studio和XSplit Broadcaster支持Twitch增强式直播，提供更高质量的直播体验。NVIDIA Studio Driver更新包含创意应用更新，支持创作者使用最新技术。内容创作者Kevin Stratvert分享如何利用AI功能在Filmora中创作内容。</description>
+    </item>
+  
+    <item>
+      <title>City of Hope Redefines Predictive Sepsis Detection Using Kafka</title>
+      <link>https://www.confluent.io/blog/city-of-hope-redefines-predictive-sepsis-detection-using-kafka/</link>
+      <description>City of Hope利用Apache Kafka构建实时数据流平台，以预测和预防骨髓移植患者的败血症风险。该平台通过整合患者生命体征、药物、实验室结果和ADT数据，实时分析并触发临床工作流程和通知，从而降低败血症和重症监护病房的转诊率。Confluent Cloud在Azure上的部署为City of Hope提供了可扩展和可靠的实时基础设施，确保了数据流平台的稳定运行。</description>
+    </item>
+  
+    <item>
+      <title>Q2 2024 Internet disruption summary</title>
+      <link>https://blog.cloudflare.com/q2-2024-internet-disruption-summary</link>
+      <description>2024年第二季度，全球互联网中断事件频发。中东和北非地区政府为防止学生作弊，多次关闭或干扰互联网连接。海底光缆切割、维护、电力故障和未知问题也导致互联网连接中断。乌克兰互联网连接因俄罗斯攻击而受损。此外，肯尼亚、乌干达、坦桑尼亚等国家因抗议活动而出现互联网流量下降。海底光缆故障影响东非多个国家，造成互联网连接中断。</description>
+    </item>
+  
+    <item>
+      <title>Active Directory Utility for SQL Server (ADUTIL) now officially supported with RHEL 9</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/active-directory-utility-sql-server-adutil-now-officially-supported-rhel-9</link>
+      <description>Active Directory Utility for SQL Server (ADUTIL) 现已正式支持 RHEL 9。该工具允许在 Linux 和容器上配置和管理 Windows Active Directory 域，无需在 Windows 和 Linux 机器之间切换。ADUTIL 提供了创建账户、配置 SPN 和生成密钥表等功能，以简化 SQL Server 在 Linux 和容器上的 AD 认证配置。</description>
+    </item>
+  
+    <item>
+      <title>Deploying SQL Server on Linux using an Ansible playbook</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/deploying-sql-server-linux-using-ansible-playbook</link>
+      <description>使用Ansible Playbook在Linux上部署SQL Server
+
+本文介绍了如何使用Ansible Playbook在Linux上自动化部署和配置Microsoft SQL Server。通过Ansible和Red Hat Enterprise Linux (RHEL)的系统角色，可以简化部署过程，减少手动干预和错误。文章详细说明了安装Ansible Core、配置SSH访问、安装SQL Server系统角色以及创建和配置Ansible Playbook的步骤。此外，还讨论了迁移到SQL Server 2022 on RHEL 9的好处，包括成本降低、简化配置和管理，以及增强安全性。</description>
+    </item>
+  
+    <item>
+      <title>Improved CDN Performance</title>
+      <link>https://vercel.com/changelog/improved-cdn-performance</link>
+      <description>Vercel通过增加初始TCP拥塞窗口300%来提升边缘网络性能，使网站加载速度更快。这项优化立即对所有Vercel客户生效，无需用户操作，可显著提升网站加载速度。</description>
+    </item>
+  
+    <item>
+      <title>How to Install TimescaleDB on AWS</title>
+      <link>https://www.timescale.com/blog/how-to-install-timescaledb-on-aws/</link>
+      <description>如何在AWS上安装TimescaleDB
+
+本文介绍了如何在AWS上安装TimescaleDB，一个基于PostgreSQL的强大开源数据库，用于高效管理时间序列数据、事件和分析。文章详细说明了如何创建AWS账户、设置EC2实例、安装和配置TimescaleDB，以及如何使用它进行数据查询。通过本教程，用户可以快速搭建一个可扩展且高性能的数据库，满足时间序列数据需求。</description>
+    </item>
+  
+    <item>
+      <title>★ A package to use Filepond in your Livewire component</title>
+      <link>https://freek.dev/2738-a-package-to-use-filepond-in-your-livewire-component</link>
+      <description>新包livewire-filepond允许在Livewire组件中轻松上传文件，使用JavaScript库Filepond实现。通过简单步骤，即可在Laravel应用中集成，提供多种自定义选项，并已在邮件营销平台Mailcoach中应用。</description>
+    </item>
+  
+    <item>
+      <title>The Download: K-pop stans’ climate plans, and what AI isn’t</title>
+      <link>https://www.technologyreview.com/2024/07/16/1095006/the-download-k-pop-stans-climate-plans-and-what-ai-isnt/</link>
+      <description>K-pop粉丝发起环保行动，呼吁音乐流媒体行业减少能源消耗；同时，文章探讨了人工智能的定义及其在技术领域的应用和争议。</description>
+    </item>
+  
+    <item>
+      <title>Client-Driven Demos: Get Real Feedback Early</title>
+      <link>https://spin.atomicobject.com/client-driven-demos/</link>
+      <description>客户主导的演示：尽早获取真实反馈
+
+在软件开发中，演示对于展示进度和收集反馈至关重要。它们有助于确保团队走在正确的轨道上，并且客户对项目的方向感到满意。然而，传统的软件演示有一个主要缺陷：它们无法激发真实的反馈。本文探讨了让客户在软件演示中“主导”的不同方法，通过让他们亲自与软件互动并提供实时反馈来提高互动性和实用性。</description>
+    </item>
+  
+    <item>
+      <title>Build an SQL Query from Variables with a Prisma Raw Query (prisma.$queryRaw)</title>
+      <link>https://spin.atomicobject.com/prisma-queryraw/</link>
+      <description>在本文中，作者Nick Hawn介绍了如何使用Prisma的`prisma.$queryRaw`功能从变量构建SQL查询。他首先尝试了一个排序查询，但遇到了语法错误。随后，他使用了Prisma.sql助手来安全地构建SQL语句，并成功实现了排序功能。此外，他还分享了一个额外的技巧，即使用Prisma.empty来处理不重要的排序情况。</description>
+    </item>
+  
+    <item>
+      <title>A short history of AI, and what it is (and isn’t)</title>
+      <link>https://www.technologyreview.com/2024/07/16/1095001/a-short-history-of-ai-and-what-it-is-and-isnt/</link>
+      <description>人工智能的历史与定义：本文探讨了人工智能（AI）的定义及其发展历程，从1955年约翰·麦卡锡提出“人工智能”一词开始，到如今AI在各个领域的应用。文章指出，尽管AI被广泛用于自动驾驶、面部识别、聊天机器人等领域，但对其本质和未来仍存在争议。文章强调，了解AI的本质对于评估其影响和制定相关政策至关重要。</description>
+    </item>
+  
+    <item>
+      <title>Changing port maps in Docker Compose</title>
+      <link>https://akrabat.com/changing-port-maps-in-docker-compose/</link>
+      <description>Docker Compose中更改端口映射：Rob Allen介绍了如何在Docker Compose中映射端口，包括添加、替换和删除端口映射，并解释了如何使用`compose.override.yaml`文件来覆盖配置。他还提到了`!override`和`!reset`关键字以及Docker Compose配置文件名的变更。</description>
+    </item>
+  
+    <item>
+      <title>The Biggest Industry Trends in Education Right Now</title>
+      <link>https://s14415.pcdn.co/blog/education-trends/</link>
+      <description>2024年教育行业的主要趋势包括人工智能在教育中的应用、在线学习的普及以及教育可及性的重视。人工智能在教育领域的应用引发了关于学习效率和学术诚信的讨论，而在线学习模式因疫情和技术进步而变得更加普遍。同时，教育机构正致力于提供更具包容性的学习资源和无障碍校园环境。</description>
+    </item>
+  
+    <item>
+      <title>The Biggest Industry Trends in Education Right Now</title>
+      <link>https://www.brandwatch.com/blog/education-trends/</link>
+      <description>2024年教育行业的主要趋势包括人工智能在教育中的应用、在线学习的普及以及教育可及性的重视。人工智能在教育领域的应用引发了关于学习效率和学术诚信的讨论，而在线学习模式因疫情和技术进步而变得更加普遍。同时，教育机构正致力于提供更具包容性的学习资源和无障碍校园环境。</description>
+    </item>
+  
+    <item>
+      <title>Music streaming can be a drag on the environment. These K-pop fans want to clean it up.</title>
+      <link>https://www.technologyreview.com/2024/07/16/1094982/music-streaming-climate-kpop-fan/</link>
+      <description>K-pop粉丝团体Kpop4Planet通过倡导使用可再生能源，成功促使韩国最大音乐流媒体平台Melon承诺到2030年使用100%可再生能源。该团体还推动汽车制造商现代放弃与依赖新燃煤电厂的铝生产商的合作，以减少碳排放。Kpop4Planet通过在线请愿和线下活动，动员粉丝支持环保行动，展示了K-pop粉丝在推动社会变革方面的力量。</description>
+    </item>
+  
+    <item>
+      <title>The framework helping devs build LLM apps</title>
+      <link>https://stackoverflow.blog/2024/07/16/the-framework-helping-devs-build-llm-apps/</link>
+      <description>LlamaIndex CEO Jerry Lu与风险投资家Jerry Chen讨论了如何简化开发者构建大型语言模型（LLM）应用的流程。他们强调了高质量训练数据的重要性，以及提示工程、更大上下文窗口的影响和检索增强生成（RAG）的挑战。LlamaIndex是一个用于构建LLM应用的数据框架，提供开源框架和开发者社区LlamaHub。</description>
+    </item>
+  
+    <item>
+      <title>10 AI-Powered API Security Tools</title>
+      <link>https://nordicapis.com/10-ai-powered-api-security-tools/</link>
+      <description>本文介绍了10款AI驱动的API安全工具，包括Salt Security、AI Copilot by APIMatic、Bright Security等，这些工具利用AI和机器学习技术提高API安全性，提供自动化、智能化的安全解决方案，有助于提升网络安全态势。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Toolbx</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/introducing-toolbx</link>
+      <description>Red Hat Enterprise Linux（RHEL）推出了一款名为Toolbx的开发和故障排除工具，它支持现代开发和故障排除工作流程。Toolbx基于Podman和其他标准容器技术，允许用户在容器内安装开发工具和SDK，而不会影响主机操作系统。Toolbx适用于开发各种应用程序，包括桌面应用和操作系统组件，同时也能用于网络故障排除。</description>
+    </item>
+  
+    <item>
+      <title>Improved Right Sizing experience in Red Hat Advanced Cluster Management for Kubernetes (RHACM)</title>
+      <link>https://developers.redhat.com/articles/2024/07/16/improved-right-sizing-experience-red-hat-advanced-cluster-management-kubernetes</link>
+      <description>Red Hat Advanced Cluster Management for Kubernetes (RHACM)的“Right Sizing”功能得到增强，帮助管理员优化资源分配，提高集群效率。通过分析历史使用数据和资源请求，该功能可提供CPU和内存利用率的建议，帮助管理员识别资源浪费，并实施最佳实践，从而降低成本。此功能目前处于开发者预览阶段，可通过RHACM控制台访问。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Prefixual</title>
+      <link>https://thedailywtf.com/articles/prefixual</link>
+      <description>Prefixual博客文章探讨了在Dynamics Ax ERP系统中，由于缺乏适当的功能钩子，导致代码混乱和复杂性的问题。作者Remy Porter通过一个名为modified的函数示例，展示了如何在不恰当的位置插入代码，导致代码难以理解和维护。文章强调了技术债务和代码质量的重要性，并指出这种做法可能导致未来维护的困难。</description>
+    </item>
+  
+    <item>
+      <title>Testing Pseudo-elements Using Cypress</title>
+      <link>https://glebbahmutov.com/blog/testing-pseudo-elements-using-cypress/</link>
+      <description>本文介绍了如何使用Cypress测试伪元素，如`::after`。作者通过实际案例展示了如何验证伪元素的存在和内容，包括处理延迟加载的情况。文章还提供了测试购物车图标旁红点的示例，展示了如何通过颜色变化来确认伪元素的状态。</description>
+    </item>
+  
+    <item>
+      <title>CVE-2024-39908 : DoS in REXML</title>
+      <link>https://www.ruby-lang.org/en/news/2024/07/16/dos-rexml-cve-2024-39908/</link>
+      <description>REXML 模块存在 CVE-2024-39908 漏洞，可能导致拒绝服务（DoS）。建议升级至 3.3.2 或更高版本以修复此问题。漏洞由 mprogrammer 发现。</description>
+    </item>
+  
+    <item>
+      <title>SkillsEngine: Accelerating product &amp; design with Replit Teams</title>
+      <link>https://blog.replit.com/skillsengine-accelerating-product-and-design-with-replit-teams</link>
+      <description>Replit Teams帮助SkillsEngine团队从传统的无代码部门转变为高效的代码编写团队，通过快速原型设计和内部工具开发，提高了工作效率，节省了大量资源和成本。该团队利用Replit的实时协作功能，在不到一天的时间内就完成了原型设计，并加速了从想法到软件的开发过程。通过使用Replit，SkillsEngine在数据自动化和内部工具构建方面取得了显著成果，提高了工作效率，节省了大量时间和资金。</description>
+    </item>
+  
+    <item>
+      <title>Bolt Foundry: How an ex-Meta engineering leader built his startup with Replit Teams</title>
+      <link>https://blog.replit.com/bolt-foundry-how-an-ex-meta-engineering-leader-built-his-startup-with-replit-teams</link>
+      <description>Bolt Foundry，由前Meta工程领导创立，通过使用Replit Teams平台，大幅减少了在云基础设施上的开发时间，从而将更多精力投入到创意和产品开发中。Replit Teams提供了端到端的应用构建、协作和部署平台，简化了资源管理、原型设计和迭代过程，并优化了基础设施设置。这使Bolt Foundry能够更快地部署产品，提高效率，并节省了大量成本。</description>
+    </item>
+  
+    <item>
+      <title>Ethical Considerations in Link Building</title>
+      <link>https://soshace.com/2024/07/15/ethical-considerations-in-link-building/</link>
+      <description>链接建设是提升网站在线权威和可见性的关键，通过SEO店铺购买高质量链接，可以增强网站吸引力，提高搜索引擎排名。链接建设不仅是交易，更是对数字未来的投资，通过策略和洞察力，构建可持续的在线存在。</description>
+    </item>
+  
+    <item>
+      <title>How Many People Speak Croatian, And Where Is It Spoken?</title>
+      <link>https://www.babbel.com/en/magazine/croatian-language</link>
+      <description>克罗地亚语是一种广泛使用的语言，属于塞尔维亚-克罗地亚语系。其历史可追溯至6至7世纪斯拉夫人的迁移，最早的书面证据可追溯到11世纪的Bescanuova石碑。19世纪，塞尔维亚和克罗地亚的知识分子推动了文学统一，形成了所谓的塞尔维亚-克罗地亚语。如今，克罗地亚语是克罗地亚和波斯尼亚和黑塞哥维那的官方语言，约有6400万人使用，其中5000万人将其作为母语。克罗地亚语使用拉丁字母，有三种主要方言：Ciacavo、Caicavo和Stocavo。</description>
+    </item>
+  
+    <item>
+      <title>Beyond ordinary: Finding passion and purpose at work</title>
+      <link>https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/beyond-ordinary-finding-passion-and-purpose-at-work</link>
+      <description>在Thoughtworks，我们相信工作不应仅仅是生存的手段，而是一个可以发掘个人优势、创造真正影响并因面对挑战而感到激情的地方。本文通过几位Thoughtworkers的亲身经历，展示了他们如何找到充满意义和激情的职业道路，以及Thoughtworks如何通过强调社区、创新、社会影响和持续学习来支持员工的个人成长和职业发展。</description>
+    </item>
+  
+    <item>
+      <title>So you want to compete with or replace open source</title>
+      <link>https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html</link>
+      <description>开源软件运动基于协作，其成功归功于这一基础。然而，商业利益进入这一运动后，其经济模式与单一企业运作的经济模式大相径庭。开源软件的商业模式与竞争不相容，因为竞争模式忽视了开源的核心优势——协作。要成功在开源领域竞争，企业必须找到一种方式，既能保持创新合作，又能实现商业利益。</description>
+    </item>
+  
+    <item>
+      <title>My notes on "Things you wish you didn't need to know about S3"</title>
+      <link>https://advancedweb.hu/shorts/my-notes-on-things-you-wish-you-didnt-need-to-know-about-s3/</link>
+      <description>这篇文章探讨了S3的一些令人惊讶的事实，包括其API的错误和难以修复的问题，如公开可写存储桶和非加密对象。文章还讨论了存储类和对象锁等特性，以及AWS中存在的一些可能导致安全问题的默认设置。作者强调了理解底层技术的重要性，并指出了一些可能导致系统不稳定的“快速修复”方法。</description>
+    </item>
+  
+    <item>
+      <title>Tech Up or Suit Up: Corporate strategy for BFSI growth</title>
+      <link>https://www.thoughtworks.com/insights/blog/product-innovation/corporate-strategy_bfsi_growth</link>
+      <description>本文探讨了企业如何通过科技或银行牌照两种方式进入金融服务业（BFSI）。文章分析了两种策略：FinTech Forward（科技驱动）和Building a Bank（银行化）。FinTech Forward侧重于利用技术提供金融服务，而Building a Bank则是通过获得银行牌照来提供金融服务。文章还讨论了市场分析、知识库建设、产品开发、合规性和市场推广等关键步骤，并提供了苹果和约翰·迪尔作为案例研究的例子。</description>
+    </item>
+  
+    <item>
+      <title>How to make complex Chrome plugins: a zero gravity guide</title>
+      <link>https://evilmartians.com/chronicles/how-to-make-complex-chrome-plugins-a-zero-gravity-guide</link>
+      <description>本文介绍了如何创建复杂的Chrome插件，以Evil Martians团队开发的Playbook插件为例，详细阐述了插件开发的过程，包括OAuth授权、内容脚本的使用、图像预览和保存等功能。文章强调了前端工程师在插件开发中的重要性，并提供了实用的开发技巧和代码示例。</description>
+    </item>
+  
+    <item>
+      <title>A Resize Plugin for Alpine.js</title>
+      <link>https://laravel-news.com/alpinejs-resize</link>
+      <description>Alpine.js的创建者Caleb Porzio发布了一个名为Resize的插件，它通过Resize Observer API允许用户轻松地响应元素大小的变化。该插件可用于自定义基于大小的动画、智能粘性定位、根据元素大小条件性地添加属性等。示例代码展示了如何使用x-resize属性来处理大小变化，并提供了使用document修饰符获取整个文档宽高的方法。更多关于此插件的信息可在Alpine.js文档中找到。</description>
+    </item>
+  
+    <item>
+      <title>How Mixpanel delivers funnels up to 7x faster than the data warehouse</title>
+      <link>https://engineering.mixpanel.com/how-mixpanel-delivers-funnels-up-to-7x-faster-than-the-data-warehouse-af6da1f5a982?source=rss----b5de3443ad1f---4</link>
+      <description>Mixpanel通过其自定义数据库Arb，实现了比传统数据仓库更快的漏斗查询，性能提升高达7倍。Arb利用事件数据模型优化了产品分析查询，而Mixpanel的架构和事件数据模型使得漏斗查询比Snowflake等数据仓库更高效。尽管数据仓库可以通过扩展和聚类来提高性能，但Mixpanel在漏斗查询方面的优势依然明显。</description>
+    </item>
+  
+    <item>
+      <title>Here’s how carefully concealed backdoor in fake AWS files escaped mainstream notice</title>
+      <link>https://arstechnica.com/?p=2037194</link>
+      <description>研究人员发现，两个假冒的AWS软件包在开源NPM JavaScript仓库中被下载数百次，这些软件包包含精心隐藏的后门代码，当执行时会在开发者的计算机上留下后门。这些软件包模仿了合法的JavaScript库aws-s3-object-multipart-copy，但添加了一个名为loadformat.js的额外JavaScript文件，其中包含用于后门开发者设备的代码片段。这种攻击表明，针对开源仓库的攻击日益复杂，需要开发者和安全组织提高警惕。</description>
+    </item>
+  
+    <item>
+      <title>Understanding Develocity Build Data with Honeycomb</title>
+      <link>https://medium.com/pinterest-engineering/understanding-develocity-build-data-with-honeycomb-78bc655f654f?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest的工程师团队通过将Develocity构建数据与Honeycomb结合，实现了对构建过程的深入洞察和快速问题识别。这种方法利用了Honeycomb强大的查询能力和快速处理，帮助团队更有效地分析构建数据，提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more (July 15, 2024).</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/</link>
+      <description>AWS本周发布了多项新功能和更新，包括Amazon Bedrock和Amazon Q的高级功能，Amazon EC2 R8g实例的推出，以及Amazon MemoryDB的向量搜索。此外，还扩展了服务在多个AWS区域的支持，并推出了新的开源项目和社区活动。</description>
+    </item>
+  
+    <item>
+      <title>Announcing the General Availability of Serverless Compute for Notebooks, Workflows and Delta Live Tables</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-serverless-compute-notebooks-workflows-and-delta-live-tables</link>
+      <description>Databricks宣布其无服务器计算服务现在可用于Notebooks、工作流程和Delta Live Tables，支持AWS和Azure。这项服务提供快速、简单且可靠的计算环境，用户只需为实际使用的工作量付费。无服务器计算简化了计算基础设施的管理，并自动调整资源以优化性能和成本。Databricks还提供预算管理和成本监控工具，确保用户能够有效控制开支。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Docker on Ubuntu 24.04</title>
+      <link>https://www.rosehosting.com/blog/how-to-install-docker-on-ubuntu-24-04/</link>
+      <description>本文介绍了如何在Ubuntu 24.04操作系统上安装Docker。通过一系列步骤，包括更新系统、添加Docker GPG密钥、添加仓库到APT源、安装Docker、管理Docker服务和创建Docker容器，用户可以成功安装并运行Docker。教程还提供了创建和启动Docker容器的示例。</description>
+    </item>
+  
+    <item>
+      <title>Jensen Huang, Mark Zuckerberg to Discuss Future of Graphics and Virtual Worlds at SIGGRAPH 2024</title>
+      <link>https://blogs.nvidia.com/blog/huang-zuckerberg-siggraph-2024/</link>
+      <description>NVIDIA创始人黄仁勋和Meta创始人扎克伯格将在SIGGRAPH 2024会议上探讨图形和虚拟世界的未来，以及AI和模拟的潜力。会议将展示图形技术的未来趋势，包括初创公司如何将图形技术应用于不同领域，以及生成式AI在专业图形领域的应用。会议还将表彰对计算机图形领域做出贡献的Stephen Parker。</description>
+    </item>
+  
+    <item>
+      <title>.NET 9 Preview 6 is now available!</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-6/</link>
+      <description>.NET 9 Preview 6已发布，包含对.NET运行时、SDK、库、C#以及ASP.NET Core、Blazor和.NET MAUI等框架的重大增强。新版本引入了多项改进，包括对System.Numerics的改进、支持日志源生成器中的主构造函数、System.Text.Json的增强、新的Regex API、性能优化、ARM64代码生成、NuGetAudit对依赖项漏洞的警告等。用户可下载SDK并查看完整发布说明。</description>
+    </item>
+  
+    <item>
+      <title>Microsoft CTO defies critics: AI progress not slowing down, it’s just warming up</title>
+      <link>https://arstechnica.com/?p=2036166</link>
+      <description>微软首席技术官凯文·斯科特认为，尽管存在批评，大型语言模型（LLM）“扩展定律”将继续推动AI进步。斯科特认为，通过增加计算能力，LLM将继续改进，这与一些AI领域批评者认为LLM进展停滞的观点相悖。斯科特对未来的LLM迭代充满信心，预计它们将在处理当前模型难以应对的复杂任务方面取得进步。</description>
+    </item>
+  
+    <item>
+      <title>Terraform adds a new setting to manage team tokens</title>
+      <link>https://www.hashicorp.com/blog/terraform-adds-a-new-setting-to-manage-team-tokens</link>
+      <description>Terraform新增设置以管理团队令牌，增强API令牌管理，简化权限流程并降低风险。管理员可控制团队成员是否可管理团队API令牌，提高权限管理效率。此功能现已在HCP Terraform中提供，并即将在Terraform Enterprise中推出。</description>
+    </item>
+  
+    <item>
+      <title>Market Intelligence: The 4 Components To Unlocking Competitive Advantage</title>
+      <link>https://www.brandwatch.com/blog/market-intelligence/</link>
+      <description>市场情报是了解组织外部环境并利用收集到的数据在行业中实现最佳定位的关键。通过分析竞争对手、产品和客户的市场情报数据，可以制定策略以保持竞争力并增长品牌。市场情报需要大量研究和整体策略来收集有价值的见解。只有拥有正确的数据来源，才能了解自己在行业中的位置，并创建营销策略来重新定位品牌。本指南将介绍市场情报的四个核心组件，以及如何通过战略决策将品牌提升到下一个水平。</description>
+    </item>
+  
+    <item>
+      <title>Developer Day 2024 Is Here!</title>
+      <link>https://auth0.com/blog/developer-day-2024-is-here/</link>
+      <description>2024年开发者日即将到来，这是由开发者为开发者设计的免费虚拟活动，旨在帮助开发者学习如何使用Auth0确保应用程序和用户身份的安全。活动将于7月15日举行，包括关键演讲和35多个开发者会议和实验室，涵盖Auth0的最新功能。不要错过这个直接从领域专家学习的机会。</description>
+    </item>
+  
+    <item>
+      <title>L'intelligence artificielle : de la théorie à la pratique - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
+      <link>https://blog.octo.com/l'intelligence-artificielle--de-la-theorie-a-la-pratique-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
+      <description>在法国，国家信息与自由委员会（CNIL）致力于通过提高信息透明度来保护个人数据，并促进对个人数据的控制。CNIL最近在里尔举办了一场关于通用数据保护条例（GDPR）的研讨会，讨论了人工智能（AI）在数据保护中的重要性。研讨会强调了AI生成模型（如ChatGPT）的成功，以及即将实施的欧洲人工智能法规（RIA）与GDPR的互补性。此外，讨论了数据保护官（DPO）面临的新挑战，包括理解AI技术、进行数据影响评估以及确保数据透明度和安全性。</description>
+    </item>
+  
+    <item>
+      <title>Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT</title>
+      <link>https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/</link>
+      <description>Docker最佳实践：选择RUN、CMD和ENTRYPOINT
+
+本文深入探讨了Dockerfile中的RUN、CMD和ENTRYPOINT指令，解释了它们在构建Docker镜像时的作用和区别。RUN用于构建镜像时执行命令，CMD指定容器启动时的默认命令，而ENTRYPOINT设置容器的默认可执行文件。通过理解这些指令的用法，开发者可以更有效地管理Docker容器，确保其配置、安全和性能。</description>
+    </item>
+  
+    <item>
+      <title>Creating an already-completed asynchronous activity in C++/WinRT, part 5</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240715-00/?p=109971</link>
+      <description>本文探讨了在C++/WinRT中创建已完成的异步活动，并深入分析了异常处理和调试技巧。作者Raymond Chen介绍了如何使用`hresult_error`和`exception_ptr`来捕获和传播异常，确保调试信息准确无误。此外，还讨论了如何处理异常传播到失败操作的情况，以及如何优化代码以减少模板类型参数的使用。</description>
+    </item>
+  
+    <item>
+      <title>Split Your Dataset With scikit-learn's train_test_split()</title>
+      <link>https://realpython.com/train-test-split-python-data/</link>
+      <description>本文介绍了使用scikit-learn库中的train_test_split()函数来分割数据集的重要性。通过将数据集分为训练集、验证集和测试集，可以确保模型评估的无偏性，并帮助检测模型是否过拟合或欠拟合。文章详细解释了如何使用train_test_split()函数，包括如何设置训练集和测试集的大小，以及如何通过随机状态参数实现可重复的结果。</description>
+    </item>
+  
+    <item>
+      <title>How an AI Assistant Can Help Configure Your Project’s Git Hooks</title>
+      <link>https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/</link>
+      <description>AI助手可以帮助配置项目的Git钩子，简化重复任务如编写提交信息或运行检查。通过分析项目上下文和利用现有工具，AI可以提供具体的建议和脚本，甚至自动执行配置，提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>Safeguarding App Health and Consumer Experience with Metric-Aware Rollouts</title>
+      <link>https://doordash.engineering/2024/07/15/app-health-through-metric-aware-rollouts/</link>
+      <description>DoorDash通过引入“指标感知发布”来保护应用健康和提升用户体验。这种方法通过自动检查标准化的应用质量指标，在发布新功能时自动暂停并警告实验所有者，以防止性能下降和其他问题。这有助于在保持速度和质量的同时，控制产品迭代和发布，从而提高产品开发效率和客户满意度。</description>
+    </item>
+  
+    <item>
+      <title>Coming in Hot… Auth0’s Q2 Developer Releases</title>
+      <link>https://auth0.com/blog/auth0s-q2-developer-releases/</link>
+      <description>Auth0发布第二季度开发者更新，包括高度监管的身份解决方案、表单操作EA和灵活标识符等新功能，旨在提升安全性、隐私和用户体验，帮助开发者解决身份相关的问题。</description>
+    </item>
+  
+    <item>
+      <title>Log Drains now support the Vercel Firewall</title>
+      <link>https://vercel.com/changelog/log-drains-now-support-the-vercel-firewall</link>
+      <description>Vercel更新了Log Drains功能，现在支持Vercel Firewall。这一更新允许将Vercel Firewall的请求拒绝事件通过Log Drains输出到外部服务提供商。包括由自定义规则、挑战模式、OWASP CRS等规则阻止的请求，以及IP规则阻止的请求。如果规则设置为记录或绕过，则请求不会发送到Log Drains。同时，Firewall操作也会在监控中显示。</description>
+    </item>
+  
+    <item>
+      <title>Fast Origin Transfer is now automatically compressed</title>
+      <link>https://vercel.com/changelog/fast-origin-transfer-is-now-automatically-compressed</link>
+      <description>Vercel已优化其边缘网络，使Fast Origin Transfer功能默认自动压缩数据传输，提高效率。此更新适用于所有使用Vercel计算项目的用户，包括Functions、Middleware和ISR。自动压缩功能与Fast Data Transfer保持一致，有助于优化数据传输。</description>
+    </item>
+  
+    <item>
+      <title>Monolithic, headless, or composable architecture? What to choose and why in 2024</title>
+      <link>https://algolia.com/blog/ecommerce/monolithic-headless-composable/</link>
+      <description>在2024年，选择合适的架构对于构建现代数字体验至关重要。文章比较了三种架构：单体、无头和可组合架构。单体架构虽然简单，但缺乏灵活性和可扩展性。无头架构通过分离前端和后端提供更高的灵活性和定制性。可组合架构则更进一步，允许使用可互换的组件来构建解决方案。这些架构都旨在提高性能、响应速度和用户体验，以适应不断变化的消费者需求。</description>
+    </item>
+  
+    <item>
+      <title>The Download: how AI affects creativity, and CRISPR babies</title>
+      <link>https://www.technologyreview.com/2024/07/15/1094942/the-download-how-ai-affects-creativity-and-crispr-babies/</link>
+      <description>人工智能对创造力的双重影响：研究表明，AI可以提升创造力不足的作者的作品，但对已有创意的作者影响不大。同时，基因编辑技术CRISPR在人类胚胎中的应用引发了对物种“技术进化”的讨论。</description>
+    </item>
+  
+    <item>
+      <title>Module Augmentation is a Hidden Gem in TypeScript</title>
+      <link>https://spin.atomicobject.com/module-augmentation-typescript/</link>
+      <description>TypeScript中的模块扩展和接口合并是强大的特性，允许在不修改原始源代码的情况下扩展或修改现有模块。在作者的项目中，这些特性被用于创建一个提供类型安全访问功能标志的包，通过模块扩展和接口合并，可以轻松地添加新属性或方法到接口中，同时扩展现有模块以满足特定需求。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Use Generators and yield in Python</title>
+      <link>https://realpython.com/quizzes/generators-and-yield-in-python/</link>
+      <description>本篇文章介绍了Python中的生成器和yield语句，它们在处理大数据集和保持函数内部状态时非常有用。通过理解生成器，可以更高效地处理大量数据，创建生成器函数和表达式，并构建高效的数据管道。文章提供了一个包含10个问题的互动测验，帮助检验对生成器的理解。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Write Beautiful Python Code With PEP 8</title>
+      <link>https://realpython.com/quizzes/python-pep8/</link>
+      <description>本文章介绍了一个关于如何使用PEP 8编写美观Python代码的互动测验。测验包含12个问题，旨在帮助读者复习PEP 8的关键指南，并学习如何设置开发环境以编写符合PEP 8规范的代码。</description>
+    </item>
+  
+    <item>
+      <title>How to Create a Liquid Raymarching Scene Using Three.js Shading Language</title>
+      <link>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</link>
+      <description>本文介绍了如何使用Three.js着色语言创建一个液态光线追踪场景。作者Ben McCormick通过介绍使用有符号距离场（SDFs）和简单光照来创建液体形状效果，详细讲解了光线追踪技术。文章中，作者首先介绍了光线追踪的基本概念，然后逐步展示了如何使用React Three Fiber（R3F）和Three.js着色语言（TSL）构建一个简单的光线追踪场景，并添加了光照效果，使场景看起来更加立体和生动。</description>
+    </item>
+  
+    <item>
+      <title>Swift Switch And If Expressions</title>
+      <link>https://useyourloaf.com/blog/swift-switch-and-if-expressions/</link>
+      <description>Swift 5.9引入了将if和switch语句作为表达式的功能，允许在满足一定限制条件下返回或赋值。例如，可以计算URL的最后路径组件或测试状态。但每个分支必须是一个单一表达式，且if语句必须包含else并返回相同类型。</description>
+    </item>
+  
+    <item>
+      <title>New Atlassian research on developer experience highlights a major disconnect between developers and leaders</title>
+      <link>https://www.atlassian.com/blog/developer/developer-experience-report-2024</link>
+      <description>Atlassian的最新研究揭示了开发人员与领导者之间存在着巨大的脱节，只有44%的开发人员认为领导者了解导致糟糕的开发体验的问题。研究表明，69%的开发人员每周因效率低下而浪费8小时或更多时间，而大多数开发人员认为他们的组织没有优先考虑开发体验。领导者认为AI是提高生产力和开发人员满意度的最有效方式，但大多数开发人员尚未从使用AI工具中获得显著的生产力提升。为了改善开发体验，领导者需要与开发人员沟通，了解他们的需求和挑战，并实施有效的解决方案。</description>
+    </item>
+  
+    <item>
+      <title>Creating and deploying an OVF Template to support image mode for RHEL at scale</title>
+      <link>https://developers.redhat.com/articles/2024/07/15/creating-and-deploying-ovf-template-support-image-mode-rhel-scale</link>
+      <description>本文介绍了如何在vSphere环境中创建和部署OVF模板，以支持大规模管理RHEL的镜像模式。通过使用OVF模板，可以简化虚拟机的部署过程，并优化部署时间。文章详细说明了创建OVF模板的步骤，包括使用govc命令行工具和配置文件，以及如何从vSphere内容库部署模板。</description>
+    </item>
+  
+    <item>
+      <title>England vs Spain: How the Game Went Down on Social</title>
+      <link>https://s14415.pcdn.co/blog/eng-vs-esp/</link>
+      <description>英格兰与西班牙的比赛在社交媒体上的热门瞬间和最受关注的球员揭晓，西班牙在球场上获胜的同时，也在社交媒体上赢得了人心。通过分析比赛期间的公开在线提及，西班牙获得了57%的整体声音份额，且正面提及远多于负面提及。</description>
+    </item>
+  
+    <item>
+      <title>England vs Spain: How the Game Went Down on Social</title>
+      <link>https://www.brandwatch.com/blog/eng-vs-esp/</link>
+      <description>英格兰与西班牙的比赛在社交媒体上的热门瞬间和最受关注的球员揭晓，西班牙在球场上获胜的同时，也在社交媒体上赢得了人心。通过分析比赛期间的公开在线提及，西班牙获得了57%的整体声音份额，且正面提及远多于负面提及。</description>
+    </item>
+  
+    <item>
+      <title>Ansible Collection for Red Hat Runtimes</title>
+      <link>https://developers.redhat.com/articles/2024/07/15/ansible-collection-red-hat-runtimes</link>
+      <description>本文介绍了如何为Red Hat Runtimes产品选择合适的Ansible集合。文章详细解释了开源版本和商业版本之间的区别，并提供了使用Ansible自动化部署和管理Red Hat Runtimes产品的指南。对于非Red Hat客户，可以使用开源版本，而对于有Red Hat订阅的客户，应使用由Red Hat支持的商业版本。文章还提供了如何安装和使用Ansible集合的示例。</description>
+    </item>
+  
+    <item>
+      <title>Integrating a VMDK produced with image mode for RHEL into vSphere</title>
+      <link>https://developers.redhat.com/articles/2024/07/15/integrating-vmdk-produced-image-mode-rhel-vsphere</link>
+      <description>本文介绍了如何将使用RHEL镜像模式创建的VMDK磁盘镜像集成到vSphere环境中。通过使用govc工具，可以简化与vSphere平台的交互，并实现自动化操作。文章详细说明了如何安装govc、连接到vSphere环境、上传VMDK文件、创建虚拟机以及使用cloud-init进行远程连接配置。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Uniquely Enough Identifiers</title>
+      <link>https://thedailywtf.com/articles/uniquely-enough-identifiers</link>
+      <description>这篇文章讲述了Lucas使用Google Sheets作为数据库来创建营销应用的故事。由于用户数量少，记录不多，Google Sheets是一个可行的选择。然而，为了生成唯一标识符，Lucas编写了一个函数，通过随机数和日期时间生成ID。这种方法虽然可行，但引入了额外的复杂性，使得应用更脆弱且难以维护。文章指出，原本只需使用Google Sheets和正确使用说明，就能避免这些问题。</description>
+    </item>
+  
+    <item>
+      <title>Creating a VMDK using image mode for Red Hat Enterprise Linux</title>
+      <link>https://developers.redhat.com/articles/2024/07/15/creating-vmdk-using-image-mode-red-hat-enterprise-linux</link>
+      <description>本文介绍了如何使用Image模式为Red Hat Enterprise Linux创建VMDK虚拟磁盘。通过结合容器技术和传统虚拟机环境，用户可以灵活选择操作方式。文章详细描述了创建RHEL启动镜像的过程，并展示了如何使用bootc-image-builder工具从启动镜像生成VMDK文件，以便在VMware等虚拟化平台中使用。</description>
+    </item>
+  
+    <item>
+      <title>React Form Button</title>
+      <link>https://www.robinwieruch.de/react-form-button/</link>
+      <description>React中，你可以使用表单按钮在服务器组件中触发服务器操作，无需表单字段或数据。这适用于需要通过按钮点击触发服务器操作，而不想使用客户端组件的情况。文章介绍了如何在服务器组件中使用表单按钮，以及如何将其与客户端组件结合使用，以实现更灵活的交互。</description>
+    </item>
+  
+    <item>
+      <title>LLM-powered data classification for data entities at scale</title>
+      <link>https://engineering.grab.com/llm-powered-data-classification</link>
+      <description>Grab公司通过利用大型语言模型（LLM）技术，实现了对海量数据实体的自动化分类，从而提高了数据管理和发现效率。这一创新项目将原本繁琐的手动流程转变为高效系统，显著减少了人工分类时间，并增强了数据安全性和合规性。</description>
+    </item>
+  
+    <item>
+      <title>Separating Database Hosts to Optimize Read and Write Operations in Laravel</title>
+      <link>https://www.amitmerchant.com/separating-database-hosts-to-optimize-read-and-write-operations-in-laravel/</link>
+      <description>Laravel通过分离读写数据库主机来优化读写操作，提高数据库性能。在高流量网站中，读写操作分离可以减少锁等待和I/O竞争，提高读写效率。Laravel简化了配置过程，只需在config/database.php中设置读写主机即可。通过调整配置，可以进一步提升应用性能。</description>
+    </item>
+  
+    <item>
+      <title>Notes on "DynamoDB now supports cross-account access. But is that a good idea?"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-dynamodb-now-supports-cross-account-access-but-is-that-a-good-idea/</link>
+      <description>DynamoDB支持跨账户访问，但作者认为这通常不是一个好主意。他强调，服务应拥有自己的数据，并通过API访问其他服务的数据，以保持安全性和减少耦合。尽管有使用场景，如增强访问控制，但直接访问数据库可能引入意外，影响软件质量。</description>
+    </item>
+  
+    <item>
+      <title>Proud to be an LGBTQIA+ inclusive employer</title>
+      <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/proud-to-be-an-LGBTQIAplus-inclusive-employer</link>
+      <description>Thoughtworks致力于成为包容LGBTQIA+的雇主，通过政策和实践提升LGBTQIA+同事的体验。在英国，公司排名在Stonewall Top 100中大幅上升，并获得多个奖项，展示了其在LGBTQIA+包容性方面的努力。Thoughtworks通过多种活动和倡议，如历史之旅、庆祝活动和网络研讨会，支持LGBTQIA+社区，并承诺在全球范围内继续推动这一事业。</description>
+    </item>
+  
+    <item>
+      <title>Startups on Rails in 2024: my keynote at RailsConf</title>
+      <link>https://evilmartians.com/chronicles/startups-on-rails-in-2024-my-keynote-at-railsconf</link>
+      <description>2024年，许多初创公司选择使用Ruby on Rails进行软件开发，这比Next.js和Java更高效。作者在RailsConf上发表的主题演讲中分享了这些初创公司的故事，并强调了Rails在快速构建和增长中的优势。演讲激发了社区成员的灵感，并推动了新工具和项目的开发。作者呼吁大家积极参与，共同推广Rails，以支持更多初创公司的发展。</description>
+    </item>
+  
+    <item>
+      <title>How to choose a vector database</title>
+      <link>https://www.elastic.co/blog/how-to-choose-a-vector-database</link>
+      <description>选择合适的向量数据库对于应用至关重要。本文探讨了向量数据库与传统数据库的区别，介绍了不同类型的向量数据库及其关键特性，并提供了选择向量数据库时应考虑的因素，如搜索准确性、性能和系统集成。通过了解这些要点，用户可以做出明智的决策，以优化数据管理和搜索效率。</description>
+    </item>
+  
+    <item>
+      <title>Boosting America's digital defense: Key takeaways from the FY 2026 budget priorities</title>
+      <link>https://www.elastic.co/blog/fiscal-year-2026-budget-key-takeaways</link>
+      <description>美国2026财年预算优先事项中，加强数字防御的关键要点包括：强调零信任架构的实施，提高关键基础设施的网络安全标准，确保开源软件的安全使用，打击网络犯罪和威胁行为者，加强网络安全人才队伍建设，为后量子密码学做准备，扩大公私合作。这些措施旨在建立一个更强大、更适应性的网络安全生态系统。</description>
+    </item>
+  
+    <item>
+      <title>Effective Identity Threat Response with Teleport</title>
+      <link>https://goteleport.com/blog/identity-threat-response-with-teleport/</link>
+      <description>Teleport 16通过设备信任、多因素认证和VNET等技术，加强基础设施深度防御。文章介绍了如何利用Teleport平台检测和响应身份威胁，包括锁定会话和身份、监控访问、记录会话等，以保护基础设施免受身份攻击。</description>
+    </item>
+  
+    <item>
+      <title>How recent New York State cybersecurity regulations could affect your business</title>
+      <link>https://www.twilio.com/en-us/blog/new-york-state-23-nycrr-part-500</link>
+      <description>纽约州最新的网络安全法规可能对您的业务产生重大影响。这些法规，如23 NYCRR Part 500，要求金融机构实施全面的网络安全计划，包括风险评估和特定安全措施，以保护客户数据和防止网络威胁。法规还强制要求多因素认证（MFA），以增强信息系统的安全性并保护免受身份攻击。Twilio Verify提供了一种API，旨在满足MFA的需求，通过多种渠道提供定制和用户友好的体验，帮助组织加强防御并符合法规要求。</description>
+    </item>
+  
+    <item>
+      <title>Publishable Network Contracts in Scrapscript</title>
+      <link>https://taylor.town/unsound-2024-cfp</link>
+      <description>Scrapscript通过结合编程语言特性、类型系统保证和生态系统默认设置，解决了网络程序间通信的不稳定性问题。它采用强类型函数式语言，确保所有表达式可内容寻址，并通过“废料场”共享代码片段。所有条目都经过加密签名，提供简单合同机制。Scrapscript的地址类型支持类型检查和编译时安全性，同时提供SLA合同和审计跟踪。</description>
+    </item>
+  
+    <item>
+      <title>Toolbox languages</title>
+      <link>https://www.hillelwayne.com/post/toolbox-languages/</link>
+      <description>本文探讨了多种工具箱语言，包括Python、shell脚本、AutoHotKey、J、Frink、Raku和Picat，并分析了它们的特点和适用场景。作者强调了工具箱语言应具备快速编写、易于学习和强大的功能，同时介绍了其他有用的工具，如jq和JavaScript，以及如何构建一个高效的工具箱语言。</description>
     </item>
   
     </channel>
