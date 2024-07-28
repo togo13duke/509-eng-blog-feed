@@ -318,6 +318,12 @@
     </item>
   
     <item>
+      <title>Making security easy: How we are helping you fix vulnerabilities in your Android apps</title>
+      <link>http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html</link>
+      <description>Google致力于简化Android应用的安全性，通过扫描Google Play上的应用来检测常见的安全漏洞，并提供修复建议。新推出的Android应用安全知识库（AAKB）提供详细的指导，帮助开发者编写更安全的代码，并通过Android Studio的lint检查直接应用这些指导。这些措施旨在构建一个更安全的Android生态系统。</description>
+    </item>
+  
+    <item>
       <title>Google DeepMind’s AI systems can now solve complex math problems</title>
       <link>https://www.technologyreview.com/2024/07/25/1095315/google-deepminds-ai-systems-can-now-solve-complex-math-problems/</link>
       <description>Google DeepMind开发的AI系统AlphaProof和AlphaGeometry 2成功解决了国际数学奥林匹克竞赛中的复杂数学问题，标志着机器学习在解决逻辑推理问题上的重大进步。这些系统在数学领域展现出前所未有的能力，有望推动人工智能与人类数学家的合作，共同解决和创造新的数学问题。</description>
@@ -599,6 +605,12 @@
       <title>Building security into the redesigned Chrome downloads experience</title>
       <link>http://security.googleblog.com/2024/07/building-security-into-redesigned.html</link>
       <description>Chrome浏览器更新了下载体验，增强了下载文件的安全性。通过提供更详细的警告信息和基于AI的恶意软件判断，用户可以更准确地识别潜在风险。此外，自动深度扫描和密码保护机制进一步提升了下载安全，保护用户免受恶意软件的侵害。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Collections, a new on-device surface for your content</title>
+      <link>http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html</link>
+      <description>Android Developers Blog推出全新功能“Collections”，一个在设备上展示个性化内容的全新界面。通过Collections，用户可以直接进入已安装的应用，享受内容或完成购买。开发者可以利用Collections展示重要内容，并通过个性化推荐和促销吸引用户。</description>
     </item>
   
     <item>
@@ -911,6 +923,12 @@
       <title>Why use Vault-backed dynamic credentials to secure HCP Terraform infrastructure?</title>
       <link>https://www.hashicorp.com/blog/why-use-vault-backed-dynamic-credentials-to-secure-hcp-terraform-infrastructure</link>
       <description>使用基于Vault的动态凭证来保护HCP Terraform基础设施的原因在于，它们提供了一种更安全、更集中的方式来管理云凭证和其他机密信息。这些凭证是临时、时间限制的，并且对每个Terraform工作负载都是唯一的。与仅使用动态提供者凭证相比，Vault-backed动态凭证提供了更全面的审计和管理功能，无需在云提供商中设置OIDC，并利用Vault的认证和授权能力来限制权限。这使得它们成为安全路线图中的新标准。</description>
+    </item>
+  
+    <item>
+      <title>#WeArePlay | 153 new stories from people creating apps and games in the U.S.</title>
+      <link>http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html</link>
+      <description>2022年，#WeArePlay项目发布了153个关于美国应用和游戏公司背后人物的访谈故事。这些故事展示了各种创新，如使用虚拟现实探索古代遗迹、AI改善孕产妇健康、以及结合游戏化锻炼的社交互动平台。这些故事不仅展示了开发者的创意，也突显了他们在Google Play上不断增长的业务。</description>
     </item>
   
     <item>
