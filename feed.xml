@@ -6,9 +6,101 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Create Dockerfiles with GenAI</title>
+      <link>https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/</link>
+      <description>本文探讨了如何利用生成式AI创建Dockerfile。通过分析项目并使用工具，AI可以自动生成Dockerfile，提高构建效率。文章介绍了如何使用AI分析项目、生成Dockerfile，并提供了最佳实践，如使用多阶段构建和缓存npm包。此外，还讨论了AI在生成Dockerfile过程中的挑战和改进方向。</description>
+    </item>
+  
+    <item>
+      <title>Attain Peak Redis Server Performance with Proactive Monitoring</title>
+      <link>https://linuxblog.io/attain-peak-redis-server-performance-with-proactive-monitoring/</link>
+      <description>Redis数据库监控对于确保其高性能至关重要，它涉及监控关键性能指标，如CPU和内存使用情况、连接统计、消息代理和数据库活动。通过实时监控这些指标，可以预防性能下降，并在问题发生时迅速解决，从而保障业务连续性和品牌声誉。使用专业的Redis监控工具，如Applications Manager，可以优化数据库效率，并确保应用程序稳定运行。</description>
+    </item>
+  
+    <item>
+      <title>Beginner’s guide to GitHub: Adding code to your repository</title>
+      <link>https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/</link>
+      <description>GitHub入门指南：向仓库添加代码
+
+本文是GitHub入门系列的一部分，旨在帮助您轻松使用GitHub。文章介绍了如何通过GitHub流程添加代码到仓库，包括克隆仓库、创建分支、使用GitHub Desktop或终端提交更改，以及如何打开和合并拉取请求。通过这些步骤，您可以有效地与团队协作，并管理您的代码。</description>
+    </item>
+  
+    <item>
+      <title>What Makes Data-in-Motion Architectures a Must-Have for the Modern Enterprise</title>
+      <link>https://blog.cloudera.com/what-makes-data-in-motion-architectures-a-must-have-for-the-modern-enterprise/</link>
+      <description>数据流动架构对于现代企业至关重要，它通过高效、可扩展的方式处理实时数据，帮助企业做出更快速、更精准的决策。这种架构不仅能够处理大量数据，还能确保数据在业务流程中的即时可用性，从而提高运营效率并推动创新。</description>
+    </item>
+  
+    <item>
+      <title>Mastering API Integration: Salesforce, Heroku, and MuleSoft Anypoint Flex Gateway</title>
+      <link>https://blog.heroku.com/mastering-api-integration-salesforce-heroku-mulesoft-anypoint-flex-gateway</link>
+      <description>掌握API集成：Salesforce、Heroku和MuleSoft Anypoint Flex Gateway
+
+本文介绍了如何使用MuleSoft Anypoint Flex Gateway在Heroku上部署和配置API，以实现安全、高效的API管理。通过结合Anypoint API Manager和Heroku Private Spaces，可以简化操作、提高可扩展性，并加速Salesforce解决方案的价值实现。文章详细介绍了设置Flex Gateway的步骤，包括创建API、配置API Manager、部署Flex Gateway以及连接内部API到Flex Gateway。</description>
+    </item>
+  
+    <item>
+      <title>The Download: the future of CRISPR babies, and investing in climate tech</title>
+      <link>https://www.technologyreview.com/2024/07/29/1095433/the-download-the-future-of-crispr-babies-and-investing-in-climate-tech/</link>
+      <description>CRISPR科学家He Jiankui承诺不再进行基因编辑婴儿实验，将研究转向动物和非存活人类胚胎。前Meta首席技术官Mike Schroepfer转向气候科技投资，推动清洁能源发展。文章还探讨了人工智能、加密货币、气候变化等科技话题。</description>
+    </item>
+  
+    <item>
+      <title>En cas d’urgence, brisez la glace : “generic mitigations” et gestion d’incident</title>
+      <link>https://blog.octo.com/en-cas-d'urgence-brisez-la-glace--generic-mitigations-et-gestion-d'incident</link>
+      <description>在处理紧急情况时，了解“通用缓解措施”和事故管理至关重要。文章强调了在系统发生故障时，通过预先准备和快速响应来减轻影响的重要性。通用缓解措施旨在快速应对多种可能的故障，以保护用户并争取更多时间解决问题。文章详细介绍了四种通用缓解措施：回滚、数据库迁移、服务降级和系统扩展。通过这些策略，组织可以更好地准备和应对生产环境中的意外事件。</description>
+    </item>
+  
+    <item>
+      <title>Short of words? Upload photos of your products, and our AI will give them full descriptions</title>
+      <link>https://www.hostinger.com/blog/ai-product-information-generator</link>
+      <description>Hostinger Website Builder新增了AI驱动的产品信息生成器，可自动为产品生成标题、副标题、描述和标签，节省时间和精力。此外，还提供了其他AI工具，如AI Writer、AI Image Generator和AI Heatmap。此外，还有更多功能提升电商体验，如自定义产品排序、添加产品描述的定制部分、提供固定金额折扣码、安排预约等。Hostinger提供30天退款保证，让用户轻松开始在线销售。</description>
+    </item>
+  
+    <item>
+      <title>How We Enhance Our Workflow at Atomic Object with AI Tools</title>
+      <link>https://spin.atomicobject.com/enhance-workflow-ai-tools/</link>
+      <description>Atomic Object利用人工智能工具提升工作效率，通过AI模型快速了解新领域，提高项目效率，减少客户时间投入。AI作为“橡皮鸭”帮助设计师和项目经理解决问题，提高沟通效率和问题解决能力。ChatPRD等AI工具辅助产品需求文档的创建，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>An Eliška week</title>
+      <link>http://blog.mitrichev.ch/2024/07/an-eliska-week.html</link>
+      <description>上周，在荷兰Veldhoven举办的EGOI 2024竞赛中，Eliška连续第二年夺冠，展现出色实力。作者作为任务作者在场，但任务未最终使用。竞赛中问题D的multirun格式独特，需在w次运行中正确处理序列。Codeforces的Pinely Round 4中，tourist表现卓越。问题H和I在竞赛中看似难以解决，但最终被成功解决。</description>
+    </item>
+  
+    <item>
+      <title>Linux: ncdu and mc to manage large directories</title>
+      <link>https://linuxblog.io/linux-ncdu-manage-large-directories/</link>
+      <description>Linux中管理大型目录的ncdu和mc工具
+
+本文介绍了在Linux系统中管理大量文件时使用的两个命令行工具：ncdu和mc。ncdu是一个基于NCurses的磁盘使用查看器，而mc是一个功能丰富的文件管理器。文章还讨论了如何使用rsync和find命令来删除大量文件，并提供了安装ncdu和mc的步骤。</description>
+    </item>
+  
+    <item>
+      <title>How the Medium iOS team works effectively with legacy code</title>
+      <link>https://medium.engineering/how-the-medium-ios-team-works-effectively-with-legacy-code-0a9ddc45df19?source=rss----2817475205d3---4</link>
+      <description>Medium iOS团队如何高效地处理遗留代码
+
+Medium iOS团队在处理超过10年的遗留代码时，采用了一系列策略来保持代码库的稳定性和可扩展性。他们重视对遗留代码的维护而非重写，通过模块化、Sprouts技术和责任分离等方法，逐步重构和优化代码。团队强调，在处理遗留代码时，理解现有系统的工作原理至关重要，并鼓励通过绘图和笔记来加深理解。此外，他们还强调，重构和改进现有代码比从头开始编写更为重要，以避免陷入沉没成本陷阱。</description>
+    </item>
+  
+    <item>
+      <title>Infrastructure as Code (IaC) for modern IT management</title>
+      <link>https://www.babbel.com/en/magazine/infrastructure-as-code</link>
+      <description>基础设施即代码（IaC）通过自动化硬件和软件资源的设置和维护，为现代IT管理提供了一种变革性的解决方案。IaC使用简单的文本文件来指定基础设施，通过自动化工具执行，减少了手动设置的范围，降低了人为错误，并促进了环境间的统一。IaC的关键优势包括自动化流程、标准化配置、提供清晰的版本控制文档以及优化资源使用。随着基础设施的扩展和复杂性的增加，IaC在提高生产力、可靠性和成本优化方面的作用将变得更加重要。</description>
+    </item>
+  
+    <item>
       <title>La GenAI, ça change quoi pour un•e dev mobile ?</title>
       <link>https://blog.octo.com/la-genai-ca-change-quoi-pour-un*e-dev-mobile</link>
       <description>人工智能（GenAI）对移动开发者的影响主要体现在提升用户体验和开发效率上。GenAI可以作为用户助手，提供更自然的交互界面，搜索和分类信息，以及修改和重述内容。开发者需要关注GenAI可能带来的数据准确性问题，并重新思考监控和测试策略。此外，开发者应掌握基本的GenAI技术和提示工程，以优化应用功能。</description>
+    </item>
+  
+    <item>
+      <title>Multy – deploy and switch to any cloud provider (open beta)</title>
+      <link>https://linuxblog.io/multy-deploy-and-switch-to-any-cloud-provider/</link>
+      <description>Multy是一个开源工具，简化了在任意云服务提供商上部署和切换基础设施的过程。它支持AWS和Azure的核心服务，如网络、计算、数据库和存储，并通过Terraform进行部署。Multy旨在减少迁移基础设施代码时的重写工作，并帮助开发者轻松适应不同云服务提供商的差异。</description>
     </item>
   
     <item>
@@ -18,15 +110,39 @@
     </item>
   
     <item>
+      <title>Using the find command in Linux with examples</title>
+      <link>https://linuxblog.io/using-the-find-command-in-linux-with-examples/</link>
+      <description>Linux中的find命令用于在目录树中搜索文件，支持多种搜索条件、格式化输出和自定义命令。本文提供了多个示例，包括按名称、扩展名、路径模式、大小和修改时间搜索文件的方法。此外，还介绍了与find命令相关的其他命令，如grep、locate、whereis和xargs。</description>
+    </item>
+  
+    <item>
       <title>How to classify Red Hat OpenShift audit logs</title>
       <link>https://developers.redhat.com/articles/2024/07/29/how-classify-red-hat-openshift-audit-logs</link>
       <description>本文介绍了如何分类Red Hat OpenShift审计日志，强调了审计日志在确保系统安全、合规性和透明度方面的重要性。文章详细说明了如何区分用户和操作员的操作，并解释了日志中各种字段的意义。此外，还提供了如何查看和配置审计日志的示例。</description>
     </item>
   
     <item>
+      <title>CodeSOD: An Exceptional Junior</title>
+      <link>https://thedailywtf.com/articles/an-exceptional-junior</link>
+      <description>这篇文章讲述了一位初级开发者在不充分准备和监督的情况下，尝试在Python Flask应用程序中构建错误处理，导致代码混乱。开发者错误地使用了类型比较，并在异常处理中引入了不必要的复杂性。文章指出，这种做法反映了开发者试图重用代码的愿望，但缺乏必要的指导和支持。</description>
+    </item>
+  
+    <item>
+      <title>grep command in Linux w/ examples</title>
+      <link>https://linuxblog.io/grep-command-in-linux-w-examples/</link>
+      <description>Linux中的grep命令用于搜索文件中的特定字符模式。本文介绍了grep的基本语法和多种用法，包括搜索文件、递归搜索、大小写不敏感搜索、显示匹配行前后内容等。学习grep的选项和语法对于Linux系统管理员和高级用户来说非常有用。</description>
+    </item>
+  
+    <item>
       <title>crates.io: development update</title>
       <link>https://blog.rust-lang.org/2024/07/29/crates-io-development-update.html</link>
       <description>crates.io团队发布了最新的开发更新，包括改进安装指令、支持深色模式、引入RSS订阅、API令牌过期提醒以及数据库性能优化。这些更新旨在提升用户体验和网站性能。</description>
+    </item>
+  
+    <item>
+      <title>Engineering connections: a conference talk primer for humans</title>
+      <link>https://evilmartians.com/chronicles/engineering-connections-a-conference-talk-primer-for-humans</link>
+      <description>本文探讨了如何准备一场成功的会议演讲。文章强调了选择合适的主题、撰写提案、构建演讲结构、练习演讲和注意肢体语言的重要性。作者建议演讲者要关注听众，避免信息过载，并通过故事和实例来增强演讲的吸引力。文章还强调了分享个人经验和独特视角的重要性，以及如何确保演讲内容对听众有实际价值。</description>
     </item>
   
     </channel>
