@@ -6,9 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How GitHub supports neurodiverse employees (and how your company can, too)</title>
+      <link>https://github.blog/engineering/engineering-principles/how-github-supports-neurodiverse-employees-and-how-your-company-can-too/</link>
+      <description>GitHub通过建立支持性社区、培养归属感和提供灵活的工作安排，支持神经多样性员工，提高团队生产力。企业可借鉴GitHub的经验，为神经多样性员工创造包容环境，促进创新和创造力。</description>
+    </item>
+  
+    <item>
+      <title>Docker Desktop 4.33: GA Releases of Docker Debug and Docker Build Checks Plus Enhanced Configuration Integrity Checks</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-33/</link>
+      <description>Docker Desktop 4.33版本发布，新增Docker Debug和Docker Build Checks功能，以及改进配置完整性检查的用户体验。Docker Debug提供更高效的容器调试方式，Docker Build Checks优化Dockerfile编写，提升构建效率。这些功能增强开发体验，简化容器化应用的开发和维护。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Docker Build Checks: Optimize Dockerfiles with Best Practices</title>
+      <link>https://www.docker.com/blog/introducing-docker-build-checks/</link>
+      <description>Docker宣布推出Docker Build Checks，这是一项新功能，旨在帮助开发者优化Dockerfile，遵循最佳实践来构建容器镜像。通过在Docker Desktop 4.33中运行Docker Build，开发者将获得关于构建中任何违规的警告列表，从而节省时间和减少问题。Docker Build Checks不仅提供代码检查，还评估整个构建过程，包括传递的参数和使用的基镜像，以提供更全面的反馈。</description>
+    </item>
+  
+    <item>
       <title>How to Create Dockerfiles with GenAI</title>
       <link>https://www.docker.com/blog/how-to-create-dockerfiles-with-genai/</link>
       <description>本文探讨了如何利用生成式AI创建Dockerfile。通过分析项目并使用工具，AI可以自动生成Dockerfile，提高构建效率。文章介绍了如何使用AI分析项目、生成Dockerfile，并提供了最佳实践，如使用多阶段构建和缓存npm包。此外，还讨论了AI在生成Dockerfile过程中的挑战和改进方向。</description>
+    </item>
+  
+    <item>
+      <title>Why don’t Windows Imaging Component pixel format GUIDs continue their nice pattern?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240729-00/?p=110054</link>
+      <description>Windows Imaging Component（WIC）的像素格式GUIDs原本遵循一定模式，但后来添加的格式未继续此模式。这是为了避免GUID预测性和潜在的冲突，确保GUID的唯一性。尽管模式有助于识别经典格式，但添加新格式时，库仍需更新以映射新值。</description>
+    </item>
+  
+    <item>
+      <title>Strings and Character Data in Python</title>
+      <link>https://realpython.com/python-strings/</link>
+      <description>Python教程：本文深入探讨了Python中的字符串和字符数据。介绍了字符串的创建、标准字符串字面量、转义序列、原始字符串字面量、格式化字符串字面量、内置str()函数、字符串操作符、字符串索引和切片、字符串插值和格式化等。旨在帮助读者掌握Python字符串处理的基础知识和技能。</description>
+    </item>
+  
+    <item>
+      <title>What do you want to learn?</title>
+      <link>https://www.bambooweekly.com/what-do-you-want-to-learn/</link>
+      <description>Reuven Lerner分享了他作为Python和Pandas学习资源的提供者，以及即将提供的在线课程。他邀请读者通过调查提供课程建议，并将在一周后公布课程内容。同时，他还提到了关于美国政治家年龄的讨论和即将到来的Pandas办公时间。</description>
     </item>
   
     <item>
@@ -70,6 +106,12 @@
     </item>
   
     <item>
+      <title>Generative AI for Capital Markets</title>
+      <link>https://www.databricks.com/blog/generative-ai-capital-markets</link>
+      <description>生成式AI在资本市场中的应用：金融机构正采用生成式AI来增强其分析师团队，通过快速处理和分析大量数据来获得超额收益。关键在于数据收集、RAG工作流程和部署、监控及用户界面。数据收集需要综合、干净、可发现和可信的数据，RAG工作流程结合了私有数据和LLM，而部署和监控则确保模型准确性和可扩展性。</description>
+    </item>
+  
+    <item>
       <title>Linux: ncdu and mc to manage large directories</title>
       <link>https://linuxblog.io/linux-ncdu-manage-large-directories/</link>
       <description>Linux中管理大型目录的ncdu和mc工具
@@ -119,6 +161,12 @@ Medium iOS团队在处理超过10年的遗留代码时，采用了一系列策�
       <title>How to classify Red Hat OpenShift audit logs</title>
       <link>https://developers.redhat.com/articles/2024/07/29/how-classify-red-hat-openshift-audit-logs</link>
       <description>本文介绍了如何分类Red Hat OpenShift审计日志，强调了审计日志在确保系统安全、合规性和透明度方面的重要性。文章详细说明了如何区分用户和操作员的操作，并解释了日志中各种字段的意义。此外，还提供了如何查看和配置审计日志的示例。</description>
+    </item>
+  
+    <item>
+      <title>Responsible AI with the Databricks Data Intelligence Platform</title>
+      <link>https://www.databricks.com/blog/responsible-ai-databricks-data-intelligence-platform</link>
+      <description>Databricks数据智能平台助力企业实现负责任的AI应用。通过统一数据、模型训练、管理和治理，该平台确保AI系统高质量、安全且符合法规。平台提供端到端的质量监控，包括透明度、有效性和可靠性，以维护模型质量。此外，通过数据血缘跟踪、特征工程、实验跟踪和AI驱动的文档等功能，Databricks帮助用户构建可解释、可复制的AI系统，确保合规和负责任的AI实践。</description>
     </item>
   
     <item>
