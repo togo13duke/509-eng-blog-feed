@@ -6,9 +6,93 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Apache Kafka® 3.8</title>
+      <link>https://www.confluent.io/blog/introducing-apache-kafka-3-8/</link>
+      <description>Apache Kafka 3.8.0版本发布，包含多项新特性和改进，如支持多日志目录的分层存储、新增压缩级别配置机制、下一代消费者再平衡协议等。此外，还引入了基于GraalVM的本地Kafka代理的Docker镜像，以及针对Kafka Connect和Kafka Streams的增强功能。</description>
+    </item>
+  
+    <item>
+      <title>From sci-fi to state law: California’s plan to prevent AI catastrophe</title>
+      <link>https://arstechnica.com/?p=2036533</link>
+      <description>加州计划通过SB-1047法案，对大型AI模型进行安全测试，以预防潜在的灾难性后果。法案要求大型AI模型的公司实施测试程序，以防止和应对可能导致大规模伤亡或巨额财产损失的安全事件。批评者担心这可能会限制AI研究和创新，而支持者认为这是防止高级AI系统潜在危害的必要步骤。</description>
+    </item>
+  
+    <item>
+      <title>Olympic Sale</title>
+      <link>https://catonmat.net/olympic-sale</link>
+      <description>Browserling和Online Tools在奥运会期间推出50%折扣活动，每四年一次。用户访问网站即可享受优惠。</description>
+    </item>
+  
+    <item>
+      <title>A new language for teamwork: our journey to a reimagined visual system</title>
+      <link>https://www.atlassian.com/blog/announcements/our-journey-to-a-reimagined-visual-system</link>
+      <description>Atlassian推出全新视觉语言，旨在强化与客户的情感连接。这一视觉更新不仅是对品牌的表面修饰，更体现了对创新、卓越和团队价值的承诺。通过独特的色彩、线条和细节，品牌传达了激情、进步和对释放团队潜力的不懈追求。</description>
+    </item>
+  
+    <item>
+      <title>Java 21 Virtual Threads - Dude, Where’s My Lock?</title>
+      <link>https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d?source=rss----2615bd06b42e---4</link>
+      <description>Netflix技术博客探讨了Java 21中虚拟线程的使用，特别是在部署过程中遇到的问题。文章详细分析了虚拟线程在处理高吞吐量并发应用时的优势，以及如何解决因虚拟线程导致的Tomcat服务中断和socket状态异常的问题。通过深入分析线程和堆转储，揭示了虚拟线程在等待锁时被挂起，导致系统无法处理新请求的原因。</description>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more (July 29, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/</link>
+      <description>AWS本周发布了多项新功能，包括Meta Llama 3.1模型、Mistral Large 2模型、更快的自动扩展功能、支持客户管理的密钥以及新的认证考试题型。此外，还举办了AWS用户组和社区活动，并即将举行AWS峰会和社区日活动。</description>
+    </item>
+  
+    <item>
+      <title>Highlights from Git 2.46</title>
+      <link>https://github.blog/open-source/git/highlights-from-git-2-46/</link>
+      <description>Git 2.46版本发布，新增伪合并位图、更强大的凭证助手和新的git config命令。该版本由96位贡献者共同开发，其中31位为新贡献者。主要更新包括优化对象遍历速度的伪合并位图，以及改进的git config命令，使配置管理更加灵活。</description>
+    </item>
+  
+    <item>
+      <title>Easily Create Bindings for .NET MAUI with Native Library Interop</title>
+      <link>https://devblogs.microsoft.com/dotnet/native-library-interop-dotnet-maui/</link>
+      <description>本文介绍了如何使用原生库互操作技术轻松为.NET MAUI创建绑定。通过直接访问原生库API，开发者可以创建跨平台的自定义控件，并利用社区提供的模板和示例来简化绑定过程。文章以创建图表绑定为例，展示了如何使用Android和iOS的相应库来实现这一功能，并提供了详细的步骤和代码示例。</description>
+    </item>
+  
+    <item>
+      <title>Flaky Tests? Check your FactoryBot IDs</title>
+      <link>https://engineering.gusto.com/flaky-tests-check-your-factorybot-ids-694bf8b9dfea?source=rss----645edd256348---4</link>
+      <description>在测试中，确保FactoryBot生成的ID不会导致测试不稳定。避免在工厂中手动定义数据库ID，使用UUID生成唯一标识，并避免在工厂中定义外键ID。使用序列来定义没有明显约束的ID，并注意测试之间的依赖关系。如果工厂属性值对测试结果重要，应在测试中明确设置其值。</description>
+    </item>
+  
+    <item>
+      <title>What is an Online Android? (And How To Get One)</title>
+      <link>https://catonmat.net/what-is-an-online-android</link>
+      <description>在线Android是一种云端的虚拟Android操作系统，可通过浏览器访问，无需本地安装。它适用于应用测试、网页开发和移动浏览，提供灵活的开发和测试平台。用户可以通过Browserling.com访问不同版本的在线Android，用于开发、测试和培训等目的。</description>
+    </item>
+  
+    <item>
+      <title>Flink AI: Real-Time ML and GenAI Enrichment of Streaming Data with Flink SQL on Confluent Cloud</title>
+      <link>https://www.confluent.io/blog/flinkai-realtime-ml-and-genai-confluent-cloud/</link>
+      <description>Flink SQL在Confluent Cloud上运行，可调用机器学习模型和进行AI推理，实现实时机器学习和生成式AI的增强。通过结合Apache Kafka和Apache Flink，企业能够从数据流中提取有价值的信息，并在实时数据处理中应用AI模型，从而提高数据质量和业务洞察力。</description>
+    </item>
+  
+    <item>
+      <title>How Updating Legacy Iframe Creation Saved GumGum Thousands In Lost Revenue Due to DSP Discrepancies</title>
+      <link>https://medium.com/gumgum-tech/how-updating-legacy-iframe-creation-saved-gumgum-thousands-in-lost-revenue-due-to-dsp-discrepancies-3feb7ca8bb11?source=rss----d4c1dee0f87b---4</link>
+      <description>GumGum通过更新其遗留的iframe创建方式，解决了与DSP之间的差异问题，从而节省了数千美元的收入损失。通过深入分析广告交付管道，团队发现GumGum的跟踪器在创意标记之外触发，而DSP的跟踪器在创意标记内触发，导致DSP的印象计数未正确记录。通过将document.write替换为iframe.srcdoc，并逐步测试新方法，差异百分比从7.5%以上降至2.5%，接近目标值。</description>
+    </item>
+  
+    <item>
+      <title>New approaches to measuring Nomad performance</title>
+      <link>https://www.hashicorp.com/blog/new-methods-measuring-nomad-performance</link>
+      <description>Nomad 1.8版本引入了新的性能指标，以帮助用户更好地理解其Nomad服务器的性能。这些指标包括等待时间、处理时间和响应时间，用于衡量工作负载调度器的吞吐量、响应时间和延迟。这些改进旨在使操作员更容易分析Nomad服务器的性能，并提供了更全面的性能监控工具。</description>
+    </item>
+  
+    <item>
       <title>How GitHub supports neurodiverse employees (and how your company can, too)</title>
       <link>https://github.blog/engineering/engineering-principles/how-github-supports-neurodiverse-employees-and-how-your-company-can-too/</link>
       <description>GitHub通过建立支持性社区、培养归属感和提供灵活的工作安排，支持神经多样性员工，提高团队生产力。企业可借鉴GitHub的经验，为神经多样性员工创造包容环境，促进创新和创造力。</description>
+    </item>
+  
+    <item>
+      <title>Creating an AI powered service for detecting fraudulant card transactions</title>
+      <link>https://developers.redhat.com/articles/2024/07/29/creating-ai-powered-service-detecting-fraudulant-card-transactions</link>
+      <description>Red Hat OpenShift AI简化了AI模型的生命周期管理，包括构建、训练、存储和部署。通过Jupyter Notebook环境，开发者可以轻松构建和训练模型，并使用Minio等集成解决方案进行安全存储。部署模型到OpenShift AI后，可以快速进行推理。本文提供了一个使用OpenShift AI构建欺诈检测系统的示例，包括数据预处理、模型训练和API集成，以实现实时欺诈检测。</description>
     </item>
   
     <item>
@@ -68,11 +152,23 @@
     </item>
   
     <item>
+      <title>Avoiding downtime: modern alternatives to outdated certificate pinning practices</title>
+      <link>https://blog.cloudflare.com/why-certificate-pinning-is-outdated</link>
+      <description>现代标准使证书固定变得过时：随着证书生命周期缩短、中间证书定期轮换和证书透明度使用增加，证书固定已不再必要。这些改进自动化、可扩展且稳健，消除了手动证书固定的需要，提高了安全性和弹性。</description>
+    </item>
+  
+    <item>
       <title>Mastering API Integration: Salesforce, Heroku, and MuleSoft Anypoint Flex Gateway</title>
       <link>https://blog.heroku.com/mastering-api-integration-salesforce-heroku-mulesoft-anypoint-flex-gateway</link>
       <description>掌握API集成：Salesforce、Heroku和MuleSoft Anypoint Flex Gateway
 
 本文介绍了如何使用MuleSoft Anypoint Flex Gateway在Heroku上部署和配置API，以实现安全、高效的API管理。通过结合Anypoint API Manager和Heroku Private Spaces，可以简化操作、提高可扩展性，并加速Salesforce解决方案的价值实现。文章详细介绍了设置Flex Gateway的步骤，包括创建API、配置API Manager、部署Flex Gateway以及连接内部API到Flex Gateway。</description>
+    </item>
+  
+    <item>
+      <title>Saying goodbye to our Discourse forums (and what comes next)</title>
+      <link>https://algolia.com/blog/algolia/saying-goodbye-to-our-discourse-forums-and-what-comes-next/</link>
+      <description>Algolia即将在2024年8月关闭其Discourse论坛，这是Algolia社区八年的基石。尽管感到不舍，但Algolia将转向新的社区中心——官方Discord服务器，以适应开发者更倾向于的聊天平台。Discord结合了同步聊天和论坛功能，将Algolia大使、DocSearch用户和更广泛的开发者社区聚集在一起，促进了活跃的交流和合作。</description>
     </item>
   
     <item>
