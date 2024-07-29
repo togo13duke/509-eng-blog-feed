@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>La GenAI, ça change quoi pour un•e dev mobile ?</title>
+      <link>https://blog.octo.com/la-genai-ca-change-quoi-pour-un*e-dev-mobile</link>
+      <description>人工智能（GenAI）对移动开发者的影响主要体现在提升用户体验和开发效率上。GenAI可以作为用户助手，提供更自然的交互界面，搜索和分类信息，以及修改和重述内容。开发者需要关注GenAI可能带来的数据准确性问题，并重新思考监控和测试策略。此外，开发者应掌握基本的GenAI技术和提示工程，以优化应用功能。</description>
+    </item>
+  
+    <item>
+      <title>From Meta CTO to climate tech investor: Mike Schroepfer on his big pivot</title>
+      <link>https://www.technologyreview.com/2024/07/29/1095357/from-meta-cto-to-climate-tech-investor-mike-schroepfer-on-his-big-pivot/</link>
+      <description>迈克·施罗普弗，前Meta首席技术官，现已转型为气候技术投资者。他利用自己的技术专长和财务资源，通过慈善和盈利性努力来应对气候变化挑战。他创立了Gigascale Capital，支持早期气候技术公司，并启动了Carbon to Sea和Outlier Projects等非营利项目，致力于减少温室气体排放、稳定冰川和探索太阳能地球工程等。施罗普弗认为，通过技术创新和投资，可以推动解决气候变化问题，并实现可持续发展的目标。</description>
+    </item>
+  
+    <item>
       <title>How to classify Red Hat OpenShift audit logs</title>
       <link>https://developers.redhat.com/articles/2024/07/29/how-classify-red-hat-openshift-audit-logs</link>
       <description>本文介绍了如何分类Red Hat OpenShift审计日志，强调了审计日志在确保系统安全、合规性和透明度方面的重要性。文章详细说明了如何区分用户和操作员的操作，并解释了日志中各种字段的意义。此外，还提供了如何查看和配置审计日志的示例。</description>
+    </item>
+  
+    <item>
+      <title>crates.io: development update</title>
+      <link>https://blog.rust-lang.org/2024/07/29/crates-io-development-update.html</link>
+      <description>crates.io团队发布了最新的开发更新，包括改进安装指令、支持深色模式、引入RSS订阅、API令牌过期提醒以及数据库性能优化。这些更新旨在提升用户体验和网站性能。</description>
     </item>
   
     </channel>
