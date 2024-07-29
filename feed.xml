@@ -294,6 +294,14 @@
     </item>
   
     <item>
+      <title>How to Send Translated Messages with Google and Django</title>
+      <link>https://www.twilio.com/en-us/blog/translated-messages-voice-sendgrid-python-django</link>
+      <description>如何使用Google和Django通过Twilio发送翻译消息
+
+本文介绍如何使用Twilio Programmable Voice和SendGrid，结合Google翻译API，在Python Django中发送翻译后的语音消息或电子邮件。通过构建名为heart2heart的服务，用户可以发送简短的消息，接收方将收到翻译成其母语的语音或电子邮件。教程涵盖了设置Twilio账户、SendGrid账户、Google云账户，以及Python、Django和Git的基本知识。</description>
+    </item>
+  
+    <item>
       <title>Effortless Content Publishing: A Developer’s Guide to Adobe Experience Manager</title>
       <link>https://www.sitepoint.com/adobe-experience-manager-guide/?utm_source=rss</link>
       <description>Adobe Experience Manager（AEM）简化了内容管理，使营销人员能够像使用Microsoft Word一样轻松创建和编辑网页。AEM Edge Delivery Services进一步优化了这一过程，允许营销人员直接从源文档发布内容，而开发者仍能控制最终输出。通过使用AEM，企业可以提升效率，减少复杂性，实现更快的项目交付和更高的内容质量。</description>
