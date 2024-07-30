@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Go with Low-Fidelity Work for High-Fidelity Results</title>
+      <link>https://spin.atomicobject.com/low-fidelity-high-results/</link>
+      <description>低保真工作对于实现高保真结果至关重要。通过使用简单的“形状+文本”标签组合，可以改善沟通、提出更好的问题，并澄清未知信息，从而做出更明智的决策。低保真工作有助于控制信息，更好地理解限制条件，避免过早进入高保真阶段，从而节省时间和避免不必要的视觉反馈。</description>
+    </item>
+  
+    <item>
+      <title>What is a Cloud Android? (And How To Get One)</title>
+      <link>https://catonmat.net/what-is-a-cloud-android</link>
+      <description>云安卓是一种通过浏览器远程访问的安卓设备或模拟器，适用于应用测试、移动浏览、游戏和开发，无需物理硬件。它支持跨设备兼容性测试、性能优化和调试，可访问所有安卓版本，包括早期版本。开发者可以通过Browserling平台快速访问不同版本的安卓，进行应用测试、国际化和自动化测试、调试以及演示等。</description>
+    </item>
+  
+    <item>
+      <title>Missing trailing new line when using cat in a bash script</title>
+      <link>https://akrabat.com/missing-trailing-new-line-when-using-cat-in-a-bash-script/</link>
+      <description>在Bash脚本中使用`cat`命令时，文件末尾的换行符会被移除，导致计算出的哈希值与PHP中的`file_get_contents()`不同。可以通过在`cat`命令的输出后添加换行符`\n`或使用`printf`命令来解决这个问题。</description>
+    </item>
+  
+    <item>
+      <title>How the US and its allies can rebuild economic security</title>
+      <link>https://www.technologyreview.com/2024/07/30/1095439/usa-economic-security-competitiveness/</link>
+      <description>文章探讨了如何同时确保国家安全和经济繁荣。强调了技术能力的重要性，特别是在自动化、通信、能源存储和疫苗设计等领域。指出美国及其盟友在技术投资中存在“缺失的中层”，即对成熟技术的商业生产投资不足。文章以无人机技术为例，说明了中国在制造和供应链方面的主导地位，这对国家安全和经济繁荣构成了挑战。建议通过适当的资本投资、培养技术人才、建立工业基础设施和与盟友合作来应对这一挑战。</description>
+    </item>
+  
+    <item>
+      <title>How machines that can solve complex math problems might usher in more powerful AI</title>
+      <link>https://www.technologyreview.com/2024/07/30/1095467/how-machines-that-can-solve-complex-math-problems-might-usher-in-more-powerful-ai/</link>
+      <description>Google DeepMind开发的AlphaProof和AlphaGeometry 2系统在解决复杂数学问题方面取得了突破，标志着人工智能推理能力的提升。这些系统能够解决国际数学奥林匹克竞赛中的难题，显示出AI在数学推理上的潜力，可能为AI和科学发现带来新的可能性。</description>
+    </item>
+  
+    <item>
       <title>Hibernate SoftDelete annotation</title>
       <link>https://vladmihalcea.com/hibernate-softdelete-annotation/</link>
       <description>Hibernate 6.4 引入的 SoftDelete 注解简化了 JPA 实体的软删除机制。通过在实体上使用 @SoftDelete 注解，可以轻松实现删除记录而不从数据库中物理删除它们。本文演示了如何使用该注解，包括在 Tag、Post、PostDetails 和 PostComment 实体上的应用，以及如何处理关联实体的软删除。升级到 Hibernate 6.4 或更高版本以使用此功能。</description>
@@ -15,6 +45,26 @@
       <title>Should You Build Or Buy OpenAPI Tooling?</title>
       <link>https://nordicapis.com/should-you-build-or-buy-openapi-tooling/</link>
       <description>在API经济时代，企业架构师在选择构建还是购买OpenAPI工具时，需要明确自己的目标。构建自定义工具可以满足特定需求，但需要投入更多时间和资源。购买现成的工具可以节省时间和成本，但可能无法完全满足特定需求。因此，企业应根据自身情况权衡利弊，做出明智的选择。</description>
+    </item>
+  
+    <item>
+      <title>Set up a streams for Apache Kafka cluster with Ansible</title>
+      <link>https://developers.redhat.com/articles/2024/07/30/set-streams-apache-kafka-cluster-ansible</link>
+      <description>使用Ansible设置Apache Kafka集群的Streams
+
+本文介绍了如何使用Ansible自动化平台部署和管理Apache Kafka的Streams。文章详细说明了如何设置Ansible控制器，准备目标机器，并使用Ansible集合自动化部署Zookeeper实例和Kafka代理节点。此外，还展示了如何创建集群中的主题。通过Ansible的自动化，可以简化Apache Kafka集群的部署和管理过程。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Mailing it In</title>
+      <link>https://thedailywtf.com/articles/mailing-it-in</link>
+      <description>Remy Porter在《Daily WTF》上撰文，讨论了Dan B在处理与银行交互的软件时遇到的挑战。Dan的软件需要从后端的主机式文件中提取交易金额，并将其转换为银行所需的格式，然后通过电子邮件发送汇总。文章指出，Dan的代码虽然功能正确，但实现方式复杂、难以阅读且效率低下。</description>
+    </item>
+  
+    <item>
+      <title>The Most Difficult Word To Pronounce And The Hardest Word To Spell In English</title>
+      <link>https://www.babbel.com/en/magazine/most-difficult-word-to-pronounce</link>
+      <description>英语中最难发音和拼写单词的探讨，分析了单词拼写困难的原因，包括来自其他语言的拼写和英语发音的变化。文章列出了最难拼写的10个单词和最难发音的10个单词，并提供了发音和拼写的技巧。通过掌握这些单词，可以提升英语语言技能和沟通能力。</description>
     </item>
   
     <item>
