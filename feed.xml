@@ -6,54 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Recipe for Magic: WPP and NVIDIA Omniverse Help The Coca-Cola Company Scale Generative AI Content That Pops With Brand Authenticity</title>
-      <link>https://blogs.nvidia.com/blog/coca-cola-wpp-omniverse-generative-ai/</link>
-      <description>WPP与NVIDIA Omniverse合作，助力可口可乐公司通过NVIDIA NIM微服务加速全球创意营销活动的迭代。利用NVIDIA的生成式AI和NIM微服务，可口可乐能够个性化定制产品图像，快速调整AI生成的图像，以更好地针对本地市场。此举将大幅提升内容生产效率，并简化跨语言、图像和视频的创作过程。</description>
-    </item>
-  
-    <item>
-      <title>Reality Reimagined: NVIDIA Introduces fVDB to Build Bigger Digital Models of the World</title>
-      <link>https://blogs.nvidia.com/blog/fvdb-bigger-digital-models/</link>
-      <description>NVIDIA推出新型深度学习框架fVDB，用于构建更大规模的数字世界模型。该框架基于OpenVDB，可实时渲染大规模AI环境，支持自动驾驶、气候科学和智能城市等领域。fVDB通过结合多种功能，简化了深度学习过程，并提高了空间智能的分辨率和性能。</description>
-    </item>
-  
-    <item>
-      <title>NVIDIA Supercharges Digital Marketing With Greater Control Over Generative AI</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-supercharges-marketing-agencies-generative-ai/</link>
-      <description>NVIDIA通过其技术组合，包括生成式AI、NVIDIA NIM微服务和OpenUSD，助力品牌和广告公司实现更精准、高效的广告内容制作。这些技术支持艺术家访问大量品牌认证的资产，并加速场景构建，从而提升广告创意和内容供应链的效率。NVIDIA Omniverse平台则被广泛用于创建产品的精确数字孪生，以增强个性化、客户参与度和忠诚度，并提高销售额。</description>
-    </item>
-  
-    <item>
-      <title>New NVIDIA Digital Human Technologies Enhance Customer Interactions Across Industries</title>
-      <link>https://blogs.nvidia.com/blog/digital-humans-siggraph-2024/</link>
-      <description>NVIDIA最新升级的ACE和Maxine技术，通过生成式AI使数字人类在客户服务中栩栩如生。这些技术包括交互式数字人类James，以及Maxine 3D和Audio2Face-2D，用于提供沉浸式远程体验。这些技术被广泛应用于各行业，如客户服务、娱乐、零售和酒店，旨在提升用户体验和业务效率。</description>
-    </item>
-  
-    <item>
-      <title>Hugging Face Offers Developers Inference-as-a-Service Powered by NVIDIA NIM</title>
-      <link>https://blogs.nvidia.com/blog/hugging-face-inference-nim-microservices-dgx-cloud/</link>
-      <description>Hugging Face与NVIDIA合作，为开发者提供基于NVIDIA NIM的推理即服务，大幅提升AI模型效率，并允许开发者立即访问NVIDIA DGX Cloud上的NIM微服务。这一服务将简化AI模型的部署和原型制作，同时提高企业级性能。</description>
-    </item>
-  
-    <item>
-      <title>AI Gets Physical: New NVIDIA NIM Microservices Bring Generative AI to Digital Environments</title>
-      <link>https://blogs.nvidia.com/blog/generative-physical-ai-nim-microservices/</link>
-      <description>NVIDIA发布新的NIM微服务，将生成式AI引入数字环境，助力创建智能沉浸式工作环境。这些服务支持3D世界深度学习框架，并与OpenUSD开发中的生成式AI模型协同工作，使开发者能够将生成式AI协作者和代理集成到USD工作流程中。NVIDIA的NIM微服务还帮助开发者构建高性能、定制的视觉AI代理，并在医疗、制造等领域得到应用。</description>
-    </item>
-  
-    <item>
-      <title>For Your Edification: Shutterstock Releases Generative 3D, Getty Images Upgrades Service Powered by NVIDIA</title>
-      <link>https://blogs.nvidia.com/blog/edify-shutterstock-getty-images/</link>
-      <description>Shutterstock和Getty Images利用NVIDIA的生成式AI技术，推出了新的3D生成服务和图像升级服务。Shutterstock的Generative 3D服务允许用户通过文本或图像提示快速创建3D资产和360度HDRi背景。Getty Images的Generative AI服务则提高了图像生成速度和质量，并增加了高级控制功能。这些服务利用NVIDIA的视觉AI和Edify架构，为设计师和艺术家提供了更高效的内容创作工具。</description>
-    </item>
-  
-    <item>
-      <title>Browserling now has Android 8 and 8.1!</title>
-      <link>https://catonmat.net/browserling-android-8</link>
-      <description>Browserling新增支持Android 8和8.1，提供在线测试最新Android版本的功能，包括多任务模式、通知管理、自动填充框架、电池优化、自适应图标、增强安全性和新表情符号等。用户可通过Browserling测试网站和应用，确保跨多个Android环境兼容性。</description>
-    </item>
-  
-    <item>
       <title>Introducing Apache Kafka® 3.8</title>
       <link>https://www.confluent.io/blog/introducing-apache-kafka-3-8/</link>
       <description>Apache Kafka 3.8.0版本发布，包含多项新特性和改进，如支持多日志目录的分层存储、新增压缩级别配置机制、下一代消费者再平衡协议等。此外，还引入了基于GraalVM的本地Kafka代理的Docker镜像，以及针对Kafka Connect和Kafka Streams的增强功能。</description>
