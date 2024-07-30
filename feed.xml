@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Creators to Have Personalized AI Assistants, Meta CEO Mark Zuckerberg Tells NVIDIA CEO Jensen Huang</title>
-      <link>https://blogs.nvidia.com/blog/zuckerberg-huang/</link>
-      <description>Meta CEO马克·扎克伯格和NVIDIA CEO黄仁勋在SIGGRAPH 2024上讨论了开源AI和AI助手的变革潜力。扎克伯格宣布推出AI Studio平台，使创作者和小企业能够创建、分享和发现AI角色。他们强调了开源在AI发展中的重要性，Meta通过其AI技术推动了这一进程，并发布了Llama 3.1。两位CEO展望了AI的未来，包括通过眼镜将AI与现实世界结合，以及AI交互的流畅性提升。</description>
-    </item>
-  
-    <item>
       <title>AWS and Multicloud: Existing capabilities &amp; continued enhancements</title>
       <link>https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/</link>
       <description>AWS致力于简化多云环境的管理，通过扩展其现有的操作和管理功能，支持跨云和混合环境。公司已推出多项新功能，包括数据同步、数据集成、安全湖、秘密管理器等，以帮助客户在多云环境中成功。同时，AWS还提供了丰富的博客文章和视频内容，指导用户如何利用这些新功能。</description>
@@ -247,12 +241,6 @@
       <description>掌握API集成：Salesforce、Heroku和MuleSoft Anypoint Flex Gateway
 
 本文介绍了如何使用MuleSoft Anypoint Flex Gateway在Heroku上部署和配置API，以实现安全、高效的API管理。通过结合Anypoint API Manager和Heroku Private Spaces，可以简化操作、提高可扩展性，并加速Salesforce解决方案的价值实现。文章详细介绍了设置Flex Gateway的步骤，包括创建API、配置API Manager、部署Flex Gateway以及连接内部API到Flex Gateway。</description>
-    </item>
-  
-    <item>
-      <title>FastHTML projects can now be deployed with zero configuration</title>
-      <link>https://vercel.com/changelog/fasthtml-htmx-python-vercel</link>
-      <description>FastHTML项目现在可在Vercel上零配置部署，利用Next.js平台和Turborepo技术，快速构建可扩展的Web应用。通过Vercel CLI或git仓库更新即可部署，为开发者提供高效开发体验。</description>
     </item>
   
     <item>
