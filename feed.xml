@@ -6,36 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>AWS and Multicloud: Existing capabilities &amp; continued enhancements</title>
-      <link>https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/</link>
-      <description>AWS致力于简化多云环境的管理，通过扩展其现有的操作和管理功能，支持跨云和混合环境。公司已推出多项新功能，包括数据同步、数据集成、安全湖、秘密管理器等，以帮助客户在多云环境中成功。同时，AWS还提供了丰富的博客文章和视频内容，指导用户如何利用这些新功能。</description>
-    </item>
-  
-    <item>
-      <title>‘Everybody Will Have an AI Assistant,’ NVIDIA CEO Tells SIGGRAPH Audience</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-ceo-siggraph/</link>
-      <description>NVIDIA首席执行官黄仁勋在SIGGRAPH 2024会议上预测，每个人都将拥有AI助手，AI将增强人类生产力并提高计算能效。NVIDIA推出了新的NIM微服务和OpenUSD技术，旨在提升开发者能力，并展示了其在AI和图形领域的最新进展，包括用于生成物理AI应用和机器人模拟的新服务。这些技术将推动各行业的发展，如自动驾驶汽车和数字人机交互。</description>
-    </item>
-  
-    <item>
-      <title>Building Lyft’s Next Emblem — Glow</title>
-      <link>https://eng.lyft.com/building-lyfts-next-emblem-glow-60ceb460dfea?source=rss----25cd379abb8---4</link>
-      <description>Lyft推出了新一代标志“Glow”，它具有白天可见、自动调节亮度的显示功能，可显示骑行者自定义的颜色和新动画，帮助乘客更快找到车辆。Glow还配备了增强的GPS和IMU传感器，提高了司机的定位精度。该系统利用蓝牙低功耗（BLE）进行通信，并通过司机手机作为“物联网网关”，连接Glow设备和Lyft后端。Glow设备通过内部命令框架进行控制，支持动画播放、亮度调节等功能。此外，Glow还具备设备状态管理和固件更新功能。</description>
-    </item>
-  
-    <item>
-      <title>Automate Rotating Credentials using Terraform</title>
-      <link>https://engineering.mixpanel.com/automate-rotating-credentials-using-terraform-b0e7dab4d793?source=rss----b5de3443ad1f---4</link>
-      <description>本文介绍了使用Terraform自动化旋转凭证的方法。作者Andy Leap首先阐述了手动旋转凭证的繁琐性，然后介绍了如何使用Terraform创建和管理Google服务账户密钥，并利用Terraform的time_rotating资源实现自动旋转。然而，由于自动旋转可能导致服务中断，作者提出了使用两个密钥并错开旋转时间的方法，并最终开发了一个名为multirotate_set的Terraform提供程序来解决此问题。此外，作者还介绍了如何设置密钥过期，以确保密钥定期更新。</description>
-    </item>
-  
-    <item>
-      <title>Hackers exploit VMware vulnerability that gives them hypervisor admin</title>
-      <link>https://arstechnica.com/?p=2039863</link>
-      <description>黑客利用VMware漏洞获得虚拟机管理权限，微软敦促用户采取措施防范勒索软件攻击。该漏洞允许攻击者在目标服务器上获得有限系统权限后，进一步控制ESXi虚拟机管理程序。微软研究人员发现，攻击者通过创建名为“ESX Admins”的新域组，无需认证即可获得完全管理权限。安全专家警告，该漏洞的利用非常简单，应优先调查和修补。</description>
-    </item>
-  
-    <item>
       <title>Recipe for Magic: WPP and NVIDIA Omniverse Help The Coca-Cola Company Scale Generative AI Content That Pops With Brand Authenticity</title>
       <link>https://blogs.nvidia.com/blog/coca-cola-wpp-omniverse-generative-ai/</link>
       <description>WPP与NVIDIA Omniverse合作，助力可口可乐公司通过NVIDIA NIM微服务加速全球创意营销活动的迭代。利用NVIDIA的生成式AI和NIM微服务，可口可乐能够个性化定制产品图像，快速调整AI生成的图像，以更好地针对本地市场。此举将大幅提升内容生产效率，并简化跨语言、图像和视频的创作过程。</description>
