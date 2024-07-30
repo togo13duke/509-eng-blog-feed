@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>OpenAI has released a new ChatGPT bot that you can talk to</title>
+      <link>https://www.technologyreview.com/2024/07/30/1095489/openai-has-released-a-new-chatgpt-bot-that-you-can-talk-to/</link>
+      <description>OpenAI发布了一款新的ChatGPT语音聊天机器人，能够进行自然流畅的对话。该机器人目前仅对一小部分ChatGPT Plus用户开放，预计秋季对所有用户开放。它基于GPT-4o模型，能够识别语气、实时回应，并表达多种情感。OpenAI正在测试其安全性，并计划未来增加视频和屏幕共享等高级功能。</description>
+    </item>
+  
+    <item>
       <title>How GitHub harnesses AI to transform customer feedback into action</title>
       <link>https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/</link>
       <description>GitHub利用人工智能将客户反馈转化为行动，通过结合数据挖掘技术和机器学习算法，分析大量客户反馈，以提升产品并加强用户信任。通过AI分析将客户反馈转化为可操作见解，GitHub能够更有效地响应用户需求，推动产品发展。</description>
@@ -82,6 +88,12 @@
       <title>New with Confluent Platform: Enhanced security with OAuth Support, Confluent Platform for Apache Flink® (LA), a new Connector, and More</title>
       <link>https://www.confluent.io/blog/introducing-confluent-platform-7-7/</link>
       <description>Confluent Platform 7.7版本发布，增强安全性，支持OAuth和OIDC，并引入Apache Flink连接器和Kubernetes更新。新版本基于Apache Kafka 3.7，提供长期支持，简化集群迁移，并加强身份验证和安全性。</description>
+    </item>
+  
+    <item>
+      <title>Performance improvements and setting update for the Vercel Toolbar</title>
+      <link>https://vercel.com/changelog/performance-improvements-and-setting-update-for-the-vercel-toolbar</link>
+      <description>Vercel Toolbar更新：工具栏加载速度提升至10倍，并采用硬件加速，优化交互体验。新增功能包括评论、功能标志和开发者工具。可根据环境（预览或生产）在仪表板中切换工具栏可见性，并支持用户通过快捷键或菜单选项隐藏或禁用工具栏。</description>
     </item>
   
     <item>
@@ -174,6 +186,18 @@
       <title>Ep. 11: Enhancing Go Code with Effective Application Layer Tests</title>
       <link>https://www.ardanlabs.com/blog/2024/07/proper-prompt-formatting-for-enhanced-ai-model-performance-ep-11.html</link>
       <description>本篇博客深入探讨了在Go项目中实施强大的应用层测试，提供了创建可扩展和可维护软件系统的关键策略。通过应用层测试，开发者可以确保代码库的全面覆盖，同时使用单个数据库实例，从而提高效率和可靠性。文章强调了在领域级别组织测试、使用子测试来隔离问题的重要性，并展示了如何管理依赖项、处理身份验证令牌，以及确保应用程序组件正确交互。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 7.17.23 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-7-17-23-released</link>
+      <description>Elastic Stack 7.17.23版本发布，推荐用户升级至最新版本。此版本修复了多个问题，并包含产品变更的完整列表，详情请参阅发布说明。</description>
+    </item>
+  
+    <item>
+      <title>git push --force and how to deal with it</title>
+      <link>https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it</link>
+      <description>本文探讨了如何处理Git中误用`git push --force`命令导致的问题。文章首先介绍了误用该命令可能导致的混乱情况，然后提供了两种解决方案：一种是当其他人在你破坏前拉取了最新版本时，通过强制推送回正确的提交来恢复；另一种是当主分支已被他人更改时，通过GitHub的分支切换器创建临时分支并强制推送。最后，文章还提供了一些预防措施，如使用保护分支、避免在主分支上实验以及创建别名来防止意外操作。</description>
     </item>
   
     <item>
