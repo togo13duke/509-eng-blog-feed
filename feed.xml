@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How GitHub harnesses AI to transform customer feedback into action</title>
+      <link>https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/</link>
+      <description>GitHub利用人工智能将客户反馈转化为行动，通过结合数据挖掘技术和机器学习算法，分析大量客户反馈，以提升产品并加强用户信任。通过AI分析将客户反馈转化为可操作见解，GitHub能够更有效地响应用户需求，推动产品发展。</description>
+    </item>
+  
+    <item>
+      <title>Use Anthropic Claude Sonnet 3.5 in PostgreSQL With Pgai</title>
+      <link>https://www.timescale.com/blog/use-anthropic-claude-sonnet-3-5-in-postgresql-with-pgai/</link>
+      <description>Anthropic的Claude 3.5 Sonnet模型，以其卓越的性能和成本效益，已成为AI领域的佼佼者。通过pgai扩展，PostgreSQL开发者可以直接在数据库中使用Claude模型，简化嵌入创建和数据处理。Claude模型支持多种任务，包括文本摘要、分类、数据丰富化和自然语言查询，为复杂的数据分析和自然语言处理提供强大支持。</description>
+    </item>
+  
+    <item>
+      <title>Announcing Ansible plug-ins for Red Hat Developer Hub</title>
+      <link>https://developers.redhat.com/articles/2024/07/30/announcing-ansible-plug-ins-red-hat-developer-hub</link>
+      <description>Red Hat Developer Hub推出Ansible插件，提供单一界面进行自动化开发，包括集成开发环境、Git和Ansible开发工具。插件支持快速发现和重用组织内创建的内容，并简化了Ansible Playbooks、角色和集合的创建和部署过程。这些功能有助于标准化最佳实践，加快自动化开发者的入职速度，并提高开发效率。</description>
+    </item>
+  
+    <item>
       <title>Configure GitHub Artifact Attestations for secure cloud-native delivery</title>
       <link>https://github.blog/security/supply-chain-security/configure-github-artifact-attestations-for-secure-cloud-native-delivery/</link>
       <description>GitHub推出了一项名为“GitHub Artifact Attestations”的新功能，旨在确保云原生供应链的安全。该功能允许用户为任何类型的工件创建证明，包括可执行文件、软件包、容器注册表或.zip文件，从而验证构建的软件来源和完整性。通过配置GitHub Actions工作流程，用户可以轻松地创建和验证工件证明，确保供应链的安全性。</description>
@@ -34,6 +52,12 @@
       <title>Simulate a Text File in Python</title>
       <link>https://realpython.com/courses/simulate-text-file/</link>
       <description>本文介绍了如何在Python中使用`StringIO`模块模拟文本文件，以简化对磁盘文件读取的测试过程。通过学习如何使用`StringIO`对象进行文件操作，读者可以了解何时使用`StringIO`以及何时避免使用，并探索替代方案。此外，还介绍了如何使用`unittest.mock`来模拟文件对象，以优化测试策略和开发流程。</description>
+    </item>
+  
+    <item>
+      <title>There is no mystery over who wrote the Blue Screen of Death, despite what some may want you to believe</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240730-00/?p=110062</link>
+      <description>关于微软蓝屏死机的作者之谜，实际上并不存在。蓝屏死机有三个不同的版本，分别由Steve Ballmer、Raymond Chen和John Vert创作。Windows 3.1的蓝屏由Steve Ballmer撰写文本，Windows 95的蓝屏由Raymond Chen最终定稿，而Windows NT的蓝屏则由John Vert负责。</description>
     </item>
   
     <item>
@@ -144,6 +168,12 @@
       <title>July’s Staff Picks: Playin’ and Spectatin’</title>
       <link>https://discord.com/blog/julys-staff-picks-playin-and-spectatin</link>
       <description>本月，Discord员工分享了他们在过去一个月中玩的游戏，包括《新宝可梦Snap》、《死侍：日间死亡》、《Chained Together》、《Pacific Drive》和《The First Descendant》。他们还讨论了在Discord上与朋友一起玩和观看游戏流的情况。</description>
+    </item>
+  
+    <item>
+      <title>Ep. 11: Enhancing Go Code with Effective Application Layer Tests</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/proper-prompt-formatting-for-enhanced-ai-model-performance-ep-11.html</link>
+      <description>本篇博客深入探讨了在Go项目中实施强大的应用层测试，提供了创建可扩展和可维护软件系统的关键策略。通过应用层测试，开发者可以确保代码库的全面覆盖，同时使用单个数据库实例，从而提高效率和可靠性。文章强调了在领域级别组织测试、使用子测试来隔离问题的重要性，并展示了如何管理依赖项、处理身份验证令牌，以及确保应用程序组件正确交互。</description>
     </item>
   
     <item>
