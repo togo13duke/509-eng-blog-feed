@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hibernate SoftDelete annotation</title>
+      <link>https://vladmihalcea.com/hibernate-softdelete-annotation/</link>
+      <description>Hibernate 6.4 引入的 SoftDelete 注解简化了 JPA 实体的软删除机制。通过在实体上使用 @SoftDelete 注解，可以轻松实现删除记录而不从数据库中物理删除它们。本文演示了如何使用该注解，包括在 Tag、Post、PostDetails 和 PostComment 实体上的应用，以及如何处理关联实体的软删除。升级到 Hibernate 6.4 或更高版本以使用此功能。</description>
+    </item>
+  
+    <item>
+      <title>Should You Build Or Buy OpenAPI Tooling?</title>
+      <link>https://nordicapis.com/should-you-build-or-buy-openapi-tooling/</link>
+      <description>在API经济时代，企业架构师在选择构建还是购买OpenAPI工具时，需要明确自己的目标。构建自定义工具可以满足特定需求，但需要投入更多时间和资源。购买现成的工具可以节省时间和成本，但可能无法完全满足特定需求。因此，企业应根据自身情况权衡利弊，做出明智的选择。</description>
+    </item>
+  
+    <item>
       <title>Creators to Have Personalized AI Assistants, Meta CEO Mark Zuckerberg Tells NVIDIA CEO Jensen Huang</title>
       <link>https://blogs.nvidia.com/blog/zuckerberg-huang/</link>
       <description>Meta CEO马克·扎克伯格和NVIDIA CEO黄仁勋在SIGGRAPH 2024上讨论了开源AI和AI助手的变革潜力。扎克伯格宣布推出AI Studio平台，使创作者和小企业能够创建、分享和发现AI角色。他们强调了开源在AI发展中的重要性，Meta通过其AI技术推动了这一进程，并发布了Llama 3.1。两位CEO展望了AI的未来，包括通过眼镜将AI与现实世界结合，以及AI交互的流畅性提升。</description>
