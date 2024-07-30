@@ -6,15 +6,52 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Configure GitHub Artifact Attestations for secure cloud-native delivery</title>
+      <link>https://github.blog/security/supply-chain-security/configure-github-artifact-attestations-for-secure-cloud-native-delivery/</link>
+      <description>GitHub推出了一项名为“GitHub Artifact Attestations”的新功能，旨在确保云原生供应链的安全。该功能允许用户为任何类型的工件创建证明，包括可执行文件、软件包、容器注册表或.zip文件，从而验证构建的软件来源和完整性。通过配置GitHub Actions工作流程，用户可以轻松地创建和验证工件证明，确保供应链的安全性。</description>
+    </item>
+  
+    <item>
+      <title>Instead of restricting AI and algorithms, make them explainable</title>
+      <link>https://martinfowler.com/articles/2024-restrict-algorithm.html</link>
+      <description>原文总结：
+文章主张不应限制AI和算法的使用，而应确保其决策过程可解释。作者认为，软件决策的透明度至关重要，以便用户理解决策背后的原因，并可能对决策提出质疑或改进。文章通过一个租车费用的例子说明了透明度的重要性，并建议社交媒体公司应解释其推荐内容的原因。作者还指出，虽然AI的决策过程可能难以解释，但应鼓励开发可解释的AI系统，以促进人类对决策过程的更好理解。</description>
+    </item>
+  
+    <item>
+      <title>HubSpot Incident Report for May 28-29, 2024</title>
+      <link>https://product.hubspot.com/blog/hubspot-incident-may28</link>
+      <description>2024年5月28日至29日，HubSpot部分客户在使用事件、分析、表单处理和聊天消息时遇到了延迟。这是由于Linux内核中的一个错误影响了运行在ARM64 CPU架构上的HBase实例。HubSpot已升级内核版本并改进了监控和测试，以确保类似问题不再发生。</description>
+    </item>
+  
+    <item>
+      <title>Connecting Microsoft Azure Blob Storage with Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/connecting-microsoft-azure-blob-storage-with-data-cloud.html</link>
+      <description>本文介绍了如何将Microsoft Azure Blob Storage与Salesforce Data Cloud连接，包括创建存储账户、容器、上传数据块、生成共享访问令牌以及配置数据云连接器。通过此连接，用户可以从Azure Blob Storage中提取数据，并在Data Cloud中进行分析，以实现数据洞察和决策支持。</description>
+    </item>
+  
+    <item>
       <title>Simulate a Text File in Python</title>
       <link>https://realpython.com/courses/simulate-text-file/</link>
       <description>本文介绍了如何在Python中使用`StringIO`模块模拟文本文件，以简化对磁盘文件读取的测试过程。通过学习如何使用`StringIO`对象进行文件操作，读者可以了解何时使用`StringIO`以及何时避免使用，并探索替代方案。此外，还介绍了如何使用`unittest.mock`来模拟文件对象，以优化测试策略和开发流程。</description>
     </item>
   
     <item>
+      <title>July 2024: Marketplace Partner Program Tier Membership Update</title>
+      <link>https://www.atlassian.com/blog/developer/july-2024-marketplace-partner-program-tier-membership-update</link>
+      <description>Atlassian Marketplace在2024年1月底实现了40亿美元的终身销售额里程碑，突显了合作伙伴在构建应用程序和集成中的关键作用。Atlassian Marketplace Partner Program的最新合作伙伴群体在经过半年度审查后获得了认证，展示了他们对Atlassian应用安全和客户支持标准的承诺。Atlassian致力于支持合作伙伴，专注于人工智能、新扩展点和产品，以塑造未来几年的市场路径。</description>
+    </item>
+  
+    <item>
       <title>How Palantir AIP Supports Polaris In Its Anti-Human-Trafficking Work</title>
       <link>https://blog.palantir.com/how-palantir-aip-supports-polaris-in-its-anti-human-trafficking-work-c604830bcb80?source=rss----3c87dc14372f---4</link>
       <description>Palantir与Polaris合作，利用先进的数据分析平台支持打击人口贩卖。Polaris通过提供即时支持、研究和情报收集、以及公众参与活动来对抗人口贩卖。Palantir的AIP平台帮助Polaris分析数据，提高效率，并开发定制工具，以支持其使命。双方的合作基于共同价值观、信任和灵活性，共同推动打击人口贩卖的进展。</description>
+    </item>
+  
+    <item>
+      <title>Docker Scout Health Scores: Security Grading for Container Images in Your Docker Hub Registry</title>
+      <link>https://www.docker.com/blog/docker-scout-health-scores-security-grading-for-container-images/</link>
+      <description>Docker Scout健康评分是Docker Hub中的一项新功能，旨在简化软件安全，为开发者提供容器镜像的安全和合规性评分。该评分系统使用A到F的字母等级，基于安全供应链最佳实践进行评估，包括已知漏洞、许可证风险、SBOM可用性等。通过Docker Scout，开发者可以查看和管理其镜像的健康状况，从而提高软件供应链的整体安全性。</description>
     </item>
   
     <item>
@@ -101,6 +138,12 @@
       <title>Creators to Have Personalized AI Assistants, Meta CEO Mark Zuckerberg Tells NVIDIA CEO Jensen Huang</title>
       <link>https://blogs.nvidia.com/blog/zuckerberg-huang/</link>
       <description>Meta CEO马克·扎克伯格和NVIDIA CEO黄仁勋在SIGGRAPH 2024上讨论了开源AI和AI助手的变革潜力。扎克伯格宣布推出AI Studio平台，使创作者和小企业能够创建、分享和发现AI角色。他们强调了开源在AI发展中的重要性，Meta通过其AI技术推动了这一进程，并发布了Llama 3.1。两位CEO展望了AI的未来，包括通过眼镜将AI与现实世界结合，以及AI交互的流畅性提升。</description>
+    </item>
+  
+    <item>
+      <title>July’s Staff Picks: Playin’ and Spectatin’</title>
+      <link>https://discord.com/blog/julys-staff-picks-playin-and-spectatin</link>
+      <description>本月，Discord员工分享了他们在过去一个月中玩的游戏，包括《新宝可梦Snap》、《死侍：日间死亡》、《Chained Together》、《Pacific Drive》和《The First Descendant》。他们还讨论了在Discord上与朋友一起玩和观看游戏流的情况。</description>
     </item>
   
     <item>
