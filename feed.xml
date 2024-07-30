@@ -379,5 +379,11 @@ Medium iOS团队在处理超过10年的遗留代码时，采用了一系列策�
       <description>本文探讨了如何准备一场成功的会议演讲。文章强调了选择合适的主题、撰写提案、构建演讲结构、练习演讲和注意肢体语言的重要性。作者建议演讲者要关注听众，避免信息过载，并通过故事和实例来增强演讲的吸引力。文章还强调了分享个人经验和独特视角的重要性，以及如何确保演讲内容对听众有实际价值。</description>
     </item>
   
+    <item>
+      <title>List Twilio Flex Users with Functions and Google Sheets</title>
+      <link>https://www.twilio.com/en-us/blog/list-flex-users-google-sheet</link>
+      <description>使用Twilio Functions和Google Sheets列出Twilio Flex用户，只需几分钟即可通过Google Sheets按钮轻松获取Twilio Flex用户详情。无需额外步骤或复杂菜单，直接访问最新详情。</description>
+    </item>
+  
     </channel>
   </rss>
