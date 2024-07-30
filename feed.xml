@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Simulate a Text File in Python</title>
+      <link>https://realpython.com/courses/simulate-text-file/</link>
+      <description>本文介绍了如何在Python中使用`StringIO`模块模拟文本文件，以简化对磁盘文件读取的测试过程。通过学习如何使用`StringIO`对象进行文件操作，读者可以了解何时使用`StringIO`以及何时避免使用，并探索替代方案。此外，还介绍了如何使用`unittest.mock`来模拟文件对象，以优化测试策略和开发流程。</description>
+    </item>
+  
+    <item>
+      <title>How Palantir AIP Supports Polaris In Its Anti-Human-Trafficking Work</title>
+      <link>https://blog.palantir.com/how-palantir-aip-supports-polaris-in-its-anti-human-trafficking-work-c604830bcb80?source=rss----3c87dc14372f---4</link>
+      <description>Palantir与Polaris合作，利用先进的数据分析平台支持打击人口贩卖。Polaris通过提供即时支持、研究和情报收集、以及公众参与活动来对抗人口贩卖。Palantir的AIP平台帮助Polaris分析数据，提高效率，并开发定制工具，以支持其使命。双方的合作基于共同价值观、信任和灵活性，共同推动打击人口贩卖的进展。</description>
+    </item>
+  
+    <item>
+      <title>New with Confluent Platform: Enhanced security with OAuth Support, Confluent Platform for Apache Flink® (LA), a new Connector, and More</title>
+      <link>https://www.confluent.io/blog/introducing-confluent-platform-7-7/</link>
+      <description>Confluent Platform 7.7版本发布，增强安全性，支持OAuth和OIDC，并引入Apache Flink连接器和Kubernetes更新。新版本基于Apache Kafka 3.7，提供长期支持，简化集群迁移，并加强身份验证和安全性。</description>
+    </item>
+  
+    <item>
+      <title>Tackling the pitch: How football chants inspired Andy Lawn’s book</title>
+      <link>https://www.hostinger.com/blog/andy-lawn-story</link>
+      <description>Andy Lawn结合对足球和写作的热爱，创作了一本关于足球呐喊的书。他的童年足球经历和大学时的写作热情，激发了他将足球与写作结合的灵感。通过研究足球呐喊的社会学和政治学，他完成了他的论文，并最终将之扩展为一本书。书中探讨了足球呐喊的积极意义，强调球迷通过呐喊表达身份认同和支持团队的重要性。Andy的书籍《每周我们都输》在2020年出版后获得了成功，并启发了他对足球文化的深入思考。</description>
+    </item>
+  
+    <item>
+      <title>The Download: rebuilding economic security, and solving math problems</title>
+      <link>https://www.technologyreview.com/2024/07/30/1095473/the-download-rebuilding-economic-security-and-solving-math-problems/</link>
+      <description>美国及其盟友正努力重建经济安全，以应对技术投资中的“缺失中间层”问题。同时，机器解决复杂数学问题可能引领更强大的AI发展。此外，苹果发布AI功能套件，SpaceX计划在澳大利亚海岸发射火箭，全球芯片战争升级，AI公司推出新爬虫机器人，减肥药物可能帮助戒烟，空气污染影响蜜蜂授粉，AI预测天气能力提升，以及个人定制约会平台等科技新闻值得关注。</description>
+    </item>
+  
+    <item>
       <title>Go with Low-Fidelity Work for High-Fidelity Results</title>
       <link>https://spin.atomicobject.com/low-fidelity-high-results/</link>
       <description>低保真工作对于实现高保真结果至关重要。通过使用简单的“形状+文本”标签组合，可以改善沟通、提出更好的问题，并澄清未知信息，从而做出更明智的决策。低保真工作有助于控制信息，更好地理解限制条件，避免过早进入高保真阶段，从而节省时间和避免不必要的视觉反馈。</description>
