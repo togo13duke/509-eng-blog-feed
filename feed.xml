@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>6 ways to use AI for tedious tasks</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/6-ways-to-use-ai-for-tedious-tasks</link>
+      <description>AI可简化日常繁琐任务，提高工作效率。Atlassian Intelligence结合AI能力与产品，实现自动化工作流程。通过自动化归档旧页面、跟踪新Jira问题、自动生成会议笔记、快速总结文档、定义术语和改进写作，AI可优化工作流程，助力业务增长。</description>
+    </item>
+  
+    <item>
+      <title>Meeting enterprise requirements effortlessly: Tips for avoiding app data egress with Forge</title>
+      <link>https://www.atlassian.com/blog/developer/no-egress-on-forge</link>
+      <description>在迁移到云平台时，企业需要仔细审查应用程序，以避免数据外泄。Atlassian的Forge平台提供“无外泄”应用程序，确保数据仅在Atlassian平台上处理，简化数据保护。Seibert公司通过Forge基础设施开发成功的Jira Cloud产品，如Templating.app和Agile Hive，以减少对外部服务的依赖，并确保数据安全和合规性。通过使用Forge，企业可以放心地将应用程序迁移到云平台，同时保护其关键数据。</description>
+    </item>
+  
+    <item>
+      <title>How to Build a Predictive AI Model in Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/07/how-to-build-a-predictive-ai-model-in-data-cloud.html</link>
+      <description>本文介绍了如何使用Salesforce Data Cloud和Einstein Studio构建预测性AI模型，通过点击而非编写代码的方式，帮助理解AI如何帮助企业做出主动决策。文章以一个动物收容所的数据集为例，展示了如何创建预测模型，并分析了影响动物领养可能性的关键因素。通过模型评估，揭示了年龄、绝育状态、品种和照片数量等因素对领养概率的影响，为业务决策提供数据支持。</description>
+    </item>
+  
+    <item>
+      <title>Construire un chatbot à l’heure des LLMs</title>
+      <link>https://blog.octo.com/construire-un-chatbot-a-l'heure-des-llms-1</link>
+      <description>构建基于大型语言模型的聊天机器人已成为可能，它们能够通过自然语言理解和生成来处理客户服务。然而，这些技术也面临挑战，如知识更新和潜在的错误。企业应谨慎采用，结合传统聊天机器人的稳定性和LLMs的灵活性，以实现更高效、更自然的客户互动。</description>
+    </item>
+  
+    <item>
+      <title>How to Write an Installable Django App</title>
+      <link>https://realpython.com/installable-django-app/</link>
+      <description>本教程介绍了如何将Django应用程序从项目中提取出来并打包成可安装的版本。通过创建一个pyproject.toml文件、在项目外启动Django、使用nox测试多个版本以及使用Twine发布到PyPI，您可以分享和复用您的Django应用程序。教程提供了详细的步骤和示例代码，帮助开发者将应用程序转换为可安装的包。</description>
+    </item>
+  
+    <item>
       <title>Taking AI to Warp Speed: Decoding How NVIDIA’s Latest RTX-Powered Tools and Apps Help Developers Accelerate AI on PCs and Workstations</title>
       <link>https://blogs.nvidia.com/blog/ai-decoded-siggraph-chat-rtx-update/</link>
       <description>NVIDIA最新推出的RTX应用程序和工具加速了人工智能的发展，包括ChatRTX和Llama 3支持，以及Maxine AI平台和ACE技术的更新。这些技术提高了AI内容创作、生产力和发展，使数字人类和虚拟现实体验更加真实和互动。此外，RTX GPU加速了视频编辑和3D艺术家的工作流程，提高了图像质量和渲染速度。</description>
@@ -21,6 +51,12 @@
       <title>Reimagining cloud strategy for AI-first enterprises</title>
       <link>https://www.technologyreview.com/2024/07/31/1094228/reimagining-cloud-strategy-for-ai-first-enterprises/</link>
       <description>企业正重新思考以AI为核心的战略，云基础设施和策略成为关键。一项由Infosys和MIT Technology Review Insights联合进行的调查发现，大多数公司正在为AI做准备，并计划增加投资以加速进展。云技术已从存储工具和成本削减者转变为创新、转型和颠覆的关键驱动因素。</description>
+    </item>
+  
+    <item>
+      <title>How Google handles JavaScript throughout the indexing process</title>
+      <link>https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process</link>
+      <description>Google在索引过程中如何处理JavaScript，通过实证研究揭示了Google的渲染过程。研究发现，Google能够渲染几乎所有HTML页面，包括复杂的JavaScript内容，且渲染速度并不比静态页面慢。此外，Google对JavaScript页面的处理与普通页面无异，渲染队列和延迟对SEO的影响有限。</description>
     </item>
   
     <item>
@@ -111,6 +147,12 @@
       <title>Get the most from Elastic Agent with Amazon S3 and SQS</title>
       <link>https://www.elastic.co/blog/elastic-agent-amazon-s3-sqs</link>
       <description>Elastic Agent与Amazon S3和SQS结合使用，可高效处理大量数据。通过性能预设，新用户可轻松实现数据高效导入Elasticsearch，降低成本。优化后的预设可提升吞吐量和稳定性，适用于不同场景。此外，通过合理配置和利用云服务，可进一步降低成本并提高性能。</description>
+    </item>
+  
+    <item>
+      <title>Coming Soon: See What’s Happening on Discord, Directly from your Xbox console</title>
+      <link>https://discord.com/blog/see-whats-happening-on-discord-directly-from-your-xbox</link>
+      <description>Discord即将与Xbox One和Xbox Series X|S整合，提供更多功能，如查看Discord好友活动、直接从Xbox观看朋友直播以及直接从Xbox拨打Discord电话。这些新功能将从Xbox Insiders开始逐步推出，为玩家带来更流畅的游戏体验。</description>
     </item>
   
     <item>
