@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unified Grid: How We Re-Architected Slack for Our Largest Customers</title>
+      <link>https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/</link>
+      <description>Slack对架构进行了重大重构，以支持大型客户的多工作空间需求。通过统一网格，Slack实现了跨多个工作空间的数据共享和单一视图，提高了性能并简化了用户体验。这一变革涉及数千个API、数据库查询和权限检查的更新，最终成为Slack客户日常工作中不可或缺的一部分。</description>
+    </item>
+  
+    <item>
+      <title>The US physics community is not done working on trust</title>
+      <link>https://www.technologyreview.com/2024/07/31/1095425/the-us-physics-community-is-not-done-working-on-trust/</link>
+      <description>美国物理学界在经历了高调的欺诈案件后，尽管在研究伦理方面取得了长足进步，但仍然面临着许多挑战。尽管美国物理学会（APS）已经采取措施加强伦理教育和建立信任网络，但调查表明，学术不端行为仍然存在，且许多违规行为未得到报告。为了促进伦理行为，需要加强教育和建立信任网络，以确保科研人员能够在一个支持性的环境中工作。</description>
+    </item>
+  
+    <item>
       <title>3 Steps To Rate Limiting Success</title>
       <link>https://nordicapis.com/3-steps-to-rate-limiting-success/</link>
       <description>本文探讨了如何成功实施速率限制策略。作者强调了透明度和可见性在速率限制过程中的重要性，并提出了平衡优化和延迟的建议。同时，文章指出速率限制并非万能，应与其他安全措施结合使用，以确保API的安全性。</description>
