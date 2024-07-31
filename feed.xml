@@ -225,18 +225,6 @@
     </item>
   
     <item>
-      <title>Lookup Reassigned Number is Now Generally Available!</title>
-      <link>https://www.twilio.com/en-us/blog/lookup-reassigned-number-is-now-generally-available-</link>
-      <description>Twilio推出了一项名为“查找已重新分配的号码”的新功能，旨在帮助企业在用户更换电话号码时识别并验证号码的真实持有人。这一功能有助于企业避免错误联系，确保通信合规，并提高转化率和用户体验。</description>
-    </item>
-  
-    <item>
-      <title>How to Make a Morse Code Application</title>
-      <link>https://www.twilio.com/en-us/blog/programmable-voice-python-morse-code-translator</link>
-      <description>Twilio教程：使用Twilio Programmable Voice和Python构建摩尔斯电码翻译应用，通过电话发送摩尔斯电码编码的短信，重现1900年祖父收到的电报信息。教程介绍了电报系统历史、摩尔斯电码原理，并指导如何使用Twilio API实现这一功能。</description>
-    </item>
-  
-    <item>
       <title>AWS and Multicloud: Existing capabilities &amp; continued enhancements</title>
       <link>https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/</link>
       <description>AWS致力于简化多云环境的管理，通过扩展其现有的操作和管理功能，支持跨云和混合环境。公司已推出多项新功能，包括数据同步、数据集成、安全湖、秘密管理器等，以帮助客户在多云环境中成功。同时，AWS还提供了丰富的博客文章和视频内容，指导用户如何利用这些新功能。</description>
