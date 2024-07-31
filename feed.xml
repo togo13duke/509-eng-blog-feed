@@ -6,42 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How to help your team stop worrying and love transformative tech</title>
-      <link>https://www.atlassian.com/blog/strategy/getting-ai-buy-in-on-your-team</link>
-      <description>如何帮助团队摆脱担忧并爱上变革性技术：根据专家的建议，领导者需要熟悉新技术，设定明确的目标，鼓励知识共享，打破团队壁垒，并保持开放的沟通，以获得团队对AI工具的认可，从而充分利用AI带来的好处。</description>
-    </item>
-  
-    <item>
-      <title>Enhancing #help in F# Interactive</title>
-      <link>https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/</link>
-      <description>F#交互式环境（fsi）新增了#help "idn"指令，允许用户快速获取库函数的文档。此功能由开源项目fsih提供，无需额外依赖，输出为纯文本。该指令的集成简化了fsi的使用，并提高了开发效率。</description>
-    </item>
-  
-    <item>
-      <title>NVIDIA Researchers Harness Real-Time Gen AI to Build Immersive Desert World</title>
-      <link>https://blogs.nvidia.com/blog/real-time-3d-generative-ai-research-siggraph-2024/</link>
-      <description>NVIDIA研究人员利用实时生成式AI技术，在SIGGRAPH的实时直播活动中展示了如何快速构建沉浸式沙漠世界。通过NVIDIA Edify和Omniverse平台，他们能在几分钟内创建3D沙漠景观，并使用AI代理生成背景资产和环境地图，大幅缩短创意制作时间，提高艺术家的工作效率和创造力。</description>
-    </item>
-  
-    <item>
-      <title>Plan your advertising campaigns with Amazon Marketing Cloud on AWS Clean Rooms, now generally available</title>
-      <link>https://aws.amazon.com/blogs/aws/plan-your-advertising-campaigns-with-amazon-marketing-cloud-on-aws-clean-rooms-now-generally-available/</link>
-      <description>亚马逊营销云（AMC）现在可在AWS Clean Rooms中一般可用，帮助广告商利用其第一方信号与亚马逊广告的独特信号进行协作。这使广告商能够生成差异化见解，发现新受众，并实现广告活动的规划、激活和测量，而无需将底层信号移动到其AWS账户之外。通过AMC在AWS Clean Rooms，客户可以轻松准备他们的数据，匹配和创建受众，使用自定义见解通过亚马逊广告激活更相关的广告活动，并衡量广告支出的回报。所有这些都可以在当今最安全的云计算环境中完成。</description>
-    </item>
-  
-    <item>
-      <title>Oracle Cloud Infrastructure Expands NVIDIA GPU-Accelerated Instances for AI, Digital Twins and More</title>
-      <link>https://blogs.nvidia.com/blog/oracle-cloud-infrastructure-ai-gpu-digital-twins/</link>
-      <description>Oracle Cloud Infrastructure (OCI)扩展了NVIDIA GPU加速实例，以支持人工智能、数字孪生等应用。新的NVIDIA L40S GPU裸机实例和基于单个NVIDIA H100 Tensor Core GPU的虚拟机即将推出，旨在提高企业运营效率、降低成本并推动创新。这些平台通过NVIDIA软件堆栈提供强大的性能和效率，使企业能够推进生成式人工智能的发展。</description>
-    </item>
-  
-    <item>
-      <title>What’s new with GitHub Copilot: July 2024</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-july-2024/</link>
-      <description>GitHub Copilot在2024年7月推出了三项新功能，旨在提高开发效率并激发创造力。这些更新包括GitHub Copilot Chat，它能够通过自然语言搜索组织特定和公共仓库，以及Bing网络搜索，帮助开发者更快地获取所需信息。此外，Copilot Chat还支持在VS Code和Visual Studio中直接提问和搜索知识库，以及通过Bing搜索获取最新框架、编程语言和最佳实践。这些改进旨在减少开发者日常工作中非编码时间，提高工作效率。</description>
-    </item>
-  
-    <item>
       <title>6 ways to use AI for tedious tasks</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/6-ways-to-use-ai-for-tedious-tasks</link>
       <description>AI可简化日常繁琐任务，提高工作效率。Atlassian Intelligence结合AI能力与产品，实现自动化工作流程。通过自动化归档旧页面、跟踪新Jira问题、自动生成会议笔记、快速总结文档、定义术语和改进写作，AI可优化工作流程，助力业务增长。</description>
@@ -69,12 +33,6 @@
       <title>How to Write an Installable Django App</title>
       <link>https://realpython.com/installable-django-app/</link>
       <description>本教程介绍了如何将Django应用程序从项目中提取出来并打包成可安装的版本。通过创建一个pyproject.toml文件、在项目外启动Django、使用nox测试多个版本以及使用Twine发布到PyPI，您可以分享和复用您的Django应用程序。教程提供了详细的步骤和示例代码，帮助开发者将应用程序转换为可安装的包。</description>
-    </item>
-  
-    <item>
-      <title>How to compress out interior padding in a std::pair and why you don’t want to</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240731-00/?p=110069</link>
-      <description>探讨在std::pair中压缩内部填充的问题及其潜在风险。文章解释了在std::pair中压缩填充可能导致对齐问题，影响性能和代码灵活性，并讨论了使用C++20的[[no_unique_address]]属性来优化内存布局的方法。</description>
     </item>
   
     <item>
@@ -117,12 +75,6 @@
       <title>A Review of “Why Greatness Cannot Be Planned: The Myth of the Objective”</title>
       <link>https://spin.atomicobject.com/review-greatness-cannot-planned/</link>
       <description>《为何伟大无法计划：目标神话》一书中，作者Dylan Goings对Kenneth O. Stanley的观点进行了评论。Stanley认为，历史上的许多重大发现和创新并非源于目标驱动的计划，而是来自开放探索和偶然发现。Goings认为，Stanley的观点引人深思，但他的论证过于冗长，且过分强调自己的研究项目Picbreeder，削弱了论点的普遍性。尽管如此，Goings认为Stanley的核心信息——即目标可能限制我们的潜力——仍然具有价值，并鼓励我们在探索未知时保持开放的心态。</description>
-    </item>
-  
-    <item>
-      <title>The consumer outlook on the 2024 Summer Games</title>
-      <link>https://s14415.pcdn.co/blog/summer-games/</link>
-      <description>2024年夏季奥运会期间，消费者对赛事的关注和讨论主要集中在社交媒体上，尤其是TikTok和X（前Twitter）。许多观众选择在家中观看比赛，享受舒适的环境。K-pop对赛事的影响显著，BTS成员Jin作为火炬手的历史性时刻受到广泛关注。尽管开幕式受到一些批评，但观众对Celine Dion的音乐选择表示赞赏。品牌商在赛事中的广告引起了消费者的不同反应，一些广告因情感故事而受到欢迎。</description>
     </item>
   
     <item>
