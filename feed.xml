@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Python in Visual Studio Code – August 2024 Release</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release/</link>
+      <description>Visual Studio Code的Python和Jupyter扩展于2024年8月发布，新增了使用python-environment-tools改进的Python发现、在源代码中显示变量值、改进的VS Code原生REPL等功能，并提供了对用户反馈的响应和社区反馈的征集。</description>
+    </item>
+  
+    <item>
+      <title>Refresh of the PoEAA catalog page</title>
+      <link>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</link>
+      <description>Martin Fowler更新了《企业应用架构模式》的目录页面，增加了模式意图的描述，并添加了到O'Reilly网站上书籍的深度链接，方便订阅用户直接访问相关内容。</description>
+    </item>
+  
+    <item>
+      <title>Ingest data from SQL Server, Salesforce, and Workday with LakeFlow Connect</title>
+      <link>https://www.databricks.com/blog/ingest-data-sql-server-salesforce-and-workday-lakeflow-connect</link>
+      <description>Databricks推出LakeFlow Connect，简化从SQL Server、Salesforce和Workday等数据源的数据摄取。该工具通过增量数据处理和智能优化，提供简单高效的数据摄取连接器，降低维护成本，并提高数据摄取效率。LakeFlow Connect与Databricks平台集成，支持无服务器计算和统一目录治理，使组织能够更快地获取数据价值。</description>
+    </item>
+  
+    <item>
+      <title>NVIDIA and Zoox Pave the Way for Autonomous Ride-Hailing</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-zoox-autonomous-ride-hailing/</link>
+      <description>NVIDIA与Zoox合作推动自动驾驶出租车发展，Zoox利用NVIDIA技术打造专为打车服务设计的机器人出租车，通过传感器和GPU处理大量数据，实现自动驾驶。Zoox采用模拟测试和先进计算系统，优化车辆性能和安全性，旨在重新定义城市交通，推动自动驾驶出租车市场增长。</description>
+    </item>
+  
+    <item>
+      <title>Deep list copy: More than meets the eye</title>
+      <link>https://nullprogram.com/blog/2024/07/31/</link>
+      <description>本文探讨了如何实现一个深度复制具有随机引用的链表的C语言程序。作者提出了两种解决方案：一种是通过临时修改原始列表来映射新旧节点，另一种是使用侵入式哈希表来避免修改原始列表。这两种方法都有效地解决了复杂性问题，并提供了代码示例。</description>
+    </item>
+  
+    <item>
+      <title>BW #77: Paris Olympics</title>
+      <link>https://www.bambooweekly.com/bw-77-paris-olympics/</link>
+      <description>本周，我们将探讨2024年法国巴黎奥运会的相关数据。文章介绍了数据来源，包括Codante和Clockwork Micro提供的信息，以及如何使用这些数据来分析各国奖牌信息。作者提出了六个任务和问题，旨在通过处理和分析这些数据来提高Python和Pandas技能。</description>
+    </item>
+  
+    <item>
+      <title>ChatGPT Advanced Voice Mode impresses testers with sound effects, catching its breath</title>
+      <link>https://arstechnica.com/?p=2040213</link>
+      <description>ChatGPT的先进语音模式（AVM）给测试者留下了深刻印象，它允许与ChatGPT进行逼真的实时对话，并能捕捉到呼吸声等细节。这项功能通过模仿人类语音样本，实现了自然的语音交互，包括情感表达和声音效果，尽管仍存在一些局限性和技术挑战。</description>
+    </item>
+  
+    <item>
       <title>How to help your team stop worrying and love transformative tech</title>
       <link>https://www.atlassian.com/blog/strategy/getting-ai-buy-in-on-your-team</link>
       <description>如何帮助团队摆脱担忧并爱上变革性技术：根据专家的建议，领导者需要熟悉新技术，设定明确的目标，鼓励知识共享，打破团队壁垒，并保持开放的沟通，以获得团队对AI工具的认可，从而充分利用AI带来的好处。</description>
@@ -39,6 +81,12 @@
       <title>What’s new with GitHub Copilot: July 2024</title>
       <link>https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-july-2024/</link>
       <description>GitHub Copilot在2024年7月推出了三项新功能，旨在提高开发效率并激发创造力。这些更新包括GitHub Copilot Chat，它能够通过自然语言搜索组织特定和公共仓库，以及Bing网络搜索，帮助开发者更快地获取所需信息。此外，Copilot Chat还支持在VS Code和Visual Studio中直接提问和搜索知识库，以及通过Bing搜索获取最新框架、编程语言和最佳实践。这些改进旨在减少开发者日常工作中非编码时间，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>Democratizing Data Sharing: A Platform-Agnostic Approach</title>
+      <link>https://www.databricks.com/blog/democratizing-data-sharing-platform-agnostic-approach</link>
+      <description>Databricks推出Delta Sharing，实现跨平台、云和区域的数据共享，打破不同数据或云平台间的协作障碍。Delta Sharing允许用户在任意计算平台上与任何合作伙伴共享数据，无需考虑数据或云平台。本文探讨了Delta Sharing在数据共享策略中的关键作用，包括其开放生态系统、与不同平台的集成以及如何通过定制化接口增强数据服务，从而推动创新和业务增长。</description>
     </item>
   
     <item>
@@ -150,6 +198,12 @@
     </item>
   
     <item>
+      <title>Introducing Salesforce Connectors for Lakehouse Federation and LakeFlow Connect</title>
+      <link>https://www.databricks.com/blog/introducing-salesforce-connectors-lakehouse-federation-and-lakeflow-connect</link>
+      <description>Databricks宣布推出Salesforce连接器，使客户能够无缝地从Salesforce CRM和Data Cloud访问和提取数据，以在Databricks中进行分析。这些连接器包括Salesforce Data Cloud连接器和Salesforce Ingestion连接器，旨在简化数据生命周期管理，并支持数据科学团队在Salesforce平台内进行数据分析和模型部署。</description>
+    </item>
+  
+    <item>
       <title>3 Steps To Rate Limiting Success</title>
       <link>https://nordicapis.com/3-steps-to-rate-limiting-success/</link>
       <description>本文探讨了如何成功实施速率限制策略。作者强调了透明度和可见性在速率限制过程中的重要性，并提出了平衡优化和延迟的建议。同时，文章指出速率限制并非万能，应与其他安全措施结合使用，以确保API的安全性。</description>
@@ -171,6 +225,12 @@
       <title>Fully Homomorphic Encryption in Production Systems</title>
       <link>https://www.jeremykun.com/fhe-in-production/</link>
       <description>本文探讨了在生产系统中使用全同态加密（FHE）的实例。文章列举了微软的密码检查服务和苹果的实时来电识别功能等应用案例，并讨论了FHE在医疗、区块链等领域的潜在应用。同时，文章也指出了FHE在COVID-19接触者追踪等领域的非典型应用。</description>
+    </item>
+  
+    <item>
+      <title>eBay Inc. Reports Second Quarter 2024 Results</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-inc-reports-second-quarter-2024-results/</link>
+      <description>eBay发布2024年第二季度财报，收入26亿美元，同比增长1%；总商品交易额(GMV)184亿美元，同比增长1%。公司实现GAAP和Non-GAAP每股收益分别为0.45美元和1.18美元。eBay还推出多项创新功能，如“Shop the look”和AI背景增强工具，以提升用户体验。</description>
     </item>
   
     <item>
@@ -201,6 +261,12 @@
       <title>Coming Soon: See What’s Happening on Discord, Directly from your Xbox console</title>
       <link>https://discord.com/blog/see-whats-happening-on-discord-directly-from-your-xbox</link>
       <description>Discord即将与Xbox One和Xbox Series X|S整合，提供更多功能，如查看Discord好友活动、直接从Xbox观看朋友直播以及直接从Xbox拨打Discord电话。这些新功能将从Xbox Insiders开始逐步推出，为玩家带来更流畅的游戏体验。</description>
+    </item>
+  
+    <item>
+      <title>Reflecting on Pride: More Than a Month of Celebration</title>
+      <link>https://www.twilio.com/en-us/blog/reflecting-on-pride-2024</link>
+      <description>Twilio致力于打造一个更加公平包容的工作环境，支持多元化和包容性（DEI）项目，并在六月庆祝骄傲月，以纪念LGBTQ+社区并反思Twilio在推进LGBTQ+平等、正义和可见性方面的作用。通过员工资源团体（ERG）和Spectrum等组织，Twilio全年都在促进社区连接和文化庆祝，并在2024年通过捐款和社区活动进一步支持LGBTQ+群体。</description>
     </item>
   
     <item>
