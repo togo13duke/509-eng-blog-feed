@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Mysterious family of malware hid in Google Play for years</title>
-      <link>https://arstechnica.com/?p=2040171</link>
-      <description>一种神秘的Android恶意软件家族在Google Play上隐藏多年，伪装成文件共享、天文和加密货币应用。这种名为Mandrake的恶意软件在2016年至2020年间通过严格的隐蔽措施逃避检测，包括限制在90个国家运行、针对特定受害者、具有名为“seppuku”的杀戮开关等。尽管在2020年报告后似乎已从Play商店消失，但安全公司Kaspersky发现这些应用在2022年重新出现，并继续隐藏至现在。Mandrake的最新版本通过多层混淆来避免分析，并继续在Google Play上提供下载。</description>
-    </item>
-  
-    <item>
       <title>Building static binaries with Go on Linux</title>
       <link>https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/</link>
       <description>本文探讨了在Linux上使用Go语言构建静态链接二进制文件的方法。文章通过实验展示了如何检测二进制文件的链接类型，并介绍了如何通过设置构建标签或环境变量来生成静态链接的二进制文件。此外，还讨论了使用musl和Zig工具链作为替代方案来静态链接包含C代码的Go程序。总结来说，虽然生成静态链接的二进制文件需要一些额外的工作，但总体上是可行的。</description>
@@ -195,12 +189,6 @@
     </item>
   
     <item>
-      <title>Faster continuous integration builds at Canva</title>
-      <link>https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/</link>
-      <description>Canva通过优化其持续集成（CI）流程，将构建时间从数小时缩短至不到30分钟。文章详细介绍了如何通过减少不必要的步骤、优化依赖管理和采用Bazel等工具来提高效率。通过实验和团队合作，Canva成功提升了CI的性能和可靠性，为工程师提供了更高效的开发环境。</description>
-    </item>
-  
-    <item>
       <title>The Most Difficult Word To Pronounce And The Hardest Word To Spell In English</title>
       <link>https://www.babbel.com/en/magazine/most-difficult-word-to-pronounce</link>
       <description>英语中最难发音和拼写单词的探讨，分析了单词拼写困难的原因，包括来自其他语言的拼写和英语发音的变化。文章列出了最难拼写的10个单词和最难发音的10个单词，并提供了发音和拼写的技巧。通过掌握这些单词，可以提升英语语言技能和沟通能力。</description>
@@ -246,12 +234,6 @@
       <title>How to Make a Morse Code Application</title>
       <link>https://www.twilio.com/en-us/blog/programmable-voice-python-morse-code-translator</link>
       <description>Twilio教程：使用Twilio Programmable Voice和Python构建摩尔斯电码翻译应用，通过电话发送摩尔斯电码编码的短信，重现1900年祖父收到的电报信息。教程介绍了电报系统历史、摩尔斯电码原理，并指导如何使用Twilio API实现这一功能。</description>
-    </item>
-  
-    <item>
-      <title>Misfire</title>
-      <link>https://infrequently.org/2024/07/misfire/</link>
-      <description>文章主要讨论了第三方cookie的去除及其对隐私和广告技术的影响。作者批评了W3C技术架构组（TAG）未能充分认识到去除第三方cookie的局限性，并指出这不会从根本上解决隐私问题。文章强调，仅靠技术手段无法彻底消除追踪，需要通过立法来改变数据关联的经济动力，并呼吁TAG采取更积极的立场，推动更严格的隐私法律。</description>
     </item>
   
     <item>
