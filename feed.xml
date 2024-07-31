@@ -6,30 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>3 Steps To Rate Limiting Success</title>
-      <link>https://nordicapis.com/3-steps-to-rate-limiting-success/</link>
-      <description>本文探讨了如何成功实施速率限制策略。作者强调了透明度和可见性在速率限制过程中的重要性，并提出了平衡优化和延迟的建议。同时，文章指出速率限制并非万能，应与其他安全措施结合使用，以确保API的安全性。</description>
-    </item>
-  
-    <item>
-      <title>Easily expanding Red Hat OpenShift clusters</title>
-      <link>https://developers.redhat.com/articles/2024/07/31/easily-expanding-red-hat-openshift-clusters</link>
-      <description>Red Hat OpenShift 4.16引入了一项新功能，简化了在本地环境中添加节点到OpenShift集群的过程。该功能通过使用基于代理的安装器技术，使集群扩展更快、更简单、更用户友好。它支持多种平台，包括裸金属、vSphere、Nutanix，并消除了对BMC的依赖，从而提高了用户体验并降低了复杂性。</description>
-    </item>
-  
-    <item>
-      <title>Red Hat OpenShift Data Foundation for developers and data scientists</title>
-      <link>https://developers.redhat.com/articles/2024/07/31/red-hat-openshift-data-foundation-developers-and-data-scientists</link>
-      <description>Red Hat OpenShift Data Foundation为开发者和数据科学家提供了一种解决方案，支持在本地和云环境中使用S3兼容API。它通过Multi-Cloud Object Gateway (MCG)组件提供S3服务，无需Ceph技术，并支持多种存储类型。MCG可以独立部署，简化了资源密集型部署，并允许非特权用户创建和管理对象存储桶。通过使用AWS CLI等工具，用户可以轻松访问和管理S3对象存储桶中的数据。</description>
-    </item>
-  
-    <item>
-      <title>What Is The Closest Language To English?</title>
-      <link>https://www.babbel.com/en/magazine/languages-closest-to-english</link>
-      <description>英语最接近的语言是苏格兰语，尽管它常被视为英语的一种方言。其次是弗里西亚语，这是一种西日耳曼语，与英语有80%的词汇相似度。荷兰语是英语的另一个近亲，两者在语法结构上相似。德语虽然语法不同，但与英语有60%的词汇相似度。挪威语和法语也与英语有较近的亲缘关系，但法语与英语的相似度更多是由于历史原因，如诺曼征服带来的词汇影响。</description>
-    </item>
-  
-    <item>
       <title>6 Questions To Ask Yourself Before Applying To That Job</title>
       <link>https://jes.al/2024/07/6-questions-to-ask-yourself-before-applying-to-that-job/</link>
       <description>在申请工作之前，问自己六个关键问题以更好地符合职位要求。这些问题包括：你的专业知识是否与公司规模的需求相符？你能否有效地融入团队结构和工作风格？你的专业知识是否直接解决该角色的挑战和目标？你是否研究了该行业的需求？你的价值观是否与公司文化相符？你如何让自己在众多申请者中脱颖而出？通过这些问题，你可以更好地准备申请，提高成功机会。</description>
