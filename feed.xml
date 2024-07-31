@@ -6,6 +6,54 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Taking AI to Warp Speed: Decoding How NVIDIA’s Latest RTX-Powered Tools and Apps Help Developers Accelerate AI on PCs and Workstations</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-siggraph-chat-rtx-update/</link>
+      <description>NVIDIA最新推出的RTX应用程序和工具加速了人工智能的发展，包括ChatRTX和Llama 3支持，以及Maxine AI平台和ACE技术的更新。这些技术提高了AI内容创作、生产力和发展，使数字人类和虚拟现实体验更加真实和互动。此外，RTX GPU加速了视频编辑和3D艺术家的工作流程，提高了图像质量和渲染速度。</description>
+    </item>
+  
+    <item>
+      <title>Enterprise 2024.5: Encouraging and growing community contributions</title>
+      <link>https://stackoverflow.blog/2024/07/31/encouraging-and-growing-community-contributions/</link>
+      <description>Stack Overflow for Teams最新版本增强了社区贡献，通过灵活的悬赏、改进的用户搜索选项、Slack线程总结等功能，鼓励知识共享和协作。新功能包括简化工作流程、提升数据可视化、优化用户搜索和Markdown支持，以及OverflowAI的更新，使团队更高效地协作和解决问题。</description>
+    </item>
+  
+    <item>
+      <title>Reimagining cloud strategy for AI-first enterprises</title>
+      <link>https://www.technologyreview.com/2024/07/31/1094228/reimagining-cloud-strategy-for-ai-first-enterprises/</link>
+      <description>企业正重新思考以AI为核心的战略，云基础设施和策略成为关键。一项由Infosys和MIT Technology Review Insights联合进行的调查发现，大多数公司正在为AI做准备，并计划增加投资以加速进展。云技术已从存储工具和成本削减者转变为创新、转型和颠覆的关键驱动因素。</description>
+    </item>
+  
+    <item>
+      <title>AI for Sustainability: 10 Key Areas of Impact</title>
+      <link>https://www.babbel.com/en/magazine/ai-for-sustainability-10-key-areas-of-impact</link>
+      <description>人工智能在可持续性领域的十大关键影响：AI通过优化流程、减少浪费和促进资源高效利用，在能源优化、可再生能源、智能农业、废物管理、交通、气候监测、高效建筑、城市化、野生动物保护和可持续供应链等方面发挥着重要作用。</description>
+    </item>
+  
+    <item>
+      <title>The Download: ethics in physics, and talking to ChatGPT</title>
+      <link>https://www.technologyreview.com/2024/07/31/1095532/the-download-ethics-in-physics-and-talking-to-chatgpt/</link>
+      <description>MIT Technology Review最新报道了物理学中的伦理问题，包括罗切斯特大学物理学家Ranga Dias伪造数据事件，以及OpenAI推出的新ChatGPT聊天机器人。此外，还探讨了儿童在线安全法案、芯片制造设备出口限制、Meta公司与德克萨斯州达成10亿美元和解等科技新闻。</description>
+    </item>
+  
+    <item>
+      <title>A Review of “Why Greatness Cannot Be Planned: The Myth of the Objective”</title>
+      <link>https://spin.atomicobject.com/review-greatness-cannot-planned/</link>
+      <description>《为何伟大无法计划：目标神话》一书中，作者Dylan Goings对Kenneth O. Stanley的观点进行了评论。Stanley认为，历史上的许多重大发现和创新并非源于目标驱动的计划，而是来自开放探索和偶然发现。Goings认为，Stanley的观点引人深思，但他的论证过于冗长，且过分强调自己的研究项目Picbreeder，削弱了论点的普遍性。尽管如此，Goings认为Stanley的核心信息——即目标可能限制我们的潜力——仍然具有价值，并鼓励我们在探索未知时保持开放的心态。</description>
+    </item>
+  
+    <item>
+      <title>KotlinConf 2025 Tickets Are Now on Sale!</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/07/kotlinconf-2025-tickets-on-sale/</link>
+      <description>KotlinConf 2025将于2025年5月21日至23日在丹麦哥本哈根举行，由JetBrains主办，是全球最大的Kotlin盛会。门票现已开售，包括超级早鸟票、早鸟票和常规门票，还有专门的工作坊票。会议将包括多种研讨会、演讲和网络活动，旨在深入探讨Kotlin社区。更多信息可在kotlinconf.com上找到。</description>
+    </item>
+  
+    <item>
+      <title>A controversial Chinese CRISPR scientist is still hopeful about embryo gene-editing. Here’s why.</title>
+      <link>https://www.technologyreview.com/2024/07/31/1095509/he-jiankui-hopeful-gene-editing/</link>
+      <description>中国CRISPR科学家贺建奎对未来胚胎基因编辑持乐观态度，尽管他因首次基因编辑婴儿实验入狱三年。目前，他在中国海南岛的一个实验室工作，专注于使用基因编辑技术治疗杜氏肌营养不良症等遗传疾病。贺建奎认为，社会对基因编辑的接受度是使用CRISPR进行胚胎编辑的最大障碍，但他相信社会最终会接受胚胎基因编辑作为改善人类健康的医疗手段。</description>
+    </item>
+  
+    <item>
       <title>Unified Grid: How We Re-Architected Slack for Our Largest Customers</title>
       <link>https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/</link>
       <description>Slack对架构进行了重大重构，以支持大型客户的多工作空间需求。通过统一网格，Slack实现了跨多个工作空间的数据共享和单一视图，提高了性能并简化了用户体验。这一变革涉及数千个API、数据库查询和权限检查的更新，最终成为Slack客户日常工作中不可或缺的一部分。</description>
@@ -36,6 +84,18 @@
     </item>
   
     <item>
+      <title>Fully Homomorphic Encryption in Production Systems</title>
+      <link>https://www.jeremykun.com/fhe-in-production/</link>
+      <description>本文探讨了在生产系统中使用全同态加密（FHE）的实例。文章列举了微软的密码检查服务和苹果的实时来电识别功能等应用案例，并讨论了FHE在医疗、区块链等领域的潜在应用。同时，文章也指出了FHE在COVID-19接触者追踪等领域的非典型应用。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Yes, No, NO NO NO NO</title>
+      <link>https://thedailywtf.com/articles/yes-no-no-no-no-no</link>
+      <description>程序员Remy Porter在博客中批评了一款移动服务提供商的代码，指出其使用了自定义的YesNoType类型来处理布尔值，导致代码复杂且易出错。他强调，直接使用布尔类型会更简单、更有效，并指出该代码中存在不一致的值和冗余的函数。</description>
+    </item>
+  
+    <item>
       <title>What Is The Closest Language To English?</title>
       <link>https://www.babbel.com/en/magazine/languages-closest-to-english</link>
       <description>英语最接近的语言是苏格兰语，尽管它常被视为英语的一种方言。其次是弗里西亚语，这是一种西日耳曼语，与英语有80%的词汇相似度。荷兰语是英语的另一个近亲，两者在语法结构上相似。德语虽然语法不同，但与英语有60%的词汇相似度。挪威语和法语也与英语有较近的亲缘关系，但法语与英语的相似度更多是由于历史原因，如诺曼征服带来的词汇影响。</description>
@@ -45,6 +105,12 @@
       <title>6 Questions To Ask Yourself Before Applying To That Job</title>
       <link>https://jes.al/2024/07/6-questions-to-ask-yourself-before-applying-to-that-job/</link>
       <description>在申请工作之前，问自己六个关键问题以更好地符合职位要求。这些问题包括：你的专业知识是否与公司规模的需求相符？你能否有效地融入团队结构和工作风格？你的专业知识是否直接解决该角色的挑战和目标？你是否研究了该行业的需求？你的价值观是否与公司文化相符？你如何让自己在众多申请者中脱颖而出？通过这些问题，你可以更好地准备申请，提高成功机会。</description>
+    </item>
+  
+    <item>
+      <title>Get the most from Elastic Agent with Amazon S3 and SQS</title>
+      <link>https://www.elastic.co/blog/elastic-agent-amazon-s3-sqs</link>
+      <description>Elastic Agent与Amazon S3和SQS结合使用，可高效处理大量数据。通过性能预设，新用户可轻松实现数据高效导入Elasticsearch，降低成本。优化后的预设可提升吞吐量和稳定性，适用于不同场景。此外，通过合理配置和利用云服务，可进一步降低成本并提高性能。</description>
     </item>
   
     <item>
@@ -69,6 +135,12 @@
       <title>AI search engine accused of plagiarism announces publisher revenue-sharing plan</title>
       <link>https://arstechnica.com/?p=2039978</link>
       <description>AI搜索引擎Perplexity因涉嫌抄袭而推出与出版商的收益共享计划，旨在通过分享广告收入来支持媒体组织，并与Google竞争。该计划已吸引包括TIME、Der Spiegel和WordPress.com在内的多家出版商加入。</description>
+    </item>
+  
+    <item>
+      <title>How the Paris 2024 Summer Olympics has impacted Internet traffic</title>
+      <link>https://blog.cloudflare.com/paris-2024-summer-olympics-impacted-internet-traffic</link>
+      <description>2024年巴黎夏季奥运会开幕式对互联网流量产生了显著影响，尤其是在法国。开幕式期间，互联网流量出现明显下降，与Celine Dion和Lady Gaga的表演、奥运圣火点燃以及John Lennon的“Imagine”等时刻相关。此外，随着奥运会的进行，对官方奥运网站的兴趣激增，美国成为访问量最高的国家。</description>
     </item>
   
     <item>
@@ -214,6 +286,12 @@
       <title>Hibernate SoftDelete annotation</title>
       <link>https://vladmihalcea.com/hibernate-softdelete-annotation/</link>
       <description>Hibernate 6.4 引入的 SoftDelete 注解简化了 JPA 实体的软删除机制。通过在实体上使用 @SoftDelete 注解，可以轻松实现删除记录而不从数据库中物理删除它们。本文演示了如何使用该注解，包括在 Tag、Post、PostDetails 和 PostComment 实体上的应用，以及如何处理关联实体的软删除。升级到 Hibernate 6.4 或更高版本以使用此功能。</description>
+    </item>
+  
+    <item>
+      <title>How Stack Overflow fends off scraping bots</title>
+      <link>https://stackoverflow.blog/2024/07/30/how-stack-overflow-fends-off-scraping-bots/</link>
+      <description>Stack Overflow通过其员工可靠性工程师Josh Zhang的分享，揭示了如何防御爬虫和DDoS攻击。文章讨论了DDoS攻击旨在关闭网站，而爬虫则试图收集数据而不被发现。同时，还提到了人类网络爬虫的出现和近年来DDoS攻击的增加，以及保护网站免受攻击与确保合法用户不受影响之间的平衡。</description>
     </item>
   
     <item>
