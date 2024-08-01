@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing GitHub Models: A new generation of AI engineers building on GitHub</title>
+      <link>https://github.blog/news-insights/product-news/introducing-github-models/</link>
+      <description>GitHub推出GitHub Models，为超过1亿用户提供行业领先的大规模和小规模语言模型，使开发者能够轻松构建和部署AI应用。通过内置的模型游乐场，开发者可以免费测试和比较不同模型，并在Codespaces和VS Code中部署模型。Azure AI提供企业级安全和数据隐私，以及全球可用性，简化AI应用的开发和运行。</description>
+    </item>
+  
+    <item>
+      <title>Track Platform Event Publishing Using Apex Callbacks</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/track-platform-event-publishing-using-apex-callbacks.html</link>
+      <description>使用Apex回调和UUID跟踪平台事件发布，确保事件成功发布并处理错误。通过实现事件发布回调接口，创建数据对象存储事件信息，并在回调中处理成功或失败的结果。使用事件UUID进行事件关联，注意用户上下文变化，以实现异步事件发布跟踪。</description>
+    </item>
+  
+    <item>
+      <title>A recent spate of Internet disruptions</title>
+      <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
+      <description>Cloudflare雷达系统监测到，2024年第三季度初，全球多个国家发生了互联网中断事件。孟加拉国因学生抗议活动导致全国范围内互联网关闭，叙利亚在考试期间实施互联网关闭以防止作弊，巴基斯坦因技术故障和国际海底电缆问题出现互联网中断，而委内瑞拉在总统选举后观察到互联网流量显著下降。这些事件突显了互联网中断对国家和社会的影响。</description>
+    </item>
+  
+    <item>
+      <title>Research roadmap update: August 2024</title>
+      <link>https://stackoverflow.blog/2024/08/01/research-roadmap-update-august-2024/</link>
+      <description>Stack Overflow用户体验团队在2024年8月的研究路线图更新中，将专注于验证用户动机假设，改进问答体验，并开展战术研究，以提升社区参与度和知识分享。</description>
+    </item>
+  
+    <item>
       <title>An Overview of Cloudera’s AI Survey: The State of Enterprise AI and Modern Data Architecture</title>
       <link>https://blog.cloudera.com/an-overview-of-clouderas-ai-survey-the-state-of-enterprise-ai-and-modern-data-architecture/</link>
       <description>Cloudera与Researchscape合作进行的AI调查揭示了企业AI采用现状、数据架构挑战和解决方案。调查发现，88%的公司已采用AI，其中IT、客户服务和营销部门领先。尽管AI应用广泛，但数据基础设施不足和复杂性是主要挑战。现代数据架构提供灵活性和可见性，支持数据集成，确保数据安全，并推动业务敏捷性和创新。</description>
@@ -63,6 +87,12 @@
       <title>6 Top Trends in the Food and Beverage Industry</title>
       <link>https://s14415.pcdn.co/blog/food-and-beverage-industry-trends/</link>
       <description>2024年食品饮料行业六大趋势：碗装美食、辣味食品、健康咖啡、融合厨房、单人份零食和预算意识。消费者追求健康、多样化、个性化的饮食体验，品牌需关注这些趋势以适应市场需求。</description>
+    </item>
+  
+    <item>
+      <title>Why investors care about climate tech’s green premium</title>
+      <link>https://www.technologyreview.com/2024/08/01/1095543/climate-tech-green-premium/</link>
+      <description>投资者关注气候技术绿色溢价的原因在于，新兴的气候技术需要超越环保承诺，通过提供更经济、更有效的产品来竞争。这些技术往往面临“绿色溢价”的挑战，即环保产品与传统产品的成本差异。为了使新技术被市场接受，需要通过政策或技术创新来降低这种溢价。例如，太阳能电池和锂离子电池的成本在过去几十年中大幅下降，展示了技术进步的潜力。然而，新技术的市场化和成本竞争力可能需要更长的时间，因此投资者和企业需要耐心和长期投资。</description>
     </item>
   
     <item>
@@ -124,6 +154,12 @@
       <title>Unlock your organization’s AI value: From proof of concept to real-world impact</title>
       <link>https://www.thoughtworks.com/insights/articles/unlock-ai-value-poc-to-reality</link>
       <description>AI的成功取决于公司采用迭代AI策略，通过持续实验、稳健的工程实践和明确的指导原则。组织在实施AI之前需要建立坚实的基础，包括数据策略和评估工具，以确保AI模型能够准确、安全地运行。通过优化数据和提示，AI可以从概念验证阶段过渡到可扩展的解决方案，从而提高业务效率和用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Encryption at rest in Elastic Cloud: Bring your own key with AWS KMS</title>
+      <link>https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-aws-kms</link>
+      <description>Elastic Cloud支持使用AWS KMS密钥进行静态加密，提供安全合规的数据存储环境。通过创建AWS KMS密钥并配置密钥策略，可以将Elastic Cloud部署与密钥集成，实现数据加密和快照保护。此外，支持密钥轮换和撤销，增强数据安全性。</description>
     </item>
   
     <item>
@@ -847,6 +883,12 @@
       <title>Creating an AI powered service for detecting fraudulant card transactions</title>
       <link>https://developers.redhat.com/articles/2024/07/29/creating-ai-powered-service-detecting-fraudulant-card-transactions</link>
       <description>Red Hat OpenShift AI简化了AI模型的生命周期管理，包括构建、训练、存储和部署。通过Jupyter Notebook环境，开发者可以轻松构建和训练模型，并使用Minio等集成解决方案进行安全存储。部署模型到OpenShift AI后，可以快速进行推理。本文提供了一个使用OpenShift AI构建欺诈检测系统的示例，包括数据预处理、模型训练和API集成，以实现实时欺诈检测。</description>
+    </item>
+  
+    <item>
+      <title>Creating an AI-powered service for detecting fraudulent card transactions</title>
+      <link>https://developers.redhat.com/articles/2024/07/29/creating-ai-powered-service-detecting-fraudulent-card-transactions</link>
+      <description>Red Hat OpenShift AI简化了AI模型的生命周期管理，包括构建、训练、存储和部署。通过Jupyter Notebook环境，开发者可以轻松构建和训练机器学习模型，并使用Minio等集成解决方案进行安全存储。本文介绍了如何使用OpenShift AI设置和部署欺诈检测系统，包括创建API端点以识别欺诈交易，并通过S2I功能快速部署应用程序。通过Red Hat OpenShift AI，企业可以提升AI工程师、平台工程师和应用开发者的开发体验。</description>
     </item>
   
     <item>
