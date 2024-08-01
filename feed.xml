@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #77: Paris Olympics (solution)</title>
+      <link>https://www.bambooweekly.com/bw-77-paris-olympics-solution/</link>
+      <description>本周，作者分析了2024年巴黎奥运会的相关数据，包括各国奖牌信息、地理数据等。通过使用Codante和Clockwork Micro的数据源，作者探讨了不同国家的参赛情况，并分析了部分国家没有指定大洲的问题，如难民奥运队和俄罗斯白俄罗斯中立运动员队。文章还提到了作者即将推出的新Python和Pandas课程。</description>
+    </item>
+  
+    <item>
       <title>Key Steps in Machine Learning Model Development using AutoML</title>
       <link>https://blog.avenuecode.com/key-steps-in-machine-learning-model-development-using-automl</link>
       <description>本文介绍了使用AutoML和Google Cloud服务开发机器学习模型以预测信用卡欺诈的过程。通过数据探索、模型训练和部署，该模型能够准确预测欺诈交易，帮助公司提前识别和预防欺诈，从而保障财务安全并提高财务业绩。</description>
@@ -15,6 +21,12 @@
       <title>Senate’s NO FAKES act hopes to make unauthorized “digital replicas” illegal</title>
       <link>https://arstechnica.com/?p=2040488</link>
       <description>美国参议员提出“数字复制权”法案，旨在保护个人免受未经授权的AI生成复制品侵害，该权利在个人去世后70年内有效。法案将使个人和公司对未经授权的数字复制品负责，包括由生成式AI创建的复制品。法案旨在平衡知识产权保护与言论自由，并得到了娱乐和科技行业的广泛支持。</description>
+    </item>
+  
+    <item>
+      <title>DigitalOcean July 2024 Monthly Resource Round-Up</title>
+      <link>https://www.digitalocean.com/blog/july-resource-round-up</link>
+      <description>DigitalOcean 2024年7月资源汇总：本月重点介绍了备份作为服务（BaaS）的解决方案，包括GPU Droplets和符合HIPAA标准的产品。此外，还推出了全球负载均衡器（Beta版）和GenAI平台（早期可用），并提供了关于App Platform、Webinar、视频教程和客户案例的资源。</description>
     </item>
   
     <item>
@@ -39,6 +51,12 @@
       <title>Track Platform Event Publishing Using Apex Callbacks</title>
       <link>https://developer.salesforce.com/blogs/2024/08/track-platform-event-publishing-using-apex-callbacks.html</link>
       <description>使用Apex回调和UUID跟踪平台事件发布，确保事件成功发布并处理错误。通过实现事件发布回调接口，创建数据对象存储事件信息，并在回调中处理成功或失败的结果。使用事件UUID进行事件关联，注意用户上下文变化，以实现异步事件发布跟踪。</description>
+    </item>
+  
+    <item>
+      <title>The Luxury Travel Boom: What’s Still Worth the Splurge?</title>
+      <link>https://s14415.pcdn.co/blog/luxury-travel-boom/</link>
+      <description>尽管经济不稳定，消费者仍愿意为合适的体验花费。本文探讨了奢侈品旅游市场的增长，分析了消费者对豪华旅游体验的需求，包括寻求难忘的回忆、舒适和便利，以及品牌如何通过创新来满足这些需求。</description>
     </item>
   
     <item>
@@ -75,6 +93,12 @@
       <title>Ranking: The Top Food Influencers on Instagram and YouTube</title>
       <link>https://s14415.pcdn.co/blog/ranking-top-food-influencer/</link>
       <description>本文分析了Instagram和YouTube上最具影响力的美食博主，探讨了他们的成功原因。通过Brandwatch Influence工具，我们筛选出至少拥有10万粉丝且在个人资料或昵称中提及“美食”、“食谱”、“烹饪”或“厨师”的博主。文章详细介绍了这些博主的特点和他们在社交媒体上的表现，为品牌提供了与美食博主合作的新视角。</description>
+    </item>
+  
+    <item>
+      <title>Ranking: The Top Food Influencers on Instagram and YouTube</title>
+      <link>https://www.brandwatch.com/blog/ranking-top-food-influencer/</link>
+      <description>本文分析了Instagram和YouTube上最具影响力的美食博主，并探讨了他们成功的原因。文章通过Brandwatch Influence工具，筛选出至少拥有10万粉丝且在个人资料或昵称中提及“美食”、“食谱”、“烹饪”或“厨师”的博主。文章详细介绍了这些博主的特点和他们在社交媒体上的表现，为品牌提供了与美食博主合作的新视角。</description>
     </item>
   
     <item>
@@ -199,6 +223,12 @@
     </item>
   
     <item>
+      <title>ERGs encourages you to come as you are: Meet the Accessibles</title>
+      <link>https://www.elastic.co/blog/culture-meet-accessibles</link>
+      <description>Elastic公司自2016年起设有员工资源小组（ERGs），旨在促进多样性、公平性和包容性。其中，“可及性小组”致力于提高对残障人士在工作场所体验的认识，并推动将可及性融入工程流程。该小组通过举办研讨会、心理健康意识讲座和社会活动来增强社区参与度，并庆祝可及性意识月。</description>
+    </item>
+  
+    <item>
       <title>Cloudflare once again comes under pressure for enabling abusive sites</title>
       <link>https://arstechnica.com/?p=2040424</link>
       <description>Cloudflare因允许滥用网站而再次受到压力，其内容中立政策引发争议。尽管Cloudflare声称其服务旨在保护网站免受DDoS攻击，但Spamhaus等组织批评其服务被用于掩盖恶意活动，包括提供针对网络犯罪分子的“防弹”托管服务。Cloudflare坚持其内容中立立场，认为不应负责调查滥用报告。</description>
@@ -244,6 +274,12 @@
       <title>BW #77: Paris Olympics</title>
       <link>https://www.bambooweekly.com/bw-77-paris-olympics/</link>
       <description>本周，我们将探讨2024年法国巴黎奥运会的相关数据。文章介绍了数据来源，包括Codante和Clockwork Micro提供的信息，以及如何使用这些数据来分析各国奖牌信息。作者提出了六个任务和问题，旨在通过处理和分析这些数据来提高Python和Pandas技能。</description>
+    </item>
+  
+    <item>
+      <title>Enhancing Search Capabilities with K-NN Vector Search in OpenSearch</title>
+      <link>https://www.digitalocean.com/blog/enhancing-search-capabilities-with-k-nn-vector-search-in-opensearch</link>
+      <description>本文探讨了如何利用K-NN向量搜索增强OpenSearch的搜索能力。通过将数据表示为向量，K-NN可以找到与查询最相似的数据项。OpenSearch作为一个可扩展的开源搜索和分析引擎，支持K-NN向量搜索，适用于自然语言处理、推荐系统和图像检索等高级用例。文章还介绍了如何设置和配置OpenSearch以使用K-NN向量搜索，并讨论了其应用场景和挑战。</description>
     </item>
   
     <item>
@@ -532,6 +568,12 @@
       <title>OpenAI has released a new ChatGPT bot that you can talk to</title>
       <link>https://www.technologyreview.com/2024/07/30/1095489/openai-has-released-a-new-chatgpt-bot-that-you-can-talk-to/</link>
       <description>OpenAI发布了一款新的ChatGPT语音聊天机器人，能够进行自然流畅的对话。该机器人目前仅对一小部分ChatGPT Plus用户开放，预计秋季对所有用户开放。它基于GPT-4o模型，能够识别语气、实时回应，并表达多种情感。OpenAI正在测试其安全性，并计划未来增加视频和屏幕共享等高级功能。</description>
+    </item>
+  
+    <item>
+      <title>July 2024 Partnership Roundup</title>
+      <link>https://www.digitalocean.com/blog/july-2024-partnership-roundup</link>
+      <description>DigitalOcean在2024年7月迎来了26家新合作伙伴，包括UBM、MS Web Arts等。合作伙伴可享受市场推广、产品部署和折扣等福利。加入Hatch计划，合作伙伴可获得12个月的DigitalOcean信用额度，以优化基础设施和资源。</description>
     </item>
   
     <item>
