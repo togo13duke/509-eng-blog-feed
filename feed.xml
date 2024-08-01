@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Key Steps in Machine Learning Model Development using AutoML</title>
+      <link>https://blog.avenuecode.com/key-steps-in-machine-learning-model-development-using-automl</link>
+      <description>本文介绍了使用AutoML和Google Cloud服务开发机器学习模型以预测信用卡欺诈的过程。通过数据探索、模型训练和部署，该模型能够准确预测欺诈交易，帮助公司提前识别和预防欺诈，从而保障财务安全并提高财务业绩。</description>
+    </item>
+  
+    <item>
+      <title>Senate’s NO FAKES act hopes to make unauthorized “digital replicas” illegal</title>
+      <link>https://arstechnica.com/?p=2040488</link>
+      <description>美国参议员提出“数字复制权”法案，旨在保护个人免受未经授权的AI生成复制品侵害，该权利在个人去世后70年内有效。法案将使个人和公司对未经授权的数字复制品负责，包括由生成式AI创建的复制品。法案旨在平衡知识产权保护与言论自由，并得到了娱乐和科技行业的广泛支持。</description>
+    </item>
+  
+    <item>
+      <title>Lakehouse Monitoring GA: Profiling, Diagnosing, and Enforcing Data Quality with Intelligence</title>
+      <link>https://www.databricks.com/blog/lakehouse-monitoring-ga-profiling-diagnosing-and-enforcing-data-quality-intelligence</link>
+      <description>Databricks Lakehouse Monitoring提供了一种统一的方法来监控数据和分析，允许用户在Databricks数据智能平台上轻松地分析、诊断和执行数据质量。通过在Unity Catalog上构建，Lakehouse Monitoring无需额外工具或复杂性，可自动生成仪表板，展示关键指标的趋势和异常，帮助识别问题列。此外，它还支持自定义指标、切片表达式和仪表板编辑，以及通过“期望”功能进行主动警报，确保数据质量，从而提高数据可靠性和业务价值。</description>
+    </item>
+  
+    <item>
+      <title>Boundary 0.17 improves management, failure handling, and adds more storage support</title>
+      <link>https://www.hashicorp.com/blog/boundary-0-17-improves-management-failure-handling-and-adds-more-storage-support</link>
+      <description>Boundary 0.17版本增强了管理功能、故障处理，并增加了更多存储支持。新版本简化了管理员和用户的体验，改进了标签和角色管理，增强了工作节点故障检测，并为会话记录提供了更多存储选项。这些升级提高了用户体验，并提供了更多灵活性，允许客户使用他们选择的S3兼容存储。</description>
+    </item>
+  
+    <item>
       <title>Introducing GitHub Models: A new generation of AI engineers building on GitHub</title>
       <link>https://github.blog/news-insights/product-news/introducing-github-models/</link>
       <description>GitHub推出GitHub Models，为超过1亿用户提供行业领先的大规模和小规模语言模型，使开发者能够轻松构建和部署AI应用。通过内置的模型游乐场，开发者可以免费测试和比较不同模型，并在Codespaces和VS Code中部署模型。Azure AI提供企业级安全和数据隐私，以及全球可用性，简化AI应用的开发和运行。</description>
@@ -21,6 +45,12 @@
       <title>A recent spate of Internet disruptions</title>
       <link>https://blog.cloudflare.com/a-recent-spate-of-internet-disruptions-july-2024</link>
       <description>Cloudflare雷达系统监测到，2024年第三季度初，全球多个国家发生了互联网中断事件。孟加拉国因学生抗议活动导致全国范围内互联网关闭，叙利亚在考试期间实施互联网关闭以防止作弊，巴基斯坦因技术故障和国际海底电缆问题出现互联网中断，而委内瑞拉在总统选举后观察到互联网流量显著下降。这些事件突显了互联网中断对国家和社会的影响。</description>
+    </item>
+  
+    <item>
+      <title>What’s the difference between Data­Package­View.Get­Uri­Async and Data­Package­View.Get­Web­Link­Async?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240801-00/?p=110085</link>
+      <description>Windows Runtime DataPackage对象包含三种类型的URI处理方法：Uri、WebLink和ApplicationLink。Uri和WebLink实际上是相同的，用于链接Web资源，而ApplicationLink用于链接到应用以查看项目。开发者无需同时处理Uri和WebLink，只需选择一个名称使用即可。</description>
     </item>
   
     <item>
@@ -160,6 +190,12 @@
       <title>Encryption at rest in Elastic Cloud: Bring your own key with AWS KMS</title>
       <link>https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-aws-kms</link>
       <description>Elastic Cloud支持使用AWS KMS密钥进行静态加密，提供安全合规的数据存储环境。通过创建AWS KMS密钥并配置密钥策略，可以将Elastic Cloud部署与密钥集成，实现数据加密和快照保护。此外，支持密钥轮换和撤销，增强数据安全性。</description>
+    </item>
+  
+    <item>
+      <title>Discord Patch Notes: August 1, 2024</title>
+      <link>https://discord.com/blog/discord-patch-notes-august-1-2024</link>
+      <description>Discord于2024年8月1日发布了更新，解决了多个问题，包括语音频道断开连接、消息发送失败、表情选择器优化、朋友列表滚动速度提升、通知功能改进等。此外，还修复了用户界面、媒体播放、论坛频道和可访问性方面的多个问题。</description>
     </item>
   
     <item>
@@ -334,6 +370,12 @@
       <title>A Review of “Why Greatness Cannot Be Planned: The Myth of the Objective”</title>
       <link>https://spin.atomicobject.com/review-greatness-cannot-planned/</link>
       <description>《为何伟大无法计划：目标神话》一书中，作者Dylan Goings对Kenneth O. Stanley的观点进行了评论。Stanley认为，历史上的许多重大发现和创新并非源于目标驱动的计划，而是来自开放探索和偶然发现。Goings认为，Stanley的观点引人深思，但他的论证过于冗长，且过分强调自己的研究项目Picbreeder，削弱了论点的普遍性。尽管如此，Goings认为Stanley的核心信息——即目标可能限制我们的潜力——仍然具有价值，并鼓励我们在探索未知时保持开放的心态。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Python's Built-in Exceptions: A Walkthrough With Examples</title>
+      <link>https://realpython.com/quizzes/python-built-in-exceptions/</link>
+      <description>本文章是关于Python内置异常的互动测验，旨在测试读者对Python中最常用内置异常的理解。通过19个问题，读者可以检验自己在异常处理方面的知识，这对于调试代码和处理自定义异常至关重要。测验无时间限制，每答对一题得一分，最终获得总分。</description>
     </item>
   
     <item>
