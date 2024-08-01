@@ -6,9 +6,51 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>An Overview of Cloudera’s AI Survey: The State of Enterprise AI and Modern Data Architecture</title>
+      <link>https://blog.cloudera.com/an-overview-of-clouderas-ai-survey-the-state-of-enterprise-ai-and-modern-data-architecture/</link>
+      <description>Cloudera与Researchscape合作进行的AI调查揭示了企业AI采用现状、数据架构挑战和解决方案。调查发现，88%的公司已采用AI，其中IT、客户服务和营销部门领先。尽管AI应用广泛，但数据基础设施不足和复杂性是主要挑战。现代数据架构提供灵活性和可见性，支持数据集成，确保数据安全，并推动业务敏捷性和创新。</description>
+    </item>
+  
+    <item>
+      <title>August Adventures Await: 18 New Games Coming to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-new-games-august-2024/</link>
+      <description>NVIDIA GeForce NOW在8月份将新增18款游戏，包括Square Enix的《Visions of Mana》。此外，还有六款游戏本周可在线流玩。GeForce NOW夏季促销活动提供50%折扣，促销至8月18日。新加入的游戏包括《Stormgate》、《Space for Sale》等，还有即将在8月发布的《Warhammer 40,000: Speed Freeks》等。</description>
+    </item>
+  
+    <item>
+      <title>Ranking: The Top Food Influencers on Instagram and YouTube</title>
+      <link>https://s14415.pcdn.co/blog/ranking-top-food-influencer/</link>
+      <description>本文分析了Instagram和YouTube上最具影响力的美食博主，探讨了他们的成功原因。通过Brandwatch Influence工具，我们筛选出至少拥有10万粉丝且在个人资料或昵称中提及“美食”、“食谱”、“烹饪”或“厨师”的博主。文章详细介绍了这些博主的特点和他们在社交媒体上的表现，为品牌提供了与美食博主合作的新视角。</description>
+    </item>
+  
+    <item>
+      <title>The Download: AI’s end of life decisions, and green investing</title>
+      <link>https://www.technologyreview.com/2024/08/01/1095559/the-download-ais-end-of-life-decisions-and-green-investing/</link>
+      <description>人工智能在生命终结决策中的应用和绿色投资成为焦点，包括AI辅助预测患者意愿的工具开发，以及气候技术投资和绿色溢价讨论。同时，谷歌推出新方法应对深度伪造，科技行业权力平衡向工人倾斜。</description>
+    </item>
+  
+    <item>
       <title>Manage Reactive Arrays in Svelte</title>
       <link>https://spin.atomicobject.com/managing-reactive-arrays-svelte/</link>
       <description>Svelte中的响应式数组管理涉及三个关键问题：类型声明、更新和迭代。文章详细解释了如何在Svelte中使用类型安全的数组，如何更新数组以触发重新渲染，以及如何通过使用键功能确保组件在数组更新时正确重新渲染。</description>
+    </item>
+  
+    <item>
+      <title>Observability: 15 Industry-Leading Companies Discuss its Evolution</title>
+      <link>https://linuxblog.io/observability-15-industry-leading-companies-discuss-its-evolution/</link>
+      <description>本文探讨了可观测性的发展，包括15家行业领先公司在过去一年中的创新和未来展望。这些公司通过优化平台、加强数据隐私和安全、提供更快的故障排除以及增强人工智能在IT运营中的应用，推动了可观测性的进步。未来，它们将专注于安全、自动化和开源，以支持云原生和Kubernetes原生可观测性，并继续进行收购和合作。</description>
+    </item>
+  
+    <item>
+      <title>mv command in Linux, with examples</title>
+      <link>https://linuxblog.io/mv-command-in-linux-with-examples/</link>
+      <description>Linux中的`mv`命令用于移动和重命名文件和目录，是Linux系统中常用的命令之一。该命令通过指定源文件或目录和目标文件或目录来实现文件或目录的移动或重命名。本文介绍了`mv`命令的基本用法、工作原理以及一些实际应用示例。</description>
+    </item>
+  
+    <item>
+      <title>End of life decisions are difficult and distressing. Could AI help?</title>
+      <link>https://www.technologyreview.com/2024/08/01/1095551/end-of-life-decisions-ai-help/</link>
+      <description>人工智能在临终决策中可能起到帮助作用。研究人员正在开发基于个人数据的工具，如医疗记录、电子邮件和社交媒体帖子，以预测患者在不同情况下的意愿。这种“数字心理孪生”旨在减轻家庭成员在做出艰难决定时的压力，并可能提高决策的准确性。然而，这种工具也引发了对隐私、伦理和决策责任的担忧。</description>
     </item>
   
     <item>
