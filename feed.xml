@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Cloudflare once again comes under pressure for enabling abusive sites</title>
+      <link>https://arstechnica.com/?p=2040424</link>
+      <description>Cloudflare因允许滥用网站而再次受到压力，其内容中立政策引发争议。尽管Cloudflare声称其服务旨在保护网站免受DDoS攻击，但Spamhaus等组织批评其服务被用于掩盖恶意活动，包括提供针对网络犯罪分子的“防弹”托管服务。Cloudflare坚持其内容中立立场，认为不应负责调查滥用报告。</description>
+    </item>
+  
+    <item>
+      <title>Enhancing Your Website Security with Security Headers</title>
+      <link>https://medium.com/gumgum-tech/enhancing-your-website-security-with-security-headers-f736c921eaea?source=rss----d4c1dee0f87b---4</link>
+      <description>本文探讨了如何通过实施安全头部来增强网站安全性。文章介绍了安全头部的作用、重要性以及如何实施，包括内容安全策略（CSP）、权限策略、引用策略、严格传输安全（HSTS）、X-Frame-Options和X-Content-Type-Options等。此外，还提供了使用ZAP代理和SecurityHeaders.com等工具测试网站安全性的方法，并指导如何在不同的服务器和框架中添加安全头部。</description>
+    </item>
+  
+    <item>
       <title>Python in Visual Studio Code – August 2024 Release</title>
       <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2024-release/</link>
       <description>Visual Studio Code的Python和Jupyter扩展于2024年8月发布，新增了使用python-environment-tools改进的Python发现、在源代码中显示变量值、改进的VS Code原生REPL等功能，并提供了对用户反馈的响应和社区反馈的征集。</description>
