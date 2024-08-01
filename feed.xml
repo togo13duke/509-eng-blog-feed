@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Our Q4 FY24 letter to shareholders</title>
+      <link>https://www.atlassian.com/blog/announcements/shareholder-letter-q4fy24</link>
+      <description>Atlassian在2024财年第四季度向股东发布的信函中，概述了公司在过去一年中取得的重大成就，包括推出Atlassian Intelligence、Compass和Virtual Agents，以及收购Loom。公司收入增长至44亿美元，自由现金流超过10亿美元，客户数量超过30万。Atlassian强调了对企业云、人工智能和“工作系统”三大战略重点的投入，旨在推动公司长期增长。</description>
+    </item>
+  
+    <item>
       <title>BW #77: Paris Olympics (solution)</title>
       <link>https://www.bambooweekly.com/bw-77-paris-olympics-solution/</link>
       <description>本周，作者分析了2024年巴黎奥运会的相关数据，包括各国奖牌信息、地理数据等。通过使用Codante和Clockwork Micro的数据源，作者探讨了不同国家的参赛情况，并分析了部分国家没有指定大洲的问题，如难民奥运队和俄罗斯白俄罗斯中立运动员队。文章还提到了作者即将推出的新Python和Pandas课程。</description>
