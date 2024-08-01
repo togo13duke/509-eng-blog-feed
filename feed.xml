@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>StackShare is now part of FOSSA!</title>
+      <link>https://stackshare.io/posts/stackshare-is-now-part-of-fossa</link>
+      <description>StackShare宣布加入FOSSA，成为其开源管理平台的一部分。此次收购将使FOSSA继续运营StackShare社区和免费网站，同时淘汰StackShare企业版。StackShare将致力于提供更好的技术栈比较和讨论平台，同时FOSSA将推出类似产品，专注于管理开发者工具数据。</description>
+    </item>
+  
+    <item>
       <title>10 Open-Source Tools To Empower Your API Monetization Strategy</title>
       <link>https://nordicapis.com/10-open-source-tools-to-empower-your-api-monetization-strategy/</link>
       <description>本文介绍了10个开源工具，旨在帮助开发者实现API的货币化策略。这些工具包括Kong、WSO2 API Manager、Tyk、APISIX、KrakenD、Express Gateway、API Umbrella、Gravitee.io、DreamFactory和Fusio。它们提供了从API管理、安全、监控到计费和收入收集的全面功能，帮助开发者优化API货币化策略，提高用户体验。</description>
@@ -39,6 +45,19 @@
       <title>CVE-2024-41123: DoS vulnerabilities in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/08/01/dos-rexml-cve-2024-41123/</link>
       <description>CVE-2024-41123是REXML库中的一个拒绝服务（DoS）漏洞，可能导致解析特定XML文档时耗时过长。建议用户升级到REXML 3.3.3或更高版本以修复此问题。感谢mprogrammer和scyoon发现这些问题。</description>
+    </item>
+  
+    <item>
+      <title>Notes on "Review your own PRs"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-review-your-own-prs/</link>
+      <description>总结：
+文章强调在完成代码审查（PR）后，自己先进行审查的重要性。作者分享了自己使用GitHub UI进行自我审查的经验，以及通过分离编码和测试来发现更多缺陷的方法。他还提到，将讨论点直接附加到PR中，以及如何通过记录测试名称来保持“规范心态”。最后，作者强调理解底层技术对于编写可靠软件的重要性。</description>
+    </item>
+  
+    <item>
+      <title>Unlock your organization’s AI value: From proof of concept to real-world impact</title>
+      <link>https://www.thoughtworks.com/insights/articles/unlock-ai-value-poc-to-reality</link>
+      <description>AI的成功取决于公司采用迭代AI策略，通过持续实验、稳健的工程实践和明确的指导原则。组织在实施AI之前需要建立坚实的基础，包括数据策略和评估工具，以确保AI模型能够准确、安全地运行。通过优化数据和提示，AI可以从概念验证阶段过渡到可扩展的解决方案，从而提高业务效率和用户体验。</description>
     </item>
   
     <item>
