@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Manage Reactive Arrays in Svelte</title>
+      <link>https://spin.atomicobject.com/managing-reactive-arrays-svelte/</link>
+      <description>Svelte中的响应式数组管理涉及三个关键问题：类型声明、更新和迭代。文章详细解释了如何在Svelte中使用类型安全的数组，如何更新数组以触发重新渲染，以及如何通过使用键功能确保组件在数组更新时正确重新渲染。</description>
+    </item>
+  
+    <item>
+      <title>Les Easy Checks pour vérifier l'accessibilité d'un site web</title>
+      <link>https://blog.octo.com/les-easy-checks-pour-verifier-l'accessibilite-d'un-site-web</link>
+      <description>《Easy Checks》是一套简单快捷的网站可访问性测试方法，基于W3C的Web可访问性指南。它包括检查页面标题、图像替代文本、标题层次、颜色对比、文本大小调整、键盘导航、表单、动画内容、多媒体替代和基本结构等，旨在帮助网站开发者提高网站的可访问性，让更多用户能够无障碍地使用网站。</description>
+    </item>
+  
+    <item>
+      <title>6 Top Trends in the Food and Beverage Industry</title>
+      <link>https://s14415.pcdn.co/blog/food-and-beverage-industry-trends/</link>
+      <description>2024年食品饮料行业六大趋势：碗装美食、辣味食品、健康咖啡、融合厨房、单人份零食和预算意识。消费者追求健康、多样化、个性化的饮食体验，品牌需关注这些趋势以适应市场需求。</description>
+    </item>
+  
+    <item>
       <title>StackShare is now part of FOSSA!</title>
       <link>https://stackshare.io/posts/stackshare-is-now-part-of-fossa</link>
       <description>StackShare宣布加入FOSSA，成为其开源管理平台的一部分。此次收购将使FOSSA继续运营StackShare社区和免费网站，同时淘汰StackShare企业版。StackShare将致力于提供更好的技术栈比较和讨论平台，同时FOSSA将推出类似产品，专注于管理开发者工具数据。</description>
@@ -33,6 +51,12 @@
       <title>Minimize downtime when migrating from VMware to OpenShift Virtualization</title>
       <link>https://developers.redhat.com/articles/2024/08/01/minimize-downtime-when-migrating-vmware-openshift-virtualization</link>
       <description>Red Hat Service Interconnect简化了从VMware到OpenShift虚拟化的迁移过程，确保零停机时间。通过逐步迁移和无缝连接，组织可以在保持现有虚拟化投资的同时，利用云原生架构和优化操作。Red Hat OpenShift虚拟化允许在单一平台上运行虚拟机和容器，提高运营效率并准备未来的现代化。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Location Chooser</title>
+      <link>https://thedailywtf.com/articles/location-chooser</link>
+      <description>程序员Remy Porter在TDWTF上分享了一篇关于遗留代码的文章。文章中，他描述了一个应用程序中未实现的“允许在商店选择器中查看额外商店”的功能，并分析了其背后的代码问题，包括硬编码的HTML字符串和商店名称，以及缺乏对循环和条件语句的正确使用。Remy指出，这种代码风格可能导致随着业务扩展或缩减，功能请求和错误列表的不断增加。</description>
     </item>
   
     <item>
@@ -237,6 +261,12 @@
     <item>
       <title>The consumer outlook on the 2024 Summer Games</title>
       <link>https://s14415.pcdn.co/blog/summer-games/</link>
+      <description>2024年夏季奥运会期间，消费者对赛事的关注和讨论主要集中在社交媒体上，尤其是TikTok和X（前Twitter）。许多观众选择在家中观看比赛，享受舒适的环境。K-pop对赛事的影响显著，BTS成员Jin作为火炬手的历史性时刻受到广泛关注。尽管开幕式受到一些批评，但观众对Celine Dion的音乐选择表示赞赏。品牌商在赛事中的广告引起了消费者的不同反应，一些广告因情感故事而受到欢迎。</description>
+    </item>
+  
+    <item>
+      <title>The consumer outlook on the 2024 Summer Games</title>
+      <link>https://www.brandwatch.com/blog/summer-games/</link>
       <description>2024年夏季奥运会期间，消费者对赛事的关注和讨论主要集中在社交媒体上，尤其是TikTok和X（前Twitter）。许多观众选择在家中观看比赛，享受舒适的环境。K-pop对赛事的影响显著，BTS成员Jin作为火炬手的历史性时刻受到广泛关注。尽管开幕式受到一些批评，但观众对Celine Dion的音乐选择表示赞赏。品牌商在赛事中的广告引起了消费者的不同反应，一些广告因情感故事而受到欢迎。</description>
     </item>
   
