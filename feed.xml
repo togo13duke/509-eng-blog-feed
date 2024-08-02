@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Exploring Apache Flink 1.20: Features, Improvements, and More</title>
+      <link>https://www.confluent.io/blog/exploring-apache-flink-1-20-features-improvements-and-more/</link>
+      <description>Apache Flink 1.20版本发布，引入了多项改进和功能，包括Flink SQL性能提升、支持分布式桶分区、引入物化表以优化数据新鲜度管理、并行处理非键流聚合、统一文件合并以优化检查点存储、RocksDB状态后端的小SST文件压缩以及从JobMaster故障中恢复批处理作业的能力。这些更新旨在提高Flink的可用性和稳定性，为开发者提供更强大的流处理功能。</description>
+    </item>
+  
+    <item>
+      <title>The difference between undefined behavior and ill-formed C++ programs</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091</link>
+      <description>C++中的未定义行为和无效程序是两种不同的“不要这样做”类别。未定义行为是运行时概念，如果程序执行了语言指定为“程序不允许这样做”的操作，则其行为是未定义的。无效程序是违反了程序编写规则的程序，分为需要诊断的无效程序和不需要诊断的无效程序。需要诊断的无效程序会导致编译器报告错误并拒绝生成程序。不需要诊断的无效程序（IFNDR）可能不会导致编译器报告错误，但会导致程序行为不确定。</description>
+    </item>
+  
+    <item>
       <title>Recommendations for Setting Up Your Architecture With AWS &amp; TimescaleDB</title>
       <link>https://www.timescale.com/blog/recommendations-for-setting-up-your-architecture-with-aws-timescaledb/</link>
       <description>TimescaleDB是一个基于PostgreSQL的时间序列和数据分析数据库，专为AWS环境设计，提供快速的数据摄入和查询功能。它支持多种AWS服务，如Amazon VPC、AWS Lambda、AWS IoT Core和AWS IoT Greengrass，以简化数据管道和物联网应用的开发。TimescaleDB还提供云托管服务，支持自托管和开源扩展，旨在提高数据库性能和安全性。</description>
+    </item>
+  
+    <item>
+      <title>Protecting your app (and wallet) against malicious traffic</title>
+      <link>https://vercel.com/blog/protecting-your-app-and-wallet-against-malicious-traffic</link>
+      <description>Vercel提供多种措施保护应用程序免受恶意流量侵害，包括自定义防火墙规则、基于IP地址和JA4指纹的流量拦截、攻击挑战模式、实时使用和支出控制以及代码优化。这些功能旨在确保应用程序安全，防止未授权的流量，并帮助开发者避免意外费用。</description>
     </item>
   
     <item>
@@ -69,6 +87,12 @@
       <title>Google Ends Plan To Block Cookies, But Businesses Are Way Ahead Of Them</title>
       <link>https://www.twilio.com/en-us/blog/google-third-party-cookies</link>
       <description>Google取消阻止cookies的计划，但企业已提前适应无cookies的世界。尽管Google宣布将撤销其从Chrome浏览器中淘汰第三方cookies的计划，但许多营销人员，包括Twilio，早已转向依赖第一方数据，以实现个性化体验与隐私平衡。消费者对隐私的重视、第三方cookies的局限性以及浏览器市场的变化，都促使企业转向更可靠的数据策略。</description>
+    </item>
+  
+    <item>
+      <title>Elastic announces upcoming IRAP Assessment at the Protected Level</title>
+      <link>https://www.elastic.co/blog/elastic-irap-assessment-protected-level</link>
+      <description>Elastic宣布将通过澳大利亚信息安全注册评估师计划（IRAP）对Elastic Cloud进行保护级别的安全评估，以加强其云服务的合规性。Elastic选择CyberCX作为审计合作伙伴，以指导其通过认证过程。Elastic将继续更新其进展情况，并期待与客户分享成功。</description>
     </item>
   
     <item>
