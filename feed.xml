@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Forrester: Vendors move to dominate IT management software</title>
-      <link>https://www.atlassian.com/blog/it-service-management/forrester-it-management</link>
-      <description>Atlassian的IT服务管理（ITSM）解决方案Jira Service Management在市场上获得了显著成功，被超过55,000家组织信任。Forrester的报告指出，IT管理工具市场正趋向于以ServiceNow和Atlassian为中心的双极市场。Atlassian通过收购和整合，构建了覆盖企业功能性的全面组合，并强调快速价值实现、IT运维与开发之间的连接以及AI驱动的服务管理。</description>
-    </item>
-  
-    <item>
       <title>FLUX: This new AI image generator is eerily good at creating human hands</title>
       <link>https://arstechnica.com/?p=2040748</link>
       <description>FLUX.1，一款由Black Forest Labs推出的AI图像生成器，在创建人类手部图像方面表现出色。该模型基于Transformer和扩散技术，具有12亿参数，旨在超越现有选项，如Midjourney和DALL-E。FLUX.1在图像质量和文本提示的遵循度方面优于Stable Diffusion XL，并计划扩展到视频生成领域。</description>
@@ -51,12 +45,6 @@
       <title>Protecting your app (and wallet) against malicious traffic</title>
       <link>https://vercel.com/blog/protecting-your-app-and-wallet-against-malicious-traffic</link>
       <description>Vercel提供多种措施保护应用程序免受恶意流量侵害，包括自定义防火墙规则、基于IP地址和JA4指纹的流量拦截、攻击挑战模式、实时使用和支出控制以及代码优化。这些功能旨在确保应用程序安全，防止未授权的流量，并帮助开发者避免意外费用。</description>
-    </item>
-  
-    <item>
-      <title>Improved user experience for Account Settings</title>
-      <link>https://vercel.com/changelog/improved-user-experience-for-account-settings</link>
-      <description>Vercel对账户设置进行了改进，引入了直观的导航结构，分为概览、活动和设置三个部分。概览页提供团队和域的快速概览，活动页展示过去12个月的按时间顺序的事件列表，设置页整合了所有用户特定的选项，包括身份验证、计费和访问令牌。这些改进旨在提高清晰度并简化账户管理。</description>
     </item>
   
     <item>
@@ -123,12 +111,6 @@
       <title>Elastic announces upcoming IRAP Assessment at the Protected Level</title>
       <link>https://www.elastic.co/blog/elastic-irap-assessment-protected-level</link>
       <description>Elastic宣布将通过澳大利亚信息安全注册评估师计划（IRAP）对Elastic Cloud进行保护级别的安全评估，以加强其云服务的合规性。Elastic选择CyberCX作为审计合作伙伴，以指导其通过认证过程。Elastic将继续更新其进展情况，并期待与客户分享成功。</description>
-    </item>
-  
-    <item>
-      <title>Google Cloud Is the New Way to the Cloud</title>
-      <link>https://www.sitepoint.com/google-cloud-the-new-way-to-the-cloud/?utm_source=rss</link>
-      <description>Google Cloud是一个功能强大且灵活的云平台，提供一系列产品和服务，满足从小型初创企业到大型企业的多样化需求。它基于Google的强大基础设施和安全模型，确保数据和应用的安全可靠。Google Cloud适用于各种用户，包括小型企业主、初创公司创始人、爱好者和学生。平台提供如Google Compute Engine、Cloud SQL、BigQuery和Cloud Storage等多种产品，帮助用户轻松构建、部署和管理应用程序。此外，Google Cloud注重可持续性、成本效益和创新，是组织实现目标的有力合作伙伴。</description>
     </item>
   
     <item>
