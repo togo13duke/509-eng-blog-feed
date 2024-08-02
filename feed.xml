@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Recommendations for Setting Up Your Architecture With AWS &amp; TimescaleDB</title>
+      <link>https://www.timescale.com/blog/recommendations-for-setting-up-your-architecture-with-aws-timescaledb/</link>
+      <description>TimescaleDB是一个基于PostgreSQL的时间序列和数据分析数据库，专为AWS环境设计，提供快速的数据摄入和查询功能。它支持多种AWS服务，如Amazon VPC、AWS Lambda、AWS IoT Core和AWS IoT Greengrass，以简化数据管道和物联网应用的开发。TimescaleDB还提供云托管服务，支持自托管和开源扩展，旨在提高数据库性能和安全性。</description>
+    </item>
+  
+    <item>
+      <title>The Download: making tough decisions with AI, and the significance of toys</title>
+      <link>https://www.technologyreview.com/2024/08/02/1095598/the-download-making-tough-decisions-with-ai-and-the-significance-of-toys/</link>
+      <description>人工智能工具可能帮助人们做出生命终结的决定，但并非适合所有人。该工具基于个人数据预测患者可能的选择，被称为“数字心理孪生”。然而，在将其引入医院或护理环境之前，需要解决许多问题，包括准确性和潜在滥用。同时，玩具和游戏对儿童的科学和数学观念有深远影响，童年玩耍可以塑造我们的未来。</description>
+    </item>
+  
+    <item>
       <title>How Improving a Page Can Make a Software Product Worse</title>
       <link>https://spin.atomicobject.com/improving-page-good-enough/</link>
       <description>文章探讨了在软件产品中，过度追求页面改进可能导致产品变差的现象。作者通过实例说明了在改进页面时，如果不考虑整体性和一致性，可能会造成设计混乱、开发难度增加、用户体验下降等问题。文章建议在改进页面时，应评估改进的必要性，考虑用户、开发和业务的影响，并制定合理的改进计划，以确保改进真正有益于产品。</description>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #215: Fetching Graph Data in Django With Strawberry &amp; Prototype Purgatory</title>
+      <link>https://realpython.com/podcasts/rpp/215/</link>
+      <description>《Real Python Podcast》第215期节目聚焦于在Django中使用Strawberry构建GraphQL API，探讨了原型构建的常见陷阱和开发者与用户之间的误解。此外，还分享了多个Python社区的文章和项目，包括使用HTMX与FastAPI、开发Jupyter Notebooks的macOS应用等。</description>
     </item>
   
     <item>
@@ -45,6 +63,12 @@
       <title>Post-quantum cryptography: An illustrated guide</title>
       <link>https://www.thoughtworks.com/insights/blog/emerging-tech/post-quantum-cryptography-illustrated-guide</link>
       <description>探索量子计算如何应对后量子世界的安全挑战，本文介绍了专家们正在开发的量子机器无法解密的算法，并提供了相关插图指南。</description>
+    </item>
+  
+    <item>
+      <title>Google Ends Plan To Block Cookies, But Businesses Are Way Ahead Of Them</title>
+      <link>https://www.twilio.com/en-us/blog/google-third-party-cookies</link>
+      <description>Google取消阻止cookies的计划，但企业已提前适应无cookies的世界。尽管Google宣布将撤销其从Chrome浏览器中淘汰第三方cookies的计划，但许多营销人员，包括Twilio，早已转向依赖第一方数据，以实现个性化体验与隐私平衡。消费者对隐私的重视、第三方cookies的局限性以及浏览器市场的变化，都促使企业转向更可靠的数据策略。</description>
     </item>
   
     <item>
