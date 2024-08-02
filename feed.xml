@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Improving a Page Can Make a Software Product Worse</title>
+      <link>https://spin.atomicobject.com/improving-page-good-enough/</link>
+      <description>文章探讨了在软件产品中，过度追求页面改进可能导致产品变差的现象。作者通过实例说明了在改进页面时，如果不考虑整体性和一致性，可能会造成设计混乱、开发难度增加、用户体验下降等问题。文章建议在改进页面时，应评估改进的必要性，考虑用户、开发和业务的影响，并制定合理的改进计划，以确保改进真正有益于产品。</description>
+    </item>
+  
+    <item>
       <title>A personalized AI tool might help some reach end-of-life decisions—but it won’t suit everyone</title>
       <link>https://www.technologyreview.com/2024/08/02/1095573/ai-end-of-life-decisions-wont-suit-everyone/</link>
       <description>个性化AI工具可能有助于某些人做出临终决定，但并不适合所有人。这种工具基于个人数据预测患者可能的选择，旨在提高患者自主权。然而，不同文化背景下，家庭和代理人的意见可能更为重要，且AI工具的准确性和潜在滥用问题仍需解决。</description>
@@ -24,9 +30,21 @@
     </item>
   
     <item>
+      <title>Error'd: Planing ahead</title>
+      <link>https://thedailywtf.com/articles/planing-ahead</link>
+      <description>提前规划的重要性：文章讨论了提前规划旅行时遇到的时间差和航班错误，以及JetBlue的行李规则和Captcha系统问题。同时，还提到了其他一些技术错误和趣事，如瑞士公交车的错误和伦敦地铁站标志的网络地址。</description>
+    </item>
+  
+    <item>
       <title>Javier Casares: A netizen in his quest to make the Internet a better place</title>
       <link>https://www.hostinger.com/blog/javier-casares</link>
       <description>Javier Casares是一位致力于改善互联网的网民，自1994年接触互联网以来，他一直在使用WordPress，并自2012年起为WordPress社区做出贡献。他目前是WordPress开源项目的托管团队代表，致力于通过行业合作和用户教育，使WordPress在不同托管提供商上无缝运行。Javier热爱音乐，拥有一个名为“开发者音乐”的Spotify播放列表，并积极参与WordPress社区，分享他的专业知识。他的工作包括编写文档、组织会议、支持西班牙WordPress社区等，同时也在全球范围内推广WordPress。</description>
+    </item>
+  
+    <item>
+      <title>Post-quantum cryptography: An illustrated guide</title>
+      <link>https://www.thoughtworks.com/insights/blog/emerging-tech/post-quantum-cryptography-illustrated-guide</link>
+      <description>探索量子计算如何应对后量子世界的安全挑战，本文介绍了专家们正在开发的量子机器无法解密的算法，并提供了相关插图指南。</description>
     </item>
   
     <item>
