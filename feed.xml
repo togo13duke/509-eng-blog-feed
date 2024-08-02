@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>FLUX: This new AI image generator is eerily good at creating human hands</title>
+      <link>https://arstechnica.com/?p=2040748</link>
+      <description>FLUX.1，一款由Black Forest Labs推出的AI图像生成器，在创建人类手部图像方面表现出色。该模型基于Transformer和扩散技术，具有12亿参数，旨在超越现有选项，如Midjourney和DALL-E。FLUX.1在图像质量和文本提示的遵循度方面优于Stable Diffusion XL，并计划扩展到视频生成领域。</description>
+    </item>
+  
+    <item>
+      <title>How BT Group Built a Smart Event Mesh with Confluent</title>
+      <link>https://www.confluent.io/blog/BT-group-smart-event-mesh/</link>
+      <description>BT集团利用ConfluentCP 7.7构建了智能事件网格，实现了集中式事件流和去中心化客户体验。该平台基于Apache Kafka，提供弹性、灵活性和可扩展性，支持混合云环境，并促进数据共享和自动化，以提升客户体验和业务洞察。</description>
+    </item>
+  
+    <item>
+      <title>Reflecting on CincyAI Week 2024</title>
+      <link>https://8thlight.com/insights/reflecting-on-cincyai-week-2024</link>
+      <description>CincyAI周2024年首次在辛辛那提举行，吸引了众多对人工智能感兴趣的参与者。会议重点讨论了人工智能的伦理问题、治理和社区影响，强调了技术对改善社区生活和知识普及的重要性。8th Light团队与行业专家共同探讨了人工智能在劳动力提升和软件开发实践中的应用，展示了人工智能技术的潜力。</description>
+    </item>
+  
+    <item>
       <title>Exploring Apache Flink 1.20: Features, Improvements, and More</title>
       <link>https://www.confluent.io/blog/exploring-apache-flink-1-20-features-improvements-and-more/</link>
       <description>Apache Flink 1.20版本发布，引入了多项改进和功能，包括Flink SQL性能提升、支持分布式桶分区、引入物化表以优化数据新鲜度管理、并行处理非键流聚合、统一文件合并以优化检查点存储、RocksDB状态后端的小SST文件压缩以及从JobMaster故障中恢复批处理作业的能力。这些更新旨在提高Flink的可用性和稳定性，为开发者提供更强大的流处理功能。</description>
