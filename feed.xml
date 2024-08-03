@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Polynomial dialect and mlir-opt tutorial upstreamed</title>
+      <link>https://www.jeremykun.com/shortform/2024-08-02-1551/</link>
+      <description>作者将编译器工作上传至MLIR项目，包括mlir-opt教程和多项式数学方言的早期版本。他还在学习多项式逼近算法，并计划撰写相关博客文章。</description>
+    </item>
+  
+    <item>
+      <title>Accelerate Feature Engineering With Photon</title>
+      <link>https://www.databricks.com/blog/accelerate-feature-engineering-photon</link>
+      <description>Databricks推出Photon引擎，可加速Spark SQL和DataFrame处理，提高机器学习模型训练效率。通过Photon，ETL和特征工程速度可提升2倍以上，尤其在处理大规模数据集时表现显著。Photon已集成到Databricks Machine Learning Runtime中，用户可通过选择“使用Photon加速”来创建ML Runtime集群，从而简化模型构建过程。</description>
+    </item>
+  
+    <item>
       <title>Forrester: Vendors move to dominate IT management software</title>
       <link>https://www.atlassian.com/blog/it-service-management/forrester-it-management</link>
       <description>Atlassian的IT服务管理（ITSM）解决方案Jira Service Management在市场上获得了显著成功，被超过55,000家组织信任。Forrester的报告指出，IT管理工具市场正趋向于以ServiceNow和Atlassian为中心的双极市场。Atlassian通过收购和整合，构建了覆盖企业功能性的全面组合，并强调快速价值实现、IT运维与开发之间的连接以及AI驱动的服务管理。</description>
