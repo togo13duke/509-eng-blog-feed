@@ -463,12 +463,6 @@
     </item>
   
     <item>
-      <title>Up Your Game: Fundamental Skills for Software&nbsp;Engineers</title>
-      <link>https://ruslanspivak.com/bb02/</link>
-      <description>软件工程师应重视基础知识，如编程语言、软件设计、数据结构与算法、操作系统、数据库和分布式系统等，这些是构建高级技能的基石。掌握这些基础，工程师可以持续学习，保持技能的时效性和竞争力。</description>
-    </item>
-  
-    <item>
       <title>NVIDIA Researchers Harness Real-Time Gen AI to Build Immersive Desert World</title>
       <link>https://blogs.nvidia.com/blog/real-time-3d-generative-ai-research-siggraph-2024/</link>
       <description>NVIDIA研究人员利用实时生成式AI技术，在SIGGRAPH的实时直播活动中展示了如何快速构建沉浸式沙漠世界。通过NVIDIA Edify和Omniverse平台，他们能在几分钟内创建3D沙漠景观，并使用AI代理生成背景资产和环境地图，大幅缩短创意制作时间，提高艺术家的工作效率和创造力。</description>
