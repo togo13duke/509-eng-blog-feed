@@ -6,22 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How to Add a Header to a curl Request</title>
-      <link>https://davidwalsh.name/curl-add-header</link>
-      <description>如何向curl请求添加标题
-本文介绍了如何使用curl工具向HTTP请求中添加自定义标题，以实现更灵活的API测试和文件下载。通过使用`-H`标志，可以轻松添加多个标题，格式为[key]: [value]。例如，添加`accept: application/json`和`Version: 1`标题的curl请求。</description>
-    </item>
-  
-    <item>
       <title>Add a New LVM Thin Pool to Proxmox (Mostly) by Hand</title>
       <link>https://spin.atomicobject.com/adding-a-new-lvm-thin-pool-to-proxmox-mostly-by-hand/</link>
       <description>本文介绍了如何在Proxmox中手动添加一个新的LVM Thin Pool。作者通过创建RAID 1数组、物理卷和卷组，然后创建逻辑卷并将其合并为一个LVM Thin Pool，最后确认Proxmox能够识别新池并基于它添加存储。整个过程涉及多个步骤，但作者提供了详细的命令和解释，使读者能够理解并执行这些操作。</description>
-    </item>
-  
-    <item>
-      <title>Linux: We need Tiling Desktop Environments</title>
-      <link>https://linuxblog.io/linux-tiling-desktop-environments/</link>
-      <description>Linux社区需要更多支持镶嵌式窗口管理的桌面环境，以更好地满足用户多样化的需求。镶嵌式窗口管理可以提高生产力、提供更多定制选项和增强键盘控制，同时充分利用屏幕空间。通过将镶嵌式窗口管理集成到现有桌面环境中，Linux用户可以享受到既高效又完整的桌面体验。</description>
     </item>
   
     <item>
