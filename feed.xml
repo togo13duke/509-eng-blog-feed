@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>[Math] Project Euler 44, solving it using Google OR-tools</title>
+      <link>https://yurichev.com/n/PE_44/</link>
+      <description>本文介绍了使用Google OR-tools解决Project Euler第44题的过程。通过编写Python代码，作者找到了一对满足条件的五角形数，它们的和与差也是五角形数，并最小化了它们的差的绝对值。作者在编写代码时没有数学背景，但通过编程解决了这个问题。</description>
+    </item>
+  
+    <item>
       <title>Polynomial dialect and mlir-opt tutorial upstreamed</title>
       <link>https://www.jeremykun.com/shortform/2024-08-02-1551/</link>
       <description>作者将编译器工作上传至MLIR项目，包括mlir-opt教程和多项式数学方言的早期版本。他还在学习多项式逼近算法，并计划撰写相关博客文章。</description>
