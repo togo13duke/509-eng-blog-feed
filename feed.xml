@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Add a New LVM Thin Pool to Proxmox (Mostly) by Hand</title>
+      <link>https://spin.atomicobject.com/adding-a-new-lvm-thin-pool-to-proxmox-mostly-by-hand/</link>
+      <description>本文介绍了如何在Proxmox中手动添加一个新的LVM Thin Pool。作者通过创建RAID 1数组、物理卷和卷组，然后创建逻辑卷并将其合并为一个LVM Thin Pool，最后确认Proxmox能够识别新池并基于它添加存储。整个过程涉及多个步骤，但作者提供了详细的命令和解释，使读者能够理解并执行这些操作。</description>
+    </item>
+  
+    <item>
       <title>[Math] Project Euler 44, solving it using Google OR-tools</title>
       <link>https://yurichev.com/n/PE_44/</link>
       <description>本文介绍了使用Google OR-tools解决Project Euler第44题的过程。通过编写Python代码，作者找到了一对满足条件的五角形数，它们的和与差也是五角形数，并最小化了它们的差的绝对值。作者在编写代码时没有数学背景，但通过编程解决了这个问题。</description>
@@ -93,6 +99,12 @@
       <title>The Real Python Podcast – Episode #215: Fetching Graph Data in Django With Strawberry &amp; Prototype Purgatory</title>
       <link>https://realpython.com/podcasts/rpp/215/</link>
       <description>《Real Python Podcast》第215期节目聚焦于在Django中使用Strawberry构建GraphQL API，探讨了原型构建的常见陷阱和开发者与用户之间的误解。此外，还分享了多个Python社区的文章和项目，包括使用HTMX与FastAPI、开发Jupyter Notebooks的macOS应用等。</description>
+    </item>
+  
+    <item>
+      <title>Control Plane: A centralized place to manage your data and its settings</title>
+      <link>https://last9.io/changelog/control-plane-a-centralized-place-to-manage-your-data-and-its-settings/</link>
+      <description>Control Plane是一个集中管理数据和设置的平台，用于数据策略、存储、查询和调试。它简化了从Levitate集群到产品设置的访问，并支持组织用户设置和通知通道管理。</description>
     </item>
   
     <item>
