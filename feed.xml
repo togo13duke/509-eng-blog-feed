@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Enum class improvements for C++17, C++20 and C++23</title>
+      <link>https://www.cppstories.com/2024/enum-improvements/</link>
+      <description>C++17至C++23对枚举类进行了多项改进，包括C++17中从底层类型使用花括号初始化、C++20中引入using enum语法以及C++23中的std::to_underlying函数，这些改进增强了枚举类的类型安全性和可用性，使代码更简洁、易于维护。</description>
+    </item>
+  
+    <item>
       <title>How to Add a Header to a curl Request</title>
       <link>https://davidwalsh.name/curl-add-header</link>
       <description>如何向curl请求添加标题
