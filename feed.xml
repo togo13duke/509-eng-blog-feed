@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>How we improved translation experience with cost efficiency</title>
+      <link>https://engineering.grab.com/improved-translation-experience-with-cost-efficiency</link>
+      <description>我们通过优化翻译体验和成本效率，提升了Grab应用的用户体验。我们针对翻译准确性问题，开发了内部翻译模型，并利用上下文信息提高语言检测的准确性。同时，通过缓存和手动翻译系统消息，我们降低了翻译成本。未来，我们将继续扩展模型以支持更多语言和地区，并探索将翻译技术应用于其他内容。</description>
+    </item>
+  
+    <item>
       <title>Supercharge your Rails logs with tags</title>
       <link>https://thoughtbot.com/blog/supercharge-your-rails-logs-with-tags</link>
       <description>使用标签提升Rails日志效率：通过为日志添加标签，可以轻松过滤并关注特定信息，提高日志的可读性和维护性。这种方法不仅适用于开发阶段，也能在长期的生产日志中提供额外上下文，帮助理解系统行为和追踪问题。</description>
