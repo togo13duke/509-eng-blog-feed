@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>Why You Should Hack Your Own APIs</title>
+      <link>https://nordicapis.com/why-you-should-hack-your-own-apis/</link>
+      <description>探索自己的API进行黑客攻击可以帮助开发者以全新的方式思考安全问题。通过分析API漏洞和黑客攻击的动机，开发者可以更好地理解API安全的重要性，并采取相应的措施来保护数据。例如，通过自动化测试、全面测试和持续集成，开发者可以减少API被攻击的风险，从而保护用户数据的安全。</description>
+    </item>
+  
+    <item>
+      <title>How InstructLab enables accessible model fine-tuning for gen AI</title>
+      <link>https://developers.redhat.com/articles/2024/08/05/how-instructlab-enables-accessible-model-fine-tuning-gen-ai</link>
+      <description>InstructLab，由IBM和Red Hat开发的开源项目，旨在通过简化大型语言模型（LLM）的微调过程，使AI模型定制更加普及。该项目通过教师和批评模型协同工作，结合数据分类、合成数据生成和多阶段训练，帮助开发者（和领域专家）高效地优化语言模型，即使在消费级硬件上也能实现。InstructLab通过开放源代码方法促进协作，使不同领域的专业知识能够塑造AI的发展，从而克服模型局限性，创建更准确、可靠的AI解决方案。</description>
+    </item>
+  
+    <item>
+      <title>Best practices for Elasticsearch security</title>
+      <link>https://severalnines.com/blog/best-practices-elasticsearch-security/</link>
+      <description>Elasticsearch安全最佳实践：随着版本更新，Elasticsearch的安全特性已集成并默认启用，包括TLS加密和X-Pack扩展。确保安装时启用安全配置，限制管理员访问，设置强密码，限制节点访问，使用令牌进行身份验证，定期更新密码，集成LDAP或Active Directory进行用户认证，实施基于角色的访问控制，保持数据隔离，启用审计日志，并定期备份数据以增强安全性。</description>
+    </item>
+  
+    <item>
       <title>How we improved translation experience with cost efficiency</title>
       <link>https://engineering.grab.com/improved-translation-experience-with-cost-efficiency</link>
       <description>我们通过优化翻译体验和成本效率，提升了Grab应用的用户体验。我们针对翻译准确性问题，开发了内部翻译模型，并利用上下文信息提高语言检测的准确性。同时，通过缓存和手动翻译系统消息，我们降低了翻译成本。未来，我们将继续扩展模型以支持更多语言和地区，并探索将翻译技术应用于其他内容。</description>
