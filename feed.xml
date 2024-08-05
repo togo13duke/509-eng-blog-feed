@@ -11,5 +11,11 @@
       <description>Beyond Menu通过使用Vercel的Edge Config和Hypertune，成功实现了无缝的A/B测试，优化了其Next.js应用程序的性能和用户体验。这种方法解决了传统工具在服务器端和客户端的局限性，通过在边缘配置中实现零延迟读取，提高了特征标志和A/B测试的效率。</description>
     </item>
   
+    <item>
+      <title>Supercharge your Rails logs with tags</title>
+      <link>https://thoughtbot.com/blog/supercharge-your-rails-logs-with-tags</link>
+      <description>使用标签提升Rails日志效率：通过为日志添加标签，可以轻松过滤并关注特定信息，提高日志的可读性和维护性。这种方法不仅适用于开发阶段，也能在长期的生产日志中提供额外上下文，帮助理解系统行为和追踪问题。</description>
+    </item>
+  
     </channel>
   </rss>
