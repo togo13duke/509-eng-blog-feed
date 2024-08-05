@@ -12,6 +12,30 @@
     </item>
   
     <item>
+      <title>CrowdStrike claps back at Delta, says airline rejected offers for help</title>
+      <link>https://arstechnica.com/?p=2041007</link>
+      <description>CrowdStrike 对 Delta Air Lines 提起诉讼的威胁进行了反击，否认了其因软件更新失败导致数千航班延误的责任，并指出 Delta 制造了误导性叙述。CrowdStrike 的律师表示，Delta 制造了一个关于网络安全公司“极其疏忽”的误导性叙述，而 Delta 表示这一事件将花费其5亿美元。CrowdStrike 还声称 Delta 领导层拒绝了其提供的帮助。</description>
+    </item>
+  
+    <item>
+      <title>#ClouderaLife Employee Spotlight: Stephanie Han</title>
+      <link>https://blog.cloudera.com/clouderalife-employee-spotlight-stephanie-han/</link>
+      <description>Stephanie Han，Cloudera人力资源团队的高级项目经理，自2019年加入公司以来，在员工志愿计划、人才管理和多样性、平等与包容（DEI）项目等方面发挥了关键作用。她从会计职业转型到人力资源，并在Cloudera的DEI团队中建立了青少年加速计划，同时参与全球慈善活动和人才管理。Stephanie致力于通过教育和志愿工作帮助他人成长，并在Cloudera的工作中实现了这一目标。</description>
+    </item>
+  
+    <item>
+      <title>Reaching your peak: How we built our performance management system for the self-motivated</title>
+      <link>https://www.hostinger.com/blog/reaching-your-peak</link>
+      <description>Hostinger公司开发了名为“Peak Performance Pulse”（PPP）的绩效管理系统，旨在激励员工自我成长和提升。该系统通过自我反思、一对一会议、反馈点、360度反馈、团队效能评估和绩效脉搏等工具，帮助员工和经理持续改进和成长。该系统强调反馈和自我意识，旨在提高员工绩效和公司整体表现。</description>
+    </item>
+  
+    <item>
+      <title>The Download: the risks of addictive AI, and hydrogen bikes’ limitations</title>
+      <link>https://www.technologyreview.com/2024/08/05/1095656/download-risks-addictive-ai-hydrogen-bikes/</link>
+      <description>人工智能的潜在风险和氢能源自行车的局限性是本周科技新闻的重点。文章探讨了AI可能对公共话语、贷款决策和创意产业造成的危害，以及AI伴侣可能带来的成瘾风险。同时，介绍了中国氢能源自行车的发展情况，尽管其普及度有限。</description>
+    </item>
+  
+    <item>
       <title>Is the Go Programming Language Worth Using on Your Next Project?</title>
       <link>https://spin.atomicobject.com/go-worth-using/</link>
       <description>Go语言因其简洁的语法和高效的并发模型而受到关注。它借鉴了C语言的语法，但引入了更直观的声明方式，并具有垃圾回收机制，简化了内存管理。Go没有类和继承，而是使用结构体和方法。其类型系统支持接口和泛型，并默认为所有类型提供零值。Go的goroutines提供了轻量级的并发处理，但需要手动管理以避免竞态条件。Go的简洁性有助于避免复杂的编程陷阱，使其成为一个可靠且高效的编程选择。</description>
@@ -66,6 +90,12 @@
     </item>
   
     <item>
+      <title>A checklist for evaluating a search solution in 2024</title>
+      <link>https://algolia.com/blog/algolia/checklist-search-solution-2024/</link>
+      <description>选择合适的搜索解决方案对于提高网站收入和客户满意度至关重要。本文列出了评估搜索解决方案的10个关键因素，包括AI能力、控制、透明度、集成、易用性、全球支持、分析、UI设计、速度和扩展性以及自动化。通过这些因素，企业可以找到满足其业务需求并提供卓越搜索体验的解决方案。</description>
+    </item>
+  
+    <item>
       <title>How we improved translation experience with cost efficiency</title>
       <link>https://engineering.grab.com/improved-translation-experience-with-cost-efficiency</link>
       <description>我们通过优化翻译体验和成本效率，提升了Grab应用的用户体验。我们针对翻译准确性问题，开发了内部翻译模型，并利用上下文信息提高语言检测的准确性。同时，通过缓存和手动翻译系统消息，我们降低了翻译成本。未来，我们将继续扩展模型以支持更多语言和地区，并探索将翻译技术应用于其他内容。</description>
@@ -75,6 +105,12 @@
       <title>Supercharge your Rails logs with tags</title>
       <link>https://thoughtbot.com/blog/supercharge-your-rails-logs-with-tags</link>
       <description>使用标签提升Rails日志效率：通过为日志添加标签，可以轻松过滤并关注特定信息，提高日志的可读性和维护性。这种方法不仅适用于开发阶段，也能在长期的生产日志中提供额外上下文，帮助理解系统行为和追踪问题。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Cloud Serverless is now available in 3 additional regions on AWS</title>
+      <link>https://www.elastic.co/blog/elastic-cloud-serverless-new-aws-regions</link>
+      <description>Elastic Cloud Serverless现可在AWS的三个新区域（爱尔兰、新加坡和美国俄勒冈州）运行，提供搜索、可观察性和安全解决方案，无需管理基础设施，支持无缝扩展。通过云原生Search AI Lake架构，实现无妥协的搜索速度和规模。</description>
     </item>
   
     </channel>
