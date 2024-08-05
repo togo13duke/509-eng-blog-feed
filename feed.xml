@@ -12,6 +12,36 @@
     </item>
   
     <item>
+      <title>Is the Go Programming Language Worth Using on Your Next Project?</title>
+      <link>https://spin.atomicobject.com/go-worth-using/</link>
+      <description>Go语言因其简洁的语法和高效的并发模型而受到关注。它借鉴了C语言的语法，但引入了更直观的声明方式，并具有垃圾回收机制，简化了内存管理。Go没有类和继承，而是使用结构体和方法。其类型系统支持接口和泛型，并默认为所有类型提供零值。Go的goroutines提供了轻量级的并发处理，但需要手动管理以避免竞态条件。Go的简洁性有助于避免复杂的编程陷阱，使其成为一个可靠且高效的编程选择。</description>
+    </item>
+  
+    <item>
+      <title>Connection and Community at PEER Week 2024</title>
+      <link>https://product.hubspot.com/blog/peerweek-2024</link>
+      <description>HubSpot于2024年第二季度举办了年度PEER周活动，员工们从全球各地聚集在马萨诸塞州剑桥和爱尔兰都柏林，进行团队建设、社交互动和协作。此次活动旨在加强产品与工程团队的连接和社区感，为员工提供独特的文化体验。</description>
+    </item>
+  
+    <item>
+      <title>Likelihood-ratio inference on differences in quantiles</title>
+      <link>https://arxiv.org/abs/2401.10233</link>
+      <description>本文提出了一种新的两样本分位数差异假设检验和置信区间方法，基于似然比检验统计量。该方法不涉及密度估计器，可以仅使用每个样本中的四个顺序统计量来计算。</description>
+    </item>
+  
+    <item>
+      <title>We need to prepare for ‘addictive intelligence’</title>
+      <link>https://www.technologyreview.com/2024/08/05/1095600/we-need-to-prepare-for-addictive-intelligence/</link>
+      <description>人工智能伴侣的吸引力难以抗拒，但它们可能带来严重的风险。文章指出，AI伴侣可能导致成瘾，影响人际关系，并可能加剧社会隔离。为了应对这些风险，需要新的科学研究和AI监管方法，包括在技术设计中嵌入安全措施，以及通过经济激励措施来减少成瘾性。同时，文章呼吁研究人员、政策制定者和伦理学家共同努力，确保AI技术的发展能够促进人类福祉。</description>
+    </item>
+  
+    <item>
+      <title>Hydrogen bikes are struggling to gain traction in China</title>
+      <link>https://www.technologyreview.com/2024/08/05/1095637/china-hydrogen-shared-bike-youon/</link>
+      <description>中国正在多个城市尝试推广氢能源共享自行车，以替代传统的电动自行车，后者因锂电池的安全问题而受到限制。尽管氢能源自行车被认为更安全，但它们在能源效率和经济性方面不如电动自行车，且用户体验不佳，如重量大、操作不便等。尽管如此，中国政府对氢能源产业的支持正在增加，未来氢能源自行车的发展仍存在不确定性。</description>
+    </item>
+  
+    <item>
       <title>Why You Should Hack Your Own APIs</title>
       <link>https://nordicapis.com/why-you-should-hack-your-own-apis/</link>
       <description>探索自己的API进行黑客攻击可以帮助开发者以全新的方式思考安全问题。通过分析API漏洞和黑客攻击的动机，开发者可以更好地理解API安全的重要性，并采取相应的措施来保护数据。例如，通过自动化测试、全面测试和持续集成，开发者可以减少API被攻击的风险，从而保护用户数据的安全。</description>
@@ -27,6 +57,12 @@
       <title>Best practices for Elasticsearch security</title>
       <link>https://severalnines.com/blog/best-practices-elasticsearch-security/</link>
       <description>Elasticsearch安全最佳实践：随着版本更新，Elasticsearch的安全特性已集成并默认启用，包括TLS加密和X-Pack扩展。确保安装时启用安全配置，限制管理员访问，设置强密码，限制节点访问，使用令牌进行身份验证，定期更新密码，集成LDAP或Active Directory进行用户认证，实施基于角色的访问控制，保持数据隔离，启用审计日志，并定期备份数据以增强安全性。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Catch or Else</title>
+      <link>https://thedailywtf.com/articles/catch-or-else</link>
+      <description>这篇文章讨论了TypeScript代码中一个嵌套的Promise结构，指出代码中处理错误的方式可能存在问题，因为无论请求失败的原因是什么，都会调用`loadFromServerAndShowMessage`方法，而没有针对连接问题进行特殊处理。作者推测整个代码库可能缺乏模块化和健壮性，可能存在难以复现和修复的bug。</description>
     </item>
   
     <item>
