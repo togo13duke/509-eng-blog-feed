@@ -12,30 +12,6 @@
     </item>
   
     <item>
-      <title>Call me Disabled, and nothing else</title>
-      <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/Call-me-Disabled-and-nothing-else</link>
-      <description>五年前，作者曾反对使用“残疾人”一词，但如今他接受了这个标签，并认识到社会对残疾的看法正在逐渐改变。他放弃了“特殊能力”的假设，并开始庆祝“残疾骄傲月”，呼吁社会包容和尊重残疾人，通过改变语言和态度来推动社会变革。</description>
-    </item>
-  
-    <item>
-      <title>The backbone behind Cloudflare’s Connectivity Cloud</title>
-      <link>https://blog.cloudflare.com/backbone2024</link>
-      <description>Cloudflare的全球骨干网络在2024年已扩展至覆盖330个城市和120多个国家，通过海底电缆和陆地光纤连接数据中心，提供高速、可靠的数据传输。该网络采用对等连接和IP转接技术，优化数据路由，降低延迟，并支持数据本地化，帮助客户遵守数据隐私法规。通过不断扩展网络容量和优化性能，Cloudflare致力于构建更高效、更安全的互联网连接。</description>
-    </item>
-  
-    <item>
-      <title>Plain Vanilla Websites</title>
-      <link>https://freek.dev/2744-plain-vanilla-websites</link>
-      <description>本文探讨了使用编辑器、浏览器和网页标准，不依赖构建工具或框架制作网站和Web应用的技巧。作者Freek Van der Herten分享了他对Laravel、PHP和JavaScript的见解，并定期通过邮件通讯分享编程技巧和项目经验。</description>
-    </item>
-  
-    <item>
-      <title>The Download: climate-friendlier air conditioners, and fighting explicit deepfakes</title>
-      <link>https://www.technologyreview.com/2024/08/06/1095788/the-download-climate-friendlier-air-conditioners-and-fighting-explicit-deepfakes/</link>
-      <description>今日科技动态：新型节能空调技术，可储存能量的空调有望减少全球电力需求；谷歌采取措施打击非自愿深度伪造内容，以应对AI带来的风险；美国法官裁定谷歌搜索垄断非法，可能改变整个互联网的结构。</description>
-    </item>
-  
-    <item>
       <title>Avoid These 3 Things When Working with Microservices</title>
       <link>https://spin.atomicobject.com/avoid-three-things-microservices/</link>
       <description>避免在微服务工作中犯的三个错误：忽视文档、不一致的编码实践和引入不必要的复杂性。良好的文档、一致的编码标准和避免过度复杂化是构建成功和可维护的微服务架构的关键。</description>
@@ -102,12 +78,6 @@
     </item>
   
     <item>
-      <title>Elastic accelerates SIEM data onboarding with Automatic Import powered by Search AI</title>
-      <link>https://www.elastic.co/blog/automatic-import-ai-data-integration-builder</link>
-      <description>Elastic公司推出了一项名为“Automatic Import”的新功能，通过搜索AI自动化SIEM数据导入，大幅缩短了数据集成的时间，从几天缩短到不到10分钟。这项功能利用生成式AI和Elastic Search AI平台，简化了SIEM迁移过程，提高了安全团队对IT环境的可见性。</description>
-    </item>
-  
-    <item>
       <title>Mac and Windows users infected by software updates delivered over hacked ISP</title>
       <link>https://arstechnica.com/?p=2041175</link>
       <description>研究人员发现，黑客通过入侵互联网服务提供商（ISP）并篡改软件更新，向Windows和Mac用户传播恶意软件。攻击者利用对网络基础设施的控制，通过DNS投毒将目标用户重定向到恶意服务器，即使用户使用了Google或Cloudflare等非加密公共DNS服务。受影响的软件包括5KPlayer、Quick Heal、Rainmeter等。安全专家建议用户避免使用不安全的软件更新，并考虑使用DNS over HTTPS或DNS over TLS来保护自己。</description>
@@ -117,12 +87,6 @@
       <title>Datasette 1.0a14: The annotated release notes</title>
       <link>https://simonwillison.net/2024/Aug/5/datasette-1a14/#atom-entries</link>
       <description>Datasette 1.0a14版本发布，引入了重大更新，包括将元数据存储在数据库中，改进了SQLite隔离级别，并更新了URL设计。此外，还修复了多个bug，并提供了更好的文档和测试支持。</description>
-    </item>
-  
-    <item>
-      <title>[Math] Cracking Wi-Fi password using combinatorics</title>
-      <link>https://yurichev.com/n/wifi_comb/</link>
-      <description>作者讲述了自己在酒店忘记Wi-Fi密码后，通过组合数学方法尝试破解密码的经历。他使用Python编写脚本，结合酒店名、城市名、数字和特殊字符进行组合，最终成功破解密码“hiltonhotel_10”。作者还分享了一些关于密码破解的技巧和注意事项。</description>
     </item>
   
     <item>
