@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>Mac and Windows users infected by software updates delivered over hacked ISP</title>
+      <link>https://arstechnica.com/?p=2041175</link>
+      <description>研究人员发现，黑客通过入侵互联网服务提供商（ISP）并篡改软件更新，向Windows和Mac用户传播恶意软件。攻击者利用对网络基础设施的控制，通过DNS投毒将目标用户重定向到恶意服务器，即使用户使用了Google或Cloudflare等非加密公共DNS服务。受影响的软件包括5KPlayer、Quick Heal、Rainmeter等。安全专家建议用户避免使用不安全的软件更新，并考虑使用DNS over HTTPS或DNS over TLS来保护自己。</description>
+    </item>
+  
+    <item>
+      <title>Datasette 1.0a14: The annotated release notes</title>
+      <link>https://simonwillison.net/2024/Aug/5/datasette-1a14/#atom-entries</link>
+      <description>Datasette 1.0a14版本发布，引入了重大更新，包括将元数据存储在数据库中，改进了SQLite隔离级别，并更新了URL设计。此外，还修复了多个bug，并提供了更好的文档和测试支持。</description>
+    </item>
+  
+    <item>
+      <title>Investigation of a Cross-regional Network Performance Issue</title>
+      <link>https://netflixtechblog.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1?source=rss----2615bd06b42e---4</link>
+      <description>Netflix技术博客发表了一篇关于跨区域网络性能问题调查的文章。文章详细描述了Netflix云网络工程团队如何调查并解决一个影响跨区域应用的网络问题。问题最初被归咎于网络性能不佳，但经过深入分析，发现是由于客户端应用程序在30秒内未能从服务器读取数据而主动关闭连接。最终，问题被追溯到Linux内核升级导致TCP接收窗口大小减半，影响了数据传输效率。通过调整内核参数和应用程序配置，问题得到了解决。</description>
+    </item>
+  
+    <item>
       <title>Free Webinar: Apple Intelligence in Action: Applying Smart Features to Your Apps [FREE]</title>
       <link>https://www.kodeco.com/45627757-free-webinar-apple-intelligence-in-action-applying-smart-features-to-your-apps</link>
       <description>Kodeco将举办一场免费网络研讨会，主题为“苹果智能应用：将智能功能应用于您的应用”，于2024年8月13日举行。研讨会将探讨苹果智能如何提升应用体验，并展示如何使用写作工具和Siri增强用户体验。适合iOS开发者、技术爱好者、产品经理和UI/UX设计师参加。</description>
