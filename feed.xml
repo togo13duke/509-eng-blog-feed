@@ -12,12 +12,6 @@
     </item>
   
     <item>
-      <title>Unpacking the 2024 Developer Survey results</title>
-      <link>https://stackoverflow.blog/2024/08/06/2024-developer-survey/</link>
-      <description>2024年开发者调查结果揭示了最受欢迎的技术、编程语言、AI编码工具的使用感受以及全球开发者社区的情况。调查发现JavaScript、HTML、Python等编程语言最受欢迎，Rust语言兴起，嵌入式技术如Raspberry Pi和Arduino受欢迎，开发者对AI持积极态度，技术债务成为开发者主要困扰。</description>
-    </item>
-  
-    <item>
       <title>Mac and Windows users infected by software updates delivered over hacked ISP</title>
       <link>https://arstechnica.com/?p=2041175</link>
       <description>研究人员发现，黑客通过入侵互联网服务提供商（ISP）并篡改软件更新，向Windows和Mac用户传播恶意软件。攻击者利用对网络基础设施的控制，通过DNS投毒将目标用户重定向到恶意服务器，即使用户使用了Google或Cloudflare等非加密公共DNS服务。受影响的软件包括5KPlayer、Quick Heal、Rainmeter等。安全专家建议用户避免使用不安全的软件更新，并考虑使用DNS over HTTPS或DNS over TLS来保护自己。</description>
