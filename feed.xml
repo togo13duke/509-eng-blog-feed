@@ -12,27 +12,9 @@
     </item>
   
     <item>
-      <title>Avoid These 3 Things When Working with Microservices</title>
-      <link>https://spin.atomicobject.com/avoid-three-things-microservices/</link>
-      <description>避免在微服务工作中犯的三个错误：忽视文档、不一致的编码实践和引入不必要的复杂性。良好的文档、一致的编码标准和避免过度复杂化是构建成功和可维护的微服务架构的关键。</description>
-    </item>
-  
-    <item>
-      <title>High-Performance Java Persistence Newsletter, Issue 65</title>
-      <link>https://vladmihalcea.com/high-performance-java-persistence-newsletter-issue-65/</link>
-      <description>《高性能Java持久化》第65期Newsletter主要介绍了Hypersistence Optimizer工具，该工具可自动检测JPA和Hibernate的性能问题。此外，还分享了关于MySQL在线模式迁移、One Million Checkboxes网站扩展、MySQL性能调优等文章，以及Hibernate 7、MySQL 8.0.39等新版本发布信息。</description>
-    </item>
-  
-    <item>
       <title>Damaged application error when developing for Mac</title>
       <link>https://akrabat.com/damaged-application-error-when-developing-for-mac/</link>
       <description>Mac应用开发中遇到的损坏应用错误：在更新Daily Jotter应用时，作者Rob Allen遇到了应用无法启动的问题，通过调试和日志分析发现是测试账户中登录了真实用户导致的。通过切换到测试账户并清理Xcode构建文件夹后，问题得到解决。</description>
-    </item>
-  
-    <item>
-      <title>Your future air conditioner might act like a battery</title>
-      <link>https://www.technologyreview.com/2024/08/06/1095707/air-conditioner-battery/</link>
-      <description>未来空调可能像电池一样储存冷却能量，以减少对电网的压力。新技术如Nostromo Energy的IceBrick系统，通过夜间充电，白天释放冷却能量，帮助降低高峰时段的能源需求。此外，Blue Frontier使用吸湿剂技术，通过吸收空气中的水分来冷却，提高能效。这些创新技术有望在减少对电网压力的同时，提高空调系统的能效。</description>
     </item>
   
     <item>
@@ -63,12 +45,6 @@
       <title>Red Hat OpenShift AI and machine learning operations</title>
       <link>https://developers.redhat.com/articles/2024/08/06/red-hat-openshift-ai-and-machine-learning-operations</link>
       <description>Red Hat OpenShift AI是一个支持数据科学家和开发者高效协作的平台，用于创建和部署可扩展的数据科学项目。它基于OpenShift，提供容器化环境，支持混合云部署，并与Anaconda、Intel、IBM和NVIDIA等AI厂商合作。OpenShift AI包括工作台、集群存储、数据连接、数据科学管道和模型服务等关键组件，旨在简化机器学习和数据科学工作流程。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: Required Requirements</title>
-      <link>https://thedailywtf.com/articles/required-requirements</link>
-      <description>Remy Porter在TDWTF上撰文，讨论了一个团队在处理表单验证时采取的低效方法。他们通过数据库跟踪字段名称和验证要求，然后使用CSS类和JavaScript在HTML中添加星号标记必填字段。然而，他们实际上并没有使用数据库信息，而是直接在HTML中硬编码了这些信息，并引入了jQuery库仅为了处理必填字段。这种方法虽然可行，但效率低下，且引入了不必要的复杂性。</description>
     </item>
   
     <item>
