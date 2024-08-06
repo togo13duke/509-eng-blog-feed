@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>Damaged application error when developing for Mac</title>
+      <link>https://akrabat.com/damaged-application-error-when-developing-for-mac/</link>
+      <description>Mac应用开发中遇到的损坏应用错误：在更新Daily Jotter应用时，作者Rob Allen遇到了应用无法启动的问题，通过调试和日志分析发现是测试账户中登录了真实用户导致的。通过切换到测试账户并清理Xcode构建文件夹后，问题得到解决。</description>
+    </item>
+  
+    <item>
+      <title>Online Assets Workshop</title>
+      <link>https://code.blender.org/2024/08/online-assets-workshop/</link>
+      <description>Blender开发者社区于2024年7月举办了关于在线资产库的研讨会，旨在提升Blender的用户体验。研讨会讨论了在线资产库的设计，包括远程资产库的集成、资产变体、表示和版本的管理，以及资产的组织和搜索功能。项目目标是改善资产管理系统，并计划推出远程资产库和在线资源，以增强Blender的扩展性和用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Google is finally taking action to curb non-consensual deepfakes</title>
+      <link>https://www.technologyreview.com/2024/08/06/1095774/google-is-finally-taking-action-to-curb-non-consensual-deepfakes/</link>
+      <description>谷歌开始采取措施遏制非自愿深度伪造，包括在搜索结果中屏蔽相关内容，并简化受害者请求删除非法图像的流程。此外，英国和欧盟也出台了相关法规，以规范深度伪造内容的创建和分发。尽管取得了一些进展，但仍需更多努力来打击这一问题。</description>
+    </item>
+  
+    <item>
       <title>Unpacking the 2024 Developer Survey results</title>
       <link>https://stackoverflow.blog/2024/08/06/2024-developer-survey/</link>
       <description>2024年开发者调查结果揭示了最受欢迎的技术、编程语言、AI编码工具的使用感受以及全球开发者社区的情况。调查发现JavaScript、HTML、Python等编程语言最受欢迎，Rust语言兴起，嵌入式技术如Raspberry Pi和Arduino受欢迎，开发者对AI持积极态度，技术债务成为开发者主要困扰。</description>
