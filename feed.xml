@@ -18,9 +18,51 @@
     </item>
   
     <item>
+      <title>Amazon Titan Image Generator v2 is now available in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/</link>
+      <description>Amazon Titan Image Generator v2 现已可在 Amazon Bedrock 中使用，新增了图像条件、颜色调色板、背景移除和主题一致性等功能，可指导图像创建、编辑、去除背景、生成图像变体，并安全地定制模型以保持品牌风格和主题一致性。</description>
+    </item>
+  
+    <item>
+      <title>The Surrender of the Gods, part 2</title>
+      <link>https://blog.rootsofprogress.org/thm-ch-2-the-surrender-of-the-gods-part-2</link>
+      <description>人类进步的故事是逐渐摆脱神灵控制，掌握自身命运的过程。文章批判了“与自然和谐共处”的浪漫观念，指出自然并非慈母，而是充满冲突和竞争的。作者主张人类应通过理性和技术，掌握自然，而非屈服于其不可理喻的要求。文章强调，人类应珍惜自然，但不应将其原始状态视为理想，而应通过工程和科技提升其价值，实现人类福祉。</description>
+    </item>
+  
+    <item>
+      <title>The Surrender of the Gods, part 2</title>
+      <link>https://blog.rootsofprogress.org/thm-ch2-the-surrender-of-the-gods-part-2</link>
+      <description>人类进步的故事是逐渐摆脱神灵控制，掌握自身命运的过程。文章批判了“与自然和谐共处”的浪漫观念，指出自然并非慈母，而是充满冲突和竞争的。作者主张人类应通过理性和技术，掌握自然，而非屈服于其不可理喻的要求。文章强调，人类应珍惜自然，但不应将其原始状态视为理想，而应通过工程和科技提升其价值，实现人类福祉。</description>
+    </item>
+  
+    <item>
+      <title>How to Use Data Cloud AI Model Predictions in Flow</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/how-to-use-data-cloud-ai-model-predictions-in-flow.html</link>
+      <description>本文介绍了如何在Salesforce中使用数据云AI模型预测来驱动业务流程。通过Einstein Studio创建预测模型，并将预测结果应用于Salesforce Flow中，以优化动物领养流程。通过分析动物记录，预测领养可能性，并利用Slack进行协作，提高领养成功率。</description>
+    </item>
+  
+    <item>
+      <title>Meet the Maker: High School Student Develops Robot Guide Dogs With NVIDIA Jetson</title>
+      <link>https://blogs.nvidia.com/blog/selin-ornek-robot-guide-dogs/</link>
+      <description>土耳其高中生Selin Alara Ornek利用NVIDIA Jetson平台开发了一款名为IC4U的机器人导盲犬，旨在帮助视障人士。这款机器人集成了多种传感器和AI技术，能够模仿真实导盲犬的行为，帮助用户避开障碍物、识别交通信号和货币面额。Ornek计划将IC4U应用于智能城市，并希望鼓励更多年轻人探索科技。</description>
+    </item>
+  
+    <item>
       <title>Navigating the new frontier of developer productivity with AI</title>
       <link>https://www.atlassian.com/blog/devops/navigating-the-new-frontier-of-developer-productivity-with-ai</link>
       <description>AI正在重塑开发者工作流程，本文探讨了如何利用AI工具提高开发者生产力和体验。关键点包括设定合理期望、投资培训、分阶段部署、结合定量和定性数据，以及利用内部开发者平台来改善知识共享。</description>
+    </item>
+  
+    <item>
+      <title>Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs</title>
+      <link>http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html</link>
+      <description>Android开发者博客宣布，Android设备流功能现已开放早期访问，允许开发者通过Google数据中心流式传输并测试应用。三星、小米和OPPO等制造商的设备实验室已接入该服务，开发者可在Android Studio中直接访问更多物理设备。通过Firebase项目，开发者可以注册早期访问计划，使用OEM提供的设备进行测试，无需额外费用。</description>
+    </item>
+  
+    <item>
+      <title>Weeknotes: a staging environment, a Datasette alpha and a bunch of new LLMs</title>
+      <link>https://simonwillison.net/2024/Aug/6/staging/#atom-entries</link>
+      <description>在过去的两周里，作者完成了Datasette Cloud的预发布环境，发布了Datasette 1.0 alpha版本，并支持了多个新发布的LLM模型。新环境包括一个Go编写的路由应用、一个Django应用和Datasette容器，旨在提高迭代速度和安全性。同时，作者还介绍了对Llama 3.1和Mistral模型的插件支持，以及一系列数据工具和知识点的更新。</description>
     </item>
   
     <item>
@@ -36,9 +78,27 @@
     </item>
   
     <item>
+      <title>It rather involved being on the other side of the airtight hatchway: Disabling a security feature as an administrator</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240806-00/?p=110103</link>
+      <description>文章探讨了管理员在系统中禁用安全功能的问题。指出，尽管存在报告称管理员可以绕过安全功能，但实际上，这并不是一个真正的安全漏洞，因为要执行此类操作，用户必须已经是系统管理员。文章强调，管理员权限是必要的，并且通常可以通过设置界面直接禁用安全功能，而不需要复杂的步骤。</description>
+    </item>
+  
+    <item>
       <title>The backbone behind Cloudflare’s Connectivity Cloud</title>
       <link>https://blog.cloudflare.com/backbone2024</link>
       <description>Cloudflare的全球骨干网络在2024年已扩展至覆盖330个城市和120多个国家，通过海底电缆和陆地光纤连接数据中心，提供高速、可靠的数据传输。该网络采用对等连接和IP转接技术，优化数据路由，降低延迟，并支持数据本地化，帮助客户遵守数据隐私法规。通过不断扩展网络容量和优化性能，Cloudflare致力于构建更高效、更安全的互联网连接。</description>
+    </item>
+  
+    <item>
+      <title>How to integrate AI into your business</title>
+      <link>https://vercel.com/blog/how-to-integrate-ai-into-your-business</link>
+      <description>如何将人工智能融入您的业务：Vercel提供了一个战略指南和框架，帮助您找到合适的AI功能并得到组织内部的支持。通过评估潜在用例、建立关键绩效指标（KPIs）以及利用Vercel的前端优先方法，您可以加速AI项目并实现创新。</description>
+    </item>
+  
+    <item>
+      <title>Vercel AI SDK 3.3</title>
+      <link>https://vercel.com/blog/vercel-ai-sdk-3-3</link>
+      <description>Vercel AI SDK 3.3新增了四大功能：追踪、多模态文件附件、useObject钩子和额外的LLM设置。这些功能增强了AI应用的构建和可观察性，支持多种文件类型和结构化数据生成，同时提供了更灵活的模型调用控制。</description>
     </item>
   
     <item>
@@ -111,6 +171,12 @@
       <title>CodeSOD: Required Requirements</title>
       <link>https://thedailywtf.com/articles/required-requirements</link>
       <description>Remy Porter在TDWTF上撰文，讨论了一个团队在处理表单验证时采取的低效方法。他们通过数据库跟踪字段名称和验证要求，然后使用CSS类和JavaScript在HTML中添加星号标记必填字段。然而，他们实际上并没有使用数据库信息，而是直接在HTML中硬编码了这些信息，并引入了jQuery库仅为了处理必填字段。这种方法虽然可行，但效率低下，且引入了不必要的复杂性。</description>
+    </item>
+  
+    <item>
+      <title>Announcing the General Availability of Row and Column Level Security with Databricks Unity Catalog</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-row-and-column-level-security-databricks-unity-catalog</link>
+      <description>Databricks宣布在Unity Catalog中推出行和列级安全功能，通过行过滤器（Row Filters）和列掩码（Column Masks）提供细粒度的数据访问控制。这一功能允许用户定义行和列的访问权限，确保数据安全并满足合规性要求。通过使用标准SQL函数，用户可以创建行过滤器来控制特定用户或组可见的表行子集，以及使用列掩码来根据维度隐藏或修改表值。这些功能有助于简化数据管理，提高数据安全性。</description>
     </item>
   
     <item>
