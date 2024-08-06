@@ -18,6 +18,24 @@
     </item>
   
     <item>
+      <title>10 Tools For API Contract Testing</title>
+      <link>https://nordicapis.com/10-tools-for-api-contract-testing/</link>
+      <description>本文介绍了10种API合同测试工具，包括PactFlow、HyperTest、Spring Cloud Contract、Dredd、Karate、REST Assured、Microcks、Assertible、WireMock和Postman。每种工具都有其优点和缺点，适用于不同的测试需求和场景。这些工具可以帮助开发者确保API按照预期工作，提高API开发的可靠性和效率。</description>
+    </item>
+  
+    <item>
+      <title>Red Hat OpenShift AI and machine learning operations</title>
+      <link>https://developers.redhat.com/articles/2024/08/06/red-hat-openshift-ai-and-machine-learning-operations</link>
+      <description>Red Hat OpenShift AI是一个支持数据科学家和开发者高效协作的平台，用于创建和部署可扩展的数据科学项目。它基于OpenShift，提供容器化环境，支持混合云部署，并与Anaconda、Intel、IBM和NVIDIA等AI厂商合作。OpenShift AI包括工作台、集群存储、数据连接、数据科学管道和模型服务等关键组件，旨在简化机器学习和数据科学工作流程。</description>
+    </item>
+  
+    <item>
+      <title>Keeping a check on queries in Laravel</title>
+      <link>https://www.amitmerchant.com/keep-check-on-queries-in-laravel/</link>
+      <description>Laravel中监控查询对于保持应用性能和可扩展性至关重要。本文介绍了两种监控方法：记录所有查询和仅记录慢查询。通过DB::listen和DB::whenQueryingForLongerThan方法，可以有效地跟踪和优化数据库查询。</description>
+    </item>
+  
+    <item>
       <title>Mac and Windows users infected by software updates delivered over hacked ISP</title>
       <link>https://arstechnica.com/?p=2041175</link>
       <description>研究人员发现，黑客通过入侵互联网服务提供商（ISP）并篡改软件更新，向Windows和Mac用户传播恶意软件。攻击者利用对网络基础设施的控制，通过DNS投毒将目标用户重定向到恶意服务器，即使用户使用了Google或Cloudflare等非加密公共DNS服务。受影响的软件包括5KPlayer、Quick Heal、Rainmeter等。安全专家建议用户避免使用不安全的软件更新，并考虑使用DNS over HTTPS或DNS over TLS来保护自己。</description>
@@ -147,6 +165,12 @@
       <title>Connection and Community at PEER Week 2024</title>
       <link>https://product.hubspot.com/blog/peerweek-2024</link>
       <description>HubSpot于2024年第二季度举办了年度PEER周活动，员工们从全球各地聚集在马萨诸塞州剑桥和爱尔兰都柏林，进行团队建设、社交互动和协作。此次活动旨在加强产品与工程团队的连接和社区感，为员工提供独特的文化体验。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Functional Programming in Python: When and How to Use It</title>
+      <link>https://realpython.com/quizzes/python-functional-programming/</link>
+      <description>本文章为Python函数式编程的测验，旨在检验读者对函数式编程范式、Python中函数作为一等公民的概念、lambda关键字的使用以及如何使用map()、filter()和reduce()实现函数式代码的理解。测验包含10个问题，无时间限制，每答对一题得1分，最终获得总分，最高分为100%。</description>
     </item>
   
     <item>
