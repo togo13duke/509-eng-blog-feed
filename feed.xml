@@ -18,20 +18,8 @@
     </item>
   
     <item>
-      <title>Amazon Titan Image Generator v2 is now available in Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/</link>
-      <description>Amazon Titan Image Generator v2 现已可在 Amazon Bedrock 中使用，新增了图像条件、颜色调色板、背景移除和主题一致性等功能，可指导图像创建、编辑、去除背景、生成图像变体，并安全地定制模型以保持品牌风格和主题一致性。</description>
-    </item>
-  
-    <item>
       <title>The Surrender of the Gods, part 2</title>
       <link>https://blog.rootsofprogress.org/thm-ch-2-the-surrender-of-the-gods-part-2</link>
-      <description>人类进步的故事是逐渐摆脱神灵控制，掌握自身命运的过程。文章批判了“与自然和谐共处”的浪漫观念，指出自然并非慈母，而是充满冲突和竞争的。作者主张人类应通过理性和技术，掌握自然，而非屈服于其不可理喻的要求。文章强调，人类应珍惜自然，但不应将其原始状态视为理想，而应通过工程和科技提升其价值，实现人类福祉。</description>
-    </item>
-  
-    <item>
-      <title>The Surrender of the Gods, part 2</title>
-      <link>https://blog.rootsofprogress.org/thm-ch2-the-surrender-of-the-gods-part-2</link>
       <description>人类进步的故事是逐渐摆脱神灵控制，掌握自身命运的过程。文章批判了“与自然和谐共处”的浪漫观念，指出自然并非慈母，而是充满冲突和竞争的。作者主张人类应通过理性和技术，掌握自然，而非屈服于其不可理喻的要求。文章强调，人类应珍惜自然，但不应将其原始状态视为理想，而应通过工程和科技提升其价值，实现人类福祉。</description>
     </item>
   
@@ -93,12 +81,6 @@
       <title>How to integrate AI into your business</title>
       <link>https://vercel.com/blog/how-to-integrate-ai-into-your-business</link>
       <description>如何将人工智能融入您的业务：Vercel提供了一个战略指南和框架，帮助您找到合适的AI功能并得到组织内部的支持。通过评估潜在用例、建立关键绩效指标（KPIs）以及利用Vercel的前端优先方法，您可以加速AI项目并实现创新。</description>
-    </item>
-  
-    <item>
-      <title>Vercel AI SDK 3.3</title>
-      <link>https://vercel.com/blog/vercel-ai-sdk-3-3</link>
-      <description>Vercel AI SDK 3.3新增了四大功能：追踪、多模态文件附件、useObject钩子和额外的LLM设置。这些功能增强了AI应用的构建和可观察性，支持多种文件类型和结构化数据生成，同时提供了更灵活的模型调用控制。</description>
     </item>
   
     <item>
@@ -171,12 +153,6 @@
       <title>CodeSOD: Required Requirements</title>
       <link>https://thedailywtf.com/articles/required-requirements</link>
       <description>Remy Porter在TDWTF上撰文，讨论了一个团队在处理表单验证时采取的低效方法。他们通过数据库跟踪字段名称和验证要求，然后使用CSS类和JavaScript在HTML中添加星号标记必填字段。然而，他们实际上并没有使用数据库信息，而是直接在HTML中硬编码了这些信息，并引入了jQuery库仅为了处理必填字段。这种方法虽然可行，但效率低下，且引入了不必要的复杂性。</description>
-    </item>
-  
-    <item>
-      <title>Announcing the General Availability of Row and Column Level Security with Databricks Unity Catalog</title>
-      <link>https://www.databricks.com/blog/announcing-general-availability-row-and-column-level-security-databricks-unity-catalog</link>
-      <description>Databricks宣布在Unity Catalog中推出行和列级安全功能，通过行过滤器（Row Filters）和列掩码（Column Masks）提供细粒度的数据访问控制。这一功能允许用户定义行和列的访问权限，确保数据安全并满足合规性要求。通过使用标准SQL函数，用户可以创建行过滤器来控制特定用户或组可见的表行子集，以及使用列掩码来根据维度隐藏或修改表值。这些功能有助于简化数据管理，提高数据安全性。</description>
     </item>
   
     <item>
