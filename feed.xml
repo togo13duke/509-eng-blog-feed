@@ -18,24 +18,6 @@
     </item>
   
     <item>
-      <title>Navigating the new frontier of developer productivity with AI</title>
-      <link>https://www.atlassian.com/blog/devops/navigating-the-new-frontier-of-developer-productivity-with-ai</link>
-      <description>AI正在重塑开发者工作流程，本文探讨了如何利用AI工具提高开发者生产力和体验。关键点包括设定合理期望、投资培训、分阶段部署、结合定量和定性数据，以及利用内部开发者平台来改善知识共享。</description>
-    </item>
-  
-    <item>
-      <title>Editor’s Paradise: NVIDIA RTX-Powered Video Software CyberLink PowerDirector Gains High-Efficiency Video Coding Upgrades</title>
-      <link>https://blogs.nvidia.com/blog/studio-hevc-rtx-ai-august-driver/</link>
-      <description>NVIDIA的RTX技术为CyberLink PowerDirector等视频编辑软件提供了高效视频编码功能，大幅提升视频质量。同时，Adobe Substance 3D Modeler、SideFX Houdini和Topaz Video AI Pro等创意应用也因RTX加速而性能提升。此外，艺术家Stavros Liaskos利用NVIDIA Omniverse平台制作了希腊文化遗址的3D虚拟复制品，为文化遗产保护贡献力量。</description>
-    </item>
-  
-    <item>
-      <title>Interacting With REST APIs and Python</title>
-      <link>https://realpython.com/courses/interacting-rest-apis-python/</link>
-      <description>学习Python与REST API交互：本课程深入探讨REST架构风格，教授如何使用Python从REST API获取数据，以及构建自己的Python REST API。涵盖REST架构、API访问、使用requests库、构建API步骤和常用工具。</description>
-    </item>
-  
-    <item>
       <title>The backbone behind Cloudflare’s Connectivity Cloud</title>
       <link>https://blog.cloudflare.com/backbone2024</link>
       <description>Cloudflare的全球骨干网络在2024年已扩展至覆盖330个城市和120多个国家，通过海底电缆和陆地光纤连接数据中心，提供高速、可靠的数据传输。该网络采用对等连接和IP转接技术，优化数据路由，降低延迟，并支持数据本地化，帮助客户遵守数据隐私法规。通过不断扩展网络容量和优化性能，Cloudflare致力于构建更高效、更安全的互联网连接。</description>
