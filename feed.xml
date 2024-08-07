@@ -12,18 +12,6 @@
     </item>
   
     <item>
-      <title>Add Tone Indicators to Your Pull Requests</title>
-      <link>https://spin.atomicobject.com/add-tone-indicators-pull-requests/</link>
-      <description>在代码审查过程中，使用“约定注释”可以更有效地沟通。通过添加语气指示符，如“fix”、“nit”、“praise”等，可以明确注释的性质、紧迫性和所需更改的程度，从而减少误解，提高团队协作效率。这种方法有助于将焦点从人际沟通转移到项目目标上，使代码审查过程更加顺畅。</description>
-    </item>
-  
-    <item>
-      <title>What to know about China’s push for hydrogen-powered transportation</title>
-      <link>https://www.technologyreview.com/2024/08/07/1095849/china-hydrogen-truck-bike-coal/</link>
-      <description>中国正积极推动氢燃料电池交通工具的发展，尽管目前氢气主要还是由化石燃料制成。一些公司如Youon正在推广氢能自行车，但专家认为这些自行车效率低于普通电动自行车，长期经济性存疑。中国政府和企业已出台多项政策支持氢燃料电池汽车的生产和推广，目前已有约21,000辆氢燃料电池汽车上路，超过400个加氢站。尽管氢燃料电池汽车有助于未来交通系统的脱碳，但它们对当前气候变化的影响有限。中国公司目前更倾向于将氢燃料电池技术应用于重型卡车，以应对电动卡车在长途运输中的局限性。</description>
-    </item>
-  
-    <item>
       <title>How covid conspiracies led to an alarming resurgence in AIDS denialism</title>
       <link>https://www.technologyreview.com/2024/08/07/1095762/covid-conspiracies-hiv-aids-denial-public-health/</link>
       <description>COVID阴谋论导致艾滋病否认主义卷土重来，公众对公共卫生体系的广泛不信任重新激发了关于HIV和艾滋病的错误观念，并推动了一个质疑疾病预防基础的广泛运动。这种运动在互联网上迅速传播，可能对个人患者构成风险，并威胁到现代医疗保健和疾病预防的基础知识。</description>
@@ -42,12 +30,6 @@
     </item>
   
     <item>
-      <title>CodeSOD: Currency Format</title>
-      <link>https://thedailywtf.com/articles/currency-format</link>
-      <description>Remy Porter在《Daily WTF》上分析了PHP代码中的货币格式问题。代码中存在大量重复的格式化操作，通过动态字段访问来处理不同货币，但缺乏结构性和效率。作者建议使用数组来简化代码，提高可维护性。</description>
-    </item>
-  
-    <item>
       <title>AI “godfather” Yoshua Bengio has joined a UK project to prevent AI catastrophes</title>
       <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
       <description>人工智能“教父”Yoshua Bengio加入英国政府资助的项目，旨在预防人工智能灾难。该项目名为“Safeguarded AI”，旨在构建一个能够检查关键领域部署的人工智能系统是否安全的AI系统。Bengio将担任科学总监，提供关键意见和科学建议。该项目由英国先进研究与发明机构（ARIA）资助，旨在通过结合科学世界模型和数学证明来构建AI安全机制，以减少AI系统的安全风险。</description>
@@ -63,12 +45,6 @@
       <title>Call me Disabled, and nothing else</title>
       <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/Call-me-Disabled-and-nothing-else</link>
       <description>五年前，作者曾反对使用“残疾人”一词，但如今他接受了这个标签，并认识到社会对残疾的看法正在逐渐改变。他放弃了“特殊能力”的假设，并开始庆祝“残疾骄傲月”，呼吁社会包容和尊重残疾人，通过改变语言和态度来推动社会变革。</description>
-    </item>
-  
-    <item>
-      <title>Notes on "Hardest Problem in Computer Science: Centering Things"</title>
-      <link>https://advancedweb.hu/shorts/notes-on-hardest-problem-in-computer-science-centering-things/</link>
-      <description>CSS中的居中问题并非表面看起来那么简单，许多知名平台如Apple、Microsoft、GitHub等都无法完美解决。文章深入探讨了居中问题中的各种细节和例子，揭示了这一看似简单的任务背后的复杂性。</description>
     </item>
   
     <item>
