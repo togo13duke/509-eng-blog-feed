@@ -12,11 +12,41 @@
     </item>
   
     <item>
+      <title>Service Design Can Greatly Impact Businesses, and We Can Show You How</title>
+      <link>https://blog.avenuecode.com/service-design-can-have-a-great-impact-on-businesses-and-we-can-show-you-how</link>
+      <description>服务设计对商业有重大影响，它通过研究、策略和行动来提升客户体验，从而影响满意度、销售和客户保留。通过构建服务蓝图，可以映射客户行为、理解与不同触点的互动，并连接运营部分以更有效地提升销售和保留。这种方法有助于识别改进机会，打破工作隔阂，并最终提升员工和客户的满意度。</description>
+    </item>
+  
+    <item>
+      <title>My People Experience at Galois: The Community Leads the Way</title>
+      <link>https://galois.com/blog/2024/08/my-people-experience-at-galois-the-community-leads-the-way/</link>
+      <description>在Galois，公司文化强调透明、协作和创新，员工共同塑造企业文化。公司注重个体需求，避免公式化处理，通过透明薪酬、灵活工作安排和信任自主权等实践，提升员工幸福感，促进成功。</description>
+    </item>
+  
+    <item>
+      <title>Adding .NET Aspire to your existing .NET apps</title>
+      <link>https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/</link>
+      <description>.NET Aspire 是一款专为 .NET 设计的云原生堆栈，旨在帮助开发者快速轻松地开发分布式应用程序。它简化了现有应用程序的启动过程、监控和可靠性，并支持服务发现，即使不使用更复杂的特性或服务。通过添加 .NET Aspire，开发者可以在不到五分钟内为现有应用程序添加仪表板、健康检查等功能，而无需更改应用程序的工作方式、CI/CD 管道或部署流程。</description>
+    </item>
+  
+    <item>
       <title>How to use AI coding tools to learn a new programming language</title>
       <link>https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/</link>
       <description>使用AI编码工具学习新编程语言
 
 本文探讨了如何利用AI编码工具，如GitHub Copilot，加速学习新编程语言的过程。文章分享了开发者如何利用这些工具来提高学习效率，并提供了实用的学习技巧。AI工具作为辅助而非替代品，可以帮助开发者更快地掌握新语言的核心概念，同时提供个性化的指导和上下文相关的结果。</description>
+    </item>
+  
+    <item>
+      <title>Artificial Intelligence 101: The Basics of AI Everyone Should Know</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/artificial-intelligence-101-the-basics-of-ai</link>
+      <description>人工智能（AI）是一种革命性技术，正在改变我们的生活方式。本文介绍了AI的基本概念、工作原理以及如何影响我们的日常生活。AI通过学习数据不断进步，能够执行需要人类智能的任务，如图像识别、语言理解和决策。Atlassian Intelligence将AI工具融入工作流程，提高效率和团队协作。AI已广泛应用于搜索、推荐系统和智能家居，使信息检索和娱乐更加个性化和便捷。</description>
+    </item>
+  
+    <item>
+      <title>Improve progress and performance reporting with Confluence and Jira</title>
+      <link>https://www.atlassian.com/blog/confluence/improve-progress-reports-with-jira-and-confluence</link>
+      <description>使用Confluence和Jira结合，可以简化进度和绩效报告，实现实时同步和互动分析。通过在Confluence中嵌入Jira仪表板和智能链接，团队可以共享上下文、评论和协作，减少信息碎片化，提高工作效率。这种集成方式使得报告更加直观，便于决策制定。</description>
     </item>
   
     <item>
@@ -47,6 +77,12 @@
       <title>Asynchronous Iterators and Iterables in Python</title>
       <link>https://realpython.com/python-async-iterators/</link>
       <description>本文介绍了Python中的异步迭代器和可迭代对象。异步迭代器用于控制异步for循环，而异步可迭代对象是可以通过异步for循环迭代的对象。这些工具允许在不阻塞代码的情况下迭代可等待对象，从而实现异步任务。文章详细解释了如何创建异步生成器函数、类基于的异步迭代器和可迭代对象，以及如何在异步循环和异步生成器表达式中使用异步迭代器。此外，还讨论了异步迭代在并发代码中的应用，以及如何通过异步编程提高代码效率。</description>
+    </item>
+  
+    <item>
+      <title>How do I know when the user has finished interacting with the Accounts­Settings­Pane?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240807-00/?p=110108</link>
+      <description>当用户完成与“账户设置面板”的交互时，可以使用“AccountsSettingsPane.ShowManageAccountsAsync”方法代替“AccountsSettingsPane.Show”方法。后者返回一个IAsyncAction，当面板关闭时完成，无论关闭原因如何。</description>
     </item>
   
     <item>
@@ -257,6 +293,12 @@
       <title>It rather involved being on the other side of the airtight hatchway: Disabling a security feature as an administrator</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240806-00/?p=110103</link>
       <description>文章探讨了管理员在系统中禁用安全功能的问题。指出，尽管存在报告称管理员可以绕过安全功能，但实际上，这并不是一个真正的安全漏洞，因为要执行此类操作，用户必须已经是系统管理员。文章强调，管理员权限是必要的，并且通常可以通过设置界面直接禁用安全功能，而不需要复杂的步骤。</description>
+    </item>
+  
+    <item>
+      <title>From Zero to AI-Powered Storefront in Just 10 Minutes</title>
+      <link>https://algolia.com/blog/algolia/zero-to-storefront-minutes/</link>
+      <description>使用Composable UI和Algolia，只需10分钟即可快速搭建AI驱动的无头商店。Composable UI简化了商店创建过程，而Algolia提供高效搜索功能，提升用户体验。通过简单步骤，用户可在Netlify或Vercel上部署商店，并利用Algolia的AI搜索技术，轻松实现快速实验和优化。</description>
     </item>
   
     <item>
