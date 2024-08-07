@@ -18,6 +18,18 @@
     </item>
   
     <item>
+      <title>Students scramble after security breach wipes 13,000 devices</title>
+      <link>https://arstechnica.com/?p=2041407</link>
+      <description>新加坡学生在安全漏洞导致13,000台设备被清除后紧急应对。Mobile Guardian移动设备管理平台被黑客攻击，导致大量学生数据丢失。这是Mobile Guardian今年第二次遭受攻击，之前在4月份的一次攻击中影响了新加坡127所学校。教育部门表示，将移除所有设备上的Mobile Guardian应用。</description>
+    </item>
+  
+    <item>
+      <title>Streaming BigQuery Data Into Confluent in Real Time: A Continuous Query Approach</title>
+      <link>https://www.confluent.io/blog/streaming-bigquery-data-into-confluent-with-continuous-queries/</link>
+      <description>Confluent Cloud与BigQuery的连续查询功能相结合，为实时数据处理和分析提供了强大的解决方案。这种集成允许组织在数据仓库内直接进行实时数据处理，并通过Confluent Cloud将数据变化高效地传递到下游应用程序。这为实时分析、欺诈检测等时间敏感型用例创造了无缝的数据管道。</description>
+    </item>
+  
+    <item>
       <title>Amazon Titan Image Generator v2 is now available in Amazon Bedrock</title>
       <link>https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/</link>
       <description>Amazon Titan Image Generator v2 现已可在 Amazon Bedrock 中使用，新增了图像条件、颜色调色板、背景移除和主题一致性等功能，可指导图像创建、编辑、去除背景、生成图像变体，并安全地定制模型以保持品牌风格和主题一致性。</description>
@@ -57,6 +69,12 @@
       <title>Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs</title>
       <link>http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html</link>
       <description>Android开发者博客宣布，Android设备流功能现已开放早期访问，允许开发者通过Google数据中心流式传输并测试应用。三星、小米和OPPO等制造商的设备实验室已接入该服务，开发者可在Android Studio中直接访问更多物理设备。通过Firebase项目，开发者可以注册早期访问计划，使用OEM提供的设备进行测试，无需额外费用。</description>
+    </item>
+  
+    <item>
+      <title>Databricks Clean Rooms for privacy-safe collaboration is in Public Preview</title>
+      <link>https://www.databricks.com/blog/databricks-clean-rooms-privacy-safe-collaboration-public-preview</link>
+      <description>Databricks推出隐私安全的协作工具Clean Rooms，支持跨云和行业的数据+AI协作，同时保护敏感数据。Clean Rooms基于Delta Sharing，允许用户在保持隐私的情况下共享和协作数据，支持Python等语言进行复杂计算和机器学习。该工具适用于各种规模和信任级别的组织，支持自动化和管理工作室，并即将推出支持Scala和Java的功能。</description>
     </item>
   
     <item>
@@ -417,6 +435,12 @@
       <title>Surprising findings from our analysis of 3DS transactions in the US</title>
       <link>https://stripe.com/blog/surprising-findings-from-our-analysis-of-3ds-transactions-in-the-us</link>
       <description>您正在使用不受支持的浏览器。建议您使用以下浏览器的最新版本：Chrome、Firefox、Safari或Edge。</description>
+    </item>
+  
+    <item>
+      <title>Ep. 12: Implementing Robust Transaction Handling in Go</title>
+      <link>https://www.ardanlabs.com/blog/2024/07/implementing-robust-transaction-handling-in-go-ep-12.html</link>
+      <description>本篇博客深入探讨了在Go语言中实现健壮的事务处理。文章详细介绍了如何配置和记录事务中间件，创建灵活的事务管理接口，以及如何将事务处理与身份验证和授权中间件集成，以确保数据处理的可靠性和安全性。通过实际示例，作者展示了如何构建一个集成的系统，使开发者能够构建可靠、可扩展且易于维护的软件系统。</description>
     </item>
   
     </channel>
