@@ -12,51 +12,9 @@
     </item>
   
     <item>
-      <title>Thank You to the Stack Overflow Community for Ranking Docker the Most Used,&nbsp;Desired, and Admired Developer Tool</title>
-      <link>https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2024/</link>
-      <description>Docker连续第二年被评为Stack Overflow社区最常用、最期望和最受欢迎的开发者工具。该工具因其卓越的开发体验、提高生产力的功能、庞大的可信内容库以及支持社区的强大功能而受到开发者的青睐。Docker持续创新，包括推出Docker Scout以增强软件供应链的安全性，以及与AI/ML集成的工具，以帮助开发者更快、更智能地创新。Docker致力于通过不断改进和创新，支持开发者及其在软件开发领域的成功。</description>
-    </item>
-  
-    <item>
-      <title>Accessibility by design: Building interfaces for everyone at Stack Overflow</title>
-      <link>https://stackoverflow.blog/2024/08/07/accessibility-by-design-building-interfaces-for-everyone-at-stack-overflow/</link>
-      <description>Stack Overflow致力于打造无障碍设计，通过制定可访问性目标和采用先进的颜色对比算法，确保其产品和服务对所有人开放。公司建立了全面的评估体系，包括自动化和手动测试，并组建了专门的团队来推广无障碍实践，以提升用户体验和产品的包容性。</description>
-    </item>
-  
-    <item>
-      <title>Recursion CEO Chris Gibson on Accelerating the Biopharmaceutical Industry With AI</title>
-      <link>https://blogs.nvidia.com/blog/recursion-ceo-chris-gibson-on-accelerating-the-biopharmaceutical-industry-with-ai/</link>
-      <description>Recursion公司CEO Chris Gibson在NVIDIA的AI播客中讨论了如何利用AI和机器学习加速药物发现和开发。他强调了AI在提高效率和降低发现成本方面的作用，并展望了未来使用自然语言提示与AI系统合作的前景。</description>
-    </item>
-  
-    <item>
-      <title>Problem Solved: STEM Studies Supercharged With RTX and AI Technologies</title>
-      <link>https://blogs.nvidia.com/blog/ai-decoded-stem/</link>
-      <description>NVIDIA通过其RTX和AI技术，为全球超过5000所学校的学生提供GPU加速的AI课程，帮助他们掌握AI技能，提高学习效率。学生可以利用RTX AI Toolkit等工具加速AI模型开发，使用NVIDIA RAPIDS软件库进行数据科学分析，并通过NVIDIA Isaac平台学习机器人技术。此外，NVIDIA还为创意工作者提供Studio平台，以及ChatRTX等AI工具，以提升学习和创作体验。</description>
-    </item>
-  
-    <item>
-      <title>Build and Cache Frontend Assets once using GitHub Actions</title>
-      <link>https://freek.dev/2745-build-and-cache-frontend-assets-once-using-github-actions</link>
-      <description>使用GitHub Actions一次性构建和缓存前端资源，提高部署效率。</description>
-    </item>
-  
-    <item>
-      <title>The Download: AIDS denialism, and AI safety mechanisms</title>
-      <link>https://www.technologyreview.com/2024/08/07/1095906/the-download-aids-denialism-and-ai-safety-mechanisms/</link>
-      <description>本文探讨了两个主要话题：一是艾滋病否认主义的复苏，二是人工智能安全机制的研究。文章指出，由于对公共卫生机构的怀疑，艾滋病否认主义在疫情后有所抬头；同时，人工智能领域的“安全机制”项目正致力于确保AI系统的安全性，以减少潜在的风险。</description>
-    </item>
-  
-    <item>
       <title>Add Tone Indicators to Your Pull Requests</title>
       <link>https://spin.atomicobject.com/add-tone-indicators-pull-requests/</link>
       <description>在代码审查过程中，使用“约定注释”可以更有效地沟通。通过添加语气指示符，如“fix”、“nit”、“praise”等，可以明确注释的性质、紧迫性和所需更改的程度，从而减少误解，提高团队协作效率。这种方法有助于将焦点从人际沟通转移到项目目标上，使代码审查过程更加顺畅。</description>
-    </item>
-  
-    <item>
-      <title>Quiz: Asynchronous Iterators and Iterables in Python</title>
-      <link>https://realpython.com/quizzes/python-async-iterators/</link>
-      <description>本篇文章介绍了Python中的异步迭代器和可迭代对象，通过一个包含10个问题的互动测验来检验读者对创建和使用异步代码中异步迭代器和可迭代对象的理解。测验无时间限制，每答对一题得1分，满分100%。</description>
     </item>
   
     <item>
@@ -111,24 +69,6 @@
       <title>Notes on "Hardest Problem in Computer Science: Centering Things"</title>
       <link>https://advancedweb.hu/shorts/notes-on-hardest-problem-in-computer-science-centering-things/</link>
       <description>CSS中的居中问题并非表面看起来那么简单，许多知名平台如Apple、Microsoft、GitHub等都无法完美解决。文章深入探讨了居中问题中的各种细节和例子，揭示了这一看似简单的任务背后的复杂性。</description>
-    </item>
-  
-    <item>
-      <title>Migrate to Elastic's AI-driven log analytics with ease through Express Migration</title>
-      <link>https://www.elastic.co/blog/ai-log-analytics-express-migration</link>
-      <description>Elastic推出Express Migration计划，帮助组织轻松迁移到其AI驱动的日志分析服务。该计划为Splunk等传统日志分析平台的用户提供激励措施，包括消费信用额和服务信用额，以减轻迁移成本。Elastic的AI日志分析通过Elastic AI助手提供上下文洞察，快速问题识别和强大的分析功能，从而提高问题检测和解决速度，降低成本。此外，通过标准化数据语义和聚合搜索湖，客户可以实现成本降低和深入分析。</description>
-    </item>
-  
-    <item>
-      <title>Elastic launches Express Migration program for Splunk customers</title>
-      <link>https://www.elastic.co/blog/elastic-express-migration-program</link>
-      <description>Elastic推出针对Splunk客户的Express Migration计划，旨在简化SIEM迁移过程，通过AI驱动的安全分析提升安全运营效率。该计划提供迁移信用和咨询服务，帮助客户在保持现有合同的同时，加速向Elastic平台迁移，以实现更高效的数据分析和自动化处理。</description>
-    </item>
-  
-    <item>
-      <title>Lessons from CrowdStrike: Five critical questions to help you increase business resilience</title>
-      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/lessons-crowdstrike-five-questions-help-increase-business-resilience</link>
-      <description>从CrowdStrike事件中，企业领导者应学习如何更深入地了解组织的技术核心。通过询问技术团队关于系统知识、故障沟通、响应速度、预防措施和外部依赖风险等问题，可以建立透明度和信任，从而更好地应对IT危机。领导者应与技术团队紧密合作，确保对关键系统有足够的了解，并建立有效的沟通和响应机制。</description>
     </item>
   
     <item>
