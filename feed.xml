@@ -12,18 +12,6 @@
     </item>
   
     <item>
-      <title>Understanding CAMARA, The API Standards For Telcos</title>
-      <link>https://nordicapis.com/understanding-camara-the-api-standards-for-telcos/</link>
-      <description>CAMARA项目是一个电信API标准化组织，旨在通过提供通用、抽象和通用的API，将电信网络从点对点集成和特定技术栈的临时API中解放出来，以促进网络价值的释放。该项目旨在简化网络集成，通过API标准化推动创新，并提高效率。然而，实现API标准化也面临挑战，如需要建立生态系统规则、运营模式、信任框架和易于使用的安全模型。</description>
-    </item>
-  
-    <item>
-      <title>What is GPU programming</title>
-      <link>https://developers.redhat.com/articles/2024/08/07/what-gpu-programming</link>
-      <description>GPU编程是一种利用图形处理单元（GPU）进行并行计算的技术。本文介绍了GPU编程的基础知识，包括并行编程模型、关键算法和不同编程语言框架。文章强调了GPU的并行处理能力，以及如何通过SIMD（单指令多数据）模型实现高效的计算。此外，还讨论了不同GPU编程语言的特点和优缺点，为读者提供了全面的学习资源。</description>
-    </item>
-  
-    <item>
       <title>AI “godfather” Yoshua Bengio has joined a UK project to prevent AI catastrophes</title>
       <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
       <description>人工智能“教父”Yoshua Bengio加入英国政府资助的项目，旨在预防人工智能灾难。该项目名为“Safeguarded AI”，旨在构建一个能够检查关键领域部署的人工智能系统是否安全的AI系统。Bengio将担任科学总监，提供关键意见和科学建议。该项目由英国先进研究与发明机构（ARIA）资助，旨在通过结合科学世界模型和数学证明来构建AI安全机制，以减少AI系统的安全风险。</description>
