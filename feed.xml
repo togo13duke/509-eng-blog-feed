@@ -12,12 +12,6 @@
     </item>
   
     <item>
-      <title>AI “godfather” Yoshua Bengio has joined a UK project to prevent AI catastrophes</title>
-      <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
-      <description>人工智能“教父”Yoshua Bengio加入英国政府资助的项目，旨在预防人工智能灾难。该项目名为“Safeguarded AI”，旨在构建一个能够检查关键领域部署的人工智能系统是否安全的AI系统。Bengio将担任科学总监，提供关键意见和科学建议。该项目由英国先进研究与发明机构（ARIA）资助，旨在通过结合科学世界模型和数学证明来构建AI安全机制，以减少AI系统的安全风险。</description>
-    </item>
-  
-    <item>
       <title>The Data Turf Wars are Over, But the Metadata Turf Wars Have Just Begun</title>
       <link>https://blog.cloudera.com/the-data-turf-wars-are-over-but-the-metadata-turf-wars-have-just-begun/</link>
       <description>数据平台之战已结束，但元数据之战才刚刚开始。随着数据团队转向多云和混合架构，统一元数据变得至关重要。Cloudera通过其开放数据湖屋和自动化元数据管理，提供了一种解决方案，以确保数据的安全、可发现性和高效使用。</description>
