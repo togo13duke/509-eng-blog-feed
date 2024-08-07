@@ -12,44 +12,6 @@
     </item>
   
     <item>
-      <title>How to use AI coding tools to learn a new programming language</title>
-      <link>https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/</link>
-      <description>使用AI编码工具学习新编程语言
-
-本文探讨了如何利用AI编码工具，如GitHub Copilot，加速学习新编程语言的过程。文章分享了开发者如何利用这些工具来提高学习效率，并提供了实用的学习技巧。AI工具作为辅助而非替代品，可以帮助开发者更快地掌握新语言的核心概念，同时提供个性化的指导和上下文相关的结果。</description>
-    </item>
-  
-    <item>
-      <title>Announcing Official Puppeteer Support for Firefox</title>
-      <link>https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/</link>
-      <description>Mozilla宣布，从版本23开始，Puppeteer浏览器自动化库现在为Firefox提供了一级支持。这意味着现在可以轻松使用Puppeteer编写自动化和执行端到端测试，并针对Chrome和Firefox运行。Puppeteer支持基于WebDriver BiDi协议，这是一个跨浏览器协议，旨在简化未来对更多不同浏览器的支持。</description>
-    </item>
-  
-    <item>
-      <title>Automate Your Workflow with Data Cloud-Triggered Flows and Invocable Actions</title>
-      <link>https://developer.salesforce.com/blogs/2024/08/automate-your-workflow-with-data-cloud-triggered-flows-and-invocable-actions.html</link>
-      <description>利用Salesforce Data Cloud触发的工作流和可调用操作，可以自动化基于实时数据变化的操作，确保工作流程与最新信息同步。这些操作包括更新记录、发送通知、创建任务或与其他系统集成。通过创建可重用的可调用操作，可以简化流程设计，并提高与外部系统集成的效率。本文介绍了如何构建自动化工作流程，包括定义所需数据、数据导入、创建可调用操作、平台事件和触发流等步骤。</description>
-    </item>
-  
-    <item>
-      <title>Numerics integration —&nbsp;bring GoSquared with you everywhere</title>
-      <link>https://www.gosquared.com/blog/numerics-integration</link>
-      <description>GoSquared与数据可视化应用Numerics集成，让用户可在所有苹果设备上查看分析数据，包括iPhone、iPad、Mac、Apple Watch、Apple TV和Vision Pro。通过这一集成，用户可以随时随地查看关键业务指标，并与其他业务洞察并排查看，提升工作效率。</description>
-    </item>
-  
-    <item>
-      <title>What Is a Time Series and How Is It Used?</title>
-      <link>https://www.timescale.com/blog/time-series-introduction/</link>
-      <description>时间序列数据是一种按时间顺序收集的数据，用于跟踪趋势和预测特定时间段内的变化。它对于揭示潜在模式、观察时间变化和预测未来事件至关重要。通过适当的工具，组织可以利用时间序列数据做出更明智的决策和战略规划，从而带来巨大的商业价值。本文探讨了时间序列数据的定义、分析方法和在各个领域的应用，强调了其在商业、金融、健康护理等领域的价值。</description>
-    </item>
-  
-    <item>
-      <title>Asynchronous Iterators and Iterables in Python</title>
-      <link>https://realpython.com/python-async-iterators/</link>
-      <description>本文介绍了Python中的异步迭代器和可迭代对象。异步迭代器用于控制异步for循环，而异步可迭代对象是可以通过异步for循环迭代的对象。这些工具允许在不阻塞代码的情况下迭代可等待对象，从而实现异步任务。文章详细解释了如何创建异步生成器函数、类基于的异步迭代器和可迭代对象，以及如何在异步循环和异步生成器表达式中使用异步迭代器。此外，还讨论了异步迭代在并发代码中的应用，以及如何通过异步编程提高代码效率。</description>
-    </item>
-  
-    <item>
       <title>Thank You to the Stack Overflow Community for Ranking Docker the Most Used,&nbsp;Desired, and Admired Developer Tool</title>
       <link>https://www.docker.com/blog/docker-stack-overflow-survey-thank-you-2024/</link>
       <description>Docker连续第二年被评为Stack Overflow社区最常用、最期望和最受欢迎的开发者工具。该工具因其卓越的开发体验、提高生产力的功能、庞大的可信内容库以及支持社区的强大功能而受到开发者的青睐。Docker持续创新，包括推出Docker Scout以增强软件供应链的安全性，以及与AI/ML集成的工具，以帮助开发者更快、更智能地创新。Docker致力于通过不断改进和创新，支持开发者及其在软件开发领域的成功。</description>
@@ -107,12 +69,6 @@
       <title>How covid conspiracies led to an alarming resurgence in AIDS denialism</title>
       <link>https://www.technologyreview.com/2024/08/07/1095762/covid-conspiracies-hiv-aids-denial-public-health/</link>
       <description>COVID阴谋论导致艾滋病否认主义卷土重来，公众对公共卫生体系的广泛不信任重新激发了关于HIV和艾滋病的错误观念，并推动了一个质疑疾病预防基础的广泛运动。这种运动在互联网上迅速传播，可能对个人患者构成风险，并威胁到现代医疗保健和疾病预防的基础知识。</description>
-    </item>
-  
-    <item>
-      <title>The no-code method to maximize catalog exposure and boost conversions on your Shopify store</title>
-      <link>https://algolia.com/blog/ecommerce/shopify-product-recommendations/</link>
-      <description>通过Algolia AI推荐功能，Shopify店铺可以快速实现个性化推荐，无需编码。该功能利用AI技术，根据用户搜索和浏览行为提供相关产品建议，提高转化率和平均订单价值。通过整合多源数据，Algolia可创建统一且个性化的客户体验，并快速设置，只需几分钟即可启用。</description>
     </item>
   
     <item>
