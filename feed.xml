@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>The Data Turf Wars are Over, But the Metadata Turf Wars Have Just Begun</title>
+      <link>https://blog.cloudera.com/the-data-turf-wars-are-over-but-the-metadata-turf-wars-have-just-begun/</link>
+      <description>数据平台之战已结束，但元数据之战才刚刚开始。随着数据团队转向多云和混合架构，统一元数据变得至关重要。Cloudera通过其开放数据湖屋和自动化元数据管理，提供了一种解决方案，以确保数据的安全、可发现性和高效使用。</description>
+    </item>
+  
+    <item>
       <title>Call me Disabled, and nothing else</title>
       <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/Call-me-Disabled-and-nothing-else</link>
       <description>五年前，作者曾反对使用“残疾人”一词，但如今他接受了这个标签，并认识到社会对残疾的看法正在逐渐改变。他放弃了“特殊能力”的假设，并开始庆祝“残疾骄傲月”，呼吁社会包容和尊重残疾人，通过改变语言和态度来推动社会变革。</description>
@@ -117,6 +123,12 @@
       <title>Vercel AI SDK 3.3</title>
       <link>https://vercel.com/blog/vercel-ai-sdk-3-3</link>
       <description>Vercel AI SDK 3.3新增了四大功能：追踪、多模态文件附件、useObject钩子和额外的LLM设置。这些功能增强了AI应用的构建和可观察性，支持多种文件类型和结构化数据生成，同时提供了更灵活的模型调用控制。</description>
+    </item>
+  
+    <item>
+      <title>Filter by custom date ranges in Web Analytics</title>
+      <link>https://vercel.com/changelog/filter-by-custom-date-ranges-in-web-analytics</link>
+      <description>您现在可以在Web Analytics中选择自定义日期范围。选择日期选择器中的任何自定义时间段，或拖动图表以快速关注特定时间段。了解更多关于Web Analytics或为您的项目启用Web Analytics。</description>
     </item>
   
     <item>
