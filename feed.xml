@@ -6,9 +6,51 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles</title>
+      <link>https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/</link>
+      <description>Dockerfile中的COPY和ADD指令用于将文件和目录添加到Docker镜像中。COPY指令简单直接，仅支持从主机文件系统复制文件，更安全；而ADD指令功能更丰富，支持从URL下载文件和自动解压归档文件，但可能引入安全风险。通常推荐使用COPY，除非需要ADD的额外功能。了解两者差异和适用场景，有助于构建更高效、安全的Docker镜像。</description>
+    </item>
+  
+    <item>
+      <title>Advancing to adaptive cloud</title>
+      <link>https://www.technologyreview.com/2024/08/08/1095619/advancing-to-adaptive-cloud/</link>
+      <description>自适应云技术为企业提供统一且强大的数据基础设施，支持未来功能和用例，简化复杂云环境的管理，提高IT管理和应用开发的效率，并促进业务创新。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Automatic SSL/TLS: securing and simplifying origin connectivity</title>
+      <link>https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity</link>
+      <description>Cloudflare推出自动SSL/TLS功能，简化与源服务器的连接安全。此功能通过SSL/TLS推荐器自动选择最安全的加密模式，提高网站安全性，无需手动配置。从2024年8月8日起，启用SSL/TLS推荐器的客户将默认启用自动SSL/TLS，随后其他客户也将逐步采用。</description>
+    </item>
+  
+    <item>
+      <title>Cloudera Partners with Allitix to Fuel Enterprise Connected Planning Solutions</title>
+      <link>https://blog.cloudera.com/cloudera-partners-with-allitix-to-fuel-enterprise-connected-planning-solutions/</link>
+      <description>Cloudera与Allitix合作，利用Cloudera的安全开放数据湖house，帮助企业消除数据孤岛，通过连接规划整合跨部门计划，提高协作效率。这将使企业能够扩展高级预测模型和数据驱动解决方案，并利用Cloudera的数据湖house提供的数据安全、数据治理和管理能力，以支持其连接规划解决方案，帮助企业做出更明智的战略决策。</description>
+    </item>
+  
+    <item>
+      <title>Figure Unveils Next-Gen Conversational Humanoid Robot With 3x AI Computing for Fully Autonomous Tasks</title>
+      <link>https://blogs.nvidia.com/blog/figure-humanoid-robot-autonomous/</link>
+      <description>Figure公司推出新一代对话式类人形机器人Figure 02，该机器人利用NVIDIA的技术实现完全自主的任务。Figure 02在BMW集团的生产线进行了测试，并采用了NVIDIA的加速计算来训练生成式AI模型。该机器人具备处理真实世界任务的能力，旨在解决劳动力短缺问题，并计划推出面向消费者的版本。</description>
+    </item>
+  
+    <item>
+      <title>GeForce NOW Celebrates 2,000 Games in the Cloud</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-2000-games/</link>
+      <description>GeForce NOW云游戏平台现已支持超过2000款游戏，包括PC、Mac、NVIDIA SHIELD TVs、智能电视和移动设备等。本周新增五款游戏，并推出Square Enix的《Visions of Mana》试玩和新奖励。玩家可通过半价优惠享受优先或终极会员服务，无需重复购买即可在云上玩游戏，享受无缝的游戏体验。</description>
+    </item>
+  
+    <item>
       <title>Achieving feature rollouts with ultra-low latency and zero impact to conversion</title>
       <link>https://vercel.com/blog/beyond-menu-scaling-with-hypertune-and-vercel</link>
       <description>Beyond Menu通过使用Vercel的Edge Config和Hypertune，成功实现了无缝的A/B测试，优化了其Next.js应用程序的性能和用户体验。这种方法解决了传统工具在服务器端和客户端的局限性，通过在边缘配置中实现零延迟读取，提高了特征标志和A/B测试的效率。</description>
+    </item>
+  
+    <item>
+      <title>The Download: AC habits, and Starliner’s stranded astronauts</title>
+      <link>https://www.technologyreview.com/2024/08/08/1095938/the-download-ac-habits-and-starliners-stranded-astronauts/</link>
+      <description>夏季空调使用习惯导致电力需求高峰，对电网构成挑战。一些公司正研发新型冷却技术以缓解这一挑战。同时，文章还探讨了Starliner宇航员滞留太空站、Humane的AI产品销售下滑等科技新闻。</description>
     </item>
   
     <item>
@@ -81,6 +123,12 @@
       <title>Ruby on Rails is great for AI</title>
       <link>https://thoughtbot.com/blog/ruby-on-rails-is-great-for-ai</link>
       <description>Ruby on Rails非常适合AI项目，因为它擅长通过标准HTTP API调用整合第三方或开源服务，如LLMs。尽管Python在复杂AI任务中可能更合适，但使用Ruby gem和API调用通常足以满足需求，避免不必要的复杂性和成本。</description>
+    </item>
+  
+    <item>
+      <title>Fun fact: you can make an unsubscribable subscription to an SNS topic</title>
+      <link>https://advancedweb.hu/shorts/fun-fact-you-can-make-an-unsubscribable-subscription-to-an-sns-topic/</link>
+      <description>您可以通过设置认证来创建无法取消订阅的SNS主题订阅，这样只有主题所有者和订阅所有者才能取消订阅。此功能通过使用“AuthenticateOnUnsubscribe”参数实现，确保未经认证的用户无法取消订阅。</description>
     </item>
   
     <item>
