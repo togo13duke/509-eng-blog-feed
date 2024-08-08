@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How FinTech innovator Riverty future-proofs using Atlassian’s suite of Cloud solutions</title>
+      <link>https://www.atlassian.com/blog/enterprise/riverty-future-proofs-on-cloud</link>
+      <description>德国金融科技公司Riverty通过采用Atlassian的云解决方案，实现了业务现代化和数字化转型。通过迁移到Atlassian Cloud平台，Riverty提高了团队的生产力和创新，优化了客户服务流程，并简化了内部工作流程。这些改进帮助公司在金融科技领域取得了显著的成功。</description>
+    </item>
+  
+    <item>
+      <title>django-http-debug, a new Django app mostly written by Claude</title>
+      <link>https://simonwillison.net/2024/Aug/8/django-http-debug/#atom-entries</link>
+      <description>Django开发者Simon Willison介绍了一个名为django-http-debug的新Django应用，该应用由Claude主要编写。这个可重用的Django应用通过pip安装，提供快速设置返回预定义HTTP响应并记录请求详细信息的工具。适用于开发与外部API交互的场景，如Stripe的webhooks或OAuth/OpenID连接集成。它支持禁用端点的日志记录，并允许在Django管理界面中查看日志请求。该应用通过中间件拦截404响应，并返回基于端点配置的响应。</description>
+    </item>
+  
+    <item>
+      <title>BW #78: Stock markets (solution)</title>
+      <link>https://www.bambooweekly.com/bw-78-stock-markets-solution/</link>
+      <description>本周分析了多个主要股票市场指数的数据，探讨了本周早些时候出现的重大下跌是否异常，并寻找了不同指数之间的联系。通过使用Pandas库处理数据，将多个CSV文件合并成一个数据框，并对数据进行了清洗和转换，包括将百分比转换为浮点数和去除数字中的逗号。文章还讨论了影响全球股市下跌的可能因素，如对美国经济健康状况的担忧。</description>
+    </item>
+  
+    <item>
+      <title>Share Your Data from Salesforce Data Cloud to Snowflake</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/share-your-data-from-salesforce-data-cloud-to-snowflake.html</link>
+      <description>本文介绍了如何使用Salesforce Data Cloud与Snowflake之间的数据共享功能，通过零复制数据共享，简化了开发者将数据从Salesforce Data Cloud的数据湖传输到Snowflake的过程，从而提高工作效率。文章详细说明了连接和配置两个平台、设置数据共享目标、共享数据以及如何在Snowflake中获取数据的步骤。</description>
+    </item>
+  
+    <item>
       <title>Docker Best Practices: Understanding the Differences Between ADD and COPY Instructions in Dockerfiles</title>
       <link>https://www.docker.com/blog/docker-best-practices-understanding-the-differences-between-add-and-copy-instructions-in-dockerfiles/</link>
       <description>Dockerfile中的COPY和ADD指令用于将文件和目录添加到Docker镜像中。COPY指令简单直接，仅支持从主机文件系统复制文件，更安全；而ADD指令功能更丰富，支持从URL下载文件和自动解压归档文件，但可能引入安全风险。通常推荐使用COPY，除非需要ADD的额外功能。了解两者差异和适用场景，有助于构建更高效、安全的Docker镜像。</description>
@@ -21,6 +45,12 @@
       <title>Introducing Automatic SSL/TLS: securing and simplifying origin connectivity</title>
       <link>https://blog.cloudflare.com/introducing-automatic-ssl-tls-securing-and-simplifying-origin-connectivity</link>
       <description>Cloudflare推出自动SSL/TLS功能，简化与源服务器的连接安全。此功能通过SSL/TLS推荐器自动选择最安全的加密模式，提高网站安全性，无需手动配置。从2024年8月8日起，启用SSL/TLS推荐器的客户将默认启用自动SSL/TLS，随后其他客户也将逐步采用。</description>
+    </item>
+  
+    <item>
+      <title>Celebrating one year of Project Cybersafe Schools</title>
+      <link>https://blog.cloudflare.com/celebrating-one-year-of-project-cybersafe-schools</link>
+      <description>Cloudflare庆祝其“网络安全学校项目”一周年，该项目为美国小型学区提供免费的安全工具。自2023年8月启动以来，已有近120个学区加入，保护了超过16万名学生、教师和员工。项目通过云电子邮件安全和DNS过滤防止了恶意和垃圾邮件，降低了学区的网络安全风险。Cloudflare致力于帮助小型学区抵御网络威胁，并鼓励更多学区加入该项目。</description>
     </item>
   
     <item>
@@ -48,6 +78,12 @@
     </item>
   
     <item>
+      <title>A case for Mastodon</title>
+      <link>https://freek.dev/2746-a-case-for-mastodon</link>
+      <description>Mastodon作为社交平台受到一些质疑，Chris Morell在博客中回应了这些疑问，强调Mastodon的优势。他分享了自己在项目中的学习经验，并定期通过邮件通讯分享对现代PHP开发者的有用信息。</description>
+    </item>
+  
+    <item>
       <title>The Download: AC habits, and Starliner’s stranded astronauts</title>
       <link>https://www.technologyreview.com/2024/08/08/1095938/the-download-ac-habits-and-starliners-stranded-astronauts/</link>
       <description>夏季空调使用习惯导致电力需求高峰，对电网构成挑战。一些公司正研发新型冷却技术以缓解这一挑战。同时，文章还探讨了Starliner宇航员滞留太空站、Humane的AI产品销售下滑等科技新闻。</description>
@@ -57,6 +93,12 @@
       <title>Dynamically Generate Responsive Form Fields in React</title>
       <link>https://spin.atomicobject.com/responsive-form-fields-react/</link>
       <description>React中动态生成响应式表单字段，通过Bootstrap的响应式网格系统实现不同屏幕尺寸下的表单布局自适应。通过动态生成表单字段，并根据屏幕宽度调整列数，实现多列布局，适应不同设备。</description>
+    </item>
+  
+    <item>
+      <title>The Best Moments and Personalities from the Summer Games</title>
+      <link>https://s14415.pcdn.co/blog/best-moments-from-summer-games/</link>
+      <description>2024年夏季运动会成为社交媒体的热点，运动员们的精彩瞬间和个人魅力受到广泛关注。社交媒体上最受欢迎的运动员包括巴西滑板运动员雷萨·利尔、BMX骑手洛根·马丁、艺术体操运动员洛拉娜·奥利维拉和西蒙·拜尔斯等。社交媒体上的互动和庆祝时刻，如体操运动员之间的友谊和海豚加入冲浪比赛，都引发了大量关注和讨论。</description>
     </item>
   
     <item>
@@ -129,6 +171,12 @@
       <title>Fun fact: you can make an unsubscribable subscription to an SNS topic</title>
       <link>https://advancedweb.hu/shorts/fun-fact-you-can-make-an-unsubscribable-subscription-to-an-sns-topic/</link>
       <description>您可以通过设置认证来创建无法取消订阅的SNS主题订阅，这样只有主题所有者和订阅所有者才能取消订阅。此功能通过使用“AuthenticateOnUnsubscribe”参数实现，确保未经认证的用户无法取消订阅。</description>
+    </item>
+  
+    <item>
+      <title>Announcing Rust 1.80.1</title>
+      <link>https://blog.rust-lang.org/2024/08/08/Rust-1.80.1.html</link>
+      <description>Rust 1.80.1版本发布，包含对浮点数比较优化和死代码检查的修复。通过rustup更新即可安装。此版本解决了之前版本中浮点数比较时的误编译问题和死代码检查的误报问题。</description>
     </item>
   
     <item>
