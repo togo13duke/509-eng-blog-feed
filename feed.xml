@@ -12,6 +12,24 @@
     </item>
   
     <item>
+      <title>Your AC habits aren’t unique. Here’s why that’s a problem.</title>
+      <link>https://www.technologyreview.com/2024/08/08/1095928/air-conditioning-peak-demand/</link>
+      <description>随着夏季高温，空调使用高峰导致电网负荷增加，对能源系统构成挑战。文章指出，空调等冷却系统在高峰时段消耗大量电力，尤其是在太阳能发电下降的傍晚时段。为应对这一挑战，需要更多储能技术和低排放电力来源，以及能够储存冷却能量的系统。同时，提高能源使用灵活性对于保持舒适和安全至关重要。</description>
+    </item>
+  
+    <item>
+      <title>Kotlin Roundup: Ktor in Focus</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/08/kotlin-roundup-ktor-in-focus/</link>
+      <description>Kotlin Roundup特别关注了Ktor框架的最新更新，包括Ktor 3.0.0 Beta-2的发布，新增了对Kotlin 2.0的支持、I/O管理和HTTP错误处理等功能。此外，还介绍了Ktor生成器、教程更新、Kotlin RPC教程以及KotlinConf 2025的票务信息。</description>
+    </item>
+  
+    <item>
+      <title>Interview with Michael Frank</title>
+      <link>https://tomassetti.me/interview-with-michael-frank/</link>
+      <description>Strumenta与QAware合作，为一家拥有大量遗留代码的IBM AS400主机公司提供软件迁移服务。QAware利用Strumenta提供的RPG解析器，建立了单一源真模型，以实现代码的透明度和可维护性。通过这种方式，他们能够识别迁移候选者，规划项目，并确保迁移过程的准确性。项目成功的关键在于使用技术方法，如解析器，来确保分析的高完整性和可靠性。</description>
+    </item>
+  
+    <item>
       <title>Amper Update August 2024 – Standalone Projects, Settings Tracing, and More</title>
       <link>https://blog.jetbrains.com/amper/2024/08/amper-update-august-2024/</link>
       <description>Amper 0.4.0版本发布，引入了项目根定义和设置跟踪功能，优化了独立项目和IDE支持。新版本支持多模块项目配置，并提供了设置跟踪功能，帮助用户理解构建配置。同时，Amper针对多平台项目进行了优化，并更新了仓库地址和插件版本。</description>
