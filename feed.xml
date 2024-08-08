@@ -12,6 +12,18 @@
     </item>
   
     <item>
+      <title>The 20 Most Common Adjectives In Portuguese</title>
+      <link>https://www.babbel.com/en/magazine/portuguese-adjectives</link>
+      <description>本文介绍了葡萄牙语中最常见的20个形容词及其用法。掌握这些形容词有助于在葡萄牙或巴西旅行时更准确地描述事物和经历，提高沟通效果。文章还解释了形容词在葡萄牙语中的位置和性别、数的一致性，并提供了丰富的例句。</description>
+    </item>
+  
+    <item>
+      <title>Ruby on Rails is great for AI</title>
+      <link>https://thoughtbot.com/blog/ruby-on-rails-is-great-for-ai</link>
+      <description>Ruby on Rails非常适合AI项目，因为它擅长通过标准HTTP API调用整合第三方或开源服务，如LLMs。尽管Python在复杂AI任务中可能更合适，但使用Ruby gem和API调用通常足以满足需求，避免不必要的复杂性和成本。</description>
+    </item>
+  
+    <item>
       <title>BW #78: Stock markets</title>
       <link>https://www.bambooweekly.com/bw-78-stock-markets/</link>
       <description>本周全球股市普遍下跌，原因包括对美国经济健康状况的担忧、中东地区战争的可能性、日本提高利率以及科技股泡沫的担忧。作者分析了过去几年的股市数据，比较了周一的市场表现，并提出了六个问题和任务，旨在提高读者在多指数、字符串数据和时间数据方面的技能。</description>
@@ -185,6 +197,12 @@
       <title>AI “godfather” Yoshua Bengio has joined a UK project to prevent AI catastrophes</title>
       <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
       <description>人工智能“教父”Yoshua Bengio加入英国政府资助的项目，旨在预防人工智能灾难。该项目名为“Safeguarded AI”，旨在构建一个能够检查关键领域部署的人工智能系统是否安全的AI系统。Bengio将担任科学总监，提供关键意见和科学建议。该项目由英国先进研究与发明机构（ARIA）资助，旨在通过结合科学世界模型和数学证明来构建AI安全机制，以减少AI系统的安全风险。</description>
+    </item>
+  
+    <item>
+      <title>Ads Insights API Unique Metric Updates</title>
+      <link>https://developers.facebook.com/blog/post/2024/08/07/ads-insights-api-unique-metric-updates/</link>
+      <description>2024年10月30日起，我们将从Ads Insights API中弃用100多个唯一指标，影响unique_actions和cost_per_unique_action_type字段。开发者需在90天内审查弃用指标，确保业务过渡，以避免中断。这些更新旨在提高我们提供的Meta广告指标质量和一致性。</description>
     </item>
   
     <item>
