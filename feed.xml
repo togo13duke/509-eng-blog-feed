@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The art and the science of brand naming</title>
+      <link>https://www.atlassian.com/blog/strategy/brand-naming</link>
+      <description>品牌命名：艺术与科学的结合。本文探讨了品牌命名的艺术与科学，强调了命名的重要性，并提供了最佳实践，如探索品牌本质、组建跨职能团队、确保名称独特且易于理解，以及如何处理不同意见和商标风险。</description>
+    </item>
+  
+    <item>
       <title>Man vs. machine: DeepMind’s new robot serves up a table tennis triumph</title>
       <link>https://arstechnica.com/?p=2041804</link>
       <description>DeepMind推出了一款能够与业余人类水平选手对抗的AI机器人乒乓球选手。该系统结合了ABB IRB 1100工业机械臂和DeepMind的定制AI软件。尽管专家级人类选手仍能击败机器人，但这一系统展示了机器在需要瞬间决策和适应性的复杂物理任务中掌握技能的潜力。</description>
@@ -21,6 +27,36 @@
       <title>Introducing the New Confluent Cloud Homepage UI: Enhancing User Experience</title>
       <link>https://www.confluent.io/blog/homepage-updates-2024/</link>
       <description>Confluent Cloud推出新首页UI，优化用户体验。新设计基于现代UX原则，提供清晰、直观的界面，增强导航和生产力。新功能包括资源概览、快速访问常用资源、发现新主题、数据访问请求和推荐操作。此更新旨在使平台更直观、高效，并持续改进以满足用户需求。</description>
+    </item>
+  
+    <item>
+      <title>Elastic 8.15: Better semantic search, new OTel distribution, SIEM data import</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-8-15-0</link>
+      <description>Elastic 8.15版本发布，包含增强语义搜索、新的SIEM数据导入和AI安全分析等新特性。该版本提供更精细的搜索工具、模型灵活性和向量搜索改进，同时支持OpenTelemetry项目，并引入了新的机器学习功能和日志管理工具。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Platform 8.15: Native vector database now supports bit vectors, SIMD acceleration, and simple config</title>
+      <link>https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-15-0</link>
+      <description>Elastic Platform 8.15版本引入了多项优化，包括支持位向量、SIMD加速和int4量化，以提升向量搜索性能。新语义文本字段简化了语义搜索配置，并提供了自动文本分块和嵌入生成功能。此外，ES|QL在Kibana Discover中扩展了UI体验，并增加了新的查询和聚合功能。这些改进使得Elasticsearch更易于用作语义搜索的向量数据库，并提高了搜索性能和效率。</description>
+    </item>
+  
+    <item>
+      <title>NEW in Elastic Security 8.15: Automatic Import, Gemini models, and AI Assistant APIs</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-security-8-15-0</link>
+      <description>Elastic Security 8.15推出新功能，包括自动导入、支持Google Gemini LLMs、Elastic AI Assistant API、按需文件扫描和改进的上下文切换。这些更新旨在简化数据集成、增强安全分析和提升用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Observability 8.15: AI Assistant, OTel, and log quality enhancements</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-observability-8-15-0</link>
+      <description>Elastic Observability 8.15版本引入了多项新功能，包括增强的OpenTelemetry支持、Elastic AI Assistant的改进，以及日志数据集质量改进。新版本支持将日志和主机指标直接发送到Elastic Stack，并增加了对Google Vertex AI和Gemini模型的集成。此外，还提供了对Azure OpenAI服务的深入可见性，以及新的数据集质量页面，帮助用户识别数据质量问题。</description>
+    </item>
+  
+    <item>
+      <title>Elastic Search 8.15: Accessible semantic search with semantic text and reranking</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-search-8-15-0</link>
+      <description>Elasticsearch 8.15版本推出语义搜索和重排序功能，提升搜索结果的相关性和性能。新增语义文本和语义重排序，支持更多第三方模型提供商，并优化了学习到排名和查询规则功能，使搜索结果更加精准。此外，还提供了更多向量搜索选项和性能改进。</description>
     </item>
   
     <item>
@@ -225,6 +261,12 @@
       <title>How we built Automatic Import, Attack Discovery, and Elastic AI Assistant using LangChain</title>
       <link>https://www.elastic.co/blog/building-automatic-import-attack-discovery-langchain</link>
       <description>Elastic Security利用LangChain和生成式AI，推出了自动导入、攻击发现和Elastic AI助手等创新功能，以加速安全团队从传统SIEM向AI驱动的安全分析迁移。这些功能通过LangChain的集成，增强了AI助手理解复杂安全场景和生成查询的能力，以及攻击发现和自动导入的准确性。Elastic Security正引领安全操作工作流程的变革，同时Elastic Observability利用Elastic Search AI平台提供全面的LangChain跟踪和端到端应用跟踪。</description>
+    </item>
+  
+    <item>
+      <title>Integrate Elastic AI Assistant for Security via API to advance SOC workflows</title>
+      <link>https://www.elastic.co/blog/elastic-ai-assistant-security-api-soc-workflows</link>
+      <description>Elastic发布AI助手API，助力安全运营团队更快地调查和响应威胁。新API允许用户自动化与AI助手的交互，管理对话和匿名化设置，提高威胁识别和数据分析的效率。API支持与SOAR工具集成，实现复杂安全响应的自动化。</description>
     </item>
   
     <item>
