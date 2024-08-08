@@ -36,6 +36,12 @@
     </item>
   
     <item>
+      <title>Webmentions and POSSE improvements</title>
+      <link>https://www.jeremykun.com/shortform/2024-08-07-1414/</link>
+      <description>本文介绍了作者对Webmention和POSSE系统的改进。作者现在将短篇博客文章同步到Mastodon、Bluesky和Twitter，并自动添加引用链接。他还讨论了Webmention的使用，包括改进HackerNews的渲染方式，并计划实现自动发送Webmention到链接的页面。</description>
+    </item>
+  
+    <item>
       <title>Major shifts at OpenAI spark skepticism about impending AGI timelines</title>
       <link>https://arstechnica.com/?p=2041450</link>
       <description>OpenAI近期经历重大领导层变动，包括联合创始人Greg Brockman和John Schulman的离职，引发对AGI（通用人工智能）发展时程的质疑。Brockman表示将休假至年底，而Schulman则加入竞争对手Anthropic。这些变动引发外界对OpenAI是否接近AGI突破的疑问，尤其是高调员工离职的情况。尽管如此，Schulman对OpenAI的未来表示乐观，并感谢参与这一重要历史时刻的机会。</description>
