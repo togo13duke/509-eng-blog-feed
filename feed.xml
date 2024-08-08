@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Man vs. machine: DeepMind’s new robot serves up a table tennis triumph</title>
-      <link>https://arstechnica.com/?p=2041804</link>
-      <description>DeepMind推出了一款能够与业余人类水平选手对抗的AI机器人乒乓球选手。该系统结合了ABB IRB 1100工业机械臂和DeepMind的定制AI软件。尽管专家级人类选手仍能击败机器人，但这一系统展示了机器在需要瞬间决策和适应性的复杂物理任务中掌握技能的潜力。</description>
-    </item>
-  
-    <item>
-      <title>0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together</title>
-      <link>https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/</link>
-      <description>0Din是一个创新的AI漏洞赏金计划，旨在通过全球安全社区的集体智慧，识别和缓解AI系统的漏洞，确保AI系统的安全性和道德使用。参与者可以提交发现的漏洞报告，经审核后获得奖励。该计划欢迎全球的安全研究人员、开发者和技术爱好者参与，共同构建更安全的AI未来。</description>
-    </item>
-  
-    <item>
       <title>Introducing the New Confluent Cloud Homepage UI: Enhancing User Experience</title>
       <link>https://www.confluent.io/blog/homepage-updates-2024/</link>
       <description>Confluent Cloud推出新首页UI，优化用户体验。新设计基于现代UX原则，提供清晰、直观的界面，增强导航和生产力。新功能包括资源概览、快速访问常用资源、发现新主题、数据访问请求和推荐操作。此更新旨在使平台更直观、高效，并持续改进以满足用户需求。</description>
@@ -174,12 +162,6 @@
     </item>
   
     <item>
-      <title>eBay Introduces Intuitive Search Redesign to Elevate Shopper Experience</title>
-      <link>https://innovation.ebayinc.com/tech/features/ebay-introduces-intuitive-search-redesign-to-elevate-shopper-experience/</link>
-      <description>eBay推出全新直观搜索界面，旨在提升购物体验。经过18个月的用户研究和测试，新界面提供更大、高分辨率的图片、现代化的布局和简化导航，使买家能快速高效地做出决策。新功能包括新的购物视图、合并的配送选项和交互式价格过滤器，以及利用人工智能和机器学习持续优化用户体验。</description>
-    </item>
-  
-    <item>
       <title>Representative Line: Tern on the Flames</title>
       <link>https://thedailywtf.com/articles/tern-on-the-flames</link>
       <description>程序员Remy Porter在文章中批评了滥用三元运算符的编程实践。他指出，虽然三元运算符本身没有问题，但将其从返回值的表达式转变为改变程序状态的语句，会使代码显得混乱。他通过一个例子说明了这种滥用，并表达了对这种编程风格的厌恶。</description>
@@ -219,12 +201,6 @@
       <title>Preventing SMS Pumping Fraud: A Guide to Our Protective Offerings</title>
       <link>https://www.twilio.com/en-us/blog/sms-pumping-protection-options</link>
       <description>Twilio提供多种防护措施以防止短信泵吸欺诈，这是一种欺诈者通过发送大量短信到付费号码以增加成本的不法行为。公司通过Verify API的Verify Fraud Guard、Lookup API的短信泵吸风险评分和Programmable Messaging的自动短信泵吸保护来保护客户免受此类欺诈。这些工具帮助识别和阻止可疑活动，从而保护企业免受财务损失和声誉损害。</description>
-    </item>
-  
-    <item>
-      <title>How we built Automatic Import, Attack Discovery, and Elastic AI Assistant using LangChain</title>
-      <link>https://www.elastic.co/blog/building-automatic-import-attack-discovery-langchain</link>
-      <description>Elastic Security利用LangChain和生成式AI，推出了自动导入、攻击发现和Elastic AI助手等创新功能，以加速安全团队从传统SIEM向AI驱动的安全分析迁移。这些功能通过LangChain的集成，增强了AI助手理解复杂安全场景和生成查询的能力，以及攻击发现和自动导入的准确性。Elastic Security正引领安全操作工作流程的变革，同时Elastic Observability利用Elastic Search AI平台提供全面的LangChain跟踪和端到端应用跟踪。</description>
     </item>
   
     <item>
@@ -617,12 +593,6 @@
       <title>Google is finally taking action to curb non-consensual deepfakes</title>
       <link>https://www.technologyreview.com/2024/08/06/1095774/google-is-finally-taking-action-to-curb-non-consensual-deepfakes/</link>
       <description>谷歌开始采取措施遏制非自愿深度伪造，包括在搜索结果中屏蔽相关内容，并简化受害者请求删除非法图像的流程。此外，英国和欧盟也出台了相关法规，以规范深度伪造内容的创建和分发。尽管取得了一些进展，但仍需更多努力来打击这一问题。</description>
-    </item>
-  
-    <item>
-      <title>Go structs are copied on assignment (and other things about Go I'd missed)</title>
-      <link>https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/</link>
-      <description>作者Julia Evans分享了她对Go语言的一些误解和常见错误，包括结构体在赋值时被复制、切片操作和方法的接收者类型。她通过阅读“100 Go Mistakes and How To Avoid Them”一书，发现了自己的错误，并提供了相应的解决方案和资源，帮助读者更好地理解Go语言。</description>
     </item>
   
     <item>
