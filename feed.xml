@@ -12,30 +12,6 @@
     </item>
   
     <item>
-      <title>Amper Update August 2024 – Standalone Projects, Settings Tracing, and More</title>
-      <link>https://blog.jetbrains.com/amper/2024/08/amper-update-august-2024/</link>
-      <description>Amper 0.4.0版本发布，引入了项目根定义和设置跟踪功能，优化了独立项目和IDE支持。新版本支持多模块项目配置，并提供了设置跟踪功能，帮助用户理解构建配置。同时，Amper针对多平台项目进行了优化，并更新了仓库地址和插件版本。</description>
-    </item>
-  
-    <item>
-      <title>Why API Security Needs a Proactive Approach</title>
-      <link>https://nordicapis.com/why-api-security-needs-a-proactive-approach/</link>
-      <description>API安全性和治理是当今许多技术领导者的首要关注点。文章指出，普遍存在的问题，如缺乏速率限制、糟糕的授权和身份验证以及最低限度的安全意识，很容易使API容易受到滥用。文章强调了采取主动和自动化的方法来避免问题，如秘密泄露、业务逻辑漏洞、可见性差等。建议组织集中管理API密钥和令牌，限制权限，并教育团队了解令牌安全的重要性。</description>
-    </item>
-  
-    <item>
-      <title>Using GDB to time travel</title>
-      <link>https://developers.redhat.com/articles/2024/08/08/using-gdb-time-travel</link>
-      <description>使用GDB进行时间旅行调试，帮助开发者追踪和修复代码中的bug。通过记录程序执行过程，可以回溯到错误发生前的状态，分析问题所在。这种方法在处理复杂或难以重现的bug时尤其有用。然而，GDB的时间旅行调试功能也有其局限性，如内存消耗大、支持有限、性能下降等。</description>
-    </item>
-  
-    <item>
-      <title>Getting started with OperatorPolicy</title>
-      <link>https://developers.redhat.com/articles/2024/08/08/getting-started-operatorpolicy</link>
-      <description>Red Hat在RHACM 2.11版本中推出了OperatorPolicy技术预览功能，用于简化Kubernetes原生应用的管理。该功能支持控制升级、警报控制和卸载，并可通过策略控制器在集群中查看资源详情。OperatorPolicy还提供了版本管理和卸载配置选项，以帮助用户更安全、高效地管理集群资源。</description>
-    </item>
-  
-    <item>
       <title>Harnessing the Power of Databricks Mosaic AI for Image Generation at Rolls-Royce</title>
       <link>https://www.databricks.com/blog/rolls-royce-mosaic-ai</link>
       <description>Rolls-Royce与Databricks合作，利用Databricks Mosaic AI工具优化图像生成，通过条件生成对抗网络（cGAN）训练，提升设计空间探索能力。项目通过数据建模、3D模型训练和模型优化，实现了多目标约束下的高效设计。Databricks平台降低了成本，加快了模型训练和部署，提高了模型准确性，并提供了数据管理和治理的强大功能。</description>
