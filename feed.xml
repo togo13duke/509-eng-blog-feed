@@ -6,21 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Introducing the New Confluent Cloud Homepage UI: Enhancing User Experience</title>
-      <link>https://www.confluent.io/blog/homepage-updates-2024/</link>
-      <description>Confluent Cloud推出新首页UI，优化用户体验。新设计基于现代UX原则，提供清晰、直观的界面，增强导航和生产力。新功能包括资源概览、快速访问常用资源、发现新主题、数据访问请求和推荐操作。此更新旨在使平台更直观、高效，并持续改进以满足用户需求。</description>
-    </item>
-  
-    <item>
       <title>How FinTech innovator Riverty future-proofs using Atlassian’s suite of Cloud solutions</title>
       <link>https://www.atlassian.com/blog/enterprise/riverty-future-proofs-on-cloud</link>
       <description>德国金融科技公司Riverty通过采用Atlassian的云解决方案，实现了业务现代化和数字化转型。通过迁移到Atlassian Cloud平台，Riverty提高了团队的生产力和创新，优化了客户服务流程，并简化了内部工作流程。这些改进帮助公司在金融科技领域取得了显著的成功。</description>
-    </item>
-  
-    <item>
-      <title>#WeArePlay | How Jakub is infusing Czech mythology into his games</title>
-      <link>http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html</link>
-      <description>Jakub，一位出生于捷克共和国的动画师，将捷克神话融入他的游戏创作中。他于2003年创立了Amanita Design公司，该公司以其独特的游戏风格而闻名，灵感来源于捷克文化、自然和民间传说。Amanita Design的游戏结合了古典工艺和现代技术，以手工制作的角色和自然声音效果为特色，旨在创造真实、沉浸式的游戏体验。</description>
     </item>
   
     <item>
@@ -39,12 +27,6 @@
       <title>Share Your Data from Salesforce Data Cloud to Snowflake</title>
       <link>https://developer.salesforce.com/blogs/2024/08/share-your-data-from-salesforce-data-cloud-to-snowflake.html</link>
       <description>本文介绍了如何使用Salesforce Data Cloud与Snowflake之间的数据共享功能，通过零复制数据共享，简化了开发者将数据从Salesforce Data Cloud的数据湖传输到Snowflake的过程，从而提高工作效率。文章详细说明了连接和配置两个平台、设置数据共享目标、共享数据以及如何在Snowflake中获取数据的步骤。</description>
-    </item>
-  
-    <item>
-      <title>Why do I get E_ACCESS­DENIED when trying to access my brokered Windows Runtime object?COM is double-checking the trust level.</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240808-00/?p=110112</link>
-      <description>当尝试访问Windows Runtime对象时，如果遇到E_ACCESS_DENIED错误，可能是由于COM正在检查信任级别。这通常是因为在将对象从BaseTrust转换为PartialTrust时，忘记更新GetTrustLevel()方法以返回PartialTrust。解决此问题需要确保在C++/WinRT或C++/WRL中正确设置信任级别。</description>
     </item>
   
     <item>
@@ -195,12 +177,6 @@
       <title>Announcing Rust 1.80.1</title>
       <link>https://blog.rust-lang.org/2024/08/08/Rust-1.80.1.html</link>
       <description>Rust 1.80.1版本发布，包含对浮点数比较优化和死代码检查的修复。通过rustup更新即可安装。此版本解决了之前版本中浮点数比较时的误编译问题和死代码检查的误报问题。</description>
-    </item>
-  
-    <item>
-      <title>Preventing SMS Pumping Fraud: A Guide to Our Protective Offerings</title>
-      <link>https://www.twilio.com/en-us/blog/sms-pumping-protection-options</link>
-      <description>Twilio提供多种防护措施以防止短信泵吸欺诈，这是一种欺诈者通过发送大量短信到付费号码以增加成本的不法行为。公司通过Verify API的Verify Fraud Guard、Lookup API的短信泵吸风险评分和Programmable Messaging的自动短信泵吸保护来保护客户免受此类欺诈。这些工具帮助识别和阻止可疑活动，从而保护企业免受财务损失和声誉损害。</description>
     </item>
   
     <item>
