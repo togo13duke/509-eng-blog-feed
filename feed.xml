@@ -12,6 +12,18 @@
     </item>
   
     <item>
+      <title>BW #78: Stock markets</title>
+      <link>https://www.bambooweekly.com/bw-78-stock-markets/</link>
+      <description>本周全球股市普遍下跌，原因包括对美国经济健康状况的担忧、中东地区战争的可能性、日本提高利率以及科技股泡沫的担忧。作者分析了过去几年的股市数据，比较了周一的市场表现，并提出了六个问题和任务，旨在提高读者在多指数、字符串数据和时间数据方面的技能。</description>
+    </item>
+  
+    <item>
+      <title>Major shifts at OpenAI spark skepticism about impending AGI timelines</title>
+      <link>https://arstechnica.com/?p=2041450</link>
+      <description>OpenAI近期经历重大领导层变动，包括联合创始人Greg Brockman和John Schulman的离职，引发对AGI（通用人工智能）发展时程的质疑。Brockman表示将休假至年底，而Schulman则加入竞争对手Anthropic。这些变动引发外界对OpenAI是否接近AGI突破的疑问，尤其是高调员工离职的情况。尽管如此，Schulman对OpenAI的未来表示乐观，并感谢参与这一重要历史时刻的机会。</description>
+    </item>
+  
+    <item>
       <title>Service Design Can Greatly Impact Businesses, and We Can Show You How</title>
       <link>https://blog.avenuecode.com/service-design-can-have-a-great-impact-on-businesses-and-we-can-show-you-how</link>
       <description>服务设计对商业有重大影响，它通过研究、策略和行动来提升客户体验，从而影响满意度、销售和客户保留。通过构建服务蓝图，可以映射客户行为、理解与不同触点的互动，并连接运营部分以更有效地提升销售和保留。这种方法有助于识别改进机会，打破工作隔阂，并最终提升员工和客户的满意度。</description>
@@ -209,6 +221,12 @@
       <title>Lessons from CrowdStrike: Five critical questions to help you increase business resilience</title>
       <link>https://www.thoughtworks.com/insights/blog/technology-strategy/lessons-crowdstrike-five-questions-help-increase-business-resilience</link>
       <description>从CrowdStrike事件中，企业领导者应学习如何更深入地了解组织的技术核心。通过询问技术团队关于系统知识、故障沟通、响应速度、预防措施和外部依赖风险等问题，可以建立透明度和信任，从而更好地应对IT危机。领导者应与技术团队紧密合作，确保对关键系统有足够的了解，并建立有效的沟通和响应机制。</description>
+    </item>
+  
+    <item>
+      <title>Implementing multi-metric scaling: making changes to legacy code safely</title>
+      <link>https://engineeringblog.yelp.com/2024/08/multi-metric-paasta.html</link>
+      <description>Yelp宣布推出多指标水平自动扩展功能，允许使用多个指标进行服务扩展，提高系统弹性和恢复速度。文章详细介绍了如何在不影响现有系统的情况下，对PaaSTA代码进行潜在风险较大的修改，通过严格验证、改进仪表板和警报系统，以及使用快照测试确保系统稳定性，最终成功实现了这一功能。</description>
     </item>
   
     <item>
