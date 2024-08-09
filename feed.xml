@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Download: robotic table tennis, and future space habitats</title>
+      <link>https://www.technologyreview.com/2024/08/09/1096118/the-download-robotic-table-tennis-and-future-space-habitats/</link>
+      <description>MIT Technology Review最新报道，谷歌DeepMind训练的机器人能在业余水平上击败人类乒乓球选手，标志着机器人技术的一大进步。同时，Aurelia Institute设计的太空栖息地可在轨道上自行组装，为未来太空探索提供新思路。此外，Precision Neuroscience公司通过脑电图技术捕捉大脑思考过程，揭示了思维背后的电信号活动。</description>
+    </item>
+  
+    <item>
+      <title>Comparison: Employee Investing in Professional Services vs. Startups</title>
+      <link>https://spin.atomicobject.com/employee-owners-pros-cons/</link>
+      <description>在专业服务机构和初创公司中作为员工所有者的比较：专业服务机构提供稳定的收入流和利润分享，但增长潜力有限；而初创公司具有高增长潜力，但风险较大，收益和损失都可能很大。</description>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #216: Learning Through Building the Black Python Devs Community</title>
+      <link>https://realpython.com/podcasts/rpp/216/</link>
+      <description>Jay Miller在《Real Python Podcast》的第216期节目中讨论了建立Black Python Devs社区的经历。他分享了如何通过参加会议激发建立社区的灵感，以及如何吸引更多黑人开发者加入Python社区。节目还探讨了在社区成员增加时如何分配责任和所有权，以及与非营利组织的合作优势。</description>
+    </item>
+  
+    <item>
+      <title>Golden Opportunities: California to Train Students, Educators in AI</title>
+      <link>https://blogs.nvidia.com/blog/california-ai-education/</link>
+      <description>加州与NVIDIA合作，推出首个AI教育计划，旨在通过提供资源和培训，帮助学生和教师掌握生成式AI技能，以支持劳动力培训和经济发展。该计划将帮助教育工作者获得认证，并为学生和在职专业人士提供培训，同时探索实习和学徒计划，以提供实际操作经验。NVIDIA还致力于通过教育项目和跨行业合作，使AI技术更易于学生和专业人士理解和使用。</description>
+    </item>
+  
+    <item>
       <title>Google DeepMind trained a robot to beat humans at table tennis</title>
       <link>https://www.technologyreview.com/2024/08/09/1096102/google-deepmind-trained-a-robot-to-beat-humans-at-table-tennis/</link>
       <description>谷歌DeepMind训练的机器人能在乒乓球比赛中击败人类，通过大量数据优化其打法，并在比赛中调整策略。这一研究展示了机器人未来在家庭和仓库等真实环境中执行有用任务的潜力。</description>
@@ -33,6 +57,12 @@
       <title>Increasing developer productivity with OpenShift VirtBuilding virtual machines with Red Hat Developer Hub: The what, why, and howualization using Red Hat Developer Hub</title>
       <link>https://developers.redhat.com/articles/2024/08/09/increasing-developer-productivity-openshift-virtbuilding-virtual-machines-red</link>
       <description>Red Hat Developer Hub通过简化虚拟机迁移和部署，提高开发者的生产力。它允许用户通过GitOps自动化虚拟机创建，并利用OpenShift虚拟化技术，将现有虚拟机与云原生架构集成，从而实现应用现代化。Red Hat Developer Hub提供单一界面，支持从旧系统到云原生技术的迁移，并确保VM创建的一致性和可扩展性。</description>
+    </item>
+  
+    <item>
+      <title>Error'd: The State of the Arts</title>
+      <link>https://thedailywtf.com/articles/the-state-of-the-arts</link>
+      <description>《艺术的状态》探讨了艺术领域的各种趣事和挑战，包括记录验证问题、排序算法的误解、以及JavaScript中的数字格式问题。文章通过多个小故事展示了技术领域的幽默和复杂性。</description>
     </item>
   
     <item>
