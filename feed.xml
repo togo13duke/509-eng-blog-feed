@@ -60,12 +60,6 @@
     </item>
   
     <item>
-      <title>Building virtual machines with Red Hat Developer Hub: The what, why, and how</title>
-      <link>https://developers.redhat.com/articles/2024/08/09/building-virtual-machines-red-hat-developer-hub-what-why-and-how</link>
-      <description>红帽开发者中心通过OpenShift虚拟化技术，简化了虚拟机的迁移和部署，加快了生产时间，并统一了虚拟机、容器和无服务器工作负载的管理。Red Hat开发者中心提供了一个统一的界面，允许用户通过GitOps管理虚拟机，并利用云原生技术如OpenShift管道和Red Hat OpenShift服务网格。通过使用Red Hat开发者中心，用户可以自动化虚拟机的创建，并确保创建的虚拟机符合最佳实践和一致性。</description>
-    </item>
-  
-    <item>
       <title>Error'd: The State of the Arts</title>
       <link>https://thedailywtf.com/articles/the-state-of-the-arts</link>
       <description>《艺术的状态》探讨了艺术领域的各种趣事和挑战，包括记录验证问题、排序算法的误解、以及JavaScript中的数字格式问题。文章通过多个小故事展示了技术领域的幽默和复杂性。</description>
@@ -81,12 +75,6 @@
       <title>CloudFormation's ZipFile still does not support ESM imports</title>
       <link>https://advancedweb.hu/shorts/cloudformations-zipfile-still-does-not-support-esm-imports/</link>
       <description>CloudFormation的ZipFile不支持ESM导入，导致在Lambda函数中使用require()代替ESM模块导入。这是因为CloudFormation上传包时将内容放入index.js文件，Node.js将其视为CommonJS模块。Node.js的实验性功能可以自动检测模块，但尚未启用。建议AWS提供选项，允许在ZipFile中使用模块。</description>
-    </item>
-  
-    <item>
-      <title>Navigating the post-Chevron landscape: The case for closer public-private partnerships</title>
-      <link>https://www.elastic.co/blog/public-private-partnerships-chevron</link>
-      <description>美国最高法院推翻了Chevron原则，这要求国会制定更明确的法律，以应对技术监管的挑战。对于科技公司如Elastic来说，这意味着需要更紧密地与政府合作，以提供技术专长，并帮助塑造有利于创新的法规。</description>
     </item>
   
     <item>
