@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>Increasing developer productivity with OpenShift VirtBuilding virtual machines with Red Hat Developer Hub: The what, why, and howualization using Red Hat Developer Hub</title>
+      <link>https://developers.redhat.com/articles/2024/08/09/increasing-developer-productivity-openshift-virtbuilding-virtual-machines-red</link>
+      <description>Red Hat Developer Hub通过简化虚拟机迁移和部署，提高开发者的生产力。它允许用户通过GitOps自动化虚拟机创建，并利用OpenShift虚拟化技术，将现有虚拟机与云原生架构集成，从而实现应用现代化。Red Hat Developer Hub提供单一界面，支持从旧系统到云原生技术的迁移，并确保VM创建的一致性和可扩展性。</description>
+    </item>
+  
+    <item>
       <title>Why CTOs are choosing Hotwire and Ruby on Rails</title>
       <link>https://thoughtbot.com/blog/the-strategy-behind-hotwire-and-ruby-on-rails-from-the-cto-of-clara</link>
       <description>CTOs选择Hotwire和Ruby on Rails的原因在于其高效的开发速度和强大的生态系统。Hotwire允许在保持一致性的同时加快迭代速度，而Ruby on Rails则提供了“电池包含”的特性，使得开发过程更加便捷。这种单代码库的方法有助于减少上下文切换和数据处理层，特别适合资源有限且需要快速适应变化的初创公司。</description>
@@ -737,6 +743,12 @@
       <title>Categorizing Data with Large Language Models in Rust</title>
       <link>https://www.ardanlabs.com/blog/2024/07/categorize_data_large_language_model_rust.html</link>
       <description>本文探讨了使用大型语言模型（LLM）在Rust中进行数据分类的方法。作者介绍了开源项目LibreQoS，它能够监控和提供网络质量。文章重点介绍了如何使用Rust和LLM来分类ASN（自治系统编号）数据，包括从CSV文件中加载数据、去重、设置本地LLM以及通过API与LLM交互。作者还讨论了如何通过从网站抓取文本作为上下文来改进LLM的分类结果。</description>
+    </item>
+  
+    <item>
+      <title>How to Read and Write CSV Files Using Go</title>
+      <link>https://www.twilio.com/en-us/blog/read-write-csv-file-go</link>
+      <description>本文介绍了如何使用Go语言读取和写入CSV文件。CSV文件是一种常见的文本格式，用于存储和交换数据。文章详细讲解了在Go中处理CSV数据的基本方法，包括从文件中读取和写入数据、处理表头、错误处理和数据格式化。通过学习，读者可以掌握如何在Go应用程序中集成CSV文件处理。</description>
     </item>
   
     <item>
