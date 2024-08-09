@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How we’re making Stack Overflow more accessible</title>
+      <link>https://stackoverflow.blog/2024/08/09/how-we-re-making-stack-overflow-more-accessible/</link>
+      <description>Stack Overflow通过遵循WCAG指南并使用APCA算法测量色彩对比度，提升了其产品的可访问性。公司量化了产品的可访问性，并建立了可访问性仪表板以跟踪产品进展。此外，Stack Overflow还开源了全面的可访问性测试规则。</description>
+    </item>
+  
+    <item>
       <title>Why CTOs are choosing Hotwire and Ruby on Rails</title>
       <link>https://thoughtbot.com/blog/the-strategy-behind-hotwire-and-ruby-on-rails-from-the-cto-of-clara</link>
       <description>CTOs选择Hotwire和Ruby on Rails的原因在于其高效的开发速度和强大的生态系统。Hotwire允许在保持一致性的同时加快迭代速度，而Ruby on Rails则提供了“电池包含”的特性，使得开发过程更加便捷。这种单代码库的方法有助于减少上下文切换和数据处理层，特别适合资源有限且需要快速适应变化的初创公司。</description>
