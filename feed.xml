@@ -6,15 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>6 Confluence page elements you didn’t know you needed</title>
+      <link>https://www.atlassian.com/blog/confluence/6-confluence-page-elements-you-didnt-know-you-needed</link>
+      <description>Atlassian的这篇博客文章介绍了六个提升Confluence页面设计和功能的元素。这些元素包括：路线图规划器、布局、展开框、目录、头部图像和表情符号以及任务报告。通过使用这些元素，用户可以增强页面互动性，简化页面创建，并更清晰地传达想法。</description>
+    </item>
+  
+    <item>
+      <title>Build search and RAG systems on PostgreSQL using Cohere and pgai</title>
+      <link>https://www.timescale.com/blog/build-search-and-rag-systems-on-postgresql-using-cohere-and-pgai/</link>
+      <description>Timescale扩展了PostgreSQL，提供更快的时间序列和数据分析功能。通过Cohere和pgai扩展，用户可以在PostgreSQL上构建搜索和RAG系统，实现高效的文本嵌入、结果重排序和推理。Cohere模型支持多种语言，优化了企业级应用，适用于构建AI助手、文档总结等复杂应用。结合pgai和PostgreSQL，用户可以轻松实现高效的AI应用开发。</description>
+    </item>
+  
+    <item>
+      <title>ChatGPT unexpectedly began speaking in a user’s cloned voice during testing</title>
+      <link>https://arstechnica.com/?p=2042102</link>
+      <description>OpenAI的ChatGPT在测试中意外地模仿了用户的克隆声音，这揭示了在安全构建能够模仿任何声音的AI聊天机器人方面的复杂性。尽管OpenAI已经采取了预防措施，但这一事件引发了关于AI安全和隐私的担忧。</description>
+    </item>
+  
+    <item>
       <title>What Is Attribute-Based Access Control (ABAC) and How to Implement It in a Rails API?</title>
       <link>https://auth0.com/blog/what-is-abac-and-how-to-implement-it-rails-api/</link>
       <description>本文介绍了基于属性访问控制（ABAC）的概念及其在Rails API中的应用。文章首先解释了ABAC如何根据用户、对象属性、环境条件和策略来决定访问权限，然后通过一个实际案例，展示了如何将RBAC迁移到ABAC，包括如何连接Auth0 API和应用，以及如何在控制器中实现所有权验证和角色验证。总结来说，本文详细阐述了如何在Rails API中实现ABAC，以提供更细粒度的访问控制。</description>
     </item>
   
     <item>
+      <title>Ars asks: What was the last CD or DVD you burned?</title>
+      <link>https://arstechnica.com/?p=2042118</link>
+      <description>随着苹果SuperDrive的停产，作者回忆起自己最后一次制作光盘的经历，包括个人音乐CD和为心爱的人制作的混音带，反映了数字时代之前对物理媒体的怀旧情感。</description>
+    </item>
+  
+    <item>
       <title>The Migration Blueprint</title>
       <link>https://tomassetti.me/the-migration-blueprint/</link>
       <description>Strumenta的迁移蓝图是一个帮助公司从一种编程语言迁移到另一种语言的详细计划。该计划首先分析现有系统，包括其结构、使用的技术和代码库，然后定义新的系统架构和迁移策略。通过识别风险和设计代码转换，蓝图旨在确保迁移过程顺利进行，同时减少中断和成本。</description>
+    </item>
+  
+    <item>
+      <title>What does it even mean to Close a Windows Runtime asynchronous operation or action?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116</link>
+      <description>探讨Windows运行时异步操作或动作的关闭方法，分析了不同实现方式及其规则，包括在操作完成前不能调用关闭方法、关闭后不允许调用任何方法或成员访问等。</description>
     </item>
   
     <item>
@@ -48,6 +78,12 @@
     </item>
   
     <item>
+      <title>Retailers – are you ready to up your game on sports fashion?</title>
+      <link>https://algolia.com/blog/ecommerce/retailers-sports-fashion/</link>
+      <description>2024年，体育赛事和体育时尚达到高潮，消费者对体育相关商品的需求增加。调查显示，38%的消费者在大型国际体育赛事期间购买纪念品，40%的消费者因赛事而购买体育用品。消费者主要在亚马逊、官方网站和喜爱的运动品牌网站搜索相关商品。56%的消费者认为零售商在设计和提供受大型国际体育赛事启发的时尚方面可以做得更好。零售商应准备好提供相关、个性化的商品，以吸引体育迷。</description>
+    </item>
+  
+    <item>
       <title>Golden Opportunities: California to Train Students, Educators in AI</title>
       <link>https://blogs.nvidia.com/blog/california-ai-education/</link>
       <description>加州与NVIDIA合作，推出首个AI教育计划，旨在通过提供资源和培训，帮助学生和教师掌握生成式AI技能，以支持劳动力培训和经济发展。该计划将帮助教育工作者获得认证，并为学生和在职专业人士提供培训，同时探索实习和学徒计划，以提供实际操作经验。NVIDIA还致力于通过教育项目和跨行业合作，使AI技术更易于学生和专业人士理解和使用。</description>
@@ -75,6 +111,12 @@
       <title>How we’re making Stack Overflow more accessible</title>
       <link>https://stackoverflow.blog/2024/08/09/how-we-re-making-stack-overflow-more-accessible/</link>
       <description>Stack Overflow通过遵循WCAG指南并使用APCA算法测量色彩对比度，提升了其产品的可访问性。公司量化了产品的可访问性，并建立了可访问性仪表板以跟踪产品进展。此外，Stack Overflow还开源了全面的可访问性测试规则。</description>
+    </item>
+  
+    <item>
+      <title>Elevating Data Intelligence: Key Insights from Industry Leaders on Data and AI</title>
+      <link>https://www.databricks.com/blog/elevating-data-intelligence-key-insights-industry-leaders-data-and-ai</link>
+      <description>数据与人工智能的融合成为企业关键投资领域，行业专家强调高质量数据、合规性和数据基础建设的重要性。通过技术平台整合AI，确保数据安全与访问控制，并推动数据民主化，企业可充分利用AI潜力，同时降低风险。</description>
     </item>
   
     <item>
