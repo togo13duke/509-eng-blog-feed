@@ -6,15 +6,39 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Build search and RAG systems on PostgreSQL using Cohere and pgai</title>
+      <link>https://www.timescale.com/blog/build-search-and-rag-systems-on-postgresql-using-cohere-and-pgai/</link>
+      <description>Timescale扩展了PostgreSQL，提供更快的时间序列和数据分析功能。通过Cohere和pgai扩展，用户可以在PostgreSQL上构建搜索和RAG系统，实现高效的文本嵌入、结果重排序和推理。Cohere模型支持多种语言，优化了企业级应用，适用于构建AI助手、文档总结等复杂应用。结合pgai和PostgreSQL，用户可以轻松实现高效的AI应用开发。</description>
+    </item>
+  
+    <item>
+      <title>ChatGPT unexpectedly began speaking in a user’s cloned voice during testing</title>
+      <link>https://arstechnica.com/?p=2042102</link>
+      <description>OpenAI的ChatGPT在测试中意外地模仿了用户的克隆声音，这揭示了在安全构建能够模仿任何声音的AI聊天机器人方面的复杂性。尽管OpenAI已经采取了预防措施，但这一事件引发了关于AI安全和隐私的担忧。</description>
+    </item>
+  
+    <item>
       <title>What Is Attribute-Based Access Control (ABAC) and How to Implement It in a Rails API?</title>
       <link>https://auth0.com/blog/what-is-abac-and-how-to-implement-it-rails-api/</link>
       <description>本文介绍了基于属性访问控制（ABAC）的概念及其在Rails API中的应用。文章首先解释了ABAC如何根据用户、对象属性、环境条件和策略来决定访问权限，然后通过一个实际案例，展示了如何将RBAC迁移到ABAC，包括如何连接Auth0 API和应用，以及如何在控制器中实现所有权验证和角色验证。总结来说，本文详细阐述了如何在Rails API中实现ABAC，以提供更细粒度的访问控制。</description>
     </item>
   
     <item>
+      <title>Ars asks: What was the last CD or DVD you burned?</title>
+      <link>https://arstechnica.com/?p=2042118</link>
+      <description>随着苹果SuperDrive的停产，作者回忆起自己最后一次制作光盘的经历，包括个人音乐CD和为心爱的人制作的混音带，反映了数字时代之前对物理媒体的怀旧情感。</description>
+    </item>
+  
+    <item>
       <title>The Migration Blueprint</title>
       <link>https://tomassetti.me/the-migration-blueprint/</link>
       <description>Strumenta的迁移蓝图是一个帮助公司从一种编程语言迁移到另一种语言的详细计划。该计划首先分析现有系统，包括其结构、使用的技术和代码库，然后定义新的系统架构和迁移策略。通过识别风险和设计代码转换，蓝图旨在确保迁移过程顺利进行，同时减少中断和成本。</description>
+    </item>
+  
+    <item>
+      <title>What does it even mean to Close a Windows Runtime asynchronous operation or action?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116</link>
+      <description>探讨Windows运行时异步操作或动作的关闭方法，分析了不同实现方式及其规则，包括在操作完成前不能调用关闭方法、关闭后不允许调用任何方法或成员访问等。</description>
     </item>
   
     <item>
