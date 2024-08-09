@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Google DeepMind trained a robot to beat humans at table tennis</title>
+      <link>https://www.technologyreview.com/2024/08/09/1096102/google-deepmind-trained-a-robot-to-beat-humans-at-table-tennis/</link>
+      <description>谷歌DeepMind训练的机器人能在乒乓球比赛中击败人类，通过大量数据优化其打法，并在比赛中调整策略。这一研究展示了机器人未来在家庭和仓库等真实环境中执行有用任务的潜力。</description>
+    </item>
+  
+    <item>
+      <title>Watch a video showing what happens in our brains when we think</title>
+      <link>https://www.technologyreview.com/2024/08/09/1095969/video-what-happens-when-we-think/</link>
+      <description>MIT Technology Review报道，Precision Neuroscience公司正在开发一种新型脑机接口技术，通过植入电极收集大脑活动信号，以研究思维过程。这项技术有望帮助瘫痪者通过思维控制电脑，并可能用于治疗疾病和改善记忆。研究人员已成功在志愿者大脑中植入电极，并记录了思维活动的电信号。目前，该技术尚处于试验阶段，预计未来将得到更广泛的应用。</description>
+    </item>
+  
+    <item>
+      <title>This futuristic space habitat is designed to self-assemble in orbit</title>
+      <link>https://www.technologyreview.com/2024/08/09/1096097/this-futuristic-space-habitat-is-designed-to-self-assemble-in-orbit/</link>
+      <description>Aurelia Institute开发了一种未来派太空栖息地，可在轨道上紧凑地携带并自行组装，以降低发射成本。这种栖息地由扁平的瓷砖组成，可像IKEA家具一样堆叠，并通过磁力自行组装。该技术旨在提高太空栖息地的建设安全性，并有望在2030年代实现载人任务。</description>
+    </item>
+  
+    <item>
       <title>How we’re making Stack Overflow more accessible</title>
       <link>https://stackoverflow.blog/2024/08/09/how-we-re-making-stack-overflow-more-accessible/</link>
       <description>Stack Overflow通过遵循WCAG指南并使用APCA算法测量色彩对比度，提升了其产品的可访问性。公司量化了产品的可访问性，并建立了可访问性仪表板以跟踪产品进展。此外，Stack Overflow还开源了全面的可访问性测试规则。</description>
@@ -21,6 +39,12 @@
       <title>Why CTOs are choosing Hotwire and Ruby on Rails</title>
       <link>https://thoughtbot.com/blog/the-strategy-behind-hotwire-and-ruby-on-rails-from-the-cto-of-clara</link>
       <description>CTOs选择Hotwire和Ruby on Rails的原因在于其高效的开发速度和强大的生态系统。Hotwire允许在保持一致性的同时加快迭代速度，而Ruby on Rails则提供了“电池包含”的特性，使得开发过程更加便捷。这种单代码库的方法有助于减少上下文切换和数据处理层，特别适合资源有限且需要快速适应变化的初创公司。</description>
+    </item>
+  
+    <item>
+      <title>CloudFormation's ZipFile still does not support ESM imports</title>
+      <link>https://advancedweb.hu/shorts/cloudformations-zipfile-still-does-not-support-esm-imports/</link>
+      <description>CloudFormation的ZipFile不支持ESM导入，导致在Lambda函数中使用require()代替ESM模块导入。这是因为CloudFormation上传包时将内容放入index.js文件，Node.js将其视为CommonJS模块。Node.js的实验性功能可以自动检测模块，但尚未启用。建议AWS提供选项，允许在ZipFile中使用模块。</description>
     </item>
   
     <item>
