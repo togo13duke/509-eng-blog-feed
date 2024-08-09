@@ -276,12 +276,6 @@
     </item>
   
     <item>
-      <title>Ep. 4: Streamlining Prompt Engineering and Context Handling in Generative AI</title>
-      <link>https://www.ardanlabs.com/blog/2024/07/streamlining-prompt-engineering-and-context-handling-in-generative-ai-ep4.html</link>
-      <description>本期博客深入探讨了生成式AI训练中的提示工程和上下文处理。文章介绍了动态提示模板的创建和使用，以及如何在AI应用中集成和切换多个上下文。通过案例研究，展示了如何利用提示模板提高AI交互的效率和准确性，并使AI系统能够实时响应用户输入。</description>
-    </item>
-  
-    <item>
       <title>BW #78: Stock markets</title>
       <link>https://www.bambooweekly.com/bw-78-stock-markets/</link>
       <description>本周全球股市普遍下跌，原因包括对美国经济健康状况的担忧、中东地区战争的可能性、日本提高利率以及科技股泡沫的担忧。作者分析了过去几年的股市数据，比较了周一的市场表现，并提出了六个问题和任务，旨在提高读者在多指数、字符串数据和时间数据方面的技能。</description>
