@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why CTOs are choosing Hotwire and Ruby on Rails</title>
+      <link>https://thoughtbot.com/blog/the-strategy-behind-hotwire-and-ruby-on-rails-from-the-cto-of-clara</link>
+      <description>CTOs选择Hotwire和Ruby on Rails的原因在于其高效的开发速度和强大的生态系统。Hotwire允许在保持一致性的同时加快迭代速度，而Ruby on Rails则提供了“电池包含”的特性，使得开发过程更加便捷。这种单代码库的方法有助于减少上下文切换和数据处理层，特别适合资源有限且需要快速适应变化的初创公司。</description>
+    </item>
+  
+    <item>
       <title>The art and the science of brand naming</title>
       <link>https://www.atlassian.com/blog/strategy/brand-naming</link>
       <description>品牌命名：艺术与科学的结合。本文探讨了品牌命名的艺术与科学，强调了命名的重要性，并提供了最佳实践，如探索品牌本质、组建跨职能团队、确保名称独特且易于理解，以及如何处理不同意见和商标风险。</description>
