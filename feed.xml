@@ -42,12 +42,6 @@
     </item>
   
     <item>
-      <title>7 Things That Helped Me Grow as a Software&nbsp;Engineer</title>
-      <link>https://ruslanspivak.com/bb04/</link>
-      <description>作为一名软件工程师，成长之路需要内在驱动力、持续交付结果、选择有影响力的项目、深化专业知识、教学、容忍冲突以及理解商业运作。热爱挑战、过程和成长，保持好奇心，是成功的关键。</description>
-    </item>
-  
-    <item>
       <title>What Is Attribute-Based Access Control (ABAC) and How to Implement It in a Rails API?</title>
       <link>https://auth0.com/blog/what-is-abac-and-how-to-implement-it-rails-api/</link>
       <description>本文介绍了基于属性访问控制（ABAC）的概念及其在Rails API中的应用。文章首先解释了ABAC如何根据用户、对象属性、环境条件和策略来决定访问权限，然后通过一个实际案例，展示了如何将RBAC迁移到ABAC，包括如何连接Auth0 API和应用，以及如何在控制器中实现所有权验证和角色验证。总结来说，本文详细阐述了如何在Rails API中实现ABAC，以提供更细粒度的访问控制。</description>
