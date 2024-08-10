@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Top 7 goal setting software for teams</title>
+      <link>https://www.atlassian.com/blog/work-management/goal-setting-software</link>
+      <description>本文介绍了七款优秀的团队目标设定软件，旨在帮助团队更有效地设定、跟踪和实现目标。这些软件提供了一系列功能，如里程碑跟踪、进度可视化、沟通工具等，以促进团队合作和目标管理。其中包括Confluence、Jira、Jira Service Management、Jira Product Discovery、Atlas、Loom等，每款软件都有其独特的优势和应用场景。通过使用这些工具，团队可以提高生产力、促进协作，并实现共同目标。</description>
+    </item>
+  
+    <item>
+      <title>Nashville man arrested for running “laptop farm” to get jobs for North Koreans</title>
+      <link>https://arstechnica.com/?p=2042326</link>
+      <description>美国田纳西州纳什维尔一名男子因运营“笔记本电脑农场”以帮助北朝鲜人获得工作而被联邦当局逮捕。该男子通过欺骗美国公司雇佣北朝鲜国民，并使用偷来的身份信息，使这些国民看似是美国公民，从而将收入转移至北朝鲜的武器项目。该男子面临包括电讯诈骗、故意损害受保护计算机、加重身份盗窃和非法雇佣外国人共谋等多项指控。</description>
+    </item>
+  
+    <item>
+      <title>Making an Ollama-compatible RAG app</title>
+      <link>http://blog.pamelafox.org/2024/08/making-ollama-compatible-rag-app.html</link>
+      <description>本文介绍了如何创建一个与Ollama兼容的RAG应用程序。作者详细描述了实现过程中的四个挑战：引用格式、向量嵌入、函数调用和令牌计数，并分享了相应的解决方案。通过这些努力，作者成功地将RAG应用程序与Ollama集成，使其能够在本地机器上运行小型语言模型，并提供了开源代码供他人使用。</description>
+    </item>
+  
+    <item>
       <title>6 Confluence page elements you didn’t know you needed</title>
       <link>https://www.atlassian.com/blog/confluence/6-confluence-page-elements-you-didnt-know-you-needed</link>
       <description>Atlassian的这篇博客文章介绍了六个提升Confluence页面设计和功能的元素。这些元素包括：路线图规划器、布局、展开框、目录、头部图像和表情符号以及任务报告。通过使用这些元素，用户可以增强页面互动性，简化页面创建，并更清晰地传达想法。</description>
@@ -1061,6 +1079,18 @@
       <title>eBay Foundation Welcomes Two New Board Members</title>
       <link>https://www.ebayinc.com/stories/news/ebay-foundation-welcomes-two-new-board-members/</link>
       <description>eBay基金会欢迎两位新董事会成员加入：Derek Allgood和Lorena Martinez。Allgood拥有在推动大规模增长和影响方面的丰富经验，曾担任eBay全球客户体验副总裁，并共同创立了GCX4Good。Martinez在解决复杂商业挑战方面有着卓越的职业生涯，致力于包容性合作、创新和教育。两位新成员的加入将加强eBay基金会在促进经济机会和消除创业障碍方面的战略使命。</description>
+    </item>
+  
+    <item>
+      <title>eBay’s AI investments fuel streamlined experiences for buyers and sellers</title>
+      <link>https://www.retaildive.com/news/ebays-generative-ai-experiences-magic-listing-shop-the-look/723146/</link>
+      <description>eBay通过投资人工智能技术，提升了买家和卖家的购物体验。公司推出了“Shop the Look”和“Explore”等工具，帮助买家发现灵感，并为卖家简化了商品上架流程。这些改进使得买卖过程更加高效，并提高了客户满意度。</description>
+    </item>
+  
+    <item>
+      <title>Eco-Activist/Actress Alicia Silverstone and eBay Discuss Benefits of Pre-loved Re-commerce</title>
+      <link>https://wwd.com/business-news/business-features/alicia-silverstone-ebay-tout-recommerce-sustainability-benefits-1236515363/</link>
+      <description>艾丽西亚·西尔弗斯坦与eBay共同探讨二手商品交易的可持续性益处，eBay的2024年再交易报告显示，消费者对可持续购物趋势持乐观态度，尽管面临经济和政治挑战，但近半数消费者表示购买二手产品是今年的趋势，并感到对未来充满希望。</description>
     </item>
   
     <item>
