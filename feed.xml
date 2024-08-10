@@ -72,6 +72,12 @@
     </item>
   
     <item>
+      <title>Update regarding Vercel service disruption on August 7, 2024</title>
+      <link>https://vercel.com/blog/update-regarding-vercel-service-disruption-on-august-7-2024</link>
+      <description>2024年8月7日，Vercel的Edge Middleware和Edge Functions服务遭遇重大中断，影响了众多客户。中断持续了26分钟，导致61%的调用出现高错误率。Vercel正在采取措施增强其边缘中间件和边缘函数的弹性，包括与计算提供商紧密合作确保其安全措施正确配置，开发备份选项，以及统一简化基础设施。Vercel致力于提高可靠性和弹性，并采取措施防止未来发生类似事件。</description>
+    </item>
+  
+    <item>
       <title>The Download: robotic table tennis, and future space habitats</title>
       <link>https://www.technologyreview.com/2024/08/09/1096118/the-download-robotic-table-tennis-and-future-space-habitats/</link>
       <description>MIT Technology Review最新报道，谷歌DeepMind训练的机器人能在业余水平上击败人类乒乓球选手，标志着机器人技术的一大进步。同时，Aurelia Institute设计的太空栖息地可在轨道上自行组装，为未来太空探索提供新思路。此外，Precision Neuroscience公司通过脑电图技术捕捉大脑思考过程，揭示了思维背后的电信号活动。</description>
