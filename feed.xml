@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A two times two week</title>
+      <link>http://blog.mitrichev.ch/2024/08/a-two-times-two-week.html</link>
+      <description>上周没有要提到的比赛，但在那之前，我忘记提到了第3届宇宙杯第5阶段：莫斯科（问题、结果、前5名见左）。HoMaMaOvO队是唯一在最后一小时前完成比赛的队伍，但他们因为在对更容易的问题上速度稍慢而输给了USA1队。恭喜两队，以及Polish Mafia队，他们速度很快，但错误尝试次数更多，还有MIT Isn't Training队，他们是唯一剩下的AK队。本文还讨论了两个有趣的问题，一个是关于位序列和排列的算法问题，另一个是关于在一个网格中放置数字并赢得游戏的策略问题。</description>
+    </item>
+  
+    <item>
       <title>Announcing Paid Plans for Logo Tools</title>
       <link>https://catonmat.net/paid-plans-for-logo-tools</link>
       <description>Browserling团队宣布推出Logo Tools付费计划，为用户提供更多功能和服务。</description>
