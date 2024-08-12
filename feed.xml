@@ -6,6 +6,60 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>We've Added 10 New Logo Tools</title>
+      <link>https://catonmat.net/10-new-logo-tools</link>
+      <description>Browserling团队最近增加了10款新的Logo工具，包括选择颜色、添加边框、格式转换等。下周还将推出更多工具。</description>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Mithra, Amazon Titan Image Generator v2, AWS GenAI Lofts, and more (August 12, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mithra-amazon-titan-image-generator-v2-aws-genai-lofts-and-more-august-12-2024/</link>
+      <description>AWS本周发布了多项新功能，包括Amazon Titan Image Generator v2、AWS GenAI Lofts等，旨在提升云安全和人工智能应用。此外，还推出了 Anthropic Claude 模型、私有IPv6地址支持、Amazon EFS的读取吞吐量提升以及Amazon Redshift ML中的大型语言模型。</description>
+    </item>
+  
+    <item>
+      <title>Thinking Outside the (Black) Box</title>
+      <link>https://blog.palantir.com/thinking-outside-the-black-box-24d0c87ec8a5?source=rss----3c87dc14372f---4</link>
+      <description>Palantir AIP通过采用思维链提示和将特定逻辑任务委托给更可解释的工具，使用户能够深入了解高级LLM系统的操作。通过AIP逻辑中的LLM调试器，用户可以跟踪LLM的编排和工具交接，从而加深对AI系统的理解和信任。这些方法使组织能够自信地将LLM应用于最复杂的业务挑战，确保其AI解决方案不仅强大，而且透明可信。</description>
+    </item>
+  
+    <item>
+      <title>Level up your Python and Pandas</title>
+      <link>https://www.bambooweekly.com/live-courses-august-2024/</link>
+      <description>本周，我们分析了多个主要股票市场指数的数据，旨在了解本周早些时候的大幅下跌是否在历史标准下异常，并探索不同指数之间的联系。</description>
+    </item>
+  
+    <item>
+      <title>Migrating Kafka to the Cloud: How Skai Went From 90K to 1.8K Topics</title>
+      <link>https://www.confluent.io/blog/skai-cloud-migration-topic-reduction/</link>
+      <description>Skai通过将Apache Kafka迁移到云平台，成功将管理的话题数量从90K减少到1.8K，显著降低了维护成本和复杂性。通过优化架构和引入新的监控工具，Skai实现了更高的性能和更有效的资源利用，为云迁移奠定了坚实的基础。</description>
+    </item>
+  
+    <item>
+      <title>Embracing the power of the empty set in API design (and applying this principle to selectors and filters)</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240812-00/?p=110121</link>
+      <description>在API设计中，空集合的概念被证明是强大的。文章讨论了在方法返回集合时，如果没有元素返回，应返回空集合而不是null引用。这确保了算法在处理空集合时能够正常工作，并避免了潜在的空指针异常。此外，空集合在并集和交集操作中也遵循数学规则，对于选择器和过滤器模式，空集合意味着没有选择或所有元素都符合条件。这种设计使得许多操作具有自然的意义，并提高了代码的健壮性。</description>
+    </item>
+  
+    <item>
+      <title>Python News Roundup: August 2024</title>
+      <link>https://realpython.com/python-news-august-2024/</link>
+      <description>2024年8月，Python社区迎来多项重要更新。Python 3.13.0b4和3.13.0rc1发布，标志着语言进入发布候选阶段，带来多项新特性。Python软件基金会（PSF）宣布了新成员和董事会选举结果。PyOhio 2024会议举行，多个Python项目发布新版本，包括Django、Pillow、pytest、Pydantic和Sphinx。PEP 751提出新的依赖文件格式，旨在提高Python环境的可重复性。</description>
+    </item>
+  
+    <item>
+      <title>Adding the ESLint Tool to an AI Assistant: Improving Recommendations for JS/TS Projects</title>
+      <link>https://www.docker.com/blog/adding-the-eslint-tool-to-an-ai-assistant/</link>
+      <description>将AI助手与ESLint工具结合，提升JavaScript和TypeScript项目的代码质量和一致性。通过使用Docker环境和StandardJS简化ESLint配置，AI助手能够提供可操作的代码建议和自动修复功能，从而提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>Beginner’s guide to GitHub: Creating a pull request</title>
+      <link>https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/</link>
+      <description>GitHub入门指南：创建拉取请求，介绍如何创建和提交更改建议，以便他人审查。通过学习如何创建小而清晰的请求，提供上下文和指导，可以有效地贡献代码并促进团队协作。</description>
+    </item>
+  
+    <item>
       <title>The Download: how we’re using AI, and Trump’s campaign hack</title>
       <link>https://www.technologyreview.com/2024/08/12/1096204/the-download-how-were-using-ai-and-trumps-campaign-hack/</link>
       <description>MIT Technology Review的《The Download》最新一期探讨了人工智能的实际应用，包括人们如何与AI系统建立关系，以及特朗普竞选团队的黑客攻击事件。文章还涉及肉类行业的可持续性问题、加密数据泄露导致性贩卖者被捕、品牌如何利用AI预测影响者政治立场等科技新闻。</description>
@@ -15,6 +69,12 @@
       <title>Embed Payload CMS 3.0 Admin UI in Your Next.js App</title>
       <link>https://spin.atomicobject.com/embed-payload-cms-next-js-app/</link>
       <description>本文介绍了如何将Payload CMS 3.0 beta集成到Next.js应用程序中，并在Next.js web应用中嵌入Payload CMS Admin UI。Payload CMS是一个基于Node.js、Express和MongoDB的开源无头内容管理系统，易于管理内容并提供强大的后端。教程详细说明了设置Next.js应用、安装配置Payload CMS、创建共享根布局以及嵌入Admin UI的步骤。通过这种方式，可以轻松构建内容驱动的应用程序。</description>
+    </item>
+  
+    <item>
+      <title>Supernovas, Black Holes and Streaming Data</title>
+      <link>https://www.databricks.com/blog/supernovas-black-holes-and-streaming-data</link>
+      <description>探索宇宙奥秘：本文介绍了如何利用Databricks数据智能平台分析NASA卫星数据，包括超新星和黑洞的伽马射线爆发。通过Apache Kafka和Delta Live Tables，实现了数据的高效处理和可视化，展示了数据科学在宇宙研究中的应用。</description>
     </item>
   
     <item>
@@ -64,6 +124,18 @@
       <title>Navigating the European Accessibility Act (EAA)</title>
       <link>https://thoughtbot.com/blog/navigating-the-european-accessibility-act</link>
       <description>欧洲可访问性法案（EAA）将于2025年6月28日生效，影响欧盟内提供服务的许多企业。本文概述了EAA的要求，包括其适用范围、合规性原则和常见问题。了解这些要求对于确保产品和服务对残疾人士的平等访问至关重要，同时也有助于企业拓展更广泛的市场。</description>
+    </item>
+  
+    <item>
+      <title>The SDK Imperative: why developer tools live or die by their SDKs</title>
+      <link>https://evilmartians.com/chronicles/the-sdk-imperative-why-developer-tools-live-or-die-by-their-sdks</link>
+      <description>软件开发工具的成功往往取决于其软件开发套件（SDK）的质量。高效的SDK可以提升性能和用户满意度，而低效的SDK可能导致用户放弃使用。本文通过NATS Ruby SDK的性能优化案例，强调了SDK在开发者工具中的关键作用，并提出了优化SDK的实践建议，包括利用编程语言优势、积极寻求社区反馈和定期更新SDK等。</description>
+    </item>
+  
+    <item>
+      <title>Rust Project goals for 2024</title>
+      <link>https://blog.rust-lang.org/2024/08/12/Project-goals.html</link>
+      <description>2024年，Rust项目制定了26项目标，包括推出Rust 2024版、提升异步Rust体验、解决Linux内核构建问题等。这些目标旨在提高Rust的可靠性、性能和可维护性，以支持更多项目采用Rust。项目进展将通过博客和跟踪问题进行更新。</description>
     </item>
   
     </channel>
