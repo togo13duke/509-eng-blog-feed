@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>The Download: how we’re using AI, and Trump’s campaign hack</title>
-      <link>https://www.technologyreview.com/2024/08/12/1096204/the-download-how-were-using-ai-and-trumps-campaign-hack/</link>
-      <description>MIT Technology Review的《The Download》最新一期探讨了人工智能的实际应用，包括人们如何与AI系统建立关系，以及特朗普竞选团队的黑客攻击事件。文章还涉及肉类行业的可持续性问题、加密数据泄露导致性贩卖者被捕、品牌如何利用AI预测影响者政治立场等科技新闻。</description>
-    </item>
-  
-    <item>
       <title>Embed Payload CMS 3.0 Admin UI in Your Next.js App</title>
       <link>https://spin.atomicobject.com/embed-payload-cms-next-js-app/</link>
       <description>本文介绍了如何将Payload CMS 3.0 beta集成到Next.js应用程序中，并在Next.js web应用中嵌入Payload CMS Admin UI。Payload CMS是一个基于Node.js、Express和MongoDB的开源无头内容管理系统，易于管理内容并提供强大的后端。教程详细说明了设置Next.js应用、安装配置Payload CMS、创建共享根布局以及嵌入Admin UI的步骤。通过这种方式，可以轻松构建内容驱动的应用程序。</description>
