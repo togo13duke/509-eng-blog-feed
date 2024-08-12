@@ -18,6 +18,12 @@
     </item>
   
     <item>
+      <title>Advanced OpenTelemetry Configurations: Sampling, Filtering, and Data Enrichment</title>
+      <link>https://last9.io/blog/opentelemetry-configurations-filtering-sampling-enrichment/</link>
+      <description>本文探讨了高级OpenTelemetry配置，包括采样、过滤和数据丰富化，以优化数据收集和资源使用。通过实施这些技术，可以专注于最有价值的遥测数据，同时管理成本和资源使用。</description>
+    </item>
+  
+    <item>
       <title>Entry Macro for Custom SwiftUI Environment Values</title>
       <link>https://useyourloaf.com/blog/entry-macro-for-custom-swiftui-environment-values/</link>
       <description>SwiftUI的Entry宏简化了自定义环境值的设置过程。通过使用Entry宏，开发者可以直接在EnvironmentValues中扩展环境，减少冗余代码，从而提高开发效率。此宏适用于iOS 13及以上版本，支持Transaction、ContainerValues和FocusedValues等多种环境值的添加。</description>
