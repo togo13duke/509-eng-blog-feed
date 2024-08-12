@@ -6,30 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Embed Payload CMS 3.0 Admin UI in Your Next.js App</title>
-      <link>https://spin.atomicobject.com/embed-payload-cms-next-js-app/</link>
-      <description>本文介绍了如何将Payload CMS 3.0 beta集成到Next.js应用程序中，并在Next.js web应用中嵌入Payload CMS Admin UI。Payload CMS是一个基于Node.js、Express和MongoDB的开源无头内容管理系统，易于管理内容并提供强大的后端。教程详细说明了设置Next.js应用、安装配置Payload CMS、创建共享根布局以及嵌入Admin UI的步骤。通过这种方式，可以轻松构建内容驱动的应用程序。</description>
-    </item>
-  
-    <item>
-      <title>Entry Macro for Custom SwiftUI Environment Values</title>
-      <link>https://useyourloaf.com/blog/entry-macro-for-custom-swiftui-environment-values/</link>
-      <description>SwiftUI的Entry宏简化了自定义环境值的设置过程。通过使用Entry宏，开发者可以直接在EnvironmentValues中扩展环境，减少冗余代码，从而提高开发效率。此宏适用于iOS 13及以上版本，支持Transaction、ContainerValues和FocusedValues等多种环境值的添加。</description>
-    </item>
-  
-    <item>
-      <title>Here’s how people are actually using AI</title>
-      <link>https://www.technologyreview.com/2024/08/12/1096202/how-people-actually-using-ai/</link>
-      <description>Google正在采取措施遏制非自愿深度伪造，同时人们开始与AI系统建立关系，形成依赖。AI聊天机器人的使用案例包括创意写作、角色扮演和寻求信息，但过度依赖可能导致误导。此外，AI在代码生成、新闻搜索等领域存在幻觉问题，导致错误信息。尽管AI有巨大潜力，但实现其真正效益可能还需数年时间。</description>
-    </item>
-  
-    <item>
-      <title>Greenboot: Automate rollbacks for atomically updated systems</title>
-      <link>https://developers.redhat.com/articles/2024/08/12/greenboot-automate-rollbacks-atomically-updated-systems</link>
-      <description>Greenboot是一种自动化回滚机制，旨在为原子更新系统提供稳健的恢复功能。它通过集成systemd和原子更新发行版，在系统启动时执行健康检查，并在检测到问题时自动回滚到之前稳定的状态，从而减少停机时间并提高系统可靠性。这种机制对于维护IT基础设施的稳定性和完整性至关重要。</description>
-    </item>
-  
-    <item>
       <title>Integrate a private AI coding assistant into your CDE using Ollama, Continue, and OpenShift Dev Spaces</title>
       <link>https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama</link>
       <description>将Ollama、Continue和OpenShift Dev Spaces集成到您的CDE中，利用AI助手提升云开发环境效率。通过Red Hat OpenShift Dev Spaces和本地LLMs，实现更快速、高效的编码体验，同时确保隐私和安全。</description>
@@ -39,13 +15,6 @@
       <title>What's new in Network Observability 1.6</title>
       <link>https://developers.redhat.com/articles/2024/08/12/whats-new-network-observability-16</link>
       <description>Red Hat Network Observability 1.6版本发布，带来多项新功能，包括无需Loki和存储即可查看图表和拓扑，以及eBPF代理增强，如特定节点部署和流量过滤。此外，Flow Collector也进行了改进，如去重流量和自定义子网标签。这些更新旨在提高网络监控的效率和资源利用率。</description>
-    </item>
-  
-    <item>
-      <title>README</title>
-      <link>https://thedailywtf.com/articles/readme</link>
-      <description>原文摘要：
-本文讲述了Rudolf加入一个开发团队后，发现项目代码混乱，README文件不清晰，导致项目进度缓慢，团队成员频繁离职。尽管Rudolf努力修复代码和README，但产品负责人Steve更关注新功能而非基础工作。Rudolf意识到项目问题根源在于管理层的错误观念，最终选择离开项目。</description>
     </item>
   
     <item>
