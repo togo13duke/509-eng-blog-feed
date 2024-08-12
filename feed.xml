@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Integrate a private AI coding assistant into your CDE using Ollama, Continue, and OpenShift Dev Spaces</title>
-      <link>https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama</link>
-      <description>将Ollama、Continue和OpenShift Dev Spaces集成到您的CDE中，利用AI助手提升云开发环境效率。通过Red Hat OpenShift Dev Spaces和本地LLMs，实现更快速、高效的编码体验，同时确保隐私和安全。</description>
-    </item>
-  
-    <item>
-      <title>What's new in Network Observability 1.6</title>
-      <link>https://developers.redhat.com/articles/2024/08/12/whats-new-network-observability-16</link>
-      <description>Red Hat Network Observability 1.6版本发布，带来多项新功能，包括无需Loki和存储即可查看图表和拓扑，以及eBPF代理增强，如特定节点部署和流量过滤。此外，Flow Collector也进行了改进，如去重流量和自定义子网标签。这些更新旨在提高网络监控的效率和资源利用率。</description>
-    </item>
-  
-    <item>
       <title>Navigating the European Accessibility Act (EAA)</title>
       <link>https://thoughtbot.com/blog/navigating-the-european-accessibility-act</link>
       <description>欧洲可访问性法案（EAA）将于2025年6月28日生效，影响欧盟内提供服务的许多企业。本文概述了EAA的要求，包括其适用范围、合规性原则和常见问题。了解这些要求对于确保产品和服务对残疾人士的平等访问至关重要，同时也有助于企业拓展更广泛的市场。</description>
