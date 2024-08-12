@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Nomad’s internal garbage collection and optimization discovery during the Nomad Bench project</title>
+      <link>https://www.hashicorp.com/blog/nomad-garbage-collection-optimization-discovery-during-nomad-bench</link>
+      <description>Nomad垃圾回收机制在Nomad Bench项目中被发现存在优化空间。通过实验发现，Nomad在垃圾回收过程中创建了大量不必要的评估，导致Raft和评估代理负载增加。通过优化代码，移除了创建评估的循环和代码，减少了Raft和评估代理的负载，提高了吞吐量和稳定性，同时降低了CPU和内存消耗。</description>
+    </item>
+  
+    <item>
       <title>We've Added 10 New Logo Tools</title>
       <link>https://catonmat.net/10-new-logo-tools</link>
       <description>Browserling团队最近增加了10款新的Logo工具，包括选择颜色、添加边框、格式转换等。下周还将推出更多工具。</description>
@@ -57,6 +63,12 @@
       <title>Beginner’s guide to GitHub: Creating a pull request</title>
       <link>https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/</link>
       <description>GitHub入门指南：创建拉取请求，介绍如何创建和提交更改建议，以便他人审查。通过学习如何创建小而清晰的请求，提供上下文和指导，可以有效地贡献代码并促进团队协作。</description>
+    </item>
+  
+    <item>
+      <title>How to build scalable AI applications</title>
+      <link>https://vercel.com/blog/how-to-build-scalable-ai-applications</link>
+      <description>如何构建可扩展的AI应用程序：本文探讨了在AI领域构建可扩展应用程序的最佳实践，包括选择合适的AI提供商、构建多模态AI架构、数据清洗和管理、使用检索增强生成（RAG）技术以及优化AI应用程序的性能。文章强调了Vercel平台和AI SDK在简化AI集成和开发过程中的作用。</description>
     </item>
   
     <item>
