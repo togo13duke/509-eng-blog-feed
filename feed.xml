@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Long Context RAG Performance of LLMs</title>
+      <link>https://www.databricks.com/blog/long-context-rag-performance-llms</link>
+      <description>LLMs的RAG性能研究：本文探讨了增加上下文长度对RAG应用质量的影响，通过在13个LLMs上进行的2000多次实验，发现增加检索到的文档数量可以提高正确信息传递给LLM的概率，但并非所有模型都能在所有数据集上保持一致的长期上下文RAG性能。</description>
+    </item>
+  
+    <item>
       <title>Nomad’s internal garbage collection and optimization discovery during the Nomad Bench project</title>
       <link>https://www.hashicorp.com/blog/nomad-garbage-collection-optimization-discovery-during-nomad-bench</link>
       <description>Nomad垃圾回收机制在Nomad Bench项目中被发现存在优化空间。通过实验发现，Nomad在垃圾回收过程中创建了大量不必要的评估，导致Raft和评估代理负载增加。通过优化代码，移除了创建评估的循环和代码，减少了Raft和评估代理的负载，提高了吞吐量和稳定性，同时降低了CPU和内存消耗。</description>
@@ -148,6 +154,18 @@
       <title>Rust Project goals for 2024</title>
       <link>https://blog.rust-lang.org/2024/08/12/Project-goals.html</link>
       <description>2024年，Rust项目制定了26项目标，包括推出Rust 2024版、提升异步Rust体验、解决Linux内核构建问题等。这些目标旨在提高Rust的可靠性、性能和可维护性，以支持更多项目采用Rust。项目进展将通过博客和跟踪问题进行更新。</description>
+    </item>
+  
+    <item>
+      <title>Reckoning: Part 1 — The Landscape</title>
+      <link>https://infrequently.org/2024/08/the-landscape/</link>
+      <description>本文探讨了JavaScript-first前端文化如何导致美国公共服务破裂的问题。文章指出，随着移动设备的普及，前端开发未能适应这一变化，导致许多在线服务无法在手机上良好运行，从而排除了大量用户。文章强调，前端开发应更加注重用户体验，避免过度依赖框架和工具，以确保服务的可访问性和性能。</description>
+    </item>
+  
+    <item>
+      <title>Semana acadêmica ISEPE</title>
+      <link>https://carlosbecker.com/posts/semana-academica-isepe/</link>
+      <description>本周ISEPE学术周，我向大一新生分享了我的职业生涯。幻灯片为葡萄牙语。</description>
     </item>
   
     </channel>
