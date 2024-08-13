@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Scaling systems to manage all the metadata ABOUT the data</title>
+      <link>https://stackoverflow.blog/2024/08/13/satish-jayanthi-coalesce-ai-metadata-etl/</link>
+      <description>探讨如何管理数据元数据，特别是使用生成式AI的系统。Satish Jayanthi，Coalesce的CTO和联合创始人，讨论了元数据增长的重要性，以及如何自动生成元数据，并展望了元数据包括知识图谱的未来。</description>
+    </item>
+  
+    <item>
       <title>Conditionally render a Turbo Frame shared between multiple views</title>
       <link>https://thoughtbot.com/blog/conditionally-render-turbo-frame</link>
       <description>本文探讨了在多个视图间共享的 Turbo Frame 的条件渲染问题。通过示例代码，作者展示了如何在 Rails 应用中处理 Turbo Frame 的条件渲染，包括在编辑和显示视图之间切换。文章还介绍了如何使用参数和变体来根据上下文条件渲染 Turbo Frame，以及如何更新控制器以适应这些变化。</description>
+    </item>
+  
+    <item>
+      <title>Beyond RAG basics: Advanced strategies for AI applications</title>
+      <link>https://www.elastic.co/blog/beyond-rag-basics</link>
+      <description>本文探讨了检索增强生成（RAG）在人工智能应用中的高级策略。文章强调了RAG在提高大型语言模型（LLM）响应准确性和控制力方面的作用，并介绍了RAG架构、数据管理、模型评估和挑战解决等关键要素。此外，还讨论了RAG的扩展技术、实施策略和资源，以构建更强大、可靠和高效的AI应用。</description>
+    </item>
+  
+    <item>
+      <title>[Math] Project Euler 158: solving it using Google OR-tools</title>
+      <link>https://yurichev.com/n/PE_158/</link>
+      <description>使用Google OR-tools解决了Project Euler 158问题，该问题涉及从26个字母中选取不同字母形成字符串，并计算其中恰好有一个字符在字典序上大于其左侧邻居的字符串数量。通过编程方法，作者在16个ARM CPU核心上运行了约4天，尽管编程时间仅10-15分钟，但涉及组合数学知识。</description>
     </item>
   
     <item>
@@ -81,6 +99,12 @@
       <title>How to build scalable AI applications</title>
       <link>https://vercel.com/blog/how-to-build-scalable-ai-applications</link>
       <description>如何构建可扩展的AI应用程序：本文探讨了在AI领域构建可扩展应用程序的最佳实践，包括选择合适的AI提供商、构建多模态AI架构、数据清洗和管理、使用检索增强生成（RAG）技术以及优化AI应用程序的性能。文章强调了Vercel平台和AI SDK在简化AI集成和开发过程中的作用。</description>
+    </item>
+  
+    <item>
+      <title>Issues #262 Aug 12, 2024</title>
+      <link>https://betterdev.link/issues/262</link>
+      <description>本周BetterDev Link带来了关于提高编程技能的资源，包括Wi-Fi升级指南、全球网络中断的教训、kube-scheduler深入分析、WebGPU教程、Linux虚拟网络接口介绍、使用Rust创建字体、内存高效DOM操作模式、PostgreSQL索引创建加速、Mistral AI本地运行指南、系统调用跟踪、Postgres表间数据快速复制工具等。</description>
     </item>
   
     <item>
