@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Conditionally render a Turbo Frame shared between multiple views</title>
+      <link>https://thoughtbot.com/blog/conditionally-render-turbo-frame</link>
+      <description>本文探讨了在多个视图间共享的 Turbo Frame 的条件渲染问题。通过示例代码，作者展示了如何在 Rails 应用中处理 Turbo Frame 的条件渲染，包括在编辑和显示视图之间切换。文章还介绍了如何使用参数和变体来根据上下文条件渲染 Turbo Frame，以及如何更新控制器以适应这些变化。</description>
+    </item>
+  
+    <item>
       <title>Long Context RAG Performance of LLMs</title>
       <link>https://www.databricks.com/blog/long-context-rag-performance-llms</link>
       <description>LLMs的RAG性能研究：本文探讨了增加上下文长度对RAG应用质量的影响，通过在13个LLMs上进行的2000多次实验，发现增加检索到的文档数量可以提高正确信息传递给LLM的概率，但并非所有模型都能在所有数据集上保持一致的长期上下文RAG性能。</description>
