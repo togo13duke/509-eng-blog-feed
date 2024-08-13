@@ -6,6 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Keyword substitutions make life easier</title>
+      <link>https://akrabat.com/keyword-substitutions/</link>
+      <description>自动文本替换简化生活——Rob Allen
+Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使用Keyboard Maestro等工具，通过前缀符号创建快捷方式，如电子邮件地址、日期、特殊字符等，以提高工作效率。他还强调了在重复输入时使用这些快捷方式的重要性。</description>
+    </item>
+  
+    <item>
+      <title>14 Social Media Holidays to Celebrate This September</title>
+      <link>https://s14415.pcdn.co/blog/social-media-holidays-september/</link>
+      <description>9月社交媒体节日庆祝指南：本文列出了13个适合在9月庆祝的社交媒体节日，包括世界信件写作日、国际慈善日、国际和平日等，为品牌提供灵感，以吸引和娱乐粉丝，增强社交媒体互动。</description>
+    </item>
+  
+    <item>
+      <title>Context Should Direct API Architecture Choices</title>
+      <link>https://nordicapis.com/context-should-direct-api-architecture-choices/</link>
+      <description>API架构选择应基于具体情境，如开发者受众和工作环境。文章讨论了API设计的变化，以及如何根据项目需求选择合适的架构。作者Rob Allen强调了RESTful API的流行，并指出选择架构时，应考虑受众需求、工作流程和团队能力。他还提到，开源框架可以支持特定编程语言的需求，并预测了API架构的未来趋势，包括更广泛的应用生态系统的采用和生成式AI在开发中的支持。</description>
+    </item>
+  
+    <item>
+      <title>From Podman Desktop to containers in production</title>
+      <link>https://developers.redhat.com/articles/2024/08/13/podman-desktop-containers-production</link>
+      <description>Podman Desktop可帮助用户从本地开发环境构建和验证容器化应用，并通过GitHub Actions工作流实现持续集成，将容器镜像推送到Quay.io等容器注册库，以便在生产环境中部署。本文介绍了如何使用Podman Desktop创建Node.js应用，构建容器镜像，并设置CI流程，实现应用的自动化构建和部署。</description>
+    </item>
+  
+    <item>
       <title>Scaling systems to manage all the metadata ABOUT the data</title>
       <link>https://stackoverflow.blog/2024/08/13/satish-jayanthi-coalesce-ai-metadata-etl/</link>
       <description>探讨如何管理数据元数据，特别是使用生成式AI的系统。Satish Jayanthi，Coalesce的CTO和联合创始人，讨论了元数据增长的重要性，以及如何自动生成元数据，并展望了元数据包括知识图谱的未来。</description>
@@ -24,9 +49,21 @@
     </item>
   
     <item>
+      <title>Reckoning: Part 2 — Object Lesson</title>
+      <link>https://infrequently.org/2024/08/object-lesson/</link>
+      <description>在本文中，作者通过对比分析了多个州政府网站的性能差异，揭示了在公共福利申请系统中，过度依赖JavaScript和缺乏渐进增强策略导致的用户体验问题。以加州的BenefitsCal为例，其加载速度慢、资源浪费严重，而其他州如威斯康星和英国的政府网站则通过更合理的架构和优化，提供了更快的加载速度和更好的用户体验。作者呼吁政府机构采用更高效的技术和设计原则，以提高公共服务的质量和可访问性。</description>
+    </item>
+  
+    <item>
       <title>[Math] Project Euler 158: solving it using Google OR-tools</title>
       <link>https://yurichev.com/n/PE_158/</link>
       <description>使用Google OR-tools解决了Project Euler 158问题，该问题涉及从26个字母中选取不同字母形成字符串，并计算其中恰好有一个字符在字典序上大于其左侧邻居的字符串数量。通过编程方法，作者在16个ARM CPU核心上运行了约4天，尽管编程时间仅10-15分钟，但涉及组合数学知识。</description>
+    </item>
+  
+    <item>
+      <title>Rising together: honoring Cloudflare’s outstanding partners</title>
+      <link>https://blog.cloudflare.com/partner-award-winners-2023</link>
+      <description>Cloudflare宣布了2023年全球渠道合作伙伴奖的获奖者，强调合作伙伴对云flare成功的重要性。合作伙伴通过扩展解决方案和支持，帮助客户控制应用复杂性、降低网络风险和降低成本。云flare致力于通过创新、增加盈利能力和加速销售来支持合作伙伴，共同推动数字化转型和IT基础设施现代化。</description>
     </item>
   
     <item>
