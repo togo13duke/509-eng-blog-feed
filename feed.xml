@@ -6,9 +6,63 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The ultimate guide to developer happiness</title>
+      <link>https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/</link>
+      <description>开发者幸福指南：提供五项实用策略，以提升开发者幸福感，促进创新工作环境。通过优化开发者体验、利用AI增强代码安全以及定制化大型语言模型，企业可以激发开发者的潜力，提高生产力，并保持业务创新。</description>
+    </item>
+  
+    <item>
+      <title>Applications Now Open for $60,000 NVIDIA Graduate Fellowship Awards</title>
+      <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2024/</link>
+      <description>NVIDIA Graduate Fellowship Program现正开放申请，为博士研究生提供高达60,000美元的资助，支持AI、机器学习等领域的研究。该计划已运行24年，旨在培养创新，并为全球学生提供技术支持和指导。申请截止日期为2024年9月13日。</description>
+    </item>
+  
+    <item>
+      <title>Don’t Build Single-Purpose Features</title>
+      <link>https://www.babbel.com/en/magazine/dont-build-single-purpose-features</link>
+      <description>Babbel团队在构建语言学习平台时，注重打造灵活、跨平台的工具，以提供一致的用户体验和沟通。他们从最初的单个功能扩展到复杂的跨平台后端驱动工具，用于与用户沟通，确保用户体验的一致性。通过不断迭代和协作，他们成功地将系统扩展到支持更多用例，如用户自我效能感调查和动态体验构建器（DXB），从而提高了学习效率和用户满意度。</description>
+    </item>
+  
+    <item>
       <title>Navigating cities of code with Norris Numbers</title>
       <link>https://stackoverflow.blog/2024/08/13/navigating-cities-of-code-with-norris-numbers/</link>
       <description>在新的代码库中导航就像在一个新城市中定居一样，是一个漫长的过程。文章通过比喻，将代码库比作城市，每行代码就像城市中的房产。文章提出了“诺里斯数”的概念，即一个未经训练的程序员在遇到瓶颈之前能编写的平均代码行数。文章详细讨论了不同规模代码库（从几百行到几十万行）的特点和挑战，以及如何有效地管理和扩展代码库。</description>
+    </item>
+  
+    <item>
+      <title>Get Started with DevOps Center</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/get-up-and-running-with-devops-center-today.html</link>
+      <description>Salesforce DevOps Center是一个集成的平台，用于管理Salesforce环境中的更改和部署，提高团队协作和交付速度。它支持自动跟踪更改、与GitHub集成、一键部署，并适用于不同开发环境。无论您是经验丰富的开发者还是初学者，DevOps Center都能帮助您简化开发流程，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>Vector Database Basics: HNSW</title>
+      <link>https://www.timescale.com/blog/vector-database-basics-hnsw/</link>
+      <description>HNSW（层次可导航小世界）索引是Pgvector扩展中用于高效处理高维向量数据的关键技术。它通过构建多层的图结构，实现快速近似最近邻搜索，有效解决高维数据搜索的效率问题。HNSW索引在动态数据集上表现出色，能够高效地处理插入和删除操作，而无需重建整个索引。本文介绍了HNSW索引的原理、工作方式以及如何使用Pgvector实现，旨在帮助读者了解其在向量数据库和AI应用中的重要性。</description>
+    </item>
+  
+    <item>
+      <title>From object transition to RCE in the Chrome renderer</title>
+      <link>https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/</link>
+      <description>本文探讨了Chrome渲染器中的对象转换和远程代码执行（RCE）漏洞CVE-2024-5830。该漏洞利用了V8 JavaScript引擎中的类型混淆问题，通过访问恶意网站即可在Chrome渲染器沙盒中执行远程代码。</description>
+    </item>
+  
+    <item>
+      <title>Announcing the Generative AI World Cup 2024: A Global Hackathon by Databricks</title>
+      <link>https://www.databricks.com/blog/announcing-generative-ai-world-cup-2024-global-hackathon-databricks</link>
+      <description>Databricks宣布2024年将举办全球性的生成式AI世界杯黑客马拉松，邀请参与者开发解决现实问题的创新应用。比赛设有超过5万美元的奖金，并有机会获得2025年数据与AI峰会的通行证。参赛者需提交演示视频和项目描述，比赛截止日期为2024年10月18日。Databricks将提供学习资源和免费信用额度支持。</description>
+    </item>
+  
+    <item>
+      <title>A look back at one of the (many) projects code-named Highlander</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240813-00/?p=110127</link>
+      <description>微软项目“Highlander”回顾：该项目涉及两个团队，Team A和Team 1，都开发了一个客户端来访问后端服务。Team A将他们的版本命名为Highlander，意在强调两个客户端访问同一后端服务的荒谬性，并希望有人能赢。由于两个团队在组织结构上相隔甚远，最终由比尔·盖茨亲自做出决定，问题得以解决。</description>
+    </item>
+  
+    <item>
+      <title>Sorting Dictionaries in Python: Keys, Values, and More</title>
+      <link>https://realpython.com/courses/sorting-dictionaries-keys-values-more/</link>
+      <description>Python中字典排序：键、值及更多 - Real Python教程，介绍如何使用sorted()函数、字典视图、指定排序键等，以及如何重建字典和考虑替代数据结构。</description>
     </item>
   
     <item>
@@ -58,6 +112,12 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Social Media Analytics: Unlocking Key Insights for Business Success</title>
       <link>https://s14415.pcdn.co/blog/social-media-analytics/</link>
       <description>社交媒体分析是商业成功的关键，通过分析社交媒体数据，企业可以深入了解受众偏好和行为，优化内容策略，提升营销效果。本文探讨了社交媒体分析的定义、重要性、工具选择、策略制定、执行与优化，以及挑战与考虑因素，为企业提供全面指导。</description>
+    </item>
+  
+    <item>
+      <title>Databricks SQL Serverless is now available on Google Cloud Platform</title>
+      <link>https://www.databricks.com/blog/databricks-sql-serverless-now-available-google-cloud-platform</link>
+      <description>Databricks SQL Serverless现已在Google Cloud Platform（GCP）上全面上市，提供即时和弹性计算，降低成本，并简化数据仓库管理。此服务在GCP的7个区域和所有主要云提供商的40多个区域中可用，具有预测性I/O、智能工作负载管理和增强查询结果缓存等性能优化功能。</description>
     </item>
   
     <item>
@@ -112,6 +172,24 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Reckoning: Part 2 — Object Lesson</title>
       <link>https://infrequently.org/2024/08/object-lesson/</link>
       <description>在本文中，作者通过对比分析了多个州政府网站的性能差异，揭示了在公共福利申请系统中，过度依赖JavaScript和缺乏渐进增强策略导致的用户体验问题。以加州的BenefitsCal为例，其加载速度慢、资源浪费严重，而其他州如威斯康星和英国的政府网站则通过更合理的架构和优化，提供了更快的加载速度和更好的用户体验。作者呼吁政府机构采用更高效的技术和设计原则，以提高公共服务的质量和可访问性。</description>
+    </item>
+  
+    <item>
+      <title>Sunayana Vatassery came back to Elastic to work in generative AI</title>
+      <link>https://www.elastic.co/blog/culture-back-to-elastic-work-in-ai</link>
+      <description>Sunayana Vatassery重返Elastic，担任高级产品营销经理，专注于生成式AI。她在销售领域拥有16年经验，曾短暂离开Elastic，但最终选择回归。她认为Elastic的企业文化和团队合作精神是她回归的主要原因。她的新角色涉及将复杂信息简化，以帮助客户理解Elastic如何助力生成式AI体验。</description>
+    </item>
+  
+    <item>
+      <title>TestProf III: guided and automated Ruby test profiling</title>
+      <link>https://evilmartians.com/chronicles/test-prof-3-guided-and-automated-ruby-test-profiling</link>
+      <description>TestProf III是Evil Martians团队推出的Ruby测试分析工具，旨在提高开发效率和测试速度。该工具通过自动化的测试分析，帮助开发者识别和优化性能瓶颈。新版本TestProf III引入了内存分析、Vernier集成等新功能，并计划进一步自动化测试流程，提供更全面的测试优化解决方案。</description>
+    </item>
+  
+    <item>
+      <title>FWD: RE: radioactive fungus email from grandma</title>
+      <link>https://taylor.town/radioactive-fungi</link>
+      <description>科学家发现，切尔诺贝利核事故后，反应堆内部生长的真菌对辐射具有抵抗力。这些真菌通过进化适应了辐射环境，可能具有修复DNA损伤的能力。这一现象展示了自然选择和进化的力量，同时也提醒我们保持好奇心，探索世界的奥秘。</description>
     </item>
   
     <item>
@@ -293,6 +371,12 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Semana acadêmica ISEPE</title>
       <link>https://carlosbecker.com/posts/semana-academica-isepe/</link>
       <description>本周ISEPE学术周，我向大一新生分享了我的职业生涯。幻灯片为葡萄牙语。</description>
+    </item>
+  
+    <item>
+      <title>TestProf II: Factory therapy for your Ruby tests</title>
+      <link>https://evilmartians.com/chronicles/testprof-2-factory-therapy-for-your-ruby-tests-rspec-minitest</link>
+      <description>TestProf II：使用TestProf为Ruby测试提供工厂疗法，通过诊断测试相关问题的强大工具，帮助提高Ruby测试套件的性能。文章探讨了如何通过工厂和测试数据来优化测试速度，并介绍了如何使用TestProf的EventProf和FactoryProf工具来识别和解决测试中的性能瓶颈。</description>
     </item>
   
     </channel>
