@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Navigating cities of code with Norris Numbers</title>
+      <link>https://stackoverflow.blog/2024/08/13/navigating-cities-of-code-with-norris-numbers/</link>
+      <description>在新的代码库中导航就像在一个新城市中定居一样，是一个漫长的过程。文章通过比喻，将代码库比作城市，每行代码就像城市中的房产。文章提出了“诺里斯数”的概念，即一个未经训练的程序员在遇到瓶颈之前能编写的平均代码行数。文章详细讨论了不同规模代码库（从几百行到几十万行）的特点和挑战，以及如何有效地管理和扩展代码库。</description>
+    </item>
+  
+    <item>
+      <title>Zero Trust and Docker Desktop: An Introduction</title>
+      <link>https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/</link>
+      <description>Docker Desktop与零信任模型结合，旨在提升组织安全态势。本文探讨了零信任安全模型，并介绍了在Docker Desktop开发环境中实施零信任的策略。通过严格访问控制、最小权限和持续验证，零信任模型增强了安全性。文章还讨论了容器化应用、主机和网络隔离、最小权限原则、网络微分段、身份验证和授权以及监控和审计等关键要素。</description>
+    </item>
+  
+    <item>
+      <title>Current 2024: What’s on Tap in Data Streaming</title>
+      <link>https://www.confluent.io/blog/current-2024-whats-on-tap-in-data-streaming/</link>
+      <description>2024年Current数据流会议将汇聚专家，深入探讨数据流创新。参会者将学习实时流和生成式AI用例，了解技术领袖、行业巨头和初创公司如何利用Apache Kafka和Apache Flink提升组织能力。会议包括近100场研讨会，涵盖消息代理基础、SQL历史、使用Kafka和Flink实现实时系统以及向量数据库等主题。</description>
+    </item>
+  
+    <item>
+      <title>The Download: greener steel, and join us for EmTech 2024</title>
+      <link>https://www.technologyreview.com/2024/08/13/1096440/the-download-greener-steel-and-join-us-for-emtech-2024/</link>
+      <description>本文探讨了绿色钢铁生产技术及其对减少全球温室气体排放的重要性。文章指出，钢铁生产是气候变化的主要挑战之一，但新兴技术正致力于以更低排放量生产钢铁。此外，文章还介绍了即将到来的EmTech 2024会议，以及一系列关于科技领域的新闻和趋势。</description>
+    </item>
+  
+    <item>
+      <title>Tips for Using React Testing Library to Write Unit Tests</title>
+      <link>https://spin.atomicobject.com/react-testing-library-unit-tests/</link>
+      <description>使用React Testing Library编写单元测试的技巧：选择正确的查询方法，避免在waitFor中使用多个断言，使用screen而不是从render中导出函数，以及使用linter来避免错误。</description>
+    </item>
+  
+    <item>
       <title>Keyword substitutions make life easier</title>
       <link>https://akrabat.com/keyword-substitutions/</link>
       <description>自动文本替换简化生活——Rob Allen
@@ -13,8 +43,32 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
     </item>
   
     <item>
+      <title>How the auto industry could steer the world toward green steel</title>
+      <link>https://www.technologyreview.com/2024/08/13/1096387/auto-industry-green-steel/</link>
+      <description>汽车行业可以通过采用低排放的绿色钢材，推动世界向绿色钢铁转型。使用这种钢材只会使新车的平均价格增加1%。通过使用可再生能源生产氢气，直接还原法等新技术可以大幅降低钢铁生产过程中的碳排放，从而减少汽车制造过程中的环境影响。尽管初期成本可能略有上升，但长期来看，绿色钢材的应用将有助于实现可持续发展和减少温室气体排放。</description>
+    </item>
+  
+    <item>
+      <title>Trusted by 3 million clients</title>
+      <link>https://www.hostinger.com/blog/3-million-clients</link>
+      <description>Hostinger客户数量突破300万，其中印度、巴西、美国、印度尼西亚和法国市场表现突出。公司通过关注客户需求并整合人工智能技术，实现了快速增长。AI工具帮助590,000客户建立网站，并引入了AI聊天助手以提供更快速的服务。</description>
+    </item>
+  
+    <item>
+      <title>Social Media Analytics: Unlocking Key Insights for Business Success</title>
+      <link>https://s14415.pcdn.co/blog/social-media-analytics/</link>
+      <description>社交媒体分析是商业成功的关键，通过分析社交媒体数据，企业可以深入了解受众偏好和行为，优化内容策略，提升营销效果。本文探讨了社交媒体分析的定义、重要性、工具选择、策略制定、执行与优化，以及挑战与考虑因素，为企业提供全面指导。</description>
+    </item>
+  
+    <item>
       <title>14 Social Media Holidays to Celebrate This September</title>
       <link>https://s14415.pcdn.co/blog/social-media-holidays-september/</link>
+      <description>9月社交媒体节日庆祝指南：本文列出了13个适合在9月庆祝的社交媒体节日，包括世界信件写作日、国际慈善日、国际和平日等，为品牌提供灵感，以吸引和娱乐粉丝，增强社交媒体互动。</description>
+    </item>
+  
+    <item>
+      <title>14 Social Media Holidays to Celebrate This September</title>
+      <link>https://www.brandwatch.com/blog/social-media-holidays-september/</link>
       <description>9月社交媒体节日庆祝指南：本文列出了13个适合在9月庆祝的社交媒体节日，包括世界信件写作日、国际慈善日、国际和平日等，为品牌提供灵感，以吸引和娱乐粉丝，增强社交媒体互动。</description>
     </item>
   
@@ -28,6 +82,12 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>From Podman Desktop to containers in production</title>
       <link>https://developers.redhat.com/articles/2024/08/13/podman-desktop-containers-production</link>
       <description>Podman Desktop可帮助用户从本地开发环境构建和验证容器化应用，并通过GitHub Actions工作流实现持续集成，将容器镜像推送到Quay.io等容器注册库，以便在生产环境中部署。本文介绍了如何使用Podman Desktop创建Node.js应用，构建容器镜像，并设置CI流程，实现应用的自动化构建和部署。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Disable This</title>
+      <link>https://thedailywtf.com/articles/disable-this</link>
+      <description>Remy Porter在《Daily WTF》上撰文，批评了一段无用的Java代码，其中开发者过度使用继承和覆盖函数，导致代码冗余且无实际功能。该代码片段仅通过一个if语句隐藏了与父类方法相同的功能，暴露了开发者对面向对象编程概念的不当应用。</description>
     </item>
   
     <item>
