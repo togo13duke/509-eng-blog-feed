@@ -6,15 +6,39 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Deprecation of Password Logins on CLI with Docker SSO Enforcement</title>
+      <link>https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/</link>
+      <description>Docker宣布从2024年9月16日起，将弃用Docker CLI中的密码登录，以加强单点登录（SSO）的安全性。此变更要求用户使用个人访问令牌（PAT）进行CLI登录，以统一和加强所有Docker服务的身份验证过程。此举旨在提高用户环境的安全性，并确保组织整体的安全态势。</description>
+    </item>
+  
+    <item>
       <title>4 Tips for Writing More Testable Code</title>
       <link>https://spin.atomicobject.com/more-testable-code/</link>
       <description>编写可测试代码的4个技巧：选择特定输入类型，避免对象修改，将复杂逻辑从数据库中分离，按需创建新模块和服务。这些方法有助于提高代码的可测试性和测试效率。</description>
     </item>
   
     <item>
+      <title>A new public database lists all the ways AI could go wrong</title>
+      <link>https://www.technologyreview.com/2024/08/14/1096455/new-database-lists-ways-ai-go-wrong/</link>
+      <description>麻省理工学院CSAIL的FutureTech团队创建了一个新的公共数据库，记录了700多种先进人工智能系统可能带来的风险。该数据库详细列出了AI系统安全、不公平偏见、隐私侵犯等问题，并指出大多数风险在模型公开后才会被发现。该数据库旨在促进对AI风险的研究，但并未对风险进行排序，以保持中立和全面。</description>
+    </item>
+  
+    <item>
+      <title>The 20 Most Viewed YouTube Videos</title>
+      <link>https://s14415.pcdn.co/blog/most-viewed-youtube-videos/</link>
+      <description>YouTube上观看次数最多的20个视频，包括音乐视频和病毒式视频，从Shakira的“Waka Waka”到Psy的“Gangnam Style”，以及儿童视频如“Baby Shark Dance”。</description>
+    </item>
+  
+    <item>
       <title>6 Ways AI Can Enhance API Testing</title>
       <link>https://nordicapis.com/6-ways-ai-can-enhance-api-testing/</link>
       <description>AI在API测试中的应用包括生成测试数据、响应验证、负载模拟、威胁建模、漏洞发现和错误处理验证，这些应用提高了测试效率和安全性，但需注意AI的局限性。</description>
+    </item>
+  
+    <item>
+      <title>A self-service approach to building virtual machines at scale</title>
+      <link>https://developers.redhat.com/articles/2024/08/14/self-service-approach-building-virtual-machines-scale</link>
+      <description>Red Hat Developer Hub利用Red Hat OpenShift虚拟化技术，允许开发者通过选择预定义模板创建和部署应用程序以及新的虚拟机（VM）。开发者可以轻松配置VM的名称，并通过软件模板自定义来决定所需VM的类型。本文介绍了如何从Red Hat Developer Hub创建RHEL 9 VM，并展示了如何通过OpenShift Console访问和管理VM。</description>
     </item>
   
     <item>
@@ -27,6 +51,12 @@
       <title>CodeSOD: Under the Sheets</title>
       <link>https://thedailywtf.com/articles/under-the-sheets</link>
       <description>Remy Porter在TDWTF上分享了一篇关于一个基于Java的Web应用的故事，该应用在处理表单数据时存在硬编码字符串和解析问题，导致代码脆弱且易出错。文章揭示了开发者如何使用不标准的Java技术，并探讨了代码中不清晰的变量命名和潜在的安全风险。</description>
+    </item>
+  
+    <item>
+      <title>Check URL Search Params Using Cypress</title>
+      <link>https://glebbahmutov.com/blog/check-url-params/</link>
+      <description>本文介绍了如何使用Cypress测试框架验证URL搜索参数。通过示例代码，展示了如何解析和确认URL搜索参数，并提供了使用URLSearchParams对象进行验证的方法。文章还讨论了参数顺序和多个断言的使用，以及如何通过插件扩展Cypress的功能。</description>
     </item>
   
     <item>
