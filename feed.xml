@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Return an Enumerator When Your Collection Has Multiple Traversals</title>
-      <link>https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals</link>
-      <description>在Ruby中，当你的集合有多个遍历方式时，应该返回一个枚举器而不是直接包含可枚举模块。例如，对于二叉树，可以定义前序、中序和后序遍历，并通过返回枚举器来允许调用者选择所需的遍历方式，从而提供更大的灵活性和可扩展性。</description>
-    </item>
-  
-    <item>
       <title>What are AI agents and why do they matter?</title>
       <link>https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/</link>
       <description>AI代理是能够自主执行任务的人工智能系统，它们利用生成式AI模型和大型语言模型来追求复杂目标。这些系统中的LLM作为大脑，其他算法和工具则用于完成关键任务，如生成软件开发计划或预订机票。AI代理的潜力在于减少重复性任务，让我们专注于更高层次的思考。随着AI代理在GitHub等工具中的应用增加，开发者将越来越多地遇到这种技术。</description>
