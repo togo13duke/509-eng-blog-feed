@@ -6,27 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/</link>
-      <description>.NET Conf 2024将于2024年11月12日至14日举行，庆祝.NET 9的发布。这是一个免费的三天虚拟开发者活动，由.NET社区和微软共同举办。活动将涵盖云原生和智能应用开发，包括AI集成、Blazor和跨平台开发等主题。开发者可以参加直播会议，提交内容，并参与全球活动。</description>
-    </item>
-  
-    <item>
-      <title>The Anatomy of a Modern Observability System: From Data Collection to Application</title>
-      <link>https://last9.io/blog/modern-observability-system/</link>
-      <description>现代可观测性系统从数据收集到应用分析，是维护和提升系统性能的关键，尤其对SRE团队至关重要。本文深入探讨了系统关键组件，包括数据收集、处理和洞察，以确保可观测性策略的稳健和高效。</description>
-    </item>
-  
-    <item>
       <title>Speak Geek: A New Dev’s Guide to Effective Communication [FREE]</title>
       <link>https://www.kodeco.com/41702656-speak-geek-a-new-dev-s-guide-to-effective-communication</link>
       <description>本文为软件开发新手提供有效沟通指南，强调沟通在团队协作中的重要性。文章涵盖沟通技巧、远程沟通规则、文化意识、确定沟通内容、解决信息传递问题以及与团队和管理层沟通的方法。强调主动倾听、同理心、使用适当的沟通工具和遵循礼仪，以及如何根据不同情境调整沟通方式。</description>
-    </item>
-  
-    <item>
-      <title>Zero Copy Data Federation with Snowflake and Salesforce Data Cloud</title>
-      <link>https://developer.salesforce.com/blogs/2024/08/zero-copy-data-federation-with-snowflake-and-salesforce-data-cloud.html</link>
-      <description>本文介绍了如何使用零拷贝数据联邦在Snowflake和Salesforce Data Cloud之间共享数据。通过点选界面，安全访问Snowflake数据，无需提取、转换和加载数据。文章详细说明了创建仓库、生成密钥对、创建集成用户以及配置Data Cloud连接到Snowflake的步骤。</description>
     </item>
   
     <item>
@@ -42,21 +24,9 @@
     </item>
   
     <item>
-      <title>Temporarily dropping a lock: The anti-lock pattern</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240814-00/?p=110129</link>
-      <description>本文探讨了C++中用于管理同步原语的反锁模式。反锁在构造时解锁互斥锁，在析构时重新锁定。这种模式有助于避免死锁，但需要确保互斥锁仅被持有一次，以避免潜在的问题。</description>
-    </item>
-  
-    <item>
       <title>Deprecation of Password Logins on CLI with Docker SSO Enforcement</title>
       <link>https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/</link>
       <description>Docker宣布从2024年9月16日起，将弃用Docker CLI中的密码登录，以加强单点登录（SSO）的安全性。此变更要求用户使用个人访问令牌（PAT）进行CLI登录，以统一和加强所有Docker服务的身份验证过程。此举旨在提高用户环境的安全性，并确保组织整体的安全态势。</description>
-    </item>
-  
-    <item>
-      <title>Paris 2024 Olympics recap: Internet trends, cyber threats, and popular moments</title>
-      <link>https://blog.cloudflare.com/paris-2024-olympics-recap</link>
-      <description>2024年巴黎奥运会期间，互联网流量趋势、网络威胁和热门时刻备受关注。闭幕式期间，法国互联网流量下降14%，主要事件包括运动员入场、金旅者下凡和H.E.R.演唱美国国歌。整个奥运期间，移动设备使用量增加，法国人减少出行，游客增加。美国、英国、法国等国的互联网流量在特定赛事期间显著下降。DNS流量数据显示，美国、法国和英国是访问奥运官方网站最多的国家。</description>
     </item>
   
     <item>
@@ -102,12 +72,6 @@
     </item>
   
     <item>
-      <title>Building trust with AI transparency: benefits, challenges, and best practices</title>
-      <link>https://algolia.com/blog/ai/building-trust-with-ai-transparency/</link>
-      <description>AI透明度对于建立信任至关重要。它涉及解释AI决策过程，包括算法如何处理信息以及如何解释结果。透明度有助于减少偏见、提高效率，并保护客户信任。然而，实现透明度面临挑战，如算法复杂性、数据隐私和缺乏统一标准。最佳实践包括使用简单模型、从设计之初就考虑透明度、定期发布透明度报告，并与利益相关者进行沟通。</description>
-    </item>
-  
-    <item>
       <title>CodeSOD: Under the Sheets</title>
       <link>https://thedailywtf.com/articles/under-the-sheets</link>
       <description>Remy Porter在TDWTF上分享了一篇关于一个基于Java的Web应用的故事，该应用在处理表单数据时存在硬编码字符串和解析问题，导致代码脆弱且易出错。文章揭示了开发者如何使用不标准的Java技术，并探讨了代码中不清晰的变量命名和潜在的安全风险。</description>
@@ -126,27 +90,9 @@
     </item>
   
     <item>
-      <title>AI for the public good: The future is bright</title>
-      <link>https://www.elastic.co/blog/ai-for-the-public-good</link>
-      <description>AI在公共领域的应用前景广阔，通过自动化流程和决策，AI能够提高政府服务的效率，节省成本，并改善全球人民的生活质量。例如，英国政府正在开发AI试点项目，以减少欺诈、提高庇护申请处理效率，并总结政府咨询的回应。美国和英国政府机构也在积极采用AI，预计到2033年，公共部门将因生成式AI而获得5190亿美元的生产力提升。然而，AI的采用也面临隐私和安全等挑战，需要通过数据隐私保护和负责任的AI使用来克服。</description>
-    </item>
-  
-    <item>
       <title>Elastic named a Leader in the 2024 Gartner Magic Quadrant for Observability Platforms</title>
       <link>https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-observability-platforms-2024</link>
       <description>Elastic在2024年Gartner可观察性平台魔力象限中被评为领导者。随着运营团队面临日益增长的复杂性和数据增长，对可观察性平台的需求不断演变。Elastic的可观察性平台通过主动洞察和无需妥协的搜索AI平台，帮助客户保留和使用所有数据，从而通过降低成本提高运营效率。Elastic的可观察性解决方案提供端到端可见性，以帮助推动工具整合，避免旋转椅分析，从而实现更快的根本原因分析。</description>
-    </item>
-  
-    <item>
-      <title>Driving innovation in social services with Amazon Bedrock</title>
-      <link>https://www.thoughtworks.com/insights/blog/cloud/driving-innovation-social-services-amazon-bedrock</link>
-      <description>Thoughtworks与AWS合作，利用Amazon Bedrock开发了ISLA，一款AI聊天机器人，旨在通过简化志愿者培训、角色扮演和文档记录等环节，提高社会服务效率。ISLA旨在通过AI技术改善志愿者体验，为老龄化社会提供更有效的支持。</description>
-    </item>
-  
-    <item>
-      <title>Leveraging GenAI to modernize enterprise systems integration</title>
-      <link>https://www.thoughtworks.com/insights/blog/generative-ai/Leveraging-GenAI-to-modernize-enterprise-systems-integration</link>
-      <description>利用生成式AI现代化企业系统集成，通过分析遗留代码和生成新代码，可大幅提高系统架构的维护性和适应性，降低成本并加速现代化进程。</description>
     </item>
   
     <item>
