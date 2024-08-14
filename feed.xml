@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What are AI agents and why do they matter?</title>
+      <link>https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/</link>
+      <description>AI代理是能够自主执行任务的人工智能系统，它们利用生成式AI模型和大型语言模型来追求复杂目标。这些系统中的LLM作为大脑，其他算法和工具则用于完成关键任务，如生成软件开发计划或预订机票。AI代理的潜力在于减少重复性任务，让我们专注于更高层次的思考。随着AI代理在GitHub等工具中的应用增加，开发者将越来越多地遇到这种技术。</description>
+    </item>
+  
+    <item>
       <title>Self-driving Waymo cars keep SF residents awake all night by honking at each other</title>
       <link>https://arstechnica.com/?p=2042921</link>
       <description>自动驾驶的Waymo汽车在旧金山的停车场互相按喇叭，导致居民整夜无法入睡。这些无人驾驶汽车在夜间自动反应，频繁按喇叭，给当地居民带来困扰和睡眠不足。Waymo公司正在努力解决这个问题。</description>
@@ -123,6 +129,12 @@
       <title>Zero Trust and Docker Desktop: An Introduction</title>
       <link>https://www.docker.com/blog/zero-trust-and-docker-desktop-an-introduction/</link>
       <description>Docker Desktop与零信任模型结合，旨在提升组织安全态势。本文探讨了零信任安全模型，并介绍了在Docker Desktop开发环境中实施零信任的策略。通过严格访问控制、最小权限和持续验证，零信任模型增强了安全性。文章还讨论了容器化应用、主机和网络隔离、最小权限原则、网络微分段、身份验证和授权以及监控和审计等关键要素。</description>
+    </item>
+  
+    <item>
+      <title>Introducing HTTP request traffic insights on Cloudflare Radar</title>
+      <link>https://blog.cloudflare.com/http-requests-on-cloudflare-radar</link>
+      <description>Cloudflare Radar新增了HTTP请求流量洞察功能，通过分析HTTP请求次数和字节流量，帮助用户更深入地了解网络流量模式和用户行为。新功能包括基于HTTP请求的流量图表，可显示请求量和字节流量的时间序列，以及协议摘要，显示HTTP流量在总流量中的占比。这些数据有助于区分真实事件和数据管道问题，为网络分析提供更全面的视角。</description>
     </item>
   
     <item>
