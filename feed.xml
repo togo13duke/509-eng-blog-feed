@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>BW #79: Cyber attacks</title>
-      <link>https://www.bambooweekly.com/bw-79-cyber-attacks/</link>
-      <description>本周，我们探讨了网络攻击的威胁，包括政府、恐怖组织和个人如何以低成本发起攻击。文章提到了最近的几起网络攻击事件，如俄罗斯入侵微软系统、伊朗黑客攻击特朗普竞选活动以及CrowdStrike软件的漏洞。此外，还讨论了网络攻击的频率、发起者和目标，并引用了马里兰大学国际安全研究中心的数据库来分析网络攻击的趋势。</description>
-    </item>
-  
-    <item>
       <title>.NET Conf 2024 – Celebrating the Release of .NET 9! – Save the Date!</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-conf-2024-celebrating-the-release-of-dotnet-9-save-the-date/</link>
       <description>.NET Conf 2024将于2024年11月12日至14日举行，庆祝.NET 9的发布。这是一个免费的三天虚拟开发者活动，由.NET社区和微软共同举办。活动将涵盖云原生和智能应用开发，包括AI集成、Blazor和跨平台开发等主题。开发者可以参加直播会议，提交内容，并参与全球活动。</description>
@@ -66,12 +60,6 @@
     </item>
   
     <item>
-      <title>Decoding NVIDIA Edify — The Technology That Helps Developers Create Custom Models Trained on Their Data</title>
-      <link>https://blogs.nvidia.com/blog/ai-decoded-edify/</link>
-      <description>NVIDIA的Edify技术助力开发者创建定制模型，通过其多模态AI架构，可利用简单文本提示生成图像、视频、3D资产等。Edify在生成高质量内容的同时，提高了训练效率，并支持对模型进行微调以匹配风格或学习角色和对象。Getty Images利用Edify训练其生成式摄影服务，确保数据集安全且符合版权要求，同时为创作者带来新的收入来源。</description>
-    </item>
-  
-    <item>
       <title>The Download: a new AI risk database, and studying Jupiter’s mysterious moon</title>
       <link>https://www.technologyreview.com/2024/08/14/1096566/the-download-a-new-ai-risk-database-and-studying-jupiters-mysterious-moon/</link>
       <description>MIT Technology Review最新报道，一项由MIT CSAIL团队创建的AI风险数据库记录了700多种AI系统可能带来的风险，为AI风险提供最全面的信息来源。同时，文章还探讨了木卫二欧罗巴的研究进展，以及美国考虑拆分谷歌等科技新闻。</description>
@@ -87,12 +75,6 @@
       <title>A new public database lists all the ways AI could go wrong</title>
       <link>https://www.technologyreview.com/2024/08/14/1096455/new-database-lists-ways-ai-go-wrong/</link>
       <description>麻省理工学院CSAIL的FutureTech团队创建了一个新的公共数据库，记录了700多种先进人工智能系统可能带来的风险。该数据库详细列出了AI系统安全、不公平偏见、隐私侵犯等问题，并指出大多数风险在模型公开后才会被发现。该数据库旨在促进对AI风险的研究，但并未对风险进行排序，以保持中立和全面。</description>
-    </item>
-  
-    <item>
-      <title>Databricks University Alliance Crosses 1,000 University Threshold</title>
-      <link>https://www.databricks.com/blog/databricks-university-alliance-crosses-1000-university-threshold</link>
-      <description>Databricks大学联盟已突破1000所学校的里程碑，覆盖85个国家，超过10万名学生。该联盟通过提供工具和资源，帮助大学培养新一代AI人才，并支持学术研究。Databricks致力于通过其平台和资源，推动高等教育和AI技术的发展。</description>
     </item>
   
     <item>
@@ -156,12 +138,6 @@
     </item>
   
     <item>
-      <title>Railing against time: tools and techniques that got us 5X faster tests</title>
-      <link>https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results</link>
-      <description>Evil Martians团队通过使用RSpec、Stackprof和TestProf等工具，帮助客户优化了CI流程，将测试速度提高了5倍。他们通过分析测试套件、优化工厂、使用let_it_be和create_default等技巧，显著减少了测试时间。</description>
-    </item>
-  
-    <item>
       <title>Driving innovation in social services with Amazon Bedrock</title>
       <link>https://www.thoughtworks.com/insights/blog/cloud/driving-innovation-social-services-amazon-bedrock</link>
       <description>Thoughtworks与AWS合作，利用Amazon Bedrock开发了ISLA，一款AI聊天机器人，旨在通过简化志愿者培训、角色扮演和文档记录等环节，提高社会服务效率。ISLA旨在通过AI技术改善志愿者体验，为老龄化社会提供更有效的支持。</description>
@@ -174,21 +150,9 @@
     </item>
   
     <item>
-      <title>dbt Generic Tests in Sessions Validation at Yelp</title>
-      <link>https://engineeringblog.yelp.com/2024/08/dbt-Generic-Tests-in-Sessions-Validation-at-Yelp.html</link>
-      <description>Yelp使用dbt作为数据产品测试和验证工具，以提升数据质量。通过dbt，Yelp能够自动化测试过程，简化数据验证，并提高数据标准。文章详细介绍了dbt在Yelp的Session数据开发周期中的应用，包括数据验证阶段、测试分类和存储测试失败结果等。</description>
-    </item>
-  
-    <item>
       <title>What are AI agents and why do they matter?</title>
       <link>https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/</link>
       <description>AI代理是能够自主执行任务的人工智能系统，它们利用生成式AI模型和大型语言模型来追求复杂目标。这些系统中的LLM作为大脑，其他算法和工具则用于完成关键任务，如生成软件开发计划或预订机票。AI代理的潜力在于减少重复性任务，让我们专注于更高层次的思考。随着AI代理在GitHub等工具中的应用增加，开发者将越来越多地遇到这种技术。</description>
-    </item>
-  
-    <item>
-      <title>10 Amazing Web Developer Resume Examples for Different Web Dev Specializations</title>
-      <link>https://www.sitepoint.com/web-developer-resume-examples/?utm_source=rss</link>
-      <description>本文提供了针对不同Web开发专业化的10个优秀简历示例，包括前端、全栈、J2EE、Java、PHP和ASP.NET等。针对不同职业阶段，如初级、中级、高级和自由职业者，提供了相应的简历撰写建议。强调定制化简历的重要性，突出个人技能和成就，以吸引招聘者。</description>
     </item>
   
     <item>
@@ -358,12 +322,6 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Social Media Analytics: Unlocking Key Insights for Business Success</title>
       <link>https://s14415.pcdn.co/blog/social-media-analytics/</link>
       <description>社交媒体分析是商业成功的关键，通过分析社交媒体数据，企业可以深入了解受众偏好和行为，优化内容策略，提升营销效果。本文探讨了社交媒体分析的定义、重要性、工具选择、策略制定、执行与优化，以及挑战与考虑因素，为企业提供全面指导。</description>
-    </item>
-  
-    <item>
-      <title>Social Media Analytics: Unlocking Key Insights for Business Success</title>
-      <link>https://www.brandwatch.com/blog/social-media-analytics/</link>
-      <description>社交媒体分析是关键，它帮助商家了解受众偏好和行为，优化内容策略，提升营销效果。通过分析工具，如Google Analytics和Brandwatch，企业可以监测关键指标，如参与度、覆盖范围和情感分析，以调整策略并增长在线影响力。</description>
     </item>
   
     <item>
