@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>4 Tips for Writing More Testable Code</title>
-      <link>https://spin.atomicobject.com/more-testable-code/</link>
-      <description>编写可测试代码的4个技巧：选择特定输入类型，避免对象修改，将复杂逻辑从数据库中分离，按需创建新模块和服务。这些方法有助于提高代码的可测试性和测试效率。</description>
-    </item>
-  
-    <item>
       <title>6 Ways AI Can Enhance API Testing</title>
       <link>https://nordicapis.com/6-ways-ai-can-enhance-api-testing/</link>
       <description>AI在API测试中的应用包括生成测试数据、响应验证、负载模拟、威胁建模、漏洞发现和错误处理验证，这些应用提高了测试效率和安全性，但需注意AI的局限性。</description>
@@ -21,12 +15,6 @@
       <title>Introducing Tempo Monolithic mode</title>
       <link>https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode</link>
       <description>Red Hat OpenShift的分布式追踪3.2版本引入了Tempo Monolithic模式，这是一种将所有核心组件集成在一个容器中的技术预览功能。该模式简化了部署过程，但牺牲了可扩展性。它适用于小型部署、演示和测试环境，是Red Hat OpenShift分布式追踪平台（Jaeger）推荐的迁移路径。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: Under the Sheets</title>
-      <link>https://thedailywtf.com/articles/under-the-sheets</link>
-      <description>Remy Porter在TDWTF上分享了一篇关于一个基于Java的Web应用的故事，该应用在处理表单数据时存在硬编码字符串和解析问题，导致代码脆弱且易出错。文章揭示了开发者如何使用不标准的Java技术，并探讨了代码中不清晰的变量命名和潜在的安全风险。</description>
     </item>
   
     <item>
