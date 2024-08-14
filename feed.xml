@@ -6,9 +6,33 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Speak Geek: A New Dev’s Guide to Effective Communication [FREE]</title>
+      <link>https://www.kodeco.com/41702656-speak-geek-a-new-dev-s-guide-to-effective-communication</link>
+      <description>本文为软件开发新手提供有效沟通指南，强调沟通在团队协作中的重要性。文章涵盖沟通技巧、远程沟通规则、文化意识、确定沟通内容、解决信息传递问题以及与团队和管理层沟通的方法。强调主动倾听、同理心、使用适当的沟通工具和遵循礼仪，以及如何根据不同情境调整沟通方式。</description>
+    </item>
+  
+    <item>
+      <title>Indie Games Fund: Google Play’s $2m fund in Latin America is back</title>
+      <link>http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html</link>
+      <description>Google Play在拉丁美洲重启了Indie Games Fund，提供200万美元资金支持独立游戏开发者。去年已有10家工作室获得资助。符合条件的开发者可获得15万至20万美元的资金，以提升游戏质量和建立成功业务。申请截止至2024年9月13日中午12点。更多详情和申请信息请访问官方网站。</description>
+    </item>
+  
+    <item>
+      <title>The Walrus Operator: Python's Assignment Expressions</title>
+      <link>https://realpython.com/python-walrus-operator/</link>
+      <description>本文深入介绍了Python中的 Walrus 操作符，这是一种新的赋值表达式语法，允许在表达式中赋值并返回值。它通过减少代码重复和提高代码可读性来提高编程效率。文章详细解释了 Walrus 操作符的动机、语法、使用场景，并通过实际示例展示了如何在实际编程中使用它，包括调试、列表和字典操作等。</description>
+    </item>
+  
+    <item>
       <title>Deprecation of Password Logins on CLI with Docker SSO Enforcement</title>
       <link>https://www.docker.com/blog/deprecation-of-password-logins-on-cli-with-docker-sso-enforcement/</link>
       <description>Docker宣布从2024年9月16日起，将弃用Docker CLI中的密码登录，以加强单点登录（SSO）的安全性。此变更要求用户使用个人访问令牌（PAT）进行CLI登录，以统一和加强所有Docker服务的身份验证过程。此举旨在提高用户环境的安全性，并确保组织整体的安全态势。</description>
+    </item>
+  
+    <item>
+      <title>The Download: a new AI risk database, and studying Jupiter’s mysterious moon</title>
+      <link>https://www.technologyreview.com/2024/08/14/1096566/the-download-a-new-ai-risk-database-and-studying-jupiters-mysterious-moon/</link>
+      <description>MIT Technology Review最新报道，一项由MIT CSAIL团队创建的AI风险数据库记录了700多种AI系统可能带来的风险，为AI风险提供最全面的信息来源。同时，文章还探讨了木卫二欧罗巴的研究进展，以及美国考虑拆分谷歌等科技新闻。</description>
     </item>
   
     <item>
@@ -63,6 +87,12 @@
       <title>Return an Enumerator When Your Collection Has Multiple Traversals</title>
       <link>https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals</link>
       <description>在Ruby中，当你的集合有多个遍历方式时，应该返回一个枚举器而不是直接包含可枚举模块。例如，对于二叉树，可以定义前序、中序和后序遍历，并通过返回枚举器来允许调用者选择所需的遍历方式，从而提供更大的灵活性和可扩展性。</description>
+    </item>
+  
+    <item>
+      <title>Elastic named a Leader in the 2024 Gartner Magic Quadrant for Observability Platforms</title>
+      <link>https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-observability-platforms-2024</link>
+      <description>Elastic在2024年Gartner可观察性平台魔力象限中被评为领导者。随着运营团队面临日益增长的复杂性和数据增长，对可观察性平台的需求不断演变。Elastic的可观察性平台通过主动洞察和无需妥协的搜索AI平台，帮助客户保留和使用所有数据，从而通过降低成本提高运营效率。Elastic的可观察性解决方案提供端到端可见性，以帮助推动工具整合，避免旋转椅分析，从而实现更快的根本原因分析。</description>
     </item>
   
     <item>
