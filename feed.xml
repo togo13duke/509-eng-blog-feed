@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>6 Ways AI Can Enhance API Testing</title>
+      <link>https://nordicapis.com/6-ways-ai-can-enhance-api-testing/</link>
+      <description>AI在API测试中的应用包括生成测试数据、响应验证、负载模拟、威胁建模、漏洞发现和错误处理验证，这些应用提高了测试效率和安全性，但需注意AI的局限性。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Tempo Monolithic mode</title>
+      <link>https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode</link>
+      <description>Red Hat OpenShift的分布式追踪3.2版本引入了Tempo Monolithic模式，这是一种将所有核心组件集成在一个容器中的技术预览功能。该模式简化了部署过程，但牺牲了可扩展性。它适用于小型部署、演示和测试环境，是Red Hat OpenShift分布式追踪平台（Jaeger）推荐的迁移路径。</description>
+    </item>
+  
+    <item>
       <title>Return an Enumerator When Your Collection Has Multiple Traversals</title>
       <link>https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals</link>
       <description>在Ruby中，当你的集合有多个遍历方式时，应该返回一个枚举器而不是直接包含可枚举模块。例如，对于二叉树，可以定义前序、中序和后序遍历，并通过返回枚举器来允许调用者选择所需的遍历方式，从而提供更大的灵活性和可扩展性。</description>
