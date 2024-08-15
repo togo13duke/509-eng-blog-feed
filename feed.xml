@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unlock Faster Machine Learning with Graviton</title>
+      <link>https://www.databricks.com/blog/unlock-faster-machine-learning-graviton</link>
+      <description>Databricks宣布其机器学习运行时现在支持AWS的Graviton ARM架构CPU实例。Graviton实例为机器学习工作负载提供了速度提升，例如XGBoost、LightGBM和Spark MLlib等库可看到高达30-50%的速度提升，同时降低了云服务提供商的成本。Graviton3处理器在训练机器学习模型时，与x86架构相比，能够加速各种应用而不影响模型质量。</description>
+    </item>
+  
+    <item>
       <title>Musk’s new Grok upgrade allows X users to create largely uncensored AI images</title>
       <link>https://arstechnica.com/?p=2043070</link>
       <description>马斯克的新Grok升级让X用户能够创建大量未经审查的AI图像，引发了对言论自由和AI滥用责任的讨论。</description>
