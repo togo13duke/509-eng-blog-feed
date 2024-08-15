@@ -12,6 +12,18 @@
     </item>
   
     <item>
+      <title>BW #79: Cyber attacks (solution)</title>
+      <link>https://www.bambooweekly.com/bw-79-cyber-attacks-solution/</link>
+      <description>本周探讨网络攻击，包括俄罗斯入侵微软系统和伊朗黑客攻击特朗普竞选活动等事件。文章分析了网络攻击的普遍性和有效性，并推荐了《完美的武器》一书。此外，作者使用Pandas分析了来自马里兰大学国际安全研究中心的网络攻击数据，发现网络安全事件数量在过去十年中几乎翻倍。</description>
+    </item>
+  
+    <item>
+      <title>Instead of putting a hash in the Portable Executable timestamp field, why not create a separate field for the hash?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240815-00/?p=110131</link>
+      <description>探讨在可移植可执行文件中，为何不将哈希值放入时间戳字段，而是创建一个单独的哈希字段。文章指出，使用哈希值而非时间戳是为了实现可重复构建，并解释了时间戳和哈希值在构建过程中的作用及其对二进制文件的影响。</description>
+    </item>
+  
+    <item>
       <title>Navigating the Future with Cloudera’s Updated Interface</title>
       <link>https://blog.cloudera.com/navigating-the-future-with-clouderas-updated-interface/</link>
       <description>Cloudera更新了其平台界面，旨在提高用户体验和满足客户需求。新界面简化了导航，增强了功能的可发现性，并提高了用户的生产力。主要改进包括：优化导航、集成分析摘要、解决方案探索器和快速入门指南，以及新的文档搜索功能。这些更新旨在使数据团队更高效地工作，并更好地利用Cloudera平台的能力。</description>
@@ -111,6 +123,12 @@
       <title>IBM partners with Elasticsearch to deliver Conversational Search with watsonx Assistant</title>
       <link>https://www.elastic.co/blog/ibm-elasticsearch-partnership-conversational-search-watsonx-assistant</link>
       <description>IBM与Elasticsearch合作，通过watsonx Assistant提供对话式搜索功能，以增强客户对规模、速度和精确度的需求。这一合作使得IBM watsonx Assistant用户能够利用Elasticsearch的向量数据库和搜索能力，结合公司数据构建具有全面搜索功能的对话式AI助手。</description>
+    </item>
+  
+    <item>
+      <title>Optimizing Lucene caching: A solution to lock contention</title>
+      <link>https://www.elastic.co/blog/optimizing-lucene-caching</link>
+      <description>Apache Lucene的缓存系统通过读写锁优化解决了锁竞争问题，显著提升了性能。腾讯的贡献使得缓存访问更加灵活高效，多线程可同时读取，而写入操作则保持互斥，从而降低了锁竞争，提高了查询响应速度和搜索效率。</description>
     </item>
   
     <item>
