@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Practical tips for retrieval-augmented generation (RAG)</title>
+      <link>https://stackoverflow.blog/2024/08/15/practical-tips-for-retrieval-augmented-generation-rag/</link>
+      <description>RAG（检索增强生成）是一种通过结合预训练语言模型和外部知识库来提高生成准确性的方法。文章提供了实现RAG的实用技巧，包括混合搜索、数据清洗、提示工程、评估和数据收集等方面，以优化RAG性能。</description>
+    </item>
+  
+    <item>
+      <title>Navigating the Future with Cloudera’s Updated Interface</title>
+      <link>https://blog.cloudera.com/navigating-the-future-with-clouderas-updated-interface/</link>
+      <description>Cloudera更新了其平台界面，旨在提高用户体验和满足客户需求。新界面简化了导航，增强了功能的可发现性，并提高了用户的生产力。主要改进包括：优化导航、集成分析摘要、解决方案探索器和快速入门指南，以及新的文档搜索功能。这些更新旨在使数据团队更高效地工作，并更好地利用Cloudera平台的能力。</description>
+    </item>
+  
+    <item>
+      <title>GeForce NOW and CurseForge Bring Mod Support to ‘World of Warcraft: The War Within’ in the Cloud</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-world-of-warcraft-mods/</link>
+      <description>NVIDIA的GeForce NOW平台为《魔兽世界：内心之战》扩展包提供云游戏支持，并新增了25个CurseForge插件，让玩家在支持的设备上享受更丰富的游戏体验。同时，GeForce NOW还推出了夏季促销活动，提供50%折扣的会员服务。</description>
+    </item>
+  
+    <item>
+      <title>The Download: facial recognition for migrant children, and Japan’s megaquake</title>
+      <link>https://www.technologyreview.com/2024/08/15/1096681/the-download-facial-recognition-for-migrant-children-and-japans-megaquake/</link>
+      <description>美国国土安全部计划收集移民儿童的面部生物识别数据，以提高面部识别技术；日本气象厅首次发布“大地震预警”，提醒可能发生更大规模的地震；美国政府在气候技术领域投入巨资，推动该领域发展。</description>
+    </item>
+  
+    <item>
       <title>Bereavement Leave on Day One: A Testament to Company Culture</title>
       <link>https://spin.atomicobject.com/bereavement-leave-company-culture/</link>
       <description>Atomic Object公司以其对员工关怀的文化而闻名，作者Kealy Williams分享了她在加入公司后，因家庭原因需要请假，公司不仅理解并支持她的请求，还调整了她的入职计划，体现了公司的信任和忠诚。</description>
@@ -81,6 +105,12 @@
       <title>The hidden cost multiplier of fixed-price cloud resources</title>
       <link>https://advancedweb.hu/shorts/the-hidden-cost-multiplier-of-fixed-price-cloud-resources/</link>
       <description>固定价格云资源的隐藏成本乘数：随着多账户设置，固定价格云资源的使用成本会显著增加，尤其是在多开发者环境下，如Kinesis Data Stream的成本从每月30美元增加到240美元。因此，建议优先考虑只有可变成本的资源，以避免不必要的额外费用。</description>
+    </item>
+  
+    <item>
+      <title>IBM partners with Elasticsearch to deliver Conversational Search with watsonx Assistant</title>
+      <link>https://www.elastic.co/blog/ibm-elasticsearch-partnership-conversational-search-watsonx-assistant</link>
+      <description>IBM与Elasticsearch合作，通过watsonx Assistant提供对话式搜索功能，以增强客户对规模、速度和精确度的需求。这一合作使得IBM watsonx Assistant用户能够利用Elasticsearch的向量数据库和搜索能力，结合公司数据构建具有全面搜索功能的对话式AI助手。</description>
     </item>
   
     <item>
@@ -267,6 +297,12 @@
       <title>Check URL Search Params Using Cypress</title>
       <link>https://glebbahmutov.com/blog/check-url-params/</link>
       <description>本文介绍了如何使用Cypress测试框架验证URL搜索参数。通过示例代码，展示了如何解析和确认URL搜索参数，并提供了使用URLSearchParams对象进行验证的方法。文章还讨论了参数顺序和多个断言的使用，以及如何通过插件扩展Cypress的功能。</description>
+    </item>
+  
+    <item>
+      <title>The Creative Advantage: How Leading Brands Drive Demand With Innovative Marketing Strategies</title>
+      <link>https://www.toptal.com/executive-guidance/growth-and-digital-marketing/creative-marketing-advertising</link>
+      <description>在数字营销时代，创意营销策略对于品牌发展至关重要。本文提出了五种创新营销方法，包括利用户外广告、结合数字体验激发真实行为、从第一方数据创建可分享内容、培养以社区为中心的体验以及加倍投入内容创作。这些方法结合了设计思维和数据分析，以更有效地触及目标受众，提升品牌知名度和需求。</description>
     </item>
   
     <item>
