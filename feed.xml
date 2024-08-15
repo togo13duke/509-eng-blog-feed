@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Bereavement Leave on Day One: A Testament to Company Culture</title>
+      <link>https://spin.atomicobject.com/bereavement-leave-company-culture/</link>
+      <description>Atomic Object公司以其对员工关怀的文化而闻名，作者Kealy Williams分享了她在加入公司后，因家庭原因需要请假，公司不仅理解并支持她的请求，还调整了她的入职计划，体现了公司的信任和忠诚。</description>
+    </item>
+  
+    <item>
+      <title>What Japan’s “megaquake” warning really tells us</title>
+      <link>https://www.technologyreview.com/2024/08/15/1096682/what-japans-megaquake-warning-really-tells-us/</link>
+      <description>日本气象厅首次发布“大地震预警”，提醒公众关注可能发生的更大地震。虽然目前认为7.1级地震不太可能引发灾难，但预警旨在提高人们对潜在风险的意识，并鼓励准备应急措施。这种预警并非预测即将发生大地震，而是提醒人们为可能的大地震做好准备。</description>
+    </item>
+  
+    <item>
+      <title>The US government is still spending big on climate</title>
+      <link>https://www.technologyreview.com/2024/08/15/1096648/inflation-reduction-act-two-years/</link>
+      <description>美国政府在气候技术领域的投资正在产生显著影响。自2022年通胀削减法案（IRA）实施以来，政府已投入数十亿美元，并计划更多投资。这些资金支持了电池、电动汽车、太阳能和风能等领域的研发，以及个人购买节能产品的税收抵免。此外，企业也在增加投资，推动相关项目的发展。欧洲也在响应IRA，制定了净零产业法案，旨在到2030年实现40%的气候技术自给自足。</description>
+    </item>
+  
+    <item>
       <title>Happy birthday, baby! What the future holds for those born today</title>
       <link>https://www.technologyreview.com/2024/08/15/1096178/125-years-predictions-babies-digital-agents/</link>
       <description>今天出生的孩子们将迎来一个智能机器的时代。他们从出生起就与智能机器共同成长，这些机器将成为他们的终身伴侣，提供个性化指导和帮助。从婴儿时期开始，智能设备就伴随左右，帮助他们学习和探索世界。随着成长，孩子们将遇到智能导师，这些导师将利用增强现实和混合现实技术来辅助教学。在16岁时，智能代理将辅助驾驶，甚至可能完全自动驾驶。到25岁，智能代理将深入了解个人生活，包括社交和情感生活，甚至可能成为虚拟伴侣。随着技术的发展，未来家庭生活也将发生变革，空间将更加灵活，功能更加多样化。</description>
@@ -27,6 +45,12 @@
       <title>Your first GPU algorithm: Scan/prefix sum</title>
       <link>https://developers.redhat.com/articles/2024/08/15/your-first-gpu-algorithm-scanprefix-sum</link>
       <description>本文介绍了GPU编程中的第一个算法——扫描/前缀和。通过比较CPU和GPU版本的向量加法，文章解释了如何利用GPU的并行处理能力。接着，文章深入探讨了如何实现更高级的前缀和算法，包括一个O(n log n)工作量和O(log n)跨度算法，该算法通过并行处理和二叉树结构优化了计算效率。最后，文章强调了这些技术的重要性，并指出它们可以作为工具箱中的基础技术，用于解决其他问题。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Stored Procedures are Better</title>
+      <link>https://thedailywtf.com/articles/stored-procedures-are-better</link>
+      <description>存储过程优于字符串连接构建SQL查询，因为后者容易导致代码脆弱和SQL注入攻击。文章指出，一个存储过程示例中存在不必要的字符串连接和代码不一致性，这表明原始代码可能来自ASP等语言，未经适当修改就转换为存储过程。</description>
     </item>
   
     <item>
