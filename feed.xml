@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>It works on my machine. Why?</title>
+      <link>https://thoughtbot.com/blog/it-works-on-my-machine-why</link>
+      <description>当代码在您的机器上运行正常，但在他人机器上不工作时，可能的原因有很多。这可能是由于不同的环境设置、数据库结构、依赖项、浏览器、电子邮件客户端、缓存数据、安全设置、操作系统或硬件差异等。文章详细列出了可能需要检查的因素，包括环境变量、数据库模式、依赖项、浏览器行为、电子邮件客户端、后台服务、缓存、cookies、安全设置、CORS、Docker镜像版本、资源可用性、操作系统和硬件。如果所有这些因素都检查过，但问题仍然存在，可以尝试重新启动计算机或查看其他相关资源。</description>
+    </item>
+  
+    <item>
       <title>Musk’s new Grok upgrade allows X users to create largely uncensored AI images</title>
       <link>https://arstechnica.com/?p=2043070</link>
       <description>马斯克的新Grok升级让X用户能够创建大量未经审查的AI图像，引发了对言论自由和AI滥用责任的讨论。</description>
@@ -243,6 +249,12 @@
       <title>5 Reasons to Use the Lookup API</title>
       <link>https://www.twilio.com/en-us/blog/5-reasons-to-use-lookup-api</link>
       <description>Twilio Lookup API通过电话号码智能分析，提供深入洞察，优化沟通策略，提升业务运营。其五大优势包括：验证电话号码准确性、确保联系正确的人、提高投递率和降低成本、防范欺诈、提升用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Announcing GoReleaser v2.2</title>
+      <link>https://carlosbecker.com/posts/goreleaser-v2.2/</link>
+      <description>GoReleaser v2.2发布，新增功能包括二进制签名、模板表达式过滤、新模板函数等。同时，更新了依赖、修复了bug，并移除了一些过时功能。GoReleaser社区活跃，拥有约13.5k星标和398位贡献者。</description>
     </item>
   
     <item>
