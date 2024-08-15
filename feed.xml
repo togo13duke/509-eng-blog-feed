@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Happy birthday, baby! What the future holds for those born today</title>
+      <link>https://www.technologyreview.com/2024/08/15/1096178/125-years-predictions-babies-digital-agents/</link>
+      <description>今天出生的孩子们将迎来一个智能机器的时代。他们从出生起就与智能机器共同成长，这些机器将成为他们的终身伴侣，提供个性化指导和帮助。从婴儿时期开始，智能设备就伴随左右，帮助他们学习和探索世界。随着成长，孩子们将遇到智能导师，这些导师将利用增强现实和混合现实技术来辅助教学。在16岁时，智能代理将辅助驾驶，甚至可能完全自动驾驶。到25岁，智能代理将深入了解个人生活，包括社交和情感生活，甚至可能成为虚拟伴侣。随着技术的发展，未来家庭生活也将发生变革，空间将更加灵活，功能更加多样化。</description>
+    </item>
+  
+    <item>
+      <title>The Undercurrents of Third-Party API Consumption Management</title>
+      <link>https://nordicapis.com/the-undercurrents-of-third-party-api-consumption-management/</link>
+      <description>随着第三方API使用量的增加，管理和优化API消费变得至关重要。传统API管理在处理外部API时存在不足，需要新的方法来处理出站流量、可见性和治理。Lunar.dev的Eyal Solomon在Platform Summit 2024上分享了关于如何更好地管理API消费流量的见解，强调了关注API消费的长期维护和优化的重要性。</description>
+    </item>
+  
+    <item>
+      <title>What's new in version 7.1 of Red Hat’s Migration Toolkit for Applications</title>
+      <link>https://developers.redhat.com/articles/2024/08/15/whats-new-version-71-red-hats-migration-toolkit-applications</link>
+      <description>Red Hat发布应用迁移工具包7.1版本，专注于提升用户体验和性能，并引入新功能。新版本支持.NET分析、自动语言和技术发现、应用洞察、任务管理和Gradle支持，旨在简化应用现代化和迁移过程。</description>
+    </item>
+  
+    <item>
+      <title>Your first GPU algorithm: Scan/prefix sum</title>
+      <link>https://developers.redhat.com/articles/2024/08/15/your-first-gpu-algorithm-scanprefix-sum</link>
+      <description>本文介绍了GPU编程中的第一个算法——扫描/前缀和。通过比较CPU和GPU版本的向量加法，文章解释了如何利用GPU的并行处理能力。接着，文章深入探讨了如何实现更高级的前缀和算法，包括一个O(n log n)工作量和O(log n)跨度算法，该算法通过并行处理和二叉树结构优化了计算效率。最后，文章强调了这些技术的重要性，并指出它们可以作为工具箱中的基础技术，用于解决其他问题。</description>
+    </item>
+  
+    <item>
       <title>Introducing Per-Bucket Bandwidth Billing for DigitalOcean Spaces</title>
       <link>https://www.digitalocean.com/blog/introducing-spaces-per-bucket-bandwidth-billing</link>
       <description>DigitalOcean推出针对Spaces对象存储服务的按桶带宽计费功能，提供更细粒度的带宽使用详情，帮助用户更有效地管理成本，防止超额使用。此功能允许用户按桶、按日、按直接源流量和CDN流量跟踪带宽使用情况，适用于各种客户，包括代理机构、初创公司、Web和媒体托管以及SaaS提供商。</description>
@@ -27,6 +51,12 @@
       <title>It works on my machine. Why?</title>
       <link>https://thoughtbot.com/blog/it-works-on-my-machine-why</link>
       <description>当代码在您的机器上运行正常，但在他人机器上不工作时，可能的原因有很多。这可能是由于不同的环境设置、数据库结构、依赖项、浏览器、电子邮件客户端、缓存数据、安全设置、操作系统或硬件差异等。文章详细列出了可能需要检查的因素，包括环境变量、数据库模式、依赖项、浏览器行为、电子邮件客户端、后台服务、缓存、cookies、安全设置、CORS、Docker镜像版本、资源可用性、操作系统和硬件。如果所有这些因素都检查过，但问题仍然存在，可以尝试重新启动计算机或查看其他相关资源。</description>
+    </item>
+  
+    <item>
+      <title>The hidden cost multiplier of fixed-price cloud resources</title>
+      <link>https://advancedweb.hu/shorts/the-hidden-cost-multiplier-of-fixed-price-cloud-resources/</link>
+      <description>固定价格云资源的隐藏成本乘数：随着多账户设置，固定价格云资源的使用成本会显著增加，尤其是在多开发者环境下，如Kinesis Data Stream的成本从每月30美元增加到240美元。因此，建议优先考虑只有可变成本的资源，以避免不必要的额外费用。</description>
     </item>
   
     <item>
@@ -267,6 +297,13 @@
       <title>Announcing GoReleaser v2.2</title>
       <link>https://carlosbecker.com/posts/goreleaser-v2.2/</link>
       <description>GoReleaser v2.2发布，新增功能包括二进制签名、模板表达式过滤、新模板函数等。同时，更新了依赖、修复了bug，并移除了一些过时功能。GoReleaser社区活跃，拥有约13.5k星标和398位贡献者。</description>
+    </item>
+  
+    <item>
+      <title>Reckoning: Part 3 — Caprock</title>
+      <link>https://infrequently.org/2024/08/caprock/</link>
+      <description>总结：
+本文探讨了JavaScript在Web开发中的应用及其对性能的影响。作者指出，过度依赖JavaScript和SPA架构会导致开发复杂且昂贵的工具，增加系统复杂性，并降低可扩展性。他建议采用渐进增强的方法，以降低成本并提高用户体验。作者强调，前端开发需要关注设备的实际性能，并承担起责任，以确保技术能够服务于用户和社会。</description>
     </item>
   
     <item>
