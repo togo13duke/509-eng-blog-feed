@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>8th Light Hosts AI Summit 2024</title>
+      <link>https://8thlight.com/insights/ai-summit-8th-light-chicago-event-recap</link>
+      <description>8th Light于2024年7月举办了AI峰会，汇聚了产品、设计和技术领域的专业人士，共同探讨AI应用案例的优先级。峰会邀请了行业专家分享AI解决方案的实践经验，并提供了将AI融入企业的方法。此外，还讨论了AI的现状与未来，包括责任实践、治理和AI对劳动力的影响。峰会旨在帮助领导者利用AI实现业务变革。</description>
+    </item>
+  
+    <item>
       <title>Practical tips for retrieval-augmented generation (RAG)</title>
       <link>https://stackoverflow.blog/2024/08/15/practical-tips-for-retrieval-augmented-generation-rag/</link>
       <description>RAG（检索增强生成）是一种通过结合预训练语言模型和外部知识库来提高生成准确性的方法。文章提供了实现RAG的实用技巧，包括混合搜索、数据清洗、提示工程、评估和数据收集等方面，以优化RAG性能。</description>
@@ -15,6 +21,18 @@
       <title>BW #79: Cyber attacks (solution)</title>
       <link>https://www.bambooweekly.com/bw-79-cyber-attacks-solution/</link>
       <description>本周探讨网络攻击，包括俄罗斯入侵微软系统和伊朗黑客攻击特朗普竞选活动等事件。文章分析了网络攻击的普遍性和有效性，并推荐了《完美的武器》一书。此外，作者使用Pandas分析了来自马里兰大学国际安全研究中心的网络攻击数据，发现网络安全事件数量在过去十年中几乎翻倍。</description>
+    </item>
+  
+    <item>
+      <title>Optimize Your Developer Experience with Scratch Org Shapes and Snapshots</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/optimize-your-developer-experience-with-scratch-org-shapes-and-snapshots.html</link>
+      <description>使用Scratch Org Shapes和Snapshots优化Salesforce开发者体验，通过创建与生产环境相似的临时开发环境，提高开发效率和一致性。Shapes复制配置和功能，Snapshots则包含数据、元数据和安装的包，适用于快速测试和开发。这些工具有助于标准化团队配置，并简化开发流程。</description>
+    </item>
+  
+    <item>
+      <title>Onboarding to a "legacy" codebase with the help of AI</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</link>
+      <description>探索生成式AI及其在软件开发中的应用，包括工具链、交互模式、模型特性和开源工具等。文章讨论了LLM在代码生成、推理和转换中的应用，并分析了当前使用情况和未来发展趋势。</description>
     </item>
   
     <item>
@@ -297,6 +315,12 @@
       <title>DigitalOcean’s Managed Database for Redis®* is now known as Managed Caching</title>
       <link>https://www.digitalocean.com/blog/digitalocean-managed-caching</link>
       <description>DigitalOcean的Redis数据库服务更名为“Managed Caching”，以符合Redis的新商标政策。服务功能保持不变，仍基于开源Redis 7.2版本，提供自动化备份、更新和监控，适用于各种规模的企业。</description>
+    </item>
+  
+    <item>
+      <title>How eBay uses generative AI to make employees and online sellers more productive</title>
+      <link>https://fortune.com/2024/08/14/ebay-gen-ai-cto-productivity-messaging/</link>
+      <description>eBay利用生成式AI提高员工和在线卖家的生产力，通过GitHub Copilot等工具加速软件开发，并开发eBay Coder以优化代码迁移。此外，AI还用于改善客户服务、扩展技术基础设施和提升购物体验。</description>
     </item>
   
     <item>
