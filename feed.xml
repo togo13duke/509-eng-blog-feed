@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>.NET 9 Preview 7 is now available!</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/</link>
+      <description>.NET 9 Preview 7现已发布，包含对.NET运行时、SDK、库、C#、ASP.NET Core、Blazor和.NET MAUI的重大增强。此版本包括对BinaryFormatter的移除、新的压缩API、ARM64 SVE支持、对容器发布的改进以及许多其他新特性和改进。</description>
+    </item>
+  
+    <item>
+      <title>Automating open source: How Ersilia distributes AI models to advance global health equity</title>
+      <link>https://github.blog/open-source/social-impact/automating-open-source-how-ersilia-distributes-ai-models-to-advance-global-health-equity/</link>
+      <description>Ersilia开源计划通过GitHub Actions分发AI/ML模型，加速药物发现，以促进全球健康公平。该计划旨在将AI/ML模型和计算能力传播到欧洲和北美以外的地区，帮助研究人员进行传染病药物发现。Ersilia模型库包含约150个模型，由数据科学家和软件开发者贡献，供生物医学和药物发现研究人员使用。</description>
+    </item>
+  
+    <item>
       <title>Google’s threat team confirms Iran targeting Trump, Biden, and Harris campaigns</title>
       <link>https://arstechnica.com/?p=2043545</link>
       <description>谷歌威胁分析团队确认伊朗政府支持的攻击目标包括特朗普、拜登和哈里斯的竞选活动。伊朗黑客组织APT42利用恶意软件和钓鱼页面攻击了与美总统竞选相关的谷歌账户，并成功入侵了知名政治顾问的个人Gmail账户。谷歌已重置账户、向用户发出警告，并封禁了APT42的钓鱼域名。</description>
@@ -84,6 +96,12 @@
     </item>
   
     <item>
+      <title>An Introduction to Time Series Forecasting with Generative AI</title>
+      <link>https://www.databricks.com/blog/introduction-time-series-forecasting-generative-ai</link>
+      <description>生成式AI在时间序列预测中的应用为企业管理提供了更准确的预测，帮助决策者做出更明智的选择。通过介绍时间序列转换器模型，本文探讨了如何利用这些模型提高预测准确性，并提供了在Databricks平台上使用这些模型的指南。</description>
+    </item>
+  
+    <item>
       <title>The US government is still spending big on climate</title>
       <link>https://www.technologyreview.com/2024/08/15/1096648/inflation-reduction-act-two-years/</link>
       <description>美国政府在气候技术领域的投资正在产生显著影响。自2022年通胀削减法案（IRA）实施以来，政府已投入数十亿美元，并计划更多投资。这些资金支持了电池、电动汽车、太阳能和风能等领域的研发，以及个人购买节能产品的税收抵免。此外，企业也在增加投资，推动相关项目的发展。欧洲也在响应IRA，制定了净零产业法案，旨在到2030年实现40%的气候技术自给自足。</description>
@@ -159,6 +177,12 @@
       <title>Optimizing Lucene caching: A solution to lock contention</title>
       <link>https://www.elastic.co/blog/optimizing-lucene-caching</link>
       <description>Apache Lucene的缓存系统通过读写锁优化解决了锁竞争问题，显著提升了性能。腾讯的贡献使得缓存访问更加灵活高效，多线程可同时读取，而写入操作则保持互斥，从而降低了锁竞争，提高了查询响应速度和搜索效率。</description>
+    </item>
+  
+    <item>
+      <title>Run an Ecto Query in an Ash Manual Action</title>
+      <link>https://jaketrent.com/post/run-ecto-query-ash-manual-action</link>
+      <description>在Ash中执行Ecto查询，通过手动操作可以解决数据获取问题。使用Ecto的manual宏，可以在Ash中直接使用Ecto查询，通过AshPostgres.Repo执行查询，并处理潜在的错误。这样可以在手动操作回调中定义动作和数据集，并返回结果。</description>
     </item>
   
     <item>
