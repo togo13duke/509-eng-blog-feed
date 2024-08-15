@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Musk’s new Grok upgrade allows X users to create largely uncensored AI images</title>
+      <link>https://arstechnica.com/?p=2043070</link>
+      <description>马斯克的新Grok升级让X用户能够创建大量未经审查的AI图像，引发了对言论自由和AI滥用责任的讨论。</description>
+    </item>
+  
+    <item>
+      <title>GitHub Availability Report: July 2024</title>
+      <link>https://github.blog/news-insights/company-news/github-availability-report-july-2024/</link>
+      <description>GitHub在2024年7月经历了四次服务性能下降事件，影响了Webhooks、GitHub Copilot、Copilot Chat和GitHub Pages等服务。这些问题由配置更改、资源清理错误和上游网络问题引起，导致延迟、错误和中断。GitHub正在采取措施改进监控、故障转移和资源管理，以减少未来事件的影响。</description>
+    </item>
+  
+    <item>
       <title>How Meta animates AI-generated images at scale</title>
       <link>https://engineering.fb.com/2024/08/14/production-engineering/how-meta-animates-ai-generated-images-at-scale/</link>
       <description>Meta通过结合延迟优化、流量管理和创新技术，成功部署了其AI生成图像的动画功能。该功能允许用户快速生成动画，同时保持资源高效。通过降低浮点精度、改进时间注意力扩展、利用DPM-Solver减少采样步骤、结合指导和步骤蒸馏以及PyTorch优化，Meta实现了快速且高效的图像动画生成。此外，通过优化路由和重试策略，Meta确保了全球范围内的服务可用性和低失败率。</description>
@@ -51,6 +63,12 @@
       <title>The Anatomy of a Modern Observability System: From Data Collection to Application</title>
       <link>https://last9.io/blog/modern-observability-system/</link>
       <description>现代可观测性系统从数据收集到应用分析，是维护和提升系统性能的关键，尤其对SRE团队至关重要。本文深入探讨了系统关键组件，包括数据收集、处理和洞察，以确保可观测性策略的稳健和高效。</description>
+    </item>
+  
+    <item>
+      <title>Found means fixed: Secure code more than three times faster with Copilot Autofix</title>
+      <link>https://github.blog/news-insights/product-news/secure-code-more-than-three-times-faster-with-copilot-autofix/</link>
+      <description>GitHub推出Copilot Autofix，通过AI技术加速代码漏洞修复，使开发者能够更快地发现并修复安全漏洞，提高软件开发的安全性。该工具可自动分析代码中的漏洞，提供修复建议，显著缩短漏洞修复时间，提升开发效率。</description>
     </item>
   
     <item>
