@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Per-Bucket Bandwidth Billing for DigitalOcean Spaces</title>
+      <link>https://www.digitalocean.com/blog/introducing-spaces-per-bucket-bandwidth-billing</link>
+      <description>DigitalOcean推出针对Spaces对象存储服务的按桶带宽计费功能，提供更细粒度的带宽使用详情，帮助用户更有效地管理成本，防止超额使用。此功能允许用户按桶、按日、按直接源流量和CDN流量跟踪带宽使用情况，适用于各种客户，包括代理机构、初创公司、Web和媒体托管以及SaaS提供商。</description>
+    </item>
+  
+    <item>
+      <title>Real-time mouse pointers</title>
+      <link>https://www.canva.dev/blog/engineering/realtime-mouse-pointers/</link>
+      <description>Canva团队分享了他们在实现实时鼠标指针功能的过程，包括如何通过WebSocket和Redis数据库实现实时交互，以及如何利用WebRTC技术实现更高效的点对点通信。该技术不仅提高了用户体验，还降低了后端服务器的负载。</description>
+    </item>
+  
+    <item>
       <title>Unlock Faster Machine Learning with Graviton</title>
       <link>https://www.databricks.com/blog/unlock-faster-machine-learning-graviton</link>
       <description>Databricks宣布其机器学习运行时现在支持AWS的Graviton ARM架构CPU实例。Graviton实例为机器学习工作负载提供了速度提升，例如XGBoost、LightGBM和Spark MLlib等库可看到高达30-50%的速度提升，同时降低了云服务提供商的成本。Graviton3处理器在训练机器学习模型时，与x86架构相比，能够加速各种应用而不影响模型质量。</description>
