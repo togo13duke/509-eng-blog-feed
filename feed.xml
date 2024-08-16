@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to level up your Git game with GitHub CLI</title>
+      <link>https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/</link>
+      <description>如何通过GitHub CLI提升Git技能 - 本文介绍了如何使用GitHub CLI在终端中管理GitHub项目，包括创建和克隆仓库、查看和编辑问题、审查和合并拉取请求等，旨在提高开发效率和生产力。</description>
+    </item>
+  
+    <item>
       <title>A New Era of Medium Engineering</title>
       <link>https://medium.engineering/a-new-era-of-medium-engineering-093b609c63ac?source=rss----2817475205d3---4</link>
       <description>Medium Engineering团队正迎来新时代，致力于长期稳定和成功。过去几年，我们改善了工程文化，现在要实现文化转变，追求卓越。我们将专注于正确性和完整性，明确沟通，重视过程，平衡工作量，创新独特之处。我们承诺为未来构建Medium，为未来的同事和会员创造价值。</description>
