@@ -6,45 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Why I Switched to Walking Standups</title>
-      <link>https://spin.atomicobject.com/switched-walking-standup/</link>
-      <description>我尝试了步行站立会议，发现它比传统的站立会议更有益。在户外走动可以提高团队创造力、协作和福祉，同时确保会议简短而有意义。建议规划路线，持续尝试，并提前规划恶劣天气的应对措施。</description>
-    </item>
-  
-    <item>
-      <title>Pandas office hours, August 18th</title>
-      <link>https://www.bambooweekly.com/pandas-office-hours-august-18th/</link>
-      <description>Pandas办公室时间将于8月18日举行，由Reuven M. Lerner主持。此活动仅限付费BW订阅者参加，包括Python+数据会员。参与者可提出关于Pandas的任何问题，Lerner将尽力解答。活动将录制并上传，未能参加者可稍后观看。</description>
-    </item>
-  
-    <item>
-      <title>Escaping Spotify’s algorithm</title>
-      <link>https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/</link>
-      <description>Spotify通过个性化推荐算法改变了音乐发现的方式，但这也可能导致我们失去了探索音乐的乐趣。文章指出，尽管Spotify提供了大量选择，但它的算法往往推荐相似的音乐，限制了用户的听觉体验。音乐爱好者正在寻找新的方式来激发好奇心，如创建音乐推荐联赛和互动音乐地图，以恢复音乐发现过程中的社交和文化互动。</description>
-    </item>
-  
-    <item>
-      <title>What’s next for drones</title>
-      <link>https://www.technologyreview.com/2024/08/16/1096517/whats-next-for-drones/</link>
-      <description>无人机技术正迅速发展，应用于警察巡逻、紧急物资快速配送、医疗用品递送等领域。随着无人机价格的下降和监管的放宽，其应用范围不断扩大。然而，无人机技术的发展也引发了对隐私、安全和道德等方面的担忧。</description>
-    </item>
-  
-    <item>
-      <title>How To Talk About Transportation In Spanish</title>
-      <link>https://www.babbel.com/en/magazine/transportation-in-spanish</link>
-      <description>学习西班牙语中的交通用语，无论你是乘坐飞机、火车、汽车还是自行车旅行，这篇文章为你提供了必要的词汇和短语，帮助你轻松应对各种交通场景。</description>
-    </item>
-  
-    <item>
       <title>How To Talk About Food And Drink In Spanish</title>
       <link>https://www.babbel.com/en/magazine/spanish-food-words</link>
       <description>学习西班牙语中的食物和饮料词汇，让你在西班牙语国家的餐厅用餐更加顺畅和地道。掌握基本词汇，如“食物”、“餐厅”、“菜单”等，以及如何表达饮食限制和结账，将提升你的旅行体验。注意西班牙和拉丁美洲国家的一些词汇差异。</description>
-    </item>
-  
-    <item>
-      <title>How To Say Hello In Spanish (And Other Useful Phrases For Introductions)</title>
-      <link>https://www.babbel.com/en/magazine/greetings-introductions-in-spanish</link>
-      <description>学习西班牙语问候语和自我介绍，掌握日常交流。从“Hola”开始，了解不同时间段的问候方式，如“Buenos días”、“Buenas tardes”和“Buenas noches”。学会介绍自己，询问对方姓名和来自哪里，以及如何告别。通过简单对话，提升西班牙语交流能力。</description>
     </item>
   
     <item>
@@ -63,12 +27,6 @@
       <title>Create software templates for VMs with OpenShift Virtualization</title>
       <link>https://developers.redhat.com/articles/2024/08/16/create-software-templates-vms-openshift-virtualization</link>
       <description>本文探讨了如何使用OpenShift虚拟化和Red Hat Developer Hub创建虚拟机软件模板，以提高开发效率。通过定义Kubernetes对象、使用Helm图表和GitOps，开发者可以快速构建和管理虚拟机，实现自动化部署和简化操作流程。</description>
-    </item>
-  
-    <item>
-      <title>Error'd: Epic</title>
-      <link>https://thedailywtf.com/articles/epic</link>
-      <description>这篇文章主要收录了多个关于技术错误和趣事的短篇故事，包括超市过度营销能量食品、Spotify播放错误、FedEx客服机器人问题、网站年龄限制弹出窗口、餐厅POS系统使用不当等。这些故事反映了技术使用中的常见问题和用户遭遇的尴尬情况。</description>
     </item>
   
     <item>
