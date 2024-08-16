@@ -162,6 +162,13 @@
     </item>
   
     <item>
+      <title>This Month in Investment Time: July 2024 Edition (Pilot)</title>
+      <link>https://thoughtbot.com/blog/this-month-in-investment-time-july-2024-edition-pilot</link>
+      <description>本月投资时间：2024年7月版（试点）
+本月，thoughtbot团队在投资时间中进行了多项活动，包括组织Ruby DF会议、参与Rails项目、管理个人投资日志、参与开源项目、学习AI伦理课程以及进行图像分类模型实验。团队致力于社区贡献、开源项目和自我提升，期待与大家分享更多成果。</description>
+    </item>
+  
+    <item>
       <title>Momento Migrates Object Cache as a Service to Ampere Altra</title>
       <link>https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss</link>
       <description>Momento公司迁移其对象缓存服务至Ampere Altra处理器，利用无服务器架构和Ampere的Google Tau T2A实例，简化了资源管理和优化，提供快速可靠的缓存服务，降低开发者的运营负担，并提高云应用性能。</description>
