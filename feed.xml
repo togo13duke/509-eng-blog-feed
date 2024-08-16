@@ -12,6 +12,12 @@
     </item>
   
     <item>
+      <title>Chinese social media users hilariously mock AI video fails</title>
+      <link>https://arstechnica.com/?p=2043808</link>
+      <description>中国社交媒体用户以幽默的方式模仿AI视频失败案例，将AI生成的荒谬错误转化为现实世界的表演艺术，这一趋势在TikTok和Bilibili上兴起，并传播至美国X（前Twitter）平台，引发网友的趣味模仿。</description>
+    </item>
+  
+    <item>
       <title>La gestion des risques cyber - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
       <link>https://blog.octo.com/la-gestion-des-risques-cyber-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
       <description>在法国，CNIL致力于保护个人数据，通过提高信息透明度来增强公民对数据的控制。CNIL在里尔举办了一场关于GDPR的研讨会，讨论了数据风险管理和合规性。研讨会强调了数据泄露的普遍性，并提出了预防措施和合规要求。违反GDPR可能导致法律后果，包括罚款和监禁。组织必须记录和报告数据泄露，并采取适当措施以保护个人数据。</description>
@@ -153,6 +159,18 @@
       <title>Reckoning: Part 4 — The Way Out</title>
       <link>https://infrequently.org/2024/08/the-way-out/</link>
       <description>文章探讨了前端开发中JavaScript过度使用的问题及其对用户体验和Web发展的负面影响。作者强调了用户优先的重要性，并提出了改善前端开发的建议，包括进行关键用户旅程分析、改革前端招聘流程、使用性能管理成熟度模型，以及强调价值观和责任。作者呼吁行业领导者、工程师和设计师共同努力，以提升Web性能和用户体验。</description>
+    </item>
+  
+    <item>
+      <title>Momento Migrates Object Cache as a Service to Ampere Altra</title>
+      <link>https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss</link>
+      <description>Momento公司迁移其对象缓存服务至Ampere Altra处理器，利用无服务器架构和Ampere的Google Tau T2A实例，简化了资源管理和优化，提供快速可靠的缓存服务，降低开发者的运营负担，并提高云应用性能。</description>
+    </item>
+  
+    <item>
+      <title>The CI Flake</title>
+      <link>https://hookrace.net/blog/the-ci-flake/</link>
+      <description>本文分析了Materialize CI中一个间歇性测试失败的案例。作者通过逐步排查，发现了一个由Python输出缓冲、Bash的pipefail设置和grep的quiet选项共同导致的bug。最终，通过移除grep命令中的-q选项或禁用该管道的pipefail，成功解决了问题。</description>
     </item>
   
     <item>
@@ -911,6 +929,12 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Go 1.23 is released</title>
       <link>https://go.dev/blog/go1.23</link>
       <description>Go 1.23版本发布，带来多项改进，包括语言变更、工具增强、标准库更新等。新增特性包括支持泛型类型别名、改进的Go工具链统计、新的标准库包等。鼓励用户阅读发布说明以获取详细信息。</description>
+    </item>
+  
+    <item>
+      <title>4 Mocking Approaches for Go</title>
+      <link>https://www.twilio.com/en-us/blog/4-mocking-approaches-go</link>
+      <description>Go语言中的四种Mock方法：Mocking是单元测试的关键部分，通过替换依赖以模拟复杂或外部依赖的行为。本文介绍了Go语言中四种Mock方法，包括使用接口、依赖注入、第三方库和自定义Mock。这些方法有助于隔离代码、提高测试速度和可靠性。</description>
     </item>
   
     <item>
