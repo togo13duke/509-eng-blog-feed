@@ -6,9 +6,51 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Vector Database Options for AWS</title>
+      <link>https://www.timescale.com/blog/vector-database-options-for-aws/</link>
+      <description>Timescale提供针对AWS的向量数据库选项，包括专为高效管理高维向量数据设计的独立向量数据库、集成pgvector的Amazon RDS PostgreSQL，以及Timescale Cloud上的AI和向量数据。这些选项支持快速存储、索引和查询向量数据，适用于AI开发，包括搜索、推荐和自然语言处理。</description>
+    </item>
+  
+    <item>
+      <title>Introducing high-definition portrait video support for Cloudflare Stream</title>
+      <link>https://blog.cloudflare.com/introducing-high-definition-portrait-video-support-for-cloudflare-stream</link>
+      <description>Cloudflare Stream新增了高清竖屏视频支持，解决了过去竖屏视频在移动设备上显示质量较低的问题。通过优化编码流程，新上传的竖屏视频将自动以全高清质量处理，提升视频播放体验。</description>
+    </item>
+  
+    <item>
+      <title>Simplify cloud routing and object storage configurations with Cloud Connector</title>
+      <link>https://blog.cloudflare.com/cloud-connector</link>
+      <description>Cloudflare推出Cloud Connector，简化云路由和对象存储配置。该工具允许用户轻松地将流量路由到不同的云服务，如AWS S3、Google Cloud Storage和Azure Blob Storage，无需复杂的设置或额外的规则。Cloud Connector旨在简化多云环境中的路由，提高性能并降低成本。</description>
+    </item>
+  
+    <item>
+      <title>The Download: what tomorrow holds for today’s babies, and replacing the brain</title>
+      <link>https://www.technologyreview.com/2024/08/16/1096885/the-download-what-tomorrow-holds-for-todays-babies-and-replacing-the-brain/</link>
+      <description>今天的孩子出生在一个智能机器的时代，这些机器从他们出生前就开始陪伴他们。未来，计算机将变得更小、更丰富，智能代理的兴起将是最大的变化，它们将更像伴侣而非工具。同时，有研究人员提出用年轻组织替换大脑，以避免衰老带来的死亡。无人机技术也在快速发展，引发了一系列安全和隐私问题。</description>
+    </item>
+  
+    <item>
+      <title>What is an On-Demand Android? (And How To Get One)</title>
+      <link>https://catonmat.net/what-is-an-on-demand-android</link>
+      <description>通过浏览器ling.com，用户可以即时访问虚拟的Android实例，无需本地安装。这些实例在云端运行，适用于测试、开发和调试Android应用。Browserling提供所有Android版本，支持自动化测试、UI/UX验证、兼容性检查和安全测试，适用于开发者和测试人员。</description>
+    </item>
+  
+    <item>
       <title>Why I Switched to Walking Standups</title>
       <link>https://spin.atomicobject.com/switched-walking-standup/</link>
       <description>我尝试了步行站立会议，发现它比传统的站立会议更有益。在户外走动可以提高团队创造力、协作和福祉，同时确保会议简短而有意义。建议规划路线，持续尝试，并提前规划恶劣天气的应对措施。</description>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #217: Packaging Data Analyses &amp; Using pandas GroupBy</title>
+      <link>https://realpython.com/podcasts/rpp/217/</link>
+      <description>本期《Real Python播客》探讨了如何以Python进行数据分析和使用pandas的GroupBy功能。内容包括数据分析项目组织最佳实践、现代Python打包技术，以及pandas GroupBy在数据操作中的应用。此外，还介绍了多个Python社区文章和项目，如JSON数据处理、异步事件循环等。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Web Scraping With Scrapy and MongoDB</title>
+      <link>https://realpython.com/quizzes/web-scraping-with-scrapy-and-mongodb/</link>
+      <description>本篇博客文章介绍了一篇关于使用Scrapy和MongoDB进行网络爬取的互动测验。测验旨在检验读者对Scrapy项目设置、构建功能爬虫、使用选择器提取网站数据、将数据存储在MongoDB数据库中以及测试和调试Scrapy爬虫的理解。测验包含13个问题，无时间限制，每答对一题得1分，满分100%。</description>
     </item>
   
     <item>
@@ -417,6 +459,12 @@
       <title>A new public database lists all the ways AI could go wrong</title>
       <link>https://www.technologyreview.com/2024/08/14/1096455/new-database-lists-ways-ai-go-wrong/</link>
       <description>麻省理工学院CSAIL的FutureTech团队创建了一个新的公共数据库，记录了700多种先进人工智能系统可能带来的风险。该数据库详细列出了AI系统安全、不公平偏见、隐私侵犯等问题，并指出大多数风险在模型公开后才会被发现。该数据库旨在促进对AI风险的研究，但并未对风险进行排序，以保持中立和全面。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: The Walrus Operator: Python's Assignment Expressions</title>
+      <link>https://realpython.com/quizzes/python-walrus-operator/</link>
+      <description>本篇文章介绍了Python中的 Walrus 操作符，这是一个用于赋值表达式的操作符，自Python 3.8版本引入。文章提供了一个包含8个问题的互动测验，旨在测试读者对Walrus操作符的理解。测验无时间限制，每答对一题得1分，最终得分可达100%。</description>
     </item>
   
     <item>
