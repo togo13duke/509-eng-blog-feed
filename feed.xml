@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Battling ticket bots and untangling taxes at the frontiers of e-commerce</title>
+      <link>https://stackoverflow.blog/2024/08/16/ilya-grigorik-shopify-ticket-bots-taxes-scale-software/</link>
+      <description>Shopify技术顾问Ilya Grigorik在Stack Overflow博客中讨论了电子商务前沿的挑战，包括对抗票务机器人、处理跨国家和地区的税务法规，以及他提出的“现代商业架构方法”，旨在平衡微服务和单体架构。</description>
+    </item>
+  
+    <item>
+      <title>La gestion des risques cyber - compte-rendu de la journée RGPD de la CNIL du 09/04/24 à Lille</title>
+      <link>https://blog.octo.com/la-gestion-des-risques-cyber-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-090424-a-lille</link>
+      <description>在法国，CNIL致力于保护个人数据，通过提高信息透明度来增强公民对数据的控制。CNIL在里尔举办了一场关于GDPR的研讨会，讨论了数据风险管理和合规性。研讨会强调了数据泄露的普遍性，并提出了预防措施和合规要求。违反GDPR可能导致法律后果，包括罚款和监禁。组织必须记录和报告数据泄露，并采取适当措施以保护个人数据。</description>
+    </item>
+  
+    <item>
+      <title>The case of the missing ordinal 380</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240816-00/?p=110136</link>
+      <description>客户报告了运行程序时出现“Ordinal Not Found”错误，指出Contoso.exe缺少380号序号。经过分析，发现错误信息误导性，实际问题是缺少的序号在COMCTL32.dll中，而Contoso.exe是引用该序号的模块。通过分析应用程序清单，发现系统未能正确处理清单，导致错误。</description>
+    </item>
+  
+    <item>
       <title>Vector Database Options for AWS</title>
       <link>https://www.timescale.com/blog/vector-database-options-for-aws/</link>
       <description>Timescale提供针对AWS的向量数据库选项，包括专为高效管理高维向量数据设计的独立向量数据库、集成pgvector的Amazon RDS PostgreSQL，以及Timescale Cloud上的AI和向量数据。这些选项支持快速存储、索引和查询向量数据，适用于AI开发，包括搜索、推荐和自然语言处理。</description>
@@ -66,6 +84,12 @@
     </item>
   
     <item>
+      <title>Building a robust data stewardship tool in life sciences</title>
+      <link>https://www.databricks.com/blog/building-robust-data-stewardship-tool-life-sciences</link>
+      <description>Databricks开发了一款轻量级且强大的数据治理工具，旨在简化生命科学领域的数据治理流程。该工具通过结合效率、简单性和成本效益，解决了现有数据治理工具的复杂性和高昂成本问题，同时提供了直观的用户界面，以解决特定挑战和机遇，显著减轻数据管理者的工作负担。</description>
+    </item>
+  
+    <item>
       <title>What’s next for drones</title>
       <link>https://www.technologyreview.com/2024/08/16/1096517/whats-next-for-drones/</link>
       <description>无人机技术正迅速发展，应用于警察巡逻、紧急物资快速配送、医疗用品递送等领域。随着无人机价格的下降和监管的放宽，其应用范围不断扩大。然而，无人机技术的发展也引发了对隐私、安全和道德等方面的担忧。</description>
@@ -117,6 +141,18 @@
       <title>How to level up your Git game with GitHub CLI</title>
       <link>https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/</link>
       <description>如何通过GitHub CLI提升Git技能 - 本文介绍了如何使用GitHub CLI在终端中管理GitHub项目，包括创建和克隆仓库、查看和编辑问题、审查和合并拉取请求等，旨在提高开发效率和生产力。</description>
+    </item>
+  
+    <item>
+      <title>Lessons from CrowdStrike: Striking the right balance to reduce risk and maximize resilience</title>
+      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/lessons-crowdstrike-striking-balance-reduce-risk-maximize-resilience</link>
+      <description>从CrowdStrike的故障中吸取的教训：在降低风险和最大化弹性之间找到平衡，确保软件交付过程中的风险准备和应对能力。</description>
+    </item>
+  
+    <item>
+      <title>Reckoning: Part 4 — The Way Out</title>
+      <link>https://infrequently.org/2024/08/the-way-out/</link>
+      <description>文章探讨了前端开发中JavaScript过度使用的问题及其对用户体验和Web发展的负面影响。作者强调了用户优先的重要性，并提出了改善前端开发的建议，包括进行关键用户旅程分析、改革前端招聘流程、使用性能管理成熟度模型，以及强调价值观和责任。作者呼吁行业领导者、工程师和设计师共同努力，以提升Web性能和用户体验。</description>
     </item>
   
     <item>
@@ -321,6 +357,12 @@
       <title>Writing a Subquery in Ecto</title>
       <link>https://jaketrent.com/post/writing-subquery-ecto</link>
       <description>Ecto中的子查询使用示例：通过嵌套查询，可以构建用于主查询的数据。本文以一个SQL子查询为例，展示了如何将其转换为Ecto查询。使用Ecto的in操作符，可以轻松实现这一转换，从而在Ecto中执行子查询。</description>
+    </item>
+  
+    <item>
+      <title>How Replit makes sense of code at scale</title>
+      <link>https://blog.replit.com/how-replit-makes-sense-of-code-at-scale-ai-data</link>
+      <description>Replit通过构建强大的基础设施，利用庞大的编码数据来理解代码的规模。该平台存储超过3亿个软件仓库，并深入理解每个项目的开发时间线。这些数据帮助Replit提供针对性的工具，优化产品策略，并训练AI模型，同时确保用户隐私和数据安全。</description>
     </item>
   
     <item>
