@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How To Talk About Food And Drink In Spanish</title>
+      <link>https://www.babbel.com/en/magazine/spanish-food-words</link>
+      <description>学习西班牙语中的食物和饮料词汇，让你在西班牙语国家的餐厅用餐更加顺畅和地道。掌握基本词汇，如“食物”、“餐厅”、“菜单”等，以及如何表达饮食限制和结账，将提升你的旅行体验。注意西班牙和拉丁美洲国家的一些词汇差异。</description>
+    </item>
+  
+    <item>
+      <title>This researcher wants to replace your brain, little by little</title>
+      <link>https://www.technologyreview.com/2024/08/16/1096808/arpa-h-jean-hebert-wants-to-replace-your-brain/</link>
+      <description>美国高级健康项目局（ARPA-H）新聘研究员Jean Hébert提出一项激进计划，旨在通过逐步替换人体器官，包括大脑，来对抗衰老和死亡。他正在研究使用实验室制造的年轻组织逐步替换大脑的方法，以治疗中风等疾病。尽管这一策略尚未得到广泛认可，但Hébert的研究得到了ARPA-H的支持，并有望在未来几年内得到进一步发展。</description>
+    </item>
+  
+    <item>
       <title>Will WebAssembly Replace Your APIs and Microservices?</title>
       <link>https://nordicapis.com/will-webassembly-replace-your-apis-and-microservices/</link>
       <description>WebAssembly（Wasm）作为一种高效执行程序的技术，有望与API和微服务共存，共同提升应用性能和用户体验。Wasm与API和微服务相比，具有平台无关性、高效性和易于集成等特点，但不会完全取代它们。Wasm在处理图像处理等计算密集型任务时，可以减轻服务器负担，提高性能。同时，Wasm在微服务架构中的应用也日益增多，如SpinKube项目。因此，Wasm、API和微服务将共同推动技术发展。</description>
+    </item>
+  
+    <item>
+      <title>Create software templates for VMs with OpenShift Virtualization</title>
+      <link>https://developers.redhat.com/articles/2024/08/16/create-software-templates-vms-openshift-virtualization</link>
+      <description>本文探讨了如何使用OpenShift虚拟化和Red Hat Developer Hub创建虚拟机软件模板，以提高开发效率。通过定义Kubernetes对象、使用Helm图表和GitOps，开发者可以快速构建和管理虚拟机，实现自动化部署和简化操作流程。</description>
     </item>
   
     <item>
@@ -887,6 +905,12 @@ Rob Allen介绍了如何使用自动文本替换来简化生活，他推荐使�
       <title>Supernovas, Black Holes and Streaming Data</title>
       <link>https://www.databricks.com/blog/supernovas-black-holes-and-streaming-data</link>
       <description>探索宇宙奥秘：本文介绍了如何利用Databricks数据智能平台分析NASA卫星数据，包括超新星和黑洞的伽马射线爆发。通过Apache Kafka和Delta Live Tables，实现了数据的高效处理和可视化，展示了数据科学在宇宙研究中的应用。</description>
+    </item>
+  
+    <item>
+      <title>How To Write The Date In Spanish</title>
+      <link>https://www.babbel.com/en/magazine/how-to-write-the-date-in-spanish</link>
+      <description>学习如何在西班牙语中书写日期，包括月份和星期的西班牙语表达方式，以及如何将它们组合起来。了解不同国家的书写规范，如dd/mm/yyyy和更正式的书写方式，以及星期的首字母不使用大写。</description>
     </item>
   
     <item>
