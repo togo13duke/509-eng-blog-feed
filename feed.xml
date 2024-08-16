@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A New Era of Medium Engineering</title>
+      <link>https://medium.engineering/a-new-era-of-medium-engineering-093b609c63ac?source=rss----2817475205d3---4</link>
+      <description>Medium Engineering团队正迎来新时代，致力于长期稳定和成功。过去几年，我们改善了工程文化，现在要实现文化转变，追求卓越。我们将专注于正确性和完整性，明确沟通，重视过程，平衡工作量，创新独特之处。我们承诺为未来构建Medium，为未来的同事和会员创造价值。</description>
+    </item>
+  
+    <item>
       <title>.NET 9 Preview 7 is now available!</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-9-preview-7/</link>
       <description>.NET 9 Preview 7现已发布，包含对.NET运行时、SDK、库、C#、ASP.NET Core、Blazor和.NET MAUI的重大增强。此版本包括对BinaryFormatter的移除、新的压缩API、ARM64 SVE支持、对容器发布的改进以及许多其他新特性和改进。</description>
@@ -75,6 +81,12 @@
       <title>GeForce NOW and CurseForge Bring Mod Support to ‘World of Warcraft: The War Within’ in the Cloud</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-world-of-warcraft-mods/</link>
       <description>NVIDIA的GeForce NOW平台为《魔兽世界：内心之战》扩展包提供云游戏支持，并新增了25个CurseForge插件，让玩家在支持的设备上享受更丰富的游戏体验。同时，GeForce NOW还推出了夏季促销活动，提供50%折扣的会员服务。</description>
+    </item>
+  
+    <item>
+      <title>Using the AI SDK to fix edge-case errors in our code</title>
+      <link>https://vercel.com/blog/using-the-ai-sdk-to-fix-edge-case-errors-in-our-code</link>
+      <description>Vercel团队利用AI SDK解决了编码过程中非英语字符域名购买失败的问题。通过AI模型GPT-4o，系统成功识别并应用正确的语言代码，提高了国际域名购买的成功率，改善了用户体验。</description>
     </item>
   
     <item>
@@ -183,6 +195,12 @@
       <title>Run an Ecto Query in an Ash Manual Action</title>
       <link>https://jaketrent.com/post/run-ecto-query-ash-manual-action</link>
       <description>在Ash中执行Ecto查询，通过手动操作可以解决数据获取问题。使用Ecto的manual宏，可以在Ash中直接使用Ecto查询，通过AshPostgres.Repo执行查询，并处理潜在的错误。这样可以在手动操作回调中定义动作和数据集，并返回结果。</description>
+    </item>
+  
+    <item>
+      <title>Writing a Subquery in Ecto</title>
+      <link>https://jaketrent.com/post/writing-subquery-ecto</link>
+      <description>Ecto中的子查询使用示例：通过嵌套查询，可以构建用于主查询的数据。本文以一个SQL子查询为例，展示了如何将其转换为Ecto查询。使用Ecto的in操作符，可以轻松实现这一转换，从而在Ecto中执行子查询。</description>
     </item>
   
     <item>
