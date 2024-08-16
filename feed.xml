@@ -150,6 +150,12 @@
     </item>
   
     <item>
+      <title>Approaches to keep sending OTP over SMS... for now</title>
+      <link>https://developer.okta.com/blog/2024/08/15/otp-over-sms</link>
+      <description>随着SIM卡交换和短信/语音认证的漏洞，Okta建议企业转向更安全的身份验证方法，如使用认证应用生成代码或FIDO2.0。企业需考虑选择合适的电信服务提供商，确保消息发送的可靠性、安全性，并遵守地区法规。同时，企业应准备应对电信钩子失败的情况，并更新支持流程以适应新的消息流。</description>
+    </item>
+  
+    <item>
       <title>Introducing Per-Bucket Bandwidth Billing for DigitalOcean Spaces</title>
       <link>https://www.digitalocean.com/blog/introducing-spaces-per-bucket-bandwidth-billing</link>
       <description>DigitalOcean推出针对Spaces对象存储服务的按桶带宽计费功能，提供更细粒度的带宽使用详情，帮助用户更有效地管理成本，防止超额使用。此功能允许用户按桶、按日、按直接源流量和CDN流量跟踪带宽使用情况，适用于各种客户，包括代理机构、初创公司、Web和媒体托管以及SaaS提供商。</description>
