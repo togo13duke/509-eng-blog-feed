@@ -730,12 +730,6 @@
     </item>
   
     <item>
-      <title>We've Added 15 New PNG Tools</title>
-      <link>https://catonmat.net/15-new-png-tools</link>
-      <description>Browserling团队新增了15个PNG工具，包括裁剪、居中、反转、克隆、添加阴影、转换为轮廓和马赛克等。下周还将推出更多工具。</description>
-    </item>
-  
-    <item>
       <title>.NET and .NET Framework August 2024 updates</title>
       <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates/</link>
       <description>2024年8月，.NET和.NET Framework发布了更新，包括安全改进和漏洞修复。.NET 8.0和.NET 6.0更新提供了安装程序、容器镜像和Linux包。.NET Framework更新包含安全和非安全更新，具体详情请查看发布说明。</description>
