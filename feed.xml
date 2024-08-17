@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New Webinar: Using APIs to Add Images to Your Apps [FREE]</title>
+      <link>https://www.kodeco.com/45696988-new-webinar-using-apis-to-add-images-to-your-apps</link>
+      <description>Kodeco即将举办一场关于使用OpenAI API将AI生成图像集成到应用程序中的网络研讨会。专家将展示如何利用这一工具来提升用户体验，并教授如何设置和使用API，包括处理用户输入、管理API响应和展示AI生成图像。网络研讨会将提供实用的指导，帮助开发者将AI技术融入应用程序，提升创新性和吸引力。</description>
+    </item>
+  
+    <item>
       <title>Beyond the Leaderboard: Unpacking Function Calling Evaluation</title>
       <link>https://www.databricks.com/blog/unpacking-function-calling-eval</link>
       <description>Databricks的研究团队探讨了大型语言模型（LLM）在复杂工作流程中的应用，特别是LLM作为复合AI系统的一部分。文章详细介绍了函数调用的概念，以及如何评估LLM的函数调用能力。通过分析两个流行的评估框架——伯克利函数调用排行榜（BFCL）和Nexus函数调用排行榜（NFCL），文章强调了选择合适的模型和改进LLM工具使用能力的重要性。</description>
