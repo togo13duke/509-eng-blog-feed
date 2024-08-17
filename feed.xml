@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Beyond the Leaderboard: Unpacking Function Calling Evaluation</title>
+      <link>https://www.databricks.com/blog/unpacking-function-calling-eval</link>
+      <description>Databricks的研究团队探讨了大型语言模型（LLM）在复杂工作流程中的应用，特别是LLM作为复合AI系统的一部分。文章详细介绍了函数调用的概念，以及如何评估LLM的函数调用能力。通过分析两个流行的评估框架——伯克利函数调用排行榜（BFCL）和Nexus函数调用排行榜（NFCL），文章强调了选择合适的模型和改进LLM工具使用能力的重要性。</description>
+    </item>
+  
+    <item>
       <title>Battling ticket bots and untangling taxes at the frontiers of e-commerce</title>
       <link>https://stackoverflow.blog/2024/08/16/ilya-grigorik-shopify-ticket-bots-taxes-scale-software/</link>
       <description>Shopify技术顾问Ilya Grigorik在Stack Overflow博客中讨论了电子商务前沿的挑战，包括对抗票务机器人、处理跨国家和地区的税务法规，以及他提出的“现代商业架构方法”，旨在平衡微服务和单体架构。</description>
