@@ -181,6 +181,14 @@
     </item>
   
     <item>
+      <title>How to Build a Customer Relationship Management System with FastAPI and SendGrid</title>
+      <link>https://www.twilio.com/en-us/blog/fastapi-sendgrid-customer-relationship-management-python-api</link>
+      <description>如何使用FastAPI和SendGrid构建客户关系管理系统
+
+本文介绍了如何使用FastAPI和SendGrid构建一个客户关系管理系统（CRM）。首先，介绍了项目所需的先决条件，包括SendGrid账户、Python环境、数据库等。接着，详细说明了如何设置项目结构，包括创建虚拟环境、安装必要的包、建立文件夹结构等。最后，概述了如何定义模型、创建Pydantic模型、实现CRUD操作和发送电子邮件服务。</description>
+    </item>
+  
+    <item>
       <title>Momento Migrates Object Cache as a Service to Ampere Altra</title>
       <link>https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss</link>
       <description>Momento公司迁移其对象缓存服务至Ampere Altra处理器，利用无服务器架构和Ampere的Google Tau T2A实例，简化了资源管理和优化，提供快速可靠的缓存服务，降低开发者的运营负担，并提高云应用性能。</description>
