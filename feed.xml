@@ -24,12 +24,6 @@
     </item>
   
     <item>
-      <title>Using Human-friendly dates in Git</title>
-      <link>https://www.amitmerchant.com/using-human-friendly-dates-in-git/</link>
-      <description>Git中利用人性化的日期格式来管理代码历史和协作。通过相对日期，可以轻松查看特定时间点的仓库状态，如一周前或一个月前的提交记录。此外，还可以检查特定分支的历史状态。这些功能有助于更好地理解代码演变和进行版本控制。</description>
-    </item>
-  
-    <item>
       <title>Beyond the Leaderboard: Unpacking Function Calling Evaluation</title>
       <link>https://www.databricks.com/blog/unpacking-function-calling-eval</link>
       <description>Databricks的研究团队探讨了大型语言模型（LLM）在复杂工作流程中的应用，特别是LLM作为复合AI系统的一部分。文章详细介绍了函数调用的概念，以及如何评估LLM的函数调用能力。通过分析两个流行的评估框架——伯克利函数调用排行榜（BFCL）和Nexus函数调用排行榜（NFCL），文章强调了选择合适的模型和改进LLM工具使用能力的重要性。</description>
