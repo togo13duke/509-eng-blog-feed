@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Protocol Buffer Design: Principles and Practices for Collaborative Development</title>
+      <link>https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85?source=rss----25cd379abb8---4</link>
+      <description>本文探讨了在Lyft工程中使用Protocol Buffers进行协作开发的原则和实践。文章强调了清晰性和可扩展性在协议设计中的重要性，并提供了最佳实践，如声明未知枚举值、使用已知类型、显式可选字段以及验证规则，以确保高效和可靠的通信。</description>
+    </item>
+  
+    <item>
+      <title>Injection de Dépendances</title>
+      <link>https://blog.octo.com/injection-de-dependances</link>
+      <description>本文探讨了依赖注入的概念，包括其定义、原理和模式。文章通过一个电子商务网站的示例，详细解释了如何在实际项目中应用依赖注入，包括在构造函数中注入依赖、使用ViewModel和Application Service等。文章强调了依赖注入的重要性，以及如何通过合理的设计减少代码耦合，提高代码的可维护性和可测试性。</description>
+    </item>
+  
+    <item>
       <title>5 Years of Confluent Cloud Connectors: Exploring Your Top Connector Picks</title>
       <link>https://www.confluent.io/blog/top-confluent-connectors/</link>
       <description>康弗伦特云连接器已走过五年历程，支持超过80个预构建和自定义连接器。这些连接器基于开源Kafka Connect框架，由Kafka专家设计、构建和测试，简化了与Apache Kafka的数据集成。文章深入探讨了连接器组合、单消息转换、首次部署的连接器以及康弗伦特云上最受欢迎的连接器。</description>
@@ -15,6 +27,12 @@
       <title>Python Classes: The Power of Object-Oriented Programming</title>
       <link>https://realpython.com/python-classes/</link>
       <description>Python类：面向对象编程的力量，本文深入探讨了Python类的基础知识，包括定义类、创建对象、访问属性和方法、命名规范、公共与非公共成员、属性封装、继承、多态等。通过实例和代码示例，帮助读者更好地理解面向对象编程在Python中的应用。</description>
+    </item>
+  
+    <item>
+      <title>SurveyMonkey welcomes our new team in Bengaluru, India</title>
+      <link>https://www.surveymonkey.com/curiosity/surveymonkey-welcomes/?ut_source=rss</link>
+      <description>SurveyMonkey在印度班加罗尔开设新办公室，标志着其全球扩张的重要里程碑。新团队带来丰富的人才和视角，提升产品和服务创新。班加罗尔办公室正推动技术创新，利用AI和机器学习加速产品发展，同时保持全球团队协作。</description>
     </item>
   
     <item>
@@ -75,6 +93,14 @@
       <title>Living documentation, parce que la doc, ça peut être fun !</title>
       <link>https://blog.octo.com/living-documentation-parce-que-la-doc-ca-peut-etre-fun-!</link>
       <description>本文探讨了“活文档”的概念，强调文档不应是静态的，而应与项目同步更新。通过讨论“死文档”的局限性，文章介绍了如何通过生成文档、实践和工具来创建“活文档”，从而提高文档的实用性和时效性。</description>
+    </item>
+  
+    <item>
+      <title>Migrating Mess With DNS to use PowerDNS</title>
+      <link>https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/</link>
+      <description>关于将“Mess With DNS”迁移到使用PowerDNS的博客总结：
+
+博主Julia Evans分享了将DNS学习平台“Mess With DNS”迁移到使用开源DNS服务器PowerDNS的过程。她详细描述了在迁移过程中遇到的挑战，包括DNS查询拦截、前端与PowerDNS API的交互、错误消息处理、数据库迁移、Vue.js升级和状态管理等问题，并分享了如何解决这些问题的经验。迁移后，网站性能得到提升，DNS问题得到解决，用户体验得到改善。</description>
     </item>
   
     <item>
