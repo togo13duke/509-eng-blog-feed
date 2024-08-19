@@ -30,6 +30,12 @@
     </item>
   
     <item>
+      <title>Constructing nodes of a hand-made linked list, how hard can it be?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240819-00/?p=110145</link>
+      <description>本文探讨了如何构建一个手制的循环双链表节点。作者详细介绍了如何使用构造函数和工厂方法来创建节点，并讨论了在插入新节点时如何处理节点的前后关系。文章还涉及了构造函数重载和类型标记的使用，以确保在创建节点时能够正确地插入到链表的特定位置。</description>
+    </item>
+  
+    <item>
       <title>SurveyMonkey welcomes our new team in Bengaluru, India</title>
       <link>https://www.surveymonkey.com/curiosity/surveymonkey-welcomes/?ut_source=rss</link>
       <description>SurveyMonkey在印度班加罗尔开设新办公室，标志着其全球扩张的重要里程碑。新团队带来丰富的人才和视角，提升产品和服务创新。班加罗尔办公室正推动技术创新，利用AI和机器学习加速产品发展，同时保持全球团队协作。</description>
