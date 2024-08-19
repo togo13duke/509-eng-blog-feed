@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to integrate Jakarta Data with Spring and Hibernate</title>
+      <link>https://vladmihalcea.com/jakarta-data-spring-hibernate/</link>
+      <description>本文介绍了如何将Jakarta Data与Spring和Hibernate集成。Jakarta Data是一个新的Jakarta EE规范，提供构建数据仓库和数据访问对象的通用API。文章详细解释了如何使用Jakarta Data的Repository接口，以及如何在Spring和Hibernate环境中实现和配置这些接口。此外，还讨论了如何处理事务和连接管理，以及如何在服务层调用这些Repository。</description>
+    </item>
+  
+    <item>
+      <title>Pandas office hours, August 18th (recording)</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-august-18th-recording/</link>
+      <description>8月18日，Reuven M. Lerner举办了Pandas办公时间，解答了关于Pandas的问题，并分享了用于编码的Jupyter笔记本。他还介绍了即将到来的Python和数据分析课程，这些课程对订阅者免费。</description>
+    </item>
+  
+    <item>
+      <title>The race to save our online lives from a digital dark age</title>
+      <link>https://www.technologyreview.com/2024/08/19/1096284/data-archives-archeologists-tiktok-future-wayback-machine/</link>
+      <description>我们正面临一个挑战：如何保存我们日益增长的数字生活，以避免未来的“数字黑暗时代”。随着数据量的激增，我们面临着选择哪些内容保存的问题。档案学家正在努力保存可能丢失的网站和数字资料，同时也在探索如何使旧格式的数据保持可访问性。这不仅是历史学家和考古学家的责任，也是我们每个人的责任，以确保我们的历史和文化遗产得以传承。</description>
+    </item>
+  
+    <item>
+      <title>7 Ways to Test LLMs</title>
+      <link>https://nordicapis.com/7-ways-to-test-llms/</link>
+      <description>本文探讨了测试大型语言模型（LLMs）的七种方法和标准。这些方法包括BERTScore、ROUGE、BLEU、MMLU和MMLU Pro、GLUE、G-Eval和HELM，它们各自针对LLMs的不同方面进行评估。文章强调了这些方法在评估LLMs准确性和逻辑一致性的重要性，并指出随着LLMs的不断发展，这些评估方法也在不断进化。</description>
+    </item>
+  
+    <item>
       <title>Supercharge your Red Hat OpenShift local environment with Red Hat OpenShift Lightspeed</title>
       <link>https://developers.redhat.com/articles/2024/08/19/supercharge-your-red-hat-openshift-local-environment-red-hat-openshift</link>
       <description>Red Hat OpenShift Lightspeed 是一款增强型AI虚拟助手，旨在提高OpenShift用户的生产力和易用性。它集成于OpenShift Web控制台，支持自定义大型语言模型，并提供基于OpenShift文档的故障排除和资源调查指导。通过实际案例展示，OpenShift Lightspeed 在提供特定信息和解决问题方面表现出色，有助于用户更高效地使用OpenShift Local环境。</description>
