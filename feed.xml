@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AI Chases the Storm: New NVIDIA Research Boosts Weather Prediction, Climate Simulation</title>
+      <link>https://blogs.nvidia.com/blog/stormcast-generative-ai-weather-prediction/</link>
+      <description>NVIDIA发布了一项新的生成式AI模型StormCast，用于模拟高保真大气动力学，以改善和加速气候研究和预测。该模型能够进行可靠的天气预测，对灾害规划和缓解至关重要。此外，NVIDIA Earth-2平台结合了AI、物理模拟和计算机图形，实现了全球范围内前所未有的准确性和速度的天气和气候预测。</description>
+    </item>
+  
+    <item>
+      <title>The rise of the data platform for hybrid cloud</title>
+      <link>https://www.technologyreview.com/2024/08/19/1096575/the-rise-of-the-data-platform-for-hybrid-cloud/</link>
+      <description>企业数据平台在混合云环境中的兴起，通过整合分散的数据，帮助企业平衡数据增长、降低成本和优化性能，以应对日益复杂的多云环境。这种软件定义的虚拟化数据平台提供统一的数据平面和控制平面，预计到2028年将构成70%的文件和对象存储。</description>
+    </item>
+  
+    <item>
+      <title>Summer 2024 weather report: Cloudflare with a chance of Intern-ets</title>
+      <link>https://blog.cloudflare.com/2024-interns</link>
+      <description>2024年夏季，Cloudflare迎来了来自全球的约60名实习生，他们在实习期间参与了公司不同团队的项目，为构建更好的互联网贡献力量。实习生们在软件工程、产品管理、业务发展等领域取得了显著成就，并参与了多种团队活动和社会实践，如参与食物银行志愿服务、参加内部游戏之夜等。这些经历不仅丰富了他们的实习生活，也加深了他们对Cloudflare文化的理解。</description>
+    </item>
+  
+    <item>
+      <title>Spring Into Confluent Cloud With Kotlin—Part 1: Producers and Consumers</title>
+      <link>https://www.confluent.io/blog/spring-kotlin-kafka-cloud-example/</link>
+      <description>本文介绍了如何使用Kotlin和Spring框架在Confluent Cloud上快速构建和消费Kafka云事件。文章详细说明了如何通过Confluent Cloud生产Apache Kafka主题中的事件，使用Apache Avro进行序列化，并在Schema Registry中注册模式。同时，还讨论了为什么选择Kotlin以及如何设置开发环境，包括使用Terraform和Confluent CLI。最后，文章展示了如何配置Spring Boot应用程序以与Kafka和Schema Registry进行交互，并生产数据到Kafka。</description>
+    </item>
+  
+    <item>
+      <title>The Download: preserving our digital lives, and X exits Brazil</title>
+      <link>https://www.technologyreview.com/2024/08/19/1096992/the-download-preserving-our-digital-lives-and-x-exits-brazil/</link>
+      <description>《下载：保护我们的数字生活，X退出巴西》探讨了数字时代保存个人数字记忆的重要性，以及如何确保数据长期保存。文章还提到了X公司因法律纠纷退出巴西市场，以及一系列科技新闻，包括AI、机器人出租车、隐私问题等。</description>
+    </item>
+  
+    <item>
       <title>Themes from the 2024 Advanced Manufacturing Expo</title>
       <link>https://spin.atomicobject.com/2024-advanced-manufacturing-expo/</link>
       <description>2024年先进制造博览会上，混合云与边缘计算、定制软件、人工智能和数据简化成为主要议题。展会展示了制造业在自动化、实时数据利用和研发方面的最新进展，强调了与行业解决方案相结合的定制软件的重要性，以及人工智能在质量控制中的应用。</description>
@@ -15,6 +45,12 @@
       <title>OpenTelemetry vs. Traditional APM Tools: A Comparative Analysis</title>
       <link>https://last9.io/blog/opentelemetry-vs-traditional-apm-tools/</link>
       <description>本文比较了OpenTelemetry和传统APM工具，分析了它们的优缺点和适用场景，以帮助读者选择适合其应用性能监控需求的最佳解决方案。OpenTelemetry提供了高度可定制的监控和可观察性，而传统APM工具则提供了更快速和简单的设置，但可能缺乏灵活性。选择哪种工具取决于组织的具体需求、技术能力和长期的可观察性策略。</description>
+    </item>
+  
+    <item>
+      <title>Disabling Xcode Asset Symbol Generation</title>
+      <link>https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/</link>
+      <description>Xcode 16新增了资产符号生成选项，允许开发者选择是否为Swift包中的资产目录生成符号。这一功能特别适用于Swift包，因为它可以避免继承项目设置。开发者可以通过项目或目标设置来启用或禁用符号生成，或者为特定资产目录选择不同的生成策略。此外，Xcode还提供了生成扩展，以支持Swift、UIKit和AppKit的颜色和图像类型。</description>
     </item>
   
     <item>
@@ -81,6 +117,12 @@
       <title>Town Hall #24: FWD</title>
       <link>https://taylor.town/town-hall-0024</link>
       <description>本周将参加多个音乐和科技活动，包括在!!Con、NDC Porto、Øredev等地的演出和演讲。推荐阅读多本书籍，并分享了一些音乐和杂项内容。</description>
+    </item>
+  
+    <item>
+      <title>aNN vs kNN: Understand their differences and roles in vector search</title>
+      <link>https://www.elastic.co/blog/ann-vs-knn</link>
+      <description>本文探讨了向量搜索中的两种关键算法：近似最近邻（aNN）和K最近邻（kNN）。aNN注重速度和效率，适用于大规模数据集的快速搜索；而kNN则更注重准确性，适用于需要高精度搜索结果的应用。两者在推荐系统、搜索应用和多媒体数据库等领域都有广泛应用。通过Elastic的向量搜索功能，可以结合这两种算法的优势，构建高效、精准的搜索体验。</description>
     </item>
   
     </channel>
