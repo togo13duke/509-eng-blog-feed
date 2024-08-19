@@ -6,27 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Themes from the 2024 Advanced Manufacturing Expo</title>
-      <link>https://spin.atomicobject.com/2024-advanced-manufacturing-expo/</link>
-      <description>2024年先进制造博览会上，混合云与边缘计算、定制软件、人工智能和数据简化成为主要议题。展会展示了制造业在自动化、实时数据利用和研发方面的最新进展，强调了与行业解决方案相结合的定制软件的重要性，以及人工智能在质量控制中的应用。</description>
-    </item>
-  
-    <item>
-      <title>OpenTelemetry vs. Traditional APM Tools: A Comparative Analysis</title>
-      <link>https://last9.io/blog/opentelemetry-vs-traditional-apm-tools/</link>
-      <description>本文比较了OpenTelemetry和传统APM工具，分析了它们的优缺点和适用场景，以帮助读者选择适合其应用性能监控需求的最佳解决方案。OpenTelemetry提供了高度可定制的监控和可观察性，而传统APM工具则提供了更快速和简单的设置，但可能缺乏灵活性。选择哪种工具取决于组织的具体需求、技术能力和长期的可观察性策略。</description>
-    </item>
-  
-    <item>
       <title>How to integrate Jakarta Data with Spring and Hibernate</title>
       <link>https://vladmihalcea.com/jakarta-data-spring-hibernate/</link>
       <description>本文介绍了如何将Jakarta Data与Spring和Hibernate集成。Jakarta Data是一个新的Jakarta EE规范，提供构建数据仓库和数据访问对象的通用API。文章详细解释了如何使用Jakarta Data的Repository接口，以及如何在Spring和Hibernate环境中实现和配置这些接口。此外，还讨论了如何处理事务和连接管理，以及如何在服务层调用这些Repository。</description>
-    </item>
-  
-    <item>
-      <title>Living documentation, parce que la doc, ça peut être fun !</title>
-      <link>https://blog.octo.com/living-documentation-parce-que-la-doc-ca-peut-etre-fun-!</link>
-      <description>本文探讨了“活文档”的概念，强调文档不应是静态的，而应与项目同步更新。通过讨论“死文档”的局限性，文章介绍了如何通过生成文档、实践和工具来创建“活文档”，从而提高文档的实用性和时效性。</description>
     </item>
   
     <item>
@@ -57,12 +39,6 @@
       <title>Monitoring OpenShift Virtualization using user-defined projects and Grafana</title>
       <link>https://developers.redhat.com/articles/2024/08/19/monitoring-openshift-virtualization-using-user-defined-projects-and-grafana</link>
       <description>本文介绍了如何使用用户定义的项目和Grafana监控OpenShift虚拟化。通过安装和配置Grafana Operator，并集成到OpenShift监控堆栈中，可以创建一个仪表板来查看资源使用情况、虚拟机创建和消耗等关键指标。文章详细说明了步骤，包括创建服务账户、配置Grafana实例、创建数据源和仪表板，以及如何访问和查看仪表板内容。</description>
-    </item>
-  
-    <item>
-      <title>Representative Line: Tern on the Error Message</title>
-      <link>https://thedailywtf.com/articles/tern-on-the-error-message</link>
-      <description>Remy Porter在《The Daily WTF》上讨论了三目运算符的易读性问题。他指出，虽然三目运算符简洁，但有时过于紧凑，不易理解。他通过一个示例代码展示了如何将三目运算符转换为更易读的布尔表达式，强调了清晰和详尽的代码文档的重要性。</description>
     </item>
   
     <item>
