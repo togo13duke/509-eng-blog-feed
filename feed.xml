@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Supercharge your Red Hat OpenShift local environment with Red Hat OpenShift Lightspeed</title>
+      <link>https://developers.redhat.com/articles/2024/08/19/supercharge-your-red-hat-openshift-local-environment-red-hat-openshift</link>
+      <description>Red Hat OpenShift Lightspeed 是一款增强型AI虚拟助手，旨在提高OpenShift用户的生产力和易用性。它集成于OpenShift Web控制台，支持自定义大型语言模型，并提供基于OpenShift文档的故障排除和资源调查指导。通过实际案例展示，OpenShift Lightspeed 在提供特定信息和解决问题方面表现出色，有助于用户更高效地使用OpenShift Local环境。</description>
+    </item>
+  
+    <item>
+      <title>Monitoring OpenShift Virtualization using user-defined projects and Grafana</title>
+      <link>https://developers.redhat.com/articles/2024/08/19/monitoring-openshift-virtualization-using-user-defined-projects-and-grafana</link>
+      <description>本文介绍了如何使用用户定义的项目和Grafana监控OpenShift虚拟化。通过安装和配置Grafana Operator，并集成到OpenShift监控堆栈中，可以创建一个仪表板来查看资源使用情况、虚拟机创建和消耗等关键指标。文章详细说明了步骤，包括创建服务账户、配置Grafana实例、创建数据源和仪表板，以及如何访问和查看仪表板内容。</description>
+    </item>
+  
+    <item>
+      <title>How Many People Speak Vietnamese, And Where Is It Spoken?</title>
+      <link>https://www.babbel.com/en/magazine/how-many-people-speak-vietnamese</link>
+      <description>越南语是一种拥有约169种语言的澳泰语系语言，主要在越南使用，但也因历史原因在多个国家有使用者。全球约有8600万人使用越南语，其中越南本土有约8210万人。越南语在20世纪改为拉丁字母书写，并具有六个不同的声调。除了越南，越南语在美国、加拿大、澳大利亚、柬埔寨和中国等地也有使用，尤其在法国、德国和捷克共和国等欧洲国家有显著的使用者群体。学习越南语可以让人深入了解越南文化，并与其他母语为越南语的人建立联系。</description>
+    </item>
+  
+    <item>
       <title>This Week in Open Source</title>
       <link>https://thoughtbot.com/blog/this-week-in-open-source-june-2024</link>
       <description>本周开源更新：本月开源动态，包括Administrate、Clearance、ClearanceI18n、thoughtbot设计系统、factory_bot、Flightdeck、GoldMiner、Griddler、thoughtbot指南、thoughtbot stylelint Config、Superglue、Suspenders、Templates和Upcase等项目的更新。鼓励大家参与开源贡献。</description>
