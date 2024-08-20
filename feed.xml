@@ -12,18 +12,6 @@
     </item>
   
     <item>
-      <title>Why Resource Misallocation Derails Software Project Teams</title>
-      <link>https://spin.atomicobject.com/resource-misallocation-software/</link>
-      <description>资源错配导致软件项目团队失败的原因及预防策略。资源错配会导致项目延误、效率低下，影响团队士气和生产力。预防措施包括有效规划、优先排序、调整时间表、利用技术和知识共享，以及与利益相关者建立清晰的沟通渠道。通过合理分配资源，项目团队可以提高效率、士气和整体成果。</description>
-    </item>
-  
-    <item>
-      <title>UUID v7</title>
-      <link>https://akrabat.com/uuid-v7/</link>
-      <description>UUID v7是一种类似于UUID v4的版本，但第一部分是时间戳，这使得它们可以按时间排序，更易于与基于时间的查询一起使用。作者Rob Allen介绍了一种名为uuid7的Go应用程序，它简化了UUID v7的生成过程，并提供了跨多种操作系统的二进制文件。</description>
-    </item>
-  
-    <item>
       <title>How to fine-tune AI for prosperity</title>
       <link>https://www.technologyreview.com/2024/08/20/1096733/how-to-fine-tune-ai-for-prosperity/</link>
       <description>生成式AI有望重振经济，通过提高生产力和创新推动经济增长。尽管目前AI对经济的影响尚小，但长期来看，其潜力巨大。AI在制造业和科学发现中的应用将带来显著的生产力提升，但需要行业和AI公司之间的紧密合作来实现。</description>
@@ -57,12 +45,6 @@
       <title>React is (becoming) a Full-Stack Framework</title>
       <link>https://www.robinwieruch.de/react-full-stack-framework/</link>
       <description>React通过引入Server Components和Server Actions，正逐渐发展成为一个全栈框架。这一转变不仅将React从前端框架扩展到后端，还标志着前端开发者可以直接访问数据库等服务器资源。Server Components允许在服务器上执行React组件，而Server Actions则创建HTTP API端点，使开发者能够像调用远程过程调用一样执行函数。这一变革预示着React开发者将能够从UI到数据库实现垂直功能，开启一个全新的全栈开发时代。</description>
-    </item>
-  
-    <item>
-      <title>CodeSOD: Exceptional Control</title>
-      <link>https://thedailywtf.com/articles/exceptional-control</link>
-      <description>Remy Porter在TDWTF上分享了一个关于新员工Sebastian编写了1000行代码中70%为错误处理代码的故事。Sebastian的代码中，大量使用try-catch块捕获异常并返回null，导致代码混乱且效率低下。文章指出，这种错误处理方式不仅违反了良好的编程实践，还可能导致不必要的异常抛出和返回值处理。</description>
     </item>
   
     <item>
