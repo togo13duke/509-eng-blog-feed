@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AI Challenges and How Cloudera Can Help</title>
+      <link>https://blog.cloudera.com/ai-challenges-and-how-cloudera-can-help/</link>
+      <description>Cloudera帮助组织克服AI挑战，通过提供灵活可扩展的数据基础设施和强大的数据治理，确保AI模型准确有效。其开放数据湖屋平台结合数据湖和仓库功能，支持大规模数据分析，助力企业实现AI的快速发展和商业价值最大化。</description>
+    </item>
+  
+    <item>
+      <title>NIST’s first post-quantum standards</title>
+      <link>https://blog.cloudflare.com/nists-first-post-quantum-standards</link>
+      <description>美国国家标准与技术研究院（NIST）发布了首批针对量子计算机攻击的加密标准，包括ML-KEM、ML-DSA和SLH-DSA，以保护未来量子计算机时代的数据安全。Cloudflare已开始部署这些新标准，并预计将在软件和硬件中得到广泛采用。</description>
+    </item>
+  
+    <item>
+      <title>NVIDIA Announces First Digital Human Technologies On-Device Small Language Model, Improving Conversation for Game Characters</title>
+      <link>https://blogs.nvidia.com/blog/digital-human-technology-mecha-break/</link>
+      <description>NVIDIA推出首款数字人技术小型语言模型Nemotron-4 4B Instruct，应用于游戏《Mecha BREAK》，提升游戏角色对话能力，实现更自然、动态的互动体验。该模型优化了ACE技术，可在GeForce RTX AI PC和笔记本电脑上运行，为开发者提供先进数字人技术。NVIDIA ACE技术套件提供语音、智能和动画功能，支持云和设备部署，助力游戏开发。</description>
+    </item>
+  
+    <item>
+      <title>Level Up: NVIDIA, MediaTek to Bring G-SYNC Display Technologies to More Gamers</title>
+      <link>https://blogs.nvidia.com/blog/mediatek-g-sync-displays/</link>
+      <description>NVIDIA与MediaTek合作，将G-SYNC显示技术带给更多全球玩家。这项合作将NVIDIA的G-SYNC技术集成到最受欢迎的显示器中，提供更优的图像质量、运动清晰度、低延迟和精确的色彩。新推出的G-SYNC Pulsar技术提供更流畅的VRR游戏体验，并首次应用于多款新显示器上，让更多玩家享受高端游戏体验。</description>
+    </item>
+  
+    <item>
+      <title>The Download: boosting prosperity with AI, and fighting for a better future</title>
+      <link>https://www.technologyreview.com/2024/08/20/1097057/the-download-boosting-prosperity-with-ai-and-fighting-for-a-better-future/</link>
+      <description>《下载：利用人工智能促进繁荣，为更美好的未来而战》——本文探讨了人工智能如何影响我们的工作和生活，以及如何通过技术创新应对气候危机和灭绝危机。文章还报道了无人机技术、伊朗黑客攻击特朗普竞选活动、个性化治疗帕金森病等科技新闻。</description>
+    </item>
+  
+    <item>
       <title>New Array Functions in PHP 8.4</title>
       <link>https://freek.dev/2748-new-array-functions-in-php-84</link>
       <description>PHP 8.4引入了新的数组函数，包括"array_find", "array_find_key", "array_all", 和 "array_any"，本文介绍了这些函数的使用方法及其在Laravel中的对应功能，帮助开发者实现相同的目标。</description>
@@ -15,6 +45,12 @@
       <title>Why Resource Misallocation Derails Software Project Teams</title>
       <link>https://spin.atomicobject.com/resource-misallocation-software/</link>
       <description>资源错配导致软件项目团队失败的原因及预防策略。资源错配会导致项目延误、效率低下，影响团队士气和生产力。预防措施包括有效规划、优先排序、调整时间表、利用技术和知识共享，以及与利益相关者建立清晰的沟通渠道。通过合理分配资源，项目团队可以提高效率、士气和整体成果。</description>
+    </item>
+  
+    <item>
+      <title>Fighting for a future beyond the climate crisis</title>
+      <link>https://www.technologyreview.com/2024/08/20/1096053/climate-change-future-for-future/</link>
+      <description>文章主要探讨了面对气候变化和灭绝危机时，人们应如何行动。作者认为，单纯的希望无法解决问题，我们需要的是对自然的敬畏和谦卑，以及对自身局限性的深刻认识。文章强调，我们需要减少无谓的生产和消费，重新构建基于可持续发展的繁荣模式，并呼吁全球合作，共同应对气候变化带来的挑战。</description>
     </item>
   
     <item>
