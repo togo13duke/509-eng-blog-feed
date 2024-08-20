@@ -6,6 +6,19 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>This week in #dev (Aug 9, 2024)</title>
+      <link>https://thoughtbot.com/blog/this-week-in-dev-aug-9-2024</link>
+      <description>本周在#dev（2024年8月9日）
+thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#transform_keys进行键重命名、Active Record的sanitize_sql_like方法用于清理LIKE查询输入，以及Active Record的toggle方法用于切换属性值。</description>
+    </item>
+  
+    <item>
+      <title>Windows 0-day was exploited by North Korea to install advanced rootkit</title>
+      <link>https://arstechnica.com/?p=2044100</link>
+      <description>北韩黑客利用Windows零日漏洞安装高级rootkit，研究人员发现该漏洞CVE-2024-38193被用于安装隐蔽且先进的恶意软件FudModule，该软件能够在Windows内核深处运行，绕过安全防御。</description>
+    </item>
+  
+    <item>
       <title>Speed Up Your Android Tests: Gradle Plugin for Unit Test Filtering</title>
       <link>https://eng.wealthfront.com/2024/08/19/speed-up-your-android-tests-gradle-plugin-for-unit-test-filtering/</link>
       <description>Wealthfront的Android团队开发了一个自定义Gradle插件，用于根据更改的文件过滤单元测试，从而将测试时间缩短了一半。该插件通过分析更改的文件，仅运行相关模块的测试，从而提高了测试效率。</description>
@@ -21,6 +34,12 @@
       <title>AWS Weekly Roundup: G6e instances, Karpenter, Amazon Prime Day metrics, AWS Certifications update and more (August 19, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-g6e-instances-karpenter-amazon-prime-day-metrics-aws-certifications-update-and-more-august-19-2024/</link>
       <description>AWS本周新闻汇总：介绍了G6e实例、Karpenter、亚马逊Prime Day数据、AWS认证更新等新功能和服务。包括EC2 G6e实例的通用可用性，Karpenter 1.0的发布，Amazon SageMaker Pipelines的拖放UI，以及AWS服务在多个区域的扩展。</description>
+    </item>
+  
+    <item>
+      <title>Build seamless online payment forms using our new PayPal integration</title>
+      <link>https://www.surveymonkey.com/curiosity/paypal-integration/?ut_source=rss</link>
+      <description>SurveyMonkey与PayPal的集成简化了在线支付流程，支持多货币支付，并提高交易转化率。通过SurveyMonkey创建的支付表单可直接嵌入网站，方便客户在线支付。此集成适用于各种支付需求，如服务、捐赠、会议费和培训等。</description>
     </item>
   
     <item>
