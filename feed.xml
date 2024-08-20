@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>5 Proven Strategies for Successful Software Modernization</title>
+      <link>https://8thlight.com/insights/5-proven-strategies-to-software-modernization</link>
+      <description>成功软件现代化五大策略：本文探讨了如何通过逐步现代化来维护遗留系统，同时保持其价值。关键策略包括全面诊断、有针对性的重写、关注稳定状态、持续重构和明智的技术选择。通过战略性的方法，可以释放遗留系统的潜力，同时保持现有系统的优势。</description>
+    </item>
+  
+    <item>
       <title>Unlock Real-Time Cross-Platform Collaboration with Delta Sharing Tableau Connector</title>
       <link>https://www.databricks.com/blog/unlock-real-time-cross-platform-collaboration-delta-sharing-tableau-connector</link>
       <description>Databricks与Tableau合作推出Delta Sharing Tableau连接器，实现实时跨平台协作。该连接器利用Databricks数据智能平台和Tableau数据可视化平台，简化数据共享流程，提高数据分析效率，助力企业实时决策。</description>
@@ -218,6 +224,12 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
     </item>
   
     <item>
+      <title>Range Over Function Types</title>
+      <link>https://go.dev/blog/range-functions</link>
+      <description>Go语言1.23版本引入了新的语言特性“Range over Function Types”，允许用户对自定义容器类型进行迭代。这一特性通过扩展for/range语句，支持对函数类型进行迭代，使得用户可以轻松地对自定义容器中的元素进行遍历。这一改进使得Go语言在容器操作方面更加灵活和强大。</description>
+    </item>
+  
+    <item>
       <title>Windows 0-day was exploited by North Korea to install advanced rootkit</title>
       <link>https://arstechnica.com/?p=2044100</link>
       <description>北韩黑客利用Windows零日漏洞安装高级rootkit，研究人员发现该漏洞CVE-2024-38193被用于安装隐蔽且先进的恶意软件FudModule，该软件能够在Windows内核深处运行，绕过安全防御。</description>
@@ -248,9 +260,21 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
     </item>
   
     <item>
+      <title>How to integrate artificial intelligence into office software: the ONLYOFFICE Docs case study</title>
+      <link>https://www.sitepoint.com/artificial-intelligence-into-office-software-with-onlyoffice-docs/?utm_source=rss</link>
+      <description>本文探讨了如何将人工智能集成到办公软件中，以ONLYOFFICE Docs为例，展示了AI在文档编辑和协作中的应用。文章介绍了多种办公软件的AI集成案例，包括Microsoft 365、WPS Office、Google Workspace和Zoho WorkDrive，并详细解析了ONLYOFFICE Docs如何通过ChatGPT和Zhipu Copilot插件实现AI功能。</description>
+    </item>
+  
+    <item>
       <title>Fuzzy Search 101: Examples, Benefits, and Use Cases</title>
       <link>https://algolia.com/blog/engineering/fuzzy-search-101/</link>
       <description>模糊搜索是一种近似匹配方法，它通过评估输入与搜索内容之间的相似度，而不是精确匹配，从而提供更灵活和宽容的搜索体验。这种方法在处理用户输入错误、拼写错误和语言变异方面表现出色，有助于提高用户体验和业务性能。模糊搜索通过纠正拼写错误、匹配同义词、处理前缀和后缀以及基于声音的匹配，使消费者能够更轻松地找到所需信息。对于企业而言，模糊搜索有助于捕捉因输入错误而错过的机会，提高用户满意度，并揭示客户意图。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Nextcloud on AlmaLinux 9</title>
+      <link>https://www.rosehosting.com/blog/how-to-install-nextcloud-on-almalinux-9/</link>
+      <description>在AlmaLinux 9上安装Nextcloud的步骤包括：登录服务器、更新系统、安装PHP 8.3、配置PHP-FPM、安装和配置Nginx、安装MySQL服务器、创建数据库、安装SSL证书，并完成Nextcloud的安装。</description>
     </item>
   
     <item>
