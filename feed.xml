@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Ryan Dahl explains why Deno had to evolve with version 2.0</title>
+      <link>https://stackoverflow.blog/2024/08/20/ryan-dahl-deno-20-scale-improve-npm-nodejs/</link>
+      <description>Ryan Dahl解释了为什么Deno需要通过2.0版本进行进化，以扩展模块系统并适应现代网络需求。</description>
+    </item>
+  
+    <item>
       <title>The grads that built our ‘Culture Lab’ app</title>
       <link>https://www.rea-group.com/about-us/news-and-insights/blog/the-grads-that-built-our-culture-lab-app/</link>
       <description>REA集团的技术实习生团队在短短三周内成功开发了一款名为“Culture Lab”的应用程序，用于公司内部的文化体验活动。这个项目不仅展示了团队的创新能力，还促进了实习生们在不同技术角色中的全面发展，从设计到开发，从产品管理到用户体验。这个项目不仅是一个技术成就，也是团队合作和共同成长的体现。</description>
@@ -234,6 +240,12 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
       <title>Workbench: A new way to debug, monitor, and grow your Stripe integration</title>
       <link>https://stripe.com/blog/workbench-a-new-way-to-debug-monitor-and-grow-your-stripe-integration</link>
       <description>Stripe推出了一款名为Workbench的新工具，旨在帮助开发者调试、监控和优化其Stripe集成。该工具提供直观的集成行为概览，包括API和事件历史记录，以及原型设计和构建新集成等功能。Workbench还提供调试体验，帮助开发者快速定位和解决问题，同时提供改进集成效率的建议。</description>
+    </item>
+  
+    <item>
+      <title>Build a Multilingual AI Support Agent with SendGrid and Langchain.js</title>
+      <link>https://www.twilio.com/en-us/blog/build-multilingual-ai-support-agent-sendgrid-langchain</link>
+      <description>Twilio博客介绍如何构建一个多语言AI支持代理，使用SendGrid进行电子邮件通信，Langchain.js进行文本处理和文档分析，以及OpenAI进行自然语言生成。该AI助手将处理用户查询，并在不知道答案时将查询传递给人工代理。</description>
     </item>
   
     </channel>
