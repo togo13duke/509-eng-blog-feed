@@ -6,9 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New Array Functions in PHP 8.4</title>
+      <link>https://freek.dev/2748-new-array-functions-in-php-84</link>
+      <description>PHP 8.4引入了新的数组函数，包括"array_find", "array_find_key", "array_all", 和 "array_any"，本文介绍了这些函数的使用方法及其在Laravel中的对应功能，帮助开发者实现相同的目标。</description>
+    </item>
+  
+    <item>
+      <title>How to fine-tune AI for prosperity</title>
+      <link>https://www.technologyreview.com/2024/08/20/1096733/how-to-fine-tune-ai-for-prosperity/</link>
+      <description>生成式AI有望重振经济，通过提高生产力和创新推动经济增长。尽管目前AI对经济的影响尚小，但长期来看，其潜力巨大。AI在制造业和科学发现中的应用将带来显著的生产力提升，但需要行业和AI公司之间的紧密合作来实现。</description>
+    </item>
+  
+    <item>
+      <title>Why you’re about to see a lot more drones in the sky</title>
+      <link>https://www.technologyreview.com/2024/08/20/1097005/why-youre-about-to-see-a-lot-more-drones-in-the-sky/</link>
+      <description>随着无人机监管的放宽，美国天空中的无人机数量预计将大幅增加。联邦航空管理局（FAA）正准备发布一项新规定，允许无人机在视线之外飞行，这将使无人机送货、警察监控和政府调查等应用变得更加普遍。这一变化预计将在未来几个月内对无人机行业产生重大影响。</description>
+    </item>
+  
+    <item>
+      <title>From Quickstart to Kickstart - Mastering the Art of Bare Metal Deployments with image mode for RHEL</title>
+      <link>https://developers.redhat.com/articles/2024/08/20/quickstart-kickstart-mastering-art-bare-metal-deployments-image-mode-rhel</link>
+      <description>本文介绍了如何使用RHEL的image模式进行裸金属部署。通过创建和部署操作系统镜像，可以自动化安装和配置，适用于需要高一致性和频繁重新配置的环境。文章详细说明了使用kickstart文件自动化安装过程，包括磁盘分区、使用ostreecontainer安装容器镜像、配置系统特定设置等步骤，并提供了示例配置。</description>
+    </item>
+  
+    <item>
+      <title>Championing Diversity In The API Community</title>
+      <link>https://nordicapis.com/championing-diversity-in-the-api-community/</link>
+      <description>在API社区中倡导多样性：APIFirst的创始人兼总监Claire Barrett在Platform Summit 2024上讨论了“API团队多样性促进API创新”。她强调，多样性、公平性和包容性（DEI）不仅是改善业务和技术成果的机会，也是组织必须持续参与的过程。Barrett分享了鼓励DEI心态在开发团队中发展的实用建议，并强调了设计更具包容性的API对业务和用户体验的益处。</description>
+    </item>
+  
+    <item>
       <title>Git-based operations (GitOps) for Operators managed by Operator Lifecycle Manager (OLM)</title>
       <link>https://developers.redhat.com/articles/2024/08/20/git-based-operations-gitops-operators-managed-operator-lifecycle-manager-olm</link>
       <description>GitOps已成为在Kubernetes上部署应用程序的标准，许多公司正在采用这种方法来实施其DevOps和云原生策略。通过GitOps，可以实现对Kubernetes及其生态系统的持续、可重复和可扩展的管理，确保整个平台作为软件产品拥有完整的软件开发生命周期（SDLC）。GitOps通过自动化操作和版本控制，简化了应用程序的部署和管理过程。</description>
+    </item>
+  
+    <item>
+      <title>React is (becoming) a Full-Stack Framework</title>
+      <link>https://www.robinwieruch.de/react-full-stack-framework/</link>
+      <description>React通过引入Server Components和Server Actions，正逐渐发展成为一个全栈框架。这一转变不仅将React从前端框架扩展到后端，还标志着前端开发者可以直接访问数据库等服务器资源。Server Components允许在服务器上执行React组件，而Server Actions则创建HTTP API端点，使开发者能够像调用远程过程调用一样执行函数。这一变革预示着React开发者将能够从UI到数据库实现垂直功能，开启一个全新的全栈开发时代。</description>
     </item>
   
     <item>
@@ -21,6 +57,12 @@
       <title>The grads that built our ‘Culture Lab’ app</title>
       <link>https://www.rea-group.com/about-us/news-and-insights/blog/the-grads-that-built-our-culture-lab-app/</link>
       <description>REA集团的技术实习生团队在短短三周内成功开发了一款名为“Culture Lab”的应用程序，用于公司内部的文化体验活动。这个项目不仅展示了团队的创新能力，还促进了实习生们在不同技术角色中的全面发展，从设计到开发，从产品管理到用户体验。这个项目不仅是一个技术成就，也是团队合作和共同成长的体现。</description>
+    </item>
+  
+    <item>
+      <title>School Of British Accents: The Welsh Accent</title>
+      <link>https://www.babbel.com/en/magazine/british-accents-welsh-english</link>
+      <description>威尔士口音是英国最受欢迎的口音之一，它结合了威尔士语和标准英语的特点，形成了一种独特的韵律。威尔士口音的起源可以追溯到古代凯尔特语，其发音和词汇都受到了威尔士语的影响。学习一些威尔士英语词汇，如“cwtch”（小拥抱）和“butty”（朋友），可以帮助更好地理解这种口音。</description>
     </item>
   
     <item>
@@ -186,6 +228,12 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
       <title>Onboarding your new AI/BI Genie</title>
       <link>https://www.databricks.com/blog/onboarding-your-new-aibi-genie</link>
       <description>Databricks的AI/BI Genie旨在让非技术用户也能快速准确地获取数据洞察。通过类似新员工培训的过程，用户可以设置Genie，提供基本数据和定义，让Genie学习并回答问题。Genie能够通过学习数据注释和关系来提高其准确性，并随着使用而变得更加智能。</description>
+    </item>
+  
+    <item>
+      <title>Announcing the Pycharm Integration with Databricks</title>
+      <link>https://www.databricks.com/blog/announcing-pycharm-integration-databricks</link>
+      <description>Databricks宣布与JetBrains合作，推出PyCharm专业版集成插件，以增强开发者体验。此插件允许用户在Databricks上使用PyCharm的IDE功能，支持远程运行Python脚本、同步代码以及部署作业到生产环境，从而提高开发效率和最佳实践。</description>
     </item>
   
     <item>
