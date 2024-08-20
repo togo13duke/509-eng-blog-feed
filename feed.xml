@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Speed Up Your Android Tests: Gradle Plugin for Unit Test Filtering</title>
+      <link>https://eng.wealthfront.com/2024/08/19/speed-up-your-android-tests-gradle-plugin-for-unit-test-filtering/</link>
+      <description>Wealthfront的Android团队开发了一个自定义Gradle插件，用于根据更改的文件过滤单元测试，从而将测试时间缩短了一半。该插件通过分析更改的文件，仅运行相关模块的测试，从而提高了测试效率。</description>
+    </item>
+  
+    <item>
       <title>Add macOS to your continuous integration pipelines with AWS CodeBuild</title>
       <link>https://aws.amazon.com/blogs/aws/add-macos-to-your-continuous-integration-pipelines-with-aws-codebuild/</link>
       <description>AWS CodeBuild现在支持在macOS上构建应用程序，使用Apple M2机器和macOS 14 Sonoma操作系统。这项服务简化了在AWS云中为Apple系统构建应用程序的过程，并提供了预安装的Xcode、Fastlane、Ruby、Python、Node.js等工具。CodeBuild还支持自动扩展，允许用户根据需要配置容量。通过CodeBuild，用户可以轻松创建、测试和部署iOS应用程序。</description>
