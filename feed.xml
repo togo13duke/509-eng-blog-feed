@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Git-based operations (GitOps) for Operators managed by Operator Lifecycle Manager (OLM)</title>
-      <link>https://developers.redhat.com/articles/2024/08/20/git-based-operations-gitops-operators-managed-operator-lifecycle-manager-olm</link>
-      <description>GitOps已成为在Kubernetes上部署应用程序的标准，许多公司正在采用这种方法来实施其DevOps和云原生策略。通过GitOps，可以实现对Kubernetes及其生态系统的持续、可重复和可扩展的管理，确保整个平台作为软件产品拥有完整的软件开发生命周期（SDLC）。GitOps通过自动化操作和版本控制，简化了应用程序的部署和管理过程。</description>
-    </item>
-  
-    <item>
       <title>Ryan Dahl explains why Deno had to evolve with version 2.0</title>
       <link>https://stackoverflow.blog/2024/08/20/ryan-dahl-deno-20-scale-improve-npm-nodejs/</link>
       <description>Ryan Dahl解释了为什么Deno需要通过2.0版本进行进化，以扩展模块系统并适应现代网络需求。</description>
