@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>NVIDIA Showcases New AI Capabilities With ACE, RTX Games and More at Gamescom 2024</title>
-      <link>https://blogs.nvidia.com/blog/gamescom-2024/</link>
-      <description>NVIDIA在Gamescom 2024上展示了其最新的AI技术，包括数字人类技术、20款新的RTX游戏以及与MediaTek合作推广G-SYNC技术。此外，还推出了GeForce NOW的新功能和Star Wars Outlaws GeForce RTX 40系列捆绑包。</description>
-    </item>
-  
-    <item>
-      <title>Rebranding Replit: Inspiration to Action</title>
-      <link>https://blog.replit.com/rebranding-replit-inspiration-to-action</link>
-      <description>Replit通过重新设计品牌，强调其使命是民主化软件开发，并利用AI作为实现这一目标的关键。新品牌设计融合了软件发展的历史，从早期计算机科学到现代AI，体现了代码与语言之间的紧密联系，以及像素和字符作为软件构建的基本单元。通过这种设计，Replit旨在展示其作为软件行业历史一部分的角色，并鼓励更多人参与软件开发。</description>
-    </item>
-  
-    <item>
       <title>5 Proven Strategies for Successful Software Modernization</title>
       <link>https://8thlight.com/insights/5-proven-strategies-to-software-modernization</link>
       <description>成功软件现代化五大策略：本文探讨了如何通过逐步现代化来维护遗留系统，同时保持其价值。关键策略包括全面诊断、有针对性的重写、关注稳定状态、持续重构和明智的技术选择。通过战略性的方法，可以释放遗留系统的潜力，同时保持现有系统的优势。</description>
@@ -144,12 +132,6 @@
     </item>
   
     <item>
-      <title>Magic in the Data: Data Curation for AI/BI Genie</title>
-      <link>https://www.databricks.com/blog/magic-data-data-curation-aibi-genie</link>
-      <description>在Databricks的实习期间，作者Isabelle Zhou开发了一个名为“虚拟分析师”的工具，使用AI/BI Genie进行数据分析和报告。该工具通过自然语言与数据交互，生成SQL查询和图表。作者通过定义数据、战术推理和输出清洗等步骤，提高了数据查询的准确性和效率。这个项目展示了如何利用AI和BI工具简化数据分析过程。</description>
-    </item>
-  
-    <item>
       <title>How to fine-tune AI for prosperity</title>
       <link>https://www.technologyreview.com/2024/08/20/1096733/how-to-fine-tune-ai-for-prosperity/</link>
       <description>生成式AI有望重振经济，通过提高生产力和创新推动经济增长。尽管目前AI对经济的影响尚小，但长期来看，其潜力巨大。AI在制造业和科学发现中的应用将带来显著的生产力提升，但需要行业和AI公司之间的紧密合作来实现。</description>
@@ -245,18 +227,6 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
       <title>Range Over Function Types</title>
       <link>https://go.dev/blog/range-functions</link>
       <description>Go语言1.23版本引入了新的语言特性“Range over Function Types”，允许用户对自定义容器类型进行迭代。这一特性通过扩展for/range语句，支持对函数类型进行迭代，使得用户可以轻松地对自定义容器中的元素进行遍历。这一改进使得Go语言在容器操作方面更加灵活和强大。</description>
-    </item>
-  
-    <item>
-      <title>Build app authentication with .NET Core, Auth0 and Twilio SendGrid</title>
-      <link>https://www.twilio.com/en-us/blog/app-authentication-dot-net-core-auth0-twilio-sendgrid</link>
-      <description>本文介绍了如何使用.NET、Auth0和Twilio SendGrid构建应用程序认证。通过创建一个.NET Core MVC Web应用程序，并集成Auth0进行身份验证和Twilio SendGrid进行用户注册的电子邮件通知，实现了安全且易于实现的认证过程。</description>
-    </item>
-  
-    <item>
-      <title>Crystal 1.13.2 is released!</title>
-      <link>https://crystal-lang.org/2024/08/20/crystal-1.13.2-released/</link>
-      <description>Crystal编程语言发布了1.13.2版本，包含对LLVM 18升级后出现的两个编译器错误的修复，以及其他几个bug的修正。新版本通过GitHub和官方渠道提供预构建包，安装说明可在crystal-lang.org/install查看。感谢所有贡献者对语言改进的努力。</description>
     </item>
   
     <item>
