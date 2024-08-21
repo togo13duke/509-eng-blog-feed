@@ -6,6 +6,42 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy</title>
+      <link>https://blogs.nvidia.com/blog/mistral-nemo-minitron-8b-small-language-model/</link>
+      <description>NVIDIA发布了一款名为Mistral-NeMo-Minitron 8B的小型语言模型，它结合了高精度和计算效率，适用于GPU加速的数据中心、云和工作站。该模型通过优化参数和蒸馏技术，在保持高准确度的同时，降低了计算成本，并支持实时运行在工作站和笔记本电脑上，为资源有限的组织提供了部署生成式AI的便利。</description>
+    </item>
+  
+    <item>
+      <title>Bringing Llama 3 to life</title>
+      <link>https://engineering.fb.com/2024/08/21/production-engineering/bringing-llama-3-to-life/</link>
+      <description>Meta发布了其最强大的开源LLM Llama 3，并介绍了Llama 3.1的新功能，如合成数据生成和模型蒸馏。文章详细讨论了从数据到推理的构建过程，包括开源AI的愿景、数据多样性、训练方法以及优化推理的挑战。</description>
+    </item>
+  
+    <item>
+      <title>What does ERROR_KEY_DELETED mean?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240821-46/?p=110160</link>
+      <description>错误代码ERROR_KEY_DELETED表示当尝试在注册表中设置值时，注册表键已被删除。即使存在打开的句柄，注册表也会允许删除键，因为不允许锁定用户访问注册表是一个特性而非错误。如果创建了一个与已删除键同名的新键，它将是一个不同的键，而不是恢复已删除的键。</description>
+    </item>
+  
+    <item>
+      <title>Let’s All Agree to Use Seeds as ML-KEM Keys</title>
+      <link>https://words.filippo.io/dispatches/ml-kem-seeds/</link>
+      <description>NIST最近发布了ML-KEM规范FIPS 203，允许将私钥以种子形式存储。种子比扩展的解密密钥更小、更简单，减少了错误的可能性。建议加密工程界只使用种子作为ML-KEM密钥的存储格式，以简化实现并提高安全性。</description>
+    </item>
+  
+    <item>
+      <title>Primer on Jinja Templating</title>
+      <link>https://realpython.com/primer-on-jinja-templating/</link>
+      <description>本文介绍了Jinja模板引擎在Python全栈开发中的应用。通过安装Jinja，可以创建丰富的模板来驱动Python Web应用程序的前端。教程从安装Jinja开始，逐步讲解如何创建和渲染模板，包括使用外部文件、控制流程、条件语句、循环等。最后，通过一个示例项目展示了Jinja的多种功能。</description>
+    </item>
+  
+    <item>
+      <title>CrowdStrike unhappy with “shady commentary” from competitors after outage</title>
+      <link>https://arstechnica.com/?p=2044431</link>
+      <description>CrowdStrike 对其竞争对手在软件更新故障后进行的“可疑评论”表示不满，认为他们试图利用这次事件来推广自己的产品。尽管CrowdStrike在IT安全领域享有盛誉，但这次故障导致其市值大幅下降，同时竞争对手的市场份额有所上升。CrowdStrike的执行长表示，没有供应商能保证其软件不会引发类似事件，并强调行业建立在信任之上。</description>
+    </item>
+  
+    <item>
       <title>SLMming Down Latency: How NVIDIA’s First On-Device Small Language Model Makes Digital Humans More Lifelike</title>
       <link>https://blogs.nvidia.com/blog/ai-decoded-gamescom-ace-nemotron-instruct/</link>
       <description>NVIDIA推出首个设备端小型语言模型Nemotron-4 4B Instruct，为数字人类提供更自然的交互体验。该模型优化了低内存使用，提供更快的响应时间，并支持游戏开发者利用GeForce RTX和NVIDIA RTX设备。NVIDIA ACE技术套件通过集成多种AI模型，如语音识别、文本到语音和面部动画，使NPC能够与玩家实时互动。</description>
@@ -15,6 +51,12 @@
       <title>Cloudera Open Data Lakehouse Named a Finalist in the CRN Tech Innovator Awards</title>
       <link>https://blog.cloudera.com/cloudera-open-data-lakehouse-named-a-finalist-in-the-crn-tech-innovator-awards/</link>
       <description>Cloudera的Open Data Lakehouse 7.1.9版本荣获CRN技术创新奖决赛提名，该平台在人工智能和数据分析领域具有创新性，能够帮助企业在混合环境中更有效地管理和利用数据，推动人工智能创新。</description>
+    </item>
+  
+    <item>
+      <title>View logs over time with new time series chart</title>
+      <link>https://vercel.com/changelog/view-logs-over-time-with-new-time-series-chart</link>
+      <description>Vercel推出新的时间序列图表，允许用户可视化运行时日志随时间的变化，包括信息、警告和错误日志的分布。这一功能有助于更有效地分析和理解应用程序的行为，并可通过拖动选择特定时间范围来过滤日志。</description>
     </item>
   
     <item>
