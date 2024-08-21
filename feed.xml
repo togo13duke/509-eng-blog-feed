@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>TanStack Query (Formerly React Query): The Basics</title>
+      <link>https://spin.atomicobject.com/basics-tanstack-query/</link>
+      <description>TanStack Query（前身为React Query）是一个用于在React应用程序中管理服务器状态的强大库。它简化了数据获取、缓存、同步等操作。本文介绍了其核心概念，包括查询、突变和查询无效化，并通过实际示例展示了如何将这些功能集成到代码中。</description>
+    </item>
+  
+    <item>
+      <title>This rare earth metal shows us the future of our planet’s resources</title>
+      <link>https://www.technologyreview.com/2024/08/21/1096469/neodymium-rare-earth-materials-supply-chain/</link>
+      <description>稀土金属的未来：随着科技发展，我们对资源的需求不断增长，稀土金属如钕的供应面临挑战。尽管储量丰富，但开采和回收过程复杂且对环境有害。未来，我们需要寻找可持续的资源管理方法，包括提高回收率和开发新技术，以确保这些关键金属的稳定供应。</description>
+    </item>
+  
+    <item>
       <title>ConTejas Code Podcast</title>
       <link>https://kilianvalkhof.com/2024/web/contejas-code-podcast/</link>
       <description>Kilian Valkhof分享了他作为独立开发者制作Polypane浏览器的心得，包括其业务和功能细节。他还参与了多个播客，讨论了Polypane的开发过程、技术细节以及个人经验。</description>
@@ -27,6 +39,12 @@
       <title>How to back up and restore virtual machines with OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/08/21/how-back-and-restore-virtual-machines-openshift</link>
       <description>本文介绍了如何使用OpenShift和Red Hat OpenShift Virtualization备份和恢复虚拟机。通过配置OpenShift集群、安装必要的Operator和MinIO存储，并使用OpenShift API进行数据保护，可以实现对虚拟机的快速备份和恢复。文章详细说明了安装步骤、配置过程以及如何进行备份和恢复操作。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Do a Flip</title>
+      <link>https://thedailywtf.com/articles/do-a-flip</link>
+      <description>Remy Porter在《Daily WTF》上分享了一篇关于糟糕代码的文章。文章讲述了Kendall发现了一段试图实现绝对值操作的代码，但由于逻辑错误，导致代码将变量x置零。这段代码在生产环境中造成了持续数月的困扰，最终被修复。文章指出，这段代码是过度思考的典型例子，提醒开发者避免过度复杂的解决方案。</description>
     </item>
   
     <item>
