@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>“Something has gone seriously wrong,” dual-boot systems warn after Microsoft update</title>
-      <link>https://arstechnica.com/?p=2044381</link>
-      <description>微软更新导致双启动系统无法启动，包括运行最新Linux版本的设备。更新旨在修复GRUB的漏洞，但意外影响了双启动系统，导致安全策略违反错误。微软尚未公开承认错误，也未提供技术指导。受影响的用户可以尝试关闭安全启动或删除SBAT策略以解决问题。</description>
-    </item>
-  
-    <item>
       <title>NVIDIA Showcases New AI Capabilities With ACE, RTX Games and More at Gamescom 2024</title>
       <link>https://blogs.nvidia.com/blog/gamescom-2024/</link>
       <description>NVIDIA在Gamescom 2024上展示了其最新的AI技术，包括数字人类技术、20款新的RTX游戏以及与MediaTek合作推广G-SYNC技术。此外，还推出了GeForce NOW的新功能和Star Wars Outlaws GeForce RTX 40系列捆绑包。</description>
