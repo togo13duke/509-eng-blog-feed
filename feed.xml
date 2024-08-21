@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Managing API Management</title>
+      <link>https://nordicapis.com/managing-api-management/</link>
+      <description>API管理正经历爆炸性演变，企业需要制定良好的API策略以应对变化。本文提出一个名为“架构、实施和相关性”（AIR）的框架，以帮助企业制定与业务和市场特点相符的API策略，并满足企业的数字需求。该框架涵盖了API管理的各个方面，包括架构、实施和相关性，帮助企业制定明智且创新的策略，以支持业务战略并适应技术趋势。</description>
+    </item>
+  
+    <item>
+      <title>How to back up and restore virtual machines with OpenShift</title>
+      <link>https://developers.redhat.com/articles/2024/08/21/how-back-and-restore-virtual-machines-openshift</link>
+      <description>本文介绍了如何使用OpenShift和Red Hat OpenShift Virtualization备份和恢复虚拟机。通过配置OpenShift集群、安装必要的Operator和MinIO存储，并使用OpenShift API进行数据保护，可以实现对虚拟机的快速备份和恢复。文章详细说明了安装步骤、配置过程以及如何进行备份和恢复操作。</description>
+    </item>
+  
+    <item>
       <title>High-Tech Highways: India Uses NVIDIA Accelerated Computing to Ease Tollbooth Traffic</title>
       <link>https://blogs.nvidia.com/blog/calsoft-metropolis-tollbooths/</link>
       <description>印度利用NVIDIA加速计算技术缓解收费站交通拥堵。Calsoft公司采用视觉AI应用，结合NVIDIA技术和印度的统一支付接口（UPI），实现自动收费，提高效率，减少交通延误。该方案已在多个城市实施，使用NVIDIA硬件和软件，包括Jetson边缘AI模块和A100 Tensor Core GPU，支持实时数据处理和车辆识别。</description>
