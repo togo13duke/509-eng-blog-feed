@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>ConTejas Code Podcast</title>
+      <link>https://kilianvalkhof.com/2024/web/contejas-code-podcast/</link>
+      <description>Kilian Valkhof分享了他作为独立开发者制作Polypane浏览器的心得，包括其业务和功能细节。他还参与了多个播客，讨论了Polypane的开发过程、技术细节以及个人经验。</description>
+    </item>
+  
+    <item>
+      <title>Managing teamwork under pressure</title>
+      <link>https://tech.olx.com/managing-teamwork-under-pressure-c08724346d18?source=rss----761b019b483f---4</link>
+      <description>在高压工作环境中，团队动态受到个人感知的深刻影响。领导者必须理解团队成员对压力的不同反应，并通过有效的沟通、同理心和明确的目标设定来平衡挑战与支持，以提升团队表现。通过管理感知，营造支持性环境，并促进开放沟通，领导者可以在压力下提高团队效率。</description>
+    </item>
+  
+    <item>
       <title>Managing API Management</title>
       <link>https://nordicapis.com/managing-api-management/</link>
       <description>API管理正经历爆炸性演变，企业需要制定良好的API策略以应对变化。本文提出一个名为“架构、实施和相关性”（AIR）的框架，以帮助企业制定与业务和市场特点相符的API策略，并满足企业的数字需求。该框架涵盖了API管理的各个方面，包括架构、实施和相关性，帮助企业制定明智且创新的策略，以支持业务战略并适应技术趋势。</description>
