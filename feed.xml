@@ -6,6 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Simple local dev env for (Cake)PHP apps</title>
+      <link>https://www.dereuromark.de/2024/08/21/simple-local-dev-env-for-cakephp-apps/</link>
+      <description>介绍了一种名为ddev的简单易用的本地开发环境，适用于(Cake)PHP应用程序。ddev能够自动识别不同的框架类型并提供支持，通过简单的命令即可启动和配置开发环境，包括自动检测Webroot和配置app_local.php。此外，ddev还支持Xdebug调试工具，并提供了多种插件和快捷方式，如phpmyadmin和ddev cake命令。</description>
+    </item>
+  
+    <item>
+      <title>Ode to Man</title>
+      <link>https://blog.rootsofprogress.org/thm-ch3-ode-to-man</link>
+      <description>人类是宇宙中唯一能够理解现实本质的物种，从微观到宏观，从宇宙大爆炸到宇宙的终结。我们通过合作、创新和创造，成为地球上最成功的物种。我们的文明、科技、知识和基础设施都是累积的结果，这些成就证明了人类的尊严和价值。我们有能力超越自身的生物本能，创造道德、法律，并建立宪法共和国。人类的爱和同情超越了物种界限，我们为其他物种建立庇护所和救援项目。因此，人类值得尊敬和赞美，我们的未来是充满希望和潜力的。</description>
+    </item>
+  
+    <item>
+      <title>A new system lets robots sense human touch without artificial skin</title>
+      <link>https://www.technologyreview.com/2024/08/21/1097168/a-new-system-lets-robots-sense-human-touch-without-artificial-skin/</link>
+      <description>德国航空航天中心开发了一种新型系统，使机器人能够感知人类触摸，无需使用高科技人造皮肤。这项技术通过在机器人手臂上安装多个传感器，能够精确测量触摸力度和角度，并通过算法分析人类意图。这种技术有望简化人机交互，为机器人提供更直观的触摸感知能力。</description>
+    </item>
+  
+    <item>
+      <title>Ars Technica content is now available in OpenAI services</title>
+      <link>https://arstechnica.com/?p=2044379</link>
+      <description>OpenAI与Ars Technica的母公司Condé Nast达成合作，将Condé Nast旗下媒体的内容用于其AI产品，包括ChatGPT和SearchGPT原型。此举旨在通过高质量内容训练AI语言模型，同时为Condé Nast带来额外收入，并扩大其内容的影响力。</description>
+    </item>
+  
+    <item>
       <title>How we could turn plastic waste into food</title>
       <link>https://www.technologyreview.com/2024/08/21/1097129/how-plastic-waste-into-food/</link>
       <description>科学家正在研究将塑料废物转化为食物的方法，通过使用能够分解塑料的细菌。这种技术旨在解决塑料污染问题，并可能为人类提供一种新的食物来源。研究人员正在对这种微生物进行安全性测试，并计划将其提交给食品药品监督管理局进行审查。如果一切顺利，这种微生物有望在未来几年内成为现实。</description>
@@ -15,6 +39,12 @@
       <title>BW #80: Inflation</title>
       <link>https://www.bambooweekly.com/bw-80-inflation/</link>
       <description>近年来，通货膨胀似乎已成为过去式，但疫情及其后续事件改变了这一状况。通货膨胀上升迫使中央银行提高利率，尽管美国经济表现良好，失业率低，但通胀仍在下降。本周，我们将分析经合组织国家的通货膨胀情况，探讨其最高和最低水平以及变化最大的地区。</description>
+    </item>
+  
+    <item>
+      <title>Supercharge your testing experience with MSTest.Analyzers</title>
+      <link>https://devblogs.microsoft.com/dotnet/supercharge-your-testing-experience-with-ms-test-analyzers/</link>
+      <description>MSTest.Analyzers 提供了分析器来检查测试代码，指出常见错误和陷阱。这些分析器自 3.2.0 版本以来一直存在，并在 3.5.1 版本中添加了一些新功能。文章介绍了两个有用的分析器：一个用于确保类上存在 [TestClass] 属性，另一个用于修复 [AssemblyInitialize] 的签名。这些分析器有助于提高测试代码的质量和性能。</description>
     </item>
   
     <item>
