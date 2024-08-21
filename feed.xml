@@ -6,9 +6,39 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>SLMming Down Latency: How NVIDIA’s First On-Device Small Language Model Makes Digital Humans More Lifelike</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-gamescom-ace-nemotron-instruct/</link>
+      <description>NVIDIA推出首个设备端小型语言模型Nemotron-4 4B Instruct，为数字人类提供更自然的交互体验。该模型优化了低内存使用，提供更快的响应时间，并支持游戏开发者利用GeForce RTX和NVIDIA RTX设备。NVIDIA ACE技术套件通过集成多种AI模型，如语音识别、文本到语音和面部动画，使NPC能够与玩家实时互动。</description>
+    </item>
+  
+    <item>
+      <title>Cloudera Open Data Lakehouse Named a Finalist in the CRN Tech Innovator Awards</title>
+      <link>https://blog.cloudera.com/cloudera-open-data-lakehouse-named-a-finalist-in-the-crn-tech-innovator-awards/</link>
+      <description>Cloudera的Open Data Lakehouse 7.1.9版本荣获CRN技术创新奖决赛提名，该平台在人工智能和数据分析领域具有创新性，能够帮助企业在混合环境中更有效地管理和利用数据，推动人工智能创新。</description>
+    </item>
+  
+    <item>
+      <title>PHP 8.4 Property Hooks</title>
+      <link>https://freek.dev/2749-php-84-property-hooks</link>
+      <description>PHP 8.4将引入“属性钩子”特性，本文将探讨这一新特性。作者Freek Van der Herten在博客上分享了对Laravel、PHP和JavaScript的见解，并定期通过邮件发送包含编程技巧和项目经验的通讯。</description>
+    </item>
+  
+    <item>
+      <title>The Download: future materials shortages, and Google on trial</title>
+      <link>https://www.technologyreview.com/2024/08/21/1097125/the-download-future-materials-shortages-and-google-on-trial/</link>
+      <description>本文探讨了未来材料短缺问题，特别是稀土金属镨钕的供应不足可能对清洁能源技术产生的影响。同时，文章还提到了谷歌面临诉讼、OpenAI推出定制化GPT-4o模型、网络安全公司CrowdStrike遭遇技术故障、自动驾驶汽车公司Waymo的进展、以及氢能和台湾渔业与太阳能结合等科技新闻。</description>
+    </item>
+  
+    <item>
       <title>TanStack Query (Formerly React Query): The Basics</title>
       <link>https://spin.atomicobject.com/basics-tanstack-query/</link>
       <description>TanStack Query（前身为React Query）是一个用于在React应用程序中管理服务器状态的强大库。它简化了数据获取、缓存、同步等操作。本文介绍了其核心概念，包括查询、突变和查询无效化，并通过实际示例展示了如何将这些功能集成到代码中。</description>
+    </item>
+  
+    <item>
+      <title>Quiz: Primer on Jinja Templating</title>
+      <link>https://realpython.com/quizzes/primer-on-jinja-templating/</link>
+      <description>本篇博客文章介绍了Jinja模板在Python中的应用，通过一个包含5个问题的互动测验来检验读者对Jinja模板的理解。Jinja是一个强大的工具，用于构建丰富的模板，适用于Python网络应用和生成带编程内容的文本文件。测验无时间限制，每答对一题得1分，满分100%。</description>
     </item>
   
     <item>
@@ -63,6 +93,12 @@
       <title>Async hazard: mmap is secretly blocking IO</title>
       <link>https://huonw.github.io/blog/2024/08/async-hazard-mmap/</link>
       <description>内存映射文件在异步编程中可能导致性能问题，因为它在底层进行阻塞I/O操作，导致看似并发的代码实际上按顺序执行。在Rust中使用mmap时，即使数据已缓存，内存映射I/O也可能比传统I/O更快，但使用多线程时，内存映射I/O的速度会大幅提升。</description>
+    </item>
+  
+    <item>
+      <title>Rye and uv: August is Harvest Season for Python Packaging</title>
+      <link>http://lucumr.pocoo.org/2024/8/21/harvest-season</link>
+      <description>八月是Python打包的收获季节，Armin Ronacher在博客中讨论了Python打包工具Rye和uv的进展。他强调了uv工具的改进和功能扩展，并鼓励社区支持uv，以实现Python打包工具的统一和简化。同时，他呼吁维护重要Python项目的开发者尝试uv，并考虑将其推荐给新用户。</description>
     </item>
   
     <item>
