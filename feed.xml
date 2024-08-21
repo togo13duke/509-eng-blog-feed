@@ -18,6 +18,12 @@
     </item>
   
     <item>
+      <title>Async hazard: mmap is secretly blocking IO</title>
+      <link>https://huonw.github.io/blog/2024/08/async-hazard-mmap/</link>
+      <description>内存映射文件在异步编程中可能导致性能问题，因为它在底层进行阻塞I/O操作，导致看似并发的代码实际上按顺序执行。在Rust中使用mmap时，即使数据已缓存，内存映射I/O也可能比传统I/O更快，但使用多线程时，内存映射I/O的速度会大幅提升。</description>
+    </item>
+  
+    <item>
       <title>NVIDIA Showcases New AI Capabilities With ACE, RTX Games and More at Gamescom 2024</title>
       <link>https://blogs.nvidia.com/blog/gamescom-2024/</link>
       <description>NVIDIA在Gamescom 2024上展示了其最新的AI技术，包括数字人类技术、20款新的RTX游戏以及与MediaTek合作推广G-SYNC技术。此外，还推出了GeForce NOW的新功能和Star Wars Outlaws GeForce RTX 40系列捆绑包。</description>
@@ -269,6 +275,12 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
       <title>Crystal 1.13.2 is released!</title>
       <link>https://crystal-lang.org/2024/08/20/crystal-1.13.2-released/</link>
       <description>Crystal编程语言发布了1.13.2版本，包含对LLVM 18升级后出现的两个编译器错误的修复，以及其他几个bug的修正。新版本通过GitHub和官方渠道提供预构建包，安装说明可在crystal-lang.org/install查看。感谢所有贡献者对语言改进的努力。</description>
+    </item>
+  
+    <item>
+      <title>Customer loyalty programs: Tips, examples, and how to start</title>
+      <link>https://www.twilio.com/en-us/blog/customer-loyalty-program</link>
+      <description>客户忠诚度计划是提升客户保留和满意度的重要策略。研究表明，拥有强大忠诚度计划的品牌更易获得推荐，且消费者更愿意长期支持。本文探讨了忠诚度计划的投资回报，提供了成功案例，并指导如何启动自己的忠诚度计划。</description>
     </item>
   
     <item>
