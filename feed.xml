@@ -6,6 +6,18 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How we could turn plastic waste into food</title>
+      <link>https://www.technologyreview.com/2024/08/21/1097129/how-plastic-waste-into-food/</link>
+      <description>科学家正在研究将塑料废物转化为食物的方法，通过使用能够分解塑料的细菌。这种技术旨在解决塑料污染问题，并可能为人类提供一种新的食物来源。研究人员正在对这种微生物进行安全性测试，并计划将其提交给食品药品监督管理局进行审查。如果一切顺利，这种微生物有望在未来几年内成为现实。</description>
+    </item>
+  
+    <item>
+      <title>BW #80: Inflation</title>
+      <link>https://www.bambooweekly.com/bw-80-inflation/</link>
+      <description>近年来，通货膨胀似乎已成为过去式，但疫情及其后续事件改变了这一状况。通货膨胀上升迫使中央银行提高利率，尽管美国经济表现良好，失业率低，但通胀仍在下降。本周，我们将分析经合组织国家的通货膨胀情况，探讨其最高和最低水平以及变化最大的地区。</description>
+    </item>
+  
+    <item>
       <title>Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy</title>
       <link>https://blogs.nvidia.com/blog/mistral-nemo-minitron-8b-small-language-model/</link>
       <description>NVIDIA发布了一款名为Mistral-NeMo-Minitron 8B的小型语言模型，它结合了高精度和计算效率，适用于GPU加速的数据中心、云和工作站。该模型通过优化参数和蒸馏技术，在保持高准确度的同时，降低了计算成本，并支持实时运行在工作站和笔记本电脑上，为资源有限的组织提供了部署生成式AI的便利。</description>
@@ -60,6 +72,18 @@
     </item>
   
     <item>
+      <title>How Snowflake Is Unlocking the Value of Data With Large Language Models</title>
+      <link>https://blogs.nvidia.com/blog/podcast-snowflake/</link>
+      <description>Snowflake利用人工智能帮助企业将数据转化为洞察和应用。通过其AI数据云平台，Snowflake允许客户大规模访问和管理数据，通过分离数据存储和计算，消除了数据孤岛，简化了协作工作流程。</description>
+    </item>
+  
+    <item>
+      <title>Bytecode caching for Serverless Functions by default</title>
+      <link>https://vercel.com/changelog/bytecode-caching-for-serverless-functions-by-default</link>
+      <description>Vercel已将字节码缓存作为默认功能引入其Node.js 20+的Serverless Functions，旨在显著减少冷启动时间。此功能通过Rust核心实现，自动启用，可减少全球冷启动时间高达60%，尤其对加载大量JavaScript的函数影响显著。</description>
+    </item>
+  
+    <item>
       <title>PHP 8.4 Property Hooks</title>
       <link>https://freek.dev/2749-php-84-property-hooks</link>
       <description>PHP 8.4将引入“属性钩子”特性，本文将探讨这一新特性。作者Freek Van der Herten在博客上分享了对Laravel、PHP和JavaScript的见解，并定期通过邮件发送包含编程技巧和项目经验的通讯。</description>
@@ -81,6 +105,12 @@
       <title>Quiz: Primer on Jinja Templating</title>
       <link>https://realpython.com/quizzes/primer-on-jinja-templating/</link>
       <description>本篇博客文章介绍了Jinja模板在Python中的应用，通过一个包含5个问题的互动测验来检验读者对Jinja模板的理解。Jinja是一个强大的工具，用于构建丰富的模板，适用于Python网络应用和生成带编程内容的文本文件。测验无时间限制，每答对一题得1分，满分100%。</description>
+    </item>
+  
+    <item>
+      <title>Hospitality Trends Through the Lens of Travel Influencers</title>
+      <link>https://s14415.pcdn.co/blog/travel-influencer-trends/</link>
+      <description>通过Instagram的旅游影响者视角看酒店业趋势，旅游影响者正在改变消费者与品牌互动的方式，酒店业也不例外。消费者越来越多地通过社交媒体来研究和购买与旅行相关的产品和服务，他们通常转向他们最喜欢的旅游影响者——他们信任他们的意见和推荐。本文分析了旅游影响者在Instagram上的热门话题，包括“房车生活”、“旅行小贴士”和“女性独自旅行”，为酒店品牌提供了与目标受众建立联系和营销的见解。</description>
     </item>
   
     <item>
