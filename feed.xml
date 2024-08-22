@@ -6,9 +6,33 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing the General Availability of the VS Code extension for Azure Machine Learning</title>
+      <link>https://devblogs.microsoft.com/python/announcing-the-general-availability-of-the-vs-code-extension-for-azure-machine-learning/</link>
+      <description>微软宣布VS Code扩展程序Azure Machine Learning正式版发布，该扩展允许用户在VS Code中构建、训练、部署和管理机器学习模型，提高工作效率。</description>
+    </item>
+  
+    <item>
+      <title>Tech that measures our brainwaves is 100 years old. How will we be using it 100 years from now?</title>
+      <link>https://www.technologyreview.com/2024/08/22/1097185/tech-brainwaves-100-years/</link>
+      <description>脑电图（EEG）技术已有一百年的历史，它通过测量大脑的电活动来诊断疾病、探索意识状态，并可能揭示我们的思维、记忆和梦境。未来，EEG有望在睡眠分析、消费者脑电图、以及帮助无法交流的人士沟通等方面发挥更大作用。人工智能的进步将帮助科学家从EEG记录中提取更多信息，并可能在未来60年内实现读取人们的思想、记忆和梦境。</description>
+    </item>
+  
+    <item>
+      <title>Data Residency Concerns for Global Applications</title>
+      <link>https://blog.heroku.com/data-residency-concerns-global-applications</link>
+      <description>随着公司业务全球化，数据跨境存储和处理成为关键问题。了解数据居住地法规对合规至关重要，以避免法律风险和客户信任受损。利用云服务提供商的云区域，如Heroku的Private Dynos，可以帮助企业满足数据居住地要求，确保合规并提高运营效率。</description>
+    </item>
+  
+    <item>
       <title>Inside the hardware and co-design of MTIA</title>
       <link>https://engineering.fb.com/2024/08/22/ml-applications/meta-mtia-hardware-co-design/</link>
       <description>Meta的软件工程师Joel Colburn、技术负责人Junqiang Lan和软件工程师Jack Montgomery在AI Infra @ Scale 2024会议上讨论了Meta的第二代内部训练和推理加速器MTIA。他们介绍了构建第二代定制硅芯片的过程，包括PyTorch软件生态系统和Meta关键应用的模型架构，展示了MTIA如何实现性能、效率和开发者体验，成功将模型投入生产，并强调了利用特殊硅特性加速Meta模型的一些协同设计案例。</description>
+    </item>
+  
+    <item>
+      <title>Terraform AzureRM provider 4.0 adds provider-defined functions</title>
+      <link>https://www.hashicorp.com/blog/terraform-azurerm-provider-4-0-adds-provider-defined-functions</link>
+      <description>Terraform AzureRM提供程序4.0版本增加了提供程序定义的函数和改进的资源提供程序注册，增强了扩展性和灵活性。新版本支持340多个资源和120个数据源，并引入了资源ID规范化、资源ID解析等功能，以及更灵活的资源提供程序注册选项。</description>
     </item>
   
     <item>
@@ -33,6 +57,12 @@
       <title>Capture Engagement Events from Experience Cloud Using Data Cloud</title>
       <link>https://developer.salesforce.com/blogs/2024/08/capture-engagement-events-from-experience-cloud-using-data-cloud.html</link>
       <description>本博客介绍了如何使用Salesforce的Data Cloud和Experience Cloud集成来捕获和跟踪用户在网站上的互动。通过内置的集成，可以自动设置Web SDK连接器和数据流，并使用Experience Tag Manager来捕获用户交互事件。文章还讨论了如何处理用户同意、发送自定义事件以及如何使用浏览器网络标签来查看发送到Data Cloud的事件。</description>
+    </item>
+  
+    <item>
+      <title>Announcing a new consolidated assessment approach: Meta’s Data Access Renewal</title>
+      <link>https://developers.facebook.com/blog/post/2024/08/22/meta-data-access-renewal/</link>
+      <description>Meta宣布推出新的综合评估方法，以保护用户隐私并提升开发者体验。从2024年10月开始，开发者只需每年完成一次评估，简化流程，节省时间和资源，以促进应用开发和增长。</description>
     </item>
   
     <item>
@@ -191,6 +221,12 @@
       <description>解决安全从业者倦怠：安全领导者的重要一步
 
 安全从业者的倦怠问题对个人和组织都构成风险。通过早期识别倦怠迹象，领导者可以采取措施，如调整工作量、提供额外资源或实施健康计划。AI驱动的安全分析通过自动化任务、增强威胁检测和改进警报准确性来支持安全团队，提高效率并减少倦怠。</description>
+    </item>
+  
+    <item>
+      <title>How does Git work?</title>
+      <link>https://www.honeybadger.io/blog/how-does-git-work/</link>
+      <description>Git是一个分布式版本控制系统，它允许跨多个系统使用，包括集中式仓库和服务器。与集中式系统如Subversion（SVN）不同，Git是分布式的。Git使用远程仓库来跟踪更改，开发者可以使用git push将本地机器上的更改更新到远程。通过分支和拉取请求，Git帮助开发者跟踪代码库的更改，使软件开发更加协作。本文介绍了Git的工作原理、历史以及一些实用技巧。</description>
     </item>
   
     <item>
