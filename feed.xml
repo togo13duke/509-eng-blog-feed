@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>API Design in the Post-OpenAPI Era</title>
+      <link>https://nordicapis.com/api-design-in-the-post-openapi-era/</link>
+      <description>在OpenAPI时代之后，API设计正逐渐采用新的描述语言和框架，如TypeSpec，以减少错误并提升开发体验。专家Daniel Kocot将探讨如何利用创新设计框架在“后OpenAPI”时代导航，并分享如何通过新的工具和框架实现API-first的承诺。</description>
+    </item>
+  
+    <item>
+      <title>Your second GPU algorithm: Quicksort</title>
+      <link>https://developers.redhat.com/articles/2024/08/22/write-gpu-algorithm-quicksort</link>
+      <description>本文介绍了如何使用GPU加速快速排序算法。通过并行化处理，GPU能够独立地对数组的不同部分进行排序，从而提高效率。文章详细解释了如何使用GPU进行分区、计算偏移量以及如何将元素放置到正确的位置。此外，还讨论了如何使用GPU进行归约操作，并提供了相关的代码示例。</description>
+    </item>
+  
+    <item>
+      <title>Designing K8s operators for managing REST resources</title>
+      <link>https://developers.redhat.com/articles/2024/08/21/design-kubernetes-operator-rest-resources</link>
+      <description>本文探讨了如何为管理REST资源设计K8s操作符。操作符是自动化应用程序在Red Hat OpenShift上运行的标准方式，可以自动化日常操作。文章解释了为什么需要编写操作符来管理REST资源，并提供了设计此类操作符的步骤，包括确定要管理的REST资源、选择实现CRUD操作的路径以及定义自定义资源定义。</description>
+    </item>
+  
+    <item>
       <title>CVE-2024-43398: DoS vulnerability in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/08/22/dos-rexml-cve-2024-43398/</link>
       <description>CVE-2024-43398：REXML存在拒绝服务漏洞，影响版本3.3.5或更早。建议升级至3.3.6或更高版本，以避免漏洞利用。漏洞由l33thaxor发现。</description>
