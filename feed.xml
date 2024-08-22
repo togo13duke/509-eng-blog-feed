@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The 21 Most Common Adjectives In Dutch</title>
+      <link>https://www.babbel.com/en/magazine/dutch-adjectives</link>
+      <description>荷兰语中最常见的21个形容词，包括使用方法和例句，帮助学习者描述具体事物，提高语言能力。</description>
+    </item>
+  
+    <item>
+      <title>Adding responsiveness to Canva’s Design System</title>
+      <link>https://www.canva.dev/blog/engineering/adding-responsiveness-to-canvas-design-system/</link>
+      <description>Canva通过CSS级联和自定义属性增强了其设计系统的响应性。文章介绍了如何通过CSS媒体查询和响应式属性来构建灵活的布局组件，同时保持代码的可维护性和性能。这种方法允许在不同屏幕尺寸上调整组件间距，同时减少CSS类和样式表的复杂性。</description>
+    </item>
+  
+    <item>
+      <title>Now open — AWS Asia Pacific (Malaysia) Region</title>
+      <link>https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-malaysia-region/</link>
+      <description>亚马逊云服务（AWS）在马来西亚推出了新的区域，这是马来西亚首个基础设施区域，也是亚太地区的第13个区域。该区域将支持马来西亚政府的发展战略，预计到2038年将为马来西亚创造超过3500个全职工作岗位，并促进创新。AWS在马来西亚的投资包括云服务、数据中心和培训计划，旨在推动马来西亚的数字化转型。</description>
+    </item>
+  
+    <item>
       <title>Novel technique allows malicious apps to escape iOS and Android guardrails</title>
       <link>https://arstechnica.com/?p=2044637</link>
       <description>一种新型技术使恶意应用绕过iOS和Android的安全防护。黑客利用这种技术，通过伪装成银行官方应用，诱骗用户安装恶意软件，窃取账户凭证。该技术绕过了传统浏览器警告，直接在用户手机上安装恶意应用，难以区分合法与钓鱼应用。</description>
@@ -473,6 +491,12 @@ thoughtbot团队分享了他们在Slack上的有趣对话，包括使用Hash#tra
       <title>Customer loyalty programs: Tips, examples, and how to start</title>
       <link>https://www.twilio.com/en-us/blog/customer-loyalty-program</link>
       <description>客户忠诚度计划是提升客户保留和满意度的重要策略。研究表明，拥有强大忠诚度计划的品牌更易获得推荐，且消费者更愿意长期支持。本文探讨了忠诚度计划的投资回报，提供了成功案例，并指导如何启动自己的忠诚度计划。</description>
+    </item>
+  
+    <item>
+      <title>Set Up Seamless Magic Link Authentication with SendGrid and Laravel</title>
+      <link>https://www.twilio.com/en-us/blog/seamless-magic-link-authentication-sendgrid-laravel</link>
+      <description>本文介绍了如何使用SendGrid和Laravel实现无缝的魔法链接认证。通过点击电子邮件中的链接，用户可以安全地登录或注册，无需密码。教程详细说明了如何创建Laravel项目、配置SendGrid API密钥、创建数据库迁移以及实现魔法链接模型。</description>
     </item>
   
     <item>
