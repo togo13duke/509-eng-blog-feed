@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Sovereign Cloud brief</title>
+      <link>https://severalnines.com/blog/sovereign-cloud-brief/</link>
+      <description>随着数据隐私法规的加强，组织越来越重视数据主权和合规性。主权云解决方案帮助企业建立客户信任并降低风险，确保符合其运营地区的法律和法规。主权云通过限制访问、提供合规性、操作支持和专用网络容量等特性，确保数据主权和合规性。尽管存在控制悖论、集成和可移植性挑战以及成本增加等问题，但主权云为组织提供了控制数据、遵守法规和建立声誉的优势。</description>
+    </item>
+  
+    <item>
       <title>API Design in the Post-OpenAPI Era</title>
       <link>https://nordicapis.com/api-design-in-the-post-openapi-era/</link>
       <description>在OpenAPI时代之后，API设计正逐渐采用新的描述语言和框架，如TypeSpec，以减少错误并提升开发体验。专家Daniel Kocot将探讨如何利用创新设计框架在“后OpenAPI”时代导航，并分享如何通过新的工具和框架实现API-first的承诺。</description>
