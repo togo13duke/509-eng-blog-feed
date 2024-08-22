@@ -6,6 +6,54 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Inside the hardware and co-design of MTIA</title>
+      <link>https://engineering.fb.com/2024/08/22/ml-applications/meta-mtia-hardware-co-design/</link>
+      <description>Meta的软件工程师Joel Colburn、技术负责人Junqiang Lan和软件工程师Jack Montgomery在AI Infra @ Scale 2024会议上讨论了Meta的第二代内部训练和推理加速器MTIA。他们介绍了构建第二代定制硅芯片的过程，包括PyTorch软件生态系统和Meta关键应用的模型架构，展示了MTIA如何实现性能、效率和开发者体验，成功将模型投入生产，并强调了利用特殊硅特性加速Meta模型的一些协同设计案例。</description>
+    </item>
+  
+    <item>
+      <title>Rewriting Strangler Fig</title>
+      <link>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</link>
+      <description>二十年前，作者Martin Fowler将“绞杀榕”植物比喻为逐步替换遗留系统的过程。这个比喻逐渐流行，并成为现代系统改造的常用方法。本文更新了这一比喻，强调了实现此类项目成功所需的核心活动。</description>
+    </item>
+  
+    <item>
+      <title>GitHub named a Leader in the Gartner first-ever Magic Quadrant for AI Code Assistants</title>
+      <link>https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/</link>
+      <description>GitHub在Gartner首次发布的AI代码助手魔力象限中被评为领导者。该报告基于GitHub Copilot等工具的执行能力和愿景完整性进行评估，GitHub在执行能力上得分最高，在愿景完整性上位于最右侧。GitHub致力于通过增强AI技术提高开发者的幸福感和生产力，并计划继续投资于GitHub Copilot，以推动软件开发领域的创新。</description>
+    </item>
+  
+    <item>
+      <title>BW #80: Inflation (solution)</title>
+      <link>https://www.bambooweekly.com/bw-80-inflation-solution/</link>
+      <description>本周探讨了通货膨胀问题，分析了其是否在所有国家都同样严重，并讨论了美联储和欧洲央行可能降低利率的情况。文章详细介绍了使用Polars库分析来自OECD的通货膨胀数据，包括如何处理数据、筛选特定列和排除特定国家组的数据。</description>
+    </item>
+  
+    <item>
+      <title>Capture Engagement Events from Experience Cloud Using Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/capture-engagement-events-from-experience-cloud-using-data-cloud.html</link>
+      <description>本博客介绍了如何使用Salesforce的Data Cloud和Experience Cloud集成来捕获和跟踪用户在网站上的互动。通过内置的集成，可以自动设置Web SDK连接器和数据流，并使用Experience Tag Manager来捕获用户交互事件。文章还讨论了如何处理用户同意、发送自定义事件以及如何使用浏览器网络标签来查看发送到Data Cloud的事件。</description>
+    </item>
+  
+    <item>
+      <title>Kotlin 2.0.20 Released</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/08/kotlin-2-0-20-released/</link>
+      <description>Kotlin 2.0.20版本发布，包含性能改进和错误修复。新特性包括数据类复制函数的可见性改进、多平台项目中的源集静态访问器、Kotlin/Native的并发标记、Gradle版本支持、JVM工件共享选项、Compose编译器更新和UUID支持。安装方法包括更新IDE插件或从GitHub下载编译器。</description>
+    </item>
+  
+    <item>
+      <title>The role of the activation factory in the Windows Runtime</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240822-00/?p=110165</link>
+      <description>Windows Runtime中的激活工厂用于创建对象，通过实现IActivationFactory接口的ActivateInstance方法实现。对于具有默认构造函数的对象，可以直接使用激活工厂；对于需要参数的构造函数，则需要通过IWidgetFactory接口的CreateInstance方法创建。此外，激活工厂还提供了类的静态成员，通过IWidgetStatics接口访问。总结来说，激活工厂是类的代表，而非其实例。</description>
+    </item>
+  
+    <item>
+      <title>Similarity Search on PostgreSQL Using OpenAI Embeddings and Pgvector</title>
+      <link>https://www.timescale.com/blog/similarity-search-on-postgresql-using-openai-embeddings-and-pgvector/</link>
+      <description>使用OpenAI嵌入和Pgvector在PostgreSQL上进行相似性搜索，通过将数据转换为向量嵌入来捕捉语义关系，实现更精确的文档检索和检索增强生成（RAG）应用。这种方法超越了传统的基于关键词的搜索，能够提供更全面的搜索结果，并增强大型语言模型（LLM）的响应准确性。</description>
+    </item>
+  
+    <item>
       <title>Si vous ne savez pas prioriser vous n’êtes pas agiles</title>
       <link>https://blog.octo.com/si-vous-ne-savez-pas-prioriser-vous-n'etes-pas-agiles</link>
       <description>在敏捷开发中，优先级排序是关键，但往往被忽视。文章指出，优先级排序不仅涉及功能排序，更是一种风险管理。错误的做法会导致项目僵化，而正确的优先级排序则能提供灵活性，帮助团队适应变化。文章建议采用迭代方法，通过缩小范围和优先级调整来降低风险，并提出了在资源有限的情况下进行优先级排序的策略。此外，还讨论了如何通过beta版本来验证最小可行产品（MVP）的可行性。总结来说，优先级排序是敏捷开发中不可或缺的一环，需要团队改变思维模式，接受不确定性，以实现项目的成功。</description>
@@ -123,6 +171,12 @@
       <title>Now open — AWS Asia Pacific (Malaysia) Region</title>
       <link>https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-malaysia-region/</link>
       <description>亚马逊云服务（AWS）在马来西亚推出了新的区域，这是马来西亚首个基础设施区域，也是亚太地区的第13个区域。该区域将支持马来西亚政府的发展战略，预计到2038年将为马来西亚创造超过3500个全职工作岗位，并促进创新。AWS在马来西亚的投资包括云服务、数据中心和培训计划，旨在推动马来西亚的数字化转型。</description>
+    </item>
+  
+    <item>
+      <title>Make a Lowercase Enum in Absinthe</title>
+      <link>https://jaketrent.com/post/lowercase-enum-absinthe</link>
+      <description>在Absinthe中创建小写枚举类型，默认枚举值为大写。通过在`Enum.Value`中添加`name`选项，可以将枚举值转换为小写。例如，将`value(:foaming)`改为`value(:foaming, name: "foaming")`。此外，枚举名称中只能使用下划线作为分隔符，如`super_nasty`。</description>
     </item>
   
     <item>
