@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>CVE-2024-43398: DoS vulnerability in REXML</title>
-      <link>https://www.ruby-lang.org/en/news/2024/08/22/dos-rexml-cve-2024-43398/</link>
-      <description>CVE-2024-43398：REXML存在拒绝服务漏洞，影响版本3.3.5或更早。建议升级至3.3.6或更高版本，以避免漏洞利用。漏洞由l33thaxor发现。</description>
-    </item>
-  
-    <item>
       <title>The 21 Most Common Adjectives In Dutch</title>
       <link>https://www.babbel.com/en/magazine/dutch-adjectives</link>
       <description>荷兰语中最常见的21个形容词，包括使用方法和例句，帮助学习者描述具体事物，提高语言能力。</description>
