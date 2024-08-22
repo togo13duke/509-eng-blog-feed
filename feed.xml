@@ -6,6 +6,72 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Si vous ne savez pas prioriser vous n’êtes pas agiles</title>
+      <link>https://blog.octo.com/si-vous-ne-savez-pas-prioriser-vous-n'etes-pas-agiles</link>
+      <description>在敏捷开发中，优先级排序是关键，但往往被忽视。文章指出，优先级排序不仅涉及功能排序，更是一种风险管理。错误的做法会导致项目僵化，而正确的优先级排序则能提供灵活性，帮助团队适应变化。文章建议采用迭代方法，通过缩小范围和优先级调整来降低风险，并提出了在资源有限的情况下进行优先级排序的策略。此外，还讨论了如何通过beta版本来验证最小可行产品（MVP）的可行性。总结来说，优先级排序是敏捷开发中不可或缺的一环，需要团队改变思维模式，接受不确定性，以实现项目的成功。</description>
+    </item>
+  
+    <item>
+      <title>The Download: the future of human evolution, and touch sensing for robots</title>
+      <link>https://www.technologyreview.com/2024/08/22/1097220/the-download-the-future-of-human-evolution-and-touch-sensing-for-robots/</link>
+      <description>人类进化与机器人触觉感知：技术进步允许通过CRISPR技术编辑人类胚胎，可能在未来125年内带来对健康和认知的改善。同时，新系统使机器人能够感知人类触觉，无需人工皮肤，为机器人与人类更直观的互动铺平道路。此外，开源AI的定义得到明确，有助于制定保护消费者免受AI风险的法律。</description>
+    </item>
+  
+    <item>
+      <title>Cloudera’s Bangalore Center of Excellence – Local Innovation Driving Global Impact</title>
+      <link>https://blog.cloudera.com/clouderas-bangalore-center-of-excellence-local-innovation-driving-global-impact/</link>
+      <description>Cloudera的班加罗尔卓越中心作为创新枢纽，自2014年成立以来，已成为公司全球战略的关键部分，推动企业AI加速、混合平台交付和现代数据架构。该中心拥有600多名工程师，专注于云计算和机器学习创新，为全球客户提供全面支持。通过提供数据分析基础设施，Cloudera帮助印度领先银行和金融机构实现成本降低、收入增长和运营效率提升。</description>
+    </item>
+  
+    <item>
+      <title>Straight Out of Gamescom and Into Xbox PC Games, GeForce NOW Newly Supports Automatic Xbox Sign-In</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-xbox-sign-in-black-myth-wukong/</link>
+      <description>NVIDIA宣布GeForce NOW支持Xbox自动登录，并新增了《黑神话：悟空》和《最终幻想XVI》等25款游戏。GeForce NOW还新增了波兰华沙的数据中心，提供低延迟、高性能的云游戏服务。此外，GeForce NOW整合了Xbox账户，方便用户在所有设备上自动登录。</description>
+    </item>
+  
+    <item>
+      <title>We finally have a definition for open-source AI</title>
+      <link>https://www.technologyreview.com/2024/08/22/1097224/we-finally-have-a-definition-for-open-source-ai/</link>
+      <description>开源人工智能终于有了明确定义。开源倡议组织（OSI）发布了新定义，旨在帮助立法者制定保护消费者免受人工智能风险的法律。该定义强调，开源人工智能系统应允许任何目的的使用，研究人员应能检查其组件并研究其工作方式，同时应允许修改系统并与他人共享。新定义还要求开源模型提供有关训练数据的信息，以便有技能的人可以使用相同或类似的数据重新创建一个实质上等效的系统。</description>
+    </item>
+  
+    <item>
+      <title>Databricks Data Warehouse Brickbuilder Migration Solutions Help Businesses Democratize Data and Analytics</title>
+      <link>https://www.databricks.com/blog/databricks-data-warehouse-brickbuilder-migration-solutions-help-businesses-democratize-data</link>
+      <description>Databricks推出数据仓库迁移解决方案，帮助企业实现数据民主化。该方案通过整合数据湖和数据仓库的优点，提供统一的数据管理、分析和AI访问。Databricks SQL和Unity Catalog确保数据治理、安全和合规性，简化数据架构，提高数据质量，并支持多云湖仓架构，以实现世界级性能和数据湖经济。</description>
+    </item>
+  
+    <item>
+      <title>Benefits of writing clean, maintainable code.</title>
+      <link>https://freek.dev/2750-benefits-of-writing-clean-maintainable-code</link>
+      <description>编写清晰、可维护的代码的重要性，以及适用于所有级别开发者的编写更干净代码的技术。</description>
+    </item>
+  
+    <item>
+      <title>State of Generics and Collections</title>
+      <link>https://freek.dev/2751-state-of-generics-and-collections</link>
+      <description>PHP开发者长期期待泛型和集合功能，本文探讨了不同方法及其当前状态。</description>
+    </item>
+  
+    <item>
+      <title>Mentorship: It’s Mostly About Being a Friend to Your Coworker</title>
+      <link>https://spin.atomicobject.com/friend-mentorship/</link>
+      <description>导师制不仅仅是关于友谊，它强调与同事建立友好关系，通过日常互动和倾听，提供文化上的指导，帮助他人成长，无需正式的导师关系，每个人都可以成为他人的良师益友。</description>
+    </item>
+  
+    <item>
+      <title>Beyond gene-edited babies: the possible paths for tinkering with human evolution</title>
+      <link>https://www.technologyreview.com/2024/08/22/1096458/crispr-gene-editing-babies-evolution/</link>
+      <description>基因编辑技术正逐渐变得容易操作，这引发了关于人类进化未来的讨论。虽然目前大多数国家禁止基因编辑婴儿，但技术进步可能导致这一限制变得无效。未来，基因编辑可能被用于增强人类健康和认知能力，但同时也引发伦理和道德问题。</description>
+    </item>
+  
+    <item>
+      <title>Want to understand the future of technology? Take a look at this one obscure metal.</title>
+      <link>https://www.technologyreview.com/2024/08/22/1097189/future-material-demand-neodymium/</link>
+      <description>本文探讨了稀土金属钕在技术发展中的重要性，以及它如何预示着未来材料需求和供应链的挑战。作者Casey Crownhart通过参观自然历史博物馆中的矿物样本，揭示了钕在高科技设备中的应用，并探讨了随着技术进步，对钕等关键金属的需求增加以及回收利用的必要性。文章还讨论了预测未来材料需求、技术发展对材料需求的影响，以及如何应对这些挑战。</description>
+    </item>
+  
+    <item>
       <title>The Sovereign Cloud brief</title>
       <link>https://severalnines.com/blog/sovereign-cloud-brief/</link>
       <description>随着数据隐私法规的加强，组织越来越重视数据主权和合规性。主权云解决方案帮助企业建立客户信任并降低风险，确保符合其运营地区的法律和法规。主权云通过限制访问、提供合规性、操作支持和专用网络容量等特性，确保数据主权和合规性。尽管存在控制悖论、集成和可移植性挑战以及成本增加等问题，但主权云为组织提供了控制数据、遵守法规和建立声誉的优势。</description>
@@ -30,6 +96,12 @@
     </item>
   
     <item>
+      <title>CodeSOD: Maximally Zero</title>
+      <link>https://thedailywtf.com/articles/maximally-zero</link>
+      <description>Maximally Zero：Remy Porter分析了Java代码中寻找四个浮点数中最大值的例子。代码使用了不必要的初始化和循环，虽然不会导致严重问题，但显得冗余且不优雅。</description>
+    </item>
+  
+    <item>
       <title>CVE-2024-43398: DoS vulnerability in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/08/22/dos-rexml-cve-2024-43398/</link>
       <description>CVE-2024-43398：REXML存在拒绝服务漏洞，影响版本3.3.5或更早。建议升级至3.3.6或更高版本，以避免漏洞利用。漏洞由l33thaxor发现。</description>
@@ -51,6 +123,20 @@
       <title>Now open — AWS Asia Pacific (Malaysia) Region</title>
       <link>https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-malaysia-region/</link>
       <description>亚马逊云服务（AWS）在马来西亚推出了新的区域，这是马来西亚首个基础设施区域，也是亚太地区的第13个区域。该区域将支持马来西亚政府的发展战略，预计到2038年将为马来西亚创造超过3500个全职工作岗位，并促进创新。AWS在马来西亚的投资包括云服务、数据中心和培训计划，旨在推动马来西亚的数字化转型。</description>
+    </item>
+  
+    <item>
+      <title>Elastic integrates with Google Vertex AI to help drive further AI adoption</title>
+      <link>https://www.elastic.co/blog/elastic-google-vertex-ai-integration</link>
+      <description>Elastic与Google Vertex AI合作，利用生成式AI提升网络安全分析效率。通过整合Google的Gemini 1.5模型，Elastic的Attack Discovery和AI助手功能可提供更深入的威胁理解，减少分析师工作负担，并提高威胁检测和响应的准确性。</description>
+    </item>
+  
+    <item>
+      <title>Addressing security practitioner burnout: A vital step for security leaders</title>
+      <link>https://www.elastic.co/blog/security-practitioner-burnout</link>
+      <description>解决安全从业者倦怠：安全领导者的重要一步
+
+安全从业者的倦怠问题对个人和组织都构成风险。通过早期识别倦怠迹象，领导者可以采取措施，如调整工作量、提供额外资源或实施健康计划。AI驱动的安全分析通过自动化任务、增强威胁检测和改进警报准确性来支持安全团队，提高效率并减少倦怠。</description>
     </item>
   
     <item>
