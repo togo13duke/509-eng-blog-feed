@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Novel technique allows malicious apps to escape iOS and Android guardrails</title>
+      <link>https://arstechnica.com/?p=2044637</link>
+      <description>一种新型技术使恶意应用绕过iOS和Android的安全防护。黑客利用这种技术，通过伪装成银行官方应用，诱骗用户安装恶意软件，窃取账户凭证。该技术绕过了传统浏览器警告，直接在用户手机上安装恶意应用，难以区分合法与钓鱼应用。</description>
+    </item>
+  
+    <item>
       <title>Simple local dev env for (Cake)PHP apps</title>
       <link>https://www.dereuromark.de/2024/08/21/simple-local-dev-env-for-cakephp-apps/</link>
       <description>介绍了一种名为ddev的简单易用的本地开发环境，适用于(Cake)PHP应用程序。ddev能够自动识别不同的框架类型并提供支持，通过简单的命令即可启动和配置开发环境，包括自动检测Webroot和配置app_local.php。此外，ddev还支持Xdebug调试工具，并提供了多种插件和快捷方式，如phpmyadmin和ddev cake命令。</description>
@@ -111,6 +117,12 @@
       <title>Bytecode caching for Serverless Functions by default</title>
       <link>https://vercel.com/changelog/bytecode-caching-for-serverless-functions-by-default</link>
       <description>Vercel已将字节码缓存作为默认功能引入其Node.js 20+的Serverless Functions，旨在显著减少冷启动时间。此功能通过Rust核心实现，自动启用，可减少全球冷启动时间高达60%，尤其对加载大量JavaScript的函数影响显著。</description>
+    </item>
+  
+    <item>
+      <title>Devolver ships game websites 73% faster with Vercel</title>
+      <link>https://vercel.com/blog/devolver-ships-game-websites-73-faster-with-vercel</link>
+      <description>Devolver通过使用Vercel，将游戏网站发布速度提高了73%，从而实现了无忧部署、快速反馈和改进的工作流程。Vercel的零配置集成和内置CI/CD功能，使Devolver团队能够大幅减少系统管理和配置时间，专注于游戏和网站开发。</description>
     </item>
   
     <item>
