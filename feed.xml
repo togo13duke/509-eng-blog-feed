@@ -6,6 +6,42 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How PyTorch powers AI training and inference</title>
+      <link>https://engineering.fb.com/2024/08/23/ml-applications/pytorch-ai-training-inference/</link>
+      <description>PyTorch在人工智能训练和推理中的应用：本文探讨了PyTorch在大型语言模型（LLM）训练和推理方面的最新进展，包括内存高效微调和设备端部署技术。Meta的研究人员介绍了如何通过量化等手段实现大规模模型的部署。</description>
+    </item>
+  
+    <item>
+      <title>NVIDIA to Present Innovations at Hot Chips That Boost Data Center Performance and Energy Efficiency</title>
+      <link>https://blogs.nvidia.com/blog/hot-chips-2024/</link>
+      <description>NVIDIA在Hot Chips大会上将展示其Blackwell平台等创新技术，提升数据中心性能和能源效率。工程师们将分享关于多芯片系统、液冷技术和AI代理的研究，以及如何通过这些技术实现高效能计算。此外，还将探讨混合冷却解决方案和AI在处理器设计中的应用。</description>
+    </item>
+  
+    <item>
+      <title>Modifier une application mobile à distance</title>
+      <link>https://blog.octo.com/modifier-une-application-mobile-a-distance</link>
+      <description>随着移动应用的快速变化，远程配置和功能标志技术允许开发者在不发布新版本的情况下修改应用，从而快速响应问题、实验新功能并提高用户体验。这些技术通过服务器端配置，允许动态调整应用行为，如功能启用/禁用、界面更改等，从而实现更灵活的部署和迭代。</description>
+    </item>
+  
+    <item>
+      <title>What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110169</link>
+      <description>如果需要等待超过MAXIMUM_WAIT_OBJECTS的线程，可以采用将线程分组并逐个等待的方法，因为进程和线程句柄的等待是幂等的，且一旦被信号，就不会再次变为未信号状态。这样，不需要使用WaitForMultipleObjects，只需按顺序逐个等待每个句柄即可。</description>
+    </item>
+  
+    <item>
+      <title>What if I need to wait for more than MAXIMUM_WAIT_OBJECTS threads?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240823-00/?p=110172</link>
+      <description>如果需要等待超过MAXIMUM_WAIT_OBJECTS的线程，可以采用将线程分组并逐个等待的方法，因为进程和线程句柄的等待是幂等的，且一旦被信号，就不会再次变为未信号状态。这样，不需要使用WaitForMultipleObjects，只需对每个句柄调用WaitForSingleObject即可。</description>
+    </item>
+  
+    <item>
+      <title>Configure retention periods for deployments</title>
+      <link>https://vercel.com/changelog/configure-retention-periods-for-deployments</link>
+      <description>Vercel更新了部署保留期设置功能，允许用户通过仪表板和CLI配置保留期。例如，取消和错误的部署可设置为30天，而生产部署可设置为1年。最近删除的部署在项目设置中显示，且在删除后30天内可立即恢复。</description>
+    </item>
+  
+    <item>
       <title>The Download: simulating solar geoengineering, and AI-enabled accessibility</title>
       <link>https://www.technologyreview.com/2024/08/23/1102877/download-simulating-geoengineering-ai-accessibility/</link>
       <description>MIT Technology Review最新报道了太阳能地球工程模拟和人工智能辅助的可访问性。Andrew Ng推出了名为“Planet Parasol”的在线工具，让用户探索通过向大气中喷洒反射性颗粒来对抗气候变化可能产生的后果。同时，AI技术正在改变残疾人士的生活，使更多技术变得易于访问。此外，脑电图（EEG）技术已有一百年的历史，科学家们正在探索其未来的应用。</description>
@@ -69,6 +105,12 @@
       <title>Introducing Belt: Your New Favorite Tool for Starting React Native Apps</title>
       <link>https://thoughtbot.com/blog/introducing-belt-your-new-favorite-tool-for-starting-react-native-apps</link>
       <description>Belt是一款为React Native应用开发设计的CLI工具，旨在简化新应用的启动过程。它集成了最佳实践和经过实战检验的工具，如Expo、ESLint、Prettier、TypeScript、Jest等，以帮助开发者快速构建高质量的应用。Belt支持多种包管理器，并允许开发者通过简单的命令添加功能，如推送通知，从而提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>Author Q&amp;A: Engineering Effectiveness to Business Outcomes</title>
+      <link>https://www.thoughtworks.com/insights/blog/engineering-effectiveness/author-q-a-engineering-effectiveness-business-outcomes</link>
+      <description>本文探讨了如何确保工程工作产生商业影响，并介绍了Thoughtworks新书《工程卓越到商业成果》中的观点和方法。书中强调了工程效能到商业成果（EEBO）指标的重要性，这些指标能够将工程活动与实际商业影响直接联系起来，帮助企业证明工程投资的回报率，确保工程团队的工作与商业目标一致，并做出基于数据的决策。同时，文章也讨论了如何克服工程工作与商业影响之间的差距，并强调了在指标选择和实施中艺术与科学并重的重要性。</description>
     </item>
   
     <item>
