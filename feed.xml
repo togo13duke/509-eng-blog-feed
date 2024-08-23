@@ -6,9 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>SentencePiece BPE Tokenizer in Go</title>
+      <link>https://eli.thegreenplace.net/2024/sentencepiece-bpe-tokenizer-in-go/</link>
+      <description>Eli Bendersky介绍了其新项目go-sentencepiece，一个纯Go实现的SentencePiece分词器，用于Google AI模型。该项目不依赖C编译器，仅实现BPE分词，支持Google AI模型配置，并采用更高效的算法，提高了编码速度。同时，他还提供了一个在线演示。</description>
+    </item>
+  
+    <item>
+      <title>Announcing TypeScript 5.6 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/</link>
+      <description>TypeScript 5.6 RC版本发布，新增多项特性，包括禁止nullish和truthy检查、迭代器辅助方法、严格内置迭代器检查、支持任意模块标识符等。此外，还引入了新的编辑器功能，如直接支持提交字符和自动导入的排除模式。这些更新旨在提高代码质量和开发效率。</description>
+    </item>
+  
+    <item>
       <title>How PyTorch powers AI training and inference</title>
       <link>https://engineering.fb.com/2024/08/23/ml-applications/pytorch-ai-training-inference/</link>
       <description>PyTorch在人工智能训练和推理中的应用：本文探讨了PyTorch在大型语言模型（LLM）训练和推理方面的最新进展，包括内存高效微调和设备端部署技术。Meta的研究人员介绍了如何通过量化等手段实现大规模模型的部署。</description>
+    </item>
+  
+    <item>
+      <title>Adding 16 KB Page Size to Android</title>
+      <link>http://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html</link>
+      <description>Android 15引入了16KB页面大小，旨在提升系统性能。这一变化将使设备运行更高效，同时增加约9%的内存使用。开发者需重新编译应用以兼容新页面大小，并利用Android Studio中的16KB模拟器进行测试。这一更新为未来更高效、更节能的Android设备铺平了道路。</description>
     </item>
   
     <item>
@@ -135,6 +153,12 @@
       <title>Data Residency Concerns for Global Applications</title>
       <link>https://blog.heroku.com/data-residency-concerns-global-applications</link>
       <description>随着公司业务全球化，数据跨境存储和处理成为关键问题。了解数据居住地法规对合规至关重要，以避免法律风险和客户信任受损。利用云服务提供商的云区域，如Heroku的Private Dynos，可以帮助企业满足数据居住地要求，确保合规并提高运营效率。</description>
+    </item>
+  
+    <item>
+      <title>LLMs evolve quickly. Their underlying architecture, not so much.</title>
+      <link>https://stackoverflow.blog/2024/08/22/llms-evolve-quickly-their-underlying-architecture-not-so-much/</link>
+      <description>LLMs发展迅速，但其底层架构变化不大。解码器仅有的Transformer架构是AI研究中最基本的思想之一。尽管新语言模型不断发布，但大多数现代LLMs使用的架构与原始GPT模型相似。深入了解这种架构对于AI研究至关重要。</description>
     </item>
   
     <item>
