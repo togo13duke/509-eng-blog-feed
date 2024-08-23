@@ -6,18 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Andrew Ng’s new model lets you play around with solar geoengineering to see what would happen</title>
-      <link>https://www.technologyreview.com/2024/08/23/1097292/andrew-ngs-new-model-lets-you-play-around-with-solar-geoengineering-to-see-what-would-happen/</link>
-      <description>人工智能专家Andrew Ng开发了一个名为“Planet Parasol”的在线工具，允许用户探索太阳地球工程的可能性，以了解如果国家试图通过向大气中喷洒反射性颗粒来对抗气候变化会发生什么。该工具由康奈尔大学、加州圣地亚哥大学等机构的研究人员合作开发，旨在帮助人们了解太阳地球工程的潜在影响和权衡，并支持相关研究。</description>
-    </item>
-  
-    <item>
-      <title>Developer Day 2024: A Sneak Peek</title>
-      <link>https://auth0.com/blog/developer-day-2024-a-sneak-peek/</link>
-      <description>开发者日2024即将到来，提供24小时内容，涵盖身份技能提升、讨论、实验室等，帮助开发者跟上新技术。活动包括关键演讲、互动实验室和精选会议，旨在提升用户体验并学习身份趋势。活动免费，内容可在需求时观看。</description>
-    </item>
-  
-    <item>
       <title>From PHP to JavaScript to Kubernetes: how one backend engineer evolved over time</title>
       <link>https://stackoverflow.blog/2024/08/23/evolution-backend-engineering-php-javascript-kubernetes-containers/</link>
       <description>一位资深后端工程师Geshan Manandhar分享了他在软件工程领域二十年的职业发展历程，从PHP到JavaScript再到Kubernetes，以及如何适应时代变化进入无服务器容器时代。</description>
