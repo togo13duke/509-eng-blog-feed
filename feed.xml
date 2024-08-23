@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Android malware steals payment card data using previously unseen technique</title>
+      <link>https://arstechnica.com/?p=2045086</link>
+      <description>新型Android恶意软件通过NFC读取器窃取支付卡数据，利用未公开的技术克隆卡片，在ATM或销售终端使用，安全公司ESET表示。该恶意软件名为NGate，通过伪装成银行或官方移动银行应用进行钓鱼攻击，诱骗用户输入个人信息，然后通过NFC将数据传输给攻击者，攻击者随后在ATM中取款。</description>
+    </item>
+  
+    <item>
       <title>SentencePiece BPE Tokenizer in Go</title>
       <link>https://eli.thegreenplace.net/2024/sentencepiece-bpe-tokenizer-in-go/</link>
       <description>Eli Bendersky介绍了其新项目go-sentencepiece，一个纯Go实现的SentencePiece分词器，用于Google AI模型。该项目不依赖C编译器，仅实现BPE分词，支持Google AI模型配置，并采用更高效的算法，提高了编码速度。同时，他还提供了一个在线演示。</description>
@@ -129,6 +135,12 @@
       <title>Author Q&amp;A: Engineering Effectiveness to Business Outcomes</title>
       <link>https://www.thoughtworks.com/insights/blog/engineering-effectiveness/author-q-a-engineering-effectiveness-business-outcomes</link>
       <description>本文探讨了如何确保工程工作产生商业影响，并介绍了Thoughtworks新书《工程卓越到商业成果》中的观点和方法。书中强调了工程效能到商业成果（EEBO）指标的重要性，这些指标能够将工程活动与实际商业影响直接联系起来，帮助企业证明工程投资的回报率，确保工程团队的工作与商业目标一致，并做出基于数据的决策。同时，文章也讨论了如何克服工程工作与商业影响之间的差距，并强调了在指标选择和实施中艺术与科学并重的重要性。</description>
+    </item>
+  
+    <item>
+      <title>Craig Abbott shares his coping strategies for ADHD and why accessibility impacts everyone</title>
+      <link>https://www.elastic.co/blog/culture-accessibility-impacts-everyone</link>
+      <description>克雷格·艾博特分享了他应对ADHD的策略以及为什么可访问性对每个人都有影响。他强调，可访问性不仅是针对残疾，而是满足基本用户需求，改善用户体验。艾博特提倡在工作和日常生活中采取小步骤，以实现更好的可访问性，并鼓励公司实施灵活的工作时间和结构化会议，以支持神经多样性人士。</description>
     </item>
   
     <item>
