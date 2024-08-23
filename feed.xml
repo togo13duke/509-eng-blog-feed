@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Breaking Down the Term Boutique Consulting Firm</title>
+      <link>https://spin.atomicobject.com/breaking-down-the-boutique-firm/</link>
+      <description>从大型咨询公司转向精品咨询公司，作者Sam Laidlaw分享了他在Atomic Object的经历。他强调了精品咨询公司专注于特定领域和服务的优势，以及在小团队中实现全面影响和真实性的重要性。他赞扬了Atomic Object的企业家精神、对结果的执着和对专业成长的渴望，认为这是他职业生涯的正确选择。</description>
+    </item>
+  
+    <item>
+      <title>AI could be a game changer for people with disabilities</title>
+      <link>https://www.technologyreview.com/2024/08/23/1096607/ai-people-with-disabilities-accessibility/</link>
+      <description>人工智能技术为残疾人士带来了改变生活的可能性，如通过ChatGPT进行研究和创作，以及自动驾驶汽车和合成肢体等创新应用，这些技术提高了无障碍性，使残疾人士能够更自主地生活。</description>
+    </item>
+  
+    <item>
+      <title>A Deep Dive into Log Aggregation Tools</title>
+      <link>https://last9.io/blog/log-aggregation-tools/</link>
+      <description>深入探讨日志聚合工具，日志聚合是现代IT运营的关键，通过集中化日志数据，帮助组织理解系统、早期识别问题并保持应用稳定运行。本文讨论了日志聚合的核心组件、挑战、流行工具和高级技术，包括数据采集、处理、存储、搜索、可视化和警报等，以及如何通过日志聚合工具提高系统性能和安全性。</description>
+    </item>
+  
+    <item>
       <title>Andrew Ng’s new model lets you play around with solar geoengineering to see what would happen</title>
       <link>https://www.technologyreview.com/2024/08/23/1097292/andrew-ngs-new-model-lets-you-play-around-with-solar-geoengineering-to-see-what-would-happen/</link>
       <description>人工智能专家Andrew Ng开发了一个名为“Planet Parasol”的在线工具，允许用户探索太阳地球工程的可能性，以了解如果国家试图通过向大气中喷洒反射性颗粒来对抗气候变化会发生什么。该工具由康奈尔大学、加州圣地亚哥大学等机构的研究人员合作开发，旨在帮助人们了解太阳地球工程的潜在影响和权衡，并支持相关研究。</description>
@@ -15,6 +33,12 @@
       <title>Developer Day 2024: A Sneak Peek</title>
       <link>https://auth0.com/blog/developer-day-2024-a-sneak-peek/</link>
       <description>开发者日2024即将到来，提供24小时内容，涵盖身份技能提升、讨论、实验室等，帮助开发者跟上新技术。活动包括关键演讲、互动实验室和精选会议，旨在提升用户体验并学习身份趋势。活动免费，内容可在需求时观看。</description>
+    </item>
+  
+    <item>
+      <title>Error'd: Forsooth</title>
+      <link>https://thedailywtf.com/articles/forsooth</link>
+      <description>Forsooth博客文章主要讨论了各种编程和IT相关的趣事，包括Android手机断开WiFi、学校图书馆管理系统中的权限问题、QR码的新用途、语言选择错误以及Gmail智能回复AI的趣闻。</description>
     </item>
   
     <item>
