@@ -6,6 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Best Way To Prepare For The TOEIC (According To Our Experts)</title>
+      <link>https://www.babbel.com/en/magazine/how-to-prepare-for-toeic</link>
+      <description>掌握TOEIC的最佳准备方法：通过练习听、说、读、写四个部分来提高英语能力。多听英语材料，如播客、电视节目和电影，以适应不同口音；与英语母语者练习口语；广泛阅读英文文章和媒体；学习写作技巧和常用表达。通过模拟考试和主题课程，全面准备TOEIC考试。</description>
+    </item>
+  
+    <item>
+      <title>Introducing Belt: Your New Favorite Tool for Starting React Native Apps</title>
+      <link>https://thoughtbot.com/blog/introducing-belt-your-new-favorite-tool-for-starting-react-native-apps</link>
+      <description>Belt是一款为React Native应用开发设计的CLI工具，旨在简化新应用的启动过程。它集成了最佳实践和经过实战检验的工具，如Expo、ESLint、Prettier、TypeScript、Jest等，以帮助开发者快速构建高质量的应用。Belt支持多种包管理器，并允许开发者通过简单的命令添加功能，如推送通知，从而提高开发效率。</description>
+    </item>
+  
+    <item>
+      <title>Uncovering political identity in today’s complex world</title>
+      <link>https://www.surveymonkey.com/curiosity/uncovering-political-identity-in-todays-complex-world/?ut_source=rss</link>
+      <description>在当今复杂的世界中，政治身份的识别变得更加复杂。传统政党标签不再准确反映人们的政治立场，许多人更倾向于根据个人价值观选择立场。研究发现，年轻一代（如Z世代和千禧一代）不太倾向于与任何政党绑定，而更倾向于独立思考。政治身份的识别揭示了人们对社会问题的看法，尽管在特定议题上存在分歧，但总体上，美国人在社会问题上可能比表面上更相似。</description>
+    </item>
+  
+    <item>
       <title>Announcing the General Availability of the VS Code extension for Azure Machine Learning</title>
       <link>https://devblogs.microsoft.com/python/announcing-the-general-availability-of-the-vs-code-extension-for-azure-machine-learning/</link>
       <description>微软宣布VS Code扩展程序Azure Machine Learning正式版发布，该扩展允许用户在VS Code中构建、训练、部署和管理机器学习模型，提高工作效率。</description>
