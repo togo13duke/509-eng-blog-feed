@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Move over, text: Video is the new medium of our lives</title>
+      <link>https://www.technologyreview.com/2024/08/24/1096621/video-cultural-impact-learning-communication/</link>
+      <description>视频已成为我们生活的新媒介，改变了我们的学习、思考和交流方式。智能手机和互联网的普及使得视频制作和分享变得容易，视频平台成为知识分享和交流的新渠道。然而，视频技术的发展也带来了新的挑战，如视觉误导和信息过载，需要我们培养辨别真伪的能力。</description>
+    </item>
+  
+    <item>
       <title>Android malware steals payment card data using previously unseen technique</title>
       <link>https://arstechnica.com/?p=2045086</link>
       <description>新型Android恶意软件通过NFC读取器窃取支付卡数据，利用未公开的技术克隆卡片，在ATM或销售终端使用，安全公司ESET表示。该恶意软件名为NGate，通过伪装成银行或官方移动银行应用进行钓鱼攻击，诱骗用户输入个人信息，然后通过NFC将数据传输给攻击者，攻击者随后在ATM中取款。</description>
