@@ -168,6 +168,12 @@
     </item>
   
     <item>
+      <title>Using Kubectl Logs: Guide to Viewing Kubernetes Pod Logs</title>
+      <link>https://last9.io/blog/using-kubectl-logs-guide-to-viewing-kubernetes-pod-logs/</link>
+      <description>Kubectl Logs是Kubernetes集群中查看容器日志的强大工具，对于调试和监控应用程序至关重要。本文深入探讨了kubectl logs的用法，包括基本命令、高级技巧和日志生命周期管理。此外，还介绍了如何使用kubectl logs进行实时日志流、查看历史日志、限制输出和基于标签选择器查看日志。最后，强调了kubectl logs在日志管理中的重要性，并建议在需要时使用更高级的日志解决方案。</description>
+    </item>
+  
+    <item>
       <title>Uncovering political identity in today’s complex world</title>
       <link>https://www.surveymonkey.com/curiosity/uncovering-political-identity-in-todays-complex-world/?ut_source=rss</link>
       <description>在当今复杂的世界中，政治身份的识别变得更加复杂。传统政党标签不再准确反映人们的政治立场，许多人更倾向于根据个人价值观选择立场。研究发现，年轻一代（如Z世代和千禧一代）不太倾向于与任何政党绑定，而更倾向于独立思考。政治身份的识别揭示了人们对社会问题的看法，尽管在特定议题上存在分歧，但总体上，美国人在社会问题上可能比表面上更相似。</description>
