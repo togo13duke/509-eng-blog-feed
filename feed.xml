@@ -24,6 +24,12 @@
     </item>
   
     <item>
+      <title>How I played Halo: Master Chief Collection in chronological order</title>
+      <link>https://evanhahn.com/halo-mcc-in-chronological-order/</link>
+      <description>作者Evan Hahn分享了他按照时间顺序玩《光环：大师首席收藏版》的经历。他选择了大致按时间顺序游玩，但为了不频繁跳转，调整了部分游戏的顺序。他首先玩了《光环：士官长合集》、《光环2》的前五关、《光环3：士官长小队》、《光环2》剩余关卡、《光环3》和《光环4》。尽管这种顺序可能不完全符合官方时间线，但他享受了这次游玩。他建议这种玩法更适合系列粉丝而非新手。</description>
+    </item>
+  
+    <item>
       <title>Android malware steals payment card data using previously unseen technique</title>
       <link>https://arstechnica.com/?p=2045086</link>
       <description>新型Android恶意软件通过NFC读取器窃取支付卡数据，利用未公开的技术克隆卡片，在ATM或销售终端使用，安全公司ESET表示。该恶意软件名为NGate，通过伪装成银行或官方移动银行应用进行钓鱼攻击，诱骗用户输入个人信息，然后通过NFC将数据传输给攻击者，攻击者随后在ATM中取款。</description>
