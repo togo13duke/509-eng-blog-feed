@@ -18,6 +18,12 @@
     </item>
   
     <item>
+      <title>bang! bang! he murdered math! {the musical!}</title>
+      <link>https://taylor.town/bang-bang</link>
+      <description>数学的探索之路充满了挑战和奇迹。从哥德尔的不完备性定理到图灵机的发明，再到现代计算机的崛起，数学和计算机科学的发展不断突破极限，揭示了人类认知的边界。尽管面临未解之谜和潜在危机，但人类对知识的追求永无止境。</description>
+    </item>
+  
+    <item>
       <title>Android malware steals payment card data using previously unseen technique</title>
       <link>https://arstechnica.com/?p=2045086</link>
       <description>新型Android恶意软件通过NFC读取器窃取支付卡数据，利用未公开的技术克隆卡片，在ATM或销售终端使用，安全公司ESET表示。该恶意软件名为NGate，通过伪装成银行或官方移动银行应用进行钓鱼攻击，诱骗用户输入个人信息，然后通过NFC将数据传输给攻击者，攻击者随后在ATM中取款。</description>
