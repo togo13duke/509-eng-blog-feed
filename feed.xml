@@ -6,6 +6,42 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Confluent Champion: The Power of a Learning Culture and Motivated Teams</title>
+      <link>https://www.confluent.io/blog/confluent-champion-power-of-motivated-teams/</link>
+      <description>康弗伦特冠军Janis Hom分享了她如何通过团队协作和不断学习在康弗伦特公司取得成功。她强调了远程工作的灵活性、对数据治理和合规性的贡献，以及公司文化中鼓励创新和尊重差异的重要性。</description>
+    </item>
+  
+    <item>
+      <title>How to Fix ESLint Violations with AI Assistance</title>
+      <link>https://www.docker.com/blog/how-to-fix-eslint-violations-with-ai-assistance/</link>
+      <description>本文探讨了如何利用人工智能助手解决ESLint代码规范问题。文章介绍了通过AI工具辅助修复代码中的违规行为，并详细说明了如何使用AI助手来识别和修正代码错误，包括对ESLint规则的分析和上下文信息的处理。通过实际案例，展示了AI在代码审查和优化中的潜力。</description>
+    </item>
+  
+    <item>
+      <title>Beginner’s guide to GitHub: Merging a pull request</title>
+      <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
+      <description>GitHub入门指南：合并拉取请求，介绍如何处理合并冲突，包括创建冲突、解决冲突和合并更改，是使用GitHub进行协作开发的关键技能。</description>
+    </item>
+  
+    <item>
+      <title>Using Ray inside your Blade views</title>
+      <link>https://freek.dev/2752-using-ray-inside-your-blade-views</link>
+      <description>在Laravel的Blade视图中使用Ray，Freek Van der Herten分享了他的见解和经验，为现代PHP开发者提供了实用的编程技巧和项目学习心得。</description>
+    </item>
+  
+    <item>
+      <title>Custom Spring Boot Actuator Endpoint</title>
+      <link>https://vladmihalcea.com/custom-spring-boot-actuator-endpoint/</link>
+      <description>本文介绍了如何创建自定义Spring Boot Actuator端点以导出自定义指标和事件。通过配置和实现，可以监控Java Persistence和Hibernate的性能问题，并使用Hypersistence Optimizer工具进行优化。</description>
+    </item>
+  
+    <item>
+      <title>How I automate electron-to-chromium updates</title>
+      <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
+      <description>Kilian Valkhof分享了如何自动化Electron到Chromium的更新过程。他维护了一个NPM包，将Electron版本映射到Chromium版本，方便开发者使用。通过自动化设置，他每15分钟更新依赖项并运行脚本，确保包始终是最新的，同时减少了手动工作。这种自动化提高了更新速度，减少了错误，并节省了大量数据。</description>
+    </item>
+  
+    <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
       <description>本周的编程资源包括挑战传统思维，自己构建搜索引擎和数据库的灵感；深入探讨机器学习基础、Linux管道性能、AWS EBS发展历程等话题；以及一系列编程工具和库的介绍。</description>
