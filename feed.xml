@@ -6,6 +6,72 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
+      <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
+      <description>Databricks宣布Mosaic AI向量搜索的混合搜索功能正式可用。混合搜索结合了预训练嵌入模型和关键词搜索的优势，通过在向量搜索索引之上添加学习到的关键词搜索索引，提高搜索结果的准确性和召回率。用户可以通过简单的查询参数调整来启用混合搜索，从而在特定情况下获得更好的搜索效果。</description>
+    </item>
+  
+    <item>
+      <title>Optimizing AI Application Development with Docker Desktop and NVIDIA AI Workbench</title>
+      <link>https://www.docker.com/blog/optimizing-ai-application-development-docker-desktop-nvidia-ai-workbench/</link>
+      <description>Docker Desktop与NVIDIA AI Workbench的协作优化了AI应用开发流程。结合Docker Business的高级功能和NVIDIA的GPU支持，开发者可以更高效地构建和部署AI应用。Docker Desktop提供容器化环境，简化管理，而NVIDIA AI Workbench则提供强大的AI开发工具。这种集成使开发者能够轻松地将AI引入应用程序，并加速创新。</description>
+    </item>
+  
+    <item>
+      <title>NVIDIA Launches Array of New CUDA Libraries to Expand Accelerated Computing and Deliver Order-of-Magnitude Speedup to Science and Industrial Applications</title>
+      <link>https://blogs.nvidia.com/blog/cuda-accelerated-computing-energy-efficiency/</link>
+      <description>NVIDIA推出一系列新的CUDA库，大幅提升加速计算速度，降低能耗和成本，应用于科学和工业领域。这些库包括NeMo Curator、cuVS、Polars GPU Engine、Warp、Aerial和Sionna等，可加速数据处理、物理AI和无线网络模拟等任务，助力企业实现高效能计算和可持续性发展。</description>
+    </item>
+  
+    <item>
+      <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
+      <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
+      <description>Meta推出RETINAS项目，旨在通过实时监控服务器资源使用效率，减少碳排放，实现2030年价值链净零排放的目标。项目引入了“实时服务器舰队利用效率”这一新指标，结合折旧概念，评估服务器可靠性、效率和使用寿命，以优化资源使用，降低碳排放。</description>
+    </item>
+  
+    <item>
+      <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
+      <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
+      <description>Databricks Delta Live Tables (DLT) 提供了一种高效的方法来处理数据流，特别是在进行变更数据捕获（CDC）时。本文介绍了如何使用 DLT 的“APPLY CHANGES FROM SNAPSHOT”功能，通过比较数据库快照来识别变化并处理它们，从而实现 SCD Type 1 和 SCD Type 2。这种方法适用于无法提供变更数据流的数据库环境，通过快照管理来同步数据，并确保数据一致性和准确性。</description>
+    </item>
+  
+    <item>
+      <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
+      <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
+      <description>通过从历史实验中学习更好的代理指标，可以改进下一次实验。Netflix技术博客提出了一种方法，通过分析代理指标与长期业务指标之间的关系，帮助科技公司和研究者在A/B测试中更准确地评估产品变化的影响。这种方法包括使用多种统计技术来减少偏差，并提供了线性结构模型，以协调不同团队在代理指标上的努力，并确保它们与长期目标一致。</description>
+    </item>
+  
+    <item>
+      <title>testing</title>
+      <link>https://auth0.com/blog/test-n13-flor/</link>
+      <description>Auth0员工Dan Arias分享了他作为技术研究员和开发者倡导者的经验，专注于安全和身份技术。他参与开发SDK、文档和设计系统，如Cosmos，并维护一个每月有超过60万独立访客的博客。Arias曾是Auth0客户，现在作为员工，他强调了使用Auth0实现身份验证的便利性，并鼓励读者尝试免费试用。</description>
+    </item>
+  
+    <item>
+      <title>Readying business for the age of AI</title>
+      <link>https://www.technologyreview.com/2024/08/26/1096349/readying-business-for-the-age-of-ai/</link>
+      <description>随着人工智能技术的快速发展，企业正积极拥抱AI，以提高业务运营效率、客户和员工参与度以及决策质量。然而，实现AI的成功实施需要理解其商业价值、建立强大的数据基础、与组织战略目标一致，并在企业各个层级注入专业人才。同时，确保数据质量、透明度和伦理标准至关重要，以建立对AI系统的信任。企业应采取敏捷的方法，从小规模试点项目开始，逐步扩大AI工具的应用，以实现最佳回报。</description>
+    </item>
+  
+    <item>
+      <title>Track and Analyze GitHub Star Growth With  Kandy and Kotlin DataFrame</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/</link>
+      <description>使用Kotlin DataFrame和Kandy工具，可以轻松分析GitHub仓库的星标增长历史。通过GitHub GraphQL API获取数据，并使用Kotlin DataFrame进行数据处理和可视化。这种方法有助于理解项目受欢迎程度随时间的变化，并识别影响项目兴趣的关键事件。通过创建图表和动画，可以更深入地了解用户参与度和社区互动。</description>
+    </item>
+  
+    <item>
+      <title>Thoughts on finding the essential elements of a set</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
+      <description>探讨如何找到集合中的关键元素，通过二分搜索算法和递归方法，有效地识别出项目集合中必要的元素，减少冗余，提高效率。</description>
+    </item>
+  
+    <item>
+      <title>How to Install Python on Your System: A Guide</title>
+      <link>https://realpython.com/installing-python/</link>
+      <description>本指南介绍了如何在Windows、macOS和Linux系统上安装Python，包括使用官方安装程序、通过Microsoft Store或Homebrew安装，以及如何在iOS和Android设备上使用Python。文章详细说明了每个步骤，并提供了检查Python版本和安装选项的指导。</description>
+    </item>
+  
+    <item>
       <title>Confluent Champion: The Power of a Learning Culture and Motivated Teams</title>
       <link>https://www.confluent.io/blog/confluent-champion-power-of-motivated-teams/</link>
       <description>康弗伦特冠军Janis Hom分享了她如何通过团队协作和不断学习在康弗伦特公司取得成功。她强调了远程工作的灵活性、对数据治理和合规性的贡献，以及公司文化中鼓励创新和尊重差异的重要性。</description>
@@ -48,6 +114,12 @@
     </item>
   
     <item>
+      <title>SwiftUI Previewable Macro</title>
+      <link>https://useyourloaf.com/blog/swiftui-previewable-macro/</link>
+      <description>SwiftUI的Previewable宏简化了预览带有状态绑定的视图的过程，通过自动生成包含所需状态的包装视图，减少了手动创建包装视图的繁琐。此宏在Xcode 16中可用，允许开发者直接在预览中声明并使用@State属性，从而提高预览的交互性和效率。</description>
+    </item>
+  
+    <item>
       <title>Launching to Lasting: Strategic Foundations for Startup Success</title>
       <link>https://spin.atomicobject.com/foundations-startup-success/</link>
       <description>成功创业的关键在于验证产品与市场的契合度，构建最小可行产品（MVP），平衡速度与质量，以及有效扩展业务。通过深入了解用户需求，快速迭代产品，并采用敏捷方法，初创公司可以建立坚实的基础，以实现可持续增长。</description>
@@ -63,6 +135,12 @@
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
       <description>随着科学进步、公众兴趣和前所未有的投资，长寿产业正推动人们更健康地活得更久。研究人员正在探索多种方法，包括细胞重编程、抗衰老药物和清除衰老细胞，以延长人类寿命并逆转衰老迹象。尽管挑战重重，但有望在未来几十年内开发出帮助人们更健康长寿的疗法。</description>
+    </item>
+  
+    <item>
+      <title>AI and the future of sex</title>
+      <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
+      <description>人工智能技术的发展正在改变人们对色情内容的看法和期望，从传统的色情内容到由算法生成的色情内容，这种转变引发了关于真实、道德和隐私的新问题。随着AI技术的进步，色情内容变得更加个性化，甚至可能影响人们的恋爱关系和性观念。未来，AI色情可能成为主流，并引发关于伦理和人类性的更广泛讨论。</description>
     </item>
   
     <item>
@@ -90,6 +168,18 @@
       <description>如何驯服“邪恶依赖”
 
 软件团队之间的依赖关系是大型组织中的一个巨大问题。本文探讨了如何应对这些依赖关系，包括识别依赖关系的来源、最小化依赖关系、减轻依赖关系的影响以及持续优化。通过采用跨职能团队、共同标准和整体产品焦点等策略，可以有效地管理依赖关系，提高团队效率和项目成功率。</description>
+    </item>
+  
+    <item>
+      <title>Migrating from Brave to IPFS Desktop</title>
+      <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
+      <description>本文介绍了从Brave浏览器迁移到IPFS Desktop的过程，包括迁移的原因、所需时间、准备工作、迁移步骤以及如何调整配置。迁移后，用户可以继续使用IPFS资源，并享受更稳定和灵活的IPFS设置。</description>
+    </item>
+  
+    <item>
+      <title>2024 Leadership Council Survey</title>
+      <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
+      <description>2024年，Rust项目领导委员会进行了首次年度调查，旨在收集项目成员对委员会工作的反馈。调查结果显示，大部分成员对委员会的角色和项目治理的坚实基础表示认可，但也指出了需要改进的领域，如提高透明度和沟通效率。委员会将根据反馈调整工作方式，并寻求社区建议以改进流程。</description>
     </item>
   
     </channel>
