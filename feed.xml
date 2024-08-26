@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>NVIDIA Launches NIM Microservices for Generative AI in Japan, Taiwan</title>
-      <link>https://blogs.nvidia.com/blog/nim-microservices-generative-ai/</link>
-      <description>NVIDIA在日本和台湾推出四项新的NIM微服务，以支持主权人工智能应用，这些应用提供高级文化和语言流畅性。这些微服务支持针对区域需求定制的社区模型，通过准确理解和基于本地语言和文化遗产的改进响应来增强用户体验。这些服务旨在加速部署，提高性能，并为全球各行业的组织提供必要的安全性。</description>
-    </item>
-  
-    <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
       <description>AWS本周新闻：S3支持条件写入、Lambda引入递归循环检测API、Bedrock批量推理API推出、JAWS Pankration 2024在线活动举行，以及即将到来的AWS峰会和社区日活动。</description>
