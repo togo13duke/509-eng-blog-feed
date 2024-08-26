@@ -6,12 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Issues #264 Aug 26, 2024</title>
-      <link>https://betterdev.link/issues/264</link>
-      <description>本周的编程资源包括挑战传统思维，自己构建搜索引擎和数据库的灵感；深入探讨机器学习基础、Linux管道性能、AWS EBS发展历程等话题；以及一系列编程工具和库的介绍。</description>
-    </item>
-  
-    <item>
       <title>Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images</link>
       <description>在OpenShift中使用Paketo Buildpacks和Red Hat UBI容器镜像运行应用程序，通过简化构建和部署流程，提高开发效率。本文介绍了如何使用Paketo Buildpacks和Red Hat UBI容器镜像在OpenShift中构建和部署Node.js或Java应用程序，包括设置集群、构建镜像、部署应用程序等步骤。</description>
