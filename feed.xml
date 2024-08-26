@@ -12,9 +12,33 @@
     </item>
   
     <item>
+      <title>Launching to Lasting: Strategic Foundations for Startup Success</title>
+      <link>https://spin.atomicobject.com/foundations-startup-success/</link>
+      <description>成功创业的关键在于验证产品与市场的契合度，构建最小可行产品（MVP），平衡速度与质量，以及有效扩展业务。通过深入了解用户需求，快速迭代产品，并采用敏捷方法，初创公司可以建立坚实的基础，以实现可持续增长。</description>
+    </item>
+  
+    <item>
+      <title>Inside the long quest to advance Chinese writing technology</title>
+      <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
+      <description>中国文字技术的发展历程充满挑战和创新。从20世纪初的汉字输入系统到现代拼音输入法，历经多次技术变革和尝试。这些努力不仅推动了汉字的标准化和传播，也反映了人类对语言和技术的不断探索。尽管许多早期系统未能成功，但它们为今天的输入法奠定了基础，展现了技术发展的曲折与进步。</description>
+    </item>
+  
+    <item>
+      <title>Maybe you will be able to live past 122</title>
+      <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
+      <description>随着科学进步、公众兴趣和前所未有的投资，长寿产业正推动人们更健康地活得更久。研究人员正在探索多种方法，包括细胞重编程、抗衰老药物和清除衰老细胞，以延长人类寿命并逆转衰老迹象。尽管挑战重重，但有望在未来几十年内开发出帮助人们更健康长寿的疗法。</description>
+    </item>
+  
+    <item>
       <title>Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images</link>
       <description>在OpenShift中使用Paketo Buildpacks和Red Hat UBI容器镜像运行应用程序，通过简化构建和部署流程，提高开发效率。本文介绍了如何使用Paketo Buildpacks和Red Hat UBI容器镜像在OpenShift中构建和部署Node.js或Java应用程序，包括设置集群、构建镜像、部署应用程序等步骤。</description>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Compile It Yourself</title>
+      <link>https://thedailywtf.com/articles/compile-it-yourself</link>
+      <description>Sally接手了一个医疗设备项目，发现前技术负责人使用C#代码生成技术来加速开发，但这种方法存在安全风险，可能导致代码被篡改。尽管技术负责人并无恶意，但Sally向老板指出这一风险，老板对此表示担忧。</description>
     </item>
   
     <item>
@@ -22,6 +46,14 @@
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>总结：
 本文探讨了在软件开发中封装依赖的重要性。通过将行为封装到函数、模块、类或Stimulus控制器中，可以定义统一的接口，简化测试，并便于替换底层实现。这样做有助于提高代码的灵活性和可维护性。</description>
+    </item>
+  
+    <item>
+      <title>How to tame evil dependencies</title>
+      <link>https://www.thoughtworks.com/insights/articles/how-to-tame-evil-dependencies</link>
+      <description>如何驯服“邪恶依赖”
+
+软件团队之间的依赖关系是大型组织中的一个巨大问题。本文探讨了如何应对这些依赖关系，包括识别依赖关系的来源、最小化依赖关系、减轻依赖关系的影响以及持续优化。通过采用跨职能团队、共同标准和整体产品焦点等策略，可以有效地管理依赖关系，提高团队效率和项目成功率。</description>
     </item>
   
     </channel>
