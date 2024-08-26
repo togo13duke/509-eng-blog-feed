@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
+      <description>AWS本周新闻：S3支持条件写入、Lambda引入递归循环检测API、Bedrock批量推理API推出、JAWS Pankration 2024在线活动举行，以及即将到来的AWS峰会和社区日活动。</description>
+    </item>
+  
+    <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
       <description>Databricks宣布Mosaic AI向量搜索的混合搜索功能正式可用。混合搜索结合了预训练嵌入模型和关键词搜索的优势，通过在向量搜索索引之上添加学习到的关键词搜索索引，提高搜索结果的准确性和召回率。用户可以通过简单的查询参数调整来启用混合搜索，从而在特定情况下获得更好的搜索效果。</description>
@@ -33,6 +39,12 @@
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
       <description>Databricks Delta Live Tables (DLT) 提供了一种高效的方法来处理数据流，特别是在进行变更数据捕获（CDC）时。本文介绍了如何使用 DLT 的“APPLY CHANGES FROM SNAPSHOT”功能，通过比较数据库快照来识别变化并处理它们，从而实现 SCD Type 1 和 SCD Type 2。这种方法适用于无法提供变更数据流的数据库环境，通过快照管理来同步数据，并确保数据一致性和准确性。</description>
+    </item>
+  
+    <item>
+      <title>How to perform change data capture (CDC) from full table snapshots using Delta Live Tables</title>
+      <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-table-snapshots-using-delta-live-tables</link>
+      <description>Databricks Delta Live Tables (DLT) 提供了一种高效的方法来处理数据流，特别是在进行变更数据捕获（CDC）时。本文介绍了如何使用 DLT 的“APPLY CHANGES FROM SNAPSHOT”功能，通过比较一系列有序快照来同步外部关系数据库到 Databricks 平台，并实现 SCD 类型 1 和 SCD 类型 2。通过快照，可以跟踪数据变化，确保数据一致性，并支持历史数据分析。</description>
     </item>
   
     <item>
@@ -180,6 +192,18 @@
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
       <description>2024年，Rust项目领导委员会进行了首次年度调查，旨在收集项目成员对委员会工作的反馈。调查结果显示，大部分成员对委员会的角色和项目治理的坚实基础表示认可，但也指出了需要改进的领域，如提高透明度和沟通效率。委员会将根据反馈调整工作方式，并寻求社区建议以改进流程。</description>
+    </item>
+  
+    <item>
+      <title>Migrating from Brave to IPFS Desktop</title>
+      <link>https://blog.ipfs.tech/2024-brave-migration-guide/</link>
+      <description>Brave浏览器将停止支持IPFS节点功能，用户需将数据迁移至IPFS Desktop以保持访问。迁移过程简单快捷，可保留所有数据，并享受更灵活的功能。需安装IPFS Desktop和IPFS Companion，并按照指南移动Brave IPFS仓库。完成后，IPFS节点将独立运行，无需Brave浏览器。</description>
+    </item>
+  
+    <item>
+      <title>What the interns have wrought, 2024 edition</title>
+      <link>https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/</link>
+      <description>2024年，Jane Street实习生在多个项目中取得了显著成果。Arya Maheshwari开发了OCaml数据帧库Camels，Arvin Ding优化了二进制序列化协议，Alex Li提升了Limshare系统的调试器。这些项目不仅展示了实习生们的技术能力，也为公司带来了实际效益。</description>
     </item>
   
     </channel>
