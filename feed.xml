@@ -15,7 +15,7 @@
     <item>
       <title>Ray Kurzweil: Technology will let us fully realize our humanity</title>
       <link>https://www.technologyreview.com/2024/08/27/1096148/ray-kurzweil-futurist-ai-medicine-advances-freedom/</link>
-      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知タスクで人間を凌駕するようになれば、物質的な豊かさと医療的な長寿を目指す科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
+      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知作業において人間を凌駕するようになれば、物質的な豊かさと医学的な長寿に向けた科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
       <pubDate>2024-08-27 11:00:00</pubDate>
     </item>
   
@@ -99,7 +99,7 @@
     <item>
       <title>Chimera Sandbox: A scalable experimentation and development platform for Notebook services</title>
       <link>https://engineering.grab.com/chimera-sandbox</link>
-      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと、チーム間のコラボレーションとイノベーションを促進するために設計された幅広いML/AIツールを提供します。</description>
+      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと幅広いML/AIツールを提供し、チーム間のコラボレーションとイノベーションを促進するように設計されています。</description>
       <pubDate>2024-08-27 00:00:10</pubDate>
     </item>
   
@@ -171,7 +171,7 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
@@ -192,7 +192,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -220,7 +220,7 @@
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
-      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
+      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探ります。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -276,7 +276,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介などが含まれる。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
@@ -297,14 +297,14 @@
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
+      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示した。</description>
       <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
-      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより長く、より健康的に生きさせようとしている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
@@ -325,7 +325,7 @@
     <item>
       <title>CodeSOD: Compile It Yourself</title>
       <link>https://thedailywtf.com/articles/compile-it-yourself</link>
-      <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#コード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながりかねないセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
+      <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#のコード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながるセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
       <pubDate>2024-08-26 06:30:00</pubDate>
     </item>
   
@@ -349,14 +349,14 @@
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
-      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFSセットアップを楽しむことができます。</description>
+      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
-      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
+      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした、初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
