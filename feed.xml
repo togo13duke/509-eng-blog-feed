@@ -6,9 +6,44 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Colocation and Why It Matters When You’re Optimizing for Alignment</title>
+      <link>https://spin.atomicobject.com/colocation-alignment-software-team/</link>
+      <description>コラボレイティブ・ポジショニングは、チームワークを最適化し、対面での作業を通じてコミュニケーションと信頼を向上させ、プロジェクトのエラーや手戻りを減らし、開発効率と製品品質を向上させる。</description>
+      <pubDate>2024-08-27 12:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Ray Kurzweil: Technology will let us fully realize our humanity</title>
+      <link>https://www.technologyreview.com/2024/08/27/1096148/ray-kurzweil-futurist-ai-medicine-advances-freedom/</link>
+      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知作業において人間を凌駕するようになれば、物質的な豊かさと医学的な長寿に向けた科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
+      <pubDate>2024-08-27 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>This designer creates magic from everyday materials</title>
+      <link>https://www.technologyreview.com/2024/08/27/1096638/skylar-tibbits-4-d-printing-materials-transformation/</link>
+      <description>デザイナーでありコンピューター科学者でもあるスカイラー・ティビッツは、素材を印刷した後、時間の経過とともに形状や性質を変化させる「4Dプリンティング」技術を開発した。ティビッツの研究は不可能を可能にすることを目指しており、彼のチームはテキスタイル、自動車、建築の分野で顕著な成功を収めている。</description>
+      <pubDate>2024-08-27 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build a Fully Local RAG App With PostgreSQL, Mistral, and Ollama</title>
+      <link>https://www.timescale.com/blog/build-a-fully-local-rag-app-with-postgresql-mistral-and-ollama/</link>
+      <description>PostgreSQL、Mistral、Ollamaを使って完全ネイティブのRAGアプリケーションを構築する。このアプリケーションは情報検索とテキスト生成を組み合わせて、大規模言語モデル（LLM）の幻の問題を軽減する。PostgreSQLを使用してドキュメントを保存し、Ollamaを使用してモデルをローカルにホストすることで、データのプライバシーを確保し、応答性を向上させることができます。RAGは、ヘルスケア、ジャーナリズム、カスタマーサービス、ソフトウェア開発などの分野で幅広く応用されています。</description>
+      <pubDate>2024-08-27 10:31:15</pubDate>
+    </item>
+  
+    <item>
       <title>File uploads with Slim 4, tested with curl</title>
       <link>https://akrabat.com/file-uploads-with-slim-4-tested-with-curl/</link>
       <description>スリム 4 を使用したファイルのアップロードは、PSR-7 リクエストを使用するという点でスリム 3 と似ています。この記事では、簡単なファイルアップロードアプリケーションを作成し、curl でテストする方法を示します。また、ファイルサイズの制限の問題に対処する方法についても説明し、それに応じた解決策を提供します。</description>
+      <pubDate>2024-08-27 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What will AI mean for economic inequality?</title>
+      <link>https://www.technologyreview.com/2024/08/27/1096133/ai-economic-inequality-jobs-low-income/</link>
+      <description>AIの発展は経済的不平等の拡大につながる可能性がある。AIの研究開発は高所得国に集中しているため、高所得国は労働力不足に直面し、労働力不足を補うためにAIに過度に依存し、格差が拡大する可能性がある。同時に、貧困国のニーズに対応するためのAIの適用が相対的に遅れる可能性もある。AIの包括的な発展を確保するためには、AI研究開発への投資と労働力の流動化を促進するために、政府、開発銀行、慈善団体による協調的な取り組みが必要である。</description>
       <pubDate>2024-08-27 10:00:00</pubDate>
     </item>
   
@@ -22,7 +57,7 @@
     <item>
       <title>A skeptic’s guide to humanoid-robot videos</title>
       <link>https://www.technologyreview.com/2024/08/27/1103035/a-skeptics-guide-to-humanoid-robot-videos/</link>
-      <description>このブログ記事は、ヒューマノイドロボットのビデオの信憑性を探っている。これらの動画は、自律性、動きの滑らかさ、環境適応性など、ロボットの能力を誇張していることが多いと指摘している。著者は、これらの動画を見る際には、ロボットが人間によって遠隔操作されているかどうか、動画が編集されスピードアップされているかどうか、ロボットの手が実際に何をすることができるのかに注目し、懐疑的であり続けるよう視聴者に助言している。加えて、ロボットが映し出される環境が過度に理想化されていないか、ロボットの耐荷重や実用的な応用シナリオにも注意を促している。</description>
+      <description>このブログ記事は、ヒューマノイドロボットのビデオの信憑性を探っている。これらの動画は、自律性、動きの滑らかさ、環境適応性など、ロボットの能力を誇張していることが多いと指摘している。著者は、これらの動画を見る際には、ロボットが人間によって遠隔操作されているかどうか、動画が編集されスピードアップされているかどうか、ロボットの手が実際に何をすることができるのかに注目し、懐疑的であり続けるよう視聴者に助言している。加えて、この記事は、ロボットが映し出される環境が過度に理想化されていないか、また、ロボットの耐荷重や実用的な応用シナリオについても注意を喚起している。</description>
       <pubDate>2024-08-27 09:00:00</pubDate>
     </item>
   
@@ -48,6 +83,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: Private Passwords</title>
+      <link>https://thedailywtf.com/articles/private-passwords</link>
+      <description>リサは興味深いプロジェクトに取り組んでいるが、会社の予算が厳しく、プロジェクトは保留になっている。チームはパスワード保護で副作用関数呼び出しを制御しようとするが、そのアプローチは独特で安全ではない。</description>
+      <pubDate>2024-08-27 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Where does Postgres fit in a world of GenAI and vector databases?</title>
       <link>https://stackoverflow.blog/2024/08/27/postgres-genai-vector-databases-timescale-open-source-db/</link>
       <description>PostgresはGenAIとベクターデータベースの世界で重要な役割を果たしています。この記事では、PostgresがGenAIのエコシステム、特にベクターデータベースにどのように適合しているのか、またGenAIプロジェクトをサポートするデータベースを選択する際に顧客が直面する「構築か購入か」の問題を探ります。著者のAvthar Sewrathanは、Postgresとの長い歴史を共有し、年次開発者調査におけるPostgresの人気について議論しています。</description>
@@ -55,9 +97,16 @@
     </item>
   
     <item>
+      <title>Chimera Sandbox: A scalable experimentation and development platform for Notebook services</title>
+      <link>https://engineering.grab.com/chimera-sandbox</link>
+      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと、チーム間のコラボレーションとイノベーションを促進するために設計された幅広いML/AIツールを提供します。</description>
+      <pubDate>2024-08-27 00:00:10</pubDate>
+    </item>
+  
+    <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -65,6 +114,15 @@
       <title>Enabling Richer PWA Install UI on Desktop</title>
       <link>https://www.amitmerchant.com/enable-pwa-install-ui-on-desktop/</link>
       <description>Amit Merchant氏のブログ投稿では、デスクトップ上のPWAインストールUIにリッチなスクリーンショット機能を追加する方法について説明しています。manifest.jsonファイルにscreenshots属性を追加し、適切なsrc、type、sizes、form_factor属性を設定することで、デスクトップインストール時に高品質のスクリーンショットを表示し、ユーザーエクスペリエンスを向上させることができます。</description>
+      <pubDate>2024-08-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Build a Real-time Chat App with Laravel, Vue.js, and Pusher</title>
+      <link>https://www.twilio.com/en-us/blog/build-real-time-chat-app-laravel-vuejs-pusher</link>
+      <description>Laravel、Vue.js、Pusherでライブチャットアプリを構築する方法
+
+この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherのアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -85,7 +143,7 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
@@ -113,14 +171,14 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
-      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法を説明します。この方法は、変更データのフローを提供しないデータベース環境に適しています。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
+      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法について説明します。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
       <pubDate>2024-08-26 15:53:39</pubDate>
     </item>
   
@@ -162,14 +220,14 @@
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
-      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探ります。</description>
+      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -291,7 +349,7 @@
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
-      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFSセットアップを楽しむことができます。</description>
+      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
