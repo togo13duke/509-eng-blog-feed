@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Where does Postgres fit in a world of GenAI and vector databases?</title>
+      <link>https://stackoverflow.blog/2024/08/27/postgres-genai-vector-databases-timescale-open-source-db/</link>
+      <description>PostgresはGenAIとベクターデータベースの世界で重要な役割を果たしています。この記事では、PostgresがGenAIのエコシステム、特にベクターデータベースにどのように適合しているのか、またGenAIプロジェクトをサポートするデータベースを選択する際に顧客が直面する「構築か購入か」の問題を探ります。著者のAvthar Sewrathanは、Postgresとの長い歴史を共有し、年次開発者調査におけるPostgresの人気について議論しています。</description>
+      <pubDate>2024-08-27 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
       <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
