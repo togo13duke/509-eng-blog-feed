@@ -6,6 +6,12 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hobbyists discover how to insert custom fonts into AI-generated images</title>
+      <link>https://arstechnica.com/?p=2045327</link>
+      <description>爱好者发现如何将自定义字体插入AI生成的图像中，利用Flux AI图像合成模型，用户可以直接将自定义字体渲染的文本插入到AI图像生成中，为AI图像爱好者提供了新的创作可能性。</description>
+    </item>
+  
+    <item>
       <title>NVIDIA Launches NIM Microservices for Generative AI in Japan, Taiwan</title>
       <link>https://blogs.nvidia.com/blog/nim-microservices-generative-ai/</link>
       <description>NVIDIA在日本和台湾推出四项新的NIM微服务，以支持主权人工智能应用，这些应用提供高级文化和语言流畅性。这些微服务支持针对区域需求定制的社区模型，通过准确理解和基于本地语言和文化遗产的改进响应来增强用户体验。这些服务旨在加速部署，提高性能，并为全球各行业的组织提供必要的安全性。</description>
