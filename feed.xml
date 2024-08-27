@@ -8,214 +8,214 @@
     <item>
       <title>Hobbyists discover how to insert custom fonts into AI-generated images</title>
       <link>https://arstechnica.com/?p=2045327</link>
-      <description>AI画像にカスタムフォントを挿入する方法を発見 FLUXのAI画像合成モデルでは、ユーザーはカスタムフォントでレンダリングされたテキストをAI画像生成に直接挿入することができ、AI画像愛好家に新たな創造の可能性を開きます。</description>
+      <description>爱好者发现如何将自定义字体插入AI生成的图像中，利用Flux AI图像合成模型，用户可以直接将自定义字体渲染的文本插入到AI图像生成中，为AI图像爱好者提供了新的创作可能性。</description>
     </item>
   
     <item>
       <title>NVIDIA Launches NIM Microservices for Generative AI in Japan, Taiwan</title>
       <link>https://blogs.nvidia.com/blog/nim-microservices-generative-ai/</link>
-      <description>NVIDIAは、高度な文化的・言語的流暢性を提供する主権AIアプリケーションをサポートするため、日本と台湾で4つの新しいNIMマイクロサービスを開始します。これらのマイクロサービスは、地域のニーズに合わせたコミュニティモデルをサポートし、地域の言語と文化遺産に基づいた正確な理解と改善された応答を通じて、ユーザーエクスペリエンスを向上させます。これらのサービスは、展開を加速し、パフォーマンスを向上させ、世界中の業界にわたる組織に必要なセキュリティを提供するように設計されています。</description>
+      <description>NVIDIA在日本和台湾推出四项新的NIM微服务，以支持主权人工智能应用，这些应用提供高级文化和语言流畅性。这些微服务支持针对区域需求定制的社区模型，通过准确理解和基于本地语言和文化遗产的改进响应来增强用户体验。这些服务旨在加速部署，提高性能，并为全球各行业的组织提供必要的安全性。</description>
     </item>
   
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>AWS本周新闻：S3支持条件写入、Lambda引入递归循环检测API、Bedrock批量推理API推出、JAWS Pankration 2024在线活动举行，以及即将到来的AWS峰会和社区日活动。</description>
     </item>
   
     <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
-      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前学習済みの組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
+      <description>Databricks宣布Mosaic AI向量搜索的混合搜索功能正式可用。混合搜索结合了预训练嵌入模型和关键词搜索的优势，通过在向量搜索索引之上添加学习到的关键词搜索索引，提高搜索结果的准确性和召回率。用户可以通过简单的查询参数调整来启用混合搜索，从而在特定情况下获得更好的搜索效果。</description>
     </item>
   
     <item>
       <title>Optimizing AI Application Development with Docker Desktop and NVIDIA AI Workbench</title>
       <link>https://www.docker.com/blog/optimizing-ai-application-development-docker-desktop-nvidia-ai-workbench/</link>
-      <description>Docker DesktopとNVIDIA AI Workbenchのコラボレーションは、AIアプリケーションの開発プロセスを最適化します。Docker Desktopは管理を簡素化するコンテナ化環境を提供し、NVIDIA AI Workbenchは強力なAI開発ツールを提供します。この統合により、開発者はアプリケーションにAIを簡単に導入し、イノベーションを加速させることができます。</description>
+      <description>Docker Desktop与NVIDIA AI Workbench的协作优化了AI应用开发流程。结合Docker Business的高级功能和NVIDIA的GPU支持，开发者可以更高效地构建和部署AI应用。Docker Desktop提供容器化环境，简化管理，而NVIDIA AI Workbench则提供强大的AI开发工具。这种集成使开发者能够轻松地将AI引入应用程序，并加速创新。</description>
     </item>
   
     <item>
       <title>NVIDIA Launches Array of New CUDA Libraries to Expand Accelerated Computing and Deliver Order-of-Magnitude Speedup to Science and Industrial Applications</title>
       <link>https://blogs.nvidia.com/blog/cuda-accelerated-computing-energy-efficiency/</link>
-      <description>NVIDIAは、科学および産業アプリケーション向けに、加速された計算速度を劇的に向上させ、エネルギー消費とコストを削減する一連の新しいCUDAライブラリを発表した。NeMo Curator、cuVS、Polars GPU Engine、Warp、Aerial、Sionnaを含むこれらのライブラリは、データ処理、物理AI、ワイヤレスネットワークシミュレーションなどのタスクを高速化し、企業の高性能コンピューティングと持続可能性の実現を支援します。</description>
+      <description>NVIDIA推出一系列新的CUDA库，大幅提升加速计算速度，降低能耗和成本，应用于科学和工业领域。这些库包括NeMo Curator、cuVS、Polars GPU Engine、Warp、Aerial和Sionna等，可加速数据处理、物理AI和无线网络模拟等任务，助力企业实现高效能计算和可持续性发展。</description>
     </item>
   
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>Meta推出RETINAS项目，旨在通过实时监控服务器资源使用效率，减少碳排放，实现2030年价值链净零排放的目标。项目引入了“实时服务器舰队利用效率”这一新指标，结合折旧概念，评估服务器可靠性、效率和使用寿命，以优化资源使用，降低碳排放。</description>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
-      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法について説明します。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
+      <description>Databricks Delta Live Tables (DLT) 提供了一种高效的方法来处理数据流，特别是在进行变更数据捕获（CDC）时。本文介绍了如何使用 DLT 的“APPLY CHANGES FROM SNAPSHOT”功能，通过比较数据库快照来识别变化并处理它们，从而实现 SCD Type 1 和 SCD Type 2。这种方法适用于无法提供变更数据流的数据库环境，通过快照管理来同步数据，并确保数据一致性和准确性。</description>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full table snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-table-snapshots-using-delta-live-tables</link>
-      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを処理する効率的な方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用して、順序付けられた一連のスナップショットを比較し、SCD タイプ 1 と SCD タイプ 2 を実装することで、外部リレーショナルデータベースを Databricks プラットフォームに同期する方法について説明します。 スナップショットを使用することで、データの変更を追跡し、データの一貫性を確保し、履歴データ分析をサポートすることが可能になります。スナップショットにより、データの変更を追跡し、データの一貫性を確保し、履歴データ分析をサポートすることが可能になります。</description>
+      <description>Databricks Delta Live Tables (DLT) 提供了一种高效的方法来处理数据流，特别是在进行变更数据捕获（CDC）时。本文介绍了如何使用 DLT 的“APPLY CHANGES FROM SNAPSHOT”功能，通过比较一系列有序快照来同步外部关系数据库到 Databricks 平台，并实现 SCD 类型 1 和 SCD 类型 2。通过快照，可以跟踪数据变化，确保数据一致性，并支持历史数据分析。</description>
     </item>
   
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>通过从历史实验中学习更好的代理指标，可以改进下一次实验。Netflix技术博客提出了一种方法，通过分析代理指标与长期业务指标之间的关系，帮助科技公司和研究者在A/B测试中更准确地评估产品变化的影响。这种方法包括使用多种统计技术来减少偏差，并提供了线性结构模型，以协调不同团队在代理指标上的努力，并确保它们与长期目标一致。</description>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
-      <description>Auth0の社員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <description>Auth0员工Dan Arias分享了他作为技术研究员和开发者倡导者的经验，专注于安全和身份技术。他参与开发SDK、文档和设计系统，如Cosmos，并维护一个每月有超过60万独立访客的博客。Arias曾是Auth0客户，现在作为员工，他强调了使用Auth0实现身份验证的便利性，并鼓励读者尝试免费试用。</description>
     </item>
   
     <item>
       <title>Readying business for the age of AI</title>
       <link>https://www.technologyreview.com/2024/08/26/1096349/readying-business-for-the-age-of-ai/</link>
-      <description>AI技術の急速な進歩に伴い、組織は事業運営の効率化、顧客や従業員のエンゲージメント向上、意思決定の質の向上のためにAIを積極的に導入している。しかし、AIの導入を成功させるには、そのビジネス価値を理解し、強固なデータ基盤を構築し、組織の戦略目標に合致させ、ビジネスのあらゆるレベルで専門知識を注入する必要がある。同時に、データの品質、透明性、倫理基準を確保することは、AIシステムに対する信頼を築く上で極めて重要である。組織はアジャイル・アプローチを採用し、小規模なパイロット・プロジェクトから始めて、時間をかけてAIツールの採用を拡大し、最適なリターンを実現すべきである。</description>
+      <description>随着人工智能技术的快速发展，企业正积极拥抱AI，以提高业务运营效率、客户和员工参与度以及决策质量。然而，实现AI的成功实施需要理解其商业价值、建立强大的数据基础、与组织战略目标一致，并在企业各个层级注入专业人才。同时，确保数据质量、透明度和伦理标准至关重要，以建立对AI系统的信任。企业应采取敏捷的方法，从小规模试点项目开始，逐步扩大AI工具的应用，以实现最佳回报。</description>
     </item>
   
     <item>
       <title>Track and Analyze GitHub Star Growth With  Kandy and Kotlin DataFrame</title>
       <link>https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/</link>
-      <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API を通して取得され、Kotlin DataFrame を使って処理・可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
+      <description>使用Kotlin DataFrame和Kandy工具，可以轻松分析GitHub仓库的星标增长历史。通过GitHub GraphQL API获取数据，并使用Kotlin DataFrame进行数据处理和可视化。这种方法有助于理解项目受欢迎程度随时间的变化，并识别影响项目兴趣的关键事件。通过创建图表和动画，可以更深入地了解用户参与度和社区互动。</description>
     </item>
   
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
-      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
+      <description>探讨如何找到集合中的关键元素，通过二分搜索算法和递归方法，有效地识别出项目集合中必要的元素，减少冗余，提高效率。</description>
     </item>
   
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>本指南介绍了如何在Windows、macOS和Linux系统上安装Python，包括使用官方安装程序、通过Microsoft Store或Homebrew安装，以及如何在iOS和Android设备上使用Python。文章详细说明了每个步骤，并提供了检查Python版本和安装选项的指导。</description>
     </item>
   
     <item>
       <title>Confluent Champion: The Power of a Learning Culture and Motivated Teams</title>
       <link>https://www.confluent.io/blog/confluent-champion-power-of-motivated-teams/</link>
-      <description>コンフレント・チャンピオンのジャニス・ホムは、チームワークと継続的な学習を通じて、コンフレントでどのように成功してきたかを語った。彼女は、リモートワークの柔軟性、データガバナンスとコンプライアンスへの貢献、イノベーションを奨励し、違いを尊重する企業文化の重要性を強調した。</description>
+      <description>康弗伦特冠军Janis Hom分享了她如何通过团队协作和不断学习在康弗伦特公司取得成功。她强调了远程工作的灵活性、对数据治理和合规性的贡献，以及公司文化中鼓励创新和尊重差异的重要性。</description>
     </item>
   
     <item>
       <title>How to Fix ESLint Violations with AI Assistance</title>
       <link>https://www.docker.com/blog/how-to-fix-eslint-violations-with-ai-assistance/</link>
-      <description>この記事では、ESLintのコード仕様の問題に対処するためにAIアシスタントがどのように使用できるかを探ります。この記事では、コード違反の修正を支援するAIツールの使用について説明し、ESLintルールの分析や文脈情報の処理など、AIアシスタントがコードエラーを特定し修正するためにどのように使用できるかを詳述する。コードレビューと最適化におけるAIの可能性が、実践的な例を通して示されている。</description>
+      <description>本文探讨了如何利用人工智能助手解决ESLint代码规范问题。文章介绍了通过AI工具辅助修复代码中的违规行为，并详细说明了如何使用AI助手来识别和修正代码错误，包括对ESLint规则的分析和上下文信息的处理。通过实际案例，展示了AI在代码审查和优化中的潜力。</description>
     </item>
   
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
+      <description>GitHub入门指南：合并拉取请求，介绍如何处理合并冲突，包括创建冲突、解决冲突和合并更改，是使用GitHub进行协作开发的关键技能。</description>
     </item>
   
     <item>
       <title>Using Ray inside your Blade views</title>
       <link>https://freek.dev/2752-using-ray-inside-your-blade-views</link>
-      <description>LaravelのBladeビューのRayを使用して、Freek Van der Hertenが彼の洞察と経験を共有し、現代のPHP開発者のための実践的なプログラミングのヒントとプロジェクト学習の洞察を提供します。</description>
+      <description>在Laravel的Blade视图中使用Ray，Freek Van der Herten分享了他的见解和经验，为现代PHP开发者提供了实用的编程技巧和项目学习心得。</description>
     </item>
   
     <item>
       <title>Custom Spring Boot Actuator Endpoint</title>
       <link>https://vladmihalcea.com/custom-spring-boot-actuator-endpoint/</link>
-      <description>この記事では、カスタムメトリクスとイベントをエクスポートするための、カスタムSpring Boot Actuatorエンドポイントの作成方法について説明します。この設定と実装により、Java PersistenceとHibernateのパフォーマンス問題を監視し、Hypersistence Optimizerツールを使って最適化することができる。</description>
+      <description>本文介绍了如何创建自定义Spring Boot Actuator端点以导出自定义指标和事件。通过配置和实现，可以监控Java Persistence和Hibernate的性能问题，并使用Hypersistence Optimizer工具进行优化。</description>
     </item>
   
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
-      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <description>Kilian Valkhof分享了如何自动化Electron到Chromium的更新过程。他维护了一个NPM包，将Electron版本映射到Chromium版本，方便开发者使用。通过自动化设置，他每15分钟更新依赖项并运行脚本，确保包始终是最新的，同时减少了手动工作。这种自动化提高了更新速度，减少了错误，并节省了大量数据。</description>
     </item>
   
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <description>本周的编程资源包括挑战传统思维，自己构建搜索引擎和数据库的灵感；深入探讨机器学习基础、Linux管道性能、AWS EBS发展历程等话题；以及一系列编程工具和库的介绍。</description>
     </item>
   
     <item>
       <title>SwiftUI Previewable Macro</title>
       <link>https://useyourloaf.com/blog/swiftui-previewable-macro/</link>
-      <description>SwiftUI の Previewable マクロは、望みの状態を含むラッパービューを自動的に生成することで、状態バインディングを持つビューのプレビュープロセスを簡略化し、手動でラッパービューを作成する退屈さを軽減します。Xcode 16 で利用可能なこのマクロは、開発者がプレビューで直接 @State 属性を宣言して使用することを可能にし、プレビューのインタラクティブ性と効率を改善します。</description>
+      <description>SwiftUI的Previewable宏简化了预览带有状态绑定的视图的过程，通过自动生成包含所需状态的包装视图，减少了手动创建包装视图的繁琐。此宏在Xcode 16中可用，允许开发者直接在预览中声明并使用@State属性，从而提高预览的交互性和效率。</description>
     </item>
   
     <item>
       <title>Launching to Lasting: Strategic Foundations for Startup Success</title>
       <link>https://spin.atomicobject.com/foundations-startup-success/</link>
-      <description>スタートアップを成功させる鍵は、プロダクト・マーケット・フィットの検証、最小実行可能プロダクト（MVP）の構築、スピードとクオリティのバランス、そして効果的なビジネスのスケールにある。ユーザーのニーズを深く理解し、製品を迅速に反復し、アジャイル手法を採用することで、新興企業は持続可能な成長のための強固な基盤を築くことができる。</description>
+      <description>成功创业的关键在于验证产品与市场的契合度，构建最小可行产品（MVP），平衡速度与质量，以及有效扩展业务。通过深入了解用户需求，快速迭代产品，并采用敏捷方法，初创公司可以建立坚实的基础，以实现可持续增长。</description>
     </item>
   
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
+      <description>中国文字技术的发展历程充满挑战和创新。从20世纪初的汉字输入系统到现代拼音输入法，历经多次技术变革和尝试。这些努力不仅推动了汉字的标准化和传播，也反映了人类对语言和技术的不断探索。尽管许多早期系统未能成功，但它们为今天的输入法奠定了基础，展现了技术发展的曲折与进步。</description>
     </item>
   
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
-      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <description>随着科学进步、公众兴趣和前所未有的投资，长寿产业正推动人们更健康地活得更久。研究人员正在探索多种方法，包括细胞重编程、抗衰老药物和清除衰老细胞，以延长人类寿命并逆转衰老迹象。尽管挑战重重，但有望在未来几十年内开发出帮助人们更健康长寿的疗法。</description>
     </item>
   
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>人工智能技术的发展正在改变人们对色情内容的看法和期望，从传统的色情内容到由算法生成的色情内容，这种转变引发了关于真实、道德和隐私的新问题。随着AI技术的进步，色情内容变得更加个性化，甚至可能影响人们的恋爱关系和性观念。未来，AI色情可能成为主流，并引发关于伦理和人类性的更广泛讨论。</description>
     </item>
   
     <item>
       <title>Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images</link>
-      <description>Paketo Buildpacks と Red Hat UBI コンテナイメージを使用して OpenShift でアプリケーションを実行すると、ビルドとデプロイのプロセスを簡素化することで開発効率が向上します。この記事では、Paketo Buildpacks と Red Hat UBI コンテナーイメージを使用して OpenShift で Node.js または Java アプリケーションをビルドしてデプロイする方法について、クラスターのセットアップ、イメージのビルド、アプリケーションのデプロイの手順を含めて説明します。</description>
+      <description>在OpenShift中使用Paketo Buildpacks和Red Hat UBI容器镜像运行应用程序，通过简化构建和部署流程，提高开发效率。本文介绍了如何使用Paketo Buildpacks和Red Hat UBI容器镜像在OpenShift中构建和部署Node.js或Java应用程序，包括设置集群、构建镜像、部署应用程序等步骤。</description>
     </item>
   
     <item>
       <title>CodeSOD: Compile It Yourself</title>
       <link>https://thedailywtf.com/articles/compile-it-yourself</link>
-      <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#コード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながりかねないセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
+      <description>Sally接手了一个医疗设备项目，发现前技术负责人使用C#代码生成技术来加速开发，但这种方法存在安全风险，可能导致代码被篡改。尽管技术负责人并无恶意，但Sally向老板指出这一风险，老板对此表示担忧。</description>
     </item>
   
     <item>
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
-      <description>要約
-本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+      <description>总结：
+本文探讨了在软件开发中封装依赖的重要性。通过将行为封装到函数、模块、类或Stimulus控制器中，可以定义统一的接口，简化测试，并便于替换底层实现。这样做有助于提高代码的灵活性和可维护性。</description>
     </item>
   
     <item>
       <title>How to tame evil dependencies</title>
       <link>https://www.thoughtworks.com/insights/articles/how-to-tame-evil-dependencies</link>
-      <description>"邪悪な依存 "を手なずける方法
+      <description>如何驯服“邪恶依赖”
 
-ソフトウェアチーム間の依存関係は、大規模な組織では大きな問題である。この記事では、依存関係の原因の特定、依存関係の最小化、依存関係の影響の緩和、継続的な最適化など、依存関係に対処する方法を探る。クロスファンクショナルチーム、共通標準、全体的な製品フォーカスなどの戦略を採用することで、依存関係を効果的に管理し、チームの有効性とプロジェクトの成功を向上させることができる。</description>
+软件团队之间的依赖关系是大型组织中的一个巨大问题。本文探讨了如何应对这些依赖关系，包括识别依赖关系的来源、最小化依赖关系、减轻依赖关系的影响以及持续优化。通过采用跨职能团队、共同标准和整体产品焦点等策略，可以有效地管理依赖关系，提高团队效率和项目成功率。</description>
     </item>
   
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
-      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
+      <description>本文介绍了从Brave浏览器迁移到IPFS Desktop的过程，包括迁移的原因、所需时间、准备工作、迁移步骤以及如何调整配置。迁移后，用户可以继续使用IPFS资源，并享受更稳定和灵活的IPFS设置。</description>
     </item>
   
     <item>
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
-      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
+      <description>2024年，Rust项目领导委员会进行了首次年度调查，旨在收集项目成员对委员会工作的反馈。调查结果显示，大部分成员对委员会的角色和项目治理的坚实基础表示认可，但也指出了需要改进的领域，如提高透明度和沟通效率。委员会将根据反馈调整工作方式，并寻求社区建议以改进流程。</description>
     </item>
   
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/2024-brave-migration-guide/</link>
-      <description>Brave BrowserはIPFS Node機能のサポートを終了し、ユーザーはアクセスを維持するためにIPFS Desktopにデータを移行する必要があります。移行プロセスは迅速かつ簡単で、すべてのデータを保持し、より柔軟な機能を楽しむことができます。IPFS DesktopとIPFS Companionをインストールし、Brave IPFSリポジトリをガイドに従って移動する必要があります。完了すると、IPFS ノードは Brave ブラウザーを必要とせずに独立して実行されます。</description>
+      <description>Brave浏览器将停止支持IPFS节点功能，用户需将数据迁移至IPFS Desktop以保持访问。迁移过程简单快捷，可保留所有数据，并享受更灵活的功能。需安装IPFS Desktop和IPFS Companion，并按照指南移动Brave IPFS仓库。完成后，IPFS节点将独立运行，无需Brave浏览器。</description>
     </item>
   
     <item>
       <title>What the interns have wrought, 2024 edition</title>
       <link>https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/</link>
-      <description>Arya Maheshwari は OCaml データ・フレーム・ライブラリ Camels を開発し、Arvin Ding はバイナリ・シリアライズ・プロトコルを最適化し、Alex Li は Limshare システムのデバッガをアップグレードしました。これらのプロジェクトは、インターン生の技術的スキルを実証するだけでなく、会社に実益をもたらした。</description>
+      <description>2024年，Jane Street实习生在多个项目中取得了显著成果。Arya Maheshwari开发了OCaml数据帧库Camels，Arvin Ding优化了二进制序列化协议，Alex Li提升了Limshare系统的调试器。这些项目不仅展示了实习生们的技术能力，也为公司带来了实际效益。</description>
     </item>
   
     </channel>
