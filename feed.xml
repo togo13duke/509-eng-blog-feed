@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/</link>
+      <description>.NET Community Toolkitバージョン8.3リリース。.NET 8とネイティブAOTのサポート、パフォーマンスの改善、複数のバグ修正と新機能を含む。.NET 8とネイティブAOTのサポートを含み、MVVMツールキットのパフォーマンスを最適化し、複数のバグを修正し、新機能を追加しました。</description>
+      <pubDate>2024-08-27 17:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>C# Dev Kit update brings enhanced Razor IntelliSense, Project Status, and New Config Options</title>
+      <link>https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/</link>
+      <description>C# Dev Kitのアップデートにより、Razor IntelliSense、プロジェクト・ステータス、新しい設定オプションがVisual Studio Codeに追加され、開発の生産性とユーザー・エクスペリエンスが向上しました。</description>
+      <pubDate>2024-08-27 17:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>How Meta enforces purpose limitation via Privacy Aware Infrastructure at scale</title>
       <link>https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/</link>
       <description>Metaは、ユーザーのプライバシーを保護するために、プライバシーを意識したインフラを通じて、目的の制限を大規模に実施します。このテクノロジーは、データフローをリアルタイムで監視し、データが明示された目的のみに使用されることを保証し、データフローシグナリングとパーミッションコントロールを使用してデータ資産を管理することにより、データ保護の有効性と拡張性を向上させます。</description>
@@ -17,6 +31,20 @@
       <link>https://github.blog/news-insights/product-news/github-enterprise-the-best-migration-path-from-aws-codecommit/</link>
       <description>GitHub Enterpriseは、AWS CodeCommitが無効化された後の最適な移行オプションであり、生産性、セキュリティ、コラボレーションを強化し、自動化されたCI/CDとエンタープライズグレードのソフトウェア開発を強化する様々な統合ツールをサポートする、統合されたエンタープライズグレードの開発プラットフォームを提供します。</description>
       <pubDate>2024-08-27 16:00:36</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub Enterprise: The best migration path from AWS CodeCommit</title>
+      <link>https://github.blog/enterprise-software/collaboration/github-enterprise-the-best-migration-path-from-aws-codecommit/</link>
+      <description>GitHub Enterpriseは、AWS CodeCommitが無効化された後の最適な移行オプションであり、生産性、セキュリティ、コラボレーションを強化し、自動化されたCI/CDとエンタープライズグレードのソフトウェア開発を強化する様々な統合ツールをサポートする、統合されたエンタープライズグレードの開発プラットフォームを提供します。</description>
+      <pubDate>2024-08-27 16:00:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Secret remediation best practices</title>
+      <link>https://www.hashicorp.com/blog/secret-remediation-best-practices</link>
+      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールとプロセスの使用について説明し、HCP Vault Radarを使用した機密情報の修復の例を示します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
+      <pubDate>2024-08-27 16:00:00</pubDate>
     </item>
   
     <item>
@@ -188,6 +216,13 @@
     </item>
   
     <item>
+      <title>Cost-effective, incremental ETL with serverless compute for Delta Live Tables pipelines</title>
+      <link>https://www.databricks.com/blog/cost-effective-incremental-etl-serverless-compute-delta-live-tables-pipelines</link>
+      <description>dLTは、タスクのスケジューリング、スケーリング、モニタリングなどを自動化することでETL開発を簡素化し、データ品質を向上させます。サーバーレスコンピートは、より優れたコストパフォーマンスを実現し、インクリメンタルな処理をサポートし、スループットと信頼性を向上させます。サーバーレス・コンピュートにより、コストパフォーマンスが向上し、インクリメンタルな処理をサポートし、スループットと信頼性が向上します。自動垂直スケーリングとインクリメンタルリフレッシュにより、DLTはサーバーレスコンピュート上でより高速で安価なETLを可能にし、総所有コストを削減します。</description>
+      <pubDate>2024-08-27 10:27:24</pubDate>
+    </item>
+  
+    <item>
       <title>File uploads with Slim 4, tested with curl</title>
       <link>https://akrabat.com/file-uploads-with-slim-4-tested-with-curl/</link>
       <description>スリム 4 を使用したファイルのアップロードは、PSR-7 リクエストを使用するという点でスリム 3 と似ています。この記事では、簡単なファイルアップロードアプリケーションを作成し、curl でテストする方法を示します。また、ファイルサイズの制限の問題に対処する方法についても説明し、それに応じた解決策を提供します。</description>
@@ -288,6 +323,13 @@
     </item>
   
     <item>
+      <title>New unique package</title>
+      <link>https://go.dev/blog/unique</link>
+      <description>Go言語標準ライブラリのバージョン1.23では、メモリ効率を向上させるために、比較可能な値の正規化と重複排除を実装するための独自のパッケージが追加されました。このパッケージでは、内部マッピングとHandle[T]型によってメモリ管理を最適化しながら、あらゆる比較可能な型の値を正規化および重複排除することができます。例えば、net/netipパッケージでは、アドレス領域文字列の正規化と重複排除により、メモリフットプリントが削減され、比較効率が向上します。</description>
+      <pubDate>2024-08-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Hobbyists discover how to insert custom fonts into AI-generated images</title>
       <link>https://arstechnica.com/?p=2045327</link>
       <description>AI画像にカスタムフォントを挿入する方法を発見 FLUXのAI画像合成モデルでは、ユーザーはカスタムフォントでレンダリングされたテキストをAI画像生成に直接挿入することができ、AI画像愛好家に新たな創造の可能性を開きます。</description>
@@ -299,6 +341,13 @@
       <link>https://blogs.nvidia.com/blog/nim-microservices-generative-ai/</link>
       <description>NVIDIAは、高度な文化的・言語的流暢性を提供する主権AIアプリケーションをサポートするため、日本と台湾で4つの新しいNIMマイクロサービスを開始します。これらのマイクロサービスは、地域のニーズに合わせたコミュニティモデルをサポートし、地域の言語と文化遺産に基づいた正確な理解と改善された応答を通じて、ユーザーエクスペリエンスを向上させます。これらのサービスは、展開を加速し、パフォーマンスを向上させ、世界中の業界にわたる組織に必要なセキュリティを提供するように設計されています。</description>
       <pubDate>2024-08-26 21:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>A Comprehensive Guide to Understanding TypeScript Record Type</title>
+      <link>https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?utm_source=rss</link>
+      <description>TypeScriptのRecord型は、一貫した値型を持つオブジェクト構造の管理を簡素化します。このガイドでは、Recordの定義、構文、タプルなどの型との違いなど、Recordの基本について説明します。また、網羅的な大文字小文字の扱いや、列挙のマッピングなど、実際のシナリオにおけるRecordの使用方法を学びます。さらに、RecordをPartial型、Pick型、Readonly型などのユーティリティ型と組み合わせることで、高度な使い方を探ります。</description>
+      <pubDate>2024-08-26 20:00:24</pubDate>
     </item>
   
     <item>
