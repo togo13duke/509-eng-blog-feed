@@ -15,7 +15,7 @@
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -36,7 +36,7 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3での条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
@@ -64,7 +64,7 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
@@ -85,14 +85,14 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
-      <description>Auth0の社員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <description>Auth0の従業員であるDan Ariasは、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者の支持者としての経験を共有しています。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
       <pubDate>2024-08-26 14:48:00</pubDate>
     </item>
   
@@ -106,7 +106,7 @@
     <item>
       <title>Track and Analyze GitHub Star Growth With  Kandy and Kotlin DataFrame</title>
       <link>https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/</link>
-      <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API を通して取得され、Kotlin DataFrame を使って処理・可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
+      <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API から取得され、Kotlin DataFrame を使って処理され可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
       <pubDate>2024-08-26 14:37:54</pubDate>
     </item>
   
@@ -120,14 +120,14 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>Confluent Champion: The Power of a Learning Culture and Motivated Teams</title>
       <link>https://www.confluent.io/blog/confluent-champion-power-of-motivated-teams/</link>
-      <description>コンフレント・チャンピオンのジャニス・ホムは、チームワークと継続的な学習を通じて、コンフレントでどのように成功してきたかを語った。彼女は、リモートワークの柔軟性、データガバナンスとコンプライアンスへの貢献、イノベーションを奨励し、違いを尊重する企業文化の重要性を強調した。</description>
+      <description>コンフレント・チャンピオンのジャニス・ホムは、チームワークと継続的な学習を通じて、コンフレントでどのように成功してきたかを語っている。彼女は、リモートワークの柔軟性、データガバナンスとコンプライアンスへの貢献、イノベーションを奨励し、違いを尊重する企業文化の重要性を強調した。</description>
       <pubDate>2024-08-26 13:37:30</pubDate>
     </item>
   
@@ -162,7 +162,7 @@
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
-      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行する。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
       <pubDate>2024-08-26 12:45:13</pubDate>
     </item>
   
@@ -190,7 +190,7 @@
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
+      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示した。</description>
       <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
