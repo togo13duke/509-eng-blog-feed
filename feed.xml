@@ -6,177 +6,213 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Catch the Vision to Value Workshop Series on your own time</title>
+      <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <pubDate>2024-08-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Hobbyists discover how to insert custom fonts into AI-generated images</title>
       <link>https://arstechnica.com/?p=2045327</link>
       <description>AI画像にカスタムフォントを挿入する方法を発見 FLUXのAI画像合成モデルでは、ユーザーはカスタムフォントでレンダリングされたテキストをAI画像生成に直接挿入することができ、AI画像愛好家に新たな創造の可能性を開きます。</description>
+      <pubDate>2024-08-26 23:29:41</pubDate>
     </item>
   
     <item>
       <title>NVIDIA Launches NIM Microservices for Generative AI in Japan, Taiwan</title>
       <link>https://blogs.nvidia.com/blog/nim-microservices-generative-ai/</link>
       <description>NVIDIAは、高度な文化的・言語的流暢性を提供する主権AIアプリケーションをサポートするため、日本と台湾で4つの新しいNIMマイクロサービスを開始します。これらのマイクロサービスは、地域のニーズに合わせたコミュニティモデルをサポートし、地域の言語と文化遺産に基づいた正確な理解と改善された応答を通じて、ユーザーエクスペリエンスを向上させます。これらのサービスは、展開を加速し、パフォーマンスを向上させ、世界中の業界にわたる組織に必要なセキュリティを提供するように設計されています。</description>
+      <pubDate>2024-08-26 21:00:22</pubDate>
     </item>
   
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
       <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
     <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
       <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前学習済みの組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
+      <pubDate>2024-08-26 16:30:41</pubDate>
     </item>
   
     <item>
       <title>Optimizing AI Application Development with Docker Desktop and NVIDIA AI Workbench</title>
       <link>https://www.docker.com/blog/optimizing-ai-application-development-docker-desktop-nvidia-ai-workbench/</link>
       <description>Docker DesktopとNVIDIA AI Workbenchのコラボレーションは、AIアプリケーションの開発プロセスを最適化します。Docker Desktopは管理を簡素化するコンテナ化環境を提供し、NVIDIA AI Workbenchは強力なAI開発ツールを提供します。この統合により、開発者はアプリケーションにAIを簡単に導入し、イノベーションを加速させることができます。</description>
+      <pubDate>2024-08-26 16:00:54</pubDate>
     </item>
   
     <item>
       <title>NVIDIA Launches Array of New CUDA Libraries to Expand Accelerated Computing and Deliver Order-of-Magnitude Speedup to Science and Industrial Applications</title>
       <link>https://blogs.nvidia.com/blog/cuda-accelerated-computing-energy-efficiency/</link>
       <description>NVIDIAは、科学および産業アプリケーション向けに、加速された計算速度を劇的に向上させ、エネルギー消費とコストを削減する一連の新しいCUDAライブラリを発表した。NeMo Curator、cuVS、Polars GPU Engine、Warp、Aerial、Sionnaを含むこれらのライブラリは、データ処理、物理AI、ワイヤレスネットワークシミュレーションなどのタスクを高速化し、企業の高性能コンピューティングと持続可能性の実現を支援します。</description>
+      <pubDate>2024-08-26 16:00:49</pubDate>
     </item>
   
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
       <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
       <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法について説明します。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
+      <pubDate>2024-08-26 15:53:39</pubDate>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full table snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-table-snapshots-using-delta-live-tables</link>
       <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを処理する効率的な方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用して、順序付けられた一連のスナップショットを比較し、SCD タイプ 1 と SCD タイプ 2 を実装することで、外部リレーショナルデータベースを Databricks プラットフォームに同期する方法について説明します。 スナップショットを使用することで、データの変更を追跡し、データの一貫性を確保し、履歴データ分析をサポートすることが可能になります。スナップショットにより、データの変更を追跡し、データの一貫性を確保し、履歴データ分析をサポートすることが可能になります。</description>
+      <pubDate>2024-08-26 15:53:39</pubDate>
     </item>
   
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
       <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
       <description>Auth0の社員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <pubDate>2024-08-26 14:48:00</pubDate>
     </item>
   
     <item>
       <title>Readying business for the age of AI</title>
       <link>https://www.technologyreview.com/2024/08/26/1096349/readying-business-for-the-age-of-ai/</link>
       <description>AI技術の急速な進歩に伴い、組織は事業運営の効率化、顧客や従業員のエンゲージメント向上、意思決定の質の向上のためにAIを積極的に導入している。しかし、AIの導入を成功させるには、そのビジネス価値を理解し、強固なデータ基盤を構築し、組織の戦略目標に合致させ、ビジネスのあらゆるレベルで専門知識を注入する必要がある。同時に、データの品質、透明性、倫理基準を確保することは、AIシステムに対する信頼を築く上で極めて重要である。組織はアジャイル・アプローチを採用し、小規模なパイロット・プロジェクトから始めて、時間をかけてAIツールの採用を拡大し、最適なリターンを実現すべきである。</description>
+      <pubDate>2024-08-26 14:38:52</pubDate>
     </item>
   
     <item>
       <title>Track and Analyze GitHub Star Growth With  Kandy and Kotlin DataFrame</title>
       <link>https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/</link>
       <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API を通して取得され、Kotlin DataFrame を使って処理・可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
+      <pubDate>2024-08-26 14:37:54</pubDate>
     </item>
   
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
       <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
+      <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
       <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>Confluent Champion: The Power of a Learning Culture and Motivated Teams</title>
       <link>https://www.confluent.io/blog/confluent-champion-power-of-motivated-teams/</link>
       <description>コンフレント・チャンピオンのジャニス・ホムは、チームワークと継続的な学習を通じて、コンフレントでどのように成功してきたかを語った。彼女は、リモートワークの柔軟性、データガバナンスとコンプライアンスへの貢献、イノベーションを奨励し、違いを尊重する企業文化の重要性を強調した。</description>
+      <pubDate>2024-08-26 13:37:30</pubDate>
     </item>
   
     <item>
       <title>How to Fix ESLint Violations with AI Assistance</title>
       <link>https://www.docker.com/blog/how-to-fix-eslint-violations-with-ai-assistance/</link>
       <description>この記事では、ESLintのコード仕様の問題に対処するためにAIアシスタントがどのように使用できるかを探ります。この記事では、コード違反の修正を支援するAIツールの使用について説明し、ESLintルールの分析や文脈情報の処理など、AIアシスタントがコードエラーを特定し修正するためにどのように使用できるかを詳述する。コードレビューと最適化におけるAIの可能性が、実践的な例を通して示されている。</description>
+      <pubDate>2024-08-26 13:10:10</pubDate>
     </item>
   
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
       <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
+      <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
     <item>
       <title>Using Ray inside your Blade views</title>
       <link>https://freek.dev/2752-using-ray-inside-your-blade-views</link>
       <description>LaravelのBladeビューのRayを使用して、Freek Van der Hertenが彼の洞察と経験を共有し、現代のPHP開発者のための実践的なプログラミングのヒントとプロジェクト学習の洞察を提供します。</description>
+      <pubDate>2024-08-26 12:56:02</pubDate>
     </item>
   
     <item>
       <title>Custom Spring Boot Actuator Endpoint</title>
       <link>https://vladmihalcea.com/custom-spring-boot-actuator-endpoint/</link>
       <description>この記事では、カスタムメトリクスとイベントをエクスポートするための、カスタムSpring Boot Actuatorエンドポイントの作成方法について説明します。この設定と実装により、Java PersistenceとHibernateのパフォーマンス問題を監視し、Hypersistence Optimizerツールを使って最適化することができる。</description>
+      <pubDate>2024-08-26 12:46:45</pubDate>
     </item>
   
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
       <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <pubDate>2024-08-26 12:45:13</pubDate>
     </item>
   
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
       <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
     <item>
       <title>SwiftUI Previewable Macro</title>
       <link>https://useyourloaf.com/blog/swiftui-previewable-macro/</link>
       <description>SwiftUI の Previewable マクロは、望みの状態を含むラッパービューを自動的に生成することで、状態バインディングを持つビューのプレビュープロセスを簡略化し、手動でラッパービューを作成する退屈さを軽減します。Xcode 16 で利用可能なこのマクロは、開発者がプレビューで直接 @State 属性を宣言して使用することを可能にし、プレビューのインタラクティブ性と効率を改善します。</description>
+      <pubDate>2024-08-26 12:14:36</pubDate>
     </item>
   
     <item>
       <title>Launching to Lasting: Strategic Foundations for Startup Success</title>
       <link>https://spin.atomicobject.com/foundations-startup-success/</link>
       <description>スタートアップを成功させる鍵は、プロダクト・マーケット・フィットの検証、最小実行可能プロダクト（MVP）の構築、スピードとクオリティのバランス、そして効果的なビジネスのスケールにある。ユーザーのニーズを深く理解し、製品を迅速に反復し、アジャイル手法を採用することで、新興企業は持続可能な成長のための強固な基盤を築くことができる。</description>
+      <pubDate>2024-08-26 12:00:38</pubDate>
     </item>
   
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
       <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
+      <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
       <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係や性的態度に影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
     <item>
       <title>Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images</link>
       <description>Paketo Buildpacks と Red Hat UBI コンテナイメージを使用して OpenShift でアプリケーションを実行すると、ビルドとデプロイのプロセスを簡素化することで開発効率が向上します。この記事では、Paketo Buildpacks と Red Hat UBI コンテナーイメージを使用して OpenShift で Node.js または Java アプリケーションをビルドしてデプロイする方法について、クラスターのセットアップ、イメージのビルド、アプリケーションのデプロイの手順を含めて説明します。</description>
+      <pubDate>2024-08-26 07:00:00</pubDate>
     </item>
   
     <item>
       <title>CodeSOD: Compile It Yourself</title>
       <link>https://thedailywtf.com/articles/compile-it-yourself</link>
       <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#コード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながりかねないセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
+      <pubDate>2024-08-26 06:30:00</pubDate>
     </item>
   
     <item>
@@ -184,6 +220,7 @@
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
 本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
@@ -192,30 +229,42 @@
       <description>"邪悪な依存 "を手なずける方法
 
 ソフトウェアチーム間の依存関係は、大規模な組織では大きな問題である。この記事では、依存関係の原因の特定、依存関係の最小化、依存関係の影響の緩和、継続的な最適化など、依存関係に対処する方法を探る。クロスファンクショナルチーム、共通標準、全体的な製品フォーカスなどの戦略を採用することで、依存関係を効果的に管理し、チームの有効性とプロジェクトの成功を向上させることができる。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
       <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
       <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/2024-brave-migration-guide/</link>
       <description>Brave BrowserはIPFS Node機能のサポートを終了し、ユーザーはアクセスを維持するためにIPFS Desktopにデータを移行する必要があります。移行プロセスは迅速かつ簡単で、すべてのデータを保持し、より柔軟な機能を楽しむことができます。IPFS DesktopとIPFS Companionをインストールし、Brave IPFSリポジトリをガイドに従って移動する必要があります。完了すると、IPFS ノードは Brave ブラウザーを必要とせずに独立して実行されます。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     <item>
       <title>What the interns have wrought, 2024 edition</title>
       <link>https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/</link>
       <description>Arya Maheshwari は OCaml データ・フレーム・ライブラリ Camels を開発し、Arvin Ding はバイナリ・シリアライズ・プロトコルを最適化し、Alex Li は Limshare システムのデバッガをアップグレードしました。これらのプロジェクトは、インターン生の技術的スキルを実証するだけでなく、会社に実益をもたらした。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Server-side JavaScript logging</title>
+      <link>https://www.honeybadger.io/blog/server-side-js-logging/</link>
+      <description>サーバサイド JavaScript のロギングは、最新のウェブアプリケーション開発にとって重要であり、開発者が素早くエラーを見つけ、修正し、アプリケーションの信頼性を向上させるのに役立ちます。この記事では、組み込みのコンソールメソッド、カスタムロギングライブラリ、サードパーティのサービスの使用を含む、サーバーサイドロギングの基本的な概念、重要性、実装について説明します。ロギングによって、開発者はパフォーマンスを最適化し、ユーザーの行動を追跡し、アプリケーションの可観測性を向上させることができます。</description>
+      <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
     </channel>
