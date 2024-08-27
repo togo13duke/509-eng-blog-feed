@@ -71,14 +71,14 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
-      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法について説明します。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
+      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法を説明します。この方法は、変更データのフローを提供しないデータベース環境に適しています。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
       <pubDate>2024-08-26 15:53:39</pubDate>
     </item>
   
@@ -127,7 +127,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -148,7 +148,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明します。</description>
+      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -176,7 +176,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
@@ -211,7 +211,7 @@
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性さえある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
