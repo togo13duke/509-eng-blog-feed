@@ -15,7 +15,7 @@
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -43,7 +43,7 @@
     <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
-      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前に学習された組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
+      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前学習済みの組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
       <pubDate>2024-08-26 16:30:41</pubDate>
     </item>
   
@@ -85,14 +85,14 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
-      <description>Auth0の従業員であるDan Ariasは、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者の支持者としての経験を共有しています。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <description>Auth0の社員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
       <pubDate>2024-08-26 14:48:00</pubDate>
     </item>
   
@@ -113,14 +113,14 @@
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
-      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
+      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探ります。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -162,7 +162,7 @@
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
-      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行する。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
       <pubDate>2024-08-26 12:45:13</pubDate>
     </item>
   
@@ -190,7 +190,7 @@
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示した。</description>
+      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
       <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
@@ -226,7 +226,7 @@
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
-本稿では、ソフトウェア開発において依存関係をカプセル化することの重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
