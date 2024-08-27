@@ -6,10 +6,164 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Meta enforces purpose limitation via Privacy Aware Infrastructure at scale</title>
+      <link>https://engineering.fb.com/2024/08/27/security/privacy-aware-infrastructure-purpose-limitation-meta/</link>
+      <description>Metaは、ユーザーのプライバシーを保護するために、プライバシーを意識したインフラを通じて、目的の制限を大規模に実施します。このテクノロジーは、データフローをリアルタイムで監視し、データが明示された目的のみに使用されることを保証し、データフローシグナリングとパーミッションコントロールを使用してデータ資産を管理することにより、データ保護の有効性と拡張性を向上させます。</description>
+      <pubDate>2024-08-27 16:00:50</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub Enterprise: The best migration path from AWS CodeCommit</title>
+      <link>https://github.blog/news-insights/product-news/github-enterprise-the-best-migration-path-from-aws-codecommit/</link>
+      <description>GitHub Enterpriseは、AWS CodeCommitが無効化された後の最適な移行オプションであり、生産性、セキュリティ、コラボレーションを強化し、自動化されたCI/CDとエンタープライズグレードのソフトウェア開発を強化する様々な統合ツールをサポートする、統合されたエンタープライズグレードの開発プラットフォームを提供します。</description>
+      <pubDate>2024-08-27 16:00:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Content Plan: What You Need to Succeed</title>
+      <link>https://s14415.pcdn.co/blog/social-media-content-plan/</link>
+      <description>成功するソーシャルメディア・コンテンツ・プランを策定することは、ブランドの認知度を高め、マーケティング目標を達成するための鍵となる。まず、ソーシャルメディアの状況を理解し、ターゲットオーディエンスとコンテンツ戦略を特定する。次に、注目を集めるために、インタラクティブなテクニック、ユーザー生成コンテンツ、多様なコンテンツタイプを使用します。コンテンツプランニングと自動投稿のために、Brandwatchなどの適切なソーシャルメディア管理ツールを選択します。最後に、分析を通じてコンテンツを最適化し、ダイナミックなソーシャルメディア戦略を維持する。</description>
+      <pubDate>2024-08-27 15:49:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlock Real-Time Value from DynamoDB Data with Confluent's CDC Source Connector</title>
+      <link>https://www.confluent.io/blog/dynamodb-confluent-cdc-source-connector/</link>
+      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を減らすことで運用の複雑さを軽減し、開発者がインパクトのあるアプリケーションの構築に集中できるようにします。</description>
+      <pubDate>2024-08-27 15:40:58</pubDate>
+    </item>
+  
+    <item>
+      <title>What are Self-Organizing Maps?</title>
+      <link>https://galois.com/blog/2024/08/what-are-self-organizing-maps/</link>
+      <description>自己組織化マッピング（SOM）は、類似した変数を持つデータ点をクラスタリングするための機械学習アルゴリズムである。SOMは学習時にラベル付けされたデータを必要とせず、類似したデータ点を空間的にクラスタリングすることで最も類似したデータ点を特定する。SOMは他の機械学習アルゴリズムを凌駕し、学習速度が速いため、時間の経過とともに概念が変化するような状況において独自の優位性を発揮する。</description>
+      <pubDate>2024-08-27 15:23:32</pubDate>
+    </item>
+  
+    <item>
+      <title>The Developer’s Guide to Dreamforce 2024</title>
+      <link>https://developer.salesforce.com/blogs/2024/08/the-developers-guide-to-dreamforce-2024.html</link>
+      <description>Salesforce開発者に豊富な学習とネットワーキングの機会を提供するDreamforce 2024カンファレンスが開催されます。カンファレンスでは、主要な基調講演、開発者トラックセッション、技術ワークショップ、ハンズオンチャレンジが行われる。開発者は様々な技術ワークショップに参加し、AIやデータクラウドアプリケーションを強化するための最新のツールやAPIを学ぶことができる。また、直接参加できない参加者のために、ライブストリーミングやオンラインコンテンツも用意されている。</description>
+      <pubDate>2024-08-27 15:13:28</pubDate>
+    </item>
+  
+    <item>
+      <title>The power of purpose-built cloud infrastructure</title>
+      <link>https://www.technologyreview.com/2024/08/27/1102940/the-power-of-purpose-built-cloud-infrastructure/</link>
+      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティとコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
+      <pubDate>2024-08-27 14:15:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Hackers infect ISPs with malware that steals customers’ credentials</title>
+      <link>https://arstechnica.com/?p=2045401</link>
+      <description>悪意のあるハッカーが、致命的な脆弱性を利用して、少なくとも4つの米国のインターネット・サービス・プロバイダー（ISP）に感染し、下流の顧客から認証情報を盗み出した。この脆弱性は仮想化プラットフォームVersa Directorに存在し、ハッカーは "VersaMem "と呼ばれるカスタムウェブシェルをインストールすることでリモート管理者権限を取得し、ユーザーが認証情報を入力する際に情報を盗むことができました。脆弱性は修正されたものの、Black Lotus Labsはこの攻撃を重大なものと見なしている。</description>
+      <pubDate>2024-08-27 14:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>The Microsoft/IBM joint development was built on mutual respect, wait, is respect the right word?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240827-00/?p=110186</link>
+      <description>マイクロソフトとIBMの協力関係は相互の尊敬に基づいており、OS/2プロジェクトでの相違にもかかわらず、マイクロソフトの社員はIBMのエンジニアを「会社の方針にとらわれている」と評し、IBMのエンジニアはマイクロソフトの同僚を規律を欠いたハッカーの集団とみなしていた。</description>
+      <pubDate>2024-08-27 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using Astropy for Astronomy With Python</title>
+      <link>https://realpython.com/courses/astropy-astronomy/</link>
+      <description>このコースでは、PythonのライブラリAstropy、NumPy、Matplotlib、pandasを使い、2つの天文学入門問題を通して、惑星のコンジャンクションを見つけ、最適な観測時間をプロットする方法を学びます。天文学の概念、Astropyパッケージの使用法、データ処理、グラフ作成、Python警告モジュールなどを学習します。コースには19のレッスン、ビデオ字幕、完全なスクリプトが含まれ、証明書とリソースがダウンロードできます。</description>
+      <pubDate>2024-08-27 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ce qu’on ne m’avait pas dit sur le développement</title>
+      <link>https://blog.octo.com/ce-quon-ne-mavait-pas-dit-sur-le-developpement</link>
+      <description>この記事では、著者がソフトウェア開発の初心者からソフトウェア職人になるまでの道のりを紹介する。この記事では、著者がチームに参加し、TDD（テスト駆動開発）とソフトウェアクラフトマンシップを実践することで、コードの品質と開発効率を徐々に向上させていった過程を詳しく説明している。著者は、コードの保守性と可読性、チームワークと継続的学習の重要性を強調している。</description>
+      <pubDate>2024-08-27 13:59:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Streamlining Local Development with Dev Containers and Testcontainers Cloud</title>
+      <link>https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/</link>
+      <description>この記事では、開発コンテナ（devコンテナ）とTestcontainers Cloudを使用することで、ローカル開発環境を簡素化する方法について説明します。devコンテナはシームレスなプロジェクト開発に必要なすべてのツールと依存関係を提供し、Testcontainers Cloudはテストの信頼性と観測性を高めるリモートDocker環境を提供します。この組み合わせにより、ワークフローが合理化され、プロジェクトの一貫性と生産性が向上します。</description>
+      <pubDate>2024-08-27 13:21:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Better Molecules, Faster: NVIDIA NIM Agent Blueprint Redefines Hit Identification With Generative AI-Based Virtual Screening</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-nim-agent-blueprint-virtual-screening/</link>
+      <description>エヌビディア、ジェネレーティブAIを用いた仮想スクリーニングで創薬プロセスを加速するNIMエージェント・ブループリントを発表。NVIDIAのAIモデルとマイクロサービスは創薬をサポートし、より迅速で効率的な医薬品開発を可能にします。</description>
+      <pubDate>2024-08-27 13:00:12</pubDate>
+    </item>
+  
+    <item>
+      <title>From Prototype to Prompt: NVIDIA NIM Agent Blueprints Fast-Forward Next Wave of Enterprise Generative AI</title>
+      <link>https://blogs.nvidia.com/blog/nim-agent-blueprints/</link>
+      <description>NVIDIAは、企業がジェネレーティブなAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
+      <pubDate>2024-08-27 13:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Add Flexera’s State of the Cloud Report to Your Summer Reading List</title>
+      <link>https://blog.cloudera.com/add-flexeras-state-of-the-cloud-report-to-your-summer-reading-list/</link>
+      <description>FlexeraのState of the Cloud Reportによると、クラウド費用の管理は組織にとって最大の課題となっており、マルチクラウド戦略は成長を続けている一方で、機密データは依然としてローカルに保存されることが好まれています。Clouderaは唯一の真のハイブリッドプラットフォームとして、顧客がインフラを自由に選択できるようにし、データのセキュリティと可用性を確保しています。</description>
+      <pubDate>2024-08-27 13:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
+      <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
+      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
+      <pubDate>2024-08-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Predefined Roles: Strengthen Your Role-Based Access Control (RBAC) With Three New Roles</title>
+      <link>https://www.digitalocean.com/blog/introducing-new-predefined-roles-for-rbac</link>
+      <description>DigitalOceanは、役割ベースのアクセス制御（RBAC）を強化し、インフラストラクチャのセキュリティを向上させ、DigitalOceanリソースの制御を改善し、リスクを軽減するために、3つの新しい事前定義された役割を導入します。リソースモディファイア、請求書ビューア、リソースビューアを含むこれらの役割は、セキュリティ、効率性、コンプライアンス、および費用対効果を向上させるように設計されています。</description>
+      <pubDate>2024-08-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Terraform provider for Google Cloud 6.0 is now GA</title>
+      <link>https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-6-0-is-now-ga</link>
+      <description>HashiCorpはTerraform Google Cloud バージョン6.0をリリースし、リソースの表示と編集を簡素化する新しいタグのアップデートを行った。新機能には、プロバイダー定義機能、デフォルト属性タグ、拡張タグモデルのサポートが含まれます。このリリースでは、廃止された属性を削除しています。アップグレードする前に、変更履歴を確認することをお勧めします。</description>
+      <pubDate>2024-08-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>When everything fails, you can always trust the Laravel rescue helper</title>
+      <link>https://freek.dev/2753-when-everything-fails-you-can-always-trust-the-laravel-rescue-helper</link>
+      <description>Laravelのレスキュー・ヘルパーは、すべてのメソッドが失敗したときに頼りになるヘルパーです。Freek Van der Hertenは、PHP、Laravel、JavaScriptに関するプログラミングのヒントや経験をブログで紹介しています。</description>
+      <pubDate>2024-08-27 12:57:53</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: living for longer, and sex in the age of AI</title>
+      <link>https://www.technologyreview.com/2024/08/27/1103045/the-download-living-for-longer-and-sex-in-the-age-of-ai/</link>
+      <description>MITテクノロジーレビュー最新号は、人工知能時代における人間の長寿とセックスをテーマにしている。記事では、科学の進歩、社会的関心、巨額の投資がいかに長寿研究を後押ししているか、また、性描写のコンテンツ制作におけるAIの利用や倫理的問題についても探求している。また、AIロボットの動画や技術ニュースの要約なども取り上げている。</description>
+      <pubDate>2024-08-27 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Colocation and Why It Matters When You’re Optimizing for Alignment</title>
       <link>https://spin.atomicobject.com/colocation-alignment-software-team/</link>
       <description>コラボレイティブ・ポジショニングは、チームワークを最適化し、対面での作業を通じてコミュニケーションと信頼を向上させ、プロジェクトのエラーや手戻りを減らし、開発効率と製品品質を向上させる。</description>
       <pubDate>2024-08-27 12:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Monitoring: Essential Strategies for Online Success</title>
+      <link>https://s14415.pcdn.co/blog/social-media-monitoring/</link>
+      <description>ブランド・モニタリングが鍵：ソーシャルメディア上のブランド言及やトレンドをリアルタイムで追跡・分析することで、企業はレピュテーションを管理し、顧客エンゲージメントを向上させ、競合他社に差をつけることができます。ブランド・モニタリング・ソフトウェアやソーシャルメディア戦略など、適切なツールと戦略を使用することで、企業はオンラインプレゼンスを最適化し、ユーザー生成コンテンツから洞察を得て、ブランド価値と市場性を高めることができます。</description>
+      <pubDate>2024-08-27 11:24:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Monitoring: Essential Strategies for Online Success</title>
+      <link>https://www.brandwatch.com/blog/social-media-monitoring/</link>
+      <description>ブランド・モニタリングが鍵：ソーシャルメディア上のブランド言及やトレンドをリアルタイムで追跡・分析することで、企業はレピュテーションを管理し、顧客エンゲージメントを向上させ、競合他社を理解することができる。ブランド・モニタリング・ソフトウェアやソーシャルメディア戦略など、適切なツールと戦略を使用することで、企業はオンラインプレゼンスを最適化し、ユーザー生成コンテンツから洞察を得て、ブランド価値と市場競争力を高めることができます。</description>
+      <pubDate>2024-08-27 11:24:55</pubDate>
     </item>
   
     <item>
@@ -123,6 +277,13 @@
       <description>Laravel、Vue.js、Pusherでライブチャットアプリを構築する方法
 
 この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherのアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
+      <pubDate>2024-08-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>MiniJinja: Learnings from Building a Template Engine in Rust</title>
+      <link>http://lucumr.pocoo.org/2024/8/27/minijinja</link>
+      <description>Armin Ronacher氏が、HTMLやYAMLなどのテキストを生成するために設計されたJinja2テンプレートエンジンの実装であるテンプレートエンジンMiniJinjaをRustで構築した経験をブログ記事で紹介している。この記事では、メモリ管理、オブジェクトモデル、ASTコンパイラ、VMの構築など、MiniJinjaの設計と実装について詳しく説明しています。Ronacher氏は、循環参照やエラー処理など、動的言語における課題への対処方法についても触れています。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
