@@ -15,7 +15,7 @@
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -36,14 +36,14 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3での条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
     <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
-      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前学習済みの組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
+      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前に学習された組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
       <pubDate>2024-08-26 16:30:41</pubDate>
     </item>
   
@@ -64,7 +64,7 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
@@ -85,7 +85,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -141,7 +141,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requestsでは、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトを処理する方法について説明しています。</description>
+      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -162,7 +162,7 @@
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
-      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行する。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
       <pubDate>2024-08-26 12:45:13</pubDate>
     </item>
   
@@ -176,7 +176,7 @@
     <item>
       <title>SwiftUI Previewable Macro</title>
       <link>https://useyourloaf.com/blog/swiftui-previewable-macro/</link>
-      <description>SwiftUI の Previewable マクロは、望みの状態を含むラッパービューを自動的に生成することで、状態バインディングを持つビューのプレビュープロセスを簡略化し、手動でラッパービューを作成する退屈さを軽減します。Xcode 16 で利用可能なこのマクロは、開発者がプレビューで @State 属性を直接宣言して使用することを可能にし、プレビューのインタラクティブ性と効率を改善します。</description>
+      <description>SwiftUI の Previewable マクロは、望みの状態を含むラッパービューを自動的に生成することで、状態バインディングを持つビューのプレビュープロセスを簡略化し、手動でラッパービューを作成する退屈さを軽減します。Xcode 16 で利用可能なこのマクロは、開発者がプレビューで直接 @State 属性を宣言して使用することを可能にし、プレビューのインタラクティブ性と効率を改善します。</description>
       <pubDate>2024-08-26 12:14:36</pubDate>
     </item>
   
@@ -242,7 +242,7 @@
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
-      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFSセットアップを楽しむことができます。</description>
+      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
