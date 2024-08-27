@@ -99,7 +99,7 @@
     <item>
       <title>Chimera Sandbox: A scalable experimentation and development platform for Notebook services</title>
       <link>https://engineering.grab.com/chimera-sandbox</link>
-      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと幅広いML/AIツールを提供し、チーム間のコラボレーションとイノベーションを促進するように設計されています。</description>
+      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと、チーム間のコラボレーションとイノベーションを促進するために設計された幅広いML/AIツールを提供します。</description>
       <pubDate>2024-08-27 00:00:10</pubDate>
     </item>
   
@@ -192,7 +192,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -220,14 +220,14 @@
     <item>
       <title>Thoughts on finding the essential elements of a set</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181</link>
-      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探ります。</description>
+      <description>バイナリ検索アルゴリズムと再帰的手法により、コレクション内の重要な要素を見つけ、アイテムのコレクション内の必要な要素を効果的に特定し、冗長性を減らし、効率を向上させる方法を探る。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -297,7 +297,7 @@
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示した。</description>
+      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
       <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
@@ -311,7 +311,7 @@
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性さえある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
@@ -325,7 +325,7 @@
     <item>
       <title>CodeSOD: Compile It Yourself</title>
       <link>https://thedailywtf.com/articles/compile-it-yourself</link>
-      <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#のコード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながるセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
+      <description>医療機器のプロジェクトを引き継いだサリーは、前任の技術主任が開発のスピードアップのためにC#コード生成技術を使っていることを発見するが、この方法はコードの改ざんにつながりかねないセキュリティリスクをはらんでいた。技術責任者に悪意はなかったが、サリーはこのリスクを上司に指摘し、上司は懸念を示す。</description>
       <pubDate>2024-08-26 06:30:00</pubDate>
     </item>
   
@@ -333,7 +333,7 @@
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
-本稿では、ソフトウェア開発において依存関係をカプセル化することの重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
@@ -356,7 +356,7 @@
     <item>
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
-      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした、初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
+      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
