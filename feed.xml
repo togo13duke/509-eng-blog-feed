@@ -15,7 +15,7 @@
     <item>
       <title>Ray Kurzweil: Technology will let us fully realize our humanity</title>
       <link>https://www.technologyreview.com/2024/08/27/1096148/ray-kurzweil-futurist-ai-medicine-advances-freedom/</link>
-      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知作業において人間を凌駕するようになれば、物質的な豊かさと医学的な長寿に向けた科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
+      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知タスクで人間を凌駕するようになれば、物質的な豊かさと医療的な長寿を目指す科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
       <pubDate>2024-08-27 11:00:00</pubDate>
     </item>
   
@@ -43,7 +43,7 @@
     <item>
       <title>What will AI mean for economic inequality?</title>
       <link>https://www.technologyreview.com/2024/08/27/1096133/ai-economic-inequality-jobs-low-income/</link>
-      <description>AIの発展は経済的不平等の拡大につながる可能性がある。AIの研究開発は高所得国に集中しているため、高所得国は労働力不足に直面し、労働力不足を補うためにAIに過度に依存し、格差が拡大する可能性がある。同時に、貧困国のニーズに対応するためのAIの適用が相対的に遅れる可能性もある。AIの包括的な発展を確保するためには、AI研究開発への投資と労働力の流動化を促進するために、政府、開発銀行、慈善団体による協調的な取り組みが必要である。</description>
+      <description>AIの発展は経済的不平等の拡大につながる可能性がある。AIの研究開発は主に高所得国に集中しているため、高所得国は労働力不足に直面し、労働力不足を補うためにAIに過度に依存し、格差が拡大する可能性がある。同時に、貧困国のニーズに対応するためのAIの適用が相対的に遅れる可能性もある。AIの包括的な発展を確保するためには、AI研究開発への投資と労働力の流動化を促進するために、政府、開発銀行、慈善団体による協調的な取り組みが必要である。</description>
       <pubDate>2024-08-27 10:00:00</pubDate>
     </item>
   
@@ -106,7 +106,7 @@
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -143,7 +143,7 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
@@ -192,7 +192,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -227,7 +227,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -276,7 +276,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介などが含まれる。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
@@ -304,7 +304,7 @@
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
-      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより長く、より健康的に生きさせようとしている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
@@ -333,7 +333,7 @@
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
-本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+本稿では、ソフトウェア開発において依存関係をカプセル化することの重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
@@ -349,7 +349,7 @@
     <item>
       <title>Migrating from Brave to IPFS Desktop</title>
       <link>https://blog.ipfs.tech/_2024-brave-migration-guide/</link>
-      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFS設定を楽しむことができます。</description>
+      <description>この記事では、Brave BrowserからIPFS Desktopへの移行プロセスについて、移行の理由、所要時間、準備、移行手順、構成の調整方法などを説明します。移行後、ユーザーは引き続きIPFSリソースを使用し、より安定した柔軟なIPFSセットアップを楽しむことができます。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
