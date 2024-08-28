@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>“Exploitative”&nbsp;IT firm has been delaying 2,000 recruits’ onboarding for years</title>
+      <link>https://arstechnica.com/?p=2045697</link>
+      <description>インドのIT企業インフォシスは、2,000人の新入社員の入社を何年も遅らせ、繰り返し無給の「事前研修」を受けさせたとして、搾取の罪で告発された。</description>
+      <pubDate>2024-08-27 21:29:48</pubDate>
+    </item>
+  
+    <item>
       <title>A hundred years of curiosity</title>
       <link>https://www.technologyreview.com/2024/08/27/1095661/a-hundred-years-of-curiosity/</link>
       <description>ナチスから逃れ、収容所を経て、物理学、分子生物学、歴史学のバックグラウンドを持つ著名な科学者となったヨゼフ・アイジンガー博士の数奇な人生を、MITテクノロジーレビューが報じている。DNAの構造や鉛中毒の検出など、彼の研究は科学と公共政策に多大な影響を与えた。</description>
@@ -363,6 +370,13 @@
     </item>
   
     <item>
+      <title>How to Deploy Flask Applications on Vultr</title>
+      <link>https://www.sitepoint.com/how-to-deploy-flask-applications-on-vultr/?utm_source=rss</link>
+      <description>この記事では、VultrにFlaskアプリケーションをデプロイする方法を説明します。まず、Vultr のカスタマーポータルから最適化されたクラウドインスタンスをデプロイし、Python の仮想環境をセットアップします。次に、サンプルアプリケーションのコードファイルを追加し、Flask と Gunicorn のパッケージをインストールします。次に、Nginxをリバースプロキシとして設定し、Let's EncryptからHTTPS用の無料のSSL証明書をリクエストします。最後に、Gunicorn経由でサーバを起動し、アプリケーションを保護します。</description>
+      <pubDate>2024-08-27 05:32:03</pubDate>
+    </item>
+  
+    <item>
       <title>Where does Postgres fit in a world of GenAI and vector databases?</title>
       <link>https://stackoverflow.blog/2024/08/27/postgres-genai-vector-databases-timescale-open-source-db/</link>
       <description>PostgresはGenAIとベクターデータベースの世界で重要な役割を果たしています。この記事では、PostgresがGenAIのエコシステム、特にベクターデータベースにどのように適合しているのか、またGenAIプロジェクトをサポートするデータベースを選択する際に顧客が直面する「構築か購入か」の問題を探ります。著者のAvthar Sewrathanは、Postgresとの長い歴史を共有し、年次開発者調査におけるPostgresの人気について議論しています。</description>
@@ -417,6 +431,13 @@
       <title>August’s Staff Picks: Six Months of Recommendations!</title>
       <link>https://discord.com/blog/augusts-staff-picks-six-months-of-recommendations</link>
       <description>8月のスタッフおすすめゲーム：半年間のおすすめゲーム今月は、アレックス、エミ、コーディ、そして新人のジェレミーが、「ファイナルファンタジーXIV」、「ペーパーマリオ ミレニアムゲート HDリマスター」、「BTS Cooking On!ゲーム体験やお気に入りのゲームについて語り、読者からゲームのヒントを募集する。</description>
+      <pubDate>2024-08-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Drive up ROI and consumer trust with RCS, branded email, and branded calling</title>
+      <link>https://www.twilio.com/en-us/blog/drive-up-roi-consumer-trust-rcs-branded-communications</link>
+      <description>Twilioは、RCS、ブランデッドEメール、ブランデッド電話サービスにより、顧客の信頼とROIを向上させます。RCSは、ブランデッドロゴや認証済み送信者IDなどの強化されたメッセージング機能を提供し、ユーザーエクスペリエンスと信頼を向上させます。ブランドEメールと電話サービスは、ブランドの信頼とビジネスの成長を促進する認識可能なロゴにより、消費者の信頼を高めます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
