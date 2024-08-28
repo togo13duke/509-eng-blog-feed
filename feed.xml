@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Most Important Tool for Working with Legacy Code: Empathy</title>
+      <link>https://spin.atomicobject.com/legacy-code-empathy/</link>
+      <description>レガシーコードを扱う際に最も重要なツールは共感である。著者のAndrew Marmorstein氏は、コードの作者も同じように知的であると仮定し、コードがまだ本番稼動していることを認識し、その時点で利用可能な情報に基づいた最善の決定を尊重すべきだと強調している。コードの背後にある理由を理解することで、レガシーシステムをより良くリファクタリングし、改善することができる。</description>
+      <pubDate>2024-08-28 12:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>From the publisher: Commemorating 125 years</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096643/publishers-letter-elizabeth-bramson-boudreau-125-years/</link>
+      <description>MITテクノロジーレビューは創刊125周年を迎え、1899年の創刊以来の同誌の変遷を振り返る。技術開発に焦点を当てた創刊当初から、世界的に認知された独立系メディアとしての現在に至るまで、同誌は常に最新技術とそのビジネス、社会、政治的な影響について解説することに力を注いできた。デジタルトランスフォーメーションの真っ只中、本誌は読者に信頼できる技術的な洞察と情報を提供し続け、革新と創造性を刺激し、出版業界の新たな挑戦と機会に取り組んでいくことをお約束します。</description>
+      <pubDate>2024-08-28 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>African farmers are using private satellite data to improve crop yields</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096743/african-farmers-space-satellite-data-crop-yields/</link>
+      <description>EOSデータ・アナリティクスなどの企業が提供する衛星画像やデータにより、農家は作物に必要な情報をより正確に把握できるため、損失を減らし、収穫量を増やすことができる。この技術は、気候変動がもたらす課題に農家が対処できるよう、アフリカやその他の地域で再現されつつある。</description>
+      <pubDate>2024-08-28 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Job title of the future: Weather maker</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/</link>
+      <description>将来のキャリア：気象メーカーアメリカ西部の砂漠の町が夏の水不足に直面するなか、科学者フランク・マクドノーが率いるプロジェクトは、クラウド・シーディング技術によって冬の降雪量を増やすことで水不足を緩和しようとしている。この技術は、ヨウ化銀の粉末を雲に注入することで、水蒸気の凝縮を促進し、氷の結晶を作り、最終的に雪の結晶を形成するというものだ。クラウド・シーディングは、降雨量や降雪量を増やし、大気汚染や洪水のリスクを軽減する方法として世界的に注目されているが、マクドナーの研究によると、クラウド・シーディングによって降雪量を増やすことができ、農業、水力発電プロジェクト、都市の水利用にとって重要な意味を持つ。</description>
+      <pubDate>2024-08-28 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>This startup is making coffee without coffee beans</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096751/prefer-coffee-upcycling-fermentation/</link>
+      <description>シンガポールの新興企業プリファー・コーヒーは、発酵技術を使って食品廃棄物をコーヒーのような飲料に変え、従来のコーヒー生産による環境への影響と持続可能性に取り組んでいる。パン、豆腐かす、ビール麦芽などの廃棄物を使い、発酵と焙煎によってカフェインレスの代替コーヒーを作り、食品廃棄物と環境への影響の削減を目指している。</description>
+      <pubDate>2024-08-28 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Will computers ever feel responsible?</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096801/responsible-machines-computers-human-intelligent-decisions/</link>
+      <description>コンピュータは責任感を持てるのか？この記事では、人工知能の発展とその限界について探求し、AIは人間の知能を模倣することで大きな進歩を遂げたが、人間の身体や感情を持ち合わせていないため、本当の意味での責任感を持つことはできないと指摘している。ドレフュス兄弟の技能習得モデルを引き合いに出しながら、専門家である人間の意思決定者とAIの重要な違いは、責任感と身体的経験であることを強調している。要約すれば、AIは人間と同じような責任感を持つことはないだろうということだ。</description>
+      <pubDate>2024-08-28 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing DigitalOcean Spaces Object Storage: Now Available in London</title>
       <link>https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-london</link>
       <description>Spacesは、画像、ビデオ、バックアップを含む大規模な非構造化データストレージをサポートし、パフォーマンスを最適化し、ページのロード時間を短縮するために堅牢なCDNを統合しています。Spacesは、250GBのストレージと1TiBの送信帯域幅を含む柔軟な価格設定を月額5ドルから提供している。</description>
@@ -15,7 +57,7 @@
     <item>
       <title>AI’s growth needs the right interface</title>
       <link>https://www.technologyreview.com/2024/08/28/1096515/ai-interfaces-ux-growth/</link>
-      <description>AI開発には適切なインターフェースが必要だ。著者のクリフ・クアンは、現在のチャットボットベースのインターフェースには限界があり、真のチャンスはより直感的でインタラクティブなビジュアル・インターフェースにあると主張する。そのようなインターフェースは使いやすいだけでなく、ユーザーが自分のニーズに応じてカスタマイズし、改良することができる。将来的には、テクノロジーと個人のニーズとのより良い融合を実現するために、人々はインターフェースのデザインをよりコントロールできるようになるはずだ。</description>
+      <description>AI開発には適切なインターフェースが必要だ。著者のクリフ・クアンは、現在のチャットボットベースのインターフェースには限界があり、真のチャンスはより直感的でインタラクティブなビジュアル・インターフェースにあると主張する。そのようなインターフェースは使いやすいだけでなく、ユーザーが自分のニーズに応じてカスタマイズし、改良することができる。将来的には、テクノロジーと個人のニーズとのより良い統合を実現するために、人々はインターフェースのデザインをよりコントロールできるようになるはずだ。</description>
       <pubDate>2024-08-28 09:00:00</pubDate>
     </item>
   
@@ -55,6 +97,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: IsEmptyOrNullOrNullOrEmpty</title>
+      <link>https://thedailywtf.com/articles/isemptyornullornullorempty</link>
+      <description>レミー・ポーターがDaily WTFで "IsEmptyOrNullOrNullOrEmpty "という関数を取り上げ、その名前が関数と正反対であるためコードのロジックが混乱していると指摘している。この関数は実際には組み込み関数 "String.IsNullOrEmpty "のラッパーなのだが、誤解を招きやすい名前のためにコードが理解しづらくなっており、コード・ベースの深刻な問題を反映している。</description>
+      <pubDate>2024-08-28 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>“Exploitative”&nbsp;IT firm has been delaying 2,000 recruits’ onboarding for years</title>
       <link>https://arstechnica.com/?p=2045697</link>
       <description>インドのIT企業インフォシスは、2,000人の新入社員の入社を何年も遅らせ、繰り返し無給の「事前研修」を受けさせたとして、搾取の罪で告発された。</description>
@@ -78,7 +127,7 @@
     <item>
       <title>In molecules, one chemist sees art</title>
       <link>https://www.technologyreview.com/2024/08/27/1095673/in-molecules-one-chemist-sees-art/</link>
-      <description>マサチューセッツ工科大学（MIT）の化学博士課程の学生であるソ・ヨン・リーは、その創造性を分子設計に応用し、結核菌と闘うために設計されたAzFPMと呼ばれる分子の合成に成功した。この分子は細菌の細胞壁を貫通することができ、科学者や製薬会社に耐性菌と闘う新薬の開発に役立つ新しい研究ツールを提供する。</description>
+      <description>マサチューセッツ工科大学（MIT）の化学博士課程の学生ソ・ヨン・リーは、その創造性を分子設計に応用し、結核菌と闘うために設計されたAzFPMと呼ばれる分子の合成に成功した。この分子は細菌の細胞壁を貫通することができ、科学者や製薬会社に耐性菌と闘う新薬の開発に役立つ新しい研究ツールを提供する。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -120,7 +169,7 @@
     <item>
       <title>A tool that lets users fight misinformation online</title>
       <link>https://www.technologyreview.com/2024/08/27/1095980/a-tool-that-lets-users-fight-misinformation-online/</link>
-      <description>Trustnetブラウザ拡張ツールは、ユーザーがあらゆるウェブサイトのコンテンツの正確性を評価することを可能にし、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
+      <description>Trustnetブラウザ拡張機能により、ユーザーはあらゆるウェブサイトのコンテンツの正確性を評価することができ、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -134,7 +183,7 @@
     <item>
       <title>Debate over “open source AI” term brings new push to formalize definition</title>
       <link>https://arstechnica.com/?p=2045225</link>
-      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するためのベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
+      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
       <pubDate>2024-08-27 20:07:33</pubDate>
     </item>
   
@@ -197,14 +246,14 @@
     <item>
       <title>Unlock Real-Time Value from DynamoDB Data with Confluent's CDC Source Connector</title>
       <link>https://www.confluent.io/blog/dynamodb-confluent-cdc-source-connector/</link>
-      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を軽減することで運用の複雑さを軽減し、開発者はインパクトのあるアプリケーションの構築に集中することができます。</description>
+      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を減らすことで運用の複雑さを軽減し、開発者がインパクトのあるアプリケーションの構築に集中できるようにします。</description>
       <pubDate>2024-08-27 15:40:58</pubDate>
     </item>
   
     <item>
       <title>What are Self-Organizing Maps?</title>
       <link>https://galois.com/blog/2024/08/what-are-self-organizing-maps/</link>
-      <description>自己組織化マッピング（SOM）は、類似した変数を持つデータ点をクラスタリングするための機械学習アルゴリズムである。SOMは学習時にラベル付けされたデータを必要とせず、類似したデータ点を空間的にクラスタリングすることで最も類似したデータ点を特定する。SOMは他の機械学習アルゴリズムを凌駕し、学習速度が速いため、時間の経過とともに概念が変化するような状況において独自の優位性を発揮する。</description>
+      <description>自己組織化マッピング（SOM）は、類似した変数を持つデータ点をクラスタリングするための機械学習アルゴリズムである。SOMは学習中にラベル付けされたデータを必要とせず、類似したデータ点を空間的にクラスタリングすることで最も類似したデータ点を特定する。SOMは、他の機械学習アルゴリズムを凌駕し、学習速度が速いため、時間の経過とともに概念が変化する可能性がある状況において独自の利点を提供する。</description>
       <pubDate>2024-08-27 15:23:32</pubDate>
     </item>
   
@@ -218,7 +267,7 @@
     <item>
       <title>The power of purpose-built cloud infrastructure</title>
       <link>https://www.technologyreview.com/2024/08/27/1102940/the-power-of-purpose-built-cloud-infrastructure/</link>
-      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティとコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
+      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティおよびコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
       <pubDate>2024-08-27 14:15:18</pubDate>
     </item>
   
@@ -281,7 +330,7 @@
     <item>
       <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
       <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
-      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつ詳細に理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対処などの関連する課題に対処することで、感度をさらに向上させます。</description>
+      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
       <pubDate>2024-08-27 13:00:00</pubDate>
     </item>
   
@@ -302,7 +351,7 @@
     <item>
       <title>When everything fails, you can always trust the Laravel rescue helper</title>
       <link>https://freek.dev/2753-when-everything-fails-you-can-always-trust-the-laravel-rescue-helper</link>
-      <description>Laravelのレスキュー・ヘルパーは、すべてのメソッドが失敗したときに頼りになるヘルパーです。Freek Van der Hertenは、自身のブログでPHP、Laravel、JavaScriptに関するプログラミングのヒントや経験を共有しています。</description>
+      <description>Laravelのレスキュー・ヘルパーは、すべてのメソッドが失敗したときに頼りになるヘルパーです。Freek Van der Hertenは、PHP、Laravel、JavaScriptに関するプログラミングのヒントや経験をブログで紹介しています。</description>
       <pubDate>2024-08-27 12:57:53</pubDate>
     </item>
   
@@ -435,21 +484,21 @@
     <item>
       <title>Chimera Sandbox: A scalable experimentation and development platform for Notebook services</title>
       <link>https://engineering.grab.com/chimera-sandbox</link>
-      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと幅広いML/AIツールを提供し、チーム間のコラボレーションとイノベーションを促進するように設計されています。</description>
+      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと、チーム間のコラボレーションとイノベーションを促進するために設計された幅広いML/AIツールを提供します。</description>
       <pubDate>2024-08-27 00:00:10</pubDate>
     </item>
   
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
     <item>
       <title>Enabling Richer PWA Install UI on Desktop</title>
       <link>https://www.amitmerchant.com/enable-pwa-install-ui-on-desktop/</link>
-      <description>Amit Merchant氏のブログポストでは、デスクトップ上のPWAインストールUIにリッチなスクリーンショット機能を追加する方法について説明しています。manifest.jsonファイルにscreenshots属性を追加し、適切なsrc、type、sizes、form_factor属性を設定することで、デスクトップインストール時に高品質のスクリーンショットを表示し、ユーザーエクスペリエンスを向上させることができます。</description>
+      <description>Amit Merchant氏のブログ投稿では、デスクトップ上のPWAインストールUIにリッチなスクリーンショット機能を追加する方法について説明しています。manifest.jsonファイルにscreenshots属性を追加し、適切なsrc、type、sizes、form_factor属性を設定することで、デスクトップインストール時に高品質のスクリーンショットを表示し、ユーザーエクスペリエンスを向上させることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -521,7 +570,7 @@
     <item>
       <title>Announcing Hybrid Search General Availability in Mosaic AI Vector Search</title>
       <link>https://www.databricks.com/blog/announcing-hybrid-search-general-availability-mosaic-ai-vector-search</link>
-      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前学習済みの組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
+      <description>Databricksは、Mosaic AI Vector SearchのHybrid Searchの正式リリースを発表した。ハイブリッド検索は、ベクトル検索インデックスの上に学習済みのキーワード検索インデックスを追加することで、事前に学習された組み込みモデルとキーワード検索の利点を組み合わせ、検索結果の精度と再現性を向上させる。ユーザーは、特定の状況でより良い検索結果を得るためにクエリ・パラメータを微調整するだけで、ハイブリッド検索を有効にすることができる。</description>
       <pubDate>2024-08-26 16:30:41</pubDate>
     </item>
   
@@ -542,14 +591,14 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
     <item>
       <title>How to perform change data capture (CDC) from full database snapshots using Delta Live Tables</title>
       <link>https://www.databricks.com/blog/how-perform-change-data-capture-cdc-full-database-snapshots-using-delta-live-tables</link>
-      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法について説明します。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
+      <description>Databricks Delta Live Tables (DLT) は、特に変更データキャプチャ (CDC) を実行する際に、データストリームを効率的に処理する方法を提供します。この記事では、DLT の "APPLY CHANGES FROM SNAPSHOT" 機能を使用し、SCD タイプ 1 と SCD タイプ 2 の両方のデータベーススナップショットを比較することで、変更を特定し処理する方法を説明します。この方法は、変更データのフローを提供しないデータベース環境に適しています。このアプローチは、変更データのフローを提供しないデータベース環境に適しており、スナップショット管理を通じてデータを同期し、データの一貫性と正確性を確保する。</description>
       <pubDate>2024-08-26 15:53:39</pubDate>
     </item>
   
@@ -563,14 +612,14 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
-      <description>Auth0の従業員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者および開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <description>Auth0の従業員であるDan Ariasは、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者の支持者としての経験を共有しています。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
       <pubDate>2024-08-26 14:48:00</pubDate>
     </item>
   
@@ -584,7 +633,7 @@
     <item>
       <title>Track and Analyze GitHub Star Growth With  Kandy and Kotlin DataFrame</title>
       <link>https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/</link>
-      <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API を通して取得され、Kotlin DataFrame を使って処理・可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
+      <description>Kotlin DataFrame と Kandy ツールを使って、GitHub リポジトリの星の成長履歴を簡単に分析できます。データは GitHub GraphQL API から取得され、Kotlin DataFrame を使って処理され可視化されます。このアプローチは、プロジェクトの人気の経時的な変化を理解し、プロジェクトの関心に影響を与える重要なイベントを特定するのに役立ちます。チャートやアニメーションを作成することで、ユーザーのエンゲージメントやコミュニティとの交流をより深く理解することができます。</description>
       <pubDate>2024-08-26 14:37:54</pubDate>
     </item>
   
@@ -598,7 +647,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -619,7 +668,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
+      <description>Getting Started with GitHub: Merge Pull Requestsでは、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトを処理する方法について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -640,7 +689,7 @@
     <item>
       <title>How I automate electron-to-chromium updates</title>
       <link>https://kilianvalkhof.com/2024/electron/how-i-automate-electron-to-chromium-updates/</link>
-      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行し、手作業を減らしながらパッケージが常に最新であることを保証している。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
+      <description>Kilian Valkhof氏がElectronからChromiumへのアップデートプロセスを自動化する方法を紹介する。彼は開発者向けにElectronのバージョンをChromiumのバージョンにマッピングするNPMパッケージを管理している。セットアップを自動化することで、彼は依存関係を更新し、15分ごとにスクリプトを実行する。この自動化によって、アップデートのスピードが上がり、エラーが減り、多くのデータが節約された。</description>
       <pubDate>2024-08-26 12:45:13</pubDate>
     </item>
   
@@ -727,7 +776,7 @@
     <item>
       <title>2024 Leadership Council Survey</title>
       <link>https://blog.rust-lang.org/2024/08/26/council-survey.html</link>
-      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためのコミュニティからの提案を求める予定である。</description>
+      <description>2024年、ラスト・プロジェクト・リーダーシップ委員会は、プロジェクト・メンバーから委員会の活動に関するフィードバックを集めることを目的とした初の年次調査を実施した。アンケートの結果、大多数のメンバーが委員会の役割とプロジェクトガバナンスの強固な基盤を認識する一方、透明性の向上やコミュニケーションの効率化など、改善すべき点も明らかになりました。委員会は、フィードバックに照らしてその運営方法を調整し、そのプロセスを改善するためにコミュニティからの提案を求める予定である。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
