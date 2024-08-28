@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Design More Inclusive APIs</title>
+      <link>https://nordicapis.com/how-to-design-more-inclusive-apis/</link>
+      <description>よりインクルーシブなAPIを設計するには、言語や用語の明確さ、尊重、普遍的な理解、支援技術やデバイスのサポート、柔軟な認証やカスタマイズオプション、明確なサポートや文書に焦点を当てる必要があります。そうすることで、APIは世界中のユーザーにより良いサービスを提供し、技術的包摂とイノベーションを促進することができる。</description>
+      <pubDate>2024-08-28 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Monitoring Ansible Automation Platform using Prometheus, Node Exporter, and Grafana</title>
+      <link>https://developers.redhat.com/articles/2024/08/28/monitoring-ansible-automation-platform-using-prometheus-node-exporter-and</link>
+      <description>この記事では、Prometheus、Node Exporter、Grafana を使用して Red Hat Ansible Automation Platform を監視する方法について説明します。Prometheus、Node Exporter、Grafana をインストールして設定することで、AnsiblePrometheus、Node Exporter、Grafanaをインストールして設定することで、Ansible Automation Platformの監視が可能になります。</description>
+      <pubDate>2024-08-28 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>“Exploitative”&nbsp;IT firm has been delaying 2,000 recruits’ onboarding for years</title>
       <link>https://arstechnica.com/?p=2045697</link>
       <description>インドのIT企業インフォシスは、2,000人の新入社員の入社を何年も遅らせ、繰り返し無給の「事前研修」を受けさせたとして、搾取の罪で告発された。</description>
@@ -57,7 +71,7 @@
     <item>
       <title>How a butterfly’s scales are born</title>
       <link>https://www.technologyreview.com/2024/08/27/1095973/how-a-butterflys-scales-are-born/</link>
-      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
+      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアに役立つかもしれない。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -71,7 +85,7 @@
     <item>
       <title>A tool that lets users fight misinformation online</title>
       <link>https://www.technologyreview.com/2024/08/27/1095980/a-tool-that-lets-users-fight-misinformation-online/</link>
-      <description>Trustnetブラウザ拡張ツールは、ユーザーがあらゆるウェブサイトのコンテンツの正確性を評価することを可能にし、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
+      <description>Trustnetブラウザ拡張機能により、ユーザーはあらゆるウェブサイトのコンテンツの正確性を評価することができ、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -85,14 +99,14 @@
     <item>
       <title>Debate over “open source AI” term brings new push to formalize definition</title>
       <link>https://arstechnica.com/?p=2045225</link>
-      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するためのベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
+      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
       <pubDate>2024-08-27 20:07:33</pubDate>
     </item>
   
     <item>
       <title>Introducing the Pinecone .NET SDK</title>
       <link>https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/</link>
-      <description>Pinecone .NET SDKは、大規模なベクトルデータを効率的に処理し、クエリするために設計された強力なベクトルデータベースです。これにより、エンジニアやデータサイエンティストは、効率的な類似検索やランキングを行うベクトルベースのAIアプリケーションを簡単に構築できます。この記事では、アカウントのセットアップ、SDKのダウンロード、インデックスの作成、レコードの追加、レコードのクエリの手順など、Pinecone .NET SDKの使用方法に関する入門ガイドを提供します。</description>
+      <description>Pinecone .NET SDKは、大規模なベクトルデータを効率的に処理し、クエリするために設計された強力なベクトルデータベースです。エンジニアやデータサイエンティストは、効率的な類似検索やランキングのためのベクトルベースのAIアプリケーションを簡単に構築できます。この記事では、アカウントのセットアップ、SDKのダウンロード、インデックスの作成、レコードの追加、レコードのクエリの手順など、Pinecone .NET SDKの使用方法に関する入門ガイドを提供します。</description>
       <pubDate>2024-08-27 20:05:00</pubDate>
     </item>
   
@@ -134,7 +148,7 @@
     <item>
       <title>Secret remediation best practices</title>
       <link>https://www.hashicorp.com/blog/secret-remediation-best-practices</link>
-      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールとプロセスの使用について説明し、HCP Vault Radarを使用した機密情報の修復の例を示します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
+      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールやプロセスの使用に焦点を当て、HCP Vault Radarを使用した機密修復の例を紹介します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
       <pubDate>2024-08-27 16:00:00</pubDate>
     </item>
   
@@ -169,7 +183,7 @@
     <item>
       <title>The power of purpose-built cloud infrastructure</title>
       <link>https://www.technologyreview.com/2024/08/27/1102940/the-power-of-purpose-built-cloud-infrastructure/</link>
-      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティとコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
+      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティおよびコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
       <pubDate>2024-08-27 14:15:18</pubDate>
     </item>
   
@@ -218,7 +232,7 @@
     <item>
       <title>From Prototype to Prompt: NVIDIA NIM Agent Blueprints Fast-Forward Next Wave of Enterprise Generative AI</title>
       <link>https://blogs.nvidia.com/blog/nim-agent-blueprints/</link>
-      <description>NVIDIAは、企業がジェネレーティブなAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
+      <description>NVIDIAは、企業がジェネレーティブAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
       <pubDate>2024-08-27 13:00:11</pubDate>
     </item>
   
@@ -232,7 +246,7 @@
     <item>
       <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
       <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
-      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
+      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプル規模のミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
       <pubDate>2024-08-27 13:00:00</pubDate>
     </item>
   
@@ -409,7 +423,7 @@
       <link>https://www.twilio.com/en-us/blog/build-real-time-chat-app-laravel-vuejs-pusher</link>
       <description>Laravel、Vue.js、Pusherでライブチャットアプリを構築する方法
 
-この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherのアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
+この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -465,7 +479,7 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
@@ -493,7 +507,7 @@
     <item>
       <title>RETINAS: Real-Time Infrastructure Accounting for Sustainability</title>
       <link>https://engineering.fb.com/2024/08/26/data-infrastructure/retinas-real-time-infrastructure-accounting-for-sustainability/</link>
-      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標「リアルタイム・サーバー・フリート利用効率」を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
+      <description>メタ社は、2030年までにバリューチェーンにおけるネット・ゼロ・エミッションの達成を目指し、サーバー資源の利用効率をリアルタイムで監視することにより、二酸化炭素排出量の削減を目指すRETINASプロジェクトを立ち上げた。このプロジェクトでは、新しい指標であるReal-Time Server Fleet Utilisation Efficiency (RETINAS)を導入し、減価償却の概念を取り入れて、サーバーの信頼性、効率、寿命を評価することで、資源の利用を最適化し、二酸化炭素排出量を削減する。</description>
       <pubDate>2024-08-26 16:00:40</pubDate>
     </item>
   
@@ -514,7 +528,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -549,7 +563,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -570,7 +584,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
+      <description>Getting Started with GitHub: Merge Pull Requestsでは、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトを処理する方法について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -598,7 +612,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介が含まれます。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
@@ -655,7 +669,7 @@
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
-本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+本稿では、ソフトウェア開発において依存関係をカプセル化することの重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
