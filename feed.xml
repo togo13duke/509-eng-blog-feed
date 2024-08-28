@@ -6,10 +6,73 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Canada’s 2023 wildfires produced more emissions than fossil fuels in most countries</title>
+      <link>https://www.technologyreview.com/2024/08/28/1103186/canada-wildfire-emissions/</link>
+      <description>2023年のカナダの山火事は、ほとんどの国の化石燃料排出量を上回る排出量を生み出す。これらの山火事は6億4,700万トンの炭素を排出し、これがもし国であれば、中国、アメリカ、インドに次ぐ第4位となる。気候変動が山火事を悪化させ、それがさらに大量の温室効果ガスを放出するという悪循環に陥っているという研究結果もある。将来、カナダは気候変動に伴い、より多くの山火事に直面する可能性があり、気候目標を達成する上での課題となる。</description>
+      <pubDate>2024-08-28 15:07:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Identity Challenges for AI-Powered Applications</title>
+      <link>https://auth0.com/blog/identity-challenges-for-ai-powered-apps/</link>
+      <description>AIアプリケーションは、機密情報の漏洩、安全でないプラグイン設計、権限の乱用、クレデンシャルアクセスなど、アイデンティティセキュリティの課題に直面している。開発者は、AIアプリケーションをIDの脅威から守るために、アプリケーションの権限を制限し、権限委譲にOAuthを使用し、APIキーの使用を避けるべきである。</description>
+      <pubDate>2024-08-28 15:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Si vous ne priorisez pas, vous n'êtes pas agiles - Blocage n°2 : On ne priorise pas, on fait des promesses</title>
+      <link>https://blog.octo.com/si-vous-ne-savez-pas-prioriser-vous-n'etes-pas-agiles-partie-2</link>
+      <description>優先順位管理はアジャイル開発において重要であるが、多くの組織では、時期尚早なスコーピングや納期のために、効果的な優先順位付けができない。このようなやり方は、チームにプレッシャーを感じさせ、効率を低下させ、悪影響を及ぼす可能性がある。適切な優先順位付けの管理は、リスクを減らし、チームワークと効率を向上させるために、透明性と集団的な意思決定に基づくべきである。一緒にストーリーを語り、すべての決定が明確で曖昧でないようにすることで、チームのアカウンタビリティとコミットメントが構築され、より効果的なアジャイル開発につながります。</description>
+      <pubDate>2024-08-28 15:04:10</pubDate>
+    </item>
+  
+    <item>
+      <title>NVIDIA Blackwell Sets New Standard for Generative AI in MLPerf Inference Debut</title>
+      <link>https://blogs.nvidia.com/blog/mlperf-inference-benchmark-blackwell/</link>
+      <description>NVIDIAのBlackwellプラットフォームはMLPerf推論ベンチマークで優れた性能を発揮し、そのGPUはLlama 2 70Bモデルで最大4倍の性能向上を達成しました。NVIDIA Hopperアーキテクチャは複数のAIベンチマークで大きく前進し、NVIDIA H200 GPUはデータセンターカテゴリで優れた性能を発揮しました。さらに、NVIDIAのTriton推論サーバーとJetsonプラットフォームは、エッジAIとロボット工学で大きな進歩を遂げ、AI技術の革新と採用をさらに推進しました。</description>
+      <pubDate>2024-08-28 15:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Web Scraping With Scrapy and MongoDB</title>
+      <link>https://realpython.com/web-scraping-with-scrapy-and-mongodb/</link>
+      <description>このチュートリアルでは、ウェブクローリングにScrapyとMongoDBを使う方法を説明します。MongoDBはNoSQLデータベースとして構造化されたデータを保存することができ、クロールされたデータを保存するのに適しています。チュートリアルでは、Scrapyプロジェクトのセットアップ、ウェブクローラーの構築、データの抽出、MongoDBへの保存、クローラーのテストとデバッグの方法を詳しく説明します。Pythonとオブジェクト指向プログラミングの基本的な知識を持つ読者に適している。</description>
+      <pubDate>2024-08-28 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>More Than Fine: Multi-LoRA Support Now Available in NVIDIA RTX AI Toolkit</title>
+      <link>https://blogs.nvidia.com/blog/ai-decoded-multi-lora-rtx/</link>
+      <description>NVIDIAのRTX AI ToolkitにマルチLoRAサポートが追加され、微調整されたラージ・ランゲージ・モデル（LLM）を使用したパフォーマンスが最大6倍まで劇的に向上しました。このアップデートにより、開発者は複数のLoRAアダプタを同時に使用して、メモリフットプリントを抑えながら、特定のユースケースごとに必要な詳細を提供できるようになり、複雑なシナリオにおけるAIモデルの効率が向上します。</description>
+      <pubDate>2024-08-28 13:00:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Downsampling time series data</title>
+      <link>https://freek.dev/2754-downsampling-time-series-data</link>
+      <description>ユーザーエクスペリエンスとパフォーマンスのバランスをとるダウンサンプリング技術を使って時系列データを表示する方法を学びます。</description>
+      <pubDate>2024-08-28 12:30:38</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: introducing: the 125th Anniversary issue</title>
+      <link>https://www.technologyreview.com/2024/08/28/1103166/the-download-introducing-the-125th-anniversary-issue/</link>
+      <description>MITテクノロジーレビュー』創刊125周年記念号は、テクノロジーの未来予測に焦点を当て、人工知能、クリーンエネルギー、情報保全、健康長寿、遺伝子編集、バーチャルリアリティの動向を探るほか、米国のインターネットプロバイダーのハッキング、暗号通貨業界の力学、宇宙探査、犯罪報道における人工知能の活用、その他の時事ニュースについても報じている。</description>
+      <pubDate>2024-08-28 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Most Important Tool for Working with Legacy Code: Empathy</title>
       <link>https://spin.atomicobject.com/legacy-code-empathy/</link>
       <description>レガシーコードを扱う際に最も重要なツールは共感である。著者のAndrew Marmorstein氏は、コードの作者も同じように知的であると仮定し、コードがまだ本番稼動していることを認識し、その時点で利用可能な情報に基づいた最善の決定を尊重すべきだと強調している。コードの背後にある理由を理解することで、レガシーシステムをより良くリファクタリングし、改善することができる。</description>
       <pubDate>2024-08-28 12:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>5 steps to set up Vault for widespread adoption at your org</title>
+      <link>https://www.hashicorp.com/blog/5-steps-to-set-up-vault-for-widespread-adoption-at-your-org</link>
+      <description>本稿では、HashiCorp Vaultを組織内に展開し、開発者による鍵管理の導入を容易にするための5つのステップを説明する。まず、既存のアプリケーションと鍵の使用状況を調査し、アプリケーションを発見、評価する。次に、開発者がVaultとどのようにやり取りするかを決定し、ネームスペースとポリシーを設計する。次に、安全で反復可能なアプリケーション・ランディング・ゾーンを構築し、アクセラレータを使用して構成を簡素化する。最後に、鍵の移行とアプリケーションの更新を行い、Vaultとの統合をサポートします。</description>
+      <pubDate>2024-08-28 12:00:00</pubDate>
     </item>
   
     <item>
@@ -23,6 +86,13 @@
       <title>African farmers are using private satellite data to improve crop yields</title>
       <link>https://www.technologyreview.com/2024/08/28/1096743/african-farmers-space-satellite-data-crop-yields/</link>
       <description>EOSデータ・アナリティクスなどの企業が提供する衛星画像やデータにより、農家は作物に必要な情報をより正確に把握できるため、損失を減らし、収穫量を増やすことができる。この技術は、気候変動がもたらす課題に農家が対処できるよう、アフリカやその他の地域で再現されつつある。</description>
+      <pubDate>2024-08-28 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The year is 2149 and …</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096774/sean-michaels-2149-fiction-speculation/</link>
+      <description>2149年、人々の生活はソフトウェアによって正確に管理され、データは一元化されて広大な情報クラウドを形成していた。人工知能の "神々 "が知的指導を行うために現れたが、その後、一般大衆によって破壊された。社会は再編成され、電卓のようなシンプルな道具の使用に戻る。エンターテインメント産業はAIによって多くのカスタマイズされたコンテンツを生み出すが、不平等が残る。人々はテクノロジーが自分たちの生活に与える影響について考え始め、将来の世代のためにエンターテインメントの楽しみを犠牲にする人も出てくる。</description>
       <pubDate>2024-08-28 11:00:00</pubDate>
     </item>
   
@@ -43,7 +113,7 @@
     <item>
       <title>Will computers ever feel responsible?</title>
       <link>https://www.technologyreview.com/2024/08/28/1096801/responsible-machines-computers-human-intelligent-decisions/</link>
-      <description>コンピュータは責任感を持てるのか？この記事では、人工知能の発展とその限界について探求し、AIは人間の知能を模倣することで大きな進歩を遂げたが、人間の身体や感情を持ち合わせていないため、真の意味での責任感を持つことはできないと指摘している。ドレフュス兄弟の技能習得モデルを引き合いに出しながら、専門家である人間の意思決定者とAIの重要な違いは、責任感と身体的経験であることを強調している。要約すれば、AIは人間のような責任感を持つことはできないということだ。</description>
+      <description>コンピューターは責任感を持てるのか？この記事では、人工知能の発展とその限界について探求し、AIは人間の知能を模倣することで大きな進歩を遂げたが、人間の身体や感情を持ち合わせていないため、本当の意味での責任感を持つことはできないと指摘している。ドレフュス兄弟の技能習得モデルを引き合いに出しながら、専門家である人間の意思決定者とAIの重要な違いは、責任感と身体的経験であることを強調している。要約すれば、AIは人間と同じような責任感を持つことはないだろうということだ。</description>
       <pubDate>2024-08-28 10:00:00</pubDate>
     </item>
   
@@ -141,7 +211,7 @@
     <item>
       <title>Not just another band from Boston</title>
       <link>https://www.technologyreview.com/2024/08/27/1095835/not-just-another-band-from-boston/</link>
-      <description>マサチューセッツ工科大学（MIT）を卒業したエンジニアのトム・シュルツは、音楽への愛情とたゆまぬ努力によって、高校の学級委員長からロックスターへと転身し、バンド「ボストン」の芸術的・技術的中核となった。彼の最初のアルバムはプラチナ・ディスクを獲得し、数え切れないほどのファンに影響を与えた。マサチューセッツ工科大学（MIT）在学中、シュルツは機械工学の学位を取得しただけでなく、彼の音楽キャリアに大きな役割を果たすことになる革新的な考え方を身につけた。彼は自分の音楽的ビジョンに忠実であり続け、挫折に直面しても決してあきらめず、最終的には音楽プロデューサー、発明家、慈善家として成功を収めた。</description>
+      <description>マサチューセッツ工科大学（MIT）を卒業したエンジニアのトム・シュルツは、音楽への愛情とたゆまぬ努力によって、高校の学級委員長からロックスターへと転身し、バンド「ボストン」の芸術的・技術的中核となった。彼の最初のアルバムはプラチナ・ディスクを獲得し、数え切れないほどのファンに影響を与えた。マサチューセッツ工科大学（MIT）在学中、シュルツは機械工学の学位を取得しただけでなく、彼の音楽キャリアに大きな役割を果たすことになる革新的な考え方を身につけた。彼は自分の音楽的ビジョンに忠実であり続け、挫折に直面しても決して諦めず、最終的には音楽プロデューサー、発明家、慈善家として成功を収めた。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -155,7 +225,7 @@
     <item>
       <title>How a butterfly’s scales are born</title>
       <link>https://www.technologyreview.com/2024/08/27/1095973/how-a-butterflys-scales-are-born/</link>
-      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
+      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するようになる過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -246,7 +316,7 @@
     <item>
       <title>Unlock Real-Time Value from DynamoDB Data with Confluent's CDC Source Connector</title>
       <link>https://www.confluent.io/blog/dynamodb-confluent-cdc-source-connector/</link>
-      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を軽減することで運用の複雑さを軽減し、開発者はインパクトのあるアプリケーションの構築に集中することができます。</description>
+      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を減らすことで運用の複雑さを軽減し、開発者がインパクトのあるアプリケーションの構築に集中できるようにします。</description>
       <pubDate>2024-08-27 15:40:58</pubDate>
     </item>
   
@@ -316,7 +386,7 @@
     <item>
       <title>From Prototype to Prompt: NVIDIA NIM Agent Blueprints Fast-Forward Next Wave of Enterprise Generative AI</title>
       <link>https://blogs.nvidia.com/blog/nim-agent-blueprints/</link>
-      <description>NVIDIAは、企業がジェネレーティブAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
+      <description>NVIDIAは、企業がジェネレーティブなAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
       <pubDate>2024-08-27 13:00:11</pubDate>
     </item>
   
@@ -330,7 +400,7 @@
     <item>
       <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
       <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
-      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加の問題への対処など、関連する課題に対処することで、感度をさらに向上させます。</description>
+      <description>DoorDashは、従来の手法の100倍以上の感度を持つインターリーブ設計によって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプル規模のミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
       <pubDate>2024-08-27 13:00:00</pubDate>
     </item>
   
@@ -507,7 +577,7 @@
       <link>https://www.twilio.com/en-us/blog/build-real-time-chat-app-laravel-vuejs-pusher</link>
       <description>Laravel、Vue.js、Pusherでライブチャットアプリを構築する方法
 
-この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
+この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherのアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -647,7 +717,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -668,7 +738,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requestsでは、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトを処理する方法について説明しています。</description>
+      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -731,7 +801,7 @@
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性さえある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
@@ -753,7 +823,7 @@
       <title>Wrap your dependencies</title>
       <link>https://thoughtbot.com/blog/wrap-your-dependencies</link>
       <description>要約
-本稿では、ソフトウェア開発において依存関係をカプセル化することの重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
+本稿では、ソフトウェア開発における依存関係のカプセル化の重要性について検討した。ビヘイビアを関数、モジュール、クラス、またはStimulusコントローラにカプセル化することで、統一されたインターフェイスを定義し、テストを簡素化し、基礎となる実装の置き換えを容易にすることができます。そうすることで、コードの柔軟性と保守性が向上します。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
@@ -790,7 +860,7 @@
     <item>
       <title>What the interns have wrought, 2024 edition</title>
       <link>https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/</link>
-      <description>Arya Maheshwari は OCaml データ・フレーム・ライブラリ Camels を開発し、Arvin Ding はバイナリ・シリアライズ・プロトコルを最適化し、Alex Li は Limshare システムのデバッガをアップグレードしました。これらのプロジェクトは、インターン生の技術的なスキルを実証するだけでなく、会社に実益をもたらした。</description>
+      <description>Arya Maheshwari は OCaml データ・フレーム・ライブラリ Camels を開発し、Arvin Ding はバイナリ・シリアライズ・プロトコルを最適化し、Alex Li は Limshare システムのデバッガをアップグレードしました。これらのプロジェクトは、インターン生の技術的スキルを実証するだけでなく、会社に実益をもたらした。</description>
       <pubDate>2024-08-26 00:00:00</pubDate>
     </item>
   
