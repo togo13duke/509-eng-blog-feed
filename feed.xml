@@ -225,7 +225,7 @@
     <item>
       <title>How a butterfly’s scales are born</title>
       <link>https://www.technologyreview.com/2024/08/27/1095973/how-a-butterflys-scales-are-born/</link>
-      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するようになる過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
+      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -351,7 +351,7 @@
     <item>
       <title>The Microsoft/IBM joint development was built on mutual respect, wait, is respect the right word?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20240827-00/?p=110186</link>
-      <description>マイクロソフトとIBMの協力関係は相互の尊敬に基づいており、OS/2プロジェクトでの相違にもかかわらず、マイクロソフトの社員はIBMのエンジニアを「会社の方針にとらわれている」と評し、IBMのエンジニアはマイクロソフトの同僚を規律知らずのハッカー集団とみなしていた。</description>
+      <description>マイクロソフトとIBMの協力関係は相互の尊敬に基づいており、OS/2プロジェクトでの相違にもかかわらず、マイクロソフトの社員はIBMのエンジニアを「会社の方針にとらわれている」と評し、IBMのエンジニアはマイクロソフトの同僚を規律を欠いたハッカーの集団とみなしていた。</description>
       <pubDate>2024-08-27 14:00:00</pubDate>
     </item>
   
@@ -400,7 +400,7 @@
     <item>
       <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
       <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
-      <description>DoorDashは、従来の手法の100倍以上の感度を持つインターリーブ設計によって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプル規模のミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
+      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
       <pubDate>2024-08-27 13:00:00</pubDate>
     </item>
   
@@ -717,7 +717,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -794,7 +794,7 @@
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
-      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより長く、より健康的に生きさせようとしている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
