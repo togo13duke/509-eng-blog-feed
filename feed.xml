@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing DigitalOcean Spaces Object Storage: Now Available in London</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-london</link>
+      <description>Spacesは、画像、ビデオ、バックアップを含む大規模な非構造化データストレージをサポートし、パフォーマンスを最適化し、ページのロード時間を短縮するために堅牢なCDNを統合しています。Spacesは、250GBのストレージと1TiBの送信帯域幅を含む柔軟な価格設定を月額5ドルから提供している。</description>
+      <pubDate>2024-08-28 09:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI’s growth needs the right interface</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096515/ai-interfaces-ux-growth/</link>
+      <description>AI開発には適切なインターフェースが必要だ。著者のクリフ・クアンは、現在のチャットボットベースのインターフェースには限界があり、真のチャンスはより直感的でインタラクティブなビジュアル・インターフェースにあると主張する。そのようなインターフェースは使いやすいだけでなく、ユーザーが自分のニーズに応じてカスタマイズし、改良することができる。将来的には、テクノロジーと個人のニーズとのより良い融合を実現するために、人々はインターフェースのデザインをよりコントロールできるようになるはずだ。</description>
+      <pubDate>2024-08-28 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The author who listens to the sound of the cosmos</title>
+      <link>https://www.technologyreview.com/2024/08/28/1096757/book-reviews-sound-land-sea/</link>
+      <description>宇宙の音を聴く』は、陸上、海洋、そして人間の脳における音の不思議を探求する。音響生態学者バーニー・クラウスの「生態音響学」理論を分析し、生態系における音の重要性、人間と自然の音との関係について述べている。また、宇宙、海洋、人間の脳における音の謎、さらに音楽が人間の感情や記憶に与える影響についても探求している。</description>
+      <pubDate>2024-08-28 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>From the editor</title>
+      <link>https://www.technologyreview.com/2024/08/28/1097178/editors-letter-mat-honan-125-years/</link>
+      <description>創刊125周年を迎えたMITテクノロジーレビューは、技術予測の精度を振り返り、次の125年に何が待ち受けているかを考察している。クリーンエネルギー、情報保全、遺伝子編集、人工知能などの分野における今後の動向を探るとともに、技術革新や気候危機への対応における個人の重要性を強調している。</description>
+      <pubDate>2024-08-28 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimizing Kubernetes resources with Horizontal Pod Autoscaling via Custom Metrics and the…</title>
+      <link>https://deezer.io/optimizing-kubernetes-resources-with-horizontal-pod-autoscaling-via-custom-metrics-and-the-a76c1a66ff1c?source=rss----2ab7e077175a---4</link>
+      <description>この記事では、HPA（Horizontal Pod Auto Scaling）のためにカスタムメトリクスとPrometheusアダプタを使用してKubernetesリソースを最適化する方法について説明します。この記事では、まずKubernetesとHPAの基本的な概念について紹介し、次にPrometheusとPrometheusアダプタを使用してカスタムメトリクスを収集・活用し、アプリケーションの自動スケーリング動作をより正確に制御する方法について詳しく説明します。最後に、カスタムメトリクスを使用したHPAリソースの作成と使用方法を実例で紹介します。</description>
+      <pubDate>2024-08-28 08:11:24</pubDate>
+    </item>
+  
+    <item>
       <title>How to Design More Inclusive APIs</title>
       <link>https://nordicapis.com/how-to-design-more-inclusive-apis/</link>
       <description>よりインクルーシブなAPIを設計するには、言語や用語の明確さ、尊重、普遍的な理解、支援技術やデバイスのサポート、柔軟な認証やカスタマイズオプション、明確なサポートや文書に焦点を当てる必要があります。そうすることで、APIは世界中のユーザーにより良いサービスを提供し、技術的包摂とイノベーションを促進することができる。</description>
@@ -71,7 +106,7 @@
     <item>
       <title>How a butterfly’s scales are born</title>
       <link>https://www.technologyreview.com/2024/08/27/1095973/how-a-butterflys-scales-are-born/</link>
-      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアに役立つかもしれない。</description>
+      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -85,7 +120,7 @@
     <item>
       <title>A tool that lets users fight misinformation online</title>
       <link>https://www.technologyreview.com/2024/08/27/1095980/a-tool-that-lets-users-fight-misinformation-online/</link>
-      <description>Trustnetブラウザ拡張機能により、ユーザーはあらゆるウェブサイトのコンテンツの正確性を評価することができ、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
+      <description>Trustnetブラウザ拡張ツールは、ユーザーがあらゆるウェブサイトのコンテンツの正確性を評価することを可能にし、ウェブ上の偽情報と戦うために信頼できる情報源を特定するのに役立つ。MITのDavid Karger教授とミシガン大学のFarnaz Jahanbakhsh助教授が開発したこのツールは、ボタンをクリックするだけでサイドパネルを開き、コンテンツをマークアップし、他のユーザーの評価を見ることができる。訓練を受けていないユーザーもこのツールを効果的に使うことができ、批判的思考に貢献することが研究で示されている。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -99,14 +134,14 @@
     <item>
       <title>Debate over “open source AI” term brings new push to formalize definition</title>
       <link>https://arstechnica.com/?p=2045225</link>
-      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
+      <description>オープンソースAIの定義をめぐる争いは、オープンソース・イニシアティブ（OSI）による最新の草案の発表によって正式に決定された。草案は、AIシステムの使用、研究、修正、共有という「4つの基本的自由」を強調し、AIシステムを評価するためのベンチマークを提供し、透明性とイノベーションを促進することを目指している。</description>
       <pubDate>2024-08-27 20:07:33</pubDate>
     </item>
   
     <item>
       <title>Introducing the Pinecone .NET SDK</title>
       <link>https://devblogs.microsoft.com/dotnet/introducing-pinecone-dotnet-sdk/</link>
-      <description>Pinecone .NET SDKは、大規模なベクトルデータを効率的に処理し、クエリするために設計された強力なベクトルデータベースです。エンジニアやデータサイエンティストは、効率的な類似検索やランキングのためのベクトルベースのAIアプリケーションを簡単に構築できます。この記事では、アカウントのセットアップ、SDKのダウンロード、インデックスの作成、レコードの追加、レコードのクエリの手順など、Pinecone .NET SDKの使用方法に関する入門ガイドを提供します。</description>
+      <description>Pinecone .NET SDKは、大規模なベクトルデータを効率的に処理し、クエリするために設計された強力なベクトルデータベースです。これにより、エンジニアやデータサイエンティストは、効率的な類似検索やランキングを行うベクトルベースのAIアプリケーションを簡単に構築できます。この記事では、アカウントのセットアップ、SDKのダウンロード、インデックスの作成、レコードの追加、レコードのクエリの手順など、Pinecone .NET SDKの使用方法に関する入門ガイドを提供します。</description>
       <pubDate>2024-08-27 20:05:00</pubDate>
     </item>
   
@@ -148,7 +183,7 @@
     <item>
       <title>Secret remediation best practices</title>
       <link>https://www.hashicorp.com/blog/secret-remediation-best-practices</link>
-      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールやプロセスの使用に焦点を当て、HCP Vault Radarを使用した機密修復の例を紹介します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
+      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールとプロセスの使用について説明し、HCP Vault Radarを使用した機密情報の修復の例を示します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
       <pubDate>2024-08-27 16:00:00</pubDate>
     </item>
   
@@ -162,7 +197,7 @@
     <item>
       <title>Unlock Real-Time Value from DynamoDB Data with Confluent's CDC Source Connector</title>
       <link>https://www.confluent.io/blog/dynamodb-confluent-cdc-source-connector/</link>
-      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を減らすことで運用の複雑さを軽減し、開発者がインパクトのあるアプリケーションの構築に集中できるようにします。</description>
+      <description>Confluent Cloud の Amazon DynamoDB CDC Source Connector は、コード統合なしに DynamoDB から Confluent データフロープラットフォームへのデータ変更の取り込みと転送のプロセスを簡素化し、複数のテーブルと複数の使用パターンをサポートし、開発効率を向上させ、データ保護を強化します。このコネクターはインフラ管理を軽減することで運用の複雑さを軽減し、開発者はインパクトのあるアプリケーションの構築に集中することができます。</description>
       <pubDate>2024-08-27 15:40:58</pubDate>
     </item>
   
@@ -183,14 +218,14 @@
     <item>
       <title>The power of purpose-built cloud infrastructure</title>
       <link>https://www.technologyreview.com/2024/08/27/1102940/the-power-of-purpose-built-cloud-infrastructure/</link>
-      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティおよびコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
+      <description>特定のニーズに合わせて構築されたクラウド・インフラは、組織が必要とする柔軟性と俊敏性を確保しながら、クラウドのメリットを提供することができる。人工知能の推進に伴い、組織におけるクラウドへの移行ニーズは高まり続けているが、コスト、パフォーマンス、スケーラビリティを最適化するためには、ビジネスニーズに基づいて適切なクラウドインフラを選択する必要がある。このインフラは、高性能アプリケーションをサポートし、高度に規制された業界のセキュリティとコンプライアンス基準を満たし、最新のクラウドネイティブなワークロードの複雑性をサポートすることができます。</description>
       <pubDate>2024-08-27 14:15:18</pubDate>
     </item>
   
     <item>
       <title>Hackers infect ISPs with malware that steals customers’ credentials</title>
       <link>https://arstechnica.com/?p=2045401</link>
-      <description>悪意のあるハッカーが、致命的な脆弱性を利用して、少なくとも4つの米国のインターネット・サービス・プロバイダー（ISP）に感染し、下流の顧客から認証情報を盗み出した。この脆弱性は仮想化プラットフォームVersa Directorに存在し、ハッカーは "VersaMem "と呼ばれるカスタムウェブシェルをインストールすることでリモート管理者権限を取得し、ユーザーが認証情報を入力する際に情報を盗むことができました。脆弱性は修正されたものの、Black Lotus Labsはこの攻撃を重大なものと見なしている。</description>
+      <description>悪意のあるハッカーが、致命的な脆弱性を利用して、少なくとも4つの米国のインターネット・サービス・プロバイダー（ISP）に感染し、下流の顧客から認証情報を盗み出した。この脆弱性は仮想化プラットフォームVersa Directorに存在し、ハッカーは "VersaMem "と呼ばれるカスタムウェブシェルをインストールすることでリモート管理者権限を取得し、ユーザーが認証情報を入力する際に情報を盗み出すことができました。脆弱性は修正されたものの、Black Lotus Labsはこの攻撃を重大なものと見なしている。</description>
       <pubDate>2024-08-27 14:00:58</pubDate>
     </item>
   
@@ -232,7 +267,7 @@
     <item>
       <title>From Prototype to Prompt: NVIDIA NIM Agent Blueprints Fast-Forward Next Wave of Enterprise Generative AI</title>
       <link>https://blogs.nvidia.com/blog/nim-agent-blueprints/</link>
-      <description>NVIDIAは、企業がジェネレーティブAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
+      <description>NVIDIAは、企業がジェネレーティブなAIアプリケーションを迅速に構築できるよう、NIM Agentブループリントをリリースしました。これらのブループリントには、リファレンスコード、カスタムドキュメント、デプロイメントガイドなど、カスタムAIアプリケーションの構築とデプロイに必要なすべてが含まれています。これらのブループリントにより、企業はNVIDIAのAIツールと開発経験を活用して生産性を向上させ、ビジネス革新を推進することができます。</description>
       <pubDate>2024-08-27 13:00:11</pubDate>
     </item>
   
@@ -246,7 +281,7 @@
     <item>
       <title>How DoorDash is pushing experimentation boundaries with interleaving designs</title>
       <link>https://doordash.engineering/2024/08/27/doordash-experimentation-with-interleaving-designs/</link>
-      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつきめ細かく理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプル規模のミスマッチや非参加への対応など、関連する課題に対処することで、感度をさらに向上させます。</description>
+      <description>DoorDashは、従来の方法の100倍以上の感度を持つインターリーブ・デザインによって実験の限界を押し広げることで、実験の感度を大幅に向上させます。このアプローチは、同じユーザーに対して複数の条件を同時にテストすることで、ユーザーの嗜好をより正確かつ詳細に理解し、より迅速な反復と信頼性の向上につながります。DoorDashは、デザインを最適化し、サンプルスケールのミスマッチや非参加への対処などの関連する課題に対処することで、感度をさらに向上させます。</description>
       <pubDate>2024-08-27 13:00:00</pubDate>
     </item>
   
@@ -267,7 +302,7 @@
     <item>
       <title>When everything fails, you can always trust the Laravel rescue helper</title>
       <link>https://freek.dev/2753-when-everything-fails-you-can-always-trust-the-laravel-rescue-helper</link>
-      <description>Laravelのレスキュー・ヘルパーは、すべてのメソッドが失敗したときに頼りになるヘルパーです。Freek Van der Hertenは、PHP、Laravel、JavaScriptに関するプログラミングのヒントや経験をブログで紹介しています。</description>
+      <description>Laravelのレスキュー・ヘルパーは、すべてのメソッドが失敗したときに頼りになるヘルパーです。Freek Van der Hertenは、自身のブログでPHP、Laravel、JavaScriptに関するプログラミングのヒントや経験を共有しています。</description>
       <pubDate>2024-08-27 12:57:53</pubDate>
     </item>
   
@@ -400,21 +435,21 @@
     <item>
       <title>Chimera Sandbox: A scalable experimentation and development platform for Notebook services</title>
       <link>https://engineering.grab.com/chimera-sandbox</link>
-      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと、チーム間のコラボレーションとイノベーションを促進するために設計された幅広いML/AIツールを提供します。</description>
+      <description>Chimera Sandboxは、機械学習（ML）モデルの革新と改善を加速するために設計された、スケーラブルな実験・開発プラットフォームです。Chimera Sandboxは、CPUとGPUリソースをサポートするだけでなく、Sparkと深く統合し、AIギャラリーと幅広いML/AIツールを提供し、チーム間のコラボレーションとイノベーションを促進するように設計されています。</description>
       <pubDate>2024-08-27 00:00:10</pubDate>
     </item>
   
     <item>
       <title>Catch the Vision to Value Workshop Series on your own time</title>
       <link>https://thoughtbot.com/blog/catch-the-vision-to-value-workshop-series-on-your-own-time</link>
-      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自のバリュー・プロポジションの構築、MVP（Minimum Viable Product）プランの策定を参加者に指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
+      <description>thoughtbotは、起業アイデアを持つ人々を支援する「Vision to Value」ワークショップシリーズを開始しました。経験豊富なプロダクト・ストラテジストが講師を務めるこのワークショップでは、ターゲット市場の特定、独自の価値提案の構築、MVP（Minimum Viable Product）プランの策定について参加者を指導します。ワークショップでは、「前提条件とクリティカル・パス」、「市場セグメンテーション」、「メッセージと市場のマッチング」、「製品フォーカス」の4つのトピックを取り上げる。参加者は、いつでも結果を見たり、共有したりすることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
     <item>
       <title>Enabling Richer PWA Install UI on Desktop</title>
       <link>https://www.amitmerchant.com/enable-pwa-install-ui-on-desktop/</link>
-      <description>Amit Merchant氏のブログ投稿では、デスクトップ上のPWAインストールUIにリッチなスクリーンショット機能を追加する方法について説明しています。manifest.jsonファイルにscreenshots属性を追加し、適切なsrc、type、sizes、form_factor属性を設定することで、デスクトップインストール時に高品質のスクリーンショットを表示し、ユーザーエクスペリエンスを向上させることができます。</description>
+      <description>Amit Merchant氏のブログポストでは、デスクトップ上のPWAインストールUIにリッチなスクリーンショット機能を追加する方法について説明しています。manifest.jsonファイルにscreenshots属性を追加し、適切なsrc、type、sizes、form_factor属性を設定することで、デスクトップインストール時に高品質のスクリーンショットを表示し、ユーザーエクスペリエンスを向上させることができます。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -423,7 +458,7 @@
       <link>https://www.twilio.com/en-us/blog/build-real-time-chat-app-laravel-vuejs-pusher</link>
       <description>Laravel、Vue.js、Pusherでライブチャットアプリを構築する方法
 
-この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
+この記事では、Laravelを使ってバックエンドを構築し、Vue.jsを使ってユーザーインターフェースを開発し、Pusherを使ってライブチャット機能を実装する方法を説明します。まず、PHP、Node、NPM、Composerをインストールし、Pusherのアカウントを作成します。次に、Laravelプロジェクトをセットアップし、Laravel BreezeとWebSocket設定をインストールします。最後に、アプリケーションを作成し、Pusherコンソールで認証情報を取得し、Pusherクライアントライブラリを設定し、ライブチャット機能を実装します。</description>
       <pubDate>2024-08-27 00:00:00</pubDate>
     </item>
   
@@ -479,7 +514,7 @@
     <item>
       <title>AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
-      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベントが開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
+      <description>今週のAWSニュース: S3における条件付き書き込みのサポート、Lambdaが再帰ループ検出APIを導入、Bedrockバッチ推論APIがローンチ、JAWS Pankration 2024オンラインイベント開催、そして今後のAWS SummitとCommunity Dayイベント。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
     </item>
   
@@ -528,14 +563,14 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
     <item>
       <title>testing</title>
       <link>https://auth0.com/blog/test-n13-flor/</link>
-      <description>Auth0の社員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者、開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
+      <description>Auth0の従業員であるDan Ariasが、セキュリティとアイデンティティ技術に焦点を当てた技術研究者および開発者支援者としての経験を語ります。Auth0の元顧客であり、現在は社員であるAriasは、Auth0を使った認証実装の容易さを強調し、無料トライアルを試すことを読者に勧めています。</description>
       <pubDate>2024-08-26 14:48:00</pubDate>
     </item>
   
@@ -584,7 +619,7 @@
     <item>
       <title>Beginner’s guide to GitHub: Merging a pull request</title>
       <link>https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/</link>
-      <description>Getting Started with GitHub: Merge Pull Requestsでは、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトを処理する方法について説明しています。</description>
+      <description>Getting Started with GitHub: Merge Pull Requests では、GitHub を使った共同開発で重要なスキルである、コンフリクトの作成、コンフリクトの解決、変更のマージなど、マージのコンフリクトの扱い方について説明しています。</description>
       <pubDate>2024-08-26 13:00:58</pubDate>
     </item>
   
@@ -612,7 +647,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介が含まれます。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
