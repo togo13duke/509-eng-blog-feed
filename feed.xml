@@ -6,6 +6,69 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New Horizons for Solution Architects</title>
+      <link>https://blog.avenuecode.com/new-horizons-for-solution-architects</link>
+      <description>急速に変化するテクノロジー市場において、ソリューションアーキテクトは複雑で革新的なシステムの設計と実装において重要な役割を果たします。ソリューション・アーキテクトは、顧客のニーズと利用可能なテクノロジーを深く理解することで、ビジネス要件を効果的なテクノロジー・ソリューションに変換します。この記事では、プリセールス、デリバリー、ビジネス、アーキテクト・イン・レジデンスなど、さまざまなタイプのソリューション・アーキテクトの役割について解説し、提案するソリューションが顧客のニーズを満たし、変化し続けるテクノロジーの世界でイノベーションと長期的な成功をもたらすために、特定の分野に特化することの重要性を強調する。</description>
+      <pubDate>2024-08-28 21:24:13</pubDate>
+    </item>
+  
+    <item>
+      <title>A Brief Introduction to Animations</title>
+      <link>https://blog.avenuecode.com/a-brief-introduction-to-animations</link>
+      <description>この記事では、React Nativeを使用したアニメーションの基本について、アニメーションの概念、フレームベースとタイムベースのアニメーションタイプ、React Nativeでアニメーションを行うためのAnimatedライブラリなどを紹介します。サンプルプロジェクトを使って、Animated ライブラリを使用してアニメーションするスライダーコンポーネントを作成する方法と、ユーザーエクスペリエンスを向上させるために TaskCard コンポーネントを最適化する方法を紹介します。</description>
+      <pubDate>2024-08-28 20:24:34</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking Insights with High-Quality Dashboards at Scale</title>
+      <link>https://engineering.atspotify.com/2024/08/unlocking-insights-with-high-quality-dashboards-at-scale/</link>
+      <description>Spotifyは効率的なデータ可視化プラットフォームを構築し、TableauやGoogle Looker Studioなどのツールによって、社内で多数のダッシュボードの作成と利用をサポートしている。これらのダッシュボードは、従業員がデータの洞察に素早くアクセスするのに役立つだけでなく、ダッシュボード品質フレームワークを通じてデータの品質と使いやすさを保証する。同時に、ダッシュボード・ポータルは、便利なダッシュボードの検索・閲覧機能を提供し、データの共有と意思決定支援を促進する。</description>
+      <pubDate>2024-08-28 19:29:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing AWS Parallel Computing Service to run HPC workloads at virtually any scale</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-aws-parallel-computing-service-to-run-hpc-workloads-at-virtually-any-scale/</link>
+      <description>AWSは、AWS Parallel Computing Service（AWS PCS）の提供を開始しました。AWS PCSは、ハイパフォーマンス・コンピューティング（HPC）クラスタのセットアップと管理を容易にし、シームレスなスケーリングとシミュレーション結果の高速化を実現する新しいマネージドサービスです。AWS PCSは、計算流体力学、気象モデリングなど、計算およびデータ処理負荷の高いワークロードを幅広くサポートします。</description>
+      <pubDate>2024-08-28 17:53:59</pubDate>
+    </item>
+  
+    <item>
+      <title>A long, weird FOSS circle ends as Microsoft donates Mono to Wine project</title>
+      <link>https://arstechnica.com/?p=2045805</link>
+      <description>Microsoftは、オープンソース・フレームワークMonoをWineプロジェクトに寄贈し、いくつかのオペレーティングシステムに.NETプラットフォームのサポートを提供し、Android、iOS、Linuxやその他のシステムで.NETプラットフォームの最初の実装であったMonoプロジェクトの23年の旅に終止符を打った。Microsoftの動きは、WineプロジェクトがMonoのアップストリームコードを引き継ぎ、MonoベースのアプリケーションがMicrosoftの.NETオープンソースフレームワークに移行することを奨励することを意味する。</description>
+      <pubDate>2024-08-28 17:15:35</pubDate>
+    </item>
+  
+    <item>
+      <title>New AI model can hallucinate a game of 1993’s Doom in real time</title>
+      <link>https://arstechnica.com/?p=2045767</link>
+      <description>グーグルとテルアビブ大学の研究者が、1993年の名作シューティングゲーム「Doom」をリアルタイムでシミュレートする新しいAIモデル「GameNGen」のデモンストレーションを行った。Stable Diffusionから借用したAI画像生成技術を使い、このモデルは毎秒20フレームの速度で新しい映像を生成し、実際のゲームプレイ映像との区別が難しいことさえある。この技術は、リアルタイムビデオゲームコンポジットの新たな道を開くものである。</description>
+      <pubDate>2024-08-28 17:06:09</pubDate>
+    </item>
+  
+    <item>
+      <title>BinaryFormatter removed from .NET 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/</link>
+      <description>BinaryFormatter の実装は、セキュリティ上の理由から .NET 9 から削除されました。開発者は、JSON や XML などの他のシリアライズツールに移行するか、新しい NrbfDecoder を使用して BinaryFormatter データを読み込むことをお勧めします。移行が不可能な場合は、サポートされていない互換パッケージに頼ることができます。この変更は、.NET Framework 2.0には影響しません。</description>
+      <pubDate>2024-08-28 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 is the biggest global election year in history. What’s at stake for developers?</title>
+      <link>https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/</link>
+      <description>世界最大の選挙の年である2024年は、開発者にとって重要な年です。gitHubは、公正な選挙をどのようにサポートし、開発者が民主的なプロセスにどのように貢献できるかを検討しています。政策立案者がaiの社会的利益を促進しながら、潜在的な弊害を軽減しようとしているため、ai政策が注目されています。.</description>
+      <pubDate>2024-08-28 16:57:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Meta is getting ready for post-quantum cryptography</title>
+      <link>https://engineering.fb.com/2024/08/28/security/post-quantum-cryptography-meta/</link>
+      <description>メタ社は、量子コンピューターがもたらすデータ・プライバシーの脅威に対抗するため、ポスト量子暗号の準備を進めている。同社のエンジニアは、将来の量子攻撃からユーザーを保護する方法に取り組んでいる。</description>
+      <pubDate>2024-08-28 16:19:35</pubDate>
+    </item>
+  
+    <item>
       <title>Canada’s 2023 wildfires produced more emissions than fossil fuels in most countries</title>
       <link>https://www.technologyreview.com/2024/08/28/1103186/canada-wildfire-emissions/</link>
       <description>2023年のカナダの山火事は、ほとんどの国の化石燃料排出量を上回る排出量を生み出す。これらの山火事は6億4,700万トンの炭素を排出し、これがもし国であれば、中国、アメリカ、インドに次ぐ第4位となる。気候変動が山火事を悪化させ、それがさらに大量の温室効果ガスを放出するという悪循環に陥っているという研究結果もある。将来、カナダは気候変動に伴い、より多くの山火事に直面する可能性があり、気候目標を達成する上での課題となる。</description>
@@ -41,10 +104,38 @@
     </item>
   
     <item>
+      <title>On the strange status of wchar_t in classic MIDL</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240828-00/?p=110188</link>
+      <description>古典的なMIDLでは、wchar_tの型はWindows IDLファイルの16ビット整数を表し、その表現はコンパイラの設定に依存します。Microsoft Visual C++ツール・チェーンでは、wchar_tのデフォルト定義はコンパイラ・フラグに依存しますが、IDLコンパイラはwchar_tの定義をCまたはC++コンパイラに渡します。カスタムのwchar_t定義は標準の定義と衝突する可能性があるので、非標準の定義は避けるべきであることに注意してください。</description>
+      <pubDate>2024-08-28 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>More Than Fine: Multi-LoRA Support Now Available in NVIDIA RTX AI Toolkit</title>
       <link>https://blogs.nvidia.com/blog/ai-decoded-multi-lora-rtx/</link>
       <description>NVIDIAのRTX AI ToolkitにマルチLoRAサポートが追加され、微調整されたラージ・ランゲージ・モデル（LLM）を使用したパフォーマンスが最大6倍まで劇的に向上しました。このアップデートにより、開発者は複数のLoRAアダプタを同時に使用して、メモリフットプリントを抑えながら、特定のユースケースごとに必要な詳細を提供できるようになり、複雑なシナリオにおけるAIモデルの効率が向上します。</description>
       <pubDate>2024-08-28 13:00:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing the Vercel Marketplace</title>
+      <link>https://vercel.com/blog/introducing-the-vercel-marketplace</link>
+      <description>Supabase、Redis、EdgeDBを含む複数のデータベースオプションをサポートし、ストレージの統合と管理を簡素化。さらに、VercelはPostgresとKVストレージを自動的にMarketplaceに移行し、さらなる機能と柔軟性を提供します。ユーザーは、Vercel Marketplaceを通じて、これらのサービスを簡単に検索し、統合することができます。</description>
+      <pubDate>2024-08-28 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancing security of backend connectivity with OpenID Connect</title>
+      <link>https://vercel.com/blog/enhancing-security-of-backend-connectivity-with-openid-connect</link>
+      <description>VercelはOpenID Connect (OIDC)をサポートすることで、バックエンド接続のセキュリティを強化します。OIDCは、静的な鍵を必要とせずにサービスプロバイダ間の信頼関係を確立することで、呼び出し元のIDを認証します。VercelのOIDCサポートにより、開発者は環境変数内の長期的なクレデンシャルをRSA署名付きの短期的なJSONトークン（JWT）に置き換え、セキュリティを高め、クレデンシャル管理を簡素化することができます。</description>
+      <pubDate>2024-08-28 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lower pricing for Log Drains</title>
+      <link>https://vercel.com/changelog/lower-pricing-for-log-drains</link>
+      <description>ログ・ドレインズは、利用量に応じた新しい料金モデルを導入し、データ転送量を300％増加させ、利用者からのフィードバックを受けて料金を引き下げた。ログ・ドレインズの料金は20GBあたり10ドルとなり、従来の5GBあたり10ドルよりもお求めやすくなりました。</description>
+      <pubDate>2024-08-28 13:00:00</pubDate>
     </item>
   
     <item>
@@ -146,6 +237,13 @@
     </item>
   
     <item>
+      <title>Streamlining repetitive tasks in Databricks Workflows</title>
+      <link>https://www.databricks.com/blog/streamlining-repetitive-tasks-databricks-workflows</link>
+      <description>Databricks Workflowsは、動的なパラメータ・ループによって反復タスクを自動化することで、複雑なワークフローを簡素化する新機能「For Each」を導入しました。この機能は、並行計算をサポートし、処理効率を向上させ、デバッグを簡素化することで、ワークフローをより効率的で柔軟かつ管理しやすくします。</description>
+      <pubDate>2024-08-28 08:12:31</pubDate>
+    </item>
+  
+    <item>
       <title>Optimizing Kubernetes resources with Horizontal Pod Autoscaling via Custom Metrics and the…</title>
       <link>https://deezer.io/optimizing-kubernetes-resources-with-horizontal-pod-autoscaling-via-custom-metrics-and-the-a76c1a66ff1c?source=rss----2ab7e077175a---4</link>
       <description>この記事では、HPA（Horizontal Pod Auto Scaling）のためにカスタムメトリクスとPrometheusアダプタを使用してKubernetesリソースを最適化する方法について説明します。この記事では、まずKubernetesとHPAの基本的な概念について紹介し、次にPrometheusとPrometheusアダプタを使用してカスタムメトリクスを収集・活用し、アプリケーションの自動スケーリング動作をより正確に制御する方法について詳しく説明します。最後に、カスタムメトリクスを使用したHPAリソースの作成と使用方法を実例で紹介します。</description>
@@ -167,10 +265,52 @@
     </item>
   
     <item>
+      <title>This TikToker Quit Her Fashion Job to Be a Full-Time Reseller</title>
+      <link>https://www.ebayinc.com/stories/news/this-tiktoker-quit-her-fashion-job-to-be-a-full-time-reseller/</link>
+      <description>29歳のTikTokコンテンツクリエイター、ケンダル・ヴァンギルダーは、eBayで古着をフルタイムで販売するために高級スポーツブランドでの仕事を辞めたことで、ソーシャルメディアのフォロワーを獲得し、柔軟なライフスタイルを手に入れた。パートタイムからフルタイムになった彼女は、eBayでの販売で自活できるだけの収入を得、自身のブランド「Style Secondhand」を立ち上げた。彼女は、ファッションの古物商になりたい人には、リサーチと勉強が重要だと強調している。</description>
+      <pubDate>2024-08-28 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: IsEmptyOrNullOrNullOrEmpty</title>
       <link>https://thedailywtf.com/articles/isemptyornullornullorempty</link>
       <description>レミー・ポーターがDaily WTFで "IsEmptyOrNullOrNullOrEmpty "という関数を取り上げ、その名前が関数と正反対であるためコードのロジックが混乱していると指摘している。この関数は実際には組み込み関数 "String.IsNullOrEmpty "のラッパーなのだが、誤解を招きやすい名前のためにコードが理解しづらくなっており、コード・ベースの深刻な問題を反映している。</description>
       <pubDate>2024-08-28 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord Update: August 28, 2024 Changelog</title>
+      <link>https://discord.com/blog/discord-update-august-28-2024-changelog</link>
+      <description>Discordは2024年8月28日にアップデートされ、"Amazon Music Listening Party "イベントの追加、デスクトップメンバーリスト表示の最適化、XboxでのDiscord体験の向上、Roll20でのロールプレイングゲームのサポートが行われました。画像ウィンドウのリサイズを追加しました。また、ティーンエイジャーが快適にDiscordを利用できるよう、ティーン憲章が導入されました。</description>
+      <pubDate>2024-08-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic achieves fourth AWS Competency — this time in Financial Services</title>
+      <link>https://www.elastic.co/blog/elastic-aws-competency-financial-services</link>
+      <description>エラスティックは、検索AIプラットフォームを通じて金融機関のビジネス効率、イノベーション、セキュリティの向上を支援するため、AWS金融サービスコンピテンシー認定を取得したことを発表しました。このプラットフォームは、強力な検索とジェネレーティブAIを活用し、金融機関のカスタマージャーニーのパーソナライズ、収益の増加、生産性の向上、リスクの軽減を支援します。エラスティックの認定は、金融分野における専門知識と顧客の成功の証です。</description>
+      <pubDate>2024-08-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to quickly (and weightlessly) convert Chrome extensions to Safari</title>
+      <link>https://evilmartians.com/chronicles/how-to-quickly-and-weightlessly-convert-chrome-extensions-to-safari</link>
+      <description>ChromeエクステンションをSafariエクステンションに変換する簡単な方法：この記事では、XCodeのSafari Web Extension Converterツールの使用や、コードの微調整、Safari用の認証ロジックなど、ChromeエクステンションをSafariエクステンションに変換する方法について説明します。</description>
+      <pubDate>2024-08-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Send More Investor Updates</title>
+      <link>http://zachholman.com/posts/send-more-investor-updates</link>
+      <description>長年のエンジェル投資活動を通じて、投資家とコミュニケーションを取り続ける企業がより成功する傾向があることを著者は発見した。定期的な投資家の最新情報は、たとえ内容が簡潔であっても、会社のダイナミクスやニーズを伝えるために、連絡を取り続けることが重要である。良好なコミュニケーションは信頼構築に役立ち、企業の長期的な成功に好影響を与える可能性がある。</description>
+      <pubDate>2024-08-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pull Requests in a Distributed System</title>
+      <link>https://jaketrent.com/post/pull-requests-distributed-system</link>
+      <description>分散システムでは、フィールド名を "updatedAt "から "statusDate "に変更する場合、4つの個別ステップが必要となる。すなわち、BE側が "statusDate "のサポートを追加し、"updatedAt "を非推奨とし、FE側が2つのフィールドを送信するように適応し、その後、BE側とFE側が古いフィールドへの依存を削除する。この分散アーキテクチャは柔軟性を提供する一方で、管理の複雑さと互換性の維持の難しさを増大させる。</description>
+      <pubDate>2024-08-28 00:00:00</pubDate>
     </item>
   
     <item>
@@ -794,7 +934,7 @@
     <item>
       <title>Maybe you will be able to live past 122</title>
       <link>https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/</link>
-      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより長く、より健康的に生きさせようとしている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
+      <description>科学の進歩、人々の関心、かつてないほどの投資により、長寿産業は人々をより健康に長生きさせようと後押ししている。研究者たちは、人間の寿命を延ばし、老化の兆候を逆転させるために、細胞の初期化、抗老化薬、老化細胞の除去など、さまざまなアプローチを模索している。課題はあるものの、今後数十年のうちに、人々がより健康で長生きするための治療法が開発されることが期待されている。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
