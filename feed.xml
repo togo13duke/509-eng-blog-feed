@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unpatchable 0-day in surveillance cam is being exploited to install Mirai</title>
+      <link>https://arstechnica.com/?p=2046043</link>
+      <description>悪意のあるハッカーが、広く使われている監視カメラの重大な脆弱性を悪用し、Miraiマルウェアを拡散させている。Miraiマルウェアは、感染したネットワークデバイスを使用して、ウェブサイトや他のインターネット接続デバイスをシャットダウンするなどの攻撃を行うことができる。この脆弱性を悪用するのは簡単で、攻撃者はリモートでコマンドを実行することができるが、このカメラモデルはすでに販売もサポートも終了しているため、脆弱性を修正するためのアップデートはできない。</description>
+      <pubDate>2024-08-28 21:25:04</pubDate>
+    </item>
+  
+    <item>
       <title>New Horizons for Solution Architects</title>
       <link>https://blog.avenuecode.com/new-horizons-for-solution-architects</link>
       <description>急速に変化するテクノロジー市場において、ソリューションアーキテクトは複雑で革新的なシステムの設計と実装において重要な役割を果たします。ソリューション・アーキテクトは、顧客のニーズと利用可能なテクノロジーを深く理解することで、ビジネス要件を効果的なテクノロジー・ソリューションに変換します。この記事では、プリセールス、デリバリー、ビジネス、アーキテクト・イン・レジデンスなど、さまざまなタイプのソリューション・アーキテクトの役割について解説し、提案するソリューションが顧客のニーズを満たし、変化し続けるテクノロジーの世界でイノベーションと長期的な成功をもたらすために、特定の分野に特化することの重要性を強調する。</description>
@@ -135,6 +142,13 @@
       <title>Lower pricing for Log Drains</title>
       <link>https://vercel.com/changelog/lower-pricing-for-log-drains</link>
       <description>ログ・ドレインズは、利用量に応じた新しい料金モデルを導入し、データ転送量を300％増加させ、利用者からのフィードバックを受けて料金を引き下げた。ログ・ドレインズの料金は20GBあたり10ドルとなり、従来の5GBあたり10ドルよりもお求めやすくなりました。</description>
+      <pubDate>2024-08-28 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Integrated billing for Supabase, Redis, and EdgeDB</title>
+      <link>https://vercel.com/changelog/integrated-billing-for-supabase-redis-and-edgedb</link>
+      <description>Vercel、Supabase、Redis、EdgeDBとの統合課金、ベンダーコンソールへの直接アクセス、その他の新機能を発表今後数ヶ月の間に、VercelはPostgresとKVを新しい市場に移行するために、ゼロダウンタイムの移行を実施する予定です。</description>
       <pubDate>2024-08-28 13:00:00</pubDate>
     </item>
   
