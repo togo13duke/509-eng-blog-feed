@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Recommending for Long-Term Member Satisfaction at Netflix</title>
+      <link>https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef?source=rss----2615bd06b42e---4</link>
+      <description>ネットフリックスは、短期的なインタラクションだけでなく、長期的な満足度にも焦点を当てたパーソナライズド・レコメンデーション・アルゴリズムを通じて、会員の満足度向上に取り組んでいる。推薦を文脈的なギャンブル問題として扱い、長期的な満足度を反映する報酬関数を定義することで、ネットフリックスは推薦モデルを最適化し、より正確な推薦を行っている。さらに、遅延フィードバックを予測し、報酬工学を調整することで、ネットフリックスはユーザーエクスペリエンスと会員維持率の向上という大きな成果を達成している。</description>
+      <pubDate>2024-08-29 01:01:40</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #81: School</title>
+      <link>https://www.bambooweekly.com/bw-81-school/</link>
+      <description>新学期を迎え、本稿では世界各国・地域の教育統計について考察する。世界銀行のデータから情報を抽出し、著者は教育関連の6つの質問を投げかけ、次の記事でその答えを示す予定である。</description>
+      <pubDate>2024-08-29 00:13:13</pubDate>
+    </item>
+  
+    <item>
+      <title>That murky project feel</title>
+      <link>https://thoughtbot.com/blog/that-murky-project-feel</link>
+      <description>新規プロジェクトにおける曖昧さ：新規プロジェクトに参加する際、意思決定が曖昧であったり、目標が不明確であったりといった問題に遭遇した場合、それは文脈の欠如が原因である可能性がある。明確な問題提起と測定可能な目標を掲げたチーム・ミーティングは、チームの集中力を高め、十分な情報に基づいた意思決定を行うのに役立つ。</description>
+      <pubDate>2024-08-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Unpatchable 0-day in surveillance cam is being exploited to install Mirai</title>
       <link>https://arstechnica.com/?p=2046043</link>
       <description>悪意のあるハッカーが、広く使われている監視カメラの重大な脆弱性を悪用し、Miraiマルウェアを拡散させている。Miraiマルウェアは、感染したネットワークデバイスを使用して、ウェブサイトや他のインターネット接続デバイスをシャットダウンするなどの攻撃を行うことができる。この脆弱性を悪用するのは簡単で、攻撃者はリモートでコマンドを実行することができるが、このカメラモデルはすでに販売もサポートも終了しているため、脆弱性を修正するためのアップデートはできない。</description>
@@ -141,7 +162,7 @@
     <item>
       <title>Lower pricing for Log Drains</title>
       <link>https://vercel.com/changelog/lower-pricing-for-log-drains</link>
-      <description>ログ・ドレインズは、利用量に応じた新しい料金モデルを導入し、データ転送量を300％増加させ、利用者からのフィードバックを受けて料金を引き下げた。ログ・ドレインズの料金は20GBあたり10ドルとなり、従来の5GBあたり10ドルよりもお求めやすくなりました。</description>
+      <description>ログ・ドレインズは、利用量に応じた新しい料金モデルを導入し、データ転送量を300％増やし、利用者からのフィードバックを受けて料金を引き下げた。ログ・ドレインズの料金は20GBあたり10ドルとなり、従来の5GBあたり10ドルよりもお求めやすくなりました。</description>
       <pubDate>2024-08-28 13:00:00</pubDate>
     </item>
   
@@ -197,14 +218,14 @@
     <item>
       <title>The year is 2149 and …</title>
       <link>https://www.technologyreview.com/2024/08/28/1096774/sean-michaels-2149-fiction-speculation/</link>
-      <description>2149年、人々の生活はソフトウェアによって正確に管理され、データは一元化されて広大な情報クラウドを形成していた。人工知能の "神々 "が知的指導を行うために現れたが、その後、一般大衆によって破壊された。社会は再編成され、電卓のようなシンプルな道具の使用に戻る。エンターテインメント産業はAIによって多くのカスタマイズされたコンテンツを生み出すが、不平等が残る。人々はテクノロジーが自分たちの生活に与える影響について考え始め、将来の世代のためにエンターテインメントの楽しみを犠牲にする人も出てくる。</description>
+      <description>2149年、人々の生活はソフトウェアによって正確に管理され、データは一元化されて巨大な情報クラウドを形成していた。人工知能の "神々 "が知的指導を行うために現れたが、その後、一般大衆によって破壊された。社会は再編成され、電卓のような単純な道具の使用に戻る。エンターテインメント産業はAIによってカスタマイズされたコンテンツを大量に生み出すが、不平等が残る。人々はテクノロジーが自分たちの生活に与える影響について考え始め、将来の世代のためにエンターテインメントの楽しみを犠牲にする人も出てくる。</description>
       <pubDate>2024-08-28 11:00:00</pubDate>
     </item>
   
     <item>
       <title>Job title of the future: Weather maker</title>
       <link>https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/</link>
-      <description>将来のキャリア：気象メーカーアメリカ西部の砂漠の町が夏の水不足に直面するなか、科学者フランク・マクドノーが率いるプロジェクトは、クラウド・シーディング技術によって冬の降雪量を増やすことで水不足を緩和しようとしている。この技術は、ヨウ化銀の粉末を雲に注入することで、水蒸気の凝縮を促進し、氷の結晶を作り、最終的に雪の結晶を形成するというものだ。クラウド・シーディングは、降雨量や降雪量を増やし、大気汚染や洪水のリスクを軽減する方法として世界的に注目されているが、マクドナーの研究によると、クラウド・シーディングによって降雪量を増やすことができ、農業、水力発電プロジェクト、都市の水利用にとって重要な意味を持つ。</description>
+      <description>将来のキャリア：気象メーカーアメリカ西部の砂漠の町が夏の水不足に直面するなか、科学者フランク・マクドノーが率いるプロジェクトは、クラウド・シーディング技術によって冬の降雪量を増やすことで水不足を緩和しようとしている。この技術は、ヨウ化銀の粉末を雲に注入することで、水蒸気の凝縮を促進し、氷の結晶を作り、最終的に雪の結晶を形成するというものだ。クラウド・シーディングは、降雨量や降雪量を増やし、大気汚染や洪水のリスクを軽減する方法として世界的に注目されている。マクドナーの研究によると、クラウド・シーディングによって降雪量を増やすことができ、農業、水力発電プロジェクト、都市の水利用にとって重要な意味を持つ。</description>
       <pubDate>2024-08-28 10:00:00</pubDate>
     </item>
   
@@ -218,7 +239,7 @@
     <item>
       <title>Will computers ever feel responsible?</title>
       <link>https://www.technologyreview.com/2024/08/28/1096801/responsible-machines-computers-human-intelligent-decisions/</link>
-      <description>コンピューターは責任感を持てるのか？この記事では、人工知能の発展とその限界について探求し、AIは人間の知能を模倣することで大きな進歩を遂げたが、人間の身体や感情を持ち合わせていないため、本当の意味での責任感を持つことはできないと指摘している。ドレフュス兄弟の技能習得モデルを引き合いに出しながら、専門家である人間の意思決定者とAIの重要な違いは、責任感と身体的経験であることを強調している。要約すれば、AIは人間と同じような責任感を持つことはないだろうということだ。</description>
+      <description>コンピュータは責任感を持てるのか？この記事では、人工知能の発展とその限界について探求し、AIは人間の知能を模倣することで大きな進歩を遂げたが、人間の身体や感情を持ち合わせていないため、本当の意味での責任感を持つことはできないと指摘している。ドレフュス兄弟の技能習得モデルを引き合いに出しながら、専門家である人間の意思決定者とAIの重要な違いは、責任感と身体的経験であることを強調している。要約すれば、AIは人間と同じような責任感を持つことはないだろうということだ。</description>
       <pubDate>2024-08-28 10:00:00</pubDate>
     </item>
   
@@ -246,7 +267,7 @@
     <item>
       <title>From the editor</title>
       <link>https://www.technologyreview.com/2024/08/28/1097178/editors-letter-mat-honan-125-years/</link>
-      <description>創刊125周年を迎えたMITテクノロジーレビューは、技術予測の精度を振り返り、次の125年に何が待ち受けているかを考察している。クリーンエネルギー、情報保全、遺伝子編集、人工知能などの分野における今後の動向を探るとともに、技術革新や気候危機への対応における個人の重要性を強調している。</description>
+      <description>創刊125周年を迎えたMITテクノロジーレビューは、技術予測の精度を振り返り、次の125年に何が待ち受けているかを考察している。クリーンエネルギー、情報保全、遺伝子編集、人工知能などの分野における将来の動向を探る一方、技術革新や気候危機への対応における個人の重要性を強調している。</description>
       <pubDate>2024-08-28 09:00:00</pubDate>
     </item>
   
@@ -281,7 +302,7 @@
     <item>
       <title>This TikToker Quit Her Fashion Job to Be a Full-Time Reseller</title>
       <link>https://www.ebayinc.com/stories/news/this-tiktoker-quit-her-fashion-job-to-be-a-full-time-reseller/</link>
-      <description>29歳のTikTokコンテンツクリエイター、ケンダル・ヴァンギルダーは、eBayで古着をフルタイムで販売するために高級スポーツブランドでの仕事を辞めたことで、ソーシャルメディアのフォロワーを獲得し、柔軟なライフスタイルを手に入れた。パートタイムからフルタイムになった彼女は、eBayでの販売で自活できるだけの収入を得、自身のブランド「Style Secondhand」を立ち上げた。彼女は、ファッションの古物商になりたい人には、リサーチと勉強が重要だと強調している。</description>
+      <description>29歳のTikTokコンテンツクリエイター、ケンダル・ヴァンギルダーは、eBayで古着をフルタイムで販売するために高級スポーツブランドでの仕事を辞めたことで、ソーシャルメディアのフォロワーを獲得し、柔軟なライフスタイルを手に入れた。パートタイムからフルタイムになった彼女は、eBayでの販売で自活するのに十分な収入を得、自身のブランド「Style Secondhand」を立ち上げた。彼女は、ファッションの古物商になりたい人には、リサーチと勉強が重要だと強調している。</description>
       <pubDate>2024-08-28 07:00:00</pubDate>
     </item>
   
@@ -372,21 +393,21 @@
     <item>
       <title>Thousands celebrate Tech Reunions ’24</title>
       <link>https://www.technologyreview.com/2024/08/27/1095838/thousands-celebrate-tech-reunions-24/</link>
-      <description>今年は、3,300人以上の同窓生、家族、友人がMITの工科大学同窓会に参加し、研究室ツアー、アイスクリーム・ソーシャル、ポップスでの工科大学ナイト、その他の充実したアクティビティを楽しんだ。イベントには、50周年記念ガラ、入学式、コンサート、研究所の歴史と卒業生の再会を祝う伝統的なボート競技などがあった。</description>
+      <description>今年は、3,300人以上の卒業生、家族、友人がMITの工科大学同窓会に参加し、研究室ツアー、アイスクリーム・ソーシャル、ポップスでの工科大学ナイト、その他の充実したアクティビティを楽しんだ。イベントには、50周年記念ガラ、入学式、コンサート、研究所の歴史と卒業生の再会を祝う伝統的なボート競技などがあった。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
     <item>
       <title>How a butterfly’s scales are born</title>
       <link>https://www.technologyreview.com/2024/08/27/1095973/how-a-butterflys-scales-are-born/</link>
-      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するまでの過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアの助けになるかもしれない。</description>
+      <description>蝶の鱗粉はどのように形成されるのか：MITの研究者たちは、高度なイメージング技術を駆使して、さなぎが発生する過程で蝶の膜から個々の鱗粉が成長する様子を観察し、鱗粉の表面が滑らかな状態から微細な波紋を形成するようになる過程を明らかにした。この発見は、光と熱エネルギーを管理する能力を持つ材料を設計するエンジニアに役立つかもしれない。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
     <item>
       <title>Screening new materials with computer vision</title>
       <link>https://www.technologyreview.com/2024/08/27/1095977/screening-new-materials-with-computer-vision/</link>
-      <description>マサチューセッツ工科大学（MIT）の研究者らは、半導体材料の主要な電子特性を従来の85倍もの速さで迅速に分析できるコンピューター・ビジョン技術を開発した。この技術は、ロボットプリンターで作成された半導体サンプルの画像を分析し、各サンプルのバンドギャップと安定性を自動的に推定することで、新しい電子材料のスクリーニングプロセスをスピードアップすることを約束する。</description>
+      <description>マサチューセッツ工科大学（MIT）の研究者らは、半導体材料の主要な電子特性を従来の85倍もの速さで迅速に分析できるコンピューター・ビジョン技術を開発した。この技術は、ロボットプリンターで作成された半導体サンプルの画像を分析し、各サンプルのバンドギャップと安定性を自動的に推定することで、新しい電子材料のスクリーニングプロセスを高速化することを約束する。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -400,7 +421,7 @@
     <item>
       <title>Lakes and seas on Titan may be shaped by waves</title>
       <link>https://www.technologyreview.com/2024/08/27/1095989/lakes-and-seas-on-titan-may-be-shaped-by-waves/</link>
-      <description>タイタンの湖や海は波の影響を受けているかもしれない。MITの地質学者は、タイタンの画像を分析することによって、タイタンの海岸線の形状が波による浸食のモデルと一致していることを発見した。この発見は、海岸浸食の仕組みをよりよく理解するのに役立ち、地球上の海岸線管理への洞察を与えてくれる。</description>
+      <description>タイタンの湖や海は波の影響を受けている可能性がある。MITの地質学者は、タイタンの画像を分析することによって、タイタンの海岸線の形状が波による浸食のモデルと一致していることを発見した。この発見は、海岸浸食の仕組みをよりよく理解するのに役立ち、地球上の海岸線管理への洞察を与えてくれる。</description>
       <pubDate>2024-08-27 21:00:00</pubDate>
     </item>
   
@@ -421,7 +442,7 @@
     <item>
       <title>.NET Community Toolkit 8.3 is here! NativeAOT, .NET 8 enhancements, and more!</title>
       <link>https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-830/</link>
-      <description>.NET Community Toolkitバージョン8.3リリース。.NET 8とネイティブAOTのサポート、パフォーマンスの改善、複数のバグ修正と新機能を含む。.NET 8とネイティブAOTのサポートを含み、MVVMツールキットのパフォーマンスを最適化し、複数のバグを修正し、新機能を追加しました。</description>
+      <description>.NET Community Toolkit バージョン8.3がリリースされました。.NET 8とネイティブAOTのサポート、パフォーマンスの改善、複数のバグ修正と新機能が含まれています。.NET 8とネイティブAOTのサポートを含み、MVVMツールキットのパフォーマンスを最適化し、複数のバグを修正し、新機能を追加しました。</description>
       <pubDate>2024-08-27 17:30:00</pubDate>
     </item>
   
@@ -456,7 +477,7 @@
     <item>
       <title>Secret remediation best practices</title>
       <link>https://www.hashicorp.com/blog/secret-remediation-best-practices</link>
-      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールとプロセスの使用について説明し、HCP Vault Radarを使用した機密情報の修復の例を示します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
+      <description>この記事では、環境内の安全でない機密情報を特定することは非常に重要であり、これらの問題を特定し、修復するためのベストプラクティスのフレームワークを提供します。この記事では、安全でない機密情報のスキャン、特定、修復のための自動化ツールやプロセスの使用に焦点を当て、HCP Vault Radarを使用した機密修復の例を紹介します。これらのベストプラクティスを実施することで、組織はセキュリティリスクを低減し、機密データを安全に保つことができます。</description>
       <pubDate>2024-08-27 16:00:00</pubDate>
     </item>
   
@@ -498,7 +519,7 @@
     <item>
       <title>Hackers infect ISPs with malware that steals customers’ credentials</title>
       <link>https://arstechnica.com/?p=2045401</link>
-      <description>悪意のあるハッカーが、致命的な脆弱性を利用して、少なくとも4つの米国のインターネット・サービス・プロバイダー（ISP）に感染し、下流の顧客から認証情報を盗み出した。この脆弱性は仮想化プラットフォームVersa Directorに存在し、ハッカーは "VersaMem "と呼ばれるカスタムウェブシェルをインストールすることでリモート管理者権限を取得し、ユーザーが認証情報を入力する際に情報を盗むことができました。脆弱性は修正されたものの、Black Lotus Labsはこの攻撃を重大なものと見なしている。</description>
+      <description>悪意のあるハッカーが、致命的な脆弱性を利用して、少なくとも4つの米国のインターネット・サービス・プロバイダー（ISP）に感染し、下流の顧客から認証情報を盗み出した。この脆弱性は仮想化プラットフォームVersa Directorに存在し、ハッカーは "VersaMem "と呼ばれるカスタムウェブシェルをインストールすることでリモート管理者権限を取得し、ユーザーが認証情報を入力する際に情報を盗み出すことができました。脆弱性は修正されたものの、Black Lotus Labsはこの攻撃を重大なものと見なしている。</description>
       <pubDate>2024-08-27 14:00:58</pubDate>
     </item>
   
@@ -610,7 +631,7 @@
     <item>
       <title>Ray Kurzweil: Technology will let us fully realize our humanity</title>
       <link>https://www.technologyreview.com/2024/08/27/1096148/ray-kurzweil-futurist-ai-medicine-advances-freedom/</link>
-      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知作業において人間を凌駕するようになれば、物質的な豊かさと医学的な長寿に向けた科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
+      <description>技術の進歩は、私たちの人間性を完全に実現することを可能にする。未来学者カーツワイルは、AIと医学の進歩が私たちにかつてない自由をもたらすと主張する。AIが認知作業で人間を凌駕するようになれば、物質的な豊かさと医学的な長寿に向けた科学革命が起こるだろう。テクノロジーは、学び、創造し、つながるという人間の深い願望を追求する手助けをし、私たちの未来を希望と創造に満ちたものにしてくれるだろう。</description>
       <pubDate>2024-08-27 11:00:00</pubDate>
     </item>
   
@@ -666,7 +687,7 @@
     <item>
       <title>Zero Trust alert: Secure your Azure resource access using constrained delegation</title>
       <link>https://tommihovi.com/2024/08/zero-trust-alert-secure-your-azure-resource-access-using-constrained-delegation/</link>
-      <description>この記事では、Azureの制限付き委任機能を使用して、Azureリソースのアクセス権を安全に管理する方法について説明します。制限付き委任を使用すると、管理者はロールの割り当てを委任する一方で、ユーザがさらにロールを委任または割り当てることを制限することができます。この記事では、制限付き委任のためのAzureポータルとPowerShellの使用方法を詳しく説明し、サポートされるロール、権限の制限、条件付きロールの割り当てを作成および管理する方法について説明します。</description>
+      <description>この記事では、Azureの制限付き委任機能を使用して、Azureリソースのアクセス権を安全に管理する方法について説明します。制限付き委任を使用すると、管理者はロールの割り当てを委任する一方で、ユーザがさらにロールを委任したり割り当てたりすることを制限することができます。この記事では、AzureポータルとPowerShellを使用して制限付き委任を行う方法を詳細に説明し、サポートされるロール、権限の制限、条件付きロールの割り当てを作成および管理する方法について説明します。</description>
       <pubDate>2024-08-27 08:08:36</pubDate>
     </item>
   
@@ -836,7 +857,7 @@
     <item>
       <title>Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments</title>
       <link>https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac?source=rss----2615bd06b42e---4</link>
-      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的手法の使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
+      <description>Netflix Tech Blogでは、プロキシと長期的なビジネスメトリクスの関係を分析することで、テック企業や研究者がA/Bテストにおける製品変更の影響をより正確に評価するための方法論を紹介している。このアプローチには、バイアスを減らすための複数の統計的テクニックの使用が含まれ、プロキシメトリクスに関する異なるチームの努力を調整し、それらが長期的な目標と一致していることを確認するための線形構造モデルを提供する。</description>
       <pubDate>2024-08-26 15:46:24</pubDate>
     </item>
   
@@ -871,7 +892,7 @@
     <item>
       <title>How to Install Python on Your System: A Guide</title>
       <link>https://realpython.com/installing-python/</link>
-      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認するための手順や、オプションをインストールするための手順が記載されています。</description>
+      <description>このガイドでは、Windows、macOS、LinuxシステムにPythonをインストールする方法について、公式インストーラを使う方法、Microsoft StoreやHomebrew経由でインストールする方法、iOSやAndroidデバイスでPythonを使う方法などを説明します。Pythonのバージョンを確認する方法と、オプションのインストール方法が記載されています。</description>
       <pubDate>2024-08-26 14:00:00</pubDate>
     </item>
   
@@ -920,7 +941,7 @@
     <item>
       <title>Issues #264 Aug 26, 2024</title>
       <link>https://betterdev.link/issues/264</link>
-      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、そしてさまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
+      <description>今週のプログラミング・リソースには、既成概念に挑戦し、独自の検索エンジンとデータベースを構築するためのインスピレーション、機械学習の基礎、Linuxパイプラインのパフォーマンス、AWS EBSの歴史などのトピックの詳細な考察、さまざまなプログラミング・ツールとライブラリの紹介が含まれる。</description>
       <pubDate>2024-08-26 12:19:00</pubDate>
     </item>
   
@@ -941,7 +962,7 @@
     <item>
       <title>Inside the long quest to advance Chinese writing technology</title>
       <link>https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/</link>
-      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示している。</description>
+      <description>中国語の文字入力技術の歴史は、挑戦と革新の連続であった。20世紀初頭の漢字入力方式から現代のピンイン入力方式に至るまで、多くの技術的変化と試みがあった。これらの努力は漢字の標準化と普及を促進しただけでなく、言語と技術に対する人類の絶え間ない探究心を反映している。初期のシステムの多くは失敗に終わったが、それらは今日の入力方法の基礎を築き、技術の発展と進歩の紆余曲折を示した。</description>
       <pubDate>2024-08-26 12:00:00</pubDate>
     </item>
   
@@ -955,7 +976,7 @@
     <item>
       <title>AI and the future of sex</title>
       <link>https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/</link>
-      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性すらある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
+      <description>AI技術の進歩は、従来のポルノからアルゴリズムによって生成されたポルノへと、ポルノに対する認識と期待を変えつつある。この変化は、真実、道徳、プライバシーに関する新たな問題を提起している。AI技術の進歩に伴い、ポルノコンテンツはよりパーソナライズされたものとなり、人々の恋愛関係やセクシュアリティに影響を与える可能性さえある。将来的には、AIポルノが主流となり、倫理や人間のセクシュアリティに関するより広範な議論が巻き起こるかもしれない。</description>
       <pubDate>2024-08-26 11:00:00</pubDate>
     </item>
   
