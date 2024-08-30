@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Lean Leader’s Guide: Crush Short-Term Software Projects</title>
+      <link>https://spin.atomicobject.com/short-term-software-projects/</link>
+      <description>《精益领导者指南：高效完成短期软件项目》介绍了如何高效管理短期软件项目。文章强调通过简化版本控制、轻量级任务跟踪、专注测试策略和明确验收标准来保持团队高效协作，确保在短时间内交付高质量的项目。</description>
+      <pubDate>2024-08-30 12:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Python Logging Best Practices: The Ultimate Guide</title>
+      <link>https://last9.io/blog/python-logging-best-practices/</link>
+      <description>Python日志记录最佳实践：本指南涵盖了设置日志、避免常见错误和应用高级技术以改进调试过程，适用于小型脚本或大型应用程序。日志记录是Python开发的关键部分，有助于跟踪应用行为和解决问题，提高代码的可观察性和调试的便捷性。</description>
+      <pubDate>2024-08-30 11:37:44</pubDate>
+    </item>
+  
+    <item>
+      <title>A new way to build neural networks could make AI more understandable</title>
+      <link>https://www.technologyreview.com/2024/08/30/1103385/a-new-way-to-build-neural-networks-could-make-ai-more-understandable/</link>
+      <description>研究人员开发了一种新的神经网络构建方法，称为Kolmogorov-Arnold Networks（KANs），它简化了传统神经网络的复杂性，使得AI的决策过程更易于理解和验证。这种方法有望提高AI的准确性和透明度，尽管训练KANs需要更多的时间和计算资源。</description>
+      <pubDate>2024-08-30 10:35:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Sentiment Analysis: Decoding Public Opinion in 2024</title>
+      <link>https://s14415.pcdn.co/blog/social-media-sentiment-analysis/</link>
+      <description>2024年社交媒体情感分析：解码公众舆论，通过分析社交媒体上的情绪和意见，企业能更好地理解目标受众，改进产品和服务，并做出更明智的决策。随着社交媒体平台和用户习惯的变化，情感分析工具和技巧也在不断发展，以应对挑战并提高准确性。</description>
+      <pubDate>2024-08-30 09:00:42</pubDate>
+    </item>
+  
+    <item>
       <title>The Rise of API-First Companies: 5 Success Stories</title>
       <link>https://nordicapis.com/the-rise-of-api-first-companies-5-success-stories/</link>
       <description>API-First公司通过将API作为核心产品，实现了快速迭代和开发，提高了产品与市场需求的契合度。本文分析了五家API-First公司的成功案例，包括Stripe、Netflix、Amazon、Twilio和Checkr，展示了API-First在提高产品模块化、可扩展性和可扩展性方面的优势。这些案例表明，API-First是推动API开发并使开发者成为产品生命周期核心的有效模式。</description>
@@ -17,6 +45,13 @@
       <link>https://developers.redhat.com/articles/2024/08/30/responsible-and-explainable-ai</link>
       <description>TrustyAI是一个开源工具，旨在通过XAI算法提供决策和预测模型的解释，以增强透明度和可信度。它通过LIME和SHAP等技术，帮助理解模型决策背后的原因，从而促进公平、透明和负责任的AI系统发展。</description>
       <pubDate>2024-08-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: Coast Star</title>
+      <link>https://thedailywtf.com/articles/coast-star</link>
+      <description>本周的《Coast Star》包含了一系列有趣的文章和评论。Lyle Seaman分享了他在旅行中的趣事，Mike对Brevard动物园的环保信息提出了质疑，Michael R.对LinkedIn的日期语法表示不满，Daniel则对曼哈顿的自行车道进行了评论。此外，还有一位匿名读者对“Lean Six”的误解进行了澄清。</description>
+      <pubDate>2024-08-30 06:30:00</pubDate>
     </item>
   
     <item>
