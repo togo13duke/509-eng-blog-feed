@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Rise of API-First Companies: 5 Success Stories</title>
+      <link>https://nordicapis.com/the-rise-of-api-first-companies-5-success-stories/</link>
+      <description>API-First公司通过将API作为核心产品，实现了快速迭代和开发，提高了产品与市场需求的契合度。本文分析了五家API-First公司的成功案例，包括Stripe、Netflix、Amazon、Twilio和Checkr，展示了API-First在提高产品模块化、可扩展性和可扩展性方面的优势。这些案例表明，API-First是推动API开发并使开发者成为产品生命周期核心的有效模式。</description>
+      <pubDate>2024-08-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Responsible and Explainable AI</title>
+      <link>https://developers.redhat.com/articles/2024/08/30/responsible-and-explainable-ai</link>
+      <description>TrustyAI是一个开源工具，旨在通过XAI算法提供决策和预测模型的解释，以增强透明度和可信度。它通过LIME和SHAP等技术，帮助理解模型决策背后的原因，从而促进公平、透明和负责任的AI系统发展。</description>
+      <pubDate>2024-08-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Meet Hostinger at WordCamp US 2024</title>
+      <link>https://www.hostinger.com/blog/wordcamp-us-2024</link>
+      <description>Hostinger将参加2024年WordCamp US活动，展示最新WordPress托管服务功能，包括AI内容创建器和AI助手聊天机器人。此外，公司还将举办网络安全主题的Networking Hour，并参与贡献者日。WordCamp US 2024将提供新的展示日，包括CNN、迪士尼等知名网站的案例研究。</description>
+      <pubDate>2024-08-30 06:05:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Mobile Observability: monitoring performance through cracked screens, old batteries, and crappy Wi-Fi</title>
+      <link>https://stackoverflow.blog/2024/08/30/mobile-observability-open-telemetry-embrace-ios-android-austin-emmons/</link>
+      <description>移动可观察性：通过破碎屏幕、旧电池和糟糕的Wi-Fi监控性能</description>
+      <pubDate>2024-08-30 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Commercial spyware vendor exploits used by Kremlin-backed hackers, Google says</title>
       <link>https://arstechnica.com/?p=2046289</link>
       <description>谷歌安全团队发现，俄罗斯政府支持的黑客组织使用了与商业间谍软件供应商NSO Group和Intellexa相似的漏洞利用工具，这些工具原本被承诺仅用于打击已知犯罪分子。尽管NSO Group和Intellexa声称其产品不会被滥用，但这一发现削弱了他们的承诺。</description>
