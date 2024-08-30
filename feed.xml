@@ -6,6 +6,85 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Data Engineering and GenAI: The Tools Practitioners Need</title>
+      <link>https://www.databricks.com/blog/data-engineering-and-genai-tools-practitioners-need</link>
+      <description>数据工程和生成式AI：从业者所需工具
+
+随着越来越多的组织计划构建自己的生成式AI模型，良好的数据工程成为成功的关键。数据工程师需处理数据摄取、转换和编排，同时应对实时数据处理、数据管道可靠扩展、数据质量和治理等新挑战。Databricks平台提供Delta Lake、Delta Live Tables、Databricks Workflows和Unity Catalog等工具，帮助团队高效构建和优化数据工程流程。</description>
+      <pubDate>2024-08-30 15:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploy Secure Spring Boot Microservices on Azure AKS Using Terraform and Kubernetes</title>
+      <link>https://auth0.com/blog/terraform-aks-java-microservices/</link>
+      <description>本文介绍了如何在Azure AKS上使用Terraform和Kubernetes部署安全的Spring Boot微服务。通过Terraform自动化配置，文章详细阐述了如何构建一个基于JHipster框架的微服务架构，并利用Azure的托管Kubernetes服务（AKS）进行部署。文章还涉及了网络拓扑、Azure防火墙、应用网关等配置，以确保微服务的安全性和可靠性。</description>
+      <pubDate>2024-08-30 15:19:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Winning at GenAI: Building the right processes for the data intelligence future</title>
+      <link>https://www.databricks.com/blog/winning-genai-building-right-processes-data-intelligence-future</link>
+      <description>在生成式AI领域取得成功的关键在于建立合适的过程和策略。公司需要将愿景分解为可管理的步骤，确保员工能够自信地使用新系统，并支持管理层的转型。此外，公司应建立数据治理流程，确保数据安全，并选择合适的AI用例来展示AI的潜力。通过跟踪和评估AI系统的性能，企业可以确保AI应用始终产生准确和及时的结果，从而推动业务发展。</description>
+      <pubDate>2024-08-30 14:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>In the Windows kernel, what is a LUID, and what makes it loo-ey?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
+      <description>LUID是Windows内核中的一种结构，用于在本地机器上指定一个保证唯一的标识符。它是一个64位整数，分为两个32位部分，仅在系统重启前保持唯一性。LUID用于标识那些生命周期不超过系统重启的实体，不应跨系统发送或持久保存。</description>
+      <pubDate>2024-08-30 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Busie: Building a Charter Platform From the Ground Up with Confluent Cloud</title>
+      <link>https://www.confluent.io/blog/busie-building-a-charter-platform/</link>
+      <description>Busie公司利用Confluent Cloud构建了一个现代化的地面交通预订平台，通过数据流技术实现了从报价、库存管理到动态定价和客户分析的全面数字化运营。该平台帮助运输提供商提供无缝的在线预订体验，提高客户满意度，并显著降低客户获取成本。通过Confluent Cloud的全面托管资源和开发工具，Busie能够快速响应客户需求，开发新功能，并支持每月数百万美元的报价量。</description>
+      <pubDate>2024-08-30 13:46:50</pubDate>
+    </item>
+  
+    <item>
+      <title>Chatbot Security: 13 Considerations for SaaS Chatbot/IVA Assessment&nbsp;(Checklist Included)</title>
+      <link>https://www.haptik.ai/tech/chatbot-security</link>
+      <description>本文探讨了SaaS聊天机器人和智能虚拟助手（IVA）的安全评估，提供了13个关键安全考虑因素，包括数据存储、传输、敏感数据保护、身份验证和授权、平台和API安全、可用性、隐私合规性、用户权限、开发实践、监控和日志记录、AI和LLM安全、行业标准和应急响应能力。文章还附带了详细的聊天机器人安全评估清单，以帮助企业和个人确保其聊天机器人的安全性。</description>
+      <pubDate>2024-08-30 13:23:38</pubDate>
+    </item>
+  
+    <item>
+      <title>The 2024 State of PostgreSQL Survey Is Now Open!</title>
+      <link>https://www.timescale.com/blog/the-2024-state-of-postgresql-survey-is-now-open/</link>
+      <description>2024年 PostgreSQL 调查现已开放，调查结果显示 PostgreSQL 的受欢迎程度持续增长，用户对数据库的可靠性、开源和扩展性给予高度评价。调查还发现，中小型企业对 PostgreSQL 的使用增加，许多用户更倾向于使用 DBaaS 提供商来部署 PostgreSQL。</description>
+      <pubDate>2024-08-30 13:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Data + AI Use Cases from the World’s Leading Companies</title>
+      <link>https://www.databricks.com/blog/data-ai-use-cases-worlds-leading-companies</link>
+      <description>Databricks展示了全球领先公司如何利用其数据智能平台改善业务。案例包括德州游骑兵队利用数据优化人员决策，Minecraft通过Databricks减少处理时间，Blue River Technology开发全自主拖拉机，Ahold Delhaize USA构建数据平台以支持数据科学和AI/ML应用，Block利用Databricks实现金融服务的创新，以及AT&amp;T使用Databricks加速新数据产品的开发。这些案例展示了数据智能在提高效率、优化决策和推动创新方面的作用。</description>
+      <pubDate>2024-08-30 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laracon US 2024: Laravel 11 Minor Features That Enhance Performance</title>
+      <link>https://freek.dev/2756-laracon-us-2024-laravel-11-minor-features-that-enhance-performance</link>
+      <description>在Laracon US 2024会议上，Laravel团队发布了Laravel 11的多个“微小”特性，这些特性实际上对性能提升显著。</description>
+      <pubDate>2024-08-30 12:26:47</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: monkey names, and smart masks for health monitoring</title>
+      <link>https://www.technologyreview.com/2024/08/30/1103390/the-download-monkey-names-and-smart-masks-for-health-monitoring/</link>
+      <description>最新研究揭示猴子通过特定声音标记其猴群朋友，为人类语言起源提供线索；新型智能口罩可分析呼吸监测健康状况；改进的人工神经元工作方式使AI更易于理解。</description>
+      <pubDate>2024-08-30 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Micro-frontend : un exemple d'implémentation</title>
+      <link>https://blog.octo.com/octo-micro-frontend--un-exemple-d'implementation</link>
+      <description>本文探讨了Micro-Frontend架构在Micro-Assu公司的应用。Micro-Assu是一家提供快速保险报价的保险公司，其前端应用面临代码耦合、同步困难、认知负担和部署问题。通过将应用拆分为独立的微前端模块，并使用Module Federation进行部署，Micro-Assu成功解决了这些问题，提高了开发效率和部署灵活性。</description>
+      <pubDate>2024-08-30 12:09:10</pubDate>
+    </item>
+  
+    <item>
       <title>The Lean Leader’s Guide: Crush Short-Term Software Projects</title>
       <link>https://spin.atomicobject.com/short-term-software-projects/</link>
       <description>《精益领导者指南：高效完成短期软件项目》介绍了如何高效管理短期软件项目。文章强调通过简化版本控制、轻量级任务跟踪、专注测试策略和明确验收标准来保持团队高效协作，确保在短时间内交付高质量的项目。</description>
@@ -821,6 +900,13 @@
       <title>Social Media Content Plan: What You Need to Succeed</title>
       <link>https://s14415.pcdn.co/blog/social-media-content-plan/</link>
       <description>制定成功的社交媒体内容计划，是提升品牌可见度和营销目标的关键。首先，了解社交媒体环境，确定目标受众和内容策略。其次，运用互动技巧、用户生成内容和多样化内容类型来吸引关注。选择合适的社交媒体管理工具，如Brandwatch，进行内容规划和自动化发布。最后，通过分析来优化内容，保持动态的社交媒体策略。</description>
+      <pubDate>2024-08-27 15:49:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Content Plan: What You Need to Succeed</title>
+      <link>https://www.brandwatch.com/blog/social-media-content-plan/</link>
+      <description>制定有效的社交媒体内容计划对于提升品牌知名度、增强品牌可见性和实现营销目标至关重要。本文详细介绍了如何通过了解社交媒体环境、制定策略、策划内容、使用管理工具和建立可执行的内容日历来成功实施社交媒体内容计划。通过分析受众、竞争者和内容表现，可以优化策略并保持动态的社交媒体方法。</description>
       <pubDate>2024-08-27 15:49:53</pubDate>
     </item>
   
