@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Crafting bespoke content experiences for every customer with data intelligence</title>
+      <link>https://www.databricks.com/blog/crafting-bespoke-content-experiences-every-customer-data-intelligence</link>
+      <description>Condé Nast利用Databricks数据智能平台，克服了数据孤岛问题，实现了数据统一视图，大幅提升了数据分析效率和决策速度。通过个性化内容交付，Condé Nast节省了约600万美元的年度基础设施成本，增强了消费者参与度和忠诚度。</description>
+      <pubDate>2024-08-30 21:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Images in the Databricks Notebook: My Vivid Summer Internship</title>
+      <link>https://www.databricks.com/blog/images-databricks-notebook-my-vivid-summer-internship</link>
+      <description>本文讲述了作者在Databricks的暑期实习经历。实习期间，作者在探索性数据分析团队工作，专注于提升Databricks笔记本中图像交互的用户体验。通过改进图像嵌入、拖放等功能，作者成功提升了用户体验，并在实习期间获得了宝贵的经验和技能。</description>
+      <pubDate>2024-08-30 20:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>City of Columbus sues man after he discloses severity of ransomware attack</title>
+      <link>https://arstechnica.com/?p=2046614</link>
+      <description>辛辛那提市因一名安全研究员披露了该市遭受勒索软件攻击的严重性而对其提起诉讼。该研究员发现，攻击者窃取了大量敏感个人信息，与市长声称的数据不可用相矛盾。市长声称数据被加密或损坏，无法被犯罪分子使用。然而，研究员提供了证据，表明数据完整且包含高度敏感信息。辛辛那提市随后起诉研究员，指控其下载并泄露了被盗数据。</description>
+      <pubDate>2024-08-30 20:00:41</pubDate>
+    </item>
+  
+    <item>
       <title>Highlights from the Databricks Community</title>
       <link>https://www.databricks.com/blog/highlights-databricks-community</link>
       <description>Databricks社区技术博客分享最佳实践、教程和数据分析、数据工程与机器学习的见解。本月重点介绍构建AI应用、模型提示和监控数据分布变化的技巧。包括AI会议助手构建、模型API提示指南和MLOps监控方法。社区成员可提问、参与排行榜，并参加线上线下活动。</description>
