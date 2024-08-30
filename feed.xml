@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Chatbot Security: 13 Considerations for SaaS Chatbot/IVA Assessment&nbsp;(Checklist Included)</title>
+      <link>https://www.haptik.ai/tech/chatbot-security</link>
+      <description>本文探讨了SaaS聊天机器人和智能虚拟助手（IVA）的安全评估，提供了13个关键安全考虑因素，包括数据存储、传输、敏感数据保护、身份验证和授权、平台和API安全、可用性、隐私合规性、用户权限、开发实践、监控和日志记录、AI和LLM安全、行业标准和应急响应能力。文章还附带了详细的聊天机器人安全评估清单，以帮助企业和个人确保其聊天机器人的安全性。</description>
+      <pubDate>2024-08-30 13:23:38</pubDate>
+    </item>
+  
+    <item>
+      <title>The 2024 State of PostgreSQL Survey Is Now Open!</title>
+      <link>https://www.timescale.com/blog/the-2024-state-of-postgresql-survey-is-now-open/</link>
+      <description>2024年 PostgreSQL 调查现已开放，调查结果显示 PostgreSQL 的受欢迎程度持续增长，用户对数据库的可靠性、开源和扩展性给予高度评价。调查还发现，中小型企业对 PostgreSQL 的使用增加，许多用户更倾向于使用 DBaaS 提供商来部署 PostgreSQL。</description>
+      <pubDate>2024-08-30 13:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Data + AI Use Cases from the World’s Leading Companies</title>
+      <link>https://www.databricks.com/blog/data-ai-use-cases-worlds-leading-companies</link>
+      <description>Databricks展示了全球领先公司如何利用其数据智能平台改善业务。案例包括德州游骑兵队利用数据优化人员决策，Minecraft通过Databricks减少处理时间，Blue River Technology开发全自主拖拉机，Ahold Delhaize USA构建数据平台以支持数据科学和AI/ML应用，Block利用Databricks实现金融服务的创新，以及AT&amp;T使用Databricks加速新数据产品的开发。这些案例展示了数据智能在提高效率、优化决策和推动创新方面的作用。</description>
+      <pubDate>2024-08-30 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laracon US 2024: Laravel 11 Minor Features That Enhance Performance</title>
+      <link>https://freek.dev/2756-laracon-us-2024-laravel-11-minor-features-that-enhance-performance</link>
+      <description>在Laracon US 2024会议上，Laravel团队发布了Laravel 11的多个“微小”特性，这些特性实际上对性能提升显著。</description>
+      <pubDate>2024-08-30 12:26:47</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: monkey names, and smart masks for health monitoring</title>
+      <link>https://www.technologyreview.com/2024/08/30/1103390/the-download-monkey-names-and-smart-masks-for-health-monitoring/</link>
+      <description>最新研究揭示猴子通过特定声音标记其猴群朋友，为人类语言起源提供线索；新型智能口罩可分析呼吸监测健康状况；改进的人工神经元工作方式使AI更易于理解。</description>
+      <pubDate>2024-08-30 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Lean Leader’s Guide: Crush Short-Term Software Projects</title>
       <link>https://spin.atomicobject.com/short-term-software-projects/</link>
       <description>《精益领导者指南：高效完成短期软件项目》介绍了如何高效管理短期软件项目。文章强调通过简化版本控制、轻量级任务跟踪、专注测试策略和明确验收标准来保持团队高效协作，确保在短时间内交付高质量的项目。</description>
@@ -821,6 +856,13 @@
       <title>Social Media Content Plan: What You Need to Succeed</title>
       <link>https://s14415.pcdn.co/blog/social-media-content-plan/</link>
       <description>制定成功的社交媒体内容计划，是提升品牌可见度和营销目标的关键。首先，了解社交媒体环境，确定目标受众和内容策略。其次，运用互动技巧、用户生成内容和多样化内容类型来吸引关注。选择合适的社交媒体管理工具，如Brandwatch，进行内容规划和自动化发布。最后，通过分析来优化内容，保持动态的社交媒体策略。</description>
+      <pubDate>2024-08-27 15:49:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Content Plan: What You Need to Succeed</title>
+      <link>https://www.brandwatch.com/blog/social-media-content-plan/</link>
+      <description>制定有效的社交媒体内容计划对于提升品牌知名度、增强品牌可见性和实现营销目标至关重要。本文详细介绍了如何通过了解社交媒体环境、制定策略、策划内容、使用管理工具和建立可执行的内容日历来成功实施社交媒体内容计划。通过分析受众、竞争者和内容表现，可以优化策略并保持动态的社交媒体方法。</description>
       <pubDate>2024-08-27 15:49:53</pubDate>
     </item>
   
