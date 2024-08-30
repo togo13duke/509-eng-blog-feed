@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Highlights from the Databricks Community</title>
-      <link>https://www.databricks.com/blog/highlights-databricks-community</link>
-      <description>Databricks社区技术博客分享最佳实践、教程和数据分析、数据工程与机器学习的见解。本月重点介绍构建AI应用、模型提示和监控数据分布变化的技巧。包括AI会议助手构建、模型API提示指南和MLOps监控方法。社区成员可提问、参与排行榜，并参加线上线下活动。</description>
-      <pubDate>2024-08-30 18:45:00</pubDate>
-    </item>
-  
-    <item>
       <title>Welcome to the Data + AI World Tour 2024</title>
       <link>https://www.databricks.com/blog/welcome-data-ai-world-tour-2024</link>
       <description>Databricks宣布2024年数据+AI世界巡回展，全球多城市举办免费线下活动，涵盖最新数据智能平台创新、培训、演示和行业案例分享，旨在连接数据与AI社区，推动数据与AI策略发展。</description>
@@ -222,13 +215,6 @@
       <link>https://taylor.town/silver-landmines</link>
       <description>总结：
 文章探讨了“银弹”这一概念，即简单而神奇的解决方案，以及它们如何从解决问题的工具变成制造问题的陷阱。文章通过速度跑者的进步、历史案例和科技发展的例子，说明了银弹在技术和管理中的应用和局限性。作者认为，尽管硬件领域仍有巨大的进步空间，但软件领域的发展可能面临更多挑战，并提出了对软件未来发展的展望。</description>
-      <pubDate>2024-08-30 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Want to be productive from anywhere? Follow these tips from Perry Seale</title>
-      <link>https://www.elastic.co/blog/culture-be-productive-from-anywhere</link>
-      <description>Perry Seale分享了他在远程工作的经验，强调携带第二显示器和良好的连接性对于移动办公至关重要。他利用AI转录服务记录通话和笔记，并计划每月在美国的不同地方工作。Perry认为，远程工作与旅行相结合，可以丰富个人经历，提高工作效率，并促进跨文化交流。</description>
       <pubDate>2024-08-30 00:00:00</pubDate>
     </item>
   
@@ -488,13 +474,6 @@
       <title>Caching in Laravel with Redis: a complete guide</title>
       <link>https://www.honeybadger.io/blog/laravel-caching-redis/</link>
       <description>本文深入探讨了在Laravel中使用Redis进行缓存的完整指南。介绍了Laravel框架和Redis数据存储的特点，以及如何通过Redis缓存来提高数据检索速度和减少数据库负载。文章详细说明了如何设置Redis缓存、配置Laravel以使用Redis、以及如何在CRUD操作中利用Redis缓存，包括数据获取、更新和删除。最后，讨论了缓存对性能的优化作用及其带来的数据一致性和缓存失效等复杂性。</description>
-      <pubDate>2024-08-29 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>ICFP 2024</title>
-      <link>https://blog.janestreet.com/icfp-2024-index/</link>
-      <description>Jane Street技术团队积极参与编程语言社区，即将参加2024年国际函数式编程会议（ICFP）。团队在OCaml语言方面的工作包括类型系统扩展、代码生成和寄存器分配改进等，特别关注性能相关的类型系统扩展，如避免堆分配和垃圾回收，以及支持无数据竞争的并行编程。团队正在开发内部库和工具，以支持这些新特性，并计划在会议上展示这些功能。</description>
       <pubDate>2024-08-29 00:00:00</pubDate>
     </item>
   
