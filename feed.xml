@@ -202,6 +202,13 @@
     </item>
   
     <item>
+      <title>Mastering Multimodal AI for Advanced Video Understanding with Twelve Labs + Databricks Mosaic AI</title>
+      <link>https://www.databricks.com/blog/mastering-multimodal-ai-twelve-labs</link>
+      <description>Twelve Labs的Embed API与Databricks Mosaic AI Vector Search的集成，为视频AI应用提供了强大的工具。这种集成简化了视频内容的多模态处理，允许用户通过单一模型同时分析文本、图像和音频，从而提高内容推荐、搜索和内容审核等应用的效率。通过结合Twelve Labs的API和Databricks的向量搜索功能，用户可以更深入地理解视频内容，推动媒体、娱乐、安全及医疗等行业在视频AI领域的创新。</description>
+      <pubDate>2024-08-29 03:17:13</pubDate>
+    </item>
+  
+    <item>
       <title>Recommending for Long-Term Member Satisfaction at Netflix</title>
       <link>https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef?source=rss----2615bd06b42e---4</link>
       <description>Netflix致力于通过个性化推荐算法提升会员满意度，不仅关注短期互动，更注重长期满足感。通过将推荐视为情境赌博问题，并定义奖励函数以反映长期满意度，Netflix优化了推荐模型，以实现更精准的推荐。此外，通过预测延迟反馈和调整奖励工程，Netflix在提升用户体验和会员保留方面取得了显著成效。</description>
