@@ -6,41 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Welcome to the Data + AI World Tour 2024</title>
-      <link>https://www.databricks.com/blog/welcome-data-ai-world-tour-2024</link>
-      <description>Databricks宣布2024年数据+AI世界巡回展，全球多城市举办免费线下活动，涵盖最新数据智能平台创新、培训、演示和行业案例分享，旨在连接数据与AI社区，推动数据与AI策略发展。</description>
-      <pubDate>2024-08-30 18:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Absorb, Accelerate, Act as a Risk Sponge</title>
-      <link>https://ilya.grigorik.com/absorb-accelerate-act-as-a-risk-sponge/</link>
-      <description>领导者应吸收风险以优化学习速度、解锁团队并打破犹豫不决。风险不是消除，而是管理：重新分配或转移到其他领域、利益相关者、形式或时间点。通过在每个层级上吸收风险，组织可以更快地学习和保持技术及产品速度。</description>
-      <pubDate>2024-08-30 17:58:49</pubDate>
-    </item>
-  
-    <item>
-      <title>ChatGPT hits 200 million active weekly users, but how many will admit using it?</title>
-      <link>https://arstechnica.com/?p=2046413</link>
-      <description>ChatGPT活跃用户数突破2亿，尽管企业禁止使用AI，但人们对这个聊天机器人仍趋之若鹜。尽管存在对OpenAI长期可持续性的质疑，但OpenAI声称人们正在以创纪录的数量使用ChatGPT和其服务。同时，社会对生成式AI的偏见和担忧也在增加，但OpenAI仍致力于在医疗、教育等领域发挥其工具的作用。</description>
-      <pubDate>2024-08-30 17:21:36</pubDate>
-    </item>
-  
-    <item>
-      <title>The GenAI Journey: How Enterprises are Progressing from General-Purpose to Custom LLMs</title>
-      <link>https://www.databricks.com/blog/genai-journey-how-enterprises-are-progressing-general-purpose-custom-llms</link>
-      <description>企业从通用AI模型转向定制化LLMs的旅程：企业意识到大型通用模型在提供定制化业务洞察方面的不足，开始转向使用这些系统作为定制解决方案的基础，以获得竞争优势。这一过程需要新的工具和策略，包括实验、定制化训练和模型优化，以实现准确、受控和安全的AI应用。</description>
-      <pubDate>2024-08-30 17:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Nvidia H100 now available on DigitalOcean Kubernetes (EA)</title>
-      <link>https://www.digitalocean.com/blog/nvidia-h100-now-available-on-digitalocean-kubernetes</link>
-      <description>DigitalOcean宣布推出搭载NVIDIA H100 GPU的GPU启用工作节点，为Kubernetes环境提供早期访问。这些节点旨在简化AI/ML开发，使企业能够利用Kubernetes集群中的AI/ML能力，包括实验、开发、分布式工作负载和推理服务。这些节点提供灵活的配置和可扩展性，同时保持成本效益。</description>
-      <pubDate>2024-08-30 17:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Data Engineering and GenAI: The Tools Practitioners Need</title>
       <link>https://www.databricks.com/blog/data-engineering-and-genai-tools-practitioners-need</link>
       <description>数据工程和生成式AI：从业者所需工具
@@ -54,13 +19,6 @@
       <link>https://auth0.com/blog/terraform-aks-java-microservices/</link>
       <description>本文介绍了如何在Azure AKS上使用Terraform和Kubernetes部署安全的Spring Boot微服务。通过Terraform自动化配置，文章详细阐述了如何构建一个基于JHipster框架的微服务架构，并利用Azure的托管Kubernetes服务（AKS）进行部署。文章还涉及了网络拓扑、Azure防火墙、应用网关等配置，以确保微服务的安全性和可靠性。</description>
       <pubDate>2024-08-30 15:19:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Okta Fine Grained Authorization is now Available in Private Cloud on AWS</title>
-      <link>https://auth0.com/blog/okta-fga-is-now-available-in-private-cloud-on-aws/</link>
-      <description>Okta宣布其细粒度授权（FGA）服务现在可在AWS私有云上部署，提供高可用性和每秒请求量。FGA旨在简化授权过程，支持集中式、灵活、可扩展和易于使用的授权。私有云部署优化了请求每秒（RPS）性能，并支持多地区部署，以降低延迟并满足特定数据合规性要求。</description>
-      <pubDate>2024-08-30 15:07:00</pubDate>
     </item>
   
     <item>
@@ -190,32 +148,10 @@
     </item>
   
     <item>
-      <title>Refactor Cypress Network Tests</title>
-      <link>https://glebbahmutov.com/blog/refactor-network-tests/</link>
-      <description>本文探讨了如何优化Cypress网络测试。作者通过改进两个示例测试，展示了如何设置网络间谍、检查加载元素、延迟响应以及处理错误场景。这些改进有助于提高测试的稳定性和准确性。</description>
-      <pubDate>2024-08-30 04:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Naming The Parts Of The Body In Spanish</title>
       <link>https://www.babbel.com/en/magazine/parts-of-the-body-in-spanish</link>
       <description>学习西班牙语时，了解身体部位的名称至关重要。本文介绍了西班牙语中身体各部位的名称，包括面部和全身各部分，并强调了西班牙语中定冠词的使用。学习这些词汇有助于在西班牙语环境中更好地沟通。</description>
       <pubDate>2024-08-30 01:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Discord Patch Notes: August 30, 2024</title>
-      <link>https://discord.com/blog/discord-patch-notes-august-30-2024</link>
-      <description>Discord于2024年8月30日发布了更新，包括提高iOS稳定性、新增桌面搜索贴纸命令、使用无损WEBP格式优化贴纸质量、添加桌面Quest主屏幕、改进音频共享设置、优化移动端主题切换等。此外，还修复了多个界面问题、聊天功能、活动与应用、音频/视频、媒体和可访问性方面的bug。</description>
-      <pubDate>2024-08-30 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>So Many Silver Landmines</title>
-      <link>https://taylor.town/silver-landmines</link>
-      <description>总结：
-文章探讨了“银弹”这一概念，即简单而神奇的解决方案，以及它们如何从解决问题的工具变成制造问题的陷阱。文章通过速度跑者的进步、历史案例和科技发展的例子，说明了银弹在技术和管理中的应用和局限性。作者认为，尽管硬件领域仍有巨大的进步空间，但软件领域的发展可能面临更多挑战，并提出了对软件未来发展的展望。</description>
-      <pubDate>2024-08-30 00:00:00</pubDate>
     </item>
   
     <item>
@@ -1296,13 +1232,6 @@
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/</link>
       <description>AWS本周新闻：S3支持条件写入、Lambda引入递归循环检测API、Bedrock批量推理API推出、JAWS Pankration 2024在线活动举行，以及即将到来的AWS峰会和社区日活动。</description>
       <pubDate>2024-08-26 18:21:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Introducing Deployment Rollbacks</title>
-      <link>https://blog.replit.com/introducing-deployment-rollbacks</link>
-      <description>Replit推出了一项名为“部署回滚”的新功能，允许用户快速恢复到之前的成功部署。该功能支持一键回滚，修复错误或纠正错误，并提供了秘密管理功能，确保环境变量变化时正确使用秘密。回滚完成后，将显示在部署历史中，并涉及技术上的考虑，如创建新的回滚构建和部署流程优化。</description>
-      <pubDate>2024-08-26 18:20:34</pubDate>
     </item>
   
     <item>
