@@ -6,43 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Data Engineering and GenAI: The Tools Practitioners Need</title>
-      <link>https://www.databricks.com/blog/data-engineering-and-genai-tools-practitioners-need</link>
-      <description>数据工程和生成式AI：从业者所需工具
-
-随着越来越多的组织计划构建自己的生成式AI模型，良好的数据工程成为成功的关键。数据工程师需处理数据摄取、转换和编排，同时应对实时数据处理、数据管道可靠扩展、数据质量和治理等新挑战。Databricks平台提供Delta Lake、Delta Live Tables、Databricks Workflows和Unity Catalog等工具，帮助团队高效构建和优化数据工程流程。</description>
-      <pubDate>2024-08-30 15:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Deploy Secure Spring Boot Microservices on Azure AKS Using Terraform and Kubernetes</title>
-      <link>https://auth0.com/blog/terraform-aks-java-microservices/</link>
-      <description>本文介绍了如何在Azure AKS上使用Terraform和Kubernetes部署安全的Spring Boot微服务。通过Terraform自动化配置，文章详细阐述了如何构建一个基于JHipster框架的微服务架构，并利用Azure的托管Kubernetes服务（AKS）进行部署。文章还涉及了网络拓扑、Azure防火墙、应用网关等配置，以确保微服务的安全性和可靠性。</description>
-      <pubDate>2024-08-30 15:19:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Winning at GenAI: Building the right processes for the data intelligence future</title>
-      <link>https://www.databricks.com/blog/winning-genai-building-right-processes-data-intelligence-future</link>
-      <description>在生成式AI领域取得成功的关键在于建立合适的过程和策略。公司需要将愿景分解为可管理的步骤，确保员工能够自信地使用新系统，并支持管理层的转型。此外，公司应建立数据治理流程，确保数据安全，并选择合适的AI用例来展示AI的潜力。通过跟踪和评估AI系统的性能，企业可以确保AI应用始终产生准确和及时的结果，从而推动业务发展。</description>
-      <pubDate>2024-08-30 14:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>In the Windows kernel, what is a LUID, and what makes it loo-ey?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240830-00/?p=110198</link>
-      <description>LUID是Windows内核中的一种结构，用于在本地机器上指定一个保证唯一的标识符。它是一个64位整数，分为两个32位部分，仅在系统重启前保持唯一性。LUID用于标识那些生命周期不超过系统重启的实体，不应跨系统发送或持久保存。</description>
-      <pubDate>2024-08-30 14:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Busie: Building a Charter Platform From the Ground Up with Confluent Cloud</title>
-      <link>https://www.confluent.io/blog/busie-building-a-charter-platform/</link>
-      <description>Busie公司利用Confluent Cloud构建了一个现代化的地面交通预订平台，通过数据流技术实现了从报价、库存管理到动态定价和客户分析的全面数字化运营。该平台帮助运输提供商提供无缝的在线预订体验，提高客户满意度，并显著降低客户获取成本。通过Confluent Cloud的全面托管资源和开发工具，Busie能够快速响应客户需求，开发新功能，并支持每月数百万美元的报价量。</description>
-      <pubDate>2024-08-30 13:46:50</pubDate>
-    </item>
-  
-    <item>
       <title>Chatbot Security: 13 Considerations for SaaS Chatbot/IVA Assessment&nbsp;(Checklist Included)</title>
       <link>https://www.haptik.ai/tech/chatbot-security</link>
       <description>本文探讨了SaaS聊天机器人和智能虚拟助手（IVA）的安全评估，提供了13个关键安全考虑因素，包括数据存储、传输、敏感数据保护、身份验证和授权、平台和API安全、可用性、隐私合规性、用户权限、开发实践、监控和日志记录、AI和LLM安全、行业标准和应急响应能力。文章还附带了详细的聊天机器人安全评估清单，以帮助企业和个人确保其聊天机器人的安全性。</description>
@@ -75,13 +38,6 @@
       <link>https://www.technologyreview.com/2024/08/30/1103390/the-download-monkey-names-and-smart-masks-for-health-monitoring/</link>
       <description>最新研究揭示猴子通过特定声音标记其猴群朋友，为人类语言起源提供线索；新型智能口罩可分析呼吸监测健康状况；改进的人工神经元工作方式使AI更易于理解。</description>
       <pubDate>2024-08-30 12:10:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Micro-frontend : un exemple d'implémentation</title>
-      <link>https://blog.octo.com/octo-micro-frontend--un-exemple-d'implementation</link>
-      <description>本文探讨了Micro-Frontend架构在Micro-Assu公司的应用。Micro-Assu是一家提供快速保险报价的保险公司，其前端应用面临代码耦合、同步困难、认知负担和部署问题。通过将应用拆分为独立的微前端模块，并使用Module Federation进行部署，Micro-Assu成功解决了这些问题，提高了开发效率和部署灵活性。</description>
-      <pubDate>2024-08-30 12:09:10</pubDate>
     </item>
   
     <item>
