@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Top Business Intelligence Sessions from Data + AI Summit</title>
+      <link>https://www.databricks.com/blog/top-business-intelligence-sessions-data-ai-summit</link>
+      <description>Databricks在最近的Data + AI Summit上展示了其数据智能平台，该平台通过结合AI和湖仓架构，为员工提供快速、准确、定制化的业务信息，并支持数据可视化和广泛共享。会议中探讨了如何通过数据智能平台解决数据仓库的挑战，实现企业级安全和合规性，以及如何利用数据智能平台在体育、电信和医疗保健等领域取得成功。</description>
+      <pubDate>2024-08-31 15:45:00</pubDate>
+    </item>
+  
+    <item>
       <title>Setting up a Wireguard VPN in Unifi</title>
       <link>https://carlosbecker.com/posts/unifi-vpn/</link>
       <description>本文介绍了如何在Unifi Dream Machine上设置Wireguard VPN。作者详细说明了如何使用Mullvad作为VPN服务器，并在Unifi控制台中导入配置文件。此外，还解释了如何将特定网站通过VPN路由，并提醒用户在公共网络中使用VPN可能违反法律。</description>
