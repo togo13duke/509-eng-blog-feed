@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New Providers on Databricks Marketplace</title>
+      <link>https://www.databricks.com/blog/new-providers-databricks-marketplace</link>
+      <description>Databricks Marketplace新增超过40个数据提供商和100个新条目，涵盖营销、房地产、医疗保健和AI等领域。新合作伙伴包括提供西班牙和拉丁美洲消费者行为数据的Gain Dynamics，以及提供地理空间和房地产数据的GapMaps。Databricks Marketplace提供230多个数据提供商和2200多个数据集，助力用户进行数据分析和AI应用。</description>
+      <pubDate>2024-08-31 17:45:00</pubDate>
+    </item>
+  
+    <item>
       <title>Online Tools Coupon Code (Autumn 2024) 🍂</title>
       <link>https://catonmat.net/online-tools-coupon-code-autumn-2024</link>
       <description>秋季专属优惠：使用优惠券代码LEAFYTOOLS24在结账时享受特别折扣，提升秋季项目效率。此优惠今日截止。</description>
@@ -334,6 +341,13 @@
       <title>How machine learning is helping us probe the secret names of animals</title>
       <link>https://www.technologyreview.com/2024/08/29/1103353/how-machine-learning-is-helping-us-probe-the-secret-names-of-animals/</link>
       <description>研究人员利用机器学习和音频记录，发现小型猴子——绒猴，通过特定的声音来标识它们的猴群伙伴。这一发现挑战了人类语言独特性的观点，表明动物可能也具有类似命名的能力。这些研究可能有助于揭示人类语言的起源。</description>
+      <pubDate>2024-08-29 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Android Studio Koala Feature Drop is Stable!</title>
+      <link>http://android-developers.googleblog.com/2024/08/android-studio-koala-feature-drop-is-stable.html</link>
+      <description>Android Studio Koala Feature Drop（2024.1.2）稳定版发布，新增多项功能，包括设备流媒体、Compose预览、USB电缆速度检测等，旨在加速Android应用开发。此外，还优化了性能分析器、更新了IntelliJ平台，并解决了520多个bug，提升整体质量和稳定性。</description>
       <pubDate>2024-08-29 18:00:00</pubDate>
     </item>
   
@@ -1021,6 +1035,27 @@
       <link>https://devblogs.microsoft.com/dotnet/whats-new-in-csharp-dev-kit-august-2024/</link>
       <description>C# Dev Kit更新为Visual Studio Code带来了增强的Razor IntelliSense、项目状态和新的配置选项，提高了开发效率和用户体验。</description>
       <pubDate>2024-08-27 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Instagram’s early adoption of Ultra HDR transforms user experience in only 3 months</title>
+      <link>http://android-developers.googleblog.com/2024/08/instagrams-early-adoption-of-ultra-hdr-transforms-user-experience.html</link>
+      <description>Instagram通过早期采用Android 14中的Ultra HDR图像格式，在短短3个月内彻底改善了用户体验。Ultra HDR提高了照片质量，使图像更清晰、色彩更丰富，并支持同时编辑和分享多张HDR照片。Instagram的这一创新得到了行业内的认可，并计划在Android 15中进一步扩展其功能。</description>
+      <pubDate>2024-08-27 17:02:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature</title>
+      <link>http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html</link>
+      <description>Pixel的录音应用通过Gemini Nano功能提升了24%的用户参与度，该功能利用设备端AI进行音频摘要，帮助用户更轻松地找到所需录音并快速掌握要点。开发者通过优化模型和利用AICore系统服务，实现了快速开发，并获得了用户的高度评价。</description>
+      <pubDate>2024-08-27 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!</title>
+      <link>http://android-developers.googleblog.com/2024/08/tas24-recap.html</link>
+      <description>Android开发者博客最新一期#TheAndroidShow深入探讨了Google最新产品，包括可穿戴设备、折叠屏、Gemini等。内容涵盖如何为Pixel 9 Pro Fold等设备构建自适应UI，以及如何为Pixel Watch 3等可穿戴设备准备应用。此外，还介绍了Gemini Nano的多模态AI模型，以及多位开发者分享的优化应用体验的案例。</description>
+      <pubDate>2024-08-27 16:55:00</pubDate>
     </item>
   
     <item>
