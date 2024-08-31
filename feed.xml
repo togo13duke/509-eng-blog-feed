@@ -6,27 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Stepping into personalized experiences for every customer with the Databricks Data Intelligence Platform</title>
-      <link>https://www.databricks.com/blog/stepping-personalized-experiences-every-customer-databricks-data-intelligence-platform</link>
-      <description>Skechers利用Databricks数据智能平台和ActionIQ客户数据平台，通过整合数据和分析，实现了个性化客户体验，提高了点击率和降低了获取成本。通过统一数据生态系统，Skechers优化了营销团队的工作效率，并实现了更精准的营销策略。</description>
-      <pubDate>2024-08-30 23:40:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Engineering with Empathy: My Journey to Understanding the User Experience</title>
-      <link>https://slack.engineering/engineering-with-empathy-my-journey-to-understanding-the-user-experience/</link>
-      <description>作为一名工程师，作者强调了同理心在理解用户体验和创造包容性产品中的重要性。她分享了在Slack的可访问性团队实习期间，如何通过实际用户互动、观察专业人士和积极提出想法来培养同理心，从而提升工程决策的质量。</description>
-      <pubDate>2024-08-30 22:54:41</pubDate>
-    </item>
-  
-    <item>
-      <title>Data Warehousing Trends from Data + AI Summit</title>
-      <link>https://www.databricks.com/blog/data-warehousing-trends-data-ai-summit</link>
-      <description>在2024年数据+AI峰会上，数据仓库领域呈现了向更高级、可扩展和安全的解决方案转变的趋势。会议重点讨论了如何通过新技术提高数据效率和可访问性，包括AI/BI Genie的对话式分析体验、Databricks SQL的性能、扩展和安全特性，以及与BI工具的深度集成等。</description>
-      <pubDate>2024-08-30 22:40:00</pubDate>
-    </item>
-  
-    <item>
       <title>Crafting bespoke content experiences for every customer with data intelligence</title>
       <link>https://www.databricks.com/blog/crafting-bespoke-content-experiences-every-customer-data-intelligence</link>
       <description>Condé Nast利用Databricks数据智能平台，克服了数据孤岛问题，实现了数据统一视图，大幅提升了数据分析效率和决策速度。通过个性化内容交付，Condé Nast节省了约600万美元的年度基础设施成本，增强了消费者参与度和忠诚度。</description>
