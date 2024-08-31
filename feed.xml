@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Setting up a Wireguard VPN in Unifi</title>
+      <link>https://carlosbecker.com/posts/unifi-vpn/</link>
+      <description>本文介绍了如何在Unifi Dream Machine上设置Wireguard VPN。作者详细说明了如何使用Mullvad作为VPN服务器，并在Unifi控制台中导入配置文件。此外，还解释了如何将特定网站通过VPN路由，并提醒用户在公共网络中使用VPN可能违反法律。</description>
+      <pubDate>2024-08-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Stepping into personalized experiences for every customer with the Databricks Data Intelligence Platform</title>
       <link>https://www.databricks.com/blog/stepping-personalized-experiences-every-customer-databricks-data-intelligence-platform</link>
       <description>Skechers利用Databricks数据智能平台和ActionIQ客户数据平台，通过整合数据和分析，实现了个性化客户体验，提高了点击率和降低了获取成本。通过统一数据生态系统，Skechers优化了营销团队的工作效率，并实现了更精准的营销策略。</description>
