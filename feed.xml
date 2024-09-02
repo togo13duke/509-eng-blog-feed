@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Restrict repository deployments to specific teams</title>
+      <link>https://vercel.com/changelog/restrict-repository-deployments-to-specific-teams</link>
+      <description>Vercel现在允许企业客户将Git仓库的部署权限限制给特定的Vercel团队，以防止未经授权的部署，保护敏感代码库。这一新功能旨在提高安全性，确保只有授权团队可以部署受保护的仓库。</description>
+      <pubDate>2024-09-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: how to prove you’re human, and replacing the grid’s gas</title>
+      <link>https://www.technologyreview.com/2024/09/02/1103477/the-download-how-to-prove-youre-human-and-replacing-the-grids-gas/</link>
+      <description>研究人员开发了一种名为“人格凭证”的验证概念，以证明在线用户是真实的人类，同时不透露任何关于其身份的额外信息。同时，公司正在寻找替代品来取代电网中使用的强效温室气体六氟化硫（SF6），以应对气候变化。</description>
+      <pubDate>2024-09-02 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>This was Laracon US 2024</title>
+      <link>https://freek.dev/2757-this-was-laracon-us-2024</link>
+      <description>Laracon US 2024回顾：作者分享了参加Laracon US 2024的体验，包括行程、住宿、活动地点和演讲者。此外，作者还介绍了自己的博客和社交媒体平台，以及定期分享的编程技巧和项目学习心得。</description>
+      <pubDate>2024-09-02 12:07:37</pubDate>
+    </item>
+  
+    <item>
       <title>Quiz: Generate Images With DALL·E and the OpenAI API</title>
       <link>https://realpython.com/quizzes/generate-images-with-dalle-and-openai-api/</link>
       <description>使用OpenAI API和DALL·E生成图像的Python互动测验，通过9个问题测试对使用Python库生成图像、创建文本提示图像、图像变体以及Base64字符串到PNG文件转换的理解。</description>
@@ -38,6 +59,13 @@
       <link>https://developers.redhat.com/articles/2024/09/02/exploring-full-capabilities-web-terminal-operator</link>
       <description>探索Web终端操作员的全功能：本文介绍了Web终端操作员的基本功能和自定义方法，包括如何使用wtoctl工具来设置超时、更改shell和启用持久存储。文章还讨论了Web终端的生命周期，包括其与DevWorkspace自定义资源的关系以及如何管理Web终端会话。</description>
       <pubDate>2024-09-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Best of…: Classic WTF: A Systematic Approach</title>
+      <link>https://thedailywtf.com/articles/classic-wtf-a-systematic-approach</link>
+      <description>Frank，一位自信的IT专业人士，被一家银行雇佣来将十二个服务器设施合并为一个。面对复杂的数据中心环境和缺乏沟通的问题，他采取了系统化的方法，最终成功完成了任务，尽管实际上只是将旧设施隐藏在新的数据中心之下。</description>
+      <pubDate>2024-09-02 05:30:00</pubDate>
     </item>
   
     <item>
