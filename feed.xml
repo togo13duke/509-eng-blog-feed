@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Quiz: Generate Images With DALL·E and the OpenAI API</title>
+      <link>https://realpython.com/quizzes/generate-images-with-dalle-and-openai-api/</link>
+      <description>使用OpenAI API和DALL·E生成图像的Python互动测验，通过9个问题测试对使用Python库生成图像、创建文本提示图像、图像变体以及Base64字符串到PNG文件转换的理解。</description>
+      <pubDate>2024-09-02 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How “personhood credentials” could help prove you’re a human online</title>
+      <link>https://www.technologyreview.com/2024/09/02/1103466/how-personhood-credentials-could-help-prove-youre-a-human-online/</link>
+      <description>研究人员提出了一种名为“人格凭证”的验证概念，旨在通过证明持证人是真实人类来减少网络上的欺骗性AI的使用。用户需前往认证机构提供身份证明，然后在线上使用这些凭证，通过零知识证明来验证身份，从而在社交媒体等平台上过滤掉未经验证的账户。这一概念旨在鼓励政府、公司和标准机构考虑采用，以防止AI欺骗失控。</description>
+      <pubDate>2024-09-02 10:11:49</pubDate>
+    </item>
+  
+    <item>
+      <title>The race to replace the powerful greenhouse gas that underpins the power grid</title>
+      <link>https://www.technologyreview.com/2024/09/02/1103398/greenhouse-gas-grid-sf6/</link>
+      <description>全球电力系统中使用的六氟化硫（SF6）是一种强效温室气体，尽管其排放量相对较小，但它的全球变暖潜力极高。随着排放量逐年上升，各国政府正在寻求替代方案。例如，Hitachi Energy推出了不含SF6的新高压开关设备，并计划在2032年前逐步淘汰SF6的使用。同时，研究人员正在探索使用超临界二氧化碳等替代材料，以减少对氟化物的依赖。</description>
+      <pubDate>2024-09-02 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>10 Best API Documentation Tools for 2024</title>
+      <link>https://nordicapis.com/10-best-api-documentation-tools-for-2024/</link>
+      <description>2024年最佳API文档工具盘点：本文介绍了10款最受欢迎的API文档工具，包括Apiary、Slate、SwaggerHub、DapperDox、Knowl.ai、Docusaurus、Apidog、Redoc、Gitbook和DevDocs。这些工具各有特色，可满足不同需求，帮助开发者高效创建和维护API文档。</description>
+      <pubDate>2024-09-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Exploring the full capabilities of the Web Terminal Operator</title>
       <link>https://developers.redhat.com/articles/2024/09/02/exploring-full-capabilities-web-terminal-operator</link>
       <description>探索Web终端操作员的全功能：本文介绍了Web终端操作员的基本功能和自定义方法，包括如何使用wtoctl工具来设置超时、更改shell和启用持久存储。文章还讨论了Web终端的生命周期，包括其与DevWorkspace自定义资源的关系以及如何管理Web终端会话。</description>
