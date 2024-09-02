@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Implementing Hot Reload for OpenTelemetry Collector: A Step-by-Step Guide</title>
+      <link>https://last9.io/blog/hot-reload-for-opentelemetry-collector/</link>
+      <description>本文介绍了如何为OpenTelemetry Collector实现热重载，以即时更新配置，提高可观测性系统的敏捷性。通过配置管理，可以实现零停机时间更新，持续数据流，减少数据丢失风险。文章详细说明了设置热重载的步骤，包括编辑服务文件、配置重载命令、应用系统更改和执行热重载。同时，也提到了热重载的限制和注意事项，以及如何解决热重载问题。</description>
+      <pubDate>2024-09-02 14:20:54</pubDate>
+    </item>
+  
+    <item>
+      <title>The Co­Initialize­Security function demands an absolute security descriptor</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201</link>
+      <description>CoInitializeSecurity函数要求绝对安全描述符格式，而常见的安全描述符格式是自相对格式。如果传递自相对安全描述符，则函数会失败。虽然要求绝对格式已记录，但仍然令人烦恼。如果更新CoInitializeSecurity以支持自相对安全描述符，可能会创建兼容性问题，因为新代码可能在旧系统上运行时出现问题。</description>
+      <pubDate>2024-09-02 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Generate Images With DALL·E and the OpenAI API</title>
+      <link>https://realpython.com/generate-images-with-dalle-openai-api/</link>
+      <description>使用OpenAI的DALL·E和API生成图像：本教程介绍了如何使用OpenAI Python库和API创建图像，包括从文本提示生成图像、创建图像变体以及将Base64 JSON响应转换为PNG文件。需要具备Python、JSON和文件操作经验。</description>
+      <pubDate>2024-09-02 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Restrict repository deployments to specific teams</title>
       <link>https://vercel.com/changelog/restrict-repository-deployments-to-specific-teams</link>
       <description>Vercel现在允许企业客户将Git仓库的部署权限限制给特定的Vercel团队，以防止未经授权的部署，保护敏感代码库。这一新功能旨在提高安全性，确保只有授权团队可以部署受保护的仓库。</description>
@@ -30,6 +51,13 @@
       <title>Quiz: Generate Images With DALL·E and the OpenAI API</title>
       <link>https://realpython.com/quizzes/generate-images-with-dalle-and-openai-api/</link>
       <description>使用OpenAI API和DALL·E生成图像的Python互动测验，通过9个问题测试对使用Python库生成图像、创建文本提示图像、图像变体以及Base64字符串到PNG文件转换的理解。</description>
+      <pubDate>2024-09-02 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Use Conditional Expressions With NumPy where()</title>
+      <link>https://realpython.com/quizzes/numpy-where-conditional-expressions/</link>
+      <description>本篇博客文章介绍如何使用NumPy的where()函数进行条件表达式。通过一个包含10个问题的互动测验，读者可以检验并巩固从教程中学到的知识，并挑战自我。测验无时间限制，每答对一题得一分，最终获得总分，最高分为100%。</description>
       <pubDate>2024-09-02 12:00:00</pubDate>
     </item>
   
