@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Driving into the future of electric transportation</title>
+      <link>https://www.databricks.com/blog/driving-future-electric-transportation</link>
+      <description>Rivian，一家电动汽车制造商，正通过使用Databricks数据智能平台来推动电动汽车的可持续发展。该平台帮助Rivian统一数据，提高数据分析效率，实现预测性维护，优化驾驶体验，并促进数据共享和协作。通过Databricks，Rivian能够更好地理解车辆使用情况，提高软件质量，并加速创新，以实现可持续交通革命。</description>
+      <pubDate>2024-09-02 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: AWS Parallel Computing Service, Amazon EC2 status checks, and more (September 2, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-parallel-computing-service-amazon-ec2-status-checks-and-more-september-2-2024/</link>
+      <description>AWS本周发布了多项新功能和服务，包括AWS Parallel Computing Service、Amazon EC2状态检查、Amazon QuickSight共享仪表板视图、Amazon Q业务IAM联合身份验证、Amazon Bedrock跨区域推理等。此外，还推出了新的实例类型和可用性扩展，以及即将举行的AWS会议和活动。</description>
+      <pubDate>2024-09-02 17:42:42</pubDate>
+    </item>
+  
+    <item>
+      <title>High-Performance Java Persistence Newsletter, Issue 66</title>
+      <link>https://vladmihalcea.com/high-performance-java-persistence-newsletter-issue-66/</link>
+      <description>本期刊物介绍了Hypersistence Optimizer工具，它可自动检测JPA和Hibernate性能问题，适用于多种Java框架。文章还涵盖了Hibernate 6.6版本的新特性、数据库驱动更新、性能优化技巧，并预告了即将在奥斯陆举行的高性能Spring Persistence培训。</description>
+      <pubDate>2024-09-02 16:30:20</pubDate>
+    </item>
+  
+    <item>
+      <title>Thomas uses GenAI to improve workplace collaboration</title>
+      <link>https://www.databricks.com/blog/thomas-uses-genai-improve-workplace-collaboration</link>
+      <description>托马斯公司利用生成式AI提升职场协作效率，通过Databricks平台进行数据管理和分析，实现内容搜索和自动生成，提高员工评估的效率和个性化，推动业务创新和增长。</description>
+      <pubDate>2024-09-02 15:45:00</pubDate>
+    </item>
+  
+    <item>
       <title>Implementing Hot Reload for OpenTelemetry Collector: A Step-by-Step Guide</title>
       <link>https://last9.io/blog/hot-reload-for-opentelemetry-collector/</link>
       <description>本文介绍了如何为OpenTelemetry Collector实现热重载，以即时更新配置，提高可观测性系统的敏捷性。通过配置管理，可以实现零停机时间更新，持续数据流，减少数据丢失风险。文章详细说明了设置热重载的步骤，包括编辑服务文件、配置重载命令、应用系统更改和执行热重载。同时，也提到了热重载的限制和注意事项，以及如何解决热重载问题。</description>
