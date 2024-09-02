@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Exploring the full capabilities of the Web Terminal Operator</title>
+      <link>https://developers.redhat.com/articles/2024/09/02/exploring-full-capabilities-web-terminal-operator</link>
+      <description>探索Web终端操作员的全功能：本文介绍了Web终端操作员的基本功能和自定义方法，包括如何使用wtoctl工具来设置超时、更改shell和启用持久存储。文章还讨论了Web终端的生命周期，包括其与DevWorkspace自定义资源的关系以及如何管理Web终端会话。</description>
+      <pubDate>2024-09-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>OpenTelemetry Filelog Receiver: Collecting Logs from Kubernetes</title>
       <link>https://last9.io/blog/opentelemetry-filelog-receiver-kubernetes-log-collection/</link>
       <description>OpenTelemetry Filelog Receiver是用于从Kubernetes收集日志的关键工具，它能够高效处理大量日志，并与其他OpenTelemetry组件无缝集成。通过配置YAML文件，可以指定日志文件路径、解析规则和元数据提取，从而实现日志的标准化和可观测性。此外，该工具还支持多种解析器，如正则表达式解析器和JSON解析器，以适应不同格式的日志。通过合理配置，Filelog Receiver能够帮助用户在复杂环境中实现高效的日志收集和管理。</description>
