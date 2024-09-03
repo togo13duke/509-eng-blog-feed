@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hacktoberfest 2024: Celebrate All Things Open Source!</title>
+      <link>https://www.digitalocean.com/blog/hacktoberfest-2024</link>
+      <description>Hacktoberfest 2024将于10月1日开始，是一个为期一个月的庆祝开源活动的盛会。参与者通过创建四个被项目维护者接受的拉取/合并请求来支持开源项目。活动期间，参与者将获得一个数字徽章，并有机会参与由Major League Hacking举办的Global Hack Week。活动旨在鼓励人们为开源项目做出贡献，无论是通过技术代码贡献还是非技术技能，如写作、图形设计或倡导。</description>
+      <pubDate>2024-09-03 16:22:11</pubDate>
+    </item>
+  
+    <item>
       <title>How to build an open source metrics dashboard</title>
       <link>https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/</link>
       <description>GitHub志愿者为世界卫生组织（WHO）构建了一个开源指标仪表板，以监测开源生态系统的健康状况。该仪表板通过分析GitHub数据，帮助WHO评估开源项目的安全、可靠性和维护情况。项目采用开源方式，强调透明度和社区参与，并提供了三个最佳实践：公开构建、为所有人配置和采用适当的社区品牌。</description>
       <pubDate>2024-09-03 16:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>New infrastructure integrations with GitHub, Illumio, Palo Alto Networks, Tessell, and more</title>
+      <link>https://www.hashicorp.com/blog/new-infra-integrations-github-illumio-palo-alto-networks-tessell-more</link>
+      <description>HashiCorp宣布推出新的基础设施集成，包括与GitHub、Illumio、Palo Alto Networks、Tessell等公司的合作，以及18个新的Terraform和Packer集成，旨在提供更多自动化和云基础设施管理的选项。这些集成将增强Terraform和Packer用户在部署和管理云和本地基础设施时的能力。</description>
+      <pubDate>2024-09-03 16:00:00</pubDate>
     </item>
   
     <item>
@@ -51,6 +65,13 @@
       <title>Using Pydantic to Simplify Python Data Validation</title>
       <link>https://realpython.com/courses/pydantic-simplify-data-validation/</link>
       <description>Pydantic是一个强大的Python数据验证和设置管理库，可简化代码库的健壮性和可靠性。本视频课程将教授如何使用Pydantic的数据模式、自定义验证器、函数参数验证和管理设置，以简化Python数据验证。</description>
+      <pubDate>2024-09-03 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why did Windows 95 use blue screen error messages instead of hard error messages?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240903-00/?p=110205</link>
+      <description>Windows 95使用蓝色屏幕错误信息而非硬错误信息的原因在于，硬错误信息位于错误的层级。在Windows的实模式或标准模式下，Windows运行在MS-DOS之上作为文件I/O层。当I/O错误发生时，它被报告给Windows I/O层，然后Windows GUI会冻结所有应用程序以显示硬错误对话框。然而，由于虚拟机管理器检测到的错误类型（导致蓝色屏幕信息）与Windows或MS-DOS虚拟机中的操作异步，因此虚拟机管理器无法将其所有问题报告给Windows I/O层。蓝色屏幕信息的设计要求虚拟显示驱动程序能够快速切换到文本模式，显示文本消息，然后切换回原始模式，这需要预留一小块内存来保存视频内存和视频卡状态。</description>
       <pubDate>2024-09-03 14:00:00</pubDate>
     </item>
   
@@ -163,6 +184,20 @@
       <title>A package to easily backup database tables in Laravel</title>
       <link>https://www.amitmerchant.com/backup-database-tables-in-laravel/</link>
       <description>介绍了一个Laravel包，用于轻松备份数据库表。该包通过Composer安装，允许用户在代码中备份单个或多个表，并可选择自定义备份文件名。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Telemetry in Go 1.23 and beyond</title>
+      <link>https://go.dev/blog/gotelemetry</link>
+      <description>Go 1.23引入了新的遥测功能，允许用户分享工具链程序使用数据，帮助Go团队修复bug、避免回归并做出更好的决策。通过启用遥测上传，用户可以选择性地分享数据，默认情况下数据仅存储在本地计算机上。文章还讨论了遥测在gopls中的实施，以及如何通过VS Code插件中的提示来增加用户参与度。遥测数据已帮助发现并修复了多个gopls中的bug，未来计划将遥测扩展到更多Go工具链组件，以提升Go语言的可靠性和用户体验。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Iceberg ahead: Why your legacy SIEM is a sinking ship</title>
+      <link>https://www.elastic.co/blog/why-your-legacy-siem-is-a-sinking-ship</link>
+      <description>随着现代网络威胁的日益复杂，依赖过时的SIEM系统可能导致数据泄露和品牌损害。企业应考虑升级到下一代SIEM解决方案，如Elastic Security，以实现更快速、更敏捷的威胁检测和响应，确保网络安全。</description>
       <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
