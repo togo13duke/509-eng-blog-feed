@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The State of GraphQL Security in 2024</title>
+      <link>https://nordicapis.com/the-state-of-graphql-security-in-2024/</link>
+      <description>2024年，GraphQL在API领域的安全问题日益凸显。Escape团队的研究发现，在160个公开的GraphQL服务中，存在超过13,000个问题，其中4,400个暴露了GraphQL机密信息。主要问题包括资源消耗不受限制、安全配置错误和特定于GraphQL的问题。为了缓解这些问题，建议进行输入验证、清理和限制，移除死代码并经常审计，以及使用估计来操作。</description>
+      <pubDate>2024-09-03 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>At scale, anything that could fail definitely will</title>
       <link>https://stackoverflow.blog/2024/09/03/pradeep-vincent-oracle-oci-cloud-redundancy-failover/</link>
       <description>在规模化的环境中，任何可能失败的事物最终都会失败。本文访谈了Oracle Cloud Infrastructure的首席技术架构师Pradeep Vincent，他分享了在IBM和AWS早期作为高级工程师的经验，讨论了在全球化规模下构建和准备应对系统故障的方法。他强调了额外的安全层，包括将自身的虚拟机视为不可信的。此外，他还探讨了随着生成式AI成为许多公司技术栈中更大的一部分，云计算的未来发展方向。</description>
