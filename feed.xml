@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity &amp; Administration</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-34/</link>
+      <description>Docker Desktop 4.34版本发布，带来多项重要更新，包括MSI安装程序通用版、主机网络支持、磁盘空间自动回收、认证增强、NVIDIA AI Workbench集成、多平台用户体验改进和containerd镜像存储。这些更新旨在提升安全性、可扩展性和生产力，简化环境部署和管理，并支持企业级AI应用开发。</description>
+      <pubDate>2024-09-03 14:00:48</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: election tech fears, and AI for teachers</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103506/the-download-election-tech-fears-and-ai-for-teachers/</link>
+      <description>人工智能在选举中的影响被夸大了，教育技术公司正在向教师推广AI工具以节省时间。</description>
+      <pubDate>2024-09-03 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Use Obsidian for Complex Entity Documentation</title>
       <link>https://spin.atomicobject.com/obsidian-complex-entity/</link>
       <description>Obsidian简化了复杂实体关系模型的文档工作，通过其markdown平台和可视化功能，帮助团队轻松记录和共享数据迁移过程中的实体关系，提高协作效率，使文档工作更加愉快和高效。</description>
@@ -59,6 +73,13 @@
       <link>https://stackoverflow.blog/2024/09/03/pradeep-vincent-oracle-oci-cloud-redundancy-failover/</link>
       <description>在规模化的环境中，任何可能失败的事物最终都会失败。本文访谈了Oracle Cloud Infrastructure的首席技术架构师Pradeep Vincent，他分享了在IBM和AWS早期作为高级工程师的经验，讨论了在全球化规模下构建和准备应对系统故障的方法。他强调了额外的安全层，包括将自身的虚拟机视为不可信的。此外，他还探讨了随着生成式AI成为许多公司技术栈中更大的一部分，云计算的未来发展方向。</description>
       <pubDate>2024-09-03 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Progress</title>
+      <link>http://lucumr.pocoo.org/2024/9/3/progress</link>
+      <description>随着年岁增长，许多社交圈变得越发保守，人们从追求建设转向保护现有成果。然而，历史表明，进步和新鲜思想最终会胜出。每天我们面临选择：勇敢乐观地前进还是固守现状。尽管拥抱新思想有风险，但拒绝探索同样如此。在当前政治环境中，一些政治家试图回归过去，但未来一代可能会质疑我们的短视。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
     <item>
