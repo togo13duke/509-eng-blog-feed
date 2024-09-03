@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Prevent the Docker container from taking 10 seconds to stop</title>
+      <link>https://akrabat.com/prevent-the-php-fpm-container-taking-10-seconds-to-stop/</link>
+      <description>Docker容器停止时耗时10秒的问题可以通过将CMD指令修改为exec形式来解决。原本的CMD指令启动了Bash作为PID 1，而Bash没有正确处理信号，导致php-fpm进程无法被正确终止。修改后，php-fpm直接作为PID 1启动，能够正确处理SIGTERM信号，从而快速停止容器。</description>
+      <pubDate>2024-09-03 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI’s impact on elections is being overblown</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/</link>
+      <description>人工智能对选举的影响被夸大了。尽管有关AI在选举中造成干扰的担忧存在，但现有证据表明，AI对选举结果的影响有限。文章指出，AI在选举过程中的应用并未取得显著成效，而且AI生成的内容在信息海洋中难以脱颖而出。此外，文章强调，对AI的过度关注可能会分散人们对真正威胁民主的长期问题的注意力。</description>
+      <pubDate>2024-09-03 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Here’s how ed-tech companies are pitching AI to teachers</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103481/heres-how-ed-tech-companies-are-pitching-ai-to-teachers/</link>
+      <description>教育科技公司正推广人工智能工具以帮助教师节省时间，例如自动评分、提供反馈和规划课程。尽管一些教师对此持怀疑态度，但AI被视为教师的时间节省者。这些公司强调AI可以减轻教师的工作负担，尤其是在数据收集、报告和沟通等方面。然而，教师对于AI在课程规划和评分等核心教学任务上的可靠性仍存在疑虑。</description>
+      <pubDate>2024-09-03 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The State of GraphQL Security in 2024</title>
       <link>https://nordicapis.com/the-state-of-graphql-security-in-2024/</link>
       <description>2024年，GraphQL在API领域的安全问题日益凸显。Escape团队的研究发现，在160个公开的GraphQL服务中，存在超过13,000个问题，其中4,400个暴露了GraphQL机密信息。主要问题包括资源消耗不受限制、安全配置错误和特定于GraphQL的问题。为了缓解这些问题，建议进行输入验证、清理和限制，移除死代码并经常审计，以及使用估计来操作。</description>
