@@ -6,41 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Rust in Linux lead retires rather than deal with more “nontechnical nonsense”</title>
-      <link>https://arstechnica.com/?p=2046763</link>
-      <description>Rust编程语言在Linux内核中的推广遭遇挑战，项目负责人因“非技术性干扰”而辞职。Linux内核开发团队内部对引入Rust存在分歧，一些开发者认为Rust将提高代码安全性，但其他开发者则更倾向于保持现有的C语言代码。林纳斯·托瓦兹（Linus Torvalds）表示，Rust的采用速度较慢，部分原因是老一代内核开发者对C语言更为熟悉，且Rust基础设施不够稳定。</description>
-      <pubDate>2024-09-03 19:38:06</pubDate>
-    </item>
-  
-    <item>
-      <title>Our first Spotlight Week: diving into Android 15</title>
-      <link>http://android-developers.googleblog.com/2024/09/android-15-spotlight-week.html</link>
-      <description>Android Developers Blog宣布推出“Spotlight Week”系列，深入探讨Android 15新特性。本周将提供博客、视频、示例代码等资源，帮助开发者准备应用并利用最新功能。内容包括Edge-to-Edge API、前景服务更新、Passkeys和画中画功能等。</description>
-      <pubDate>2024-09-03 18:10:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Google Maps improved download reliability by 10% using user initiated data transfer API</title>
-      <link>http://android-developers.googleblog.com/2024/09/google-maps-improved-download-reliability-user-initiated-data-transfer-api.html</link>
-      <description>Google Maps通过采用用户触发的数据传输API（UIDT）提高了下载可靠性10%。该API允许在Android 14及以上版本中执行长时间、用户触发的网络数据传输，解决了现有服务在长时间数据传输方面的不足。Google Maps利用UIDT实现了离线地图下载，即使在网络连接中断时也能保证下载的可靠性。</description>
-      <pubDate>2024-09-03 18:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Android 15 is released to AOSP</title>
-      <link>http://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html</link>
-      <description>Android 15已发布至AOSP，为Pixel等设备提供支持，并将在未来几个月内扩展到其他品牌。新版本增强了隐私、安全、性能和用户体验，包括改进的字体、媒体和相机功能，以及新的Spotlight Weeks教育系列。开发者应更新SDK、库和工具以支持新版本，并确保应用兼容性。</description>
-      <pubDate>2024-09-03 18:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel</title>
-      <link>https://arstechnica.com/?p=2046777</link>
-      <description>YubiKeys存在克隆攻击漏洞，由于新发现的侧信道问题。这种攻击可破坏广泛使用的FIDO密钥的安全性。研究人员发现，所有YubiKey 5系列型号都易受攻击，而修复漏洞的方法不可行，使得受影响的设备永久易受攻击。</description>
-      <pubDate>2024-09-03 17:58:06</pubDate>
-    </item>
-  
-    <item>
       <title>Hacktoberfest 2024: Celebrate All Things Open Source!</title>
       <link>https://www.digitalocean.com/blog/hacktoberfest-2024</link>
       <description>Hacktoberfest 2024将于10月1日开始，是一个为期一个月的庆祝开源活动的盛会。参与者通过创建四个被项目维护者接受的拉取/合并请求来支持开源项目。活动期间，参与者将获得一个数字徽章，并有机会参与由Major League Hacking举办的Global Hack Week。活动旨在鼓励人们为开源项目做出贡献，无论是通过技术代码贡献还是非技术技能，如写作、图形设计或倡导。</description>
