@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>At scale, anything that could fail definitely will</title>
+      <link>https://stackoverflow.blog/2024/09/03/pradeep-vincent-oracle-oci-cloud-redundancy-failover/</link>
+      <description>在规模化的环境中，任何可能失败的事物最终都会失败。本文访谈了Oracle Cloud Infrastructure的首席技术架构师Pradeep Vincent，他分享了在IBM和AWS早期作为高级工程师的经验，讨论了在全球化规模下构建和准备应对系统故障的方法。他强调了额外的安全层，包括将自身的虚拟机视为不可信的。此外，他还探讨了随着生成式AI成为许多公司技术栈中更大的一部分，云计算的未来发展方向。</description>
+      <pubDate>2024-09-03 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Shift Networks</title>
       <link>https://www.jeremykun.com/2024/09/02/shift-networks/</link>
       <description>本文探讨了同态加密中数据布局策略“打包”的重要性，以及如何在加密文本中转换打包策略。文章详细介绍了SIMD-style同态加密的计算模型，并提出了一个简单的Python对象来表示该模型。接着，文章讨论了打包转换的问题，包括如何通过元素加法、乘法和循环旋转来最小化操作成本。最后，文章介绍了Vos-Vos-Erkin的图着色方法，该方法通过将旋转分解为二进制表示的幂次旋转来解决冲突问题。</description>
