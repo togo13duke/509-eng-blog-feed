@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Use Obsidian for Complex Entity Documentation</title>
+      <link>https://spin.atomicobject.com/obsidian-complex-entity/</link>
+      <description>Obsidian简化了复杂实体关系模型的文档工作，通过其markdown平台和可视化功能，帮助团队轻松记录和共享数据迁移过程中的实体关系，提高协作效率，使文档工作更加愉快和高效。</description>
+      <pubDate>2024-09-03 12:00:39</pubDate>
+    </item>
+  
+    <item>
       <title>Prevent the Docker container from taking 10 seconds to stop</title>
       <link>https://akrabat.com/prevent-the-php-fpm-container-taking-10-seconds-to-stop/</link>
       <description>Docker容器停止时耗时10秒的问题可以通过将CMD指令修改为exec形式来解决。原本的CMD指令启动了Bash作为PID 1，而Bash没有正确处理信号，导致php-fpm进程无法被正确终止。修改后，php-fpm直接作为PID 1启动，能够正确处理SIGTERM信号，从而快速停止容器。</description>
@@ -31,6 +38,20 @@
       <link>https://nordicapis.com/the-state-of-graphql-security-in-2024/</link>
       <description>2024年，GraphQL在API领域的安全问题日益凸显。Escape团队的研究发现，在160个公开的GraphQL服务中，存在超过13,000个问题，其中4,400个暴露了GraphQL机密信息。主要问题包括资源消耗不受限制、安全配置错误和特定于GraphQL的问题。为了缓解这些问题，建议进行输入验证、清理和限制，移除死代码并经常审计，以及使用估计来操作。</description>
       <pubDate>2024-09-03 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ruby 3.3.5 Released</title>
+      <link>https://www.ruby-lang.org/en/news/2024/09/03/3-3-5-released/</link>
+      <description>Ruby 3.3.5版本已发布，包含小范围错误修复。建议用户尽快升级。更多详情请查看GitHub发布说明。预计11月5日发布3.3.6版，1月7日发布3.3.7版。如需下载，请访问指定链接。感谢所有贡献者。</description>
+      <pubDate>2024-09-03 06:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Testing the Juniors</title>
+      <link>https://thedailywtf.com/articles/testing-the-juniors</link>
+      <description>Stefan作为新晋开发者，在提交首个功能时遭遇测试失败，发现是同事Terry的代码更改引入了NullPointerException。Stefan选择私下提醒Terry，而非公开创建工单。文章指出，私下解决问题可能不利于团队沟通和成长，应鼓励透明度和反馈，同时强调代码审查和持续集成的重要性。</description>
+      <pubDate>2024-09-03 06:30:00</pubDate>
     </item>
   
     <item>
