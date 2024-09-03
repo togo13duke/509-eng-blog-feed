@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to build an open source metrics dashboard</title>
+      <link>https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/</link>
+      <description>GitHub志愿者为世界卫生组织（WHO）构建了一个开源指标仪表板，以监测开源生态系统的健康状况。该仪表板通过分析GitHub数据，帮助WHO评估开源项目的安全、可靠性和维护情况。项目采用开源方式，强调透明度和社区参与，并提供了三个最佳实践：公开构建、为所有人配置和采用适当的社区品牌。</description>
+      <pubDate>2024-09-03 16:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>The Salesforce Developer’s Guide to the Winter ’25 Release</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/winter25-developers.html</link>
+      <description>Salesforce Winter '25版本发布，带来多项产品更新和新功能，包括Apex和LWC的增强、数据云的新特性、Agentforce产品组合的扩展以及平台开发工具的更新。开发者可利用这些新功能提升开发体验，如改进的Apex异常处理、LWC的本地开发支持、数据云的向量搜索和RAG功能，以及Agentforce Agents的引入。</description>
+      <pubDate>2024-09-03 15:30:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Coming soon: Our 2024 list of Innovators Under 35</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103450/coming-soon-2024-innovators-under-35/</link>
+      <description>2024年，MIT Technology Review将公布“35岁以下创新者”名单，表彰在材料科学、生物技术、机器人、人工智能、气候和能源等领域做出突破性工作的年轻研究人员和企业家。这些创新者正致力于解决全球性问题，如疾病预防和气候变化。</description>
+      <pubDate>2024-09-03 15:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What this futuristic Olympics video says about the state of generative AI</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103516/what-this-futuristic-olympics-video-says-about-the-state-of-generative-ai/</link>
+      <description>这篇关于未来奥运会视频的博客文章探讨了生成式AI的现状。文章通过一个未来奥运会视频展示了AI视频生成的潜力，但也指出了其局限性和挑战，如需要大量提示、难以保持视频的连贯性以及处理复杂场景的困难。尽管如此，AI视频生成技术在广告和内容创作等领域仍有广泛应用的前景。</description>
+      <pubDate>2024-09-03 15:08:17</pubDate>
+    </item>
+  
+    <item>
+      <title>New Docker Desktop Enterprise Admin Features: MSI Installer and Login Enforcement Alternative</title>
+      <link>https://www.docker.com/blog/docker-desktop-msi-installer-login-enforcement-alternatives/</link>
+      <description>Docker Desktop Enterprise新增了MSI安装程序和登录强制执行替代方案，旨在简化管理、提高安全性并确保用户充分利用Docker Business订阅功能。MSI安装程序提供更强大的部署功能，而新的登录强制执行机制则通过Windows注册表简化了IT管理员的操作流程。这些更新旨在提升用户体验，并支持企业级部署。</description>
+      <pubDate>2024-09-03 14:02:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Desktop 4.34: MSI Installer GA, Upgraded Host Networking, and Powerful Enhancements for Boosted Productivity &amp; Administration</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-34/</link>
+      <description>Docker Desktop 4.34版本发布，带来多项重要更新，包括MSI安装程序通用版、主机网络支持、磁盘空间自动回收、认证增强、NVIDIA AI Workbench集成、多平台用户体验改进和containerd镜像存储。这些更新旨在提升安全性、可扩展性和生产力，简化环境部署和管理，并支持企业级AI应用开发。</description>
+      <pubDate>2024-09-03 14:00:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Using Pydantic to Simplify Python Data Validation</title>
+      <link>https://realpython.com/courses/pydantic-simplify-data-validation/</link>
+      <description>Pydantic是一个强大的Python数据验证和设置管理库，可简化代码库的健壮性和可靠性。本视频课程将教授如何使用Pydantic的数据模式、自定义验证器、函数参数验证和管理设置，以简化Python数据验证。</description>
+      <pubDate>2024-09-03 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DEI-focused Cloudera Sponsorship Program Named Finalist for Ragan Awards 2024 CSR &amp; Diversity Awards</title>
+      <link>https://blog.cloudera.com/dei-focused-cloudera-sponsorship-program-named-finalist-for-ragan-awards-2024-csr-diversity-awards/</link>
+      <description>Cloudera的赞助计划因其对多元化和包容性的承诺而获得Ragan 2024企业社会责任与多样性奖项的提名。该计划通过将资深领导与有潜力的员工配对，提供个性化的支持和职业发展机会，旨在提升多样性并促进领导力发展。通过定期的评估和反馈，Cloudera确保该计划能够满足参与者的需求，并促进公司文化的多元化。</description>
+      <pubDate>2024-09-03 13:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>#WeArePlay | Estante Mágica, the app helping kids publish their own books</title>
+      <link>http://android-developers.googleblog.com/2024/09/weareplay-estante-magica-app-helping-kids-publish-books.html</link>
+      <description>Estante Mágica是一款帮助儿童成为作家的应用程序，由Robson在巴西里约热内卢创立。该应用旨在激发孩子们的想象力和阅读兴趣，通过将他们的故事变成书籍，影响整个家庭对阅读和教育的重视。未来，Estante Mágica计划整合更多人工智能技术，让孩子们的创作更加生动，并计划将这一魔法扩展到更多学校和社区。</description>
+      <pubDate>2024-09-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: election tech fears, and AI for teachers</title>
+      <link>https://www.technologyreview.com/2024/09/03/1103506/the-download-election-tech-fears-and-ai-for-teachers/</link>
+      <description>人工智能在选举中的影响被夸大了，教育技术公司正在向教师推广AI工具以节省时间。</description>
+      <pubDate>2024-09-03 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Use Obsidian for Complex Entity Documentation</title>
       <link>https://spin.atomicobject.com/obsidian-complex-entity/</link>
       <description>Obsidian简化了复杂实体关系模型的文档工作，通过其markdown平台和可视化功能，帮助团队轻松记录和共享数据迁移过程中的实体关系，提高协作效率，使文档工作更加愉快和高效。</description>
@@ -20,6 +90,13 @@
     </item>
   
     <item>
+      <title>Para Athletics, Shooting &amp; Swimming: Fresh Insights as the Summer Games Continue</title>
+      <link>https://s14415.pcdn.co/blog/para-summer-games/</link>
+      <description>巴黎残奥会期间，Brandwatch通过分析社交媒体数据，揭示了最受欢迎的运动员、热门话题和病毒式传播的内容。开闭幕式、运动员的成就和感人瞬间，如射击运动员Avani Lekhara打破印度纪录，以及年轻射箭手Sheetal Devi的精彩表现，都引发了广泛的讨论和关注。</description>
+      <pubDate>2024-09-03 09:44:47</pubDate>
+    </item>
+  
+    <item>
       <title>AI’s impact on elections is being overblown</title>
       <link>https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/</link>
       <description>人工智能对选举的影响被夸大了。尽管有关AI在选举中造成干扰的担忧存在，但现有证据表明，AI对选举结果的影响有限。文章指出，AI在选举过程中的应用并未取得显著成效，而且AI生成的内容在信息海洋中难以脱颖而出。此外，文章强调，对AI的过度关注可能会分散人们对真正威胁民主的长期问题的注意力。</description>
@@ -31,6 +108,13 @@
       <link>https://www.technologyreview.com/2024/09/03/1103481/heres-how-ed-tech-companies-are-pitching-ai-to-teachers/</link>
       <description>教育科技公司正推广人工智能工具以帮助教师节省时间，例如自动评分、提供反馈和规划课程。尽管一些教师对此持怀疑态度，但AI被视为教师的时间节省者。这些公司强调AI可以减轻教师的工作负担，尤其是在数据收集、报告和沟通等方面。然而，教师对于AI在课程规划和评分等核心教学任务上的可靠性仍存在疑虑。</description>
       <pubDate>2024-09-03 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to share AI/BI Dashboards with everyone in your organization</title>
+      <link>https://www.databricks.com/blog/sharing-aibi-dashboards</link>
+      <description>Databricks博客文章介绍了如何通过AI/BI仪表板在组织中共享关键业务指标和洞察。文章详细说明了创建、发布和共享仪表板的过程，包括与不同用户和组分享的选项，以及如何为只读用户设置权限。通过这些功能，组织可以轻松地推动数据驱动的决策。</description>
+      <pubDate>2024-09-03 07:54:17</pubDate>
     </item>
   
     <item>
@@ -59,6 +143,27 @@
       <link>https://stackoverflow.blog/2024/09/03/pradeep-vincent-oracle-oci-cloud-redundancy-failover/</link>
       <description>在规模化的环境中，任何可能失败的事物最终都会失败。本文访谈了Oracle Cloud Infrastructure的首席技术架构师Pradeep Vincent，他分享了在IBM和AWS早期作为高级工程师的经验，讨论了在全球化规模下构建和准备应对系统故障的方法。他强调了额外的安全层，包括将自身的虚拟机视为不可信的。此外，他还探讨了随着生成式AI成为许多公司技术栈中更大的一部分，云计算的未来发展方向。</description>
       <pubDate>2024-09-03 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Progress</title>
+      <link>http://lucumr.pocoo.org/2024/9/3/progress</link>
+      <description>随着年岁增长，许多社交圈变得越发保守，人们从追求建设转向保护现有成果。然而，历史表明，进步和新鲜思想最终会胜出。每天我们面临选择：勇敢乐观地前进还是固守现状。尽管拥抱新思想有风险，但拒绝探索同样如此。在当前政治环境中，一些政治家试图回归过去，但未来一代可能会质疑我们的短视。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Inventory to insight: How Elastic’s asset inventory powers InfoSec use cases</title>
+      <link>https://www.elastic.co/blog/how-elastic-asset-inventory-powers-infosec</link>
+      <description>Elastic的资产库存如何通过Elastic Stack提升信息安全应用案例。通过扩展资产定义，采用命名规范和标准化元数据，Elastic构建了一个综合的资产视图，实现了对用户、设备、权限和应用的关联分析，从而增强了安全态势感知和响应能力。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A package to easily backup database tables in Laravel</title>
+      <link>https://www.amitmerchant.com/backup-database-tables-in-laravel/</link>
+      <description>介绍了一个Laravel包，用于轻松备份数据库表。该包通过Composer安装，允许用户在代码中备份单个或多个表，并可选择自定义备份文件名。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
     <item>
