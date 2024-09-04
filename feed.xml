@@ -6,10 +6,38 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Discover .NET at DEVintersection Las Vegas 2024</title>
+      <link>https://devblogs.microsoft.com/dotnet/discover-dotnet-at-dev-intersection-las-vegas-2024/</link>
+      <description>2024年9月9日至12日，拉斯维加斯的DevIntersection活动将聚焦于.NET和Azure的最新技术。参与者将有机会与.NET团队和社区专家面对面交流，深入了解最新进展，并直接向构建他们日常使用工具的人提问。活动将包括多个.NET专题研讨会和实际操作工作坊，旨在提升开发者的技能和知识。</description>
+      <pubDate>2024-09-04 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Cosmos Institute launches</title>
+      <link>https://blog.rootsofprogress.org/the-cosmos-institute-launches</link>
+      <description>The Cosmos Institute, founded by Jason Crawford, aims to harness AI for expanding human freedom and excellence. As a Founding Fellow, Crawford emphasizes the importance of reason, decentralization, and human autonomy, advocating for a humanistic approach over existential pessimism or accelerationism.</description>
+      <pubDate>2024-09-04 19:59:00</pubDate>
+    </item>
+  
+    <item>
       <title>Enhanced Workflows UI reduces debugging time and boosts productivity</title>
       <link>https://www.databricks.com/blog/enhanced-workflows-ui-reduces-debugging-time-and-boosts-productivity</link>
       <description>Databricks推出增强的工作流程用户界面，大幅减少调试时间并提高生产力。新功能包括时间线视图、运行事件、简化错误消息、Databricks助手集成和列出Python库，旨在帮助数据工程师更高效地监控和诊断工作负载问题。</description>
       <pubDate>2024-09-04 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Zyxel warns of vulnerabilities in a wide range of its products</title>
+      <link>https://arstechnica.com/?p=2047312</link>
+      <description>Zyxel发布警告，其多款产品存在安全漏洞，可能导致设备被完全控制。最严重漏洞CVE-2024-7261可被未授权攻击者利用执行系统命令，影响近30款设备。其他漏洞包括缓冲区溢出、命令注入和跨站脚本攻击等，影响防火墙和VPN设备。Zyxel建议用户尽快修补这些漏洞。</description>
+      <pubDate>2024-09-04 18:57:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Training Highly Scalable Deep Recommender Systems on Databricks (Part 1)</title>
+      <link>https://www.databricks.com/blog/training-deep-recommender-systems-1</link>
+      <description>本文介绍了在Databricks上训练高度可扩展的深度推荐系统的方法。文章重点介绍了如何使用Databricks平台和PyTorch库来构建和部署推荐模型，包括分布式数据加载和训练。通过使用Mosaic Streaming和TorchDistributor，可以有效地处理大规模数据集，并实现高效的模型训练。此外，文章还展示了如何使用Two Tower和DLRM模型来优化推荐系统的性能。</description>
+      <pubDate>2024-09-04 18:20:58</pubDate>
     </item>
   
     <item>
@@ -125,6 +153,13 @@
     </item>
   
     <item>
+      <title>What’s new in React 19</title>
+      <link>https://vercel.com/blog/whats-new-in-react-19</link>
+      <description>React 19引入了多项新特性和改进，包括Server Components，它通过在服务器上渲染组件来提高页面加载速度和SEO效果；Directives，用于区分客户端和服务器代码；Actions，用于替代事件处理程序并集成React的并发特性；以及新的Hooks，如useActionState、useFormStatus和useOptimistic，简化了状态管理和UI更新。此外，React 19还增加了资源预加载API和其它优化，如ref作为属性、ref回调和Context作为提供者等。</description>
+      <pubDate>2024-09-04 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: climate tipping point alarms, and AI’s vision of the 3028 Olympics</title>
       <link>https://www.technologyreview.com/2024/09/04/1103615/the-download-climate-tipping-point-alarms-and-ais-vision-of-the-3028-olympics/</link>
       <description>英国启动了价值8100万英镑的项目，旨在开发早期预警系统，以在地球接近气候临界点时发出警报。该项目旨在通过开发低成本传感器、部署监测网络和建立计算机模型来减少科学不确定性。同时，人工智能视频生成技术展示了其创造潜力，但也揭示了其局限性。</description>
@@ -194,6 +229,13 @@
 
 本文介绍了如何使用yt-dlp下载YouTube视频或整个频道。yt-dlp是一个强大的工具，可以下载单个视频或整个频道的内容。对于只想要音频的用户，还可以使用额外的参数来下载MP3格式的音频。yt-dlp已经成为下载YouTube视频的新标准，确保下载内容以备旅行、长时间散步或其他用途。</description>
       <pubDate>2024-09-04 04:42:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Bliki: Cycle Time</title>
+      <link>https://martinfowler.com/bliki/CycleTime.html</link>
+      <description>循环时间是指从软件系统中的新功能从想法到在生产环境中运行所需的时间。敏捷开发中，我们通过定义和实施非常小的功能以及最小化开发过程中的延迟来尽量减少循环时间。循环时间虽然是一个有用的概念，但本质上具有不确定性。了解工作流程的每个步骤，识别它们所花费的时间和它们之间的等待时间，有助于减少循环时间。通过减少功能大小和增加灵活性，可以加快新功能的生产速度，从而更快地获得新功能的益处并获得反馈以改进工作方式。</description>
+      <pubDate>2024-09-04 04:00:00</pubDate>
     </item>
   
     <item>
@@ -685,6 +727,13 @@
       <title>Exploring the full capabilities of the Web Terminal Operator</title>
       <link>https://developers.redhat.com/articles/2024/09/02/exploring-full-capabilities-web-terminal-operator</link>
       <description>探索Web终端操作员的全功能：本文介绍了Web终端操作员的基本功能和自定义方法，包括如何使用wtoctl工具来设置超时、更改shell和启用持久存储。文章还讨论了Web终端的生命周期，包括其与DevWorkspace自定义资源的关系以及如何管理Web终端会话。</description>
+      <pubDate>2024-09-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Explore the full capabilities of the Web Terminal Operator</title>
+      <link>https://developers.redhat.com/articles/2024/09/02/explore-full-capabilities-web-terminal-operator</link>
+      <description>探索Web终端操作员的全功能，了解其基本操作和自定义方法，包括设置超时、更改shell和启用持久存储。通过内置的wtoctl工具，用户可以进一步定制Web终端环境。</description>
       <pubDate>2024-09-02 07:00:00</pubDate>
     </item>
   
