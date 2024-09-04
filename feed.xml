@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Instrumenting fasthttp with OpenTelemetry: A Comprehensive Guide</title>
+      <link>https://last9.io/blog/instrumenting-fasthttp-with-opentelemetry/</link>
+      <description>本文深入探讨了如何使用OpenTelemetry对fasthttp进行监控，从设置项目到实际监控和改进应用性能的实用技巧。文章详细介绍了手动监控的优势，包括分布式跟踪和上下文传播相关概念。通过配置应用将指标推送到OTLP端点，并使用OpenTelemetry Collector或其他兼容系统进行分析和警报。</description>
+      <pubDate>2024-09-04 09:27:29</pubDate>
+    </item>
+  
+    <item>
       <title>What’s The Difference Between Shadow APIs and Zombie APIs?</title>
       <link>https://nordicapis.com/whats-the-difference-between-shadow-apis-and-zombie-apis/</link>
       <description>本文探讨了影子API和僵尸API的区别及其对组织、数据安全和用户隐私的影响。影子API由于缺乏文档和意识而存在，而僵尸API则是被废弃但仍可用的API。文章建议通过加强文档、生命周期管理和安全审计来减轻这些问题。</description>
