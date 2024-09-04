@@ -13,9 +13,65 @@
     </item>
   
     <item>
+      <title>Giving C++ std::regex a C makeover</title>
+      <link>https://nullprogram.com/blog/2024/09/04/</link>
+      <description>本文介绍了一种将C++的std::regex库封装成C接口的方法，以便在C语言环境中使用正则表达式。通过自定义的接口和内存管理策略，实现了对C++正则表达式库的封装，同时避免了C++的复杂性。文章详细讨论了接口设计、内存分配、异常处理以及与C++正则表达式库的交互。</description>
+      <pubDate>2024-09-04 17:15:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Read Meta’s 2024 Sustainability Report</title>
+      <link>https://sustainability.atmeta.com/2024-sustainability-report/</link>
+      <description>Meta的2024年可持续发展报告强调了其致力于推动全球社区变革的承诺。报告概述了Meta在实现净零排放、水资源管理、可再生能源使用和负责任供应链方面的进展。Meta承诺到2030年实现水资源正平衡，并在2023年通过18个水恢复项目向高和中度缺水地区返还了超过15亿加仑的水。此外，Meta还致力于通过其数据中心和供应链实现可持续性，并投资于可再生能源和森林恢复项目。</description>
+      <pubDate>2024-09-04 17:04:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Stability AI’s best image generating models now in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/</link>
+      <description>Stability AI的三款新图像生成模型——Stable Image Ultra、Stable Diffusion 3 Large和Stable Image Core——现已加入Amazon Bedrock。这些模型在多主题提示、图像质量和字体方面表现卓越，可用于快速生成高质量的视觉内容，适用于营销、广告、媒体、娱乐、零售等多个领域。这些模型能够生成逼真的图像，具有出色的细节、色彩和照明效果，并能够处理如真实手部和面部渲染等常见挑战。</description>
+      <pubDate>2024-09-04 17:01:57</pubDate>
+    </item>
+  
+    <item>
+      <title>Sutskever strikes AI gold with billion-dollar backing for superintelligent AI</title>
+      <link>https://arstechnica.com/?p=2047175</link>
+      <description>OpenAI前首席科学家Ilya Sutskever创立的AI初创公司Safe Superintelligence（SSI）已获得10亿美元融资，旨在开发超越人类能力的“安全”AI系统。该公司计划在加州帕洛阿尔托和以色列特拉维夫建立研究团队，并专注于AI安全，以防止可能对人类构成生存威胁的强大AI系统。</description>
+      <pubDate>2024-09-04 16:42:21</pubDate>
+    </item>
+  
+    <item>
+      <title>The latest AWS Heroes have arrived – September 2024</title>
+      <link>https://aws.amazon.com/blogs/aws/the-latest-aws-heroes-have-arrived-september-2024/</link>
+      <description>AWS英雄计划在2024年9月迎来了最新一批成员，包括来自全球各地的技术专家，他们在AWS社区中做出了显著贡献。这些英雄通过分享见解、最佳实践和创新解决方案，帮助他人提高效率并更快地在AWS上构建。</description>
+      <pubDate>2024-09-04 16:36:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Let Flink Cook: Mastering Real-Time Retrieval-Augmented Generation (RAG) with Flink</title>
+      <link>https://www.confluent.io/blog/mastering-real-time-retrieval-augmented-generation-rag-with-flink/</link>
+      <description>Apache Flink和Apache Kafka在Confluent Cloud中用于构建RAG聊天机器人，通过实时数据流增强AI模型，提高生成AI系统的准确性和可靠性。通过Flink SQL和Kafka，可以处理和整合实时数据，实现数据准备和推理，从而创建更智能、更准确的AI应用。</description>
+      <pubDate>2024-09-04 16:25:16</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploying Rust in Existing Firmware Codebases</title>
+      <link>http://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html</link>
+      <description>Google Android团队采用Rust语言提高现有固件代码库的安全性。通过逐步引入Rust，优先替换新代码和最关键的代码，可以显著提升安全性。文章详细介绍了如何使用Rust替代C代码，以及如何处理无标准Rust环境、选择合适的库、移植标准库到无标准环境等挑战。</description>
+      <pubDate>2024-09-04 16:02:00</pubDate>
+    </item>
+  
+    <item>
       <title>NIST’s post-quantum cryptography standards: Our plans</title>
       <link>https://www.hashicorp.com/blog/nist-s-post-quantum-cryptography-standards-our-plans</link>
       <description>NIST发布了后量子加密标准，以应对量子计算机的威胁。这些标准包括ML-KEM、ML-DSA、SLH-DSA等，预计将帮助企业和用户保持通信和数据交换的安全。HashiCorp计划逐步开发量子安全解决方案，并支持这些新标准，以适应未来量子计算机的挑战。企业应制定后量子准备计划，包括优先评估高风险资产、发现和记录加密使用情况，并实施零信任安全策略。</description>
+      <pubDate>2024-09-04 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Best practices for cost-efficient Kafka clusters</title>
+      <link>https://stackoverflow.blog/2024/09/04/best-practices-for-cost-efficient-kafka-clusters/</link>
+      <description>在当今数据驱动的世界中，Apache Kafka已成为现代数据流的核心，尤其是在人工智能和数据量激增的推动下。管理成本同时保持Kafka的性能和可靠性具有挑战性，因为其复杂的架构、高吞吐量和低延迟的需求以及大量的存储和计算资源。本文将解释驱动Kafka成本的因素，并指导如何设置最经济的Kafka集群。通过理解成本驱动因素、优化计算、数据传输和存储，以及采用动态资源分配，可以确保Kafka集群高效运行，同时降低成本。</description>
       <pubDate>2024-09-04 16:00:00</pubDate>
     </item>
   
@@ -31,6 +87,27 @@
       <link>https://developers.facebook.com/blog/post/2024/09/04/update-on-instagram-basic-display-api/</link>
       <description>Instagram Basic Display API将于2024年12月4日起停止服务，开发者需在90天内调整。该API用于连接Instagram账户与第三方应用。若开发者正在使用，需迁移至Instagram API with Facebook或Instagram Login。</description>
       <pubDate>2024-09-04 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lists vs Tuples in Python</title>
+      <link>https://realpython.com/python-lists-tuples/</link>
+      <description>Python中的列表和元组是两种重要的数据类型，用于存储有序序列中的任意对象。列表是可变的，适合存储同类型或结构化的数据，而元组是不可变的，常用于存储异构数据。本文介绍了如何创建和操作列表和元组，包括它们的索引、切片、嵌套以及何时使用它们。</description>
+      <pubDate>2024-09-04 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The case of the image that came out horribly slanted: Diagnosis</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240904-00/?p=110216</link>
+      <description>在处理图像转换时，有时会出现图像倾斜的问题。这是因为源图像和目标图像的行步长不匹配，导致像素位置错误。当步长不匹配时，像素数据在读取时会出现偏移，随着处理更多行，这种偏移会累积，最终导致图像倾斜。解决此问题需要确保源图像和目标图像的步长一致。</description>
+      <pubDate>2024-09-04 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Hammer Time: Machina Labs’ Edward Mehr on Autonomous Blacksmith Bots and More</title>
+      <link>https://blogs.nvidia.com/blog/machina-labs-edward-mehr/</link>
+      <description>Machina Labs利用人工智能和机器人技术，加速金属制品的设计和生产，开发出首个机器人铁匠。该公司的Robotic Craftsman平台集成了七轴机器人，能够塑造、扫描、修剪和钻孔各种材料，这些功能都得益于人工智能的助力。</description>
+      <pubDate>2024-09-04 13:00:44</pubDate>
     </item>
   
     <item>
@@ -160,6 +237,27 @@
       <title>Security advisory for the standard library (CVE-2024-43402)</title>
       <link>https://blog.rust-lang.org/2024/09/04/cve-2024-43402.html</link>
       <description>Rust安全响应小组于2024年4月9日披露了CVE-2024-24576漏洞，该漏洞导致在Windows上调用批处理文件时，std::process::Command未正确转义参数。该漏洞的修复不完全，可能被绕过。Rust 1.77.2或更高版本的用户可以通过移除批处理文件名中的尾随空格和句点来绕过此修复。Rust 1.81.0将更新标准库以解决所有批处理文件调用的问题。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Handle SSL Termination when Validating Twilio Webhook Requests in Node.js</title>
+      <link>https://www.twilio.com/en-us/blog/handle-ssl-termination-twilio-node-js-helper-library</link>
+      <description>在Node.js中处理Twilio Webhook请求的SSL终止问题，确保验证请求的安全性。Twilio使用X-Twilio-Signature HTTP头签名所有入站请求，以验证请求的真实性。SSL终止在负载均衡器或代理服务器上解密SSL/TLS加密流量，可能导致请求验证失败。了解SSL终止的工作原理和如何处理这些问题对于确保Twilio请求验证的有效性至关重要。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Defeat Discord on Chess.com, Win a Month of Nitro!</title>
+      <link>https://discord.com/blog/defeat-discord-on-chess-com-win-a-month-of-nitro</link>
+      <description>Chess.com与Discord合作，举办了一场以棋盘游戏为主题的挑战活动。玩家可以在Chess.com上与Discord角色对弈，有机会赢得一个月的Discord Nitro会员资格。此外，现有Nitro会员还可以获得Chess.com的Diamond会员资格，提升棋艺。活动期间，玩家有机会挑战包括Wumpus在内的多个角色，赢取奖品。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Proplifting, Plant Piracy, and Dumpster Chocolates</title>
+      <link>https://taylor.town/oh-theft</link>
+      <description>这篇博客文章探讨了“植物盗版”这一现象，包括从垃圾桶中捡拾巧克力般的美味植物（“垃圾桶巧克力”），以及从公共或私人花园中盗取植物的行为。文章指出，在公共财产上，如果当地法律没有禁止，从垃圾桶中捡拾垃圾是合法的。然而，在许多美国城市和城镇，对“寻宝”行为有法律禁止。文章还讨论了“植物盗版者”的道德准则，以及如何礼貌地请求植物剪枝。</description>
       <pubDate>2024-09-04 00:00:00</pubDate>
     </item>
   
@@ -461,6 +559,13 @@
       <title>AI will replace all coding</title>
       <link>https://www.amazingcto.com/end-of-coding-ai-will-replace-all-coding-near/</link>
       <description>AI将取代所有编程，编程时代即将结束。随着AI技术的发展，未来计算机操作将更多依赖于执行、自我修改和优化的AI模型，而非传统的代码编写。这将导致编程工作量的减少，开发者将更多地专注于构建而非编写代码。文章预测了未来几年编程领域的变化，包括测试、基础设施管理和软件迁移等方面。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Offensive Horticulture</title>
+      <link>https://taylor.town/oh</link>
+      <description>探讨植物繁殖和种植的伦理问题，包括基因克隆、植物盗窃、生物材料合成等，以及与植物相关的法律和道德议题。文章提出了一系列相关概念和未来话题，并介绍了多个促进可持续农业和环境保护的组织。</description>
       <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
