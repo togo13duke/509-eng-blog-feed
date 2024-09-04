@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>CNBC | SurveyMonkey Your Money Retirement August 2024</title>
+      <link>https://www.surveymonkey.com/curiosity/cnbc-retirement-2024/?ut_source=rss</link>
+      <description>调查发现，五分之一的退休者没有退休储蓄，大多数退休者认为退休生活达到了或超过了他们的期望。健康和财务担忧是退休者的主要顾虑，近半数表示担心他们的储蓄可能无法维持整个退休生活。三分之一的退休者在退休后搬迁，主要是为了降低生活成本和靠近家人。四分之一的美国工人退休规划落后，主要原因是债务、收入不足和晚开始储蓄。大多数工人期望的退休计划与父母的退休计划不同，他们面临比前几代人更大的挑战。</description>
+      <pubDate>2024-09-03 22:01:00</pubDate>
+    </item>
+  
+    <item>
       <title>PromQL for Beginners: Getting Started with Prometheus Query Language</title>
       <link>https://last9.io/blog/promql-for-beginners-getting-started-with-prometheus-query-language/</link>
       <description>PromQL是Prometheus查询语言，用于处理时间序列数据，支持实时数据选择和聚合。本文介绍了PromQL的基本概念，包括指标、标签和样本，以及如何构建查询、使用标签匹配器和范围向量。此外，还介绍了PromQL的基本函数，如rate、sum和avg，帮助读者开始编写查询以深入了解系统。</description>
