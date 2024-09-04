@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A Foray into Mac and Python Automation</title>
+      <link>https://spin.atomicobject.com/applescript-python-gui-automations/</link>
+      <description>探索了使用AppleScript和Python进行GUI自动化的挑战，作者Meghan Harris分享了自动化下载图像并加载到音频可视化器Synesthesia的流程。她遇到了通过AppleScript与Synesthesia交互的难题，并尝试了PyObjC和AppKit来调整Python脚本，以实现更稳定的自动化。这一过程不仅提高了工作效率，还扩展了作者的工具箱。</description>
+      <pubDate>2024-09-04 12:00:45</pubDate>
+    </item>
+  
+    <item>
       <title>Instrumenting fasthttp with OpenTelemetry: A Comprehensive Guide</title>
       <link>https://last9.io/blog/instrumenting-fasthttp-with-opentelemetry/</link>
       <description>本文深入探讨了如何使用OpenTelemetry对fasthttp进行监控，从设置项目到实际监控和改进应用性能的实用技巧。文章详细介绍了手动监控的优势，包括分布式跟踪和上下文传播相关概念。通过配置应用将指标推送到OTLP端点，并使用OpenTelemetry Collector或其他兼容系统进行分析和警报。</description>
@@ -31,6 +38,13 @@
       <link>https://developers.redhat.com/articles/2024/09/04/use-kube-burner-measure-red-hat-openshift-vm-and-storage-deployment-scale</link>
       <description>使用kube-burner工具在Red Hat OpenShift上对虚拟机和存储部署进行大规模测试，以评估集群在负载下的表现。通过定制化工作负载，测试虚拟机部署和存储功能，包括数据卷克隆和多个磁盘附加，以优化性能和稳定性。</description>
       <pubDate>2024-09-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lowering the Rent Floor</title>
+      <link>https://thedailywtf.com/articles/lowering-the-rent-floor</link>
+      <description>IniOil公司因经济压力削减成本，要求各部门内部计费。IT部门因计算机房面积被错误计算导致高昂的租金。尽管IT经理Gordon通过实际测量证明面积计算错误，但公司管理层为了降低成本，要求他拆除计算机房的架空地板，导致安全隐患。最终，IniOil被收购，大部分员工失业，计算机设备被出售。</description>
+      <pubDate>2024-09-04 06:30:00</pubDate>
     </item>
   
     <item>
@@ -60,6 +74,15 @@
       <title>Geo-Location for an Australian Toll-Free Number</title>
       <link>https://www.twilio.com/en-us/blog/geo-location-australian-toll-free-number</link>
       <description>Twilio新增功能，允许从澳大利亚长途免费号码中提取来电的地理位置数据，用于确定用户的大致位置。通过Twilio Studio等工具，用户可以直接构建基于位置的呼叫处理，无需复杂的IVR设计。本文将介绍如何启用此功能、提取位置信息以及如何在Twilio Studio中利用它。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The missing piece of agile transformation: Effective change management through value slices</title>
+      <link>https://www.thoughtworks.com/insights/blog/digital-transformation/the-missing-piece-of-agile-transformation-effective-change-management-through-value-slices</link>
+      <description>敏捷转型中缺失的一环：通过价值切片实现有效的变革管理
+
+本文探讨了敏捷转型中变革管理的挑战，提出了一种基于价值切片的方法来应对这些挑战。通过案例分析，强调了价值切片在创建信任的变革推动者、激发变革欲望、集中变革支持以实现实际赋能以及培养变革团队的学习文化等方面的优势。这种方法有助于产品团队超越预期，实现数字化转型。</description>
       <pubDate>2024-09-04 00:00:00</pubDate>
     </item>
   
