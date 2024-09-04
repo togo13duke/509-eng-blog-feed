@@ -6,10 +6,54 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What’s The Difference Between Shadow APIs and Zombie APIs?</title>
+      <link>https://nordicapis.com/whats-the-difference-between-shadow-apis-and-zombie-apis/</link>
+      <description>本文探讨了影子API和僵尸API的区别及其对组织、数据安全和用户隐私的影响。影子API由于缺乏文档和意识而存在，而僵尸API则是被废弃但仍可用的API。文章建议通过加强文档、生命周期管理和安全审计来减轻这些问题。</description>
+      <pubDate>2024-09-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Use Stable Diffusion to create images on Red Hat OpenShift AI on a ROSA cluster with GPU enabled</title>
+      <link>https://developers.redhat.com/articles/2024/09/04/use-stable-diffusion-create-images-red-hat-openshift-ai-rosa-cluster-gpu</link>
+      <description>使用Stable Diffusion在启用GPU的ROSA集群上的Red Hat OpenShift AI创建图像。教程介绍了如何通过Red Hat OpenShift AI（RHOAI）在ROSA集群上设置GPU环境，并使用Jupyter笔记本运行Stable Diffusion模型生成图像。</description>
+      <pubDate>2024-09-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Use kube-burner to measure Red Hat OpenShift VM and storage deployment at scale</title>
+      <link>https://developers.redhat.com/articles/2024/09/04/use-kube-burner-measure-red-hat-openshift-vm-and-storage-deployment-scale</link>
+      <description>使用kube-burner工具在Red Hat OpenShift上对虚拟机和存储部署进行大规模测试，以评估集群在负载下的表现。通过定制化工作负载，测试虚拟机部署和存储功能，包括数据卷克隆和多个磁盘附加，以优化性能和稳定性。</description>
+      <pubDate>2024-09-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The UK is building an alarm system for climate tipping points</title>
+      <link>https://www.technologyreview.com/2024/09/04/1103555/the-uk-is-building-an-alarm-system-for-climate-tipping-points/</link>
+      <description>英国正在建立一个气候临界点警报系统，投资8100万英镑用于开发早期预警系统，以在地球接近气候临界点时发出警报。该系统旨在监测格陵兰冰盖加速融化和北大西洋亚北极环流减弱等关键气候变化，以减少科学不确定性，并提高对潜在影响的预测能力。</description>
+      <pubDate>2024-09-04 05:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Download a YouTube Video or Channel</title>
+      <link>https://davidwalsh.name/download-youtube-mp3</link>
+      <description>如何下载YouTube视频或频道
+
+本文介绍了如何使用yt-dlp下载YouTube视频或整个频道。yt-dlp是一个强大的工具，可以下载单个视频或整个频道的内容。对于只想要音频的用户，还可以使用额外的参数来下载MP3格式的音频。yt-dlp已经成为下载YouTube视频的新标准，确保下载内容以备旅行、长时间散步或其他用途。</description>
+      <pubDate>2024-09-04 04:42:36</pubDate>
+    </item>
+  
+    <item>
       <title>TalkBack uses Gemini Nano to increase image accessibility for users with low vision</title>
       <link>http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html</link>
       <description>TalkBack利用Gemini Nano技术，为视障或低视力用户提供了更生动、详细的图像描述，增强了Android系统的可访问性。通过结合最新的AI技术，TalkBack在包括Google Photos和Chrome等应用中，即使在离线或网络不稳定的情况下，也能自动提供清晰的图像描述。这一功能不仅填补了缺失的信息，还通过上下文识别提供了更丰富的描述，使用户能够更好地理解屏幕上的图像。</description>
       <pubDate>2024-09-04 00:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Geo-Location for an Australian Toll-Free Number</title>
+      <link>https://www.twilio.com/en-us/blog/geo-location-australian-toll-free-number</link>
+      <description>Twilio新增功能，允许从澳大利亚长途免费号码中提取来电的地理位置数据，用于确定用户的大致位置。通过Twilio Studio等工具，用户可以直接构建基于位置的呼叫处理，无需复杂的IVR设计。本文将介绍如何启用此功能、提取位置信息以及如何在Twilio Studio中利用它。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
     </item>
   
     <item>
@@ -202,6 +246,13 @@
     </item>
   
     <item>
+      <title>An overview of running your databases on and with Kubernetes</title>
+      <link>https://severalnines.com/blog/an-overview-of-running-your-databases-on-and-with-kubernetes/</link>
+      <description>Kubernetes的演进使其成为部署数据库的理想平台。文章回顾了数据库部署的历史，从主机到云再到容器革命，并探讨了在Kubernetes上运行数据库的益处和挑战。Kubernetes的灵活性和可扩展性使数据库资源能够根据需求动态调整，同时提供高可用性和容错机制。然而，运行数据库在Kubernetes上仍面临一些复杂性，如操作员复杂性和专业知识要求。Severalnines的CCX解决方案提供了一种使用Kubernetes管理数据库的方法，允许在虚拟机上部署和管理数据库，同时享受Kubernetes的优势。</description>
+      <pubDate>2024-09-03 09:00:33</pubDate>
+    </item>
+  
+    <item>
       <title>AI’s impact on elections is being overblown</title>
       <link>https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/</link>
       <description>人工智能对选举的影响被夸大了。尽管有关AI在选举中造成干扰的担忧存在，但现有证据表明，AI对选举结果的影响有限。文章指出，AI在选举过程中的应用并未取得显著成效，而且AI生成的内容在信息海洋中难以脱颖而出。此外，文章强调，对AI的过度关注可能会分散人们对真正威胁民主的长期问题的注意力。</description>
@@ -289,6 +340,20 @@
       <title>Understanding mobile careers at Thoughtworks</title>
       <link>https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/understanding-mobile-careers-at-thoughtworks</link>
       <description>Thoughtworks为移动开发者提供了一个充满挑战和机遇的工作环境，鼓励员工不断学习新技术，并参与影响行业的项目。在这里，开发者不仅编写代码，还与客户合作，共同创造能够改变业务方式的解决方案。公司注重持续集成、交付和单元测试，以提供超出预期的服务。员工有机会影响决策，提升技能，并在全球范围内发展视野。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The future of messaging: Twilio's approach to Rich Communications Services (RCS)</title>
+      <link>https://www.twilio.com/en-us/blog/future-messaging-approach-rcs</link>
+      <description>Twilio推出富通信服务（RCS）消息，为用户提供类似应用的丰富消息体验。通过Twilio，企业无需额外资源即可轻松采用RCS，并免费升级现有服务。RCS消息支持品牌定制，增强用户信任，并促进双向沟通，提升客户参与度和信任度。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI will replace all coding</title>
+      <link>https://www.amazingcto.com/end-of-coding-ai-will-replace-all-coding-near/</link>
+      <description>AI将取代所有编程，编程时代即将结束。随着AI技术的发展，未来计算机操作将更多依赖于执行、自我修改和优化的AI模型，而非传统的代码编写。这将导致编程工作量的减少，开发者将更多地专注于构建而非编写代码。文章预测了未来几年编程领域的变化，包括测试、基础设施管理和软件迁移等方面。</description>
       <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
