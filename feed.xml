@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/</link>
+      <description>2024年9月18日，参加“Azure Developers – .NET Aspire Day”线上活动，提升您的云开发技能。此次半日会议将提供由行业专家和资深开发者主讲的多个主题研讨会，涵盖从将Azure服务与.NET Aspire集成到优化云原生应用程序等话题。无论您是云开发新手还是希望扩展知识，都将有所收获。活动将帮助您掌握使用.NET和Azure构建可扩展、安全且高性能云应用程序所需的技能。</description>
+      <pubDate>2024-09-03 22:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>PromQL for Beginners: Getting Started with Prometheus Query Language</title>
+      <link>https://last9.io/blog/promql-for-beginners-getting-started-with-prometheus-query-language/</link>
+      <description>PromQL是Prometheus查询语言，用于处理时间序列数据，支持实时数据选择和聚合。本文介绍了PromQL的基本概念，包括指标、标签和样本，以及如何构建查询、使用标签匹配器和范围向量。此外，还介绍了PromQL的基本函数，如rate、sum和avg，帮助读者开始编写查询以深入了解系统。</description>
+      <pubDate>2024-09-03 21:53:17</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS named as a Leader in the first Gartner Magic Quadrant for AI Code Assistants</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-first-gartner-magic-quadrant-for-ai-code-assistants/</link>
+      <description>AWS的Amazon Q Developer被Gartner评为AI代码助手领域的领导者，该产品通过AI自动化开发任务，提高开发效率，并支持全软件开发生命周期。它提供代码建议、测试、安全性和功能开发等功能，支持多种IDE和AWS服务，帮助企业优化性能和资源。</description>
+      <pubDate>2024-09-03 21:48:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Oprah’s upcoming AI television special sparks outrage among tech critics</title>
+      <link>https://arstechnica.com/?p=2046747</link>
+      <description>Oprah Winfrey即将推出的AI电视特别节目引发科技批评家的愤怒。节目名为《AI与我们的未来：奥普拉·温弗瑞特别节目》，将于9月12日播出，旨在探讨AI对日常生活的影响，并采访科技行业人士，如OpenAI首席执行官Sam Altman和比尔·盖茨。批评者质疑嘉宾名单和节目的整体框架，认为节目可能成为AI产业的营销活动，缺乏对AI潜在危害的深入讨论。</description>
+      <pubDate>2024-09-03 19:59:50</pubDate>
+    </item>
+  
+    <item>
       <title>Rust in Linux lead retires rather than deal with more “nontechnical nonsense”</title>
       <link>https://arstechnica.com/?p=2046763</link>
       <description>Rust编程语言在Linux内核中的推广遭遇挑战，项目负责人因“非技术性干扰”而辞职。Linux内核开发团队内部对引入Rust存在分歧，一些开发者认为Rust将提高代码安全性，但其他开发者则更倾向于保持现有的C语言代码。林纳斯·托瓦兹（Linus Torvalds）表示，Rust的采用速度较慢，部分原因是老一代内核开发者对C语言更为熟悉，且Rust基础设施不够稳定。</description>
@@ -125,6 +153,13 @@
     </item>
   
     <item>
+      <title>Transforming customer support with AI: How Vercel decreased tickets by 31%</title>
+      <link>https://vercel.com/blog/transforming-customer-support-with-ai-how-vercel-decreased-tickets</link>
+      <description>Vercel通过整合AI技术，将客户支持中的人工处理工单减少了31%，同时保持了高质量的服务。他们开发了一个AI助手，能够处理各种客户查询，并在无法完全解决问题时，无缝过渡到人工支持。这种方法不仅节省了客户时间，还提高了客户满意度，并促进了产品改进。Vercel的经验表明，当AI得到深思熟虑的实施时，它可以成为提升客户体验和优化运营效率的有力工具。</description>
+      <pubDate>2024-09-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: election tech fears, and AI for teachers</title>
       <link>https://www.technologyreview.com/2024/09/03/1103506/the-download-election-tech-fears-and-ai-for-teachers/</link>
       <description>人工智能在选举中的影响被夸大了，教育技术公司正在向教师推广AI工具以节省时间。</description>
@@ -233,6 +268,13 @@
       <title>Iceberg ahead: Why your legacy SIEM is a sinking ship</title>
       <link>https://www.elastic.co/blog/why-your-legacy-siem-is-a-sinking-ship</link>
       <description>随着现代网络威胁的日益复杂，依赖过时的SIEM系统可能导致数据泄露和品牌损害。企业应考虑升级到下一代SIEM解决方案，如Elastic Security，以实现更快速、更敏捷的威胁检测和响应，确保网络安全。</description>
+      <pubDate>2024-09-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding mobile careers at Thoughtworks</title>
+      <link>https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/understanding-mobile-careers-at-thoughtworks</link>
+      <description>Thoughtworks为移动开发者提供了一个充满挑战和机遇的工作环境，鼓励员工不断学习新技术，并参与影响行业的项目。在这里，开发者不仅编写代码，还与客户合作，共同创造能够改变业务方式的解决方案。公司注重持续集成、交付和单元测试，以提供超出预期的服务。员工有机会影响决策，提升技能，并在全球范围内发展视野。</description>
       <pubDate>2024-09-03 00:00:00</pubDate>
     </item>
   
