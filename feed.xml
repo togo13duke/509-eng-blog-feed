@@ -6,10 +6,66 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Enhanced Workflows UI reduces debugging time and boosts productivity</title>
+      <link>https://www.databricks.com/blog/enhanced-workflows-ui-reduces-debugging-time-and-boosts-productivity</link>
+      <description>Databricks推出增强的工作流程用户界面，大幅减少调试时间并提高生产力。新功能包括时间线视图、运行事件、简化错误消息、Databricks助手集成和列出Python库，旨在帮助数据工程师更高效地监控和诊断工作负载问题。</description>
+      <pubDate>2024-09-04 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>NIST’s post-quantum cryptography standards: Our plans</title>
+      <link>https://www.hashicorp.com/blog/nist-s-post-quantum-cryptography-standards-our-plans</link>
+      <description>NIST发布了后量子加密标准，以应对量子计算机的威胁。这些标准包括ML-KEM、ML-DSA、SLH-DSA等，预计将帮助企业和用户保持通信和数据交换的安全。HashiCorp计划逐步开发量子安全解决方案，并支持这些新标准，以适应未来量子计算机的挑战。企业应制定后量子准备计划，包括优先评估高风险资产、发现和记录加密使用情况，并实施零信任安全策略。</description>
+      <pubDate>2024-09-04 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Manufacturing Intelligence: Deltia AI Delivers Assembly Line Gains With NVIDIA Metropolis and Jetson</title>
+      <link>https://blogs.nvidia.com/blog/deltia-ai-metropolis-jetson/</link>
+      <description>Deltia AI利用NVIDIA Metropolis视觉AI和Jetson平台，通过在NVIDIA Jetson AGX Orin模块上运行，帮助优化生产线流程，提高生产效率。其软件平台可为客户带来高达20%的性能提升，并支持实时监控和数据分析，助力工厂实现数字化转型。Deltia的解决方案不仅限于流程改进，还能监测机器状态，预测磨损，优化能源使用，从而节省成本。</description>
+      <pubDate>2024-09-04 15:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Update on Instagram Basic Display API</title>
+      <link>https://developers.facebook.com/blog/post/2024/09/04/update-on-instagram-basic-display-api/</link>
+      <description>Instagram Basic Display API将于2024年12月4日起停止服务，开发者需在90天内调整。该API用于连接Instagram账户与第三方应用。若开发者正在使用，需迁移至Instagram API with Facebook或Instagram Login。</description>
+      <pubDate>2024-09-04 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Do the Math: New RTX AI PC Hardware Delivers More AI, Faster</title>
+      <link>https://blogs.nvidia.com/blog/rtx-ai-pc-hardware/</link>
+      <description>NVIDIA发布新一代RTX AI PC硬件，搭载RTX GPU和神经处理单元(NPU)，提供强大的AI计算能力，加速游戏、内容创作、软件开发和STEM学科等领域的工作。这些新系统包括ASUS和MSI的笔记本电脑，配备GeForce RTX 4070 GPU，提供高达321 AI TOPS的性能，支持超过600个AI应用和游戏。</description>
+      <pubDate>2024-09-04 13:00:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Sign up or sign in with a One-Time Password (OTP)</title>
+      <link>https://vercel.com/changelog/sign-up-or-sign-in-with-a-one-time-password-otp</link>
+      <description>Vercel更新了其登录系统，引入了基于一次性密码（OTP）的登录方式，提供更高级别的安全性。此功能包括6位数的OTP，单次使用且有效期短，有效降低未经授权的访问风险。用户可以在不同设备或窗口间灵活切换登录，无需保持原始标签页打开，且无需点击邮件链接。</description>
+      <pubDate>2024-09-04 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: climate tipping point alarms, and AI’s vision of the 3028 Olympics</title>
+      <link>https://www.technologyreview.com/2024/09/04/1103615/the-download-climate-tipping-point-alarms-and-ais-vision-of-the-3028-olympics/</link>
+      <description>英国启动了价值8100万英镑的项目，旨在开发早期预警系统，以在地球接近气候临界点时发出警报。该项目旨在通过开发低成本传感器、部署监测网络和建立计算机模型来减少科学不确定性。同时，人工智能视频生成技术展示了其创造潜力，但也揭示了其局限性。</description>
+      <pubDate>2024-09-04 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>A Foray into Mac and Python Automation</title>
       <link>https://spin.atomicobject.com/applescript-python-gui-automations/</link>
       <description>探索了使用AppleScript和Python进行GUI自动化的挑战，作者Meghan Harris分享了自动化下载图像并加载到音频可视化器Synesthesia的流程。她遇到了通过AppleScript与Synesthesia交互的难题，并尝试了PyObjC和AppKit来调整Python脚本，以实现更稳定的自动化。这一过程不仅提高了工作效率，还扩展了作者的工具箱。</description>
       <pubDate>2024-09-04 12:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>[JAVA 21] Structured Concurrency: Powering Data Orchestration with Virtual Threads and Scopes</title>
+      <link>https://blog.avenuecode.com/java-21-structured-concurrency-powering-data-orchestration-with-virtual-threads-and-scopes</link>
+      <description>本文探讨了Java中的结构化并发，这是JDK 21中引入的一个原生解决方案，旨在简化并发编程模型。通过使用虚拟线程和作用域，可以更有效地管理并发工作，提高应用程序的可靠性、可维护性、可测试性和可观察性。文章通过一个实际案例展示了如何使用结构化并发来构建一个BFF应用程序，并详细介绍了虚拟线程和结构化任务作用域的使用方法。</description>
+      <pubDate>2024-09-04 11:00:00</pubDate>
     </item>
   
     <item>
@@ -83,6 +139,27 @@
       <description>敏捷转型中缺失的一环：通过价值切片实现有效的变革管理
 
 本文探讨了敏捷转型中变革管理的挑战，提出了一种基于价值切片的方法来应对这些挑战。通过案例分析，强调了价值切片在创建信任的变革推动者、激发变革欲望、集中变革支持以实现实际赋能以及培养变革团队的学习文化等方面的优势。这种方法有助于产品团队超越预期，实现数字化转型。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Is your SIEM ready for the AI era? Essential insights and preparations</title>
+      <link>https://www.elastic.co/blog/siem-ai-preparation</link>
+      <description>随着安全信息与事件管理（SIEM）市场不断变化，从传统手动密集型SIEM解决方案转向AI驱动的安全分析，企业需要评估其SIEM能力，以应对日益复杂的网络威胁。AI增强的SIEM能够自动化数据整合、初步分类、发现未知威胁、简化工作流程，并允许企业根据自身需求选择AI模型，从而提高安全团队的效率和响应速度。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GenAI for customer support: Explore the Elastic Support Assistant</title>
+      <link>https://www.elastic.co/blog/generative-ai-customer-support-elastic-support-assistant</link>
+      <description>Elastic发布了一款名为Elastic Support Assistant的生成式AI工具，旨在通过聊天体验回答Elastic产品的问题。该助手基于检索增强生成（RAG）架构，可访问Elastic的所有博客、产品文档、技术支持文章和入门指南。它可以帮助用户解决配置问题、性能调优、升级、安全合规、监控和警报等，同时提供代码片段和集成指南。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Security advisory for the standard library (CVE-2024-43402)</title>
+      <link>https://blog.rust-lang.org/2024/09/04/cve-2024-43402.html</link>
+      <description>Rust安全响应小组于2024年4月9日披露了CVE-2024-24576漏洞，该漏洞导致在Windows上调用批处理文件时，std::process::Command未正确转义参数。该漏洞的修复不完全，可能被绕过。Rust 1.77.2或更高版本的用户可以通过移除批处理文件名中的尾随空格和句点来绕过此修复。Rust 1.81.0将更新标准库以解决所有批处理文件调用的问题。</description>
       <pubDate>2024-09-04 00:00:00</pubDate>
     </item>
   
