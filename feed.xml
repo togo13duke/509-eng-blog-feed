@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>TalkBack uses Gemini Nano to increase image accessibility for users with low vision</title>
+      <link>http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html</link>
+      <description>TalkBack利用Gemini Nano技术，为视障或低视力用户提供了更生动、详细的图像描述，增强了Android系统的可访问性。通过结合最新的AI技术，TalkBack在包括Google Photos和Chrome等应用中，即使在离线或网络不稳定的情况下，也能自动提供清晰的图像描述。这一功能不仅填补了缺失的信息，还通过上下文识别提供了更丰富的描述，使用户能够更好地理解屏幕上的图像。</description>
+      <pubDate>2024-09-04 00:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Enhance Your Cloud Development Skills at ‘Azure Developers – .NET Aspire Day 2024’</title>
       <link>https://devblogs.microsoft.com/dotnet/enhance-your-cloud-development-skills-at-azure-developers-dotnet-aspire-day-2024/</link>
       <description>2024年9月18日，参加“Azure Developers – .NET Aspire Day”线上活动，提升您的云开发技能。此次半日会议将提供由行业专家和资深开发者主讲的多个主题研讨会，涵盖从将Azure服务与.NET Aspire集成到优化云原生应用程序等话题。无论您是云开发新手还是希望扩展知识，都将有所收获。活动将帮助您掌握使用.NET和Azure构建可扩展、安全且高性能云应用程序所需的技能。</description>
