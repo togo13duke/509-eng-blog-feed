@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform</title>
+      <link>https://engineering.atspotify.com/2024/09/are-you-a-dalia-how-we-created-data-science-personas-for-spotifys-analytics-platform/</link>
+      <description>Spotify工程团队通过结合定性访谈和定量数据分析，创建了六个数据实践者角色，以更好地理解用户需求并指导产品开发。这种方法包括迭代循环，使用定性工作指导定量工作，反之亦然，直到获得满意的结果。此外，团队还强调了与利益相关者开放讨论和分享定制建议的重要性，以及在整个项目过程中保持利益相关者参与的重要性。</description>
+      <pubDate>2024-09-05 19:15:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Connect with Confluent: Celebrating One Year and 50+ Integrations</title>
+      <link>https://www.confluent.io/blog/cwc-program-anniversary-and-new-partners-Q3-24/</link>
+      <description>康弗伦特（Confluent）庆祝其数据流平台合作伙伴计划一周年，该计划已从一项旨在扩展数据流生态系统的创新项目发展成为拥有50多个集成方案的繁荣组合。新合作伙伴包括亚马逊OpenSearch、Cribl、MongoDB Relational Migrator、Qdrant和Synthesis，他们将为康弗伦特云平台和康弗伦特平台带来独特的功能，以扩展实时数据处理能力。</description>
+      <pubDate>2024-09-05 19:15:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Two mini-reviews</title>
+      <link>https://blog.rootsofprogress.org/james-scott-unabomber-reviews</link>
+      <description>本文包含两篇简短的书评。第一篇是对詹姆斯·C·斯科特的《像国家一样思考》的评论，探讨了社会工程中的悲剧元素，对“高现代主义”和“可读性”进行了批判，并讨论了作者对秩序和系统的哲学立场。第二篇是对泰德·卡钦斯基的《工业社会及其未来》的评论，分析了这位恐怖分子的宣言，指出其逻辑清晰，但同时也指出了其错误观点。</description>
+      <pubDate>2024-09-05 18:41:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vault integrations with Dell, GitHub, Rubrik, Veza, and more strengthen customer security</title>
+      <link>https://www.hashicorp.com/blog/vault-integrations-with-dell-github-rubrik-veza-and-more-strengthen-customer-secu</link>
+      <description>HashiCorp宣布了九个新的Vault生态系统集成，以扩展其安全用例。这些集成包括与Dell、GitHub、Rubrik、Veza等公司的合作，旨在加强客户的安全性和简化基础设施、应用程序和数据的保护。这些集成通过自动化和集中管理密钥，提高了安全性，并支持多云环境。</description>
+      <pubDate>2024-09-05 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Revolutionizing Insight into Heavy Equipment Maintenance with GenAI</title>
+      <link>https://www.databricks.com/blog/revolutionizing-insight-heavy-equipment-maintenance-genai</link>
+      <description>利用生成式AI革新重型设备维护洞察：通过Databricks和Kubrick的技术，企业能够从设备产生的海量数据中获取洞察，预测故障，优化维护流程，从而节省时间和成本，提高业务效率。</description>
+      <pubDate>2024-09-05 17:42:45</pubDate>
+    </item>
+  
+    <item>
       <title>The hidden cost of speed</title>
       <link>https://stackoverflow.blog/2024/09/05/the-hidden-cost-of-speed/</link>
       <description>快速交付项目往往会导致长期的技术债务和效率低下。文章强调，尽管快速交付可能带来短期成功，但缺乏规划和长期视角会导致系统性能下降和团队生产力下降。开发者应重视规划、沟通和长期目标，以避免因追求速度而牺牲稳定性和可持续性。</description>
@@ -75,6 +110,13 @@
 
 本指南提供如何进行竞争分析以改进社交媒体策略的实用技巧。通过三个步骤：了解竞争分析、分析竞争对手和将洞察应用于你的社交媒体策略，你可以制定出更有效的社交媒体策略。通过识别直接和间接竞争对手，分析他们的社交媒体策略和指标，并利用竞争分析工具，你可以发现改进策略的机会，并保持领先地位。</description>
       <pubDate>2024-09-05 14:20:16</pubDate>
+    </item>
+  
+    <item>
+      <title>The case of the image that came out horribly slanted: Taking the pitch into account</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240905-00/?p=110224</link>
+      <description>在处理图像倾斜问题时，文章讨论了从ID2D1Bitmap1到GDI HBITMAP的转换过程中，由于步进值不匹配导致的错误。文章解释了如何通过调整代码来确保D2D和GDI的步进值一致，从而避免图像变形。此外，还提到了使用GDI兼容的渲染目标作为替代方案，以简化图像转换过程。</description>
+      <pubDate>2024-09-05 14:00:00</pubDate>
     </item>
   
     <item>
@@ -267,6 +309,13 @@
       <title>Announcing Rust 1.81.0</title>
       <link>https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html</link>
       <description>Rust 1.81.0版本发布，新增稳定错误处理特性、优化排序算法、引入新lint级别expect、改进API稳定性和编译器消息。同时，对panic处理和WASI目标命名进行更新，修复CVE-2024-43402安全漏洞。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 8.15.1 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-8-15-1-released</link>
+      <description>Elastic Stack 8.15.1版本发布，修复了APM数据流生命周期管理中的bug，建议用户升级至最新版本以获得改进和修复。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
@@ -756,6 +805,13 @@
       <title>Transforming customer support with AI: How Vercel decreased tickets by 31%</title>
       <link>https://vercel.com/blog/transforming-customer-support-with-ai-how-vercel-decreased-tickets</link>
       <description>Vercel通过整合AI技术，将客户支持中的人工处理工单减少了31%，同时保持了高质量的服务。他们开发了一个AI助手，能够处理各种客户查询，并在无法完全解决问题时，无缝过渡到人工支持。这种方法不仅节省了客户时间，还提高了客户满意度，并促进了产品改进。Vercel的经验表明，当AI得到深思熟虑的实施时，它可以成为提升客户体验和优化运营效率的有力工具。</description>
+      <pubDate>2024-09-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HTTP Toolkit is joining the Open Source Pledge</title>
+      <link>https://httptoolkit.com/blog/open-source-funding-pledge/</link>
+      <description>HTTP Toolkit加入开源承诺，承诺为依赖的开源软件维护者提供资金支持，并公开认可这些维护者。此举旨在推动企业资助开源软件的维护者，并建立一个更广泛的文化，使这种做法成为常态。HTTP Toolkit已向开源维护者支付了11,030美元，并计划继续增加这一数字。</description>
       <pubDate>2024-09-03 13:00:00</pubDate>
     </item>
   
