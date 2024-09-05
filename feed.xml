@@ -6,6 +6,22 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>US charges Russian military officers for unleashing wiper malware on Ukraine</title>
+      <link>https://arstechnica.com/?p=2047689</link>
+      <description>美国指控俄罗斯军官在乌克兰释放擦除器恶意软件
+
+美国联邦检察官指控六名俄罗斯国民密谋入侵乌克兰政府和其盟友的计算机网络，并代表克里姆林宫窃取或销毁敏感数据。这些指控与2022年2月俄罗斯入侵乌克兰前针对乌克兰政府及其盟友的计算机系统进行的黑客攻击有关。微软曾发现名为WhisperGate的恶意软件，它伪装成勒索软件，实际上会永久性地摧毁计算机及其上的数据。该恶意软件针对乌克兰的关键基础设施和政府系统，后来还攻击了全球支持乌克兰的国家。</description>
+      <pubDate>2024-09-05 20:54:19</pubDate>
+    </item>
+  
+    <item>
+      <title>AT&amp;T sues Broadcom for refusing to renew perpetual license support</title>
+      <link>https://arstechnica.com/?p=2047618</link>
+      <description>AT&amp;T因Broadcom拒绝续签永久许可证支持而对其提起诉讼，指控其试图改变现有合同以适应新战略，并要求停止终止支持服务。Broadcom在收购VMware后改变了许可销售策略，导致AT&amp;T面临高昂的额外费用和技术义务。AT&amp;T认为，失去支持可能导致其服务中断，影响数百万客户。</description>
+      <pubDate>2024-09-05 19:28:26</pubDate>
+    </item>
+  
+    <item>
       <title>Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform</title>
       <link>https://engineering.atspotify.com/2024/09/are-you-a-dalia-how-we-created-data-science-personas-for-spotifys-analytics-platform/</link>
       <description>Spotify工程团队通过结合定性访谈和定量数据分析，创建了六个数据实践者角色，以更好地理解用户需求并指导产品开发。这种方法包括迭代循环，使用定性工作指导定量工作，反之亦然，直到获得满意的结果。此外，团队还强调了与利益相关者开放讨论和分享定制建议的重要性，以及在整个项目过程中保持利益相关者参与的重要性。</description>
