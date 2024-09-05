@@ -41,6 +41,13 @@
     </item>
   
     <item>
+      <title>Inlay hints make it easy to read code in VS Code</title>
+      <link>https://www.amitmerchant.com/inlay-hints-makes-it-easy-to-read-code-in-vs-code/</link>
+      <description>VS Code中的内联提示功能简化了代码阅读，通过显示函数/方法参数的底层名称，为阅读代码提供额外上下文，使理解不同函数参数的引用更加容易。默认情况下，此功能未启用，但可以通过修改设置或安装扩展来启用。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #82: Broadband</title>
       <link>https://www.bambooweekly.com/bw-82-broadband/</link>
       <description>在1999年购买的公寓位于以色列的“未来之城”Modi'in，尽管当时有光纤互联网服务，但由于安装问题，25年来未能使用。今年，我们加入了高速互联网行列，体验了快速上传和下载。全球并非所有地区都能轻松获得宽带，美国一些儿童在疫情期间甚至在学校外使用汽车或麦当劳的互联网进行学习。拜登政府的“基础设施法”为高速互联网提供了大量资金。本文探讨了宽带互联网服务的普及率，并引用了经合组织的数据，展示了各国在高速互联网接入方面的相对位置。</description>
@@ -356,6 +363,15 @@
       <title>Proplifting, Plant Piracy, and Dumpster Chocolates</title>
       <link>https://taylor.town/oh-theft</link>
       <description>这篇博客文章探讨了“植物盗版”这一现象，包括从垃圾桶中捡拾巧克力般的美味植物（“垃圾桶巧克力”），以及从公共或私人花园中盗取植物的行为。文章指出，在公共财产上，如果当地法律没有禁止，从垃圾桶中捡拾垃圾是合法的。然而，在许多美国城市和城镇，对“寻宝”行为有法律禁止。文章还讨论了“植物盗版者”的道德准则，以及如何礼貌地请求植物剪枝。</description>
+      <pubDate>2024-09-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Breaking the cycle of legacy modernization: What should banks do differently tomorrow?</title>
+      <link>https://www.thoughtworks.com/insights/articles/breaking-the-cycle-of-legacy-modernization</link>
+      <description>银行如何利用生成式AI加速传统系统现代化
+
+银行面临传统系统现代化挑战，包括高监管、技术债务、安全风险和能力差距。生成式AI（GenAI）可加速现代化进程，如加速代码分析和逆向工程、改善架构决策、管理风险和增强弹性。GenAI通过分析复杂代码库、提供数据驱动决策、确保合规和安全，帮助银行更高效、安全地实现现代化，提升运营效率。</description>
       <pubDate>2024-09-04 00:00:00</pubDate>
     </item>
   
