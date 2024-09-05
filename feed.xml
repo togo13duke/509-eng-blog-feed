@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Leverage AI and Large Language Models for Next-Generation Knowledge Management</title>
+      <link>https://spin.atomicobject.com/ai-llms-knowledge-management/</link>
+      <description>人工智能和大型语言模型正在改变知识管理方式。通过记录会议、总结关键信息和丰富AI输入，可以更有效地捕捉和组织知识。这种方法有助于团队协作、个人学习和创新，但需注意平衡信息捕捉与应用，以提升生产力。</description>
+      <pubDate>2024-09-05 12:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Sortir d’un mainframe complexe via une stratégie de Double RUN</title>
+      <link>https://blog.octo.com/sortir-d'un-mainframe-complexe-via-une-strategie-de-double-run</link>
+      <description>本文探讨了如何通过“双重运行”策略从复杂的主机系统过渡到更现代的架构。文章详细介绍了项目背景、挑战、解决方案和成功的关键因素，包括风险优先排序、保持对主机的集中关注、快速测试和迭代改进，以及确定何时结束双重运行。通过这种方法，企业能够有效地降低风险，确保数据迁移和系统切换的顺利进行。</description>
+      <pubDate>2024-09-05 10:01:10</pubDate>
+    </item>
+  
+    <item>
+      <title>A brief guide to the greenhouse gases driving climate change</title>
+      <link>https://www.technologyreview.com/2024/09/05/1103654/greenhouse-gases-guide/</link>
+      <description>全球变暖不仅与二氧化碳有关，还包括其他强效温室气体。例如，六氟化硫（SF6）在高压设备中至关重要，但能在大气中保持千年以上，排放量还在上升。氟化气体比二氧化碳强数千倍，尽管它们通常以较小量释放。文章还讨论了甲烷、一氧化二氮和氟化气体对气候变化的贡献，以及减少这些气体排放的方法。</description>
+      <pubDate>2024-09-05 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Access AWS from HCP Terraform with OIDC federation</title>
       <link>https://www.hashicorp.com/blog/access-aws-from-hcp-terraform-with-oidc-federation</link>
       <description>使用OIDC联合身份验证从HCP Terraform安全访问AWS，无需使用访问密钥，通过动态提供者凭据和OIDC联合身份验证，Terraform运行时可假定IAM角色并获取临时安全凭据，提高安全性并简化访问管理。</description>
@@ -31,6 +52,13 @@
       <link>https://developers.redhat.com/articles/2024/09/05/scaling-virtio-blk-disk-io-iothread-virtqueue-mapping</link>
       <description>RHEL 9.4引入的IOThread Virtqueue Mapping功能，通过为virtio-blk设备分配多个主机线程，提高了KVM虚拟机的磁盘I/O性能和可扩展性。该功能允许将virtqueue分配给IOThread，从而实现多线程处理，优化I/O密集型工作负载。</description>
       <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Strings go Asplodey</title>
+      <link>https://thedailywtf.com/articles/strings-go-asplodey</link>
+      <description>Anton在PHP代码中错误地重写了内置的explode和implode函数，导致代码冗余且可读性差。他使用单独的&lt;?php ?&gt;块包裹每个语句，这不是必要的，并且使得代码更加混乱。正确的做法是直接在HTML中输出逗号和空格，或者将逻辑放在一个&lt;?php ?&gt;块中，按需生成输出。</description>
+      <pubDate>2024-09-05 06:30:00</pubDate>
     </item>
   
     <item>
