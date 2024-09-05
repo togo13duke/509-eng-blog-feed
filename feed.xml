@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Access AWS from HCP Terraform with OIDC federation</title>
+      <link>https://www.hashicorp.com/blog/access-aws-from-hcp-terraform-with-oidc-federation</link>
+      <description>使用OIDC联合身份验证从HCP Terraform安全访问AWS，无需使用访问密钥，通过动态提供者凭据和OIDC联合身份验证，Terraform运行时可假定IAM角色并获取临时安全凭据，提高安全性并简化访问管理。</description>
+      <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Role of API Marketplaces Across 5 Sectors</title>
+      <link>https://nordicapis.com/the-role-of-api-marketplaces-across-5-sectors/</link>
+      <description>API市场在多个行业中的作用日益显著，它们帮助企业展示API或第三方服务，吸引开发者注意。尽管市场存在差异，但API市场正逐渐成熟，成为API采用的重要途径。未来，API市场将呈现多样化，包括付费、商业和细分市场，同时AI可能改变API发现和部署的方式。</description>
+      <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Red Hat build of OpenTelemetry and OpenShift distributed tracing 3.3: New features for developers</title>
+      <link>https://developers.redhat.com/articles/2024/09/05/red-hat-build-opentelemetry-and-openshift-distributed-tracing-33-new-features</link>
+      <description>Red Hat发布了OpenTelemetry和OpenShift分布式追踪3.3版本，新增了证书轮换支持、OpenTelemetry收集器仪表板、新组件和改进的分布式追踪功能。这些更新旨在提高开发者的应用可观察性和集成效率。</description>
+      <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Scaling virtio-blk disk I/O with IOThread Virtqueue Mapping</title>
+      <link>https://developers.redhat.com/articles/2024/09/05/scaling-virtio-blk-disk-io-iothread-virtqueue-mapping</link>
+      <description>RHEL 9.4引入的IOThread Virtqueue Mapping功能，通过为virtio-blk设备分配多个主机线程，提高了KVM虚拟机的磁盘I/O性能和可扩展性。该功能允许将virtqueue分配给IOThread，从而实现多线程处理，优化I/O密集型工作负载。</description>
+      <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Volvo Cars EX90 SUV Rolls Out, Built on NVIDIA Accelerated Computing and AI</title>
       <link>https://blogs.nvidia.com/blog/volvo-cars-accelerated-computing-ai/</link>
       <description>Volvo Cars推出全新电动SUV EX90，搭载NVIDIA DRIVE Orin系统，提供高性能计算和先进安全功能。EX90采用最先进的传感器套件，支持360度环绕感知数据处理。Volvo Cars计划未来车型采用下一代NVIDIA DRIVE Thor SoC，提升处理能力和能源效率。同时，Volvo Cars和其子公司Zenseact投资NVIDIA DGX系统进行AI模型训练，优化数据标注流程，加速自动驾驶软件开发。</description>
@@ -264,6 +292,13 @@
       <link>http://android-developers.googleblog.com/2024/09/talkback-uses-gemini-nano-to-increase-low-vision-accessibility.html</link>
       <description>TalkBack利用Gemini Nano技术，为视障或低视力用户提供了更生动、详细的图像描述，增强了Android系统的可访问性。通过结合最新的AI技术，TalkBack在包括Google Photos和Chrome等应用中，即使在离线或网络不稳定的情况下，也能自动提供清晰的图像描述。这一功能不仅填补了缺失的信息，还通过上下文识别提供了更丰富的描述，使用户能够更好地理解屏幕上的图像。</description>
       <pubDate>2024-09-04 00:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>PromQL: A Developer's Guide to Prometheus Query Language</title>
+      <link>https://last9.io/blog/guide-to-prometheus-query-language/</link>
+      <description>PromQL是Prometheus查询语言，用于处理和分析时间序列数据，是现代软件系统监控和可观察性的关键工具。本文深入探讨了PromQL的语法、数据类型、函数和操作符，以及如何使用它进行数据筛选、聚合和可视化。文章还提供了实际案例，展示了如何利用PromQL监控Kubernetes集群和与Grafana集成，以及一些常见陷阱和最佳实践。</description>
+      <pubDate>2024-09-04 00:17:00</pubDate>
     </item>
   
     <item>
