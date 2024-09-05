@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The hidden cost of speed</title>
+      <link>https://stackoverflow.blog/2024/09/05/the-hidden-cost-of-speed/</link>
+      <description>快速交付项目往往会导致长期的技术债务和效率低下。文章强调，尽管快速交付可能带来短期成功，但缺乏规划和长期视角会导致系统性能下降和团队生产力下降。开发者应重视规划、沟通和长期目标，以避免因追求速度而牺牲稳定性和可持续性。</description>
+      <pubDate>2024-09-05 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Databricks announces significant improvements to the built-in LLM judges in Agent Evaluation</title>
+      <link>https://www.databricks.com/blog/databricks-announces-significant-improvements-built-llm-judges-agent-evaluation</link>
+      <description>Databricks宣布对其内置的LLM评估器进行了重大改进，以提升Agent Evaluation的质量评估功能。新升级的答案正确性评估器通过分析文本中的事实和主张，提高了对生成答案的语义正确性判断，特别是在处理客户代表性用例时。这一改进使得评估过程更加准确，有助于开发者提升其应用的质量。</description>
+      <pubDate>2024-09-05 16:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>In-Database AI Agents: Teaching Claude to Use Tools With Pgai</title>
       <link>https://www.timescale.com/blog/in-database-ai-agents-teaching-claude-to-use-tools-with-pgai/</link>
       <description>本文介绍了如何在PostgreSQL数据库中创建AI代理，以减少延迟并简化架构。通过使用pgai扩展，可以将AI模型直接集成到数据库中，实现高效的数据库内任务执行，如向量嵌入、内容生成和数据推理。文章详细介绍了AI代理的组成部分、Claude模型的特点以及如何使用pgai与Claude构建一个自定义的AI天气助手。</description>
@@ -192,6 +206,13 @@
     </item>
   
     <item>
+      <title>Elevate Access Token Security by Demonstrating Proof-of-Possession</title>
+      <link>https://developer.okta.com/blog/2024/09/05/dpop-oauth</link>
+      <description>本文探讨了如何通过展示占有证明（DPoP）来提高访问令牌的安全性。文章解释了DPoP如何通过结合非对称加密和JWT来创建一个只能由合法用户使用的访问令牌，从而减少令牌被盗用的风险。此外，文章还介绍了DPoP在OAuth 2.0令牌请求中的应用，以及如何在HTTP请求中使用DPoP绑定的访问令牌，以及如何通过增强的安全握手来扩展DPoP流程。</description>
+      <pubDate>2024-09-05 05:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Skip Dependent Cypress Tests On Failure</title>
       <link>https://glebbahmutov.com/blog/skip-dependent-tests-on-failure/</link>
       <description>本文介绍了如何在Cypress测试框架中跳过依赖于其他测试的测试，当某个测试失败时，避免整个测试套件因单个失败而全部失败。作者通过一个示例代码，展示了如何使用cypress-skip-this-test插件来实现在测试失败后跳过后续测试的功能。</description>
@@ -232,6 +253,20 @@
       <title>The wasm32-wasip2 Target Has Reached Tier 2 Support</title>
       <link>https://blog.rust-lang.org/2024/09/05/wasip2-tier-2.html</link>
       <description>Rust的wasm32-wasip2目标已升级至第二级支持，这意味着它现在可以保证构建，并可通过Rustup安装。这一变化使得Rust用户可以直接编写WASI 0.2兼容的网络代码，并逐步扩展Rust标准库以支持WASI 0.2 API。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Legacy Shop Favorites Emerge from The Vault for a First Anniversary Encore!</title>
+      <link>https://discord.com/blog/legacy-shop-favorites-emerge-from-the-vault-for-a-first-anniversary-encore</link>
+      <description>为了庆祝一周年，Discord商店从宝库中重新推出了最受欢迎的装饰和效果，包括动漫、奇幻、海盗主题以及游戏如VALORANT和Palworld的装饰。这些物品将在9月30日之前开放，错过的小伙伴们可以抓住机会补全自己的收藏。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing Rust 1.81.0</title>
+      <link>https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html</link>
+      <description>Rust 1.81.0版本发布，新增稳定错误处理特性、优化排序算法、引入新lint级别expect、改进API稳定性和编译器消息。同时，对panic处理和WASI目标命名进行更新，修复CVE-2024-43402安全漏洞。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
