@@ -6,6 +6,71 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>In-Database AI Agents: Teaching Claude to Use Tools With Pgai</title>
+      <link>https://www.timescale.com/blog/in-database-ai-agents-teaching-claude-to-use-tools-with-pgai/</link>
+      <description>本文介绍了如何在PostgreSQL数据库中创建AI代理，以减少延迟并简化架构。通过使用pgai扩展，可以将AI模型直接集成到数据库中，实现高效的数据库内任务执行，如向量嵌入、内容生成和数据推理。文章详细介绍了AI代理的组成部分、Claude模型的特点以及如何使用pgai与Claude构建一个自定义的AI天气助手。</description>
+      <pubDate>2024-09-05 15:33:42</pubDate>
+    </item>
+  
+    <item>
+      <title>External User Verification with Forms</title>
+      <link>https://auth0.com/blog/external-user-verification-with-forms/</link>
+      <description>本文介绍了如何使用Auth0表单实现外部用户验证，通过邀请码工作流程来提高SaaS用户的注册体验。Auth0 Forms允许开发者收集用户信息、执行工作流程和协调事件数据，从而实现验证工作流程。文章通过一个示例，展示了如何使用Auth0 Forms收集邀请码，并通过HTTP请求验证该代码和电子邮件组合的有效性。</description>
+      <pubDate>2024-09-05 15:18:00</pubDate>
+    </item>
+  
+    <item>
+      <title>kube-state-metrics: Your Complete Guide to Simplifying Kubernetes Observability</title>
+      <link>https://last9.io/blog/kube-state-metrics/</link>
+      <description>kube-state-metrics是Kubernetes集群监控的强大工具，通过监听API服务器生成资源状态指标，帮助用户更高效地监控和管理集群。本文深入探讨了kube-state-metrics的安装、配置和高级用法，包括与Prometheus集成、自定义资源监控、高可用性设置等，为Kubernetes集群的运维提供了实用指南。</description>
+      <pubDate>2024-09-05 15:06:06</pubDate>
+    </item>
+  
+    <item>
+      <title>FBI busts musician’s elaborate AI-powered $10M streaming-royalty heist</title>
+      <link>https://arstechnica.com/?p=2047451</link>
+      <description>北卡罗来纳州一名音乐家因通过复杂的AI方案欺诈流媒体服务10亿美元而被联邦检察官起诉。他利用AI创建数百万首虚假歌曲，通过机器人收集Spotify、Apple Music和Amazon Music等平台的版税。此案是美国首例涉及虚假音乐流量的犯罪案件。如果罪名成立，他可能面临最高20年的监禁。</description>
+      <pubDate>2024-09-05 15:02:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Three Ways to Ride the Flywheel of Cybersecurity AI</title>
+      <link>https://blogs.nvidia.com/blog/ai-cybersecurity-flywheel/</link>
+      <description>AI在网络安全中的应用正日益重要，通过建立安全防线、检测和保护敏感数据以及强化访问控制，企业可以有效地应对大型语言模型带来的安全挑战。NVIDIA的AI平台和解决方案助力企业利用先进技术提升网络安全水平，实现AI与网络安全之间的良性循环。</description>
+      <pubDate>2024-09-05 15:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>DevOps Center for Hybrid Teams</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/devops-center-for-hybrid-teams.html</link>
+      <description>DevOps Center为混合团队提供了一种改进Salesforce开发中的变更和发布管理流程的方法。它允许团队利用现代DevOps最佳实践，无论是使用点击式用户界面还是现有的现代工具，如Salesforce CLI或IDE。通过支持声明式和程序性用例，DevOps Center简化了团队协作，提高了变更和发布管理的效率。</description>
+      <pubDate>2024-09-05 15:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>How Producers Work: Kafka Producer and Consumer Internals, Part 1</title>
+      <link>https://www.confluent.io/blog/kafka-producer-internals-preparing-event-data/</link>
+      <description>Apache Kafka作为分布式事件流平台，能够高效存储和实时处理事件数据。本文深入探讨了Kafka生产者和消费者内部工作原理，包括数据序列化、分区、批处理等关键步骤，帮助开发者更好地理解和调试Kafka应用。</description>
+      <pubDate>2024-09-05 14:28:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Competitor Analysis: 3 Easy Steps to Improve Your Performance</title>
+      <link>https://s14415.pcdn.co/blog/social-media-competitor-analysis/</link>
+      <description>社交媒体竞争分析：通过三个简单步骤提升你的表现
+
+本指南提供如何进行竞争分析以改进社交媒体策略的实用技巧。通过三个步骤：了解竞争分析、分析竞争对手和将洞察应用于你的社交媒体策略，你可以制定出更有效的社交媒体策略。通过识别直接和间接竞争对手，分析他们的社交媒体策略和指标，并利用竞争分析工具，你可以发现改进策略的机会，并保持领先地位。</description>
+      <pubDate>2024-09-05 14:20:16</pubDate>
+    </item>
+  
+    <item>
+      <title>Governing data products using fitness functions</title>
+      <link>https://martinfowler.com/articles/fitness-functions-data-products.html</link>
+      <description>本文探讨了如何使用“健身函数”来管理数据产品，确保其满足最低治理标准，从而提高数据网格的成功率。通过自动化测试和利用元数据，可以验证数据产品的可发现性、可访问性、安全性、互操作性、可信度和价值，从而实现有效的数据治理。</description>
+      <pubDate>2024-09-05 13:37:00</pubDate>
+    </item>
+  
+    <item>
       <title>The platform engineer's role in the DevSecOps inner and outer loops</title>
       <link>https://developers.redhat.com/articles/2024/09/05/platform-engineers-role-devsecops-inner-and-outer-loops</link>
       <description>平台工程师在DevSecOps内循环和外循环中的作用
@@ -50,6 +115,13 @@
     </item>
   
     <item>
+      <title>Very Demure, Very… Off-Brand? How to Use Trends in Social Media Marketing</title>
+      <link>https://www.brandwatch.com/blog/how-to-use-trends-in-social-media-marketing/</link>
+      <description>品牌在社交媒体营销中应谨慎利用趋势。本文以“谦逊”趋势为例，探讨了品牌如何在不失真地融入趋势的同时，通过原创性、速度和真实性来最大化营销效果。品牌应避免盲目跟风，而是要关注受众反应，以建立与消费者的真实联系。</description>
+      <pubDate>2024-09-05 11:00:57</pubDate>
+    </item>
+  
+    <item>
       <title>Sortir d’un mainframe complexe via une stratégie de Double RUN</title>
       <link>https://blog.octo.com/sortir-d'un-mainframe-complexe-via-une-strategie-de-double-run</link>
       <description>本文探讨了如何通过“双重运行”策略从复杂的主机系统过渡到更现代的架构。文章详细介绍了项目背景、挑战、解决方案和成功的关键因素，包括风险优先排序、保持对主机的集中关注、快速测试和迭代改进，以及确定何时结束双重运行。通过这种方法，企业能够有效地降低风险，确保数据迁移和系统切换的顺利进行。</description>
@@ -61,6 +133,13 @@
       <link>https://www.technologyreview.com/2024/09/05/1103654/greenhouse-gases-guide/</link>
       <description>全球变暖不仅与二氧化碳有关，还包括其他强效温室气体。例如，六氟化硫（SF6）在高压设备中至关重要，但能在大气中保持千年以上，排放量还在上升。氟化气体比二氧化碳强数千倍，尽管它们通常以较小量释放。文章还讨论了甲烷、一氧化二氮和氟化气体对气候变化的贡献，以及减少这些气体排放的方法。</description>
       <pubDate>2024-09-05 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cost savings on serverless compute for Notebooks, Jobs, and Pipelines</title>
+      <link>https://www.databricks.com/blog/cost-savings-serverless-compute-notebooks-jobs-and-pipelines</link>
+      <description>Databricks宣布其无服务器计算服务Notebooks、Jobs和Pipelines的通用可用性，提供快速启动、自动扩展和无缝升级。新功能包括成本效率提升、成本可观察性增强、未来将提供成本优化控制，以及50%的折扣优惠，旨在降低客户成本并提高透明度。</description>
+      <pubDate>2024-09-05 07:56:51</pubDate>
     </item>
   
     <item>
@@ -92,6 +171,13 @@
     </item>
   
     <item>
+      <title>Meet Our Charity Sellers, Plus the Surprising Items that Help Fund Them</title>
+      <link>https://www.ebayinc.com/stories/news/meet-our-charity-sellers-plus-the-surprising-items-that-help-fund-them/</link>
+      <description>eBay for Charity通过独特的交易方式，使慈善事业成为用户体验的核心。该平台允许买家和卖家支持他们关心的慈善事业，2023年帮助筹集了近1.62亿美元。文章介绍了几个使用该平台并成功筹集资金的慈善组织，如Boys &amp; Girls Club、Canopy Planet Foundation、Deckaid和The Union Solidarity Coalition，展示了如何通过意想不到的商品和活动为慈善事业做出贡献。</description>
+      <pubDate>2024-09-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: Strings go Asplodey</title>
       <link>https://thedailywtf.com/articles/strings-go-asplodey</link>
       <description>Anton在PHP代码中错误地重写了内置的explode和implode函数，导致代码冗余且可读性差。他使用单独的&lt;?php ?&gt;块包裹每个语句，这不是必要的，并且使得代码更加混乱。正确的做法是直接在HTML中输出逗号和空格，或者将逻辑放在一个&lt;?php ?&gt;块中，按需生成输出。</description>
@@ -103,6 +189,13 @@
       <link>https://blogs.nvidia.com/blog/volvo-cars-accelerated-computing-ai/</link>
       <description>Volvo Cars推出全新电动SUV EX90，搭载NVIDIA DRIVE Orin系统，提供高性能计算和先进安全功能。EX90采用最先进的传感器套件，支持360度环绕感知数据处理。Volvo Cars计划未来车型采用下一代NVIDIA DRIVE Thor SoC，提升处理能力和能源效率。同时，Volvo Cars和其子公司Zenseact投资NVIDIA DGX系统进行AI模型训练，优化数据标注流程，加速自动驾驶软件开发。</description>
       <pubDate>2024-09-05 05:01:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Skip Dependent Cypress Tests On Failure</title>
+      <link>https://glebbahmutov.com/blog/skip-dependent-tests-on-failure/</link>
+      <description>本文介绍了如何在Cypress测试框架中跳过依赖于其他测试的测试，当某个测试失败时，避免整个测试套件因单个失败而全部失败。作者通过一个示例代码，展示了如何使用cypress-skip-this-test插件来实现在测试失败后跳过后续测试的功能。</description>
+      <pubDate>2024-09-05 04:00:00</pubDate>
     </item>
   
     <item>
@@ -125,6 +218,20 @@
       <title>Vinted Search Scaling Chapter 8: Goodbye Elasticsearch, Hello Vespa Search Engine</title>
       <link>https://vinted.engineering//2024/09/05/goodbye-elasticsearch-hello-vespa/</link>
       <description>Vinted工程团队成功将搜索平台从Elasticsearch迁移至Vespa搜索引擎，以应对数据增长和查询复杂性。Vespa的先进技术和架构优化了搜索性能和可扩展性，提高了搜索结果的相关性和响应速度。迁移后，搜索延迟和索引延迟显著降低，服务器数量减少，同时提升了整体搜索体验。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic extends Express Migration program for Splunk logging customers</title>
+      <link>https://www.elastic.co/blog/elastic-express-migration-program-splunk-logging</link>
+      <description>Elastic扩展了Express迁移计划，以支持Splunk日志客户向下一代可观察性解决方案迁移。该计划旨在帮助客户简化迁移过程，降低成本，并提高对复杂环境的可见性。Elastic的可观察性平台利用机器学习和AI技术，提供统一的、可扩展的数据存储，以及主动识别问题的能力。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The wasm32-wasip2 Target Has Reached Tier 2 Support</title>
+      <link>https://blog.rust-lang.org/2024/09/05/wasip2-tier-2.html</link>
+      <description>Rust的wasm32-wasip2目标已升级至第二级支持，这意味着它现在可以保证构建，并可通过Rustup安装。这一变化使得Rust用户可以直接编写WASI 0.2兼容的网络代码，并逐步扩展Rust标准库以支持WASI 0.2 API。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
@@ -641,6 +748,13 @@
     <item>
       <title>Para Athletics, Shooting &amp; Swimming: Fresh Insights as the Summer Games Continue</title>
       <link>https://s14415.pcdn.co/blog/para-summer-games/</link>
+      <description>巴黎残奥会期间，Brandwatch通过分析社交媒体数据，揭示了最受欢迎的运动员、热门话题和病毒式传播的内容。开闭幕式、运动员的成就和感人瞬间，如射击运动员Avani Lekhara打破印度纪录，以及年轻射箭手Sheetal Devi的精彩表现，都引发了广泛的讨论和关注。</description>
+      <pubDate>2024-09-03 09:44:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Para Athletics, Shooting &amp; Swimming: Fresh Insights as the Summer Games Continue</title>
+      <link>https://www.brandwatch.com/blog/para-summer-games/</link>
       <description>巴黎残奥会期间，Brandwatch通过分析社交媒体数据，揭示了最受欢迎的运动员、热门话题和病毒式传播的内容。开闭幕式、运动员的成就和感人瞬间，如射击运动员Avani Lekhara打破印度纪录，以及年轻射箭手Sheetal Devi的精彩表现，都引发了广泛的讨论和关注。</description>
       <pubDate>2024-09-03 09:44:47</pubDate>
     </item>
