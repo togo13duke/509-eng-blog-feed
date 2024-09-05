@@ -6,6 +6,43 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The platform engineer's role in the DevSecOps inner and outer loops</title>
+      <link>https://developers.redhat.com/articles/2024/09/05/platform-engineers-role-devsecops-inner-and-outer-loops</link>
+      <description>平台工程师在DevSecOps内循环和外循环中的作用
+
+本文探讨了平台工程师在DevSecOps内循环和外循环中的角色，介绍了Red Hat的多种技术如何帮助实现这一循环。文章首先解释了内循环和外循环的概念，然后详细介绍了如何使用Red Hat的产品，如Red Hat OpenShift和Red Hat Developer Hub，来简化平台工程师的任务，从而提高软件开发和部署的效率。</description>
+      <pubDate>2024-09-05 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Integrating security from code to cloud</title>
+      <link>https://www.technologyreview.com/2024/09/05/1097020/integrating-security-from-code-to-cloud/</link>
+      <description>在开源软件环境中，企业需要采用新的安全方法。开源软件（OSS）虽然提高了开发效率和协作，但也可能引入安全漏洞。随着云和云原生应用的兴起，安全挑战加剧。为了应对这些挑战，企业应采用代码到云的安全平台，确保安全成为软件开发生命周期的关键部分，并利用人工智能和最佳实践来加强安全态势。</description>
+      <pubDate>2024-09-05 13:22:25</pubDate>
+    </item>
+  
+    <item>
+      <title>19 New Games to Drop for GeForce NOW in September</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-september-2024-games-list/</link>
+      <description>NVIDIA GeForce NOW在9月新增19款游戏，包括《Age of Mythology: Retold》和《Call of Duty: Black Ops 6》的开放测试版。此外，还有多款新游戏和游戏更新，如《The Casting of Frank Stone》和《Frostpunk 2》。会员可享受跨设备云游戏体验，自动更新游戏内容。</description>
+      <pubDate>2024-09-05 13:00:37</pubDate>
+    </item>
+  
+    <item>
+      <title>Talking Tech With Non Technical Clients</title>
+      <link>https://hashrocket.com/blog/posts/talking-tech-with-non-technical-clients</link>
+      <description>与非技术客户沟通技术问题时，关键在于简化概念、使用类比、积极倾听、明确期望、展现关怀、耐心解释、使用视觉辅助工具、保持可接触性、传授知识和保持透明。</description>
+      <pubDate>2024-09-05 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: greenhouse gases, and how AI could affect inequality</title>
+      <link>https://www.technologyreview.com/2024/09/05/1103674/the-download-greenhouse-gases-and-how-ai-could-affect-inequality/</link>
+      <description>人工智能可能加剧经济不平等，但关注其与不平等之间的相互作用有助于确保AI创造一个更具包容性的未来。同时，温室气体如六氟化硫（SF6）对气候变化的贡献不容忽视，尽管其排放量相对较小。</description>
+      <pubDate>2024-09-05 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Leverage AI and Large Language Models for Next-Generation Knowledge Management</title>
       <link>https://spin.atomicobject.com/ai-llms-knowledge-management/</link>
       <description>人工智能和大型语言模型正在改变知识管理方式。通过记录会议、总结关键信息和丰富AI输入，可以更有效地捕捉和组织知识。这种方法有助于团队协作、个人学习和创新，但需注意平衡信息捕捉与应用，以提升生产力。</description>
@@ -72,6 +109,22 @@
       <title>Inlay hints make it easy to read code in VS Code</title>
       <link>https://www.amitmerchant.com/inlay-hints-makes-it-easy-to-read-code-in-vs-code/</link>
       <description>VS Code中的内联提示功能简化了代码阅读，通过显示函数/方法参数的底层名称，为阅读代码提供额外上下文，使理解不同函数参数的引用更加容易。默认情况下，此功能未启用，但可以通过修改设置或安装扩展来启用。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using ESLint to (help) avoid non-deterministic randomness</title>
+      <link>https://evanhahn.com/using-eslint-to-help-avoid-non-deterministic-randomness/</link>
+      <description>使用ESLint避免非确定性随机性的问题
+
+作者Evan Hahn在开发一款带有随机性的游戏时，希望随机性是可预测的，即需要随机数生成器的种子。由于使用了JavaScript的Math.random()，他决定替换为可种子的随机数生成器。通过添加ESLint规则禁止使用Math.random()和Lodash的sample、sampleSize等函数，作者成功地将代码库中的非确定性随机性根除，尽管这种方法并不完美，但对于他的游戏来说已经足够。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vinted Search Scaling Chapter 8: Goodbye Elasticsearch, Hello Vespa Search Engine</title>
+      <link>https://vinted.engineering//2024/09/05/goodbye-elasticsearch-hello-vespa/</link>
+      <description>Vinted工程团队成功将搜索平台从Elasticsearch迁移至Vespa搜索引擎，以应对数据增长和查询复杂性。Vespa的先进技术和架构优化了搜索性能和可扩展性，提高了搜索结果的相关性和响应速度。迁移后，搜索延迟和索引延迟显著降低，服务器数量减少，同时提升了整体搜索体验。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
