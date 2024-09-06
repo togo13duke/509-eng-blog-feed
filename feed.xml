@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Roblox is launching a generative AI that builds 3D environments in a snap</title>
-      <link>https://www.technologyreview.com/2024/09/06/1103707/roblox-is-launching-a-generative-ai-that-builds-3d-environments-in-a-snap/</link>
-      <description>Roblox即将推出一款生成式AI工具，可快速构建3D环境，让开发者无需设计技能也能轻松创建游戏场景。该工具通过“标记化”3D方块，类似于大型语言模型处理文字的方式，创建环境。Roblox计划开源其3D基础模型，以促进创新。</description>
-      <pubDate>2024-09-06 17:30:00</pubDate>
-    </item>
-  
-    <item>
       <title>WaveCore runs right through a concrete wall with gigabit-speed network signal</title>
       <link>https://arstechnica.com/?p=2047825</link>
       <description>Airvine Scientific的WaveCore技术能够通过6GHz无线电波穿透12英寸厚的混凝土墙，实现高达4Gbps的网速，为现代网络系统提供解决方案。</description>
@@ -66,13 +59,6 @@
       <link>https://www.docker.com/blog/swampup-2024-austin/</link>
       <description>Docker CEO Scott Johnston将在SwampUP 2024大会上发表主题演讲，讨论Docker与JFrog合作如何提升软件和AI应用开发的安全性。他将探讨Docker如何通过提供可信内容来管理安全的软件供应链，并强调Docker Desktop、Docker Hub和Docker Scout在确保安全部署开发基础块中的关键作用。此外，Johnston将展示Docker产品如何与JFrog的DevOps平台集成，以简化开发流程并加速应用交付。</description>
       <pubDate>2024-09-06 13:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>How I Optimized Large-Scale Data Ingestion</title>
-      <link>https://www.databricks.com/blog/how-i-optimized-large-scale-data-ingestion</link>
-      <description>Databricks产品实习生Sonia Bendre分享了她在数据摄取团队的工作经验，包括如何通过LakeFlow Connect、Auto Loader和COPY INTO等创新技术提高大规模数据摄取效率。她强调了与客户合作的重要性，以及如何通过优化用户体验和内部协作来提升产品管理技能。</description>
-      <pubDate>2024-09-06 12:30:34</pubDate>
     </item>
   
     <item>
