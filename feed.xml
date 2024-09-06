@@ -6,24 +6,10 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How plants could mine metals from the soil</title>
-      <link>https://www.technologyreview.com/2024/09/06/1103689/plants-mining-phytomining/</link>
-      <description>植物采矿技术有望从土壤中提取金属，如镍，以支持电动汽车等能源技术。美国能源部资助的研究项目正在寻找和改进能够高效吸收和积累金属的植物种类，以减少对传统采矿的依赖，并降低环境风险。这些研究旨在提高植物产量，并确保植物采矿的可持续性和环境影响。</description>
-      <pubDate>2024-09-06 09:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Beyond the buzzwords: Bernard Meyer and WordPress’ marketing approach</title>
       <link>https://www.hostinger.com/blog/bernard-meyer</link>
       <description>Bernard Meyer，作为WordPress营销团队的代表，分享了他如何将营销专长应用于WordPress生态系统。他强调从传统新闻放大转向媒体军团的策略，以及如何平衡工作与个人生活。Bernard的职业生涯始于文案和内容创作，后来在Omnisend担任高级传播与创意总监。他对阅读和电影的热爱，以及与不同背景的人交流的能力，为他的工作增添了价值。通过参与WordCamp和贡献WordPress社区，Bernard在营销团队中发挥了重要作用，并致力于推动WordPress的发展。</description>
       <pubDate>2024-09-06 05:22:41</pubDate>
-    </item>
-  
-    <item>
-      <title>How to Validate Twilio Event Streams Webhooks in Java</title>
-      <link>https://www.twilio.com/en-us/blog/validate-twilio-event-streams-webhooks-java</link>
-      <description>如何验证Twilio事件流Webhook在Java中的有效性。Twilio的事件流Webhook允许应用程序在特定事件发生时接收通知，如接收短信或来电。每个Webhook请求都包含事件的详细信息，如来电号码或消息内容。为了确保安全性，Twilio为每个Webhook请求提供了签名，可以通过账户的认证令牌和Webhook正文来验证请求是否来自Twilio。本文将介绍如何使用Java进行验证。</description>
-      <pubDate>2024-09-06 00:00:00</pubDate>
     </item>
   
     <item>
