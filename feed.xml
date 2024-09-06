@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Found: 280 Android apps that use OCR to steal cryptocurrency credentials</title>
+      <link>https://arstechnica.com/?p=2047970</link>
+      <description>研究人员发现280款恶意Android应用，利用OCR技术窃取加密货币钱包凭证。这些应用伪装成官方应用，窃取手机短信、联系人及存储的图片，并发送至开发者控制的远程服务器。攻击者使用OCR软件提取存储在受感染设备上的图像中的加密货币钱包凭证，表明对受害者加密资产的高度关注。</description>
+      <pubDate>2024-09-06 20:23:10</pubDate>
+    </item>
+  
+    <item>
       <title>For Subscribers: Celebrate 125 years of MIT Technology Review</title>
       <link>https://www.technologyreview.com/2024/09/06/1103356/for-subscribers-celebrate-125-years-of-mit-technology-review/</link>
       <description>MIT Technology Review庆祝125周年，发布125周年特刊，感谢读者支持。为庆祝，将赠送25张EmTech MIT活动的免费虚拟门票，门票包括9月30日至10月1日在MIT校园的现场直播访问和活动后的三个月点播访问。活动将探讨生成式AI和气候技术对盈利和可持续性的影响。</description>
