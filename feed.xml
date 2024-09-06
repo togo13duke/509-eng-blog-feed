@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>WaveCore runs right through a concrete wall with gigabit-speed network signal</title>
+      <link>https://arstechnica.com/?p=2047825</link>
+      <description>Airvine Scientific的WaveCore技术能够通过6GHz无线电波穿透12英寸厚的混凝土墙，实现高达4Gbps的网速，为现代网络系统提供解决方案。</description>
+      <pubDate>2024-09-06 15:32:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Day in the Life: Alex Guild</title>
+      <link>https://www.theguardian.com/info/article/2024/sep/06/day-in-the-life-alex-guild</link>
+      <description>Alex Guild分享了他作为产品经理在《卫报》的一天。他描述了从大学毕业后加入一家初创公司，逐渐对产品管理产生兴趣，并在媒体和活动公司获得第一个产品经理职位。在《卫报》的工作日包括团队沟通、会议和战略讨论，他享受这里友好、协作的文化和与不同部门合作的机会。</description>
+      <pubDate>2024-09-06 15:12:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Improving Customer Satisfaction in Pizza Shops With RAG: A Pgai Case Study</title>
+      <link>https://www.timescale.com/blog/improving-customer-satisfaction-in-pizza-shops-with-rag-and-pgai/</link>
+      <description>通过使用pgai扩展和AI生成内容，本案例展示了如何提高虚拟比萨店中的客户满意度。通过分析客户反馈，AI能够快速生成业务报告，揭示客户对产品质量、配料和整体用餐体验的不满。这种方法不仅提高了客户满意度，还提升了运营效率。</description>
+      <pubDate>2024-09-06 15:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Why We Need More Gender Diversity in the Cybersecurity Space</title>
+      <link>https://www.docker.com/blog/why-we-need-more-gender-diversity-in-the-cybersecurity-space/</link>
+      <description>我们需要在网络安全领域增加性别多样性。尽管女性在网络安全领域的代表性有所提高，但她们仍然占比较低。多样化的团队能够带来更广泛的视角和创新解决方案，这对于解决全球网络安全技能短缺至关重要。公司应通过导师制度、包容性工作环境和政策改革等措施来促进性别多样性。这不仅是一个社会问题，也是一个商业问题，因为网络安全专业人员的需求远远超过了供应。</description>
+      <pubDate>2024-09-06 14:21:18</pubDate>
+    </item>
+  
+    <item>
+      <title>The case of the image that came out horribly slanted: Negative stride</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240906-00/?p=110228</link>
+      <description>本文探讨了图像倾斜问题的原因，即负步进（Negative stride）。负步进意味着像素行的存储顺序是反向的，这可能导致图像显示错误。文章解释了如何通过调整内存布局和指针位置来处理负步进，并提供了将负步进位图转换为正步进位图的示例代码。</description>
+      <pubDate>2024-09-06 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Python in Visual Studio Code – September 2024 Release</title>
       <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2024-release/</link>
       <description>Visual Studio Code的Python和Jupyter扩展在2024年9月发布了新版本，增加了Django单元测试支持、从内联提示导航到定义等功能，并进行了多项改进和问题修复，以提升Python和Jupyter笔记本的开发体验。</description>
@@ -13,10 +48,24 @@
     </item>
   
     <item>
+      <title>Microservices Monitoring with the RED Method: A Developer's Guide</title>
+      <link>https://last9.io/blog/monitoring-with-red-method/</link>
+      <description>RED方法是一种针对微服务的监控哲学，通过关注请求率、错误率和延迟三个关键指标，简化了微服务的监控过程。这种方法有助于快速识别和解决问题，提高服务性能和可靠性。通过使用RED方法，开发者可以更有效地监控微服务，从而提升用户体验。</description>
+      <pubDate>2024-09-06 13:34:44</pubDate>
+    </item>
+  
+    <item>
       <title>Join Docker CEO Scott Johnston at SwampUP 2024 in Austin</title>
       <link>https://www.docker.com/blog/swampup-2024-austin/</link>
       <description>Docker CEO Scott Johnston将在SwampUP 2024大会上发表主题演讲，讨论Docker与JFrog合作如何提升软件和AI应用开发的安全性。他将探讨Docker如何通过提供可信内容来管理安全的软件供应链，并强调Docker Desktop、Docker Hub和Docker Scout在确保安全部署开发基础块中的关键作用。此外，Johnston将展示Docker产品如何与JFrog的DevOps平台集成，以简化开发流程并加速应用交付。</description>
       <pubDate>2024-09-06 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: mining metals with plants, and our dystopian future</title>
+      <link>https://www.technologyreview.com/2024/09/06/1103698/the-download-mining-metals-with-plants-and-our-dystopian-future/</link>
+      <description>植物采矿技术有望解决未来金属需求，美国政府在研究如何利用植物吸收和浓缩金属的特性进行植物采矿。同时，文章探讨了科技发展带来的未来生活图景，包括软件控制生活、数据合并等信息社会现象。</description>
+      <pubDate>2024-09-06 12:10:00</pubDate>
     </item>
   
     <item>
@@ -38,6 +87,13 @@
       <link>https://last9.io/events/join-last9-at-promcon-eu-2024/</link>
       <description>参加2024年9月11日至12日在柏林举办的PromCon EU，与Last9团队见面，了解Levitate如何通过高基数指标、日志和跟踪重新定义可观察性，确保您不会错过最重要的信息。Levitate是一个兼容Prometheus和OpenTelemetry的数据存储库，用于所有遥测数据，提供关联、细粒度警报、实时指标生成等功能，并支持GitOps/IaC工作流进行警报管理和自动化。</description>
       <pubDate>2024-09-06 11:51:03</pubDate>
+    </item>
+  
+    <item>
+      <title>LLM Assisted Segmentation for Games</title>
+      <link>https://www.databricks.com/blog/llm-assisted-segmentation-games</link>
+      <description>游戏个性化是提升玩家参与度和消费的关键。本文探讨了利用大型语言模型（LLM）和机器学习技术进行玩家细分的方法，以实现更精准的个性化体验。通过LLM帮助确定合适的聚类数量，并使用可解释的机器学习技术如K-means聚类，可以更好地理解玩家行为和偏好。这种方法不仅提高了分析效率，还帮助游戏开发者更好地服务于玩家，提升游戏体验。</description>
+      <pubDate>2024-09-06 09:32:29</pubDate>
     </item>
   
     <item>
