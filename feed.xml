@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>For Subscribers: Celebrate 125 years of MIT Technology Review</title>
+      <link>https://www.technologyreview.com/2024/09/06/1103356/for-subscribers-celebrate-125-years-of-mit-technology-review/</link>
+      <description>MIT Technology Review庆祝125周年，发布125周年特刊，感谢读者支持。为庆祝，将赠送25张EmTech MIT活动的免费虚拟门票，门票包括9月30日至10月1日在MIT校园的现场直播访问和活动后的三个月点播访问。活动将探讨生成式AI和气候技术对盈利和可持续性的影响。</description>
+      <pubDate>2024-09-06 18:48:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Nvidia’s AI chips are cheaper to rent in China than US</title>
+      <link>https://arstechnica.com/?p=2047945</link>
+      <description>NVIDIA的人工智能芯片在中国租赁成本低于美国，这表明尽管美国出口限制，但高性能处理器仍能轻易进入中国市场。中国小型云服务提供商的租赁价格远低于美国同行，部分原因是大量NVIDIA芯片供应和规避了美国的限制措施。尽管美国禁止向中国出口A100芯片，但市场上仍能轻易获得这些芯片，甚至通过走私渠道。</description>
+      <pubDate>2024-09-06 18:31:08</pubDate>
+    </item>
+  
+    <item>
+      <title>How AI Is Personalizing Customer Service Experiences Across Industries</title>
+      <link>https://blogs.nvidia.com/blog/ai-personalize-customer-service-experiences/</link>
+      <description>AI正在通过个性化客户服务体验改变各行业。企业利用AI软件提高效率，自动化互动，并优化运营。AI在零售、电信、金融和医疗保健等领域都有应用，如管理客户请求、自动化网络故障排除、识别欺诈和提供医疗辅助。通过AI，企业能够提供更高效、个性化的服务，提升客户满意度。</description>
+      <pubDate>2024-09-06 18:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>How we updated our Performance Review process to help engineers grow</title>
+      <link>https://eng.wealthfront.com/2024/09/06/how-we-updated-our-performance-review-process-to-help-engineers-grow/</link>
+      <description>Wealthfront更新了其工程师的绩效评估流程，以促进工程师的成长和发展。新流程包括更频繁的评估、多维度评价、明确的成长指导，以及经理和工程师之间的定期反馈，旨在确保工程师在Wealthfront和未来的职业生涯中都能表现出色。</description>
+      <pubDate>2024-09-06 17:59:41</pubDate>
+    </item>
+  
+    <item>
       <title>Roblox is launching a generative AI that builds 3D environments in a snap</title>
       <link>https://www.technologyreview.com/2024/09/06/1103707/roblox-is-launching-a-generative-ai-that-builds-3d-environments-in-a-snap/</link>
       <description>Roblox即将推出一款生成式AI工具，可快速构建3D环境，让开发者无需设计技能也能轻松创建游戏场景。该工具通过“标记化”3D方块，类似于大型语言模型处理文字的方式，创建环境。Roblox计划开源其3D基础模型，以促进创新。</description>
@@ -522,6 +550,13 @@
       <title>Retail marketing tips, examples, and compliance</title>
       <link>https://www.twilio.com/en-us/blog/retail-marketing</link>
       <description>Twilio提供零售营销策略、案例和合规性建议，强调个性化、数据驱动和创意战术的重要性。有效的营销活动可提升销售、增强客户忠诚度、建立品牌身份并使业务在竞争市场中脱颖而出。</description>
+      <pubDate>2024-09-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Changes to `impl Trait` in Rust 2024</title>
+      <link>https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html</link>
+      <description>Rust 2024对`impl Trait`进行了改进，允许其默认使用作用域内的任何泛型参数，包括类型和生命周期。这简化了`impl Trait`的使用，并引入了新的语法来显式声明可用的类型。这些变化旨在解决之前版本中存在的灵活性和可解释性问题，同时保持代码的兼容性。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
