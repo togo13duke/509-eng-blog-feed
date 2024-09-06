@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>BW #82: Broadband (solution)</title>
-      <link>https://www.bambooweekly.com/bw-82-broadband-solution/</link>
-      <description>本周探讨了全球宽带互联网的可用性，分析了OECD宽带统计数据，比较了固定和移动宽带渗透率，并探讨了如何将数据合并为单一的多索引数据框架。</description>
-      <pubDate>2024-09-05 23:26:20</pubDate>
-    </item>
-  
-    <item>
       <title>US charges Russian military officers for unleashing wiper malware on Ukraine</title>
       <link>https://arstechnica.com/?p=2047689</link>
       <description>美国指控俄罗斯军官在乌克兰释放擦除器恶意软件
@@ -339,34 +332,6 @@
       <title>Elastic Stack 8.15.1 released</title>
       <link>https://www.elastic.co/blog/elastic-stack-8-15-1-released</link>
       <description>Elastic Stack 8.15.1版本发布，修复了APM数据流生命周期管理中的bug，建议用户升级至最新版本以获得改进和修复。</description>
-      <pubDate>2024-09-05 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Alternatives to Spread Operator Reduce</title>
-      <link>https://jaketrent.com/post/alternatives-spread-operator-reduce</link>
-      <description>探索数组reduce中替代展开操作符的选项，包括使用展开操作符、原地修改和map结合Object.fromEntries。这些方法各有优缺点，需根据具体场景和性能需求选择。</description>
-      <pubDate>2024-09-05 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Capture Right Click in React</title>
-      <link>https://jaketrent.com/post/capture-right-click-react</link>
-      <description>React中捕获右键点击的方法：使用onContextMenu事件处理器来捕获右键点击，类似于onClick用于左键点击。若要同时处理左右键点击，可以捕获鼠标事件并检查被点击的按钮。</description>
-      <pubDate>2024-09-05 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Sort By Two Fields in JavaScript</title>
-      <link>https://jaketrent.com/post/sort-two-fields-js</link>
-      <description>JavaScript中按两个字段排序对象数组，首先按主字段排序，若相等则按次字段排序。示例代码展示了如何实现按年龄升序和姓名字母顺序排序。</description>
-      <pubDate>2024-09-05 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Retail marketing tips, examples, and compliance</title>
-      <link>https://www.twilio.com/en-us/blog/retail-marketing</link>
-      <description>Twilio提供零售营销策略、案例和合规性建议，强调个性化、数据驱动和创意战术的重要性。有效的营销活动可提升销售、增强客户忠诚度、建立品牌身份并使业务在竞争市场中脱颖而出。</description>
       <pubDate>2024-09-05 00:00:00</pubDate>
     </item>
   
