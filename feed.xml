@@ -6,10 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Python in Visual Studio Code – September 2024 Release</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2024-release/</link>
+      <description>Visual Studio Code的Python和Jupyter扩展在2024年9月发布了新版本，增加了Django单元测试支持、从内联提示导航到定义等功能，并进行了多项改进和问题修复，以提升Python和Jupyter笔记本的开发体验。</description>
+      <pubDate>2024-09-06 13:50:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Docker CEO Scott Johnston at SwampUP 2024 in Austin</title>
+      <link>https://www.docker.com/blog/swampup-2024-austin/</link>
+      <description>Docker CEO Scott Johnston将在SwampUP 2024大会上发表主题演讲，讨论Docker与JFrog合作如何提升软件和AI应用开发的安全性。他将探讨Docker如何通过提供可信内容来管理安全的软件供应链，并强调Docker Desktop、Docker Hub和Docker Scout在确保安全部署开发基础块中的关键作用。此外，Johnston将展示Docker产品如何与JFrog的DevOps平台集成，以简化开发流程并加速应用交付。</description>
+      <pubDate>2024-09-06 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Create Custom Keyboard Shortcuts for VSCode Extensions</title>
       <link>https://spin.atomicobject.com/shortcuts-vscode-extensions/</link>
       <description>创建自定义快捷键可增强VSCode扩展功能。通过绑定键盘快捷键到扩展命令，用户可快速访问常用功能，无需通过菜单或记忆长命令名。本文介绍了如何为VSCode扩展添加单个和多个命令的快捷键，以提升工作效率。</description>
       <pubDate>2024-09-06 12:00:57</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #219: Astrophysics and Astronomy With Python &amp; PyCon Africa 2024</title>
+      <link>https://realpython.com/podcasts/rpp/219/</link>
+      <description>本期《Real Python播客》探讨了使用Python进行天体物理学和天文学研究，包括探索天文和天体物理学的视频课程，以及PyCon Africa 2024的讨论，该会议旨在通过PyClubs、PyLadies和PyData项目将Python引入非洲。此外，还分享了Python社区的其他文章和项目，如日志记录、操作符优先级和Python对象深度检查等。</description>
+      <pubDate>2024-09-06 12:00:00</pubDate>
     </item>
   
     <item>
@@ -24,6 +45,13 @@
       <link>https://www.technologyreview.com/2024/09/06/1103689/plants-mining-phytomining/</link>
       <description>植物采矿技术有望从土壤中提取金属，如镍，以支持电动汽车等能源技术。美国能源部资助的研究项目正在寻找和改进能够高效吸收和积累金属的植物种类，以减少对传统采矿的依赖，并降低环境风险。这些研究旨在提高植物产量，并确保植物采矿的可持续性和环境影响。</description>
       <pubDate>2024-09-06 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: Home By Another Way</title>
+      <link>https://thedailywtf.com/articles/home-by-another-way</link>
+      <description>本周，我们探讨了永恒的问题：“时间旅行是否可能？”文章中，作者Lyle Seaman通过一系列有趣的故事和讨论，探讨了时间旅行的可能性，以及人们对这一概念的不同看法。</description>
+      <pubDate>2024-09-06 06:30:00</pubDate>
     </item>
   
     <item>
@@ -607,6 +635,13 @@
       <link>https://spin.atomicobject.com/applescript-python-gui-automations/</link>
       <description>探索了使用AppleScript和Python进行GUI自动化的挑战，作者Meghan Harris分享了自动化下载图像并加载到音频可视化器Synesthesia的流程。她遇到了通过AppleScript与Synesthesia交互的难题，并尝试了PyObjC和AppKit来调整Python脚本，以实现更稳定的自动化。这一过程不仅提高了工作效率，还扩展了作者的工具箱。</description>
       <pubDate>2024-09-04 12:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Lists vs Tuples in Python</title>
+      <link>https://realpython.com/quizzes/python-lists-tuples/</link>
+      <description>本文章介绍了一个Python列表与元组对比的互动测验，旨在评估和加深读者对这两种数据类型的理解。测验包含10个问题，无时间限制，每答对一题得1分，最终获得总分，最高分为100%。测验后可查看结果。</description>
+      <pubDate>2024-09-04 12:00:00</pubDate>
     </item>
   
     <item>
