@@ -6,20 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Create Custom Keyboard Shortcuts for VSCode Extensions</title>
-      <link>https://spin.atomicobject.com/shortcuts-vscode-extensions/</link>
-      <description>创建自定义快捷键可增强VSCode扩展功能。通过绑定键盘快捷键到扩展命令，用户可快速访问常用功能，无需通过菜单或记忆长命令名。本文介绍了如何为VSCode扩展添加单个和多个命令的快捷键，以提升工作效率。</description>
-      <pubDate>2024-09-06 12:00:57</pubDate>
-    </item>
-  
-    <item>
-      <title>Join Last9 at PromCon EU 2024!</title>
-      <link>https://last9.io/events/join-last9-at-promcon-eu-2024/</link>
-      <description>参加2024年9月11日至12日在柏林举办的PromCon EU，与Last9团队见面，了解Levitate如何通过高基数指标、日志和跟踪重新定义可观察性，确保您不会错过最重要的信息。Levitate是一个兼容Prometheus和OpenTelemetry的数据存储库，用于所有遥测数据，提供关联、细粒度警报、实时指标生成等功能，并支持GitOps/IaC工作流进行警报管理和自动化。</description>
-      <pubDate>2024-09-06 11:51:03</pubDate>
-    </item>
-  
-    <item>
       <title>How plants could mine metals from the soil</title>
       <link>https://www.technologyreview.com/2024/09/06/1103689/plants-mining-phytomining/</link>
       <description>植物采矿技术有望从土壤中提取金属，如镍，以支持电动汽车等能源技术。美国能源部资助的研究项目正在寻找和改进能够高效吸收和积累金属的植物种类，以减少对传统采矿的依赖，并降低环境风险。这些研究旨在提高植物产量，并确保植物采矿的可持续性和环境影响。</description>
@@ -34,23 +20,9 @@
     </item>
   
     <item>
-      <title>The creator of Jenkins discusses CI/CD and balancing business with open source</title>
-      <link>https://stackoverflow.blog/2024/09/06/kohsuke-kawaguchi-jenkins-ci-cd-cloudbees/</link>
-      <description>Jenkins的创造者Kohsuke Kawaguchi讨论了持续集成/持续部署（CI/CD）以及如何在开源和商业之间取得平衡。他在Sun Microsystems开始了职业生涯，并在2010年创立了InfraDNA，后与Cloudbees合并，2014年成为Cloudbees的首席技术官。Kawaguchi分享了他对社区驱动的开源和企业服务盈利之间的平衡见解。</description>
-      <pubDate>2024-09-06 04:15:00</pubDate>
-    </item>
-  
-    <item>
       <title>How to Validate Twilio Event Streams Webhooks in Java</title>
       <link>https://www.twilio.com/en-us/blog/validate-twilio-event-streams-webhooks-java</link>
       <description>如何验证Twilio事件流Webhook在Java中的有效性。Twilio的事件流Webhook允许应用程序在特定事件发生时接收通知，如接收短信或来电。每个Webhook请求都包含事件的详细信息，如来电号码或消息内容。为了确保安全性，Twilio为每个Webhook请求提供了签名，可以通过账户的认证令牌和Webhook正文来验证请求是否来自Twilio。本文将介绍如何使用Java进行验证。</description>
-      <pubDate>2024-09-06 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>How Much Can You Learn After Using This Language App For Three Weeks?</title>
-      <link>https://www.babbel.com/en/magazine/how-fluent-can-you-become-after-using-this-language-app-for-three-weeks</link>
-      <description>在Babbel语言应用中，三周内可以学习到相当多的语言知识。通过专家课程和丰富的学习资源，即使是初学者也能在短时间内掌握基础词汇、语法和发音。坚持每日练习、专注于对话和设定具体目标，可以加速学习进程。然而，要达到流利水平，需要持续学习和实践。</description>
       <pubDate>2024-09-06 00:00:00</pubDate>
     </item>
   
