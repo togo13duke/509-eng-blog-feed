@@ -188,6 +188,17 @@
     </item>
   
     <item>
+      <title>This week in #dev (Aug 30, 2024)</title>
+      <link>https://thoughtbot.com/blog/this-week-in-dev-aug-30-2024</link>
+      <description>本周在#dev（2024年8月30日）：
+- 发现Gemfile的.tool-versions功能用于Ruby版本管理。
+- 使用RSpec测试块执行。
+- 简化Rails中下拉字段创建。
+- 感谢所有贡献者！</description>
+      <pubDate>2024-09-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #82: Broadband (solution)</title>
       <link>https://www.bambooweekly.com/bw-82-broadband-solution/</link>
       <description>本周探讨了全球宽带互联网的可用性，分析了OECD宽带统计数据，比较了固定和移动宽带渗透率，并探讨了如何将数据合并为单一的多索引数据框架。</description>
