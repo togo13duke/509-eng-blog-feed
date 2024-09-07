@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>We've Added 10 New Icon Tools</title>
+      <link>https://catonmat.net/10-new-icon-tools</link>
+      <description>Browserling团队最近增加了10款新的图标工具，包括旋转、裁剪、调整大小、添加边框、去除边框、从文本创建图标、添加文本、单色转换、居中和添加轮廓等功能。下周还将推出更多工具。</description>
+      <pubDate>2024-09-07 07:29:00</pubDate>
+    </item>
+  
+    <item>
       <title>Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption</title>
       <link>https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/</link>
       <description>文章主要探讨了在完全同态加密（FHE）中，如何通过“打包”技术优化矩阵-向量乘法。文章首先介绍了FHE中的数据布局策略，即“打包”，它通过将多个明文数据以精心选择的方式放入RLWE密文，以适应所需的操作，从而减少额外的乘法和旋转次数。接着，文章详细讨论了两种基本的打包技术：Halevi-Shoup对角矩阵打包和Squat对角矩阵打包，并分析了它们在矩阵-向量乘法中的应用和性能。</description>
