@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing TypeScript 5.6</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/</link>
+      <description>TypeScript 5.6发布，新增类型检查、编辑器功能和迭代器改进。包括对tsconfig.json文件搜索的改进、错误处理、直接支持提交字符和排除模式，以及新的IteratorObject类型。此外，还引入了BuiltinIteratorReturn类型和--strictBuiltinIteratorReturn标志，以增强类型安全。</description>
+      <pubDate>2024-09-09 17:13:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Jetpack Compose APIs for building adaptive layouts using Material guidance now stable</title>
+      <link>http://android-developers.googleblog.com/2024/09/jetpack-compose-apis-for-building-adaptive-layouts-material-guidance-now-stable.html</link>
+      <description>Android Developers Blog发布了Jetpack Compose的1.0稳定版，该版本提供了使用Material指导构建自适应布局的API。这些API能够帮助开发者创建适应不同窗口大小的自适应布局，优化用户体验。新组件如NavigationSuiteScaffold、ListDetailPaneScaffold和SupportingPaneScaffold可根据窗口大小和姿态显示不同的组件，以适应各种窗口尺寸。开发者可以通过分层依赖来选择适当的抽象级别，以适应不同的使用场景。</description>
+      <pubDate>2024-09-09 17:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SAP integrated NavigationSuiteScaffold in just 5 minutes to create adaptive navigation UI</title>
+      <link>http://android-developers.googleblog.com/2024/09/sap-integrates-compose-adaptive-api-for-responsive-navigation-ui.html</link>
+      <description>SAP Mobile Start开发团队利用Jetpack Compose和Material 3设计，仅用5分钟就集成了NavigationSuiteScaffold，创建了一个适应不同屏幕尺寸的导航UI。通过优化布局和采用标准布局，SAP Mobile Start能够根据窗口大小动态调整组件，提高用户体验。此外，使用Compose Material 3自适应库简化了UI开发，并提高了开发效率。</description>
+      <pubDate>2024-09-09 16:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Getting Started with the Labs AI Tools for Devs Docker Desktop Extension</title>
+      <link>https://www.docker.com/blog/labs-ai-tools-for-devs-docker-desktop-extension/</link>
+      <description>Docker Labs推出了一款名为“Labs AI Tools for Devs”的Docker Desktop扩展，旨在帮助开发者更简单地运行AI工具。该扩展允许用户通过GitHub Copilot等工具进行代码提示，并支持导入本地提示文件。开发者可以创建、运行和分享自己的提示，同时利用Docker容器中的工具进行项目测试和优化。</description>
+      <pubDate>2024-09-09 16:32:28</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more (September 9, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/</link>
+      <description>本周AWS发布了多项新功能和服务更新，包括Amazon DynamoDB的基于属性的访问控制、Amazon S3的存储浏览器、AWS AppSync的改进监控等。此外，AWS GenAI Lofts在多个城市开放，并即将推出更多AWS社区活动。</description>
+      <pubDate>2024-09-09 16:20:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Live Media Reimagined: NVIDIA Holoscan for Media Now Available for Production</title>
+      <link>https://blogs.nvidia.com/blog/holoscan-for-media-availability/</link>
+      <description>NVIDIA推出全新媒体平台Holoscan for Media，支持软件定义基础设施，助力直播媒体和视频管道革命。该平台集成了AI技术，允许媒体公司利用现有硬件提升生产和交付效率，并支持多种媒体应用，如AI字幕、实时图形等。Holoscan for Media基于行业标准，旨在简化开发流程，优化研发投入，并支持云原生平台，为下一代直播媒体应用提供支持。</description>
+      <pubDate>2024-09-09 16:00:09</pubDate>
+    </item>
+  
+    <item>
       <title>To be more useful, robots need to become lazier</title>
       <link>https://www.technologyreview.com/2024/09/09/1103733/to-be-more-useful-robots-need-to-become-lazier/</link>
       <description>机器人需要变得更加“懒惰”以提高效率和实用性。通过智能数据处理，机器人可以更有效地与周围环境互动，包括人类。例如，在足球比赛中，通过简化数据处理和优先级排序，机器人可以节省能量并做出更明智的决策。这种方法有助于提高机器人的安全性、可靠性和效率，从而使其更广泛地被采用。</description>
@@ -23,6 +65,15 @@
       <title>Python News Roundup: September 2024</title>
       <link>https://realpython.com/python-news-september-2024/</link>
       <description>Python 3.12.5发布，带来稳定性与安全性提升；Python连续多年位居编程语言榜首；2023年Python开发者调查揭示社区趋势；PEP 750提案引入标签字符串，增强字符串处理能力；EuroSciPy 2024会议促进科学计算领域合作。</description>
+      <pubDate>2024-09-09 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub trick to find the commit that deleted a file</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240909-00/?p=110234</link>
+      <description>GitHub技巧：查找删除文件的提交记录
+
+本文介绍了如何在GitHub上查找删除文件的提交记录。通过使用GitHub提供的文件历史记录功能，可以轻松地找到删除文件的提交。只需在GitHub仓库的URL后添加文件路径，即可查看该文件的历史提交记录。这对于追踪文件变更和恢复误删文件非常有用。</description>
       <pubDate>2024-09-09 14:00:00</pubDate>
     </item>
   
@@ -73,6 +124,13 @@
       <link>https://spin.atomicobject.com/cascadiajs-2024-highlights/</link>
       <description>CascadiaJS 2024大会聚焦前端框架的演进、AI在开发中的应用、性能优化和用户体验，以及无服务器革命。大会展示了React 19 Beta、Svelte 5等框架的最新进展，探讨了AI在UI生成和安全性方面的应用，并深入讨论了性能优化和设计原则。此外，大会还强调了无服务器技术在现代JavaScript和Web架构中的作用。</description>
       <pubDate>2024-09-09 12:00:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing a RAG chatbot using Databricks and Pinecone</title>
+      <link>https://www.databricks.com/blog/implementing-rag-chatbot-using-databricks-and-pinecone</link>
+      <description>使用Databricks和Pinecone构建RAG聊天机器人，通过结合大型语言模型和外部知识检索，提高聊天机器人在理解和回答复杂问题时的准确性和质量。RAG能够处理不同类型的数据，提供更动态和灵活的响应，同时降低前期成本并加快开发速度。本文详细介绍了如何通过Databricks和Pinecone构建一个能够回答关于Databricks问题的聊天机器人，包括数据准备、存储、查询和部署等步骤。</description>
+      <pubDate>2024-09-09 11:59:39</pubDate>
     </item>
   
     <item>
@@ -139,6 +197,13 @@
       <title>Jessica David saw the coolest job title — a few months later she was working in data at Elastic</title>
       <link>https://www.elastic.co/blog/culture-working-data-elastic</link>
       <description>Jessica David是一位数据工程师，她在Elastic公司工作，专注于数据安全和威胁检测。她从对计算机技术的兴趣开始，经历了从编程到大数据的职业生涯转变。在Elastic，她负责维护数据服务、设计新功能，并参与内部黑客马拉松，以促进团队成长。她鼓励女性在科技行业中拥抱计算机的魔力，团队合作，寻找导师，并找到志同道合的人。</description>
+      <pubDate>2024-09-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Share your feedback about developing with Go</title>
+      <link>https://go.dev/blog/survey2024-h2</link>
+      <description>Go编程语言开发者调查现已开放，邀请开发者分享使用Go的经验和见解，以帮助了解Go在各行业和组织中的应用、开发者面临的挑战、期望的功能改进，以及如何更好地支持Go社区。参与调查将直接影响Go语言的未来发展方向。</description>
       <pubDate>2024-09-09 00:00:00</pubDate>
     </item>
   
