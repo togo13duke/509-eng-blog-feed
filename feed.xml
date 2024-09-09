@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing advanced security and governance in Mosaic AI Gateway</title>
+      <link>https://www.databricks.com/blog/new-updates-mosaic-ai-gateway-bring-security-and-governance-genai-models</link>
+      <description>Databricks宣布在Mosaic AI Gateway中引入高级安全性和治理功能，以简化AI模型的访问、管理和安全。这些新功能包括使用跟踪、有效载荷日志和防护措施，使企业能够对Databricks数据智能平台中的任何AI模型应用安全性和治理。Mosaic AI Gateway旨在解决企业整合多种AI模型时遇到的挑战，如操作效率低下、成本超支和潜在的安全风险。</description>
+      <pubDate>2024-09-09 18:00:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Why is F# code so robust and reliable?</title>
+      <link>https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/</link>
+      <description>F#代码之所以稳健可靠，主要归功于其默认的不可变性、判别联合、无默认空值、无异常在业务逻辑中、严格的依赖顺序、对未使用表达式结果的警告、类型原语、显式转换和函数式并发处理等特点。这些特性帮助开发者编写出更安全、可预测和易于维护的代码，从而降低了软件中的错误数量。</description>
+      <pubDate>2024-09-09 18:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing TypeScript 5.6</title>
       <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/</link>
       <description>TypeScript 5.6发布，新增类型检查、编辑器功能和迭代器改进。包括对tsconfig.json文件搜索的改进、错误处理、直接支持提交字符和排除模式，以及新的IteratorObject类型。此外，还引入了BuiltinIteratorReturn类型和--strictBuiltinIteratorReturn标志，以增强类型安全。</description>
