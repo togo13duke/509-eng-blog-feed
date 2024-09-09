@@ -14,14 +14,5 @@
       <pubDate>2024-09-09 00:00:00</pubDate>
     </item>
   
-    <item>
-      <title>How to Validate Twilio Event Streams Webhooks in PHP</title>
-      <link>https://www.twilio.com/en-us/blog/validate-twilio-event-streams-webhooks-php</link>
-      <description>如何验证Twilio事件流Webhooks在PHP中的有效性
-
-本文介绍了如何在PHP中验证Twilio事件流Webhooks的有效性。Twilio的事件流Webhooks通过HTTP请求发送，每个请求体都是一个JSON数组，包含CloudEvents。为了确保Webhook来自Twilio，Twilio会对每个请求进行签名，并在X-Twilio-Signature头中包含签名。结合账户的Auth Token、请求体和URL，可以验证Webhook的有效性。本文提供了一个简单的PHP应用程序示例，演示了如何接收和验证这些Webhook请求。</description>
-      <pubDate>2024-09-09 00:00:00</pubDate>
-    </item>
-  
     </channel>
   </rss>
