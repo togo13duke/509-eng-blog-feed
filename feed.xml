@@ -6,37 +6,9 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>To be more useful, robots need to become lazier</title>
-      <link>https://www.technologyreview.com/2024/09/09/1103733/to-be-more-useful-robots-need-to-become-lazier/</link>
-      <description>机器人需要变得更加“懒惰”以提高效率和实用性。通过智能数据处理，机器人可以更有效地与周围环境互动，包括人类。例如，在足球比赛中，通过简化数据处理和优先级排序，机器人可以节省能量并做出更明智的决策。这种方法有助于提高机器人的安全性、可靠性和效率，从而使其更广泛地被采用。</description>
-      <pubDate>2024-09-09 15:12:04</pubDate>
-    </item>
-  
-    <item>
-      <title>Comment déployer une intelligence artificielle pérenne et conforme au sein de votre organisation ? - compte-rendu de la conférence du cabinet Fidal Avocats du 14 mai 2024</title>
-      <link>https://blog.octo.com/comment-deployer-une-intelligence-artificielle-perenne-et-conforme-au-sein-de-votre-organisation-compte-rendu-de-la-conference-du-cabinet-fidal-avocats-du-14-mai-2024</link>
-      <description>本文探讨了在组织中部署持久且合规的人工智能的挑战。文章强调了人工智能的快速增长及其在各个领域的应用，同时指出了与数据偏差、数据中毒等风险相关的挑战。文章详细介绍了欧盟人工智能法规（RIA）的制定背景、定义、范围和风险分类，以及其对知识产权的影响。此外，还讨论了法国知识产权法的相关规定，包括版权保护和例外情况。</description>
-      <pubDate>2024-09-09 14:31:37</pubDate>
-    </item>
-  
-    <item>
-      <title>Python News Roundup: September 2024</title>
-      <link>https://realpython.com/python-news-september-2024/</link>
-      <description>Python 3.12.5发布，带来稳定性与安全性提升；Python连续多年位居编程语言榜首；2023年Python开发者调查揭示社区趋势；PEP 750提案引入标签字符串，增强字符串处理能力；EuroSciPy 2024会议促进科学计算领域合作。</description>
-      <pubDate>2024-09-09 14:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Preparing for the unknown: A guide to future-proofing imaging IT</title>
       <link>https://www.technologyreview.com/2024/09/09/1103372/preparing-for-the-unknown-a-guide-to-future-proofing-imaging-it/</link>
       <description>随着医疗技术的飞速发展，影像信息技术（IT）正经历变革，以应对现代医疗保健的挑战。未来影像IT将包括互联系统、高级分析、强大的数据安全、AI驱动的增强和敏捷的基础设施。通过采用网络化护理模式、数据整合与分析、边缘计算、AI集成和虚拟化，医疗机构将能够提供更高效、准确和以患者为中心的医疗服务。标准化和合规性是确保长期兼容性的关键，而持续的创新是保持竞争力的关键。</description>
-      <pubDate>2024-09-09 13:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Designing API Errors</title>
-      <link>https://httptoolkit.com/blog/designing-api-errors/</link>
-      <description>API错误设计是关于提供清晰、可操作的信息，以便开发人员、应用程序和最终用户都能理解和采取行动。通过采用标准错误格式并仔细考虑错误传达方式，可以使与API交互的每个人（无论是人类还是机器）的生活更加容易。</description>
       <pubDate>2024-09-09 13:30:00</pubDate>
     </item>
   
@@ -83,13 +55,6 @@
     </item>
   
     <item>
-      <title>Building a Generative AI Workflow for the Creation of More Personalized Marketing Content</title>
-      <link>https://www.databricks.com/blog/building-generative-ai-workflow-creation-more-personalized-marketing-content</link>
-      <description>利用Databricks数据智能平台、Amperity客户数据平台和AI模型，本文展示了如何通过客户偏好和特征定制化内容，实现大规模个性化营销内容创建。通过将客户数据与产品描述和AI生成能力相结合，创建与细分市场对齐的产品描述变体，展示了生成式AI结合数据创建独特内容的潜力。</description>
-      <pubDate>2024-09-09 10:45:29</pubDate>
-    </item>
-  
-    <item>
       <title>Your business is safe with Hostinger: we’re ISO 27001 certified</title>
       <link>https://www.hostinger.com/blog/iso-27001</link>
       <description>Hostinger获得ISO/IEC 27001:2017认证，确保信息安全和数据保护达到最高标准。通过实施全面的信息安全政策和先进的技术，如EDR和SSH访问管理，Hostinger提供安全可靠的托管服务，包括自动备份和30天退款保证。</description>
@@ -132,13 +97,6 @@
       <description>如何验证Twilio事件流Webhooks在PHP中的有效性
 
 本文介绍了如何在PHP中验证Twilio事件流Webhooks的有效性。Twilio的事件流Webhooks通过HTTP请求发送，每个请求体都是一个JSON数组，包含CloudEvents。为了确保Webhook来自Twilio，Twilio会对每个请求进行签名，并在X-Twilio-Signature头中包含签名。结合账户的Auth Token、请求体和URL，可以验证Webhook的有效性。本文提供了一个简单的PHP应用程序示例，演示了如何接收和验证这些Webhook请求。</description>
-      <pubDate>2024-09-09 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Jessica David saw the coolest job title — a few months later she was working in data at Elastic</title>
-      <link>https://www.elastic.co/blog/culture-working-data-elastic</link>
-      <description>Jessica David是一位数据工程师，她在Elastic公司工作，专注于数据安全和威胁检测。她从对计算机技术的兴趣开始，经历了从编程到大数据的职业生涯转变。在Elastic，她负责维护数据服务、设计新功能，并参与内部黑客马拉松，以促进团队成长。她鼓励女性在科技行业中拥抱计算机的魔力，团队合作，寻找导师，并找到志同道合的人。</description>
       <pubDate>2024-09-09 00:00:00</pubDate>
     </item>
   
