@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Preparing for the unknown: A guide to future-proofing imaging IT</title>
+      <link>https://www.technologyreview.com/2024/09/09/1103372/preparing-for-the-unknown-a-guide-to-future-proofing-imaging-it/</link>
+      <description>随着医疗技术的飞速发展，影像信息技术（IT）正经历变革，以应对现代医疗保健的挑战。未来影像IT将包括互联系统、高级分析、强大的数据安全、AI驱动的增强和敏捷的基础设施。通过采用网络化护理模式、数据整合与分析、边缘计算、AI集成和虚拟化，医疗机构将能够提供更高效、准确和以患者为中心的医疗服务。标准化和合规性是确保长期兼容性的关键，而持续的创新是保持竞争力的关键。</description>
+      <pubDate>2024-09-09 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Beginner’s guide to GitHub: Setting up and securing your profile</title>
+      <link>https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/</link>
+      <description>GitHub入门指南：设置和保障您的GitHub账户安全。本文介绍了如何通过添加两步验证来提高账户安全性，并指导读者如何创建个人简介README文件，以增加账户个性化和专业性。</description>
+      <pubDate>2024-09-09 13:00:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Vue 3.5 Released: New features and improvements</title>
+      <link>https://freek.dev/2758-vue-35-released-new-features-and-improvements</link>
+      <description>Vue 3.5版本发布，带来多项新功能和改进。作者详细探讨了新特性，包括性能提升和用户体验优化。</description>
+      <pubDate>2024-09-09 12:49:01</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Roblox’s generative AI, and tech for humanity</title>
+      <link>https://www.technologyreview.com/2024/09/09/1103728/the-download-robloxs-generative-ai-and-tech-for-humanity/</link>
+      <description>Roblox推出了一项生成式AI工具，允许创作者通过文本提示轻松创建3D场景。这项技术将大幅缩短开发时间，并使3D艺术技能有限的开发者能够制作更具吸引力的环境。同时，文章还探讨了人工智能在各个领域的应用和发展趋势。</description>
+      <pubDate>2024-09-09 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SwiftData Expressions</title>
+      <link>https://useyourloaf.com/blog/swiftdata-expressions/</link>
+      <description>SwiftData在iOS 18中增加了对谓词表达式的支持，与Core Data相比，SwiftData在iOS 17时存在一些差距，如无法创建聚合查询。文章通过Core Data的NSExpression和SwiftData的#Expression宏展示了如何使用表达式进行查询和构建复杂谓词，但指出目前SwiftData的表达式功能仍有限制，需要进一步改进。</description>
+      <pubDate>2024-09-09 12:03:47</pubDate>
+    </item>
+  
+    <item>
       <title>JavaScript in the Emerald City: CascadiaJS 2024 Highlights</title>
       <link>https://spin.atomicobject.com/cascadiajs-2024-highlights/</link>
       <description>CascadiaJS 2024大会聚焦前端框架的演进、AI在开发中的应用、性能优化和用户体验，以及无服务器革命。大会展示了React 19 Beta、Svelte 5等框架的最新进展，探讨了AI在UI生成和安全性方面的应用，并深入讨论了性能优化和设计原则。此外，大会还强调了无服务器技术在现代JavaScript和Web架构中的作用。</description>
