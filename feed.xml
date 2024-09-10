@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The evolution of full stack engineers</title>
+      <link>https://stackoverflow.blog/2024/09/10/evolution-full-stack-engineers-mrina-sugosh/</link>
+      <description>全栈工程师的演变：本文探讨了现代全栈开发者需要掌握前端和后端技能，并能够将两者结合，同时还需要精通数据分析和安全合规等相邻技能。文章以Mrinalini Sugosh的职业生涯为例，展示了从编程到工程师再到社区经理的转变，并提供了CK Editor和TinyMCE的更多信息。</description>
+      <pubDate>2024-09-10 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>How banks can drive growth by tapping the hidden value of payments data</title>
       <link>https://www.thoughtworks.com/insights/articles/payments-data</link>
       <description>银行通过利用支付数据的潜在价值来推动增长，通过分析客户消费习惯的数据，可以降低成本、提高透明度，并为客户提供更个性化的服务。随着数字支付的兴起，银行可以利用这些数据来改善客户体验，优化信贷评分，并开发新的业务模式。然而，银行需要解决数据集成和隐私问题，以确保数据货币化的可持续性。</description>
