@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How To Find And Protect Sensitive Data In APIs</title>
+      <link>https://nordicapis.com/how-to-find-and-protect-sensitive-data-in-apis/</link>
+      <description>API中寻找和保护敏感数据至关重要，涉及个人身份信息（PII）和一般敏感数据。组织需遵守GDPR等法规，确保数据安全，并考虑品牌信任和用户安全。通过自动化扫描、数据分类、实施适当认证和授权、加密以及限制数据收集，可以增强API数据的安全性。</description>
+      <pubDate>2024-09-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing GPU support for Podman AI Lab</title>
+      <link>https://developers.redhat.com/articles/2024/09/10/gpu-support-podman-ai-lab</link>
+      <description>Podman AI Lab新增GPU支持，允许开发者利用本地GPU加速容器化AI工作负载，提高AI开发效率。通过Podman Desktop 1.12及以上版本，开发者可以轻松实现GPU加速，并使用Podman AI Lab构建复杂AI应用。</description>
+      <pubDate>2024-09-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Virtualized database I/O performance improvements in RHEL 9.4</title>
+      <link>https://developers.redhat.com/articles/2024/09/10/virtualized-database-io-performance-improvements-rhel-94</link>
+      <description>RHEL 9.4通过IOThread Virtqueue Mapping功能提升了虚拟化数据库I/O性能，该功能允许多个QEMU线程处理I/O请求，从而提高多vCPU虚拟机的性能。测试显示，在低到中等负载的系统上，启用4个IO线程可以显著提升性能，但在达到饱和点后，性能提升会降低。建议仅在需要I/O性能的虚拟机上配置IOThread Virtqueue Mapping。</description>
+      <pubDate>2024-09-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Embeddable Inheritance with JPA and Hibernate</title>
+      <link>https://vladmihalcea.com/embeddable-inheritance-jpa-hibernate/</link>
+      <description>本文介绍了如何在JPA和Hibernate中使用可嵌入的继承。通过示例代码，展示了如何使用@Embeddable和@DiscriminatorColumn注解来映射不同类型的订阅，并展示了如何将它们与父实体关联。此外，还讨论了如何使用@ElementCollection注解来处理集合类型的订阅。</description>
+      <pubDate>2024-09-10 05:15:35</pubDate>
+    </item>
+  
+    <item>
       <title>The evolution of full stack engineers</title>
       <link>https://stackoverflow.blog/2024/09/10/evolution-full-stack-engineers-mrina-sugosh/</link>
       <description>全栈工程师的演变：本文探讨了现代全栈开发者需要掌握前端和后端技能，并能够将两者结合，同时还需要精通数据分析和安全合规等相邻技能。文章以Mrinalini Sugosh的职业生涯为例，展示了从编程到工程师再到社区经理的转变，并提供了CK Editor和TinyMCE的更多信息。</description>
       <pubDate>2024-09-10 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unveiling the process: The creation of our powerful campaign builder</title>
+      <link>https://engineering.grab.com/the-creation-of-our-powerful-campaign-builder</link>
+      <description>本文揭示了Grab公司内部营销活动平台Trident的工作原理。通过探讨“治疗”这一核心概念以及Counter、Delay和Limit等附加功能，展示了系统的灵活性和复杂性。文章还介绍了Trident用户界面的改进，使活动创建更加直观，并通过将活动设置转换为可执行的治疗方案，确保了活动的无缝执行和适应。Grab致力于通过技术推动东南亚的发展，为用户提供卓越的体验。</description>
+      <pubDate>2024-09-10 00:00:10</pubDate>
     </item>
   
     <item>
@@ -260,6 +295,15 @@
       <title>Share your feedback about developing with Go</title>
       <link>https://go.dev/blog/survey2024-h2</link>
       <description>Go编程语言开发者调查现已开放，邀请开发者分享使用Go的经验和见解，以帮助了解Go在各行业和组织中的应用、开发者面临的挑战、期望的功能改进，以及如何更好地支持Go社区。参与调查将直接影响Go语言的未来发展方向。</description>
+      <pubDate>2024-09-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Financial services marketing: strategies, tips, and examples</title>
+      <link>https://www.twilio.com/en-us/blog/financial-services-marketing</link>
+      <description>金融服务业营销策略：多渠道营销策略、技巧和案例
+
+金融服务业营销需要平衡客户接触点与合规性。本文探讨了金融服务业的多渠道营销策略，包括在电子邮件、短信、社交媒体等渠道上接触客户，同时确保遵守隐私和安全法规。文章还概述了金融服务业的多样性，以及针对不同客户细分市场的定制化内容的重要性。</description>
       <pubDate>2024-09-09 00:00:00</pubDate>
     </item>
   
