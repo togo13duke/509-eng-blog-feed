@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Moving Your AI Pilot Projects to Production</title>
+      <link>https://blog.cloudera.com/moving-your-ai-pilot-projects-to-production/</link>
+      <description>企业如何将AI试点项目投入生产，实现业务影响？需建立数据战略，确保数据质量与信任，采用现代数据平台，并利用AI助手推动AI普及。</description>
+      <pubDate>2024-09-10 13:00:42</pubDate>
+    </item>
+  
+    <item>
+      <title>The critical role of a hybrid cloud architecture in ensuring regulatory compliance in financial services</title>
+      <link>https://blog.cloudera.com/the-critical-role-of-a-hybrid-cloud-architecture-in-ensuring-regulatory-compliance-in-financial-services/</link>
+      <description>混合云架构在确保金融服务行业合规性中的关键作用，通过结合本地和云环境，提供灵活、安全、可扩展的数据管理解决方案，帮助金融机构保持合规、增强安全性，适应监管变化，同时优化成本并确保业务连续性。</description>
+      <pubDate>2024-09-10 13:00:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Handling large JSON payloads and extending the Request class</title>
+      <link>https://freek.dev/2759-handling-large-json-payloads-and-extending-the-request-class</link>
+      <description>处理大型JSON负载并扩展Request类的方法</description>
+      <pubDate>2024-09-10 12:50:21</pubDate>
+    </item>
+  
+    <item>
+      <title>One of the best ways to get value for AI coding tools: generating tests</title>
+      <link>https://stackoverflow.blog/2024/09/10/gen-ai-llm-create-test-developers-coding-software-code-quality/</link>
+      <description>AI编码工具的价值之一在于生成测试，这有助于减少代码中的错误。开发者们认为，AI在测试方面的应用比编写软件本身更有价值。通过AI生成测试，可以提高代码质量，减少错误，并减轻开发者的工作负担。一些初创公司，如CodiumAI，专注于利用AI进行测试，以提高代码的可靠性和质量。</description>
+      <pubDate>2024-09-10 12:46:52</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: introducing our 35 Innovators Under 35 list for 2024</title>
+      <link>https://www.technologyreview.com/2024/09/10/1103795/the-download-introducing-our-35-innovators-under-35-list-for-2024/</link>
+      <description>2024年，麻省理工科技评论发布了“35位35岁以下创新者”名单，表彰全球年轻创新者在健康、气候稳定和公平方面的贡献。其中，Shawn Shan因开发帮助艺术家对抗剥削性AI的工具而获评年度创新者。此外，文章还探讨了懒散机器人、AI对游戏开发的影响等科技话题。</description>
+      <pubDate>2024-09-10 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Run Detox Tests with GitHub Actions, Part 1: Add a New Workflow</title>
       <link>https://spin.atomicobject.com/detox-tests-github-actions-1/</link>
       <description>本文介绍了如何使用GitHub Actions运行Detox测试，以自动化和并行化React Native应用的测试过程。作者详细描述了创建新工作流程、构建应用、启动Metro服务器、运行测试和上传测试结果等步骤，并提供了解决“空间不足”等问题的方法。</description>
@@ -86,6 +121,20 @@
       <title>How banks can drive growth by tapping the hidden value of payments data</title>
       <link>https://www.thoughtworks.com/insights/articles/payments-data</link>
       <description>银行通过利用支付数据的潜在价值来推动增长，通过分析客户消费习惯的数据，可以降低成本、提高透明度，并为客户提供更个性化的服务。随着数字支付的兴起，银行可以利用这些数据来改善客户体验，优化信贷评分，并开发新的业务模式。然而，银行需要解决数据集成和隐私问题，以确保数据货币化的可持续性。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 7.17.24 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-7-17-24-released</link>
+      <description>Elastic Stack 7.17.24版本发布，推荐用户升级至最新版本。此版本修复了之前版本的问题，并包含产品变更的完整列表，详情请参阅发布说明。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Digging into struct initialization performance</title>
+      <link>https://crystal-lang.org/2024/09/10/digging-into-struct-initialization-performance/</link>
+      <description>在Crystal编程语言中，对结构体初始化性能进行了深入研究。发现BLAKE3哈希算法在Crystal中的性能不佳，主要原因是结构体初始化时内存分配过多，导致垃圾回收压力增大。通过优化结构体初始化方式，减少了内存分配，显著提升了性能。此外，还探讨了LLVM优化和结构体内存布局对性能的影响。</description>
       <pubDate>2024-09-10 00:00:00</pubDate>
     </item>
   
