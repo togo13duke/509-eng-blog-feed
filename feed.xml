@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What impact will AI have on video game development?</title>
+      <link>https://www.technologyreview.com/2024/09/10/1103752/what-impact-will-ai-have-on-video-game-development/</link>
+      <description>人工智能在游戏开发中的应用可能改善工作条件，也可能导致失业。AI工具如Midjourney和Roblox的3D环境生成技术正在被用于创建游戏环境和对话选项，这可能会减少重复性工作，但也引发了对艺术家工作流失和创意流失的担忧。AI的进一步实施将决定它是否能提高游戏开发者的工作与生活平衡。</description>
+      <pubDate>2024-09-10 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The latest from Hostinger: product updates changelog (updated September 2024)</title>
+      <link>https://www.hostinger.com/blog/product-updates-changelog-2024</link>
+      <description>Hostinger在2024年9月发布了多项产品更新，包括WordPress AI故障排除工具、改进的域名状态指示、AI图像背景移除器、CSV产品上传功能、自定义字段个性化订单选项等。此外，还推出了两个新的VPS模板，增加了五种新语言支持，并改进了hPanel的用户界面。</description>
+      <pubDate>2024-09-10 07:22:28</pubDate>
+    </item>
+  
+    <item>
       <title>How To Find And Protect Sensitive Data In APIs</title>
       <link>https://nordicapis.com/how-to-find-and-protect-sensitive-data-in-apis/</link>
       <description>API中寻找和保护敏感数据至关重要，涉及个人身份信息（PII）和一般敏感数据。组织需遵守GDPR等法规，确保数据安全，并考虑品牌信任和用户安全。通过自动化扫描、数据分类、实施适当认证和授权、加密以及限制数据收集，可以增强API数据的安全性。</description>
