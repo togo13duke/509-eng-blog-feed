@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Learn to Build Your First Blazor Hybrid App!</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/</link>
+      <description>本博客介绍了如何构建第一个Blazor混合应用程序。通过一个名为MonkeyFinder的示例应用程序，读者将学习Blazor混合项目结构、数据加载、第三方库集成、平台功能利用、主题化和混合Blazor与.NET MAUI。工作坊分为六个部分，每个部分都有详细的描述和起始项目。此外，还提供了扩展工作坊和教学资源。</description>
+      <pubDate>2024-09-10 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Amazon SageMaker HyperPod introduces Amazon EKS support</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/</link>
+      <description>Amazon SageMaker HyperPod新增对Amazon EKS的支持，允许用户利用Kubernetes的强大功能和Amazon SageMaker HyperPod的弹性环境进行大规模模型训练。这一集成提高了资源利用率，缩短了训练时间，并提供了全面的监控和故障排除能力，使数据科学家能够专注于模型开发。</description>
+      <pubDate>2024-09-10 16:53:57</pubDate>
+    </item>
+  
+    <item>
+      <title>Simplified, faster development with new capabilities in Databricks VS Code Extension</title>
+      <link>https://www.databricks.com/blog/simplified-faster-development-new-capabilities-databricks-vs-code-extension</link>
+      <description>Databricks宣布为VS Code扩展程序添加了新功能，简化了基于Databricks Asset Bundles（DABs）的项目设置，通过资源探索器提高开发效率，并增强与Databricks CLI的集成，以提升生产力。这些新功能使开发人员能够更轻松地创建和管理项目，同时保持最佳实践。</description>
+      <pubDate>2024-09-10 16:06:28</pubDate>
+    </item>
+  
+    <item>
       <title>Simulator-based reinforcement learning for data center cooling optimization</title>
       <link>https://engineering.fb.com/2024/09/10/data-center-engineering/simulator-based-reinforcement-learning-for-data-center-cooling-optimization/</link>
       <description>Meta利用基于模拟器的强化学习技术优化数据中心冷却，通过这种方法，Meta在试点区域将供风扇能耗降低了20%，平均用水量降低了4%。该技术将应用于新数据中心设计，以实现能源和水资源的高效利用，并有助于应对气候变化。</description>
@@ -17,6 +38,13 @@
       <link>https://developer.salesforce.com/blogs/2024/09/how-to-query-data-cloud-from-any-salesforce-org-with-apex.html</link>
       <description>本文介绍了如何使用Apex和查询API从任何Salesforce组织查询数据云。通过设置安全认证和配置远程站点，可以在不同组织间查询数据云数据，实现复杂业务场景的灵活和安全查询。</description>
       <pubDate>2024-09-10 15:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s new with Databricks SQL</title>
+      <link>https://www.databricks.com/blog/whats-new-with-databricks-sql</link>
+      <description>Databricks SQL发布新功能，简化、加速并降低数据仓库成本。基于湖仓架构，Databricks SQL提供AI驱动的性能提升，包括自动数据布局、预测性I/O和智能工作负载管理。此外，AI助手和AI函数增强用户体验，支持直接在SQL中访问AI模型。Databricks SQL还提供全面的数据仓库功能，如物化视图、PK/FK约束和新的数据类型，以简化迁移和优化性能。</description>
+      <pubDate>2024-09-10 14:32:28</pubDate>
     </item>
   
     <item>
@@ -45,6 +73,13 @@
       <link>https://blog.cloudera.com/the-critical-role-of-a-hybrid-cloud-architecture-in-ensuring-regulatory-compliance-in-financial-services/</link>
       <description>混合云架构在确保金融服务行业合规性中的关键作用，通过结合本地和云环境，提供灵活、安全、可扩展的数据管理解决方案，帮助金融机构保持合规、增强安全性，适应监管变化，同时优化成本并确保业务连续性。</description>
       <pubDate>2024-09-10 13:00:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the Latest Integrations in Databricks Partner Connect</title>
+      <link>https://www.databricks.com/blog/announcing-latest-integrations-databricks-partner-connect</link>
+      <description>Databricks宣布在合作伙伴连接中新增三个集成，包括数据治理、数据摄取和数据处理与转换，以提升数据质量和分析能力。这些集成包括Precisely的数据完整性解决方案、Informatica的数据摄取和转换工具以及Alteryx的数据准备和转换能力，旨在通过Databricks数据智能平台推动创新和运营效率。</description>
+      <pubDate>2024-09-10 12:55:15</pubDate>
     </item>
   
     <item>
