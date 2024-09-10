@@ -34,13 +34,6 @@
     </item>
   
     <item>
-      <title>Fine-tuned models are now in limited public beta for GitHub Copilot Enterprise</title>
-      <link>https://github.blog/news-insights/product-news/fine-tuned-models-are-now-in-limited-public-beta-for-github-copilot-enterprise/</link>
-      <description>GitHub Copilot Enterprise推出定制化模型，允许企业用户根据自身代码库和编码实践定制Copilot，提供更相关、高质量和一致的代码补全支持。这些模型通过在私有代码库上训练Copilot并整合团队与Copilot建议的交互数据，使Copilot能够适应组织的独特编码环境，提供更符合团队编码风格和标准的代码建议。</description>
-      <pubDate>2024-09-10 16:00:29</pubDate>
-    </item>
-  
-    <item>
       <title>How to Query Data Cloud from Any Salesforce Org with Apex</title>
       <link>https://developer.salesforce.com/blogs/2024/09/how-to-query-data-cloud-from-any-salesforce-org-with-apex.html</link>
       <description>本文介绍了如何使用Apex和查询API从任何Salesforce组织查询数据云。通过设置安全认证和配置远程站点，可以在不同组织间查询数据云数据，实现复杂业务场景的灵活和安全查询。</description>
