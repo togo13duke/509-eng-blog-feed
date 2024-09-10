@@ -237,6 +237,20 @@
     </item>
   
     <item>
+      <title>Introducing RCS on Twilio Messaging (public beta): Automatically upgrade for verified branding and other features</title>
+      <link>https://www.twilio.com/en-us/blog/introducing-RCS-on-twilio-messaging-public-beta</link>
+      <description>Twilio推出Twilio Messaging的RCS（富通信服务）公共测试版，自动升级以获得验证品牌和其他功能。RCS提供品牌消息和验证徽章，提高消息的可信度和互动性。Twilio的RCS服务包括测量和优化投资回报率的工具，并计划在未来推出更多功能。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Mapping out Agile transformation at TBC Bank</title>
+      <link>https://www.thoughtworks.com/insights/blog/digital-transformation/agile-transformation-at-tbc-bank</link>
+      <description>TBC银行在数字化转型过程中，面临了从传统银行向敏捷运营模式转变的挑战。通过与Thoughtworks合作，TBC银行通过优化产品组合管理、强化产品所有者角色和改善团队与产品领域的对齐，成功提升了敏捷性。通过实施“垂直薄切片”策略，TBC银行在特定产品领域进行试点，以测试和学习，最终实现了产品开发的全面所有权和战略决策的优化。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Roblox announces AI tool for generating 3D game worlds from text</title>
       <link>https://arstechnica.com/?p=2048533</link>
       <description>Roblox推出了一款基于AI的工具，可从文本描述生成3D游戏世界，旨在简化游戏创作流程，并可能使不具备高级3D设计技能的开发者也能参与其中。该工具使用“3D基础模型”和自定义的下一标记预测模型，能够通过迭代和试错创建正确的3D结构。Roblox计划开源此模型，以促进其改进和普及。</description>
