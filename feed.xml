@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Confluent + WarpStream = Large-Scale Streaming in your Cloud</title>
+      <link>https://www.confluent.io/blog/confluent-acquires-warpstream/</link>
+      <description>Confluent收购了WarpStream，一个创新的Kafka兼容流处理解决方案。WarpStream的产品具有许多优点，包括偏移量保留复制、集群配额和直接写入S3等功能。Confluent计划将WarpStream的产品与Confluent Platform和Confluent Cloud一起提供，以满足客户对云原生流处理服务的需求。</description>
+      <pubDate>2024-09-09 18:47:16</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing advanced security and governance in Mosaic AI Gateway</title>
       <link>https://www.databricks.com/blog/new-updates-mosaic-ai-gateway-bring-security-and-governance-genai-models</link>
       <description>Databricks宣布在Mosaic AI Gateway中引入高级安全性和治理功能，以简化AI模型的访问、管理和安全。这些新功能包括使用跟踪、有效载荷日志和防护措施，使企业能够对Databricks数据智能平台中的任何AI模型应用安全性和治理。Mosaic AI Gateway旨在解决企业整合多种AI模型时遇到的挑战，如操作效率低下、成本超支和潜在的安全风险。</description>
@@ -159,6 +166,13 @@
       <link>https://www.databricks.com/blog/building-generative-ai-workflow-creation-more-personalized-marketing-content</link>
       <description>利用Databricks数据智能平台、Amperity客户数据平台和AI模型，本文展示了如何通过客户偏好和特征定制化内容，实现大规模个性化营销内容创建。通过将客户数据与产品描述和AI生成能力相结合，创建与细分市场对齐的产品描述变体，展示了生成式AI结合数据创建独特内容的潜力。</description>
       <pubDate>2024-09-09 10:45:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Next-Level Interactivity in AI/BI Dashboards</title>
+      <link>https://www.databricks.com/blog/next-level-interactivity-aibi-dashboards</link>
+      <description>Databricks发布全新AI/BI仪表板功能，提升交互性和性能。新特性包括跨过滤、静态小部件参数、默认值设置、性能优化和基于查询的参数。这些功能使数据探索更直观，支持更复杂的分析，并提高响应速度。</description>
+      <pubDate>2024-09-09 08:46:44</pubDate>
     </item>
   
     <item>
