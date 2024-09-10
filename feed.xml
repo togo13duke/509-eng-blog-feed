@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How banks can drive growth by tapping the hidden value of payments data</title>
-      <link>https://www.thoughtworks.com/insights/articles/payments-data</link>
-      <description>银行通过利用支付数据的潜在价值来推动增长，通过分析客户消费习惯的数据，可以降低成本、提高透明度，并为客户提供更个性化的服务。随着数字支付的兴起，银行可以利用这些数据来改善客户体验，优化信贷评分，并开发新的业务模式。然而，银行需要解决数据集成和隐私问题，以确保数据货币化的可持续性。</description>
-      <pubDate>2024-09-10 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Roblox announces AI tool for generating 3D game worlds from text</title>
       <link>https://arstechnica.com/?p=2048533</link>
       <description>Roblox推出了一款基于AI的工具，可从文本描述生成3D游戏世界，旨在简化游戏创作流程，并可能使不具备高级3D设计技能的开发者也能参与其中。该工具使用“3D基础模型”和自定义的下一标记预测模型，能够通过迭代和试错创建正确的3D结构。Roblox计划开源此模型，以促进其改进和普及。</description>
@@ -215,13 +208,6 @@
       <link>https://thedailywtf.com/articles/take-a-line-break</link>
       <description>程序员Remy Porter在TDWTF上撰文，批评了一种在PDF生成库中添加多余空白段落的方法。他发现有人试图通过添加十个空白段落来增加段落间的间距，但这种方法既不高效也不必要。Remy指出，这种做法忽略了循环和数组的使用，并质疑了设置对空白段落进行对齐和缩进的需求。他建议使用更简单的方法来添加间距，而不是滥用段落。</description>
       <pubDate>2024-09-09 06:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Create a Toggle Switch in React as a Reusable Component</title>
-      <link>https://www.sitepoint.com/react-toggle-switch-reusable-component/?utm_source=rss</link>
-      <description>本文介绍了如何创建一个可复用的React组件——切换开关。通过使用Create React App，作者详细展示了如何从HTML标记开始，逐步将其转换为React组件，并使用SCSS进行样式设计。文章还讨论了如何确保组件的可用性，以及如何使用props进行动态定制。此外，还介绍了如何创建一个更小的组件版本以适应不同屏幕尺寸，并展示了如何使用SCSS变量来支持多种颜色主题。</description>
-      <pubDate>2024-09-09 06:20:16</pubDate>
     </item>
   
     <item>
