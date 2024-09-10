@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Roblox announces AI tool for generating 3D game worlds from text</title>
+      <link>https://arstechnica.com/?p=2048533</link>
+      <description>Roblox推出了一款基于AI的工具，可从文本描述生成3D游戏世界，旨在简化游戏创作流程，并可能使不具备高级3D设计技能的开发者也能参与其中。该工具使用“3D基础模型”和自定义的下一标记预测模型，能够通过迭代和试错创建正确的3D结构。Roblox计划开源此模型，以促进其改进和普及。</description>
+      <pubDate>2024-09-09 21:46:11</pubDate>
+    </item>
+  
+    <item>
       <title>Confluent + WarpStream = Large-Scale Streaming in your Cloud</title>
       <link>https://www.confluent.io/blog/confluent-acquires-warpstream/</link>
       <description>Confluent收购了WarpStream，一个创新的Kafka兼容流处理解决方案。WarpStream的产品具有许多优点，包括偏移量保留复制、集群配额和直接写入S3等功能。Confluent计划将WarpStream的产品与Confluent Platform和Confluent Cloud一起提供，以满足客户对云原生流处理服务的需求。</description>
