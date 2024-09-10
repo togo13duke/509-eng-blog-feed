@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Run Detox Tests with GitHub Actions, Part 1: Add a New Workflow</title>
+      <link>https://spin.atomicobject.com/detox-tests-github-actions-1/</link>
+      <description>本文介绍了如何使用GitHub Actions运行Detox测试，以自动化和并行化React Native应用的测试过程。作者详细描述了创建新工作流程、构建应用、启动Metro服务器、运行测试和上传测试结果等步骤，并提供了解决“空间不足”等问题的方法。</description>
+      <pubDate>2024-09-10 12:00:01</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Innovator of the Year: Shawn Shan builds tools to help artists fight back against exploitative AI</title>
+      <link>https://www.technologyreview.com/2024/09/10/1102936/innovator-year-shawn-shan-2024/</link>
+      <description>Shawn Shan，一位26岁的计算机科学博士研究生，因开发工具帮助艺术家对抗剥削性AI而获MIT Technology Review 2024年度创新者称号。他创建了Glaze和Nightshade两款工具，帮助艺术家保护版权。Glaze允许艺术家隐藏个人风格，Nightshade则在图像上添加“毒药”，干扰AI模型。这些工具受到艺术家们的热烈欢迎，并已集成到艺术平台Cara中。Shan的目标是通过他的工作平衡AI公司与艺术家之间的权力平衡，并计划开发更多工具以保护知识产权并促进其他行业的发展。</description>
+      <pubDate>2024-09-10 11:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>What impact will AI have on video game development?</title>
       <link>https://www.technologyreview.com/2024/09/10/1103752/what-impact-will-ai-have-on-video-game-development/</link>
       <description>人工智能在游戏开发中的应用可能改善工作条件，也可能导致失业。AI工具如Midjourney和Roblox的3D环境生成技术正在被用于创建游戏环境和对话选项，这可能会减少重复性工作，但也引发了对艺术家工作流失和创意流失的担忧。AI的进一步实施将决定它是否能提高游戏开发者的工作与生活平衡。</description>
@@ -38,6 +52,13 @@
       <link>https://developers.redhat.com/articles/2024/09/10/virtualized-database-io-performance-improvements-rhel-94</link>
       <description>RHEL 9.4通过IOThread Virtqueue Mapping功能提升了虚拟化数据库I/O性能，该功能允许多个QEMU线程处理I/O请求，从而提高多vCPU虚拟机的性能。测试显示，在低到中等负载的系统上，启用4个IO线程可以显著提升性能，但在达到饱和点后，性能提升会降低。建议仅在需要I/O性能的虚拟机上配置IOThread Virtqueue Mapping。</description>
       <pubDate>2024-09-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Unique Emails</title>
+      <link>https://thedailywtf.com/articles/unique-emails</link>
+      <description>这篇文章讲述了Remy Porter在CodeSOD上分享的一个真实故事。一个公司启动了一个大型React应用，由于需求模糊、管理不善和开发者对框架理解不足，项目很快陷入困境。尽管尝试了Scrum敏捷实践，但问题依旧。文章重点描述了Gretchen在处理一个看似简单的文本字段溢出问题时，发现代码中的严重缺陷，包括使用非唯一临时电子邮件地址和数据库错误处理问题。尽管存在这些问题，但由于正在进行的冲刺限制，Gretchen无法修复它们。</description>
+      <pubDate>2024-09-10 06:30:00</pubDate>
     </item>
   
     <item>
