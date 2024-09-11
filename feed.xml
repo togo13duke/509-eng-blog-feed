@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>GitHub Availability Report: August 2024</title>
+      <link>https://github.blog/news-insights/company-news/github-availability-report-august-2024/</link>
+      <description>GitHub在2024年8月遭遇了一次影响所有服务的性能下降事件。8月14日，由于数据库配置错误，导致GitHub.com上的所有服务在36分钟内无法访问。事件通过回滚配置更改得到解决，并采取了额外措施以防止未来发生类似事件。</description>
+      <pubDate>2024-09-11 19:00:07</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub Models and .NET: Building Generative AI apps for engineers</title>
+      <link>https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/</link>
+      <description>GitHub推出GitHub Models，为开发者提供多种AI模型，如GPT-4o、Phi 3等，并支持.NET开发者使用Azure AI Inference SDK将其集成到应用程序中。开发者可通过GitHub Marketplace选择模型，在GitHub UI中测试和调整模型参数，并轻松将模型集成到GitHub Codespaces或VS Code等开发环境中。</description>
+      <pubDate>2024-09-11 17:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>Streamlining your MLOps pipeline with GitHub Actions and Arm64 runners</title>
       <link>https://github.blog/enterprise-software/ci-cd/streamlining-your-mlops-pipeline-with-github-actions-and-arm64-runners/</link>
       <description>利用GitHub Actions和Arm64运行器优化MLOps流程，通过自动化和简化机器学习工作流程，提高性能并降低成本。结合PyTorch和Arm架构，实现高效的数据处理、模型训练和部署，确保模型持续优化并适应环境变化。</description>
