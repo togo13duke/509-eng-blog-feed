@@ -20,6 +20,20 @@
     </item>
   
     <item>
+      <title>Streamlining Android authentication: Credential Manager replaces legacy APIs</title>
+      <link>http://android-developers.googleblog.com/2024/09/streamlining-android-authentication-credential-manager-replaces-legacy-apis.html</link>
+      <description>Android开发者博客介绍了Credential Manager，它统一了密码、Google登录和指纹等认证方式，简化了用户登录流程。Credential Manager取代了旧版API，如Smart Lock和Google Sign-In，为开发者提供更安全、便捷的认证体验。开发者应尽快迁移至Credential Manager，以利用其现代功能和简化开发流程。</description>
+      <pubDate>2024-09-11 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Reload SSL certificates from HashiCorp Vault for Spring Boot</title>
+      <link>https://www.hashicorp.com/blog/reload-ssl-certificates-from-hashicorp-vault-for-spring-boot</link>
+      <description>Spring Boot应用程序如何从HashiCorp Vault重新加载SSL证书，以实现自动更新和减少停机时间。通过使用Vault Agent生成证书并配置SSL热重载，应用程序可以在不重启的情况下自动更新证书，同时保持代码与Vault的解耦。</description>
+      <pubDate>2024-09-11 16:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>All You Need To Know About Passkeys at Auth0!</title>
       <link>https://auth0.com/blog/all-you-need-to-know-about-passkeys-at-auth0/</link>
       <description>Auth0全面支持Passkeys，包括免费版，旨在实现无密码的未来。用户可以选择使用Passkeys或密码进行登录，Passkeys作为主要认证方式，提供更安全、便捷的体验。Auth0支持Passkeys的本地和渐进式注册，并提供了详细的配置步骤。Passkeys与多种设备和浏览器兼容，并具有攻击防护功能。</description>
@@ -44,6 +58,13 @@
       <title>How to Use Conditional Expressions With NumPy where()</title>
       <link>https://realpython.com/numpy-where-conditional-expressions/</link>
       <description>本文介绍了如何使用NumPy的where()函数进行条件表达式，通过示例展示了如何用where()替换数组中的元素，以及如何使用多个条件表达式和数组广播。文章详细解释了where()函数的工作原理，包括如何使用布尔掩码来过滤数组元素，并提供了实际代码示例来帮助读者理解。</description>
+      <pubDate>2024-09-11 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The case of the string being copied from a mysterious pointer to invalid memory, revisited</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240911-00/?p=110247</link>
+      <description>本文回顾了从神秘指针到无效内存复制字符串的案例，探讨了如何使用Application Verifier和Address Sanitizer等工具来调查内存损坏错误。文章还讨论了线程安全访问成员变量的不同设计方法，并分析了在特定情况下持有锁的安全性。</description>
       <pubDate>2024-09-11 14:00:00</pubDate>
     </item>
   
@@ -191,6 +212,20 @@
       <title>The pricing model dilemma, according to 2,000+ subscription business leaders</title>
       <link>https://stripe.com/blog/the-pricing-model-dilemma-according-to-2000-subscription-business-leaders</link>
       <description>根据2000多位订阅业务领导者的调查，企业越来越倾向于以定价为基础创造新产品，以增加客户满意度和确保产品与目标受众产生共鸣。许多企业计划在未来一年内推出新的定价模式，以应对客户流失问题。使用基于使用量的定价模式正在增长，吸引着寻求创新货币化机会的企业。然而，许多现有的账单系统无法支持这些创新定价模式，导致企业面临挑战。</description>
+      <pubDate>2024-09-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Use Azure Blob Storage with Ruby on Rails</title>
+      <link>https://www.honeybadger.io/blog/azure-blob-storage-for-rails/</link>
+      <description>本文介绍了如何使用Ruby on Rails与Azure Blob Storage进行文件存储。通过配置ActiveStorage和Azure Blob Storage，用户可以在Rails应用程序中轻松上传和存储文件。文章详细说明了在Azure Portal中设置Blob Storage、配置ActiveStorage以及将文件上传功能集成到Rails应用程序中的步骤。</description>
+      <pubDate>2024-09-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Profitable Plant Propagation Prevents Poaching</title>
+      <link>https://taylor.town/oh-poaching</link>
+      <description>保护植物免受盗采至关重要。通过可持续繁殖，为购买植物提供合法途径，可以减少盗采行为，保护自然生态。尽管面临挑战，但我们必须坚持保护我们宝贵的植物资源。</description>
       <pubDate>2024-09-11 00:00:00</pubDate>
     </item>
   
