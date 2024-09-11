@@ -202,6 +202,13 @@
     </item>
   
     <item>
+      <title>Return A Fake Window Object</title>
+      <link>https://glebbahmutov.com/blog/return-fake-window/</link>
+      <description>本文介绍了如何使用Cypress测试框架模拟窗口对象，以处理应用中创建新窗口的情况。通过创建一个假的窗口对象，可以测试应用在设置窗口位置属性时的行为，并验证预期的参数和属性。文章提供了具体的代码示例和测试步骤，帮助开发者更有效地进行Cypress测试。</description>
+      <pubDate>2024-09-10 04:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Unveiling the process: The creation of our powerful campaign builder</title>
       <link>https://engineering.grab.com/the-creation-of-our-powerful-campaign-builder</link>
       <description>本文揭示了Grab公司内部营销活动平台Trident的工作原理。通过探讨“治疗”这一核心概念以及Counter、Delay和Limit等附加功能，展示了系统的灵活性和复杂性。文章还介绍了Trident用户界面的改进，使活动创建更加直观，并通过将活动设置转换为可执行的治疗方案，确保了活动的无缝执行和适应。Grab致力于通过技术推动东南亚的发展，为用户提供卓越的体验。</description>
