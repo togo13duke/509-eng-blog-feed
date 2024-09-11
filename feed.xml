@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Kuadrant joins CNCF as a sandbox project</title>
+      <link>https://developers.redhat.com/articles/2024/09/11/kuadrant-joins-cncf-sandbox-project</link>
+      <description>Kuadrant，一个开源项目，旨在简化跨多个集群的服务连接、安全和保护，已被云原生计算基金会（CNCF）接纳为沙箱项目。Kuadrant提供TLS、DNS、应用认证和授权以及速率限制等强大解决方案，支持云原生连接和安全。该项目由Red Hat支持，旨在推动云原生技术的创新和发展。</description>
+      <pubDate>2024-09-11 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Streamline edge deployments with Red Hat Ansible Automation Platform</title>
+      <link>https://developers.redhat.com/articles/2024/09/11/streamline-edge-deployments-red-hat-ansible-automation-platform</link>
+      <description>Red Hat使用Ansible Automation Platform简化了边缘部署，通过Ansible Lightspeed和IBM watsonx Code Assistant生成Ansible playbooks，并利用自动化平台进行动态库存管理和自动化任务分发，确保快速可靠的部署和实时库存更新。</description>
+      <pubDate>2024-09-11 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenTelemetry Protocol (OTLP): A Comprehensive Guide to Modern Observability.</title>
+      <link>https://last9.io/blog/opentelemetry-protocol-otlp/</link>
+      <description>OpenTelemetry Protocol (OTLP)是一种用于传输遥测数据的标准化协议，支持多种编程语言，简化了数据传输和处理。它通过支持gRPC和HTTP/protobuf传输，以及提供灵活的扩展性，使得监控和跟踪工作更加高效。OTLP的关键特性包括语言无关性、高效的二进制序列化和对多种传输协议的支持。通过采用OTLP，可以简化代码的监控，提高互操作性，并实现成本效益。</description>
+      <pubDate>2024-09-11 06:32:25</pubDate>
+    </item>
+  
+    <item>
+      <title>What's in an e-graph?</title>
+      <link>https://bernsteinbear.com/blog/whats-in-an-egraph/?utm_source=rss</link>
+      <description>本文探讨了e-graph（等价类图）在编译器优化中的应用。通过使用union-find算法，e-graph能够高效地重写中间表示（IR）中的节点，同时保持等价类信息。文章介绍了如何通过匹配和重写操作来优化程序，并讨论了e-graph在全局优化中的优势，包括如何提取最优程序版本。</description>
+      <pubDate>2024-09-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How Developers Can Use Generative AI to Improve Data Quality</title>
       <link>https://www.confluent.io/blog/how-developers-can-use-generative-ai-to-improve-data-quality/</link>
       <description>开发者可以利用生成式AI提高数据质量，通过创建描述数据结构和来源的元数据来确保数据质量，从而提升AI应用的准确性。生成式AI可以帮助自动化元数据创建，但人类审查是必要的，以确保数据治理和合规性。数据流平台有助于将治理控制和元数据整合到数据目录中，促进数据重用和创新。</description>
