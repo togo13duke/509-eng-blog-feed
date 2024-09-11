@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Developers Can Use Generative AI to Improve Data Quality</title>
+      <link>https://www.confluent.io/blog/how-developers-can-use-generative-ai-to-improve-data-quality/</link>
+      <description>开发者可以利用生成式AI提高数据质量，通过创建描述数据结构和来源的元数据来确保数据质量，从而提升AI应用的准确性。生成式AI可以帮助自动化元数据创建，但人类审查是必要的，以确保数据治理和合规性。数据流平台有助于将治理控制和元数据整合到数据目录中，促进数据重用和创新。</description>
+      <pubDate>2024-09-10 20:22:25</pubDate>
+    </item>
+  
+    <item>
       <title>Learn to Build Your First Blazor Hybrid App!</title>
       <link>https://devblogs.microsoft.com/dotnet/introducing-blazor-hybrid-workshop/</link>
       <description>本博客介绍了如何构建第一个Blazor混合应用程序。通过一个名为MonkeyFinder的示例应用程序，读者将学习Blazor混合项目结构、数据加载、第三方库集成、平台功能利用、主题化和混合Blazor与.NET MAUI。工作坊分为六个部分，每个部分都有详细的描述和起始项目。此外，还提供了扩展工作坊和教学资源。</description>
@@ -233,6 +240,20 @@
       <title>A letter to founders: join the local-first movement!</title>
       <link>https://evilmartians.com/chronicles/a-letter-to-founders-join-the-local-first-movement</link>
       <description>本地优先运动正颠覆专业工具市场，其杀手级特性为零延迟。本文探讨了本地优先应用如何结合桌面软件速度和云应用协作功能，以及成功案例如Linear、Pitch和Superhuman如何通过本地优先架构实现快速响应和高效协作。对于创始人来说，现在是探索本地优先、引领潮流的时候了。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing RCS on Twilio Messaging (public beta): Automatically upgrade for verified branding and other features</title>
+      <link>https://www.twilio.com/en-us/blog/introducing-RCS-on-twilio-messaging-public-beta</link>
+      <description>Twilio推出Twilio Messaging的RCS（富通信服务）公共测试版，自动升级以获得验证品牌和其他功能。RCS提供品牌消息和验证徽章，提高消息的可信度和互动性。Twilio的RCS服务包括测量和优化投资回报率的工具，并计划在未来推出更多功能。</description>
+      <pubDate>2024-09-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Mapping out Agile transformation at TBC Bank</title>
+      <link>https://www.thoughtworks.com/insights/blog/digital-transformation/agile-transformation-at-tbc-bank</link>
+      <description>TBC银行在数字化转型过程中，面临了从传统银行向敏捷运营模式转变的挑战。通过与Thoughtworks合作，TBC银行通过优化产品组合管理、强化产品所有者角色和改善团队与产品领域的对齐，成功提升了敏捷性。通过实施“垂直薄切片”策略，TBC银行在特定产品领域进行试点，以测试和学习，最终实现了产品开发的全面所有权和战略决策的优化。</description>
       <pubDate>2024-09-10 00:00:00</pubDate>
     </item>
   
