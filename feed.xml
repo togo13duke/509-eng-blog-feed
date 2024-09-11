@@ -6,55 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>We've Added 15 New Icon Tools</title>
-      <link>https://catonmat.net/15-new-icon-tools</link>
-      <description>Browserling团队新增了15个图标工具，包括旋转、裁剪、调整大小、添加边框、去除边框、从文本创建图标、添加文本、单色转换、居中、添加轮廓、分离颜色、添加空间、去除空间、添加阴影等功能。下周还将推出更多工具。</description>
-      <pubDate>2024-09-11 13:43:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Streaming Aggregation: Real-Time Data Processing in 2024</title>
-      <link>https://last9.io/blog/streaming-aggregation/</link>
-      <description>2024年，随着大数据的持续增长，流聚合已成为处理和分析实时数据的游戏改变者。流聚合是实时收集、分析和汇总来自多个数据源的数据的过程，与批处理不同，它处理的是实时、无界的数据流。本文将探讨流聚合的基本原理、如何改变实时数据处理方法以及管理和分析大量实时信息的最佳实践。</description>
-      <pubDate>2024-09-11 13:04:26</pubDate>
-    </item>
-  
-    <item>
-      <title>NVIDIA and Oracle to Accelerate AI and Data Processing for Enterprises</title>
-      <link>https://blogs.nvidia.com/blog/oracle-ai-data-processing/</link>
-      <description>NVIDIA与Oracle合作，利用NVIDIA的最新GPU加速企业AI和数据处理。通过Oracle Cloud Infrastructure（OCI）的Supercluster，企业能够训练和部署下一代AI模型，实现高效的数据处理和AI推理。此外，Oracle还推出了支持大规模训练和实时推理的NVIDIA GB200 NVL72实例，以及适用于中端AI工作负载的NVIDIA L40S GPU加速实例。这些合作和产品旨在推动AI创新，并帮助企业实现数据主权和合规性。</description>
-      <pubDate>2024-09-11 13:00:51</pubDate>
-    </item>
-  
-    <item>
-      <title>AI on the Air: Behind the Scenes at IBC With Holoscan for Media</title>
-      <link>https://blogs.nvidia.com/blog/rtx-ai-holoscan-video-broadcast-editing/</link>
-      <description>NVIDIA推出的Holoscan for Media是一个软件定义的AI平台，旨在简化直播媒体应用的开发。它允许媒体公司在其基础设施上运行直播媒体流，并支持RTX AI工作站和PC，以提供实时图形处理和AI计算。在IBC展会上，合作伙伴展示了最新的RTX AI视频编辑工具和技术，如Adobe、Blackmagic Design和Topaz Labs的产品，这些工具利用AI提高编辑效率和视频质量。</description>
-      <pubDate>2024-09-11 13:00:06</pubDate>
-    </item>
-  
-    <item>
-      <title>Enterprise 2024.6: Identify and engage your subject matter experts</title>
-      <link>https://stackoverflow.blog/2024/09/11/identify-and-engage-subject-matter-experts/</link>
-      <description>Stack Overflow for Teams Enterprise 2024.6版本更新了专家识别和参与功能，通过改进专家可见性和参与度，以及OverflowAI的自动化知识捕获和发现，帮助用户更有效地利用专家知识。新功能包括专家标签、专家状态提示、自动回答应用和标签过滤器，以促进知识共享和协作。</description>
-      <pubDate>2024-09-11 13:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Ray's architecture: how we structure an Electron app</title>
-      <link>https://freek.dev/2760-rays-architecture-how-we-structure-an-electron-app</link>
-      <description>Freek Van der Herten在其博客上分享了如何构建Electron应用的架构，详细介绍了如何结构化Electron应用，为开发者提供了实用的架构指导。</description>
-      <pubDate>2024-09-11 12:23:42</pubDate>
-    </item>
-  
-    <item>
-      <title>The Download: a quantum breakthrough, and the Internet Archive ruling</title>
-      <link>https://www.technologyreview.com/2024/09/11/1103848/the-download-a-quantum-breakthrough-and-the-internet-archive-ruling/</link>
-      <description>MIT Technology Review报道了谷歌在量子计算领域的突破，通过量子纠错技术减少错误，为构建实用的量子计算机铺平道路。同时，文章还讨论了美国第二巡回法庭对互联网档案馆的裁决，该裁决可能限制图书馆的数字借阅权限，影响美国图书馆的未来。</description>
-      <pubDate>2024-09-11 12:10:00</pubDate>
-    </item>
-  
-    <item>
       <title>Run Detox Tests with GitHub Actions, Part 2: Caching and Parallel Tests</title>
       <link>https://spin.atomicobject.com/detox-tests-github-actions-2/</link>
       <description>使用GitHub Actions并行运行Detox测试，通过缓存iOS和Android依赖以及并行执行测试文件，提高测试效率。首先，为iOS和Android添加缓存以加速构建过程。然后，使用GitHub矩阵功能并行运行测试文件。最后，将构建和测试步骤分开，以优化整体测试流程。</description>
@@ -73,13 +24,6 @@
       <link>https://arstechnica.com/?p=2048683</link>
       <description>安全研究员Benjamin Harris意外地获得了生成伪造HTTPS证书、追踪电子邮件活动和在数千台服务器上执行任意代码的能力，这一切仅花费了20美元和几分钟。这是通过注册域名dotmobilregistry.net实现的，该域名曾是.mobi顶级域的官方WHOIS服务器所在地。Harris发现前所有者未续费后，便将其收购并建立了自己的.mobi WHOIS服务器。他的服务器在短短几小时内就收到了来自76,000多个独特IP地址的查询，五天内收到了约2.5百万次查询。这揭示了全球政府和机构对WHOIS流程的信任可能是不恰当的。</description>
       <pubDate>2024-09-11 10:00:40</pubDate>
-    </item>
-  
-    <item>
-      <title>How Gentler Streak brings kindness to fitness</title>
-      <link>https://www.sketch.com/blog/gentler-streak/</link>
-      <description>Gentler Streak是一款注重自我同情和个性化的健身追踪器，旨在帮助用户在保持健康的同时，倾听自己的身体。该应用由一支经验丰富的iOS团队开发，旨在通过直观的设计和个性化的指导，让所有健身水平的人都能感受到欢迎和支持。Gentler Streak的设计理念是将复杂的数据以简单易懂的方式呈现，同时强调用户隐私保护，确保用户数据仅限于设备内部处理。</description>
-      <pubDate>2024-09-11 09:23:00</pubDate>
     </item>
   
     <item>
