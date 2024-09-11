@@ -6,10 +6,59 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Streamlining your MLOps pipeline with GitHub Actions and Arm64 runners</title>
+      <link>https://github.blog/enterprise-software/ci-cd/streamlining-your-mlops-pipeline-with-github-actions-and-arm64-runners/</link>
+      <description>利用GitHub Actions和Arm64运行器优化MLOps流程，通过自动化和简化机器学习工作流程，提高性能并降低成本。结合PyTorch和Arm架构，实现高效的数据处理、模型训练和部署，确保模型持续优化并适应环境变化。</description>
+      <pubDate>2024-09-11 16:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing 25% Faster Lightning Experience</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/announcing-25-faster-lightning-experience.html</link>
+      <description>Salesforce宣布Lightning Experience性能提升25%，通过一系列优化措施，包括HTTP/2升级和用户无关的FlexiPages，实现了页面加载速度的显著提升。这些改进预计将为用户带来约11年的生产力提升，并确保了开发者在Salesforce和Heroku上获得更快的加载时间和更好的性能体验。</description>
+      <pubDate>2024-09-11 16:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>All You Need To Know About Passkeys at Auth0!</title>
+      <link>https://auth0.com/blog/all-you-need-to-know-about-passkeys-at-auth0/</link>
+      <description>Auth0全面支持Passkeys，包括免费版，旨在实现无密码的未来。用户可以选择使用Passkeys或密码进行登录，Passkeys作为主要认证方式，提供更安全、便捷的体验。Auth0支持Passkeys的本地和渐进式注册，并提供了详细的配置步骤。Passkeys与多种设备和浏览器兼容，并具有攻击防护功能。</description>
+      <pubDate>2024-09-11 15:47:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Integrating Entra ID, Azure DevOps and Databricks for Better Security in CI/CD</title>
+      <link>https://www.databricks.com/blog/integrating-entra-id-azure-devops-and-databricks-better-security-cicd</link>
+      <description>本文介绍了如何通过集成Entra ID、Azure DevOps和Databricks来提高CI/CD过程中的安全性。通过使用Microsoft Entra ID访问令牌替代Personal Access Tokens (PATs)，可以减少安全风险，因为Entra ID令牌具有更短的过期时间。文章详细说明了如何创建服务主体、授权权限以及使用CLI生成Entra ID令牌并将其存储为Databricks Git凭据的过程。</description>
+      <pubDate>2024-09-11 15:45:41</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Fortune Best Workplaces in Technology™ recognizes Databricks</title>
+      <link>https://www.databricks.com/blog/2024-fortune-best-workplaces-technologytm-recognizes-databricks</link>
+      <description>Databricks荣获2024年《财富》最佳科技工作场所之一，体现了其对创造一个让员工茁壮成长和创新的环境的承诺。公司以数据驱动工程、研究型项目和独特的文化著称，致力于培养开放透明的文化，推动数据智能的下一代，塑造数据与AI的未来。</description>
+      <pubDate>2024-09-11 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Use Conditional Expressions With NumPy where()</title>
+      <link>https://realpython.com/numpy-where-conditional-expressions/</link>
+      <description>本文介绍了如何使用NumPy的where()函数进行条件表达式，通过示例展示了如何用where()替换数组中的元素，以及如何使用多个条件表达式和数组广播。文章详细解释了where()函数的工作原理，包括如何使用布尔掩码来过滤数组元素，并提供了实际代码示例来帮助读者理解。</description>
+      <pubDate>2024-09-11 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>We've Added 15 New Icon Tools</title>
       <link>https://catonmat.net/15-new-icon-tools</link>
       <description>Browserling团队新增了15个图标工具，包括旋转、裁剪、调整大小、添加边框、去除边框、从文本创建图标、添加文本、单色转换、居中、添加轮廓、分离颜色、添加空间、去除空间、添加阴影等功能。下周还将推出更多工具。</description>
       <pubDate>2024-09-11 13:43:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ready to Roll: Nuro to License Its Autonomous Driving System</title>
+      <link>https://blogs.nvidia.com/blog/nuro-driver/</link>
+      <description>Nuro宣布将许可其Nuro Driver自动驾驶系统，该系统基于NVIDIA的DRIVE和DriveOS安全架构，旨在加速自动驾驶技术在交通行业的应用。Nuro Driver已在实际条件下证明了其可靠性和安全性，并计划帮助推动自动驾驶技术的广泛应用。</description>
+      <pubDate>2024-09-11 13:15:02</pubDate>
     </item>
   
     <item>
@@ -135,6 +184,13 @@
       <title>What's in an e-graph?</title>
       <link>https://bernsteinbear.com/blog/whats-in-an-egraph/?utm_source=rss</link>
       <description>本文探讨了e-graph（等价类图）在编译器优化中的应用。通过使用union-find算法，e-graph能够高效地重写中间表示（IR）中的节点，同时保持等价类信息。文章介绍了如何通过匹配和重写操作来优化程序，并讨论了e-graph在全局优化中的优势，包括如何提取最优程序版本。</description>
+      <pubDate>2024-09-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The pricing model dilemma, according to 2,000+ subscription business leaders</title>
+      <link>https://stripe.com/blog/the-pricing-model-dilemma-according-to-2000-subscription-business-leaders</link>
+      <description>根据2000多位订阅业务领导者的调查，企业越来越倾向于以定价为基础创造新产品，以增加客户满意度和确保产品与目标受众产生共鸣。许多企业计划在未来一年内推出新的定价模式，以应对客户流失问题。使用基于使用量的定价模式正在增长，吸引着寻求创新货币化机会的企业。然而，许多现有的账单系统无法支持这些创新定价模式，导致企业面临挑战。</description>
       <pubDate>2024-09-11 00:00:00</pubDate>
     </item>
   
