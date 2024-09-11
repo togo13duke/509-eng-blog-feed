@@ -6,27 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Producing Messages With a Schema in Confluent Cloud Console</title>
-      <link>https://www.confluent.io/blog/producing-messages-with-a-schema-in-confluent-cloud-console/</link>
-      <description>Confluent Cloud Console现在可以直接在用户界面中生成带有模式的消息，简化了具有模式的话题的应用程序测试。开发者可以通过选择模式并输入符合规范的消息来发送样本消息，同时验证功能确保生成的消息符合规范，避免错误消息污染话题。</description>
-      <pubDate>2024-09-11 20:48:13</pubDate>
-    </item>
-  
-    <item>
-      <title>.NET 9 Release Candidate 1 is now available!</title>
-      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-release-candidate-1-is-now-available/</link>
-      <description>.NET 9 Release Candidate 1现已发布，包含增强的WebSocket API、新的压缩选项、高级SignalR跟踪以及.NET MAUI的更新。此版本还引入了新的库和SDK改进，并提供了详细的发布说明。开发者可通过Visual Studio或Visual Studio Code安装.NET 9 SDK开始使用。</description>
-      <pubDate>2024-09-11 20:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Taylor Swift cites AI deepfakes in endorsement for Kamala Harris</title>
-      <link>https://arstechnica.com/?p=2049045</link>
-      <description>泰勒·斯威夫特在Instagram上支持副总统卡玛拉·哈里斯竞选美国总统，指出AI生成的深度伪造是她的主要担忧。她提到AI生成虚假的代言内容，以及特朗普利用AI图像误导公众的事件，强调透明度和真相是对抗虚假信息的关键。</description>
-      <pubDate>2024-09-11 19:56:30</pubDate>
-    </item>
-  
-    <item>
       <title>GitHub Availability Report: August 2024</title>
       <link>https://github.blog/news-insights/company-news/github-availability-report-august-2024/</link>
       <description>GitHub在2024年8月遭遇了一次影响所有服务的性能下降事件。8月14日，由于数据库配置错误，导致GitHub.com上的所有服务在36分钟内无法访问。事件通过回滚配置更改得到解决，并采取了额外措施以防止未来发生类似事件。</description>
@@ -261,13 +240,6 @@
       <title>Profitable Plant Propagation Prevents Poaching</title>
       <link>https://taylor.town/oh-poaching</link>
       <description>保护植物免受盗采至关重要。通过可持续繁殖，为购买植物提供合法途径，可以减少盗采行为，保护自然生态。尽管面临挑战，但我们必须坚持保护我们宝贵的植物资源。</description>
-      <pubDate>2024-09-11 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Hiatus</title>
-      <link>https://www.hillelwayne.com/post/hiatus/</link>
-      <description>Hillel Wayne宣布将暂停博客写作，所有时间将用于撰写新书《程序员逻辑》。预计将在2025年初回归。同时，他将继续更新每周通讯。</description>
       <pubDate>2024-09-11 00:00:00</pubDate>
     </item>
   
