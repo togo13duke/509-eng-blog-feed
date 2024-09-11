@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Run Detox Tests with GitHub Actions, Part 2: Caching and Parallel Tests</title>
+      <link>https://spin.atomicobject.com/detox-tests-github-actions-2/</link>
+      <description>使用GitHub Actions并行运行Detox测试，通过缓存iOS和Android依赖以及并行执行测试文件，提高测试效率。首先，为iOS和Android添加缓存以加速构建过程。然后，使用GitHub矩阵功能并行运行测试文件。最后，将构建和测试步骤分开，以优化整体测试流程。</description>
+      <pubDate>2024-09-11 12:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Only Seniors Deserve an Assistant</title>
+      <link>https://blog.avenuecode.com/why-only-seniors-deserve-an-assistant</link>
+      <description>编程助手工具如Copilot、JB Assistant、ChatGPT等，虽然能提高开发效率，但可能因错误预测而导致代码问题。对于编程新手，使用这些助手可能导致学习到错误的代码模式，影响未来职业发展。因此，对于编程初学者，应避免过度依赖这些工具，而应在资深开发者的指导下独立编码，培养自己的编程风格和问题解决能力。</description>
+      <pubDate>2024-09-11 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Rogue WHOIS server gives researcher superpowers no one should ever have</title>
+      <link>https://arstechnica.com/?p=2048683</link>
+      <description>安全研究员Benjamin Harris意外地获得了生成伪造HTTPS证书、追踪电子邮件活动和在数千台服务器上执行任意代码的能力，这一切仅花费了20美元和几分钟。这是通过注册域名dotmobilregistry.net实现的，该域名曾是.mobi顶级域的官方WHOIS服务器所在地。Harris发现前所有者未续费后，便将其收购并建立了自己的.mobi WHOIS服务器。他的服务器在短短几小时内就收到了来自76,000多个独特IP地址的查询，五天内收到了约2.5百万次查询。这揭示了全球政府和机构对WHOIS流程的信任可能是不恰当的。</description>
+      <pubDate>2024-09-11 10:00:40</pubDate>
+    </item>
+  
+    <item>
       <title>Why a ruling against the Internet Archive threatens the future of America’s libraries</title>
       <link>https://www.technologyreview.com/2024/09/11/1103838/why-a-ruling-against-the-internet-archive-threatens-the-future-of-americas-libraries/</link>
       <description>美国第二巡回法庭对互联网档案馆的裁决可能威胁到美国图书馆的未来。该裁决限制了图书馆对数字借阅的访问，迫使图书馆支付高额费用以获取电子书，并受到出版商的控制。这增加了图书馆的财务压力，并引发了隐私问题。互联网档案馆的受控数字借阅（CDL）模式，通过扫描实体书籍并制作数字副本，为图书馆和读者提供了便利，但遭到出版商的反对。法院的裁决损害了图书馆，并可能迫使国会采取行动，以确保图书馆作为社区平等支柱的地位不受损害。</description>
@@ -45,6 +66,13 @@
       <link>https://last9.io/blog/opentelemetry-protocol-otlp/</link>
       <description>OpenTelemetry Protocol (OTLP)是一种用于传输遥测数据的标准化协议，支持多种编程语言，简化了数据传输和处理。它通过支持gRPC和HTTP/protobuf传输，以及提供灵活的扩展性，使得监控和跟踪工作更加高效。OTLP的关键特性包括语言无关性、高效的二进制序列化和对多种传输协议的支持。通过采用OTLP，可以简化代码的监控，提高互操作性，并实现成本效益。</description>
       <pubDate>2024-09-11 06:32:25</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Enumerated Science</title>
+      <link>https://thedailywtf.com/articles/enumerated-science</link>
+      <description>Remy Porter在CodeSOD上讨论了科学家编写的代码问题。他分析了Nancy在实验室处理的一段代码，该代码读取和写入图像数据，但存在多个错误，如重复获取文件名、错误地使用enumerate等。尽管代码存在缺陷，但Remy认为它并非最糟糕的例子，且修复起来并不困难。</description>
+      <pubDate>2024-09-11 06:30:00</pubDate>
     </item>
   
     <item>
