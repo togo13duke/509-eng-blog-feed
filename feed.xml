@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why a ruling against the Internet Archive threatens the future of America’s libraries</title>
+      <link>https://www.technologyreview.com/2024/09/11/1103838/why-a-ruling-against-the-internet-archive-threatens-the-future-of-americas-libraries/</link>
+      <description>美国第二巡回法庭对互联网档案馆的裁决可能威胁到美国图书馆的未来。该裁决限制了图书馆对数字借阅的访问，迫使图书馆支付高额费用以获取电子书，并受到出版商的控制。这增加了图书馆的财务压力，并引发了隐私问题。互联网档案馆的受控数字借阅（CDL）模式，通过扫描实体书籍并制作数字副本，为图书馆和读者提供了便利，但遭到出版商的反对。法院的裁决损害了图书馆，并可能迫使国会采取行动，以确保图书馆作为社区平等支柱的地位不受损害。</description>
+      <pubDate>2024-09-11 08:16:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Google says it’s made a quantum computing breakthrough that reduces errors</title>
+      <link>https://www.technologyreview.com/2024/09/11/1103828/google-says-its-made-a-quantum-computing-breakthrough-that-reduces-errors/</link>
+      <description>谷歌研究人员在量子纠错方面取得突破，通过表面代码技术使量子位能够更长时间地可靠存储和操作数据，为实用量子计算机的发展铺平了道路。这一进展有助于解决量子计算机中信息存储和操作错误的问题，为量子计算机在科学发现等领域发挥潜力奠定了基础。</description>
+      <pubDate>2024-09-11 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancing API Stability with Feature Flags</title>
+      <link>https://nordicapis.com/enhancing-api-stability-with-feature-flags/</link>
+      <description>使用功能标志增强API稳定性，通过动态控制功能开关，可以管理第三方依赖、实施细粒度速率限制，并安全地管理API变更，从而提高API的灵活性和可靠性。</description>
+      <pubDate>2024-09-11 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Kuadrant joins CNCF as a sandbox project</title>
       <link>https://developers.redhat.com/articles/2024/09/11/kuadrant-joins-cncf-sandbox-project</link>
       <description>Kuadrant，一个开源项目，旨在简化跨多个集群的服务连接、安全和保护，已被云原生计算基金会（CNCF）接纳为沙箱项目。Kuadrant提供TLS、DNS、应用认证和授权以及速率限制等强大解决方案，支持云原生连接和安全。该项目由Red Hat支持，旨在推动云原生技术的创新和发展。</description>
