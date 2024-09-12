@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/</link>
+      <description>Amazon RDS for MySQL与Amazon Redshift的零ETL集成现已全面上市，可实现在Amazon RDS for MySQL中写入数据后几秒钟内将PB级交易数据可用，无需创建ETL作业，简化数据摄入，降低运营成本。新功能包括数据过滤、支持多个集成和配置零ETL集成在AWS CloudFormation模板中。</description>
+      <pubDate>2024-09-12 21:47:25</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI’s new “reasoning” AI models are here: o1-preview and o1-mini</title>
       <link>https://arstechnica.com/?p=2049445</link>
       <description>OpenAI发布了新的“推理”AI模型o1-preview和o1-mini，这些模型在解决复杂任务和问题解决能力上有所提升。o1-preview在多个基准测试中优于GPT-4o，包括编程、数学和科学推理。然而，它并非在所有指标上都优于GPT-4o，且在处理查询时存在延迟。o1-mini专为编码任务设计，价格仅为o1-preview的80%。</description>
