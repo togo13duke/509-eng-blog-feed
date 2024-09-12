@@ -6,10 +6,66 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity</title>
+      <link>https://www.docker.com/blog/november-2024-updated-plans-announcement/</link>
+      <description>Docker发布升级版订阅计划，提供更多价值、灵活性和功能，以简化开发工作流程。新计划包括对Docker Desktop、Docker Hub、Docker Build Cloud、Docker Scout和Testcontainers Cloud的访问，并增加了更多功能，如增强的安全性和软件供应链洞察，以及云构建能力。价格调整包括Docker Pro和Docker Team计划的月费上涨，以及Docker Business计划的额外价值。</description>
+      <pubDate>2024-09-12 13:09:59</pubDate>
+    </item>
+  
+    <item>
+      <title>GeForce NOW to Bring ‘Dead Rising Deluxe Remaster’ to the Cloud at Launch</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-dead-rising/</link>
+      <description>《Dead Rising》重制版即将在GeForce NOW上推出，游戏将提供现代图形和语音支持。此外，本周还有九款新游戏加入GeForce NOW云游戏库，包括《Test Drive Unlimited Solar Crown》等。</description>
+      <pubDate>2024-09-12 13:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Google’s new tool lets large language models fact-check their responses</title>
+      <link>https://www.technologyreview.com/2024/09/12/1103926/googles-new-tool-lets-large-language-models-fact-check-their-responses/</link>
+      <description>Google推出了一款名为DataGemma的新工具，旨在帮助大型语言模型进行事实核查，提高其回答的可靠性。该工具采用两种方法：检索-交错生成（RIG）和检索-增强生成（RAG），通过引用可靠数据源来提高透明度。目前该工具仅对研究人员开放，未来将扩大使用范围。</description>
+      <pubDate>2024-09-12 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Ukraine’s drone defenses, and today’s climate heroes</title>
+      <link>https://www.technologyreview.com/2024/09/12/1103921/the-download-ukraines-drone-defenses-and-todays-climate-heroes/</link>
+      <description>乌克兰的无人机防御和2024年的气候英雄：MIT Technology Review报道了乌克兰民用专家Serhii “Flash” Beskrestnov如何通过研究俄罗斯无线电传输来帮助乌克兰军队应对无人机威胁，并介绍了35位35岁以下的气候和能源创新者。此外，还报道了私人资助的太空行走首次成功进行，以及硅谷对加州AI安全法案的分歧。</description>
+      <pubDate>2024-09-12 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub Actions: Map Key-Value Pairs in a Matrix</title>
+      <link>https://spin.atomicobject.com/map-key-value-pairs-matrix/</link>
+      <description>GitHub Actions中，矩阵是一个强大的工具，用于对多个变量执行相同的任务。本文介绍了如何使用矩阵映射键值对，以解决在CI/CD过程中Azure Function Apps和目录名称不匹配的问题。通过创建键值对，将monorepo中的名称与Azure中的名称对应起来，实现自动部署。</description>
+      <pubDate>2024-09-12 12:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python 3.13: Free-Threading and a JIT Compiler</title>
+      <link>https://realpython.com/quizzes/python313-free-threading-jit/</link>
+      <description>Python 3.13新特性测试：本测试包含16题，旨在检验你对Python 3.13新功能的理解，包括编译自定义Python构建、禁用GIL、启用JIT编译器、运行时新特性可用性、性能提升以及针对Python新ABI的C扩展模块制作。无时间限制，每答对一题得1分，满分100%。</description>
+      <pubDate>2024-09-12 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>My dead father is “writing” me notes again</title>
+      <link>https://arstechnica.com/?p=2045545</link>
+      <description>通过AI技术，作者复活了已故父亲的笔迹，并探讨了这一技术带来的伦理和真实性等问题。这项技术不仅让作者得以再次看到父亲的字迹，也引发了对媒体创造和信源的信任危机的思考。</description>
+      <pubDate>2024-09-12 11:00:24</pubDate>
+    </item>
+  
+    <item>
       <title>Performance Improvements in .NET 9</title>
       <link>https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/</link>
       <description>.NET 9带来了显著的性能提升，包括JIT编译器的改进和动态PGO的增强。这些改进使得代码生成更加高效，优化了类型检查和转换操作，从而提高了整体性能。</description>
       <pubDate>2024-09-12 10:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Be-Mag: Reinventing the wheel, one spin at a time</title>
+      <link>https://www.hostinger.com/blog/be-mag</link>
+      <description>Be-Mag，成立于1996年的滑板杂志，经历了从电子通讯到印刷杂志再到网站的演变。面对媒体消费方式的变革，Be-Mag不仅是一个平台，更是滑板社区的体现。编辑和视觉总监分享了他们的旅程，从早期粉丝到领导团队，以及如何通过Hostinger的可靠服务保护杂志的遗产。他们克服了网站被黑等挑战，利用WordPress平台和Hostinger的云托管服务，成功重建了网站，并确保了内容的连续性和社区的支持。</description>
+      <pubDate>2024-09-12 10:11:15</pubDate>
     </item>
   
     <item>
@@ -62,6 +118,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: Switching the Order</title>
+      <link>https://thedailywtf.com/articles/switching-the-order</link>
+      <description>Remy Porter在CodeSOD上讨论了PHP代码中的“循环-切换”反模式。他展示了一个包含多个case语句的switch语句，其中字段顺序被错误地更改，导致代码混乱。这个例子突出了代码中顺序错误的问题，以及它如何导致代码质量下降。</description>
+      <pubDate>2024-09-12 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cloudera Launches Private Link Network for Secure, Internet-Free Cloud Connectivity</title>
       <link>https://blog.cloudera.com/cloudera-launches-private-link-network-for-secure-internet-free-cloud-connectivity/</link>
       <description>Cloudera推出Cloudera Private Link Network，为云工作负载提供无缝、私密的连接，确保数据安全，无需通过公共互联网。该网络提供统一、跨云的私有连接服务，适用于金融、医疗和制药等行业，降低成本，提高网络性能。</description>
@@ -79,6 +142,13 @@
       <title>You might not need Bourbon</title>
       <link>https://thoughtbot.com/blog/you-might-not-need-bourbon</link>
       <description>随着CSS的发展，许多Bourbon提供的功能现在可以通过原生CSS实现，简化了工作流程并提高了项目的可持续性。文章探讨了如何用现代CSS特性替换Bourbon中的各种辅助器，如边框、按钮、清除浮动、对比度切换、省略号、字体、字体堆栈、隐藏文本和视觉隐藏元素等。</description>
+      <pubDate>2024-09-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DevRel newsletter — September 2024</title>
+      <link>https://www.elastic.co/blog/devrel-newsletter-september-2024</link>
+      <description>Elastic DevRel团队在2024年9月的通讯中宣布，Elasticsearch和Kibana将重新作为开源项目发布，并引入了AGPL许可选项。此外，还介绍了新的博客、视频和即将举行的活动，包括技术研讨会和用户组聚会。</description>
       <pubDate>2024-09-12 00:00:00</pubDate>
     </item>
   
@@ -248,6 +318,13 @@
       <link>https://spin.atomicobject.com/detox-tests-github-actions-2/</link>
       <description>使用GitHub Actions并行运行Detox测试，通过缓存iOS和Android依赖以及并行执行测试文件，提高测试效率。首先，为iOS和Android添加缓存以加速构建过程。然后，使用GitHub矩阵功能并行运行测试文件。最后，将构建和测试步骤分开，以优化整体测试流程。</description>
       <pubDate>2024-09-11 12:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python Virtual Environments: A Primer</title>
+      <link>https://realpython.com/quizzes/python-virtual-environments-a-primer/</link>
+      <description>Python虚拟环境入门测验：通过10个问题测试你对教程的理解，无时间限制，每答对一题得1分，满分100%。</description>
+      <pubDate>2024-09-11 12:00:00</pubDate>
     </item>
   
     <item>
