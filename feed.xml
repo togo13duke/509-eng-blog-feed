@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>BW #83: Gasoline prices</title>
-      <link>https://www.bambooweekly.com/bw-83-gasoline-prices/</link>
-      <description>美国汽油价格受到广泛关注，被视为经济状况的指标。近期价格下降，可能对现任总统有利。本文将探讨美国汽油价格的历史、现状及变化，并使用Great Tables项目制作数据报告。</description>
-      <pubDate>2024-09-11 23:05:52</pubDate>
-    </item>
-  
-    <item>
       <title>Producing Messages With a Schema in Confluent Cloud Console</title>
       <link>https://www.confluent.io/blog/producing-messages-with-a-schema-in-confluent-cloud-console/</link>
       <description>Confluent Cloud Console现在可以直接在用户界面中生成带有模式的消息，简化了具有模式的话题的应用程序测试。开发者可以通过选择模式并输入符合规范的消息来发送样本消息，同时验证功能确保生成的消息符合规范，避免错误消息污染话题。</description>
@@ -241,13 +234,6 @@
       <link>https://thedailywtf.com/articles/enumerated-science</link>
       <description>Remy Porter在CodeSOD上讨论了科学家编写的代码问题。他分析了Nancy在实验室处理的一段代码，该代码读取和写入图像数据，但存在多个错误，如重复获取文件名、错误地使用enumerate等。尽管代码存在缺陷，但Remy认为它并非最糟糕的例子，且修复起来并不困难。</description>
       <pubDate>2024-09-11 06:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Parse Email Url</title>
-      <link>https://glebbahmutov.com/blog/parse-email-url/</link>
-      <description>本文介绍了如何解析邮件协议URL，以在应用程序中发送电子邮件。通过打开包含邮件URL的浏览器窗口，可以发送预填充的邮件。文章详细展示了如何使用Cypress框架来处理和验证邮件URL的参数，包括主题和正文内容，并提供了代码示例和调试技巧。</description>
-      <pubDate>2024-09-11 04:00:00</pubDate>
     </item>
   
     <item>
