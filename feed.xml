@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>PromQL Cheat Sheet: Must-Know PromQL Queries</title>
+      <link>https://last9.io/blog/promql-cheat-sheet/</link>
+      <description>本指南提供实用指导，帮助诊断问题和理解趋势。它收集了PromQL查询片段，用于解决常见场景，如实时监控、趋势追踪、资源消耗识别和高级查询技巧。此外，还涵盖了高基数处理、容量规划和跨集群查询等高级主题，旨在帮助用户更有效地使用PromQL。</description>
+      <pubDate>2024-09-12 07:14:31</pubDate>
+    </item>
+  
+    <item>
+      <title>A New Approach to Writing API Documentation</title>
+      <link>https://nordicapis.com/a-new-approach-to-writing-api-documentation/</link>
+      <description>API文档的重要性不容忽视，高质量的文档对于开发者至关重要。本文探讨了如何改进API文档，包括识别文档需求、寻找改进领域、采用多角度方法以及像作家一样思考。作者Art Anthony强调了文档写作的技巧，如简洁、避免复杂术语，并建议将文档视为一个持续改进的过程。</description>
+      <pubDate>2024-09-12 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Automating JBoss EAP: Update and upgrade for versions 7 &amp; 8</title>
+      <link>https://developers.redhat.com/articles/2024/09/12/automate-jboss-eap-updates-upgrades</link>
+      <description>本文介绍了如何使用Red Hat Ansible Automation Platform自动更新和升级JBoss EAP 7和8版本。文章详细解释了更新和升级的区别，并提供了使用Ansible脚本来管理这些过程的示例。</description>
+      <pubDate>2024-09-12 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cloudera Launches Private Link Network for Secure, Internet-Free Cloud Connectivity</title>
       <link>https://blog.cloudera.com/cloudera-launches-private-link-network-for-secure-internet-free-cloud-connectivity/</link>
       <description>Cloudera推出Cloudera Private Link Network，为云工作负载提供无缝、私密的连接，确保数据安全，无需通过公共互联网。该网络提供统一、跨云的私有连接服务，适用于金融、医疗和制药等行业，降低成本，提高网络性能。</description>
