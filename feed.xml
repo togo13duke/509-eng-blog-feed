@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Comment une Internal Developer Platform peut apporter de la clarté dans un SI mouvant</title>
+      <link>https://blog.octo.com/comment-une-internal-developer-platform-peut-apporter-de-la-clarte-dans-un-si-mouvant</link>
+      <description>Décathlon采用内部开发者平台（IDP）CEREBRO，通过数据驱动的战略和运营管理，提高了组织的技术资产管理和决策效率。该平台整合了软件、数据、文档和工具，提供战略视图、产品能力地图和四象限分析等功能，帮助团队优化资源、降低风险并实现战略目标。</description>
+      <pubDate>2024-09-12 09:02:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Meet the radio-obsessed civilian shaping Ukraine’s drone defense</title>
+      <link>https://www.technologyreview.com/2024/09/12/1103833/ukraine-russia-drone-war-flash-radio-serhii-beskrestnov-social-media/</link>
+      <description>乌克兰平民Serhii "Flash" Beskrestnov，一位无线电爱好者，在俄乌战争中发挥了关键作用。他利用无线电技术监测敌方无人机，为乌克兰军队提供情报，并在社交媒体上分享信息，帮助士兵识别敌方信号。尽管面临争议，但他的工作对地面战斗人员至关重要，并获得了军事表彰。</description>
+      <pubDate>2024-09-12 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Meet 2024’s climate innovators under 35</title>
+      <link>https://www.technologyreview.com/2024/09/12/1103908/climate-innovators-2024/</link>
+      <description>2024年，MIT Technology Review公布了35位35岁以下的气候创新者名单。这些年轻创新者在能源、碳捕捉和材料科学等领域展开工作，旨在解决气候变化问题。他们致力于开发可持续能源、碳存储技术和新型材料，以减少温室气体排放并应对气候变化带来的挑战。</description>
+      <pubDate>2024-09-12 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>PromQL Cheat Sheet: Must-Know PromQL Queries</title>
       <link>https://last9.io/blog/promql-cheat-sheet/</link>
       <description>本指南提供实用指导，帮助诊断问题和理解趋势。它收集了PromQL查询片段，用于解决常见场景，如实时监控、趋势追踪、资源消耗识别和高级查询技巧。此外，还涵盖了高基数处理、容量规划和跨集群查询等高级主题，旨在帮助用户更有效地使用PromQL。</description>
@@ -23,6 +44,13 @@
       <title>Automating JBoss EAP: Update and upgrade for versions 7 &amp; 8</title>
       <link>https://developers.redhat.com/articles/2024/09/12/automate-jboss-eap-updates-upgrades</link>
       <description>本文介绍了如何使用Red Hat Ansible Automation Platform自动更新和升级JBoss EAP 7和8版本。文章详细解释了更新和升级的区别，并提供了使用Ansible脚本来管理这些过程的示例。</description>
+      <pubDate>2024-09-12 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Monitor an Ansible Automation Platform database using Prometheus and Grafana</title>
+      <link>https://developers.redhat.com/articles/2024/09/12/monitor-ansible-automation-platform-database-using-prometheus-and-grafana</link>
+      <description>本文介绍了如何使用Prometheus和Grafana监控Ansible Automation Platform数据库。文章详细说明了在Ansible Automation Platform数据库服务器上安装和配置Postgres Exporter的过程，以及如何在Prometheus中添加新的作业以监控Postgres Exporter。</description>
       <pubDate>2024-09-12 07:00:00</pubDate>
     </item>
   
