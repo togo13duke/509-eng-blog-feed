@@ -300,27 +300,6 @@
     </item>
   
     <item>
-      <title>Guessing Your Card with Twilio Magic</title>
-      <link>https://www.twilio.com/en-us/blog/twilio-magic-3</link>
-      <description>Twilio推出了一款神奇的卡牌应用程序，通过Twilio的Messaging和Functions功能，可以在几秒钟内猜出用户选择的牌。这款应用程序利用了Twilio的API，为开发者提供了一个将技术融入娱乐的有趣例子。</description>
-      <pubDate>2024-09-11 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Passkeys vs. other authentication methods: what’s the difference?</title>
-      <link>https://www.twilio.com/en-us/blog/passkeys</link>
-      <description>密码与密钥的区别：密码是常见的身份验证方法，但易被破解和忘记，而密钥则通过物理设备进行验证，更安全可靠。随着技术发展，无密码身份验证方法如密钥逐渐流行，以提升消费者和企业的安全性。</description>
-      <pubDate>2024-09-11 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>12 abandoned cart recovery strategies for marketers</title>
-      <link>https://www.twilio.com/en-us/blog/abandoned-cart-recovery-strategies</link>
-      <description>Twilio博客文章介绍了12种营销者可以采用的弃购物车恢复策略，以减少电子商务中的购物车放弃率。文章强调了购物车放弃对电商公司的影响，并提供了计算购物车放弃率的公式。此外，文章还分析了顾客放弃购物车的主要原因，如额外费用、账户创建要求、信用卡安全问题等，并提出了相应的解决方案。</description>
-      <pubDate>2024-09-11 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>How Developers Can Use Generative AI to Improve Data Quality</title>
       <link>https://www.confluent.io/blog/how-developers-can-use-generative-ai-to-improve-data-quality/</link>
       <description>开发者可以利用生成式AI提高数据质量，通过创建描述数据结构和来源的元数据来确保数据质量，从而提升AI应用的准确性。生成式AI可以帮助自动化元数据创建，但人类审查是必要的，以确保数据治理和合规性。数据流平台有助于将治理控制和元数据整合到数据目录中，促进数据重用和创新。</description>
