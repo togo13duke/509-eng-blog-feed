@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #83: Gasoline prices (solution)</title>
+      <link>https://www.bambooweekly.com/bw-83-gasoline-prices-solution/</link>
+      <description>本周，我们分析了美国汽油价格的历史数据，使用Pandas进行数据分析，并通过Great Tables工具制作了图表。数据来自美国能源信息署，涵盖了不同地区和不同类型的汽油价格。我们分析了自2000年以来各地区的平均汽油价格，发现西雅图、华盛顿州等地区的汽油价格普遍较高。</description>
+      <pubDate>2024-09-12 14:58:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Usual suspects</title>
+      <link>https://blog.octo.com/usual-suspects</link>
+      <description>本文讲述了作者在Pix公司遇到的一个数据库性能问题，通过分析发现是由于大量XML文件导入导致的长时间SQL查询和锁等待。作者详细描述了如何通过监控、分析和解决这个问题的过程，强调了在生产环境中及时发现和解决问题的重要性。</description>
+      <pubDate>2024-09-12 14:20:10</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing Upgraded Docker Plans: Simpler, More Value, Better Development and Productivity</title>
       <link>https://www.docker.com/blog/november-2024-updated-plans-announcement/</link>
       <description>Docker发布升级版订阅计划，提供更多价值、灵活性和功能，以简化开发工作流程。新计划包括对Docker Desktop、Docker Hub、Docker Build Cloud、Docker Scout和Testcontainers Cloud的访问，并增加了更多功能，如增强的安全性和软件供应链洞察，以及云构建能力。价格调整包括Docker Pro和Docker Team计划的月费上涨，以及Docker Business计划的额外价值。</description>
@@ -24,6 +38,13 @@
       <link>https://www.technologyreview.com/2024/09/12/1103926/googles-new-tool-lets-large-language-models-fact-check-their-responses/</link>
       <description>Google推出了一款名为DataGemma的新工具，旨在帮助大型语言模型进行事实核查，提高其回答的可靠性。该工具采用两种方法：检索-交错生成（RIG）和检索-增强生成（RAG），通过引用可靠数据源来提高透明度。目前该工具仅对研究人员开放，未来将扩大使用范围。</description>
       <pubDate>2024-09-12 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Top 10 PHP Features You Can Use in 2024</title>
+      <link>https://freek.dev/2761-top-10-php-features-you-can-use-in-2024</link>
+      <description>2024年PHP的十大特性盘点</description>
+      <pubDate>2024-09-12 12:42:36</pubDate>
     </item>
   
     <item>
@@ -149,6 +170,13 @@
       <title>DevRel newsletter — September 2024</title>
       <link>https://www.elastic.co/blog/devrel-newsletter-september-2024</link>
       <description>Elastic DevRel团队在2024年9月的通讯中宣布，Elasticsearch和Kibana将重新作为开源项目发布，并引入了AGPL许可选项。此外，还介绍了新的博客、视频和即将举行的活动，包括技术研讨会和用户组聚会。</description>
+      <pubDate>2024-09-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Herding Llama 3.1 with Elastic and LM Studio</title>
+      <link>https://www.elastic.co/blog/herding-llama-3-1-with-elastic-and-lm-studio</link>
+      <description>Elastic和LM Studio团队展示了如何使用LM Studio 0.3更新简化Elastic AI Assistant for Security的设置，使本地AI模型的使用更加便捷。通过LM Studio，用户可以快速下载和运行模型，如Llama 3.1，并利用Elastic AI Assistant提供的安全分析支持，提高工作效率。</description>
       <pubDate>2024-09-12 00:00:00</pubDate>
     </item>
   
