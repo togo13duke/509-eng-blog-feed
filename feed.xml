@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>As quantum computing threats loom, Microsoft updates its core crypto library</title>
+      <link>https://arstechnica.com/?p=2049244</link>
+      <description>微软更新了其核心加密库，添加了两个新的加密算法，旨在抵御量子计算机的攻击。这些更新是为了应对量子计算威胁，并确保数据安全。</description>
+      <pubDate>2024-09-12 00:20:08</pubDate>
+    </item>
+  
+    <item>
+      <title>You might not need Bourbon</title>
+      <link>https://thoughtbot.com/blog/you-might-not-need-bourbon</link>
+      <description>随着CSS的发展，许多Bourbon提供的功能现在可以通过原生CSS实现，简化了工作流程并提高了项目的可持续性。文章探讨了如何用现代CSS特性替换Bourbon中的各种辅助器，如边框、按钮、清除浮动、对比度切换、省略号、字体、字体堆栈、隐藏文本和视觉隐藏元素等。</description>
+      <pubDate>2024-09-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #83: Gasoline prices</title>
       <link>https://www.bambooweekly.com/bw-83-gasoline-prices/</link>
       <description>美国汽油价格受到广泛关注，被视为经济状况的指标。近期价格下降，可能对现任总统有利。本文将探讨美国汽油价格的历史、现状及变化，并使用Great Tables项目制作数据报告。</description>
