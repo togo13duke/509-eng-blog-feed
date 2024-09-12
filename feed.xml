@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Android Asset Packs for .NET &amp; .NET MAUI Android Apps</title>
+      <link>https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/</link>
+      <description>.NET 9引入了为.NET和.NET MAUI Android应用程序生成资产包的新方法。资产包允许开发者将大型资源（如音乐、电影或纹理）放入单独的包中，从而提高应用的灵活性。通过MSBuild元数据，开发者可以轻松创建和管理资产包，包括指定资源所属的包和交付类型。此外，开发者还可以通过NuGet包和API来检查和下载资产包，确保应用的性能和用户体验。</description>
+      <pubDate>2024-09-12 17:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #83: Gasoline prices (solution)</title>
       <link>https://www.bambooweekly.com/bw-83-gasoline-prices-solution/</link>
       <description>本周，我们分析了美国汽油价格的历史数据，使用Pandas进行数据分析，并通过Great Tables工具制作了图表。数据来自美国能源信息署，涵盖了不同地区和不同类型的汽油价格。我们分析了自2000年以来各地区的平均汽油价格，发现西雅图、华盛顿州等地区的汽油价格普遍较高。</description>
@@ -17,6 +24,27 @@
       <link>https://blog.octo.com/usual-suspects</link>
       <description>本文讲述了作者在Pix公司遇到的一个数据库性能问题，通过分析发现是由于大量XML文件导入导致的长时间SQL查询和锁等待。作者详细描述了如何通过监控、分析和解决这个问题的过程，强调了在生产环境中及时发现和解决问题的重要性。</description>
       <pubDate>2024-09-12 14:20:10</pubDate>
+    </item>
+  
+    <item>
+      <title>PromCon 2024 — Day 1</title>
+      <link>https://last9.io/blog/promcon-2024-day-1-recap/</link>
+      <description>PromCon 2024第一天在柏林举行，重点介绍了Prometheus 3.0的发布和OpenTelemetry兼容性。会议涵盖了Prometheus团队在OpenTelemetry指标后端方面的进展，以及Prometheus Remote Write 2.0的更新，旨在优化资源使用和降低成本。此外，还讨论了UTF-8支持、GitOps原则在警报管理中的应用，以及Shopify迁移到原生直方图的案例。</description>
+      <pubDate>2024-09-12 14:12:18</pubDate>
+    </item>
+  
+    <item>
+      <title>How can I tell whether two programs will share drive letter mappings?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240912-00/?p=110251</link>
+      <description>如何判断两个程序是否会共享驱动器字母映射？通过WNetAddConnection3创建的驱动器字母映射是否对其他程序可见？这取决于映射类型（全局或本地）和运行程序的账户权限。全局映射只能由LocalSystem账户的进程操作，而其他进程则操作与它们令牌的认证ID关联的本地映射。</description>
+      <pubDate>2024-09-12 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Create With Kotlin Multiplatform and Win a Trip to KotlinConf 2025!</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/09/kotlin-multiplatform-contest/</link>
+      <description>Kotlin基金会推出Kotlin Multiplatform竞赛，鼓励学生和毕业生使用Kotlin Multiplatform技术创建跨平台项目。前三名获奖者将获得参加2025年KotlinConf的旅行，所有参与者都将获得Kotlin纪念品。竞赛于2024年9月9日开始，2025年1月14日截止提交，1月24日公布获奖者。</description>
+      <pubDate>2024-09-12 13:55:31</pubDate>
     </item>
   
     <item>
