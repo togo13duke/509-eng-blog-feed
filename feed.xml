@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>OpenAI’s new “reasoning” AI models are here: o1-preview and o1-mini</title>
+      <link>https://arstechnica.com/?p=2049445</link>
+      <description>OpenAI发布了新的“推理”AI模型o1-preview和o1-mini，这些模型在解决复杂任务和问题解决能力上有所提升。o1-preview在多个基准测试中优于GPT-4o，包括编程、数学和科学推理。然而，它并非在所有指标上都优于GPT-4o，且在处理查询时存在延迟。o1-mini专为编码任务设计，价格仅为o1-preview的80%。</description>
+      <pubDate>2024-09-12 19:01:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Backup your DigitalOcean Kubernetes Data in One Click</title>
+      <link>https://www.digitalocean.com/blog/backup-digitalocean-kubernetes-in-one-click</link>
+      <description>DigitalOcean推出了一键备份DigitalOcean Kubernetes数据的解决方案，通过SnapShooter简化了数据库备份过程。新功能允许用户轻松安装Agent，并设置备份频率、保留策略和存储位置。SnapShooter定价基于备份作业数量，支持所有层级，包括Kubernetes备份。</description>
+      <pubDate>2024-09-12 18:51:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Music industry’s 1990s hard drives, like all HDDs, are dying</title>
+      <link>https://arstechnica.com/?p=2049391</link>
+      <description>20世纪90年代的硬盘驱动器，如同所有硬盘驱动器一样，正逐渐失效。音乐行业从磁带转向硬盘驱动器，但这也带来了长期存档的挑战。由于硬盘驱动器设计上并不适合长期存档，且易受温度和湿度影响，许多存档的硬盘驱动器已经无法读取。这提醒我们，所有存储介质都有其局限性，重要数据应多次复制以避免丢失。</description>
+      <pubDate>2024-09-12 18:27:31</pubDate>
+    </item>
+  
+    <item>
+      <title>First Look: Exploring OpenAI o1 in GitHub Copilot</title>
+      <link>https://github.blog/news-insights/product-news/openai-o1-in-github-copilot/</link>
+      <description>GitHub Copilot与OpenAI o1模型的集成测试显示，o1模型在代码分析和优化方面表现出色，能够帮助开发者更高效地完成复杂任务。通过优化算法和修复性能问题等实际案例，展示了o1模型在推理能力上的优势，为开发者提供更精准的代码建议。</description>
+      <pubDate>2024-09-12 18:00:14</pubDate>
+    </item>
+  
+    <item>
+      <title>Developer Preview: Desktop windowing on Android Tablets</title>
+      <link>http://android-developers.googleblog.com/2024/09/developer-preview-desktop-windowing-on-android-tablets.html</link>
+      <description>Android平板电脑推出开发者预览版，支持桌面窗口功能，允许用户同时运行多个应用并调整窗口大小，以实现更高效的多任务处理。开发者需优化应用以适应桌面窗口，包括自适应布局、更强大的多任务处理和自适应输入，以提升用户体验。</description>
+      <pubDate>2024-09-12 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Chatbots can persuade people to stop believing in conspiracy theories</title>
+      <link>https://www.technologyreview.com/2024/09/12/1103930/chatbots-can-persuade-people-to-stop-believing-in-conspiracy-theories/</link>
+      <description>人工智能聊天机器人能够帮助人们停止相信阴谋论。一项由麻省理工学院斯隆学院和康奈尔大学的研究发现，与大型语言模型（LLM）进行关于阴谋论的对话可以减少人们对其的信念约20%。这项研究为如何与持有无根据理论的人进行互动和教育提供了新的思路。</description>
+      <pubDate>2024-09-12 18:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Android Asset Packs for .NET &amp; .NET MAUI Android Apps</title>
       <link>https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/</link>
       <description>.NET 9引入了为.NET和.NET MAUI Android应用程序生成资产包的新方法。资产包允许开发者将大型资源（如音乐、电影或纹理）放入单独的包中，从而提高应用的灵活性。通过MSBuild元数据，开发者可以轻松创建和管理资产包，包括指定资源所属的包和交付类型。此外，开发者还可以通过NuGet包和API来检查和下载资产包，确保应用的性能和用户体验。</description>
@@ -209,10 +251,31 @@
     </item>
   
     <item>
+      <title>Building LLM-powered applications in Go</title>
+      <link>https://go.dev/blog/llmpowered</link>
+      <description>本文探讨了使用Go语言构建基于大型语言模型（LLM）的应用程序。文章介绍了如何利用Go的强大功能，如并发处理和REST/RPC协议支持，来构建高效、可扩展的LLM应用程序。通过构建一个问答服务器的示例，展示了如何使用Go和不同的库（如Google Gemini API、Weaviate和LangChainGo）来实现LLM应用。总结指出，Go是构建LLM应用程序的理想选择，因为它提供了出色的网络服务支持、并发处理能力和云原生特性。</description>
+      <pubDate>2024-09-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing GoReleaser v2.3</title>
+      <link>https://carlosbecker.com/posts/goreleaser-v2.3/</link>
+      <description>GoReleaser v2.3发布，新增功能包括：对blob进行进一步过滤、分割校验和、模板变量、构建跳过和目录处理等。同时，修复了潜在错误和更新了依赖。GoReleaser社区活跃，拥有超过13.6k星标和403位贡献者。</description>
+      <pubDate>2024-09-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #83: Gasoline prices</title>
       <link>https://www.bambooweekly.com/bw-83-gasoline-prices/</link>
       <description>美国汽油价格受到广泛关注，被视为经济状况的指标。近期价格下降，可能对现任总统有利。本文将探讨美国汽油价格的历史、现状及变化，并使用Great Tables项目制作数据报告。</description>
       <pubDate>2024-09-11 23:05:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Telemedicine Platform with AI-Powered Diagnostics Using Vultr</title>
+      <link>https://www.sitepoint.com/building-a-telemedicine-platform-with-ai-vultr/?utm_source=rss</link>
+      <description>本文介绍了如何使用Vultr构建一个集成了AI诊断的远程医疗平台。通过Vultr的计算实例、存储、数据库、无服务器推理和DNS服务，文章详细阐述了如何设置平台的基础设施，包括配置计算实例、存储和数据库，以及如何集成AI诊断和无服务器推理。此外，还讨论了如何通过Vultr DNS提高平台的可访问性，并确保数据安全。</description>
+      <pubDate>2024-09-11 21:10:22</pubDate>
     </item>
   
     <item>
