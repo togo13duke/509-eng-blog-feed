@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Cloudera Launches Private Link Network for Secure, Internet-Free Cloud Connectivity</title>
+      <link>https://blog.cloudera.com/cloudera-launches-private-link-network-for-secure-internet-free-cloud-connectivity/</link>
+      <description>Cloudera推出Cloudera Private Link Network，为云工作负载提供无缝、私密的连接，确保数据安全，无需通过公共互联网。该网络提供统一、跨云的私有连接服务，适用于金融、医疗和制药等行业，降低成本，提高网络性能。</description>
+      <pubDate>2024-09-12 05:00:26</pubDate>
+    </item>
+  
+    <item>
       <title>As quantum computing threats loom, Microsoft updates its core crypto library</title>
       <link>https://arstechnica.com/?p=2049244</link>
       <description>微软更新了其核心加密库，添加了两个新的加密算法，旨在抵御量子计算机的攻击。这些更新是为了应对量子计算威胁，并确保数据安全。</description>
