@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>The Real Python Podcast – Episode #220: Configuring Git Pre-Commit Hooks &amp; Estimating Software Projects</title>
+      <link>https://realpython.com/podcasts/rpp/220/</link>
+      <description>本期《Real Python播客》探讨了配置Git预提交钩子和软件项目估算。内容包括Git预提交钩子的构建和管理、软件项目估算的艺术，以及Python社区的其他文章和项目，如构建Django博客、Python编程优化技巧等。</description>
+      <pubDate>2024-09-13 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Top 10 Platform Engineering Tools in 2024</title>
       <link>https://last9.io/blog/top-10-platform-engineering-tools-in-2024/</link>
       <description>2024年，平台工程正改变软件开发和运维的方式。本文介绍了10个在2024年引起关注的平台工程工具，这些工具旨在简化工作流程、提高团队协作和提升效率。这些工具包括Kubernetes、Docker、Terraform、Jenkins、Ansible、Prometheus、Grafana、GitLab、Last9 Levitate和Argo CD，它们共同构建了一个统一系统，以支持开发者和运维团队更高效地工作。</description>
@@ -320,6 +327,13 @@
       <link>https://blog.cloudera.com/cloudera-launches-private-link-network-for-secure-internet-free-cloud-connectivity/</link>
       <description>Cloudera推出Cloudera Private Link Network，为云工作负载提供无缝、私密的连接，确保数据安全，无需通过公共互联网。该网络提供统一、跨云的私有连接服务，适用于金融、医疗和制药等行业，降低成本，提高网络性能。</description>
       <pubDate>2024-09-12 05:00:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Retry Network Requests</title>
+      <link>https://glebbahmutov.com/blog/retry-network-requests/</link>
+      <description>本文介绍了如何使用cypress-recurse和cy-spok插件在Cypress测试中重试失败的网络请求。通过编写插件和验证规则，实现了对API响应的持续检查，确保在服务器响应前不断尝试，直到成功。</description>
+      <pubDate>2024-09-12 04:00:00</pubDate>
     </item>
   
     <item>
