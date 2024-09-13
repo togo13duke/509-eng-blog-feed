@@ -6,38 +6,10 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Neuroscientists and architects are using this enormous laboratory to make buildings better</title>
-      <link>https://www.technologyreview.com/2024/09/13/1103935/neuroscientists-architects-enormous-laboratory-make-buildings-better/</link>
-      <description>神经科学家和建筑师在伦敦东部的巨大实验室中合作，通过模拟真实世界来研究人们如何与环境互动，从而改善建筑设计。该实验室允许研究人员控制光线、温度和声音，创建各种模拟环境，以研究人们在其中的反应。这些发现有助于建筑师设计更符合人类需求的空间，提高建筑的使用体验。</description>
-      <pubDate>2024-09-13 09:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>PromCon 2024 — Day 2</title>
-      <link>https://last9.io/blog/promcon-2024-day-2-recap/</link>
-      <description>PromCon 2024第二天聚焦于Prometheus生态系统，包括PromQL查询机制、Go应用效率优化、原生直方图、元数据管理、异常检测、可视化工具Perses等主题。与会者分享了关于性能优化、数据存储、监控和可视化的见解，强调了Prometheus在复杂环境中的稳定性和可扩展性。</description>
-      <pubDate>2024-09-13 07:45:12</pubDate>
-    </item>
-  
-    <item>
       <title>The world’s largest open-source business has plans for enhancing LLMs</title>
       <link>https://stackoverflow.blog/2024/09/13/the-world-s-largest-open-source-business-has-plans-for-enhancing-llms/</link>
       <description>全球最大开源企业计划提升大型语言模型（LLMs），探讨开源LLMs的挑战与益处，以及LLMs在代码生成、测试和文档制作中的应用潜力。</description>
       <pubDate>2024-09-13 07:40:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Unbundling API Management: When Is It Worth It?</title>
-      <link>https://nordicapis.com/unbundling-api-management-when-is-it-worth-it/</link>
-      <description>API解包：何时值得？文章探讨了API管理解包的概念，分析了传统捆绑式API管理平台的问题，如功能不全面、成本高、灵活性差等。解包提供更灵活、高效的解决方案，允许用户根据需求选择最佳工具。文章指出，解包适用于寻求单一工具或解决方案的API，以及需要适应特定行业规则的API。同时，解包也适用于资源有限的组织，如初创公司和中小企业。</description>
-      <pubDate>2024-09-13 07:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>The state of documentation for the GNU C library and kernel</title>
-      <link>https://developers.redhat.com/articles/2024/09/13/state-documentation-gnu-c-library-and-kernel</link>
-      <description>GNU C库和内核文档的现状：文档对于软件库的使用至关重要，但软件库的文档质量参差不齐。GNU C库的官方文档是GNU C Library Manual，但许多用户可能不知道其存在。Linux Man Pages Project提供了C API的文档，但并非所有内容都权威。内核API的文档主要依赖于man pages，而man pages的编写语言roff较为古老且不常用。作者建议志愿者参与文档编写，以提高文档质量和可用性。</description>
-      <pubDate>2024-09-13 07:00:00</pubDate>
     </item>
   
     <item>
