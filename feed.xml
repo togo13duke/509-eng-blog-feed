@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>IT Strat #2 -  Définir une stratégie IT qui répond aux enjeux de l'Entreprise</title>
+      <link>https://blog.octo.com/it-strat-2-definir-une-strategie-it-qui-repond-aux-enjeux-de-l'entreprise</link>
+      <description>本文探讨了如何制定一个符合企业需求的现代IT战略。文章强调了IT战略应关注业务和技术挑战，并确保与企业的法律约束和商业目标保持一致。文章还讨论了如何通过价值流映射和业务能力图来构建一个全面的业务视图，并强调了IT在战略制定中的早期参与和持续贡献的重要性。此外，文章还介绍了如何通过DDD（领域驱动设计）和事件风暴等工具来促进业务和IT之间的合作，以及如何优先考虑投资和制定技术战略。</description>
+      <pubDate>2024-09-13 17:16:10</pubDate>
+    </item>
+  
+    <item>
+      <title>RAG Is More Than Just Vector Search</title>
+      <link>https://www.timescale.com/blog/rag-is-more-than-just-vector-search/</link>
+      <description>Timescale是一个增强版的PostgreSQL，专为快速处理时间序列数据而设计。它不仅支持向量搜索，还具备时间序列处理能力和SQL的灵活性。通过结合Timescale和大型语言模型（LLMs），可以执行向量相似性搜索、使用语言模型提取和增强数据，以及编写高效的跨多个属性的查询。这使得Timescale成为构建复杂AI应用，如GitHub问题问答系统的理想选择。</description>
+      <pubDate>2024-09-13 17:12:46</pubDate>
+    </item>
+  
+    <item>
       <title>Free Starlink Internet is coming to all of United’s airplanes</title>
       <link>https://arstechnica.com/?p=2049628</link>
       <description>美国联合航空公司宣布，将从2025年开始为所有飞机提供免费的Starlink互联网服务，这一升级将需要数年时间来完成。</description>
@@ -17,6 +31,20 @@
       <link>https://www.confluent.io/blog/people-manager-technical-support/</link>
       <description>Confluent技术支持经理Martin Holmes分享了他如何将员工放在首位，以及他在处理不满客户和职业成长方面的经验。他强调领导层的支持和信任为他提供了动力，并致力于为团队创造成功的基础。在Confluent，他享受着自由和责任，这让他能够发挥自己的优势，并期待在未来的几年里继续成长。</description>
       <pubDate>2024-09-13 14:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The case of the fail-fast crashes coming from the power management system</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240913-00/?p=110257</link>
+      <description>微软博客文章指出，客户报告了由于电源管理系统导致的快速失败崩溃问题。问题源于内部函数RtlpHandleInvalidUserCallTarget，当检测到无效函数指针调用时，控制流保护会使用此函数。文章通过调试过程，发现无效指针位于rdx寄存器中，并追踪到Contoso虚拟摄像头驱动程序未在DLL卸载前注销电源管理回调，导致崩溃。建议客户将问题反馈给Contoso，并将有问题的驱动程序版本列入“不使用”名单。</description>
+      <pubDate>2024-09-13 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploying dreams: An inside look at a summer internship with Vercel</title>
+      <link>https://vercel.com/blog/summer-internship-at-vercel</link>
+      <description>Aryan Vichare分享了他在Vercel的暑期实习经历。作为一名电气工程和计算机科学专业的学生，他参与了多个项目，包括改进Vercel支持中心用户体验和开发v0的新功能。Vercel的工作环境让他有机会与行业内的顶尖人才合作，并从实践中学习到许多宝贵的技能，如大规模工程、沟通和设计工程。这次实习让他深刻体验到了Vercel的快速迭代、客户至上和精益求精的文化。</description>
+      <pubDate>2024-09-13 13:00:00</pubDate>
     </item>
   
     <item>
@@ -90,6 +118,13 @@
     </item>
   
     <item>
+      <title>Madrid update: Our first weeks as Founders</title>
+      <link>https://www.hashicorp.com/blog/madrid-update-our-first-weeks-as-founders</link>
+      <description>在马德里成立新办公室的首个月份，HashiCorp的创始人Julia Friedman和Will Farley分享了他们在适应新文化环境中的个人经历。他们在美丽的城市中享受着探索和发现，同时克服了语言和日常生活中的挑战。他们在马德里科技中心的工作重点在于团队技能的培养，并享受着西班牙的体育和节日文化。两位创始人对马德里充满热情，期待着未来在创新和客户服务方面的进一步发展。</description>
+      <pubDate>2024-09-13 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Error'd: Nothing Doing</title>
       <link>https://thedailywtf.com/articles/nothing-doing</link>
       <description>本周《Daily WTF》收录了多位作者分享的编程趣事。其中包括Michael R.遇到的系统问题，Daniel D.对错误报告的回应，Basti对百分比计算的困惑，以及Philipp H.在智能家居设备注册时遇到的密码问题。</description>
@@ -109,6 +144,13 @@
       <title>Make “git diff” look beautiful in the terminal</title>
       <link>https://www.amitmerchant.com/make-git-diff-look-beautiful-in-the-terminal/</link>
       <description>本文介绍了如何使Git的`git diff`命令在终端中显示更美观的输出。通过安装git-delta包，可以提升`git diff`命令的输出效果，类似于图形编辑器如VS Code。安装后，只需在`.gitconfig`文件中添加相应配置即可实现侧边对比、显示行号等功能。</description>
+      <pubDate>2024-09-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Win a ticket to Rocky Mountain Ruby 2024</title>
+      <link>https://www.honeybadger.io/blog/rocky-mountain-ruby-2024-giveaway/</link>
+      <description>Rocky Mountain Ruby 2024将于10月7日至8日在科罗拉多州博尔德举行，Honeybadger作为赞助商，将提供免费门票抽奖活动。Joshua Wood表示，他期待亲自参加，并带来一些合作伙伴的周边产品。同时，鼓励有经济能力的读者购买门票支持活动。</description>
       <pubDate>2024-09-13 00:00:00</pubDate>
     </item>
   
