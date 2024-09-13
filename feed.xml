@@ -6,6 +6,15 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to train senior developers in Ruby on Rails</title>
+      <link>https://thoughtbot.com/blog/how-to-train-your-senior-developers-in-ruby-on-rails</link>
+      <description>如何培训有经验的Ruby on Rails开发者
+
+本文探讨了如何培训新加入的、有丰富经验的Ruby on Rails开发者。首先，要认识到他们已有的技能和经验，并据此调整培训内容。建议从基础的Ruby语言开始，逐步过渡到Rails框架。通过在线练习、命令行操作、测试和实际项目实践，帮助他们熟悉Rails生态系统。同时，强调耐心和支持，鼓励提问和合作，以帮助他们顺利融入团队。</description>
+      <pubDate>2024-09-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Dynamic Programming Fail</title>
       <link>https://www.jeremykun.com/shortform/2024-09-12-1502/</link>
       <description>本文讲述了一位作者在建造储藏室时尝试使用动态规划解决铺设地板的问题，但由于木材尺寸的不精确性和板条的弯曲，最终未能达到预期的精确度，导致不得不切割最后一块板条以适应空间。作者反思了这一经历，认为现实世界的复杂性再次阻碍了完美的解决方案，并建议在算法课程中使用此类实际问题代替传统的精确找零问题。</description>
