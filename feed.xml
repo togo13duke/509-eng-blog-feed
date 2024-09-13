@@ -6,20 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>How “Owning It” Shaped My First Year at Atomic Object</title>
-      <link>https://spin.atomicobject.com/owning-it-first-year/</link>
-      <description>在Atomic Object的第一年，作者通过“拥有它”这一核心价值观，学会了承担责任、拥抱学习曲线和追求卓越。这一理念不仅塑造了她的工作方式，也促进了她的个人和职业成长。作者通过承认自己的知识差距、承担责任并不断改进代码质量，实现了自我提升。</description>
-      <pubDate>2024-09-13 12:00:41</pubDate>
-    </item>
-  
-    <item>
-      <title>Top 10 Platform Engineering Tools in 2024</title>
-      <link>https://last9.io/blog/top-10-platform-engineering-tools-in-2024/</link>
-      <description>2024年，平台工程正改变软件开发和运维的方式。本文介绍了10个在2024年引起关注的平台工程工具，这些工具旨在简化工作流程、提高团队协作和提升效率。这些工具包括Kubernetes、Docker、Terraform、Jenkins、Ansible、Prometheus、Grafana、GitLab、Last9 Levitate和Argo CD，它们共同构建了一个统一系统，以支持开发者和运维团队更高效地工作。</description>
-      <pubDate>2024-09-13 10:27:27</pubDate>
-    </item>
-  
-    <item>
       <title>Neuroscientists and architects are using this enormous laboratory to make buildings better</title>
       <link>https://www.technologyreview.com/2024/09/13/1103935/neuroscientists-architects-enormous-laboratory-make-buildings-better/</link>
       <description>神经科学家和建筑师在伦敦东部的巨大实验室中合作，通过模拟真实世界来研究人们如何与环境互动，从而改善建筑设计。该实验室允许研究人员控制光线、温度和声音，创建各种模拟环境，以研究人们在其中的反应。这些发现有助于建筑师设计更符合人类需求的空间，提高建筑的使用体验。</description>
@@ -55,25 +41,11 @@
     </item>
   
     <item>
-      <title>Error'd: Nothing Doing</title>
-      <link>https://thedailywtf.com/articles/nothing-doing</link>
-      <description>本周《Daily WTF》收录了多位作者分享的编程趣事。其中包括Michael R.遇到的系统问题，Daniel D.对错误报告的回应，Basti对百分比计算的困惑，以及Philipp H.在智能家居设备注册时遇到的密码问题。</description>
-      <pubDate>2024-09-13 06:30:00</pubDate>
-    </item>
-  
-    <item>
       <title>How to train senior developers in Ruby on Rails</title>
       <link>https://thoughtbot.com/blog/how-to-train-your-senior-developers-in-ruby-on-rails</link>
       <description>如何培训有经验的Ruby on Rails开发者
 
 本文探讨了如何培训新加入的、有丰富经验的Ruby on Rails开发者。首先，要认识到他们已有的技能和经验，并据此调整培训内容。建议从基础的Ruby语言开始，逐步过渡到Rails框架。通过在线练习、命令行操作、测试和实际项目实践，帮助他们熟悉Rails生态系统。同时，强调耐心和支持，鼓励提问和合作，以帮助他们顺利融入团队。</description>
-      <pubDate>2024-09-13 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Make “git diff” look beautiful in the terminal</title>
-      <link>https://www.amitmerchant.com/make-git-diff-look-beautiful-in-the-terminal/</link>
-      <description>本文介绍了如何使Git的`git diff`命令在终端中显示更美观的输出。通过安装git-delta包，可以提升`git diff`命令的输出效果，类似于图形编辑器如VS Code。安装后，只需在`.gitconfig`文件中添加相应配置即可实现侧边对比、显示行号等功能。</description>
       <pubDate>2024-09-13 00:00:00</pubDate>
     </item>
   
