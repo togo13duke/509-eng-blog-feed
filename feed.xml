@@ -293,6 +293,13 @@
     </item>
   
     <item>
+      <title>Five Ways to Lazy Load Images for Better Website Performance</title>
+      <link>https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/?utm_source=rss</link>
+      <description>懒加载图像是一种提高网站性能的技术，它仅在图像进入用户视口时加载图像，从而加快页面加载速度，提升用户体验，并节省带宽。本文介绍了五种懒加载图像的方法，包括使用HTML的“loading”属性、Intersection Observer API、Lozad.js库、模糊图像效果和Yall.js库。这些方法可以帮助开发者优化网站性能，提升用户访问体验。</description>
+      <pubDate>2024-09-11 23:37:14</pubDate>
+    </item>
+  
+    <item>
       <title>BW #83: Gasoline prices</title>
       <link>https://www.bambooweekly.com/bw-83-gasoline-prices/</link>
       <description>美国汽油价格受到广泛关注，被视为经济状况的指标。近期价格下降，可能对现任总统有利。本文将探讨美国汽油价格的历史、现状及变化，并使用Great Tables项目制作数据报告。</description>
