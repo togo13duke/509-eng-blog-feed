@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Free Starlink Internet is coming to all of United’s airplanes</title>
+      <link>https://arstechnica.com/?p=2049628</link>
+      <description>美国联合航空公司宣布，将从2025年开始为所有飞机提供免费的Starlink互联网服务，这一升级将需要数年时间来完成。</description>
+      <pubDate>2024-09-13 14:01:14</pubDate>
+    </item>
+  
+    <item>
+      <title>How Martin Makes People His Priority in Global Technical Support</title>
+      <link>https://www.confluent.io/blog/people-manager-technical-support/</link>
+      <description>Confluent技术支持经理Martin Holmes分享了他如何将员工放在首位，以及他在处理不满客户和职业成长方面的经验。他强调领导层的支持和信任为他提供了动力，并致力于为团队创造成功的基础。在Confluent，他享受着自由和责任，这让他能够发挥自己的优势，并期待在未来的几年里继续成长。</description>
+      <pubDate>2024-09-13 14:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: conspiracy-debunking chatbots, and fact-checking AI</title>
+      <link>https://www.technologyreview.com/2024/09/13/1103952/the-download-conspiracy-debunking-chatbots-and-fact-checking-ai/</link>
+      <description>MIT Technology Review报道了AI在解决虚假阴谋论和事实核查方面的最新进展。研究发现，与大型语言模型（LLM）聊天可以减少人们对阴谋论的信念。此外，谷歌推出了DataGemma工具，旨在帮助大型语言模型进行事实核查，提高其搜索结果的可信度。</description>
+      <pubDate>2024-09-13 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>How “Owning It” Shaped My First Year at Atomic Object</title>
       <link>https://spin.atomicobject.com/owning-it-first-year/</link>
       <description>在Atomic Object的第一年，作者通过“拥有它”这一核心价值观，学会了承担责任、拥抱学习曲线和追求卓越。这一理念不仅塑造了她的工作方式，也促进了她的个人和职业成长。作者通过承认自己的知识差距、承担责任并不断改进代码质量，实现了自我提升。</description>
@@ -58,6 +79,13 @@
       <title>The state of documentation for the GNU C library and kernel</title>
       <link>https://developers.redhat.com/articles/2024/09/13/state-documentation-gnu-c-library-and-kernel</link>
       <description>GNU C库和内核文档的现状：文档对于软件库的使用至关重要，但软件库的文档质量参差不齐。GNU C库的官方文档是GNU C Library Manual，但许多用户可能不知道其存在。Linux Man Pages Project提供了C API的文档，但并非所有内容都权威。内核API的文档主要依赖于man pages，而man pages的编写语言roff较为古老且不常用。作者建议志愿者参与文档编写，以提高文档质量和可用性。</description>
+      <pubDate>2024-09-13 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>eBay Publishes New Report on European Union Small Business Exporting</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-publishes-new-report-on-european-union-small-business-exporting/</link>
+      <description>eBay发布了一份关于欧盟小型企业出口的新报告，显示97%的eBay欧盟小企业是出口商。这些企业通过eBay平台进入全球市场，出口到超过100个国家和地区，远超传统欧盟企业的跨境销售比例。报告还强调了数字化对促进包容性机会和可持续经济增长的重要性。</description>
       <pubDate>2024-09-13 07:00:00</pubDate>
     </item>
   
