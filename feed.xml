@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Google rolls out voice-powered AI chat to the Android masses</title>
+      <link>https://arstechnica.com/?p=2049707</link>
+      <description>Google推出面向Android用户的语音AI聊天功能，名为Gemini Live，允许用户通过语音命令与Gemini进行交互，目前免费向所有Android用户开放。该功能支持用户语音提问和中断AI回答，提供多种语音选项，并支持英语以外的语言和iOS设备。</description>
+      <pubDate>2024-09-13 17:37:31</pubDate>
+    </item>
+  
+    <item>
+      <title>How Do You Modernize Safety Critical Designs in Nuclear Power? RDE!</title>
+      <link>https://galois.com/blog/2024/09/how-do-you-modernize-safety-critical-designs-in-nuclear-power-rde/</link>
+      <description>美国核电站是国土安全部认定的“国家关键基础设施”的一部分，但它们一直依赖过时的模拟系统。为了降低成本和提高效率，Galois公司与核管理委员会合作，开发了一种基于“正确构建”的方法，用于数字化核电站的保护和控制系统。这种方法不仅确保了安全，还大幅降低了成本和时间。通过使用形式化方法和RDE，Galois成功创建了一个从政府RFP到正式验证的二进制和硬件的完整实现，为核能行业的未来提供了安全、经济、快速的建设方案。</description>
+      <pubDate>2024-09-13 17:20:22</pubDate>
+    </item>
+  
+    <item>
       <title>IT Strat #2 -  Définir une stratégie IT qui répond aux enjeux de l'Entreprise</title>
       <link>https://blog.octo.com/it-strat-2-definir-une-strategie-it-qui-repond-aux-enjeux-de-l'entreprise</link>
       <description>本文探讨了如何制定一个符合企业需求的现代IT战略。文章强调了IT战略应关注业务和技术挑战，并确保与企业的法律约束和商业目标保持一致。文章还讨论了如何通过价值流映射和业务能力图来构建一个全面的业务视图，并强调了IT在战略制定中的早期参与和持续贡献的重要性。此外，文章还介绍了如何通过DDD（领域驱动设计）和事件风暴等工具来促进业务和IT之间的合作，以及如何优先考虑投资和制定技术战略。</description>
@@ -151,6 +165,13 @@
       <title>Win a ticket to Rocky Mountain Ruby 2024</title>
       <link>https://www.honeybadger.io/blog/rocky-mountain-ruby-2024-giveaway/</link>
       <description>Rocky Mountain Ruby 2024将于10月7日至8日在科罗拉多州博尔德举行，Honeybadger作为赞助商，将提供免费门票抽奖活动。Joshua Wood表示，他期待亲自参加，并带来一些合作伙伴的周边产品。同时，鼓励有经济能力的读者购买门票支持活动。</description>
+      <pubDate>2024-09-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>a one man war of attrition</title>
+      <link>https://taylor.town/attrition</link>
+      <description>在个人奋斗的征途中，作者反思了从追求不切实际目标到采用消耗战策略的转变。他意识到，虽然消耗战策略在追求有价值目标时更为有效，但若用于对抗自己不切实际的野心，则只会是固执的愚蠢。作者建议，公开工作可以带来动力，并提醒读者停止自我斗争，以更健康的方式追求目标。</description>
       <pubDate>2024-09-13 00:00:00</pubDate>
     </item>
   
