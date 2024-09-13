@@ -6,13 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Dynamic Programming Fail</title>
-      <link>https://www.jeremykun.com/shortform/2024-09-12-1502/</link>
-      <description>本文讲述了一位作者在建造储藏室时尝试使用动态规划解决铺设地板的问题，但由于木材尺寸的不精确性和板条的弯曲，最终未能达到预期的精确度，导致不得不切割最后一块板条以适应空间。作者反思了这一经历，认为现实世界的复杂性再次阻碍了完美的解决方案，并建议在算法课程中使用此类实际问题代替传统的精确找零问题。</description>
-      <pubDate>2024-09-12 22:02:05</pubDate>
-    </item>
-  
-    <item>
       <title>Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics</title>
       <link>https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/</link>
       <description>Amazon RDS for MySQL与Amazon Redshift的零ETL集成现已全面上市，可实现在Amazon RDS for MySQL中写入数据后几秒钟内将PB级交易数据可用，无需创建ETL作业，简化数据摄入，降低运营成本。新功能包括数据过滤、支持多个集成和配置零ETL集成在AWS CloudFormation模板中。</description>
@@ -31,13 +24,6 @@
       <link>https://www.digitalocean.com/blog/backup-digitalocean-kubernetes-in-one-click</link>
       <description>DigitalOcean推出了一键备份DigitalOcean Kubernetes数据的解决方案，通过SnapShooter简化了数据库备份过程。新功能允许用户轻松安装Agent，并设置备份频率、保留策略和存储位置。SnapShooter定价基于备份作业数量，支持所有层级，包括Kubernetes备份。</description>
       <pubDate>2024-09-12 18:51:43</pubDate>
-    </item>
-  
-    <item>
-      <title>Presidential debate 2024: How political debates impact public opinion</title>
-      <link>https://www.surveymonkey.com/curiosity/presidential-debate-how-political-debates-impact-public-opinion/?ut_source=rss</link>
-      <description>2024年总统辩论如何影响公众舆论：研究显示，辩论本身对选举的影响有限，但名人代言和社交媒体上的内容可能产生更大影响。观众对辩论的反应因媒体渠道、政治立场和年龄性别等因素而异。</description>
-      <pubDate>2024-09-12 18:33:09</pubDate>
     </item>
   
     <item>
@@ -73,13 +59,6 @@
       <link>https://devblogs.microsoft.com/dotnet/android-asset-packs-in-dotnet-android/</link>
       <description>.NET 9引入了为.NET和.NET MAUI Android应用程序生成资产包的新方法。资产包允许开发者将大型资源（如音乐、电影或纹理）放入单独的包中，从而提高应用的灵活性。通过MSBuild元数据，开发者可以轻松创建和管理资产包，包括指定资源所属的包和交付类型。此外，开发者还可以通过NuGet包和API来检查和下载资产包，确保应用的性能和用户体验。</description>
       <pubDate>2024-09-12 17:05:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Reasons I still love the fish shell</title>
-      <link>https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/</link>
-      <description>鱼壳让我爱不释手的原因：鱼壳提供了简洁的默认设置，无需额外配置；自动补全功能强大，包括智能路径补全和历史命令补全；支持多行粘贴和良好的提示符显示；拥有丰富的历史记录和便捷的历史搜索功能；内置终端修复功能，防止终端损坏；禁用了Ctrl+S等可能导致终端冻结的快捷键；语法高亮和易于编辑的多行命令；以及更直观的循环和移动光标功能。尽管存在一些兼容性和配置问题，但鱼壳的这些特点使其成为许多用户的理想选择。</description>
-      <pubDate>2024-09-12 15:09:12</pubDate>
     </item>
   
     <item>
