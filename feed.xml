@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Golang Logging: A Comprehensive Guide for Developers</title>
+      <link>https://last9.io/blog/golang-logging-guide-for-developers/</link>
+      <description>Golang日志记录是开发中不可或缺的一部分，本文深入探讨了Golang日志记录的最佳实践，包括使用标准库的log包、流行的第三方库（如Zerolog、Zap和Logrus）以及结构化日志。文章强调了配置日志级别和输出格式、与可观察性平台集成的重要性，并通过实际案例展示了如何通过改进日志记录来解决生产中的问题。总结来说，有效的日志记录对于理解应用行为、性能和调试复杂问题至关重要。</description>
+      <pubDate>2024-09-13 21:55:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Developer's Guide to Installing OpenTelemetry Collector</title>
+      <link>https://last9.io/blog/developers-guide-to-installing-opentelemetry-collector/</link>
+      <description>本文介绍了如何安装和配置OpenTelemetry Collector以增强可观察性。涵盖了Docker、Kubernetes和Linux安装的步骤和配置示例，并解释了为什么选择OpenTelemetry Collector以及如何使用它来集中收集、处理和导出遥测数据。</description>
+      <pubDate>2024-09-13 21:54:59</pubDate>
+    </item>
+  
+    <item>
+      <title>1.3 million Android-based TV boxes backdoored; researchers still don’t know how</title>
+      <link>https://arstechnica.com/?p=2049773</link>
+      <description>研究人员发现，大约130万台基于Android的电视盒子被恶意软件感染，但尚未确定感染原因。这种名为Android.Vo1d的恶意软件通过在系统存储区域植入恶意组件，使设备能够被远程控制服务器随时更新。受影响的设备运行的是基于Android开源项目的操作系统，而非Android TV。目前，感染源和攻击向量尚不明确。</description>
+      <pubDate>2024-09-13 20:20:23</pubDate>
+    </item>
+  
+    <item>
+      <title>No more SMTP with Basic Authentication for you! Can I get you OAuth instead?</title>
+      <link>https://tommihovi.com/2024/09/smtp-basic-auth-deprecation/</link>
+      <description>Microsoft计划于2025年9月弃用Exchange Online中的基本认证（SMTP AUTH），建议用户切换到OAuth以增强安全性。组织应检查并更改SMTP设置，仅对需要的基本认证的邮箱启用OAuth，并考虑使用高容量电子邮件服务或Azure通信服务。</description>
+      <pubDate>2024-09-13 20:04:04</pubDate>
+    </item>
+  
+    <item>
       <title>Google rolls out voice-powered AI chat to the Android masses</title>
       <link>https://arstechnica.com/?p=2049707</link>
       <description>Google推出面向Android用户的语音AI聊天功能，名为Gemini Live，允许用户通过语音命令与Gemini进行交互，目前免费向所有Android用户开放。该功能支持用户语音提问和中断AI回答，提供多种语音选项，并支持英语以外的语言和iOS设备。</description>
@@ -172,6 +200,13 @@
       <title>a one man war of attrition</title>
       <link>https://taylor.town/attrition</link>
       <description>在个人奋斗的征途中，作者反思了从追求不切实际目标到采用消耗战策略的转变。他意识到，虽然消耗战策略在追求有价值目标时更为有效，但若用于对抗自己不切实际的野心，则只会是固执的愚蠢。作者建议，公开工作可以带来动力，并提醒读者停止自我斗争，以更健康的方式追求目标。</description>
+      <pubDate>2024-09-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The ultimate guide to Laravel caching</title>
+      <link>https://www.honeybadger.io/blog/caching-in-laravel/</link>
+      <description>Laravel缓存优化指南：本文深入探讨了Laravel缓存机制，包括其如何提高网站速度和性能。通过缓存数据库查询和外部API响应，可以减少数据库和服务器负载，提高应用效率。文章介绍了多种缓存方法，如文件缓存、Redis和数据库缓存，并提供了实际代码示例，展示了如何在Laravel中实现缓存。</description>
       <pubDate>2024-09-13 00:00:00</pubDate>
     </item>
   
