@@ -414,6 +414,13 @@
     </item>
   
     <item>
+      <title>Open banking: a new opportunity for customer experience</title>
+      <link>https://gocardless.com/blog/superpower-customer-experience/</link>
+      <description>开放银行通过数据共享和直接银行账户访问，提供更快的速度、便利性和安全性，从而提升客户体验。它通过增强安全性、提高支付速度和简化支付流程，帮助企业在竞争中脱颖而出。</description>
+      <pubDate>2024-09-12 08:48:55</pubDate>
+    </item>
+  
+    <item>
       <title>PromQL Cheat Sheet: Must-Know PromQL Queries</title>
       <link>https://last9.io/blog/promql-cheat-sheet/</link>
       <description>本指南提供实用指导，帮助诊断问题和理解趋势。它收集了PromQL查询片段，用于解决常见场景，如实时监控、趋势追踪、资源消耗识别和高级查询技巧。此外，还涵盖了高基数处理、容量规划和跨集群查询等高级主题，旨在帮助用户更有效地使用PromQL。</description>
@@ -897,6 +904,13 @@
     </item>
   
     <item>
+      <title>Getting paid is a pain for the UK’s small businesses. It’s time for a change</title>
+      <link>https://gocardless.com/guides/posts/accountants-guide-to-getting-paid/</link>
+      <description>GoCardless提供自动化支付解决方案，帮助企业和客户简化支付流程。通过集成银行直接扣款、发票支付和账户对账，GoCardless旨在提高支付效率，减少行政负担，并改善现金流。该平台适用于各种规模的企业，旨在通过自动化支付流程来减少延迟支付和现金流问题。</description>
+      <pubDate>2024-09-10 13:05:56</pubDate>
+    </item>
+  
+    <item>
       <title>Moving Your AI Pilot Projects to Production</title>
       <link>https://blog.cloudera.com/moving-your-ai-pilot-projects-to-production/</link>
       <description>企业如何将AI试点项目投入生产，实现业务影响？需建立数据战略，确保数据质量与信任，采用现代数据平台，并利用AI助手推动AI普及。</description>
@@ -929,6 +943,13 @@
       <link>https://stackoverflow.blog/2024/09/10/gen-ai-llm-create-test-developers-coding-software-code-quality/</link>
       <description>AI编码工具的价值之一在于生成测试，这有助于减少代码中的错误。开发者们认为，AI在测试方面的应用比编写软件本身更有价值。通过AI生成测试，可以提高代码质量，减少错误，并减轻开发者的工作负担。一些初创公司，如CodiumAI，专注于利用AI进行测试，以提高代码的可靠性和质量。</description>
       <pubDate>2024-09-10 12:46:52</pubDate>
+    </item>
+  
+    <item>
+      <title>[Webinar] Introduction to GoCardless for aquatics clubs and swim schools</title>
+      <link>https://gocardless.com/guides/posts/webinar-introduction-to-gocardless-for-aquatics-clubs-and-swim-schools/</link>
+      <description>GoCardless将举办一场网络研讨会，介绍其支付系统如何帮助水疗俱乐部和游泳学校简化收款流程，减少行政压力。研讨会将包括产品介绍、互动仪表板演示、成功案例和问答环节。</description>
+      <pubDate>2024-09-10 12:46:16</pubDate>
     </item>
   
     <item>
