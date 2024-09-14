@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Notes on running Go in the browser with WebAssembly</title>
+      <link>https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/</link>
+      <description>本文探讨了在浏览器中使用WebAssembly运行Go语言的方法。作者通过实际项目经验，介绍了如何将Go代码编译为WebAssembly，并在浏览器中调用Go函数。文章详细解释了从JavaScript调用Go函数的基本步骤，包括DOM操作和事件监听。此外，还讨论了使用TinyGo作为编译器的优势与局限性，以及如何利用Web Workers避免阻塞主线程，提高用户体验。</description>
+      <pubDate>2024-09-14 13:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>150k Clicks from Google 🤩</title>
+      <link>https://catonmat.net/150k-clicks-from-google</link>
+      <description>我们成功在Online Tools上实现了150k的搜索引擎结果页面（SERP）点击量。使用优惠码SMASHLING，所有工具可享受30%的折扣。</description>
+      <pubDate>2024-09-14 12:57:00</pubDate>
+    </item>
+  
+    <item>
       <title>Temporary and Signed URLs for Local Filesystem in Laravel</title>
       <link>https://www.amitmerchant.com/temporary-and-signed-urls-for-local-filesystem-in-laravel/</link>
       <description>Laravel 11.x版本新增了在本地文件系统中创建临时和签名URL的功能，允许用户在本地环境中测试文件共享功能，无需使用AWS S3存储。通过更新`config/filesystems.php`文件并创建一个名为`private`的文件夹，即可使用`Storage::temporaryUrl()`方法为文件生成临时和签名URL。这一改进使得在本地环境中测试和部署文件共享功能变得更加方便。</description>
@@ -66,6 +80,13 @@
       <link>https://www.timescale.com/blog/rag-is-more-than-just-vector-search/</link>
       <description>Timescale是一个增强版的PostgreSQL，专为快速处理时间序列数据而设计。它不仅支持向量搜索，还具备时间序列处理能力和SQL的灵活性。通过结合Timescale和大型语言模型（LLMs），可以执行向量相似性搜索、使用语言模型提取和增强数据，以及编写高效的跨多个属性的查询。这使得Timescale成为构建复杂AI应用，如GitHub问题问答系统的理想选择。</description>
       <pubDate>2024-09-13 17:12:46</pubDate>
+    </item>
+  
+    <item>
+      <title>A new path for Kyber on the web</title>
+      <link>http://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html</link>
+      <description>Chrome浏览器将切换其后量子密钥交换算法，从Kyber更改为ML-KEM，以支持更安全的网络通信。这一变化旨在提高用户的安全性和兼容性，同时确保服务器运营商有时间更新其实现。</description>
+      <pubDate>2024-09-13 16:04:00</pubDate>
     </item>
   
     <item>
