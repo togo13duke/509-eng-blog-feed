@@ -27,6 +27,13 @@
     </item>
   
     <item>
+      <title>growing the graveyard of "better spreadsheets"</title>
+      <link>https://taylor.town/better-spreadsheets</link>
+      <description>现代电子表格虽然流行，但存在设计缺陷，如公式输出限制、数据孤岛、错误频发、技能天花板等。作者提出“scrapsheets”概念，旨在通过引入真正的编程语言、共享代码和严格类型系统等创新，解决这些问题，并提升用户体验。</description>
+      <pubDate>2024-09-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Golang Logging: A Comprehensive Guide for Developers</title>
       <link>https://last9.io/blog/golang-logging-guide-for-developers/</link>
       <description>Golang日志记录是开发中不可或缺的一部分，本文深入探讨了Golang日志记录的最佳实践，包括使用标准库的log包、流行的第三方库（如Zerolog、Zap和Logrus）以及结构化日志。文章强调了配置日志级别和输出格式、与可观察性平台集成的重要性，并通过实际案例展示了如何通过改进日志记录来解决生产中的问题。总结来说，有效的日志记录对于理解应用行为、性能和调试复杂问题至关重要。</description>
