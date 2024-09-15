@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>The magic behind Laravel’s new defer() helper</title>
+      <link>https://www.amitmerchant.com/the-magic-behind-laravels-new-defer-helper/</link>
+      <description>Laravel新助手defer()的原理：Laravel引入了defer()助手，用于延迟回调执行，直到响应发送完毕。这允许将耗时操作（如调用外部API）推迟到回调中，以便尽快返回响应。defer()助手通过创建DeferredCallback类实例并将其添加到DeferredCallbackCollection中，将回调延迟到响应发送后执行。当请求结束时，所有延迟的回调都会被执行。</description>
+      <pubDate>2024-09-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Notes on running Go in the browser with WebAssembly</title>
       <link>https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/</link>
       <description>本文探讨了在浏览器中使用WebAssembly运行Go语言的方法。作者通过实际项目经验，介绍了如何将Go代码编译为WebAssembly，并在浏览器中调用Go函数。文章详细解释了从JavaScript调用Go函数的基本步骤，包括DOM操作和事件监听。此外，还讨论了使用TinyGo作为编译器的优势与局限性，以及如何利用Web Workers避免阻塞主线程，提高用户体验。</description>
