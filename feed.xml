@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Reactive Relational Algebra</title>
+      <link>https://taylor.town/reactive-relational-algebra</link>
+      <description>作者探讨了将关系代数应用于异步数据处理的创新方法，通过结合离散函数响应式编程和时间索引，构建了更高效的电子表格。他介绍了如何使用自引用合并表来模拟内存，并展示了如何通过关系代数表达复杂查询。作者对这种方法的潜力感到兴奋，并邀请读者提供进一步的想法。</description>
+      <pubDate>2024-09-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Notes on running Go in the browser with WebAssembly</title>
       <link>https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/</link>
       <description>本文探讨了在浏览器中使用WebAssembly运行Go语言的方法。作者通过实际项目经验，介绍了如何将Go代码编译为WebAssembly，并在浏览器中调用Go函数。文章详细解释了从JavaScript调用Go函数的基本步骤，包括DOM操作和事件监听。此外，还讨论了使用TinyGo作为编译器的优势与局限性，以及如何利用Web Workers避免阻塞主线程，提高用户体验。</description>
@@ -23,6 +30,20 @@
       <title>Temporary and Signed URLs for Local Filesystem in Laravel</title>
       <link>https://www.amitmerchant.com/temporary-and-signed-urls-for-local-filesystem-in-laravel/</link>
       <description>Laravel 11.x版本新增了在本地文件系统中创建临时和签名URL的功能，允许用户在本地环境中测试文件共享功能，无需使用AWS S3存储。通过更新`config/filesystems.php`文件并创建一个名为`private`的文件夹，即可使用`Storage::temporaryUrl()`方法为文件生成临时和签名URL。这一改进使得在本地环境中测试和部署文件共享功能变得更加方便。</description>
+      <pubDate>2024-09-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>growing the graveyard of "better spreadsheets"</title>
+      <link>https://taylor.town/better-spreadsheets</link>
+      <description>现代电子表格虽然流行，但存在设计缺陷，如公式输出限制、数据孤岛、错误频发、技能天花板等。作者提出“scrapsheets”概念，旨在通过引入真正的编程语言、共享代码和严格类型系统等创新，解决这些问题，并提升用户体验。</description>
+      <pubDate>2024-09-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python: how to change the extension of a pathlib.Path</title>
+      <link>https://evanhahn.com/change-pathlib-path-extension-python/</link>
+      <description>Python中更改pathlib.Path扩展名的方法：使用with_suffix()方法。例如，将Path("foo.txt")转换为Path("foo.ogg")。只需简单调用my_path.with_suffix(".ogg")即可。希望这能帮助到需要这样做的人。</description>
       <pubDate>2024-09-14 00:00:00</pubDate>
     </item>
   
