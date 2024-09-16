@@ -34,13 +34,6 @@
     </item>
   
     <item>
-      <title>Mitigate risk in regulated industries with HashiCorp Vault in Google Distributed Cloud</title>
-      <link>https://www.hashicorp.com/blog/mitigate-risk-in-regulated-industries-with-hashicorp-vault-in-google-distributed</link>
-      <description>HashiCorp Vault与Google Distributed Cloud（GDC）结合，为受监管行业提供风险缓解方案。Vault提供集中式密钥管理，加密服务，基于身份的访问控制。GDC是Google Cloud的隔离私有云，支持严格的数据驻留和安全要求。两者集成可增强安全性，提高开发人员、安全人员和操作人员的生产力。</description>
-      <pubDate>2024-09-16 16:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Omnipresent AI cameras will ensure good behavior, says Larry Ellison</title>
       <link>https://arstechnica.com/?p=2049906</link>
       <description>Oracle联合创始人拉里·埃里森在财务会议上展望了由AI驱动的监控未来，认为无处不在的AI摄像头和无人机将确保公民和警察遵守法律，但这一观点引发了关于隐私、公民自由和滥用监控的担忧。</description>
@@ -191,13 +184,6 @@
       <title>A guide to Laravel pipelines</title>
       <link>https://www.honeybadger.io/blog/laravel-pipeline/</link>
       <description>本文介绍了Laravel管道的概念及其在内部的工作方式。通过使用管道，开发者可以将复杂的处理过程分解成更小的、更易于管理的部分，从而保持代码的清洁、可维护和可测试。文章通过一个示例展示了如何创建自定义管道，并解释了如何将数据通过多个逻辑层进行处理。此外，还讨论了Laravel如何使用管道来处理请求，以及如何通过管道进行单元测试以确保其按预期工作。</description>
-      <pubDate>2024-09-16 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Making the Web more Awesome — for everyone</title>
-      <link>https://lea.verou.me/blog/2024/awesome/</link>
-      <description>Lea Verou宣布她将加入Font Awesome公司，担任产品主管。她将在公司产品中评估用户需求，并专注于即将推出的Web Awesome产品，该产品将利用Web组件和CSS革新Web界面构建方式。Lea还计划分享她职业生涯的转变，包括从MIT的研究工作到Font Awesome的加入，以及她如何使用Web技术完成博士论文的经历。</description>
       <pubDate>2024-09-16 00:00:00</pubDate>
     </item>
   
