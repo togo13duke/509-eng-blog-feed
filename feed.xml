@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Identify root spans in Otel Collector</title>
+      <link>https://last9.io/blog/identify-root-spans-in-otel-collector/</link>
+      <description>在OpenTelemetry Collector中，识别根跨度是分布式跟踪的关键。根跨度是跟踪层次结构中的顶级跨度，代表整个操作。通过使用过滤器处理器和转换处理器，可以轻松识别根跨度。过滤器处理器允许基于各种标准选择特定的跨度，而转换处理器则允许根据条件修改跨度。了解并有效使用这些处理器对于解决复杂的可观察性挑战至关重要。</description>
+      <pubDate>2024-09-16 18:51:04</pubDate>
+    </item>
+  
+    <item>
       <title>Hyperstore: A Hybrid Row-Storage Engine for T̶i̶m̶e̶ ̶S̶e̶r̶i̶e̶s̶ Real-Time Analytics</title>
       <link>https://www.timescale.com/blog/hyperstore-a-hybrid-row-storage-engine-for-real-time-analytics/</link>
       <description>TimescaleDB是一个增强版的PostgreSQL，专为实时分析而设计。它通过其混合行-列存储引擎“Hyperstore”实现了快速的数据摄入和高效查询。Hyperstore结合了行存储和列存储的优点，自动在两者之间切换，以优化实时工作负载的性能。这使得TimescaleDB能够处理高吞吐量的数据摄入、低延迟的查询，并支持数据更新和延迟数据，满足实时分析的需求。</description>
@@ -170,6 +177,13 @@
       <title>Can AI supercharge the Product Design Sprint? - Part  1: Discovery</title>
       <link>https://thoughtbot.com/blog/can-ai-supercharge-the-product-design-sprint-part-1-discovery</link>
       <description>本文探讨了人工智能（AI）如何增强产品设计冲刺（Design Sprint）的效率。作者通过一个众筹活动市场案例，展示了如何利用AI工具如ChatGPT在发现阶段提升创意、加速决策并推动更有效的成果。文章详细介绍了如何利用AI来构建问题陈述、创建关键路径和“如何可能”问题，以优化设计冲刺流程。</description>
+      <pubDate>2024-09-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A guide to Laravel pipelines</title>
+      <link>https://www.honeybadger.io/blog/laravel-pipeline/</link>
+      <description>本文介绍了Laravel管道的概念及其在内部的工作方式。通过使用管道，开发者可以将复杂的处理过程分解成更小的、更易于管理的部分，从而保持代码的清洁、可维护和可测试。文章通过一个示例展示了如何创建自定义管道，并解释了如何将数据通过多个逻辑层进行处理。此外，还讨论了Laravel如何使用管道来处理请求，以及如何通过管道进行单元测试以确保其按预期工作。</description>
       <pubDate>2024-09-16 00:00:00</pubDate>
     </item>
   
