@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Most APIs Suffer From Specification Drift</title>
+      <link>https://nordicapis.com/most-apis-suffer-from-specification-drift/</link>
+      <description>许多API存在规范漂移问题，导致性能不稳定和用户体验下降。APIContext的研究显示，75%的生产API与公开的OpenAPI规范不符，43%的API没有公开规范。为了减少API漂移，建议公开API规范、定期更新并测试API。这有助于提高API的可靠性和安全性，增强开发者信任，并保护品牌声誉。</description>
+      <pubDate>2024-09-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhance LLMs and streamline MLOps using InstructLab and KitOps</title>
+      <link>https://developers.redhat.com/articles/2024/09/16/enhance-llms-instructlab-kitops</link>
+      <description>使用InstructLab和KitOps增强大型语言模型（LLMs）并简化机器学习操作（MLOps）。InstructLab是一个开源工具，可轻松向现有模型添加知识，而KitOps则简化了机器学习模型的打包、版本控制和部署。通过结合这两个工具，可以显著减少重新训练和分发模型的摩擦，提高AI/ML项目的效率。</description>
+      <pubDate>2024-09-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to use Gateway API with OpenShift Service Mesh 2.6</title>
+      <link>https://developers.redhat.com/articles/2024/09/16/how-use-gateway-api-openshift-service-mesh-26</link>
+      <description>本文介绍了如何使用OpenShift Service Mesh 2.6的Gateway API 1.0功能。文章详细说明了在OpenShift集群上启用和配置Gateway API的步骤，包括安装必要的操作符、创建ServiceMeshControlPlane、安装CRDs以及部署示例应用。通过这些步骤，用户可以配置流量并访问运行在OpenShift集群中的应用程序。</description>
+      <pubDate>2024-09-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Can AI supercharge the Product Design Sprint? - Part  1: Discovery</title>
       <link>https://thoughtbot.com/blog/can-ai-supercharge-the-product-design-sprint-part-1-discovery</link>
       <description>本文探讨了人工智能（AI）如何增强产品设计冲刺（Design Sprint）的效率。作者通过一个众筹活动市场案例，展示了如何利用AI工具如ChatGPT在发现阶段提升创意、加速决策并推动更有效的成果。文章详细介绍了如何利用AI来构建问题陈述、创建关键路径和“如何可能”问题，以优化设计冲刺流程。</description>
