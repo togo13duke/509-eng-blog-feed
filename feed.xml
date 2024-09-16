@@ -6,20 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Issues #266 Sep 16, 2024</title>
-      <link>https://betterdev.link/issues/266</link>
-      <description>本周BetterDev链接聚焦于编程和开发相关内容，包括SWIFT支付教程、B-trees和数据库索引、SLO功能比较、CSS :has伪类、椭圆曲线密码学、Git操作等，并提供了一系列工具和资源链接。</description>
-      <pubDate>2024-09-16 12:19:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Why we need an AI safety hotline</title>
-      <link>https://www.technologyreview.com/2024/09/16/1103959/why-we-need-an-ai-safety-hotline/</link>
-      <description>为了应对人工智能（AI）带来的风险，现有的措施不足够保护我们。文章提出，除了测试和内部报告机制外，还需要建立一个AI安全热线，以便员工能够匿名地分享他们的安全担忧，并从专家那里获得反馈。这种热线可以作为一个中间步骤，帮助员工在正式报告之前验证他们的担忧是否合理，同时降低风险。</description>
-      <pubDate>2024-09-16 09:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Most APIs Suffer From Specification Drift</title>
       <link>https://nordicapis.com/most-apis-suffer-from-specification-drift/</link>
       <description>许多API存在规范漂移问题，导致性能不稳定和用户体验下降。APIContext的研究显示，75%的生产API与公开的OpenAPI规范不符，43%的API没有公开规范。为了减少API漂移，建议公开API规范、定期更新并测试API。这有助于提高API的可靠性和安全性，增强开发者信任，并保护品牌声誉。</description>
