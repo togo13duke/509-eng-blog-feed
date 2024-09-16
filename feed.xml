@@ -6,10 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Making Postgres Faster: New Features for 7x Faster Queries and 500x Faster Updates</title>
+      <link>https://www.timescale.com/blog/making-postgres-faster/</link>
+      <description>TimescaleDB通过引入新特性和优化，使PostgreSQL查询速度提高7倍，更新速度提高500倍。这些改进包括智能跳过数据块、压缩元组过滤和索引扫描，以及针对分层存储的优化，从而实现更快的查询和更新，同时降低存储成本。</description>
+      <pubDate>2024-09-16 13:00:12</pubDate>
+    </item>
+  
+    <item>
+      <title>Google is funding an AI-powered satellite constellation that will spot wildfires faster</title>
+      <link>https://www.technologyreview.com/2024/09/16/1103962/google-is-funding-an-ai-powered-satellite-constellation-that-will-spot-wildfires-faster/</link>
+      <description>Google资助了一项AI驱动的卫星星座项目，旨在更快地发现野火。该项目将部署52颗卫星，配备定制传感器，能够检测到全球任何地方的微小火灾，并每20分钟更新一次图像，为消防员提供更快速、有效和安全的灭火数据。这些图像和分析将免费提供给全球消防机构，以帮助改善对火灾位置、移动方向和燃烧强度的理解。</description>
+      <pubDate>2024-09-16 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Issues #266 Sep 16, 2024</title>
       <link>https://betterdev.link/issues/266</link>
       <description>本周BetterDev链接聚焦于编程和开发相关内容，包括SWIFT支付教程、B-trees和数据库索引、SLO功能比较、CSS :has伪类、椭圆曲线密码学、Git操作等，并提供了一系列工具和资源链接。</description>
       <pubDate>2024-09-16 12:19:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Container attributes in Laravel</title>
+      <link>https://freek.dev/2762-container-attributes-in-laravel</link>
+      <description>Laravel容器属性帮助将数据注入到类中，提高代码复用性和灵活性。</description>
+      <pubDate>2024-09-16 12:12:05</pubDate>
     </item>
   
     <item>
