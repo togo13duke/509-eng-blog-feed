@@ -6,6 +6,69 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hyperstore: A Hybrid Row-Storage Engine for T̶i̶m̶e̶ ̶S̶e̶r̶i̶e̶s̶ Real-Time Analytics</title>
+      <link>https://www.timescale.com/blog/hyperstore-a-hybrid-row-storage-engine-for-real-time-analytics/</link>
+      <description>TimescaleDB是一个增强版的PostgreSQL，专为实时分析而设计。它通过其混合行-列存储引擎“Hyperstore”实现了快速的数据摄入和高效查询。Hyperstore结合了行存储和列存储的优点，自动在两者之间切换，以优化实时工作负载的性能。这使得TimescaleDB能够处理高吞吐量的数据摄入、低延迟的查询，并支持数据更新和延迟数据，满足实时分析的需求。</description>
+      <pubDate>2024-09-16 18:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Replit Agent</title>
+      <link>https://blog.replit.com/introducing-replit-agent</link>
+      <description>Replit推出AI系统Replit Agent，可创建和部署应用程序。该系统类似于编程伙伴，可配置开发环境、安装依赖项并执行代码。用户已利用Agent创建各种工具，如医生为患者定制健康仪表板、学生解决校园停车问题，甚至取代昂贵的自动化工具。目前，Replit Agent处于早期访问阶段，面向所有Replit Core订阅者。</description>
+      <pubDate>2024-09-16 17:36:53</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/</link>
+      <description>本周AWS发布了多项新功能，包括Amazon RDS for MySQL的零ETL集成、Oracle Database@AWS的推出、Amazon OpenSearch Service的更新、AWS Resource Access Manager (RAM)与AWS PrivateLink的集成、AWS IAM Identity Center的用户自定义体验等。此外，还举办了AWS GenAI Lofts活动，并推出了AWS认证考试优惠。</description>
+      <pubDate>2024-09-16 17:32:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Omnipresent AI cameras will ensure good behavior, says Larry Ellison</title>
+      <link>https://arstechnica.com/?p=2049906</link>
+      <description>Oracle联合创始人拉里·埃里森在财务会议上展望了由AI驱动的监控未来，认为无处不在的AI摄像头和无人机将确保公民和警察遵守法律，但这一观点引发了关于隐私、公民自由和滥用监控的担忧。</description>
+      <pubDate>2024-09-16 15:22:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Agentforce for Developers: Now Generally Available</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/introducing-agentforce-for-developers.html</link>
+      <description>Salesforce推出面向开发者的Agentforce工具，旨在提高开发效率。该工具利用大型语言模型，简化代码编写，自动化重复性工作，并支持多轮对话和代码解释等功能，助力开发者更快、更安全地构建应用程序。</description>
+      <pubDate>2024-09-16 15:00:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Secure by Design for AI: Building Resilient Systems from the Ground Up</title>
+      <link>https://www.docker.com/blog/secure-by-design-for-ai/</link>
+      <description>AI安全设计至关重要，需从数据管理、监控和模型维护等方面入手，确保AI系统可靠、合规。通过识别数据字段、进行威胁建模、实施数据管理控制和持续调整模型，组织可构建安全设计的AI系统。</description>
+      <pubDate>2024-09-16 14:23:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Real-Time Insurance Claims Processing With Confluent</title>
+      <link>https://www.confluent.io/blog/insurance-claims-stream-processing/</link>
+      <description>本文探讨了如何利用实时数据处理技术加速保险理赔流程。通过使用Confluent的数据流平台和Apache Flink，保险公司能够实现从提交理赔到结算的自动化处理，提高效率和准确性。文章详细介绍了实时理赔处理的五个步骤，包括流式处理新理赔、丰富理赔数据、使用Flink进行数据过滤和路由、处理理赔以及发送通知。这种方法有助于保险公司更好地评估风险和优化定价，同时提高客户满意度。</description>
+      <pubDate>2024-09-16 14:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Using Python's pip to Manage Your Projects' Dependencies</title>
+      <link>https://realpython.com/what-is-pip/</link>
+      <description>本文介绍了如何使用Python的pip来管理项目依赖。首先介绍了pip的基本概念和作用，然后讲解了如何在系统中查找和运行pip，以及如何使用pip在Python虚拟环境中安装和管理包。此外，还讨论了如何解决pip安装过程中可能出现的错误，以及如何使用pip安装第三方包。最后，简要介绍了pip的一些替代工具。</description>
+      <pubDate>2024-09-16 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Some notes on Win32 carets</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240916-00/?p=110272</link>
+      <description>关于Win32光标的笔记：Win32中的光标是下一个输入字符的视觉指示，通常是一个细长的垂直条。光标闪烁速率可由GetCaretBlinkTime函数获取，默认为500毫秒。创建光标时，可以设置尺寸为零让系统选择，或使用位图。系统使用XOR算法绘制光标，背景颜色会影响显示效果。</description>
+      <pubDate>2024-09-16 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Making Postgres Faster: New Features for 7x Faster Queries and 500x Faster Updates</title>
       <link>https://www.timescale.com/blog/making-postgres-faster/</link>
       <description>TimescaleDB通过引入新特性和优化，使PostgreSQL查询速度提高7倍，更新速度提高500倍。这些改进包括智能跳过数据块、压缩元组过滤和索引扫描，以及针对分层存储的优化，从而实现更快的查询和更新，同时降低存储成本。</description>
@@ -31,6 +94,20 @@
       <link>https://freek.dev/2762-container-attributes-in-laravel</link>
       <description>Laravel容器属性帮助将数据注入到类中，提高代码复用性和灵活性。</description>
       <pubDate>2024-09-16 12:12:05</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: an AI safety hotline, and tech for farmers</title>
+      <link>https://www.technologyreview.com/2024/09/16/1103975/the-download-an-ai-safety-hotline-and-tech-for-farmers/</link>
+      <description>MIT Technology Review最新报道了人工智能安全热线和农业技术的应用。文章指出，随着技术公司不断推出更先进的AI模型，监管机构面临挑战，需要新的方法来减轻AI风险。同时，非洲农民利用卫星数据提高作物产量，展示了技术如何帮助解决实际问题。</description>
+      <pubDate>2024-09-16 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Change the Internet, Part 2: Extend Your Chrome Extension</title>
+      <link>https://spin.atomicobject.com/chrome-extension-custom-styling/</link>
+      <description>本文介绍了如何为Chrome扩展程序添加动态切换样式功能。作者首先介绍了在Atomic Object公司开发的一个自定义时间跟踪应用Punchit，并分享了如何使用Chrome扩展来调整内部工具的设计。接着，作者详细讲解了如何添加切换按钮、保存切换状态以及根据切换状态添加或移除样式，最后展望了未来将用户输入直接从弹出窗口中获取以进一步定制网页元素的可能性。</description>
+      <pubDate>2024-09-16 12:00:09</pubDate>
     </item>
   
     <item>
