@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Issues #266 Sep 16, 2024</title>
+      <link>https://betterdev.link/issues/266</link>
+      <description>本周BetterDev链接聚焦于编程和开发相关内容，包括SWIFT支付教程、B-trees和数据库索引、SLO功能比较、CSS :has伪类、椭圆曲线密码学、Git操作等，并提供了一系列工具和资源链接。</description>
+      <pubDate>2024-09-16 12:19:00</pubDate>
+    </item>
+  
+    <item>
+      <title>From Research to Reality: A Product Designer's Journey in Shaping a New Feature</title>
+      <link>https://product.hubspot.com/blog/research-to-reality</link>
+      <description>产品设计师Lindsay Derby分享了她在HubSpot担任设计主管期间，如何通过研究驱动的方法来塑造一个新功能的过程。她强调了理解用户需求、进行用户访谈、定量数据收集、设计思维工作坊、竞争研究和概念测试等关键步骤，以及如何通过不断迭代和用户反馈来优化设计。最终，她强调了将用户置于设计过程中心的重要性，以确保产品能够满足用户需求并产生积极影响。</description>
+      <pubDate>2024-09-16 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How We Dramatically Cut Data Storage Costs in Just One Quarter | No Paid Tools Needed!</title>
+      <link>https://www.haptik.ai/tech/data-storage-costs</link>
+      <description>Haptik通过实施生命周期策略、利用S3的不同存储类别、管理Azure Blob Storage和S3中的版本以及选择合适的磁盘类型，成功在短短一个季度内大幅降低了数据存储成本，无需投资任何付费工具。关键在于主动监控存储使用情况，并根据需要调整策略。</description>
+      <pubDate>2024-09-16 11:22:37</pubDate>
+    </item>
+  
+    <item>
+      <title>iPhone 16 Screen Sizes</title>
+      <link>https://useyourloaf.com/blog/iphone-16-screen-sizes/</link>
+      <description>iPhone 16系列新增两款Pro型号，屏幕尺寸更大，重量更轻，边框更小。基础型号保持与去年iPhone 15相同的屏幕尺寸，但缺少ProMotion和Always-on显示功能。所有型号均采用A18芯片，支持Apple Intelligence。Pro型号采用A18 Pro芯片，配备ProMotion、Always-On显示和Dynamic Island。</description>
+      <pubDate>2024-09-16 09:44:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Why we need an AI safety hotline</title>
+      <link>https://www.technologyreview.com/2024/09/16/1103959/why-we-need-an-ai-safety-hotline/</link>
+      <description>为了应对人工智能（AI）带来的风险，现有的措施不足够保护我们。文章提出，除了测试和内部报告机制外，还需要建立一个AI安全热线，以便员工能够匿名地分享他们的安全担忧，并从专家那里获得反馈。这种热线可以作为一个中间步骤，帮助员工在正式报告之前验证他们的担忧是否合理，同时降低风险。</description>
+      <pubDate>2024-09-16 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Most APIs Suffer From Specification Drift</title>
       <link>https://nordicapis.com/most-apis-suffer-from-specification-drift/</link>
       <description>许多API存在规范漂移问题，导致性能不稳定和用户体验下降。APIContext的研究显示，75%的生产API与公开的OpenAPI规范不符，43%的API没有公开规范。为了减少API漂移，建议公开API规范、定期更新并测试API。这有助于提高API的可靠性和安全性，增强开发者信任，并保护品牌声誉。</description>
@@ -24,6 +59,13 @@
       <link>https://developers.redhat.com/articles/2024/09/16/how-use-gateway-api-openshift-service-mesh-26</link>
       <description>本文介绍了如何使用OpenShift Service Mesh 2.6的Gateway API 1.0功能。文章详细说明了在OpenShift集群上启用和配置Gateway API的步骤，包括安装必要的操作符、创建ServiceMeshControlPlane、安装CRDs以及部署示例应用。通过这些步骤，用户可以配置流量并访问运行在OpenShift集群中的应用程序。</description>
       <pubDate>2024-09-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: A Clever Base</title>
+      <link>https://thedailywtf.com/articles/a-clever-base</link>
+      <description>Remy Porter在《Daily WTF》上撰文，讨论了PHP代码中过度使用魔法方法的例子。文章以一个Base类为例，展示了如何通过复杂的函数调用和魔法方法来处理属性访问，导致代码难以理解和维护。作者批评了这种“聪明”但复杂的编程方式，认为它牺牲了代码的可读性和可维护性。</description>
+      <pubDate>2024-09-16 06:30:00</pubDate>
     </item>
   
     <item>
