@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta</title>
+      <link>https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/</link>
+      <description>GitHub Copilot Extensions现已进入公共测试阶段，允许开发者将他们的工具直接集成到Copilot体验中，提高开发效率。该工具支持定制和集成，使开发者能够构建私有扩展，并理解公司的特定工作流程和编码标准。此外，GitHub还推出了Copilot Extensions Toolkit，帮助开发者构建高质量的扩展。</description>
+      <pubDate>2024-09-17 16:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Auth0 Forms Is Now Generally Available!</title>
+      <link>https://auth0.com/blog/auth0-forms-go-ga/</link>
+      <description>Auth0 Forms现已全面上市，这是一款强大的可视化编辑器，可帮助开发者创建与身份验证流程无缝集成的自定义动态表单。它简化了表单创建过程，无需大量编码，支持个性化注册流程、预建模板、调试模式和多种语言，从而提升用户体验并节省时间。</description>
+      <pubDate>2024-09-17 15:51:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DSL for Modding Minecraft – Part 2</title>
+      <link>https://tomassetti.me/dsl-for-modding-minecraft/</link>
+      <description>本文介绍了如何设计和实现一个用于Minecraft模组的领域特定语言（DSL）。作者Elisa Costantini详细阐述了使用Kotlin语言和Kolasu框架构建DSL的过程，包括语法设计、AST节点创建、代码生成以及错误处理等关键步骤。通过这种方式，读者可以了解如何将DSL应用于Minecraft模组开发，并掌握相关技术。</description>
+      <pubDate>2024-09-17 15:48:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Customizing VS Code Through Color Themes</title>
+      <link>https://realpython.com/courses/custom-vs-code-color-themes/</link>
+      <description>通过颜色主题定制VS Code，提升编码体验。本课程由Philipp Acsany教授，涵盖寻找、安装和调整颜色主题的步骤，帮助您创建符合个人偏好的编码环境。学习结束后，您将拥有一个既美观又提升编码体验的编码环境。</description>
+      <pubDate>2024-09-17 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Docker for Web Developers: Getting Started with the Basics</title>
       <link>https://www.docker.com/blog/docker-for-web-developers/</link>
       <description>Docker为Web开发者提供了一种流行的容器化平台，它通过容器化技术提高开发效率，确保环境一致性，简化依赖管理，并支持微服务架构。Docker允许开发者创建轻量级、可移植的容器，这些容器包含运行应用程序所需的一切，从而实现快速部署和回滚。本文介绍了Docker的基本概念、优势以及如何使用Docker进行Web开发。</description>
@@ -17,6 +45,13 @@
       <link>https://www.timescale.com/blog/boost-postgres-performance-by-7x-with-chunk-skipping-indexes/</link>
       <description>TimescaleDB通过引入分块跳过索引，显著提升了PostgreSQL的性能。这种索引允许数据库在查询时跳过不相关的数据块，从而大幅提高查询速度并减少存储需求。这项功能特别适用于那些无法通过分区键进行查询的场景，通过在相关列上创建索引，数据库能够更有效地处理数据，从而实现更高的性能和更小的存储占用。</description>
       <pubDate>2024-09-17 13:02:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Upgrade Livestreams With Twitch Enhanced Broadcasting and the NVIDIA Encoder</title>
+      <link>https://blogs.nvidia.com/blog/studio-twitch-enhanced-broadcasting-hevc-driver/</link>
+      <description>NVIDIA与Twitch合作推出增强型直播功能，支持HEVC编码，提升视频质量和效率。内容创作者可利用NVIDIA Broadcast应用和RTX加速优化，实现高质量直播。此外，NVIDIA Studio驱动优化创意应用，加速工作流程。</description>
+      <pubDate>2024-09-17 13:00:43</pubDate>
     </item>
   
     <item>
@@ -121,6 +156,29 @@
       <title>Running AI client-side</title>
       <link>https://thoughtbot.com/blog/running-ai-client-side</link>
       <description>本文探讨了在客户端运行AI的可行性和相关权衡。通过使用Transformers.js库，可以实现自然语言处理、计算机视觉和音频处理等多种AI任务。客户端AI的优势在于隐私、成本和离线使用，但可能存在性能、质量和带宽方面的限制。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Resellers: Streamline lifecycle management of Elastic solutions using ArrowSphere</title>
+      <link>https://www.elastic.co/blog/elastic-arrowsphere-resellers-lifecycle-management</link>
+      <description>Elastic与Arrow Electronics合作，通过ArrowSphere平台简化Elastic解决方案的生命周期管理。ArrowSphere平台为分销商提供一站式服务，简化了产品获取、管理、部署和优化流程，从而加快客户AI应用的采用。此合作将使分销商更高效地管理Elastic部署，并降低成本。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Meet DAVE: Discord’s New End-to-End Encryption for Audio &amp; Video</title>
+      <link>https://discord.com/blog/meet-dave-e2ee-for-audio-video</link>
+      <description>Discord推出全新端到端加密协议DAVE，用于音频和视频通话，以保护用户隐私和数据安全。该协议采用透明设计，支持多种安全功能，并兼容所有支持客户端。DAVE协议使用WebRTC编码转换API和消息层安全（MLS）进行密钥交换，确保通话内容仅参与者可见。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using AI for requirements analysis: A case study</title>
+      <link>https://www.thoughtworks.com/insights/blog/generative-ai/using-ai-requirements-analysis-case-study</link>
+      <description>利用人工智能进行需求分析：案例研究
+
+本文探讨了使用生成式人工智能（GenAI）进行需求分析的案例研究。研究团队通过定义范围和目标，利用Haiven工具进行AI辅助，发现AI在提高分析质量和速度方面具有潜力。尽管难以量化影响，但AI辅助使业务分析师和质检员能够更有效地准备讨论，并减少返工。研究强调了上下文编排的重要性，并指出AI在复杂领域中的应用需要更多投入。</description>
       <pubDate>2024-09-17 00:00:00</pubDate>
     </item>
   
