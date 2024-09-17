@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Optimizing Prometheus Remote Write Performance: Guide</title>
+      <link>https://last9.io/blog/optimizing-prometheus-remote-write-performance-guide/</link>
+      <description>优化Prometheus远程写入性能：掌握队列调整、基数管理和重标签策略，以高效扩展监控基础设施。通过减少卡迪纳尔性、优化队列配置、使用重标签和改进网络传输，显著提高远程写入效率。</description>
+      <pubDate>2024-09-16 22:51:26</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI threatens bans for probing new AI model’s “reasoning” process</title>
+      <link>https://arstechnica.com/?p=2049959</link>
+      <description>OpenAI的“Strawberry”AI模型家族推出后，用户试图探究其“思考”过程，但OpenAI通过警告和禁止尝试绕过安全措施，以保护其模型的原始思维链不被泄露。尽管有黑客尝试破解，但OpenAI坚持隐藏这些信息，以维护其商业利益和竞争优势。</description>
+      <pubDate>2024-09-16 22:49:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Secure Boot-neutering PKfail debacle is more prevalent than anyone knew</title>
+      <link>https://arstechnica.com/?p=2050182</link>
+      <description>Secure Boot安全漏洞影响范围远超预期，涉及包括ATM、POS终端和投票机在内的多种设备。这一漏洞源于非生产测试平台密钥的长期使用，导致安全链被破坏。安全公司Binarly发现，受影响的设备型号数量从最初的513个增加到972个，其中约490个型号的密钥信息已公开。这一漏洞可能被用于高级攻击，植入手动启动程序（rootkits）感染受Secure Boot保护的设备。</description>
+      <pubDate>2024-09-16 22:13:12</pubDate>
+    </item>
+  
+    <item>
       <title>Identify root spans in Otel Collector</title>
       <link>https://last9.io/blog/identify-root-spans-in-otel-collector/</link>
       <description>在OpenTelemetry Collector中，识别根跨度是分布式跟踪的关键。根跨度是跟踪层次结构中的顶级跨度，代表整个操作。通过使用过滤器处理器和转换处理器，可以轻松识别根跨度。过滤器处理器允许基于各种标准选择特定的跨度，而转换处理器则允许根据条件修改跨度。了解并有效使用这些处理器对于解决复杂的可观察性挑战至关重要。</description>
