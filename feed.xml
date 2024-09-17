@@ -6,10 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Here’s what I made of Snap’s new augmented-reality Spectacles</title>
+      <link>https://www.technologyreview.com/2024/09/17/1104025/snap-spectacles-ar-glasses/</link>
+      <description>Snap发布的新一代增强现实眼镜Spectacles令人印象深刻。这些眼镜通过内置处理器和摄像头，将视觉信息和应用直接显示在透明天镜上，无需屏幕遮挡视野。它们支持手势控制和语音命令，与周围环境互动，同时保持与人的眼神交流。Spectacles的开发者计划需要订阅，但与OpenAI的合作将帮助开发者创造更具现实感的体验。</description>
+      <pubDate>2024-09-17 18:04:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Inside Bento: Jupyter Notebooks at Meta</title>
+      <link>https://engineering.fb.com/2024/09/17/data-infrastructure/inside-bento-jupyter-notebooks-at-meta/</link>
+      <description>Meta推出内部Jupyter Notebooks平台Bento，支持工程师混合代码、文本和多媒体，用于原型设计和复杂机器学习工作流程。该平台基于开源技术，并集成了多种功能，如定时笔记、同事共享和无需远程服务器组件的WebAssembly运行。</description>
+      <pubDate>2024-09-17 17:53:56</pubDate>
+    </item>
+  
+    <item>
       <title>Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta</title>
       <link>https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/</link>
       <description>GitHub Copilot Extensions现已进入公共测试阶段，允许开发者将他们的工具直接集成到Copilot体验中，提高开发效率。该工具支持定制和集成，使开发者能够构建私有扩展，并理解公司的特定工作流程和编码标准。此外，GitHub还推出了Copilot Extensions Toolkit，帮助开发者构建高质量的扩展。</description>
       <pubDate>2024-09-17 16:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>#WeArePlay | Nkenne: The app teaching African languages and culture</title>
+      <link>http://android-developers.googleblog.com/2024/09/weareplay-nkenne-app-teaching-african-languages-and-culture.html</link>
+      <description>Nkenne是一款由母子和女儿共同开发的APP，旨在教授非洲语言和文化。该APP不仅提供语言学习资源，还致力于记录和保存非洲语言和文化，帮助人们重新连接自己的根源。通过结合语言学习和文化教育，Nkenne旨在丰富学习体验，并促进文化传承。未来，Nkenne计划扩展语言种类，并增强AI翻译功能，同时加强社区互动，让更多人了解和体验非洲文化。</description>
+      <pubDate>2024-09-17 16:00:00</pubDate>
     </item>
   
     <item>
@@ -27,9 +48,23 @@
     </item>
   
     <item>
+      <title>Autumn Sale</title>
+      <link>https://catonmat.net/autumn-sale</link>
+      <description>Browserling和Online Tools每年9月15日推出50%折扣的秋季销售活动。用户访问网站即可享受优惠。</description>
+      <pubDate>2024-09-17 15:22:00</pubDate>
+    </item>
+  
+    <item>
       <title>Customizing VS Code Through Color Themes</title>
       <link>https://realpython.com/courses/custom-vs-code-color-themes/</link>
       <description>通过颜色主题定制VS Code，提升编码体验。本课程由Philipp Acsany教授，涵盖寻找、安装和调整颜色主题的步骤，帮助您创建符合个人偏好的编码环境。学习结束后，您将拥有一个既美观又提升编码体验的编码环境。</description>
+      <pubDate>2024-09-17 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>It rather involved being on the other side of this airtight hatchway: Posting completions to somebody else’s I/O completion port</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240917-00/?p=110276</link>
+      <description>这篇文章探讨了通过攻击线程池I/O完成端口实现代码执行的安全漏洞。攻击者通过创建虚假数据结构并发布到目标进程的线程池I/O完成端口，可以注入恶意代码。文章还讨论了所需的权限和攻击方法，指出即使拥有PROCESS_VM_WRITE权限，攻击者也可以直接覆盖回调指针以接管进程。</description>
       <pubDate>2024-09-17 14:00:00</pubDate>
     </item>
   
@@ -55,10 +90,24 @@
     </item>
   
     <item>
+      <title>New AI Innovation Hub in Tunisia Drives Technological Advancement Across Africa</title>
+      <link>https://blogs.nvidia.com/blog/tunisia-ai-innovation-hub/</link>
+      <description>突尼斯新AI创新中心推动非洲技术进步，该中心由NVIDIA深度学习研究所合作建立，旨在培训非洲开发者，促进AI在非洲的采用。中心位于Novation City科技园区，提供培训、技术和商业网络，支持AI学习、实验和部署。此举旨在加强非洲的STEM和AI教育生态系统，并促进学术界、工业和政府之间的合作。</description>
+      <pubDate>2024-09-17 13:00:26</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: OpenAI’s latest model, and 4D printing’s potential</title>
       <link>https://www.technologyreview.com/2024/09/17/1104008/the-download-openais-latest-model-and-4d-printings-potential/</link>
       <description>OpenAI发布了名为o1的新模型，它在多步骤推理方面表现出色，适用于高级数学、编码等STEM领域问题。此外，4D打印技术正发展成为一个独立领域，研究人员正在探索其在生物医学设备和软体机器人等领域的应用。</description>
       <pubDate>2024-09-17 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Support Open Source Through GitHub Issues</title>
+      <link>https://spin.atomicobject.com/open-source-github-issues/</link>
+      <description>通过GitHub问题支持开源项目，作者分享了如何有效地与GitHub问题进行互动，包括向现有问题添加额外信息、报告新问题以及保持友善的沟通方式。这些建议有助于提高开源项目的质量和用户体验。</description>
+      <pubDate>2024-09-17 12:00:58</pubDate>
     </item>
   
     <item>
@@ -125,6 +174,13 @@
     </item>
   
     <item>
+      <title>Meet America’s Best Employers for Tech Workers 2024</title>
+      <link>https://www.forbes.com/sites/rachelpeachman/2024/09/17/meet-americas-best-employers-for-tech-workers-2024/</link>
+      <description>福布斯发布了2024年美国最佳雇主榜单，针对科技工作者推荐的优秀企业。榜单基于超过25,000名科技工作者的调查，考虑了薪资、职业发展、工作灵活性等因素。排名前列的公司包括政府部门、商业服务、能源和零售等行业，其中Salesforce、Google、Microsoft等科技巨头也位列其中。</description>
+      <pubDate>2024-09-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>David Pérez: Ensuring plugins security, encouraging growth</title>
       <link>https://www.hostinger.com/blog/david-perez</link>
       <description>David Pérez，作为营销机构的首席技术官和WordPress插件团队的插件审查员，致力于确保插件安全并促进增长。他自2010年起成为WordPress的忠实用户，并积极参与当地WordCamp社区。David通过自己的技术知识和营销背景，在插件审查过程中发挥着重要作用，同时也在社区中推广WordPress。他的工作包括代码审查、界面评估、工具改进和社区参与，旨在提升WordPress插件的质量和安全性。</description>
@@ -167,6 +223,13 @@
     </item>
   
     <item>
+      <title>What's in an (Alias) Name?</title>
+      <link>https://go.dev/blog/alias-names</link>
+      <description>Go语言中，类型别名允许为现有类型提供新名称，而不会引入具有不同身份的新类型。这有助于在重构大型代码库时，将类型从一个包迁移到另一个包，同时保持类型的一致性。Go 1.24版本将支持在别名类型上使用类型参数，以支持泛型类型的增量重构。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Meet DAVE: Discord’s New End-to-End Encryption for Audio &amp; Video</title>
       <link>https://discord.com/blog/meet-dave-e2ee-for-audio-video</link>
       <description>Discord推出全新端到端加密协议DAVE，用于音频和视频通话，以保护用户隐私和数据安全。该协议采用透明设计，支持多种安全功能，并兼容所有支持客户端。DAVE协议使用WebRTC编码转换API和消息层安全（MLS）进行密钥交换，确保通话内容仅参与者可见。</description>
@@ -179,6 +242,20 @@
       <description>利用人工智能进行需求分析：案例研究
 
 本文探讨了使用生成式人工智能（GenAI）进行需求分析的案例研究。研究团队通过定义范围和目标，利用Haiven工具进行AI辅助，发现AI在提高分析质量和速度方面具有潜力。尽管难以量化影响，但AI辅助使业务分析师和质检员能够更有效地准备讨论，并减少返工。研究强调了上下文编排的重要性，并指出AI在复杂领域中的应用需要更多投入。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Town Hall #25: Simularium</title>
+      <link>https://taylor.town/town-hall-0025</link>
+      <description>在UC Santa Cruz发现了名为Simularium的房间，配备投影仪。作者分享了自己关于哥德尔不完备定理和P/NP问题的歌曲，并讨论了写作实验和即将到来的LIVE 2024。此外，作者还计划离开南加州前往西雅图，并分享了自己的旅行计划。他还提到了对编译时合约的研究、用户界面的演变、音乐推荐以及阅读的书评。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Publish an NPM Package to JFrog Artifactory</title>
+      <link>https://jaketrent.com/post/publish-npm-package-jfrog-artifactory</link>
+      <description>如何将NPM包发布到JFrog Artifactory：首先创建Artifactory令牌，然后构建NPM包，设置GitHub Actions进行构建和发布，最后在客户端项目中配置npm以从Artifactory安装包。</description>
       <pubDate>2024-09-17 00:00:00</pubDate>
     </item>
   
