@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Running AI client-side</title>
+      <link>https://thoughtbot.com/blog/running-ai-client-side</link>
+      <description>本文探讨了在客户端运行AI的可行性和相关权衡。通过使用Transformers.js库，可以实现自然语言处理、计算机视觉和音频处理等多种AI任务。客户端AI的优势在于隐私、成本和离线使用，但可能存在性能、质量和带宽方面的限制。</description>
+      <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Optimizing Prometheus Remote Write Performance: Guide</title>
       <link>https://last9.io/blog/optimizing-prometheus-remote-write-performance-guide/</link>
       <description>优化Prometheus远程写入性能：掌握队列调整、基数管理和重标签策略，以高效扩展监控基础设施。通过减少卡迪纳尔性、优化队列配置、使用重标签和改进网络传输，显著提高远程写入效率。</description>
