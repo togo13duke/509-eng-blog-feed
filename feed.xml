@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Looking under the hood at the tech stack that powers multimodal AI</title>
+      <link>https://stackoverflow.blog/2024/09/17/looking-under-the-hood-of-multimodal-ai/</link>
+      <description>LiveKit的联合创始人兼CEO Ryan与Russ d'Sa探讨了多模态AI及其背后的技术，包括WebRTC和UDP协议在实时音频和视频流中的应用。他们还讨论了确保流数据隐私和安全的挑战，如端到端加密和混淆。多模态AI结合了音频、视频、文本等多种模态，以实现更人性化的交互和高质量的AI模型响应。</description>
+      <pubDate>2024-09-17 07:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>12 Top Performing LLMs In 2024</title>
+      <link>https://nordicapis.com/12-top-performing-llms-in-2024/</link>
+      <description>2024年，众多高性能LLM（大型语言模型）涌现，为API开发带来新机遇。本文分析了BERT、Claude 3.5、Coral等12款LLM的优缺点，探讨了它们在API开发中的应用场景和优势，为开发者提供参考。</description>
+      <pubDate>2024-09-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DevOps with OpenShift Pipelines and OpenShift GitOps</title>
+      <link>https://developers.redhat.com/articles/2024/09/17/devops-openshift-pipelines-gitops</link>
+      <description>Red Hat OpenShift的Pipelines和GitOps结合提供DevOps解决方案的核心组件。Pipelines负责持续集成（CI），GitOps负责持续交付（CD）。两者可独立使用或协同工作，通过Tekton和Argo CD技术，实现高效、可视化的工作流程和资源管理，提高开发效率。</description>
+      <pubDate>2024-09-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Network observability on demand</title>
+      <link>https://developers.redhat.com/articles/2024/09/17/network-observability-demand</link>
+      <description>Red Hat推出网络可观察性CLI，这是一个轻量级的流量和数据包可视化工具，用于在Kubernetes集群中部署NetObserv eBPF代理和flowlogs-pipeline，以收集节点网络接口的流量或数据包，并将数据流式传输到单个收集器进行分析和可视化。该工具允许用户通过简单命令捕获流量或数据包，无需安装和配置操作员。</description>
+      <pubDate>2024-09-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>David Pérez: Ensuring plugins security, encouraging growth</title>
+      <link>https://www.hostinger.com/blog/david-perez</link>
+      <description>David Pérez，作为营销机构的首席技术官和WordPress插件团队的插件审查员，致力于确保插件安全并促进增长。他自2010年起成为WordPress的忠实用户，并积极参与当地WordCamp社区。David通过自己的技术知识和营销背景，在插件审查过程中发挥着重要作用，同时也在社区中推广WordPress。他的工作包括代码审查、界面评估、工具改进和社区参与，旨在提升WordPress插件的质量和安全性。</description>
+      <pubDate>2024-09-17 06:46:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Acrobatics to IT: Deividas’ 200-kilometer hike and leap into the unknown</title>
+      <link>https://www.hostinger.com/blog/deividas-toleikis-story</link>
+      <description>Deividas Toleikis，一位前体育爱好者，在经历职业转型后，完成了200公里的徒步挑战，展现了他的坚韧和决心。他从体育转向IT行业，在Hostinger担任质量保证工程师，同时保持对运动的热爱，这帮助他在工作和个人生活中保持活力。他的故事鼓励人们勇敢追求新挑战，相信自己的能力。</description>
+      <pubDate>2024-09-17 06:28:08</pubDate>
+    </item>
+  
+    <item>
       <title>Running AI client-side</title>
       <link>https://thoughtbot.com/blog/running-ai-client-side</link>
       <description>本文探讨了在客户端运行AI的可行性和相关权衡。通过使用Transformers.js库，可以实现自然语言处理、计算机视觉和音频处理等多种AI任务。客户端AI的优势在于隐私、成本和离线使用，但可能存在性能、质量和带宽方面的限制。</description>
@@ -226,6 +268,15 @@
       <title>Making the Web more Awesome — for everyone</title>
       <link>https://lea.verou.me/blog/2024/awesome/</link>
       <description>Lea Verou宣布她将加入Font Awesome公司，担任产品主管。她将在公司产品中评估用户需求，并专注于即将推出的Web Awesome产品，该产品将利用Web组件和CSS革新Web界面构建方式。Lea还计划分享她职业生涯的转变，包括从MIT的研究工作到Font Awesome的加入，以及她如何使用Web技术完成博士论文的经历。</description>
+      <pubDate>2024-09-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How AI Agents Will Reshape Your Growth Marketing Strategy</title>
+      <link>https://www.twilio.com/en-us/blog/ai-agents-growth-marketing-strategy</link>
+      <description>人工智能代理将如何重塑您的增长营销策略
+
+随着人工智能的快速发展，AI代理正成为技术革新的先锋，它们将改变我们与技术的互动方式，以及企业如何与客户互动。作为增长营销者，了解AI代理的影响至关重要。AI代理能够分析输入、做出决策并执行任务，它们可以跨渠道运作，并适应新的信息和过去的互动。这些代理将改变客户数据的使用方式，为营销活动带来新的可能性，并重塑客户旅程。</description>
       <pubDate>2024-09-16 00:00:00</pubDate>
     </item>
   
