@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Confluent’s OEM Program: Deliver Data Streaming Faster and Unlock Revenue Growth</title>
+      <link>https://www.confluent.io/blog/oem-program-introduction/</link>
+      <description>Confluent的OEM计划通过将行业领先的数据流平台集成到客户产品中，帮助MSPs、CSPs和ISVs快速开启新的收入渠道。该计划基于Apache Kafka和Apache Flink，提供高度可靠的企业级数据流解决方案，简化了数据流产品的市场推广，并降低了成本和风险。</description>
+      <pubDate>2024-09-17 11:45:01</pubDate>
+    </item>
+  
+    <item>
       <title>Why OpenAI’s new model is such a big deal</title>
       <link>https://www.technologyreview.com/2024/09/17/1104004/why-openais-new-model-is-such-a-big-deal/</link>
       <description>OpenAI发布的新模型o1（曾用代号“Strawberry”和“Q*”）在复杂推理领域取得了突破，适用于高级数学、编码等领域。该模型通过“思维链”技术，能够识别和纠正错误，将复杂步骤分解为更简单的步骤，并在当前方法无效时尝试不同的方法。在数学竞赛和博士水平问题上的表现优于GPT-4o，标志着LLM在解决重要问题方面的潜力。</description>
@@ -59,6 +66,13 @@
       <link>https://www.hostinger.com/blog/deividas-toleikis-story</link>
       <description>Deividas Toleikis，一位前体育爱好者，在经历职业转型后，完成了200公里的徒步挑战，展现了他的坚韧和决心。他从体育转向IT行业，在Hostinger担任质量保证工程师，同时保持对运动的热爱，这帮助他在工作和个人生活中保持活力。他的故事鼓励人们勇敢追求新挑战，相信自己的能力。</description>
       <pubDate>2024-09-17 06:28:08</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenSearch Project Joins the Linux Foundation</title>
+      <link>https://code.dblock.org/2024/09/17/opensearch-joins-the-linux-foundation.html</link>
+      <description>OpenSearch项目加入Linux基金会，由Amazon将开源项目转移至Linux基金会，确保了该技术的长期可行性。作者Daniel Doubrovkine回顾了OpenSearch的发展历程，包括在Amazon内部的挑战和决策过程，以及为何最终支持将项目转移到中立基金会。</description>
+      <pubDate>2024-09-17 01:00:00</pubDate>
     </item>
   
     <item>
@@ -298,6 +312,13 @@
       <description>人工智能代理将如何重塑您的增长营销策略
 
 随着人工智能的快速发展，AI代理正成为技术革新的先锋，它们将改变我们与技术的互动方式，以及企业如何与客户互动。作为增长营销者，了解AI代理的影响至关重要。AI代理能够分析输入、做出决策并执行任务，它们可以跨渠道运作，并适应新的信息和过去的互动。这些代理将改变客户数据的使用方式，为营销活动带来新的可能性，并重塑客户旅程。</description>
+      <pubDate>2024-09-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Should Anyone Be Led by You?</title>
+      <link>https://gagor.pro/books/2024/why-should-anyone-be-lead-by-you/</link>
+      <description>这本书探讨了“真诚领导力”的概念，强调领导风格没有统一模式，领导者需真诚展现自我，结合个人特质和经验，以激发他人。真诚领导力不是遵循公式，而是发展符合自身特点并激励他人的风格。</description>
       <pubDate>2024-09-16 00:00:00</pubDate>
     </item>
   
