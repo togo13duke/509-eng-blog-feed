@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why OpenAI’s new model is such a big deal</title>
+      <link>https://www.technologyreview.com/2024/09/17/1104004/why-openais-new-model-is-such-a-big-deal/</link>
+      <description>OpenAI发布的新模型o1（曾用代号“Strawberry”和“Q*”）在复杂推理领域取得了突破，适用于高级数学、编码等领域。该模型通过“思维链”技术，能够识别和纠正错误，将复杂步骤分解为更简单的步骤，并在当前方法无效时尝试不同的方法。在数学竞赛和博士水平问题上的表现优于GPT-4o，标志着LLM在解决重要问题方面的潜力。</description>
+      <pubDate>2024-09-17 08:59:38</pubDate>
+    </item>
+  
+    <item>
       <title>Looking under the hood at the tech stack that powers multimodal AI</title>
       <link>https://stackoverflow.blog/2024/09/17/looking-under-the-hood-of-multimodal-ai/</link>
       <description>LiveKit的联合创始人兼CEO Ryan与Russ d'Sa探讨了多模态AI及其背后的技术，包括WebRTC和UDP协议在实时音频和视频流中的应用。他们还讨论了确保流数据隐私和安全的挑战，如端到端加密和混淆。多模态AI结合了音频、视频、文本等多种模态，以实现更人性化的交互和高质量的AI模型响应。</description>
       <pubDate>2024-09-17 07:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Advancing Our Chef Infrastructure</title>
+      <link>https://slack.engineering/advancing-our-chef-infrastructure/</link>
+      <description>Slack通过将Chef基础设施从单一堆栈转变为多个分片堆栈，增强了其Chef基础设施的可靠性和可扩展性。这一转变解决了单点故障的风险，并引入了新的服务如Chef Librarian来管理cookbook版本和独立更新环境，从而提高了部署效率和稳定性。</description>
+      <pubDate>2024-09-17 07:00:57</pubDate>
     </item>
   
     <item>
@@ -52,6 +66,13 @@
       <link>https://thoughtbot.com/blog/running-ai-client-side</link>
       <description>本文探讨了在客户端运行AI的可行性和相关权衡。通过使用Transformers.js库，可以实现自然语言处理、计算机视觉和音频处理等多种AI任务。客户端AI的优势在于隐私、成本和离线使用，但可能存在性能、质量和带宽方面的限制。</description>
       <pubDate>2024-09-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>[Math] Cracking Wi-Fi password using combinatorics, part II</title>
+      <link>https://yurichev.com/n/wifi_comb2/</link>
+      <description>本文探讨了使用组合数学破解Wi-Fi密码的方法。作者通过在基辅的购物中心收集WPA2握手信息，展示了如何通过编写脚本和利用常见的密码模式来破解Wi-Fi密码。文章中提到了多种常见的密码组合，如ESSID、日期、数字和公司名称，并展示了如何通过编程生成和排列这些密码来提高破解成功率。作者还讨论了如何使用字典中的单词和数字来生成密码，并提到了一些技术细节，如忽略PMKID信息。</description>
+      <pubDate>2024-09-16 23:00:00</pubDate>
     </item>
   
     <item>
