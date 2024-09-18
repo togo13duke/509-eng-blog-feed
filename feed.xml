@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The 10 best tools to green your software</title>
+      <link>https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/</link>
+      <description>GitHub发布了一篇关于绿色软件工具的文章，列出了10个有助于减少软件碳足迹的工具，包括Scaphandre、Kepler、Code Carbon等，旨在帮助开发者以更可持续的方式编写代码。</description>
+      <pubDate>2024-09-18 16:00:52</pubDate>
+    </item>
+  
+    <item>
       <title>HCP Terraform adds run queue visibility and new ephemeral workspace features</title>
       <link>https://www.hashicorp.com/blog/hcp-terraform-adds-run-queue-visibility-and-new-ephemeral-workspace-features</link>
       <description>HCP Terraform新增了运行队列可见性和新的临时工作区功能，包括HCP Terraform的运行队列可见性、项目范围内的临时工作区以及使用Terraform提供程序管理HCP Terraform和Terraform Enterprise的临时工作区。这些改进旨在简化IT操作，提高开发速度并降低成本。</description>
@@ -13,10 +20,87 @@
     </item>
   
     <item>
+      <title>NVIDIA AI Aerial Launches to Optimize Wireless Networks, Deliver New Generative AI Experiences on One Platform</title>
+      <link>https://blogs.nvidia.com/blog/ai-aerial-wireless-networks/</link>
+      <description>NVIDIA推出AI Aerial平台，旨在优化无线网络并推动生成式AI的发展。该平台支持AI-RAN，将RAN技术转变为AI驱动的计算基础设施，为电信运营商提供网络优化和新的收入机会，支持多种应用，如机器人、自动驾驶汽车、智能工厂等。</description>
+      <pubDate>2024-09-18 15:33:35</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #84: Central banks</title>
+      <link>https://www.bambooweekly.com/bw-84-central-banks/</link>
+      <description>全球通胀正在下降，各国央行相应地降低利率。美国联邦储备银行预计将宣布四年来的首次降息。本文将探讨全球央行利率，数据来源于国际清算银行，并提出了六个相关任务和问题，旨在提高数据处理技能。</description>
+      <pubDate>2024-09-18 15:00:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Software as a public good</title>
+      <link>https://github.blog/open-source/social-impact/software-as-a-public-good/</link>
+      <description>开源软件已成为经济、公共服务和国际组织的基础，其价值巨大。然而，许多开源项目资金不足，GitHub与Linux基金会和哈佛商学院合作研究如何支持开源。联合国也承诺支持开源，并推动全球数字契约，增加对数字公共商品（DPGs）的资助。GitHub通过Sponsors、Accelerator和Fund等项目支持开源项目，并鼓励行业和政府合作解决开源维护的可持续性问题。开源软件应被视为公共商品，其维护应成为行业和政府支出的重要部分。</description>
+      <pubDate>2024-09-18 15:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Python 3.13 Preview: Free Threading and a JIT Compiler</title>
+      <link>https://realpython.com/python313-free-threading-jit/</link>
+      <description>Python 3.13预览版引入了免费线程和即时编译器（JIT），旨在显著提升代码性能。本文介绍了如何从源代码编译自定义Python构建，禁用全局解释器锁（GIL），启用JIT编译器，并评估新功能的可用性和性能改进。这些实验性功能目前为高级用户设计，需在构建时手动启用。</description>
+      <pubDate>2024-09-18 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bridging the Gap Between Compressed and Uncompressed Data in Postgres: Introducing Compression Tuple Filtering</title>
+      <link>https://www.timescale.com/blog/bridging-the-gap-between-compressed-and-uncompressed-data-in-postgres/</link>
+      <description>TimescaleDB 2.16.0版本通过引入压缩元组过滤技术，显著提升了PostgreSQL在压缩数据上的更新、删除和插入操作的速度，最高可达500倍。这一优化使得压缩数据在保持性能和灵活性的同时，更接近于未压缩数据的行为。</description>
+      <pubDate>2024-09-18 13:00:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudera Evaluates Integrated Data and AI Exchange Business Line to Optimize Data-Driven Generative AI Use Cases</title>
+      <link>https://blog.cloudera.com/cloudera-evaluates-integrated-data-and-ai-exchange-business-line-to-optimize-data-driven-generative-ai-use-cases/</link>
+      <description>Cloudera正在评估其新的业务线Cloudera Integrated Data and AI Exchange (InDaiX)，以优化数据驱动的生成式AI应用。InDaiX提供灵活性和可扩展性，简化了数据消费者访问和整合多样化数据源和AI基础模型的过程。该平台包括数据集交换、AI基础模型交换、独特的数据集成和实验能力，以及可扩展性和灵活性，旨在帮助企业创建新的数据资产，并在私有或公共云中运行工作负载。</description>
+      <pubDate>2024-09-18 13:00:34</pubDate>
+    </item>
+  
+    <item>
+      <title>How SonicJobs Uses AI Agents to Connect the Internet, Starting with Jobs</title>
+      <link>https://blogs.nvidia.com/blog/sonicjobs/</link>
+      <description>SonicJobs利用人工智能技术，通过在招聘平台上直接完成申请，提高申请转化率，从5%提升至26%，解决了传统招聘流程中的跳转问题。公司结合传统AI和大型语言模型，优化了招聘流程，强调对基础模型的微调以实现更有效和可扩展的创新。</description>
+      <pubDate>2024-09-18 13:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Content Link can now be used with Contentful</title>
+      <link>https://vercel.com/changelog/content-link-can-now-be-used-with-contentful</link>
+      <description>Vercel宣布Contentful的Content Link功能现已支持Pro和Enterprise客户使用，允许直接在Vercel网站上编辑内容，并链接到CMS中的具体位置。此功能适用于使用Contentful Premium计划的客户。Markdown格式暂不支持，详细说明请参考文档。</description>
+      <pubDate>2024-09-18 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Congress’s AI bills, and Snap’s new AR spectacles</title>
+      <link>https://www.technologyreview.com/2024/09/18/1104135/the-download-congresss-ai-bills-and-snaps-new-ar-spectacles/</link>
+      <description>美国国会正在审议超过120项与人工智能监管相关的法案，这反映了国会希望跟上技术进步的迫切心情。Snap公司推出了新的增强现实眼镜，Google计划发射一系列卫星以更快地监测野火。此外，还有关于选举深伪、Instagram青少年账户、SpaceX违规和电动汽车在挪威普及等科技新闻。</description>
+      <pubDate>2024-09-18 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Create a Great Workflow for Blog Posts with Asciidoctor</title>
+      <link>https://spin.atomicobject.com/blog-posts-asciidoctor/</link>
+      <description>使用Asciidoctor和Make自动化博客文章的创建和发布流程，通过将AsciiDoc文件转换为HTML，实现高效的内容编辑和发布。该流程包括设置目录结构、编写Makefile和脚本，以及利用Asciidoctor的强大功能，如代码块和文件嵌入，提高写作效率。</description>
+      <pubDate>2024-09-18 12:00:14</pubDate>
+    </item>
+  
+    <item>
       <title>Unlocking Real-Time Insights and Making Migrations a Breeze: 13 New Partner Solutions and Offerings Launched</title>
       <link>https://www.confluent.io/blog/Build-With-Confluent-and-Migration-Accelerator-New-Solutions/</link>
       <description>Confluent推出11项新合作伙伴解决方案和2项迁移服务，旨在简化数据流迁移和加速实时数据应用。新合作伙伴包括BearingPoint、Converge、EPAM等，提供从医疗培训到云加速器的多样化解决方案。Confluent致力于通过这些创新，帮助客户实现数字化转型和业务增长。</description>
       <pubDate>2024-09-18 11:30:02</pubDate>
+    </item>
+  
+    <item>
+      <title>5 Social Media Automation Tools to Boost Your Digital Marketing Efficiency</title>
+      <link>https://s14415.pcdn.co/blog/social-media-automation-tools/</link>
+      <description>本文探讨了五款社交媒体自动化工具，旨在提高数字营销效率。这些工具能帮助用户节省时间，实现内容的一致发布，并提供深入的分析，从而提升社交媒体营销效果。文章详细介绍了每款工具的关键功能和优势，包括Brandwatch、Hootsuite、Buffer等，并针对不同规模的企业和营销团队提供了使用建议。</description>
+      <pubDate>2024-09-18 10:57:04</pubDate>
     </item>
   
     <item>
@@ -76,6 +160,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: String in your Colon</title>
+      <link>https://thedailywtf.com/articles/string-in-your-colon</link>
+      <description>Remy Porter在CodeSOD上分享了一个C语言处理字符串的例子。该代码通过在冒号处插入空字符来分割字符串，并重复此过程直到没有更多的冒号。代码中存在一个不必要的while循环，这是C语言中常见的字符串处理方法，但可能存在错误。</description>
+      <pubDate>2024-09-18 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Add movement to your prototypes with Smart Animate — now in Sketch</title>
       <link>https://www.sketch.com/blog/smart-animate/</link>
       <description>Sketch最新更新引入了Smart Animate功能，通过动画增强原型设计。该功能可自动在多个画板间动画化相同名称的图层变化，类似于Keynote中的Magic Move。Smart Animate支持自定义动画类型、持续时间和缓动效果，适用于进度指示、信息渐进显示、界面细节增强等多种场景，使设计更生动、直观。</description>
@@ -95,6 +186,21 @@
       <title>Large language model evaluation: The key to GenAI success</title>
       <link>https://www.thoughtworks.com/insights/blog/generative-ai/Large-language-model-evaluation-the-key-to-GenAI-success</link>
       <description>大型语言模型（LLM）在生成式AI（GenAI）领域处于创新前沿，但评估其性能和避免不良后果是组织面临的主要挑战。文章讨论了LLM评估的挑战和潜在解决方案，包括使用其他模型进行评估、破解“黑盒”问题以及几何和拓扑方法的应用。通过持续评估和平衡创新与监管，组织可以确保AI解决方案的成功部署。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic named a Leader in IDC MarketScape: Worldwide SIEM for Enterprise 2024</title>
+      <link>https://www.elastic.co/blog/elastic-leader-idc-marketscape-worldwide-siem-enterprise-2024</link>
+      <description>Elastic Security被评为IDC MarketScape 2024年全球企业级SIEM市场领导者，其AI驱动的安全分析现代化威胁检测、调查和响应。Elastic Security通过其与Elastic Search AI平台的集成，利用生成式AI简化安全操作工作流程，并支持XDR和多种安全功能。该解决方案提供免费的核心SIEM功能，并可在云、本地或混合环境中部署。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Creating a winning sales flow with authentic writing from engineers</title>
+      <link>https://evilmartians.com/chronicles/creating-a-winning-sales-flow-with-authentic-writing-from-engineers</link>
+      <description>总结：
+本文探讨了如何通过工程师的真实写作来创建有效的销售流程。文章强调了开发者作为目标受众的重要性，并解释了为什么开发者参与销售和营销是必要的。文章还提供了如何激励开发者写作的建议，包括认可、奖金、分配写作时间、提供指导和编辑支持，以及保持透明度。通过这些方法，公司可以建立信任，并从开发者内容中获得实际业务成果。</description>
       <pubDate>2024-09-18 00:00:00</pubDate>
     </item>
   
@@ -264,6 +370,13 @@
       <link>https://www.confluent.io/blog/2024-q3-confluent-cloud-launch/</link>
       <description>Confluent Cloud在2024年第三季度推出了多项更新，包括Flink的改进、客户端字段级加密、新的代理指标以简化规模调整等。这些更新旨在增强数据流平台的流、连接、处理和治理功能，同时与合作伙伴生态系统合作，帮助客户发现新的可能性。</description>
       <pubDate>2024-09-17 12:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Using Python's pip to Manage Your Projects' Dependencies</title>
+      <link>https://realpython.com/quizzes/what-is-pip/</link>
+      <description>本文章介绍了一个关于使用Python的pip包管理器的互动测验。测验旨在测试读者对pip概念、重要命令以及如何安装包的理解。测验包含8个问题，无时间限制，每答对一题得1分，最终获得总分，最高分为100%。</description>
+      <pubDate>2024-09-17 12:00:00</pubDate>
     </item>
   
     <item>
