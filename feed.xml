@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Now available: Graviton4-powered memory-optimized Amazon EC2 X8g instances</title>
+      <link>https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/</link>
+      <description>亚马逊发布新型Graviton4驱动的内存优化Amazon EC2 X8g实例，提供高达3TiB的DDR5内存和192个vCPU，适用于电子设计自动化、内存数据库、关系数据库、实时分析和内存受限的微服务。这些实例具有最佳的价格性能和扩展能力，支持多种工作负载，并具备增强的安全特性。</description>
+      <pubDate>2024-09-18 19:46:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Security best practices for the Databricks Data Intelligence Platform</title>
+      <link>https://www.databricks.com/blog/security-best-practices-databricks-data-intelligence-platform</link>
+      <description>Databricks Data Intelligence Platform提供了一系列安全最佳实践，以保护数据和分析资产。文章介绍了如何利用平台的高级控制和安全功能，包括多因素认证、私有链接、访问策略和监控工具，以建立多层次的安全防御。建议采取“定义、部署和监控”的方法，利用Databricks安全团队开发的最佳实践指南和资源，确保数据安全。</description>
+      <pubDate>2024-09-18 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Data engineering professional certificate: New hands-on specialization by DeepLearning.AI and AWS</title>
+      <link>https://aws.amazon.com/blogs/aws/data-engineering-professional-certificate-new-hands-on-specialization-by-deeplearning-ai-and-aws/</link>
+      <description>DeepLearning.AI与AWS合作推出数据工程专业证书，旨在培养数据工程师的核心技能。该证书课程涵盖数据架构、数据操作、数据管理等关键领域，通过实际操作和AWS云平台进行学习，帮助学员掌握数据工程的生命周期。课程包括四个实战课程，完成后可获得Coursera课程证书。</description>
+      <pubDate>2024-09-18 18:50:29</pubDate>
+    </item>
+  
+    <item>
       <title>How We Made PostgreSQL Upserts 300x Faster on Compressed Data</title>
       <link>https://www.timescale.com/blog/how-we-made-postgresql-upserts-300x-faster-on-compressed-data/</link>
       <description>TimescaleDB通过优化压缩数据上的upsert性能，将PostgreSQL的upsert操作速度提升了300倍。这一改进通过使用现有的索引来快速定位需要解压缩的数据块，从而减少了冲突解决和批量解压缩所需的时间。</description>
@@ -110,6 +131,13 @@
       <link>https://vercel.com/changelog/content-link-can-now-be-used-with-contentful</link>
       <description>Vercel宣布Contentful的Content Link功能现已支持Pro和Enterprise客户使用，允许直接在Vercel网站上编辑内容，并链接到CMS中的具体位置。此功能适用于使用Contentful Premium计划的客户。Markdown格式暂不支持，详细说明请参考文档。</description>
       <pubDate>2024-09-18 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Algolia was named a Leader in the Gartner® Magic Quadrant™ Report</title>
+      <link>https://algolia.com/blog/algolia/why-algolia-was-named-a-leader-in-the-gartner-magic-quadrant-report/</link>
+      <description>Algolia因其AI搜索解决方案在Gartner® Magic Quadrant™报告中被评为领导者而感到自豪。该报告基于Algolia在执行能力和愿景完整性方面的表现。Algolia的AI搜索提供先进的工具和功能，如AI浏览、AI推荐、商品化工作室和数据分析，支持全球70多种语言，每年处理超过1.7万亿个客户查询，并确保99.999%的在线时间。</description>
+      <pubDate>2024-09-18 12:28:06</pubDate>
     </item>
   
     <item>
@@ -245,6 +273,13 @@
       <link>https://evilmartians.com/chronicles/creating-a-winning-sales-flow-with-authentic-writing-from-engineers</link>
       <description>总结：
 本文探讨了如何通过工程师的真实写作来创建有效的销售流程。文章强调了开发者作为目标受众的重要性，并解释了为什么开发者参与销售和营销是必要的。文章还提供了如何激励开发者写作的建议，包括认可、奖金、分配写作时间、提供指导和编辑支持，以及保持透明度。通过这些方法，公司可以建立信任，并从开发者内容中获得实际业务成果。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The big ideas behind retrieval augmented generation</title>
+      <link>https://www.elastic.co/blog/retrieval-augmented-generation-explained</link>
+      <description>本文探讨了检索增强生成（RAG）在生成式AI中的应用，通过结合语义搜索和LLM，使AI能够根据私有数据源提供更准确、更符合特定需求的回答。文章指出，尽管LLM在理解和回应用户输入方面表现出色，但它们依赖于公共数据，可能缺乏特定领域的信息。RAG通过在提示中包含必要信息，允许现有LLM与额外内容协同工作，从而克服了这一限制。文章还讨论了向量嵌入和语义搜索在实现这一目标中的作用，以及如何通过优化提示和选择合适的嵌入模型来提高AI的性能。</description>
       <pubDate>2024-09-18 00:00:00</pubDate>
     </item>
   
