@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How We Made PostgreSQL Upserts 300x Faster on Compressed Data</title>
+      <link>https://www.timescale.com/blog/how-we-made-postgresql-upserts-300x-faster-on-compressed-data/</link>
+      <description>TimescaleDB通过优化压缩数据上的upsert性能，将PostgreSQL的upsert操作速度提升了300倍。这一改进通过使用现有的索引来快速定位需要解压缩的数据块，从而减少了冲突解决和批量解压缩所需的时间。</description>
+      <pubDate>2024-09-18 18:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Improving GitHub Copilot Completions in Visual Studio for C# Developers</title>
+      <link>https://devblogs.microsoft.com/dotnet/improving-github-copilot-completions-in-visual-studio-for-csharp-developers/</link>
+      <description>GitHub Copilot在Visual Studio中的C#代码补全功能得到改进，通过考虑更多相关上下文，如可用类型和方法，以提供更准确和相关的建议。新版本自动考虑语义相关的文件，即使这些文件未在编辑器中打开，从而减少错误建议。</description>
+      <pubDate>2024-09-18 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unleash Your Innovation: Announcing the Databricks Generative AI Startup Challenge with Over $1 Million in Credits, Prizes, and Potential Venture Funding</title>
+      <link>https://www.databricks.com/blog/unleash-your-innovation-announcing-databricks-generative-ai-startup-challenge-over-1m-prizes</link>
+      <description>Databricks推出了一项名为“Databricks生成式AI初创企业挑战赛”，为使用Databricks构建创新产品的早期初创企业提供超过100万美元的奖金、奖品和潜在风险投资。参赛者需满足特定资格条件，包括公司成立时间、融资情况等。挑战赛旨在鼓励初创企业利用生成式AI解决现实世界问题，并有机会获得投资、产品信用和行业曝光。</description>
+      <pubDate>2024-09-18 17:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The 10 best tools to green your software</title>
       <link>https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/</link>
       <description>GitHub发布了一篇关于绿色软件工具的文章，列出了10个有助于减少软件碳足迹的工具，包括Scaphandre、Kepler、Code Carbon等，旨在帮助开发者以更可持续的方式编写代码。</description>
@@ -16,6 +37,13 @@
       <title>HCP Terraform adds run queue visibility and new ephemeral workspace features</title>
       <link>https://www.hashicorp.com/blog/hcp-terraform-adds-run-queue-visibility-and-new-ephemeral-workspace-features</link>
       <description>HCP Terraform新增了运行队列可见性和新的临时工作区功能，包括HCP Terraform的运行队列可见性、项目范围内的临时工作区以及使用Terraform提供程序管理HCP Terraform和Terraform Enterprise的临时工作区。这些改进旨在简化IT操作，提高开发速度并降低成本。</description>
+      <pubDate>2024-09-18 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Tools, not Rules: become a better Android developer with Compiler Explorer</title>
+      <link>http://android-developers.googleblog.com/2024/09/become-better-android-developer-compiler-explorer.html</link>
+      <description>本文介绍了如何通过使用Compiler Explorer工具来提升Android开发者的编程技能。通过这个开源的交互式网站，开发者可以学习编译器的工作原理，理解源代码如何转换为汇编语言，以及高级编程语言结构如何转化为处理器运行的低级指令。文章强调了通过工具而非规则来学习的重要性，并展示了如何使用Compiler Explorer来分析代码优化、内存占用和编译器优化过程。此外，还讨论了Kotlin和Java在Android开发中的应用，以及如何通过minification来优化应用程序。</description>
       <pubDate>2024-09-18 16:00:00</pubDate>
     </item>
   
@@ -38,6 +66,15 @@
       <link>https://github.blog/open-source/social-impact/software-as-a-public-good/</link>
       <description>开源软件已成为经济、公共服务和国际组织的基础，其价值巨大。然而，许多开源项目资金不足，GitHub与Linux基金会和哈佛商学院合作研究如何支持开源。联合国也承诺支持开源，并推动全球数字契约，增加对数字公共商品（DPGs）的资助。GitHub通过Sponsors、Accelerator和Fund等项目支持开源项目，并鼓励行业和政府合作解决开源维护的可持续性问题。开源软件应被视为公共商品，其维护应成为行业和政府支出的重要部分。</description>
       <pubDate>2024-09-18 15:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>More on the mysterious [default_interface] attribute in Windows Runtime classes</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240918-00/?p=110279</link>
+      <description>Windows Runtime类中的神秘[default_interface]属性探讨
+
+本文深入探讨了Windows Runtime类中神秘的[default_interface]属性。该属性用于指定类的默认接口，当类没有自动生成的接口时，或需要指定一个非自动生成的接口作为默认接口时使用。文章通过实例说明了如何处理没有实例成员的类、如何处理基类提供的方法以及当类包含实例成员时[default_interface]的使用情况。</description>
+      <pubDate>2024-09-18 14:00:00</pubDate>
     </item>
   
     <item>
@@ -101,6 +138,13 @@
       <link>https://s14415.pcdn.co/blog/social-media-automation-tools/</link>
       <description>本文探讨了五款社交媒体自动化工具，旨在提高数字营销效率。这些工具能帮助用户节省时间，实现内容的一致发布，并提供深入的分析，从而提升社交媒体营销效果。文章详细介绍了每款工具的关键功能和优势，包括Brandwatch、Hootsuite、Buffer等，并针对不同规模的企业和营销团队提供了使用建议。</description>
       <pubDate>2024-09-18 10:57:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Exploring how a combination of advanced search and composable commerce can unlock B2B growth</title>
+      <link>https://algolia.com/blog/ecommerce/leveraging-advanced-search-and-discovery-with-b2b-composable-commerce/</link>
+      <description>探索如何结合高级搜索和可组合式商业推动B2B增长，通过Algolia和commercetools的强大整合，实现灵活、可扩展的搜索解决方案，提升用户体验，驱动业务增长。</description>
+      <pubDate>2024-09-18 10:26:16</pubDate>
     </item>
   
     <item>
