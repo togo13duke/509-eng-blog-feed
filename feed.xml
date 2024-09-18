@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Enhancing the Quarkus developer experience: New updates for IntelliJ and VS Code tools</title>
+      <link>https://developers.redhat.com/articles/2024/09/18/enhancing-quarkus-developer-experience-new-updates-intellij-and-vs-code-tools</link>
+      <description>Quarkus开发者体验得到提升：IntelliJ和VS Code工具的新更新。新版本Quarkus Tools for IntelliJ和Visual Studio Code带来了多项改进，包括增强的Qute支持、Quarkus特定功能的集成以及性能优化。这些更新旨在提高开发效率和代码质量。</description>
+      <pubDate>2024-09-18 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploy a Redis cluster on OpenShift Virtualization</title>
+      <link>https://developers.redhat.com/articles/2024/09/18/deploy-redis-cluster-openshift-virtualization</link>
+      <description>本文介绍了如何在OpenShift虚拟化上部署Redis集群。通过使用Ansible自动化部署Redis虚拟机、OpenShift服务和Redis Insights，实现了集群管理和可视化。文章详细说明了创建Redis集群的步骤，包括配置网络、初始化集群以及使用Redis Insights进行监控和测试。</description>
+      <pubDate>2024-09-18 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Quickly adding push notifications with Belt</title>
       <link>https://thoughtbot.com/blog/quickly-adding-push-notifications-with-belt</link>
       <description>使用 Belt 快速添加推送通知
