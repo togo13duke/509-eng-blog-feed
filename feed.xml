@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>HCP Terraform adds run queue visibility and new ephemeral workspace features</title>
+      <link>https://www.hashicorp.com/blog/hcp-terraform-adds-run-queue-visibility-and-new-ephemeral-workspace-features</link>
+      <description>HCP Terraform新增了运行队列可见性和新的临时工作区功能，包括HCP Terraform的运行队列可见性、项目范围内的临时工作区以及使用Terraform提供程序管理HCP Terraform和Terraform Enterprise的临时工作区。这些改进旨在简化IT操作，提高开发速度并降低成本。</description>
+      <pubDate>2024-09-18 16:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Quickly adding push notifications with Belt</title>
       <link>https://thoughtbot.com/blog/quickly-adding-push-notifications-with-belt</link>
       <description>使用 Belt 快速添加推送通知
