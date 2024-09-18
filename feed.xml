@@ -6,15 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Quickly adding push notifications with Belt</title>
-      <link>https://thoughtbot.com/blog/quickly-adding-push-notifications-with-belt</link>
-      <description>使用 Belt 快速添加推送通知
-
-本文介绍了如何使用 Belt 工具在 React Native 应用中快速添加推送通知支持。Belt 是由 thoughtbot 开发的一个 CLI 工具，用于创建和配置 React Native 应用，可自动化设置各种工具和库。通过 Belt 的 `belt add notifications` 命令，可以简化推送通知的设置过程，包括安装依赖、配置文件和注入通知处理钩子。文章还提供了设置 Firebase 项目、下载配置文件和测试推送通知的详细步骤。</description>
-      <pubDate>2024-09-18 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Amazon S3 Express One Zone now supports AWS KMS with customer managed keys</title>
       <link>https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/</link>
       <description>Amazon S3 Express One Zone现在支持使用AWS KMS客户管理的密钥进行服务器端加密，这为数据存储提供了额外的安全选项，同时不影响性能。用户可以通过Amazon S3控制台、AWS CLI或AWS SDK启用SSE-KMS，并指定AWS KMS密钥。此功能适用于所有S3 Express One Zone可用的AWS区域。</description>
@@ -26,20 +17,6 @@
       <link>https://www.databricks.com/blog/unifying-parameters-across-databricks</link>
       <description>Databricks宣布支持在SQL编辑器中使用命名参数标记，允许用户在SQL编辑器中编写参数化代码，并在仪表板或笔记本中直接运行，无需语法更改。这一功能提高了查询效率，并增强了SQL注入攻击的防御能力。命名参数标记的语法简单，支持多种用例，如日期范围查询、动态选择表和参数化字符串格式化。Databricks鼓励用户更新现有参数以使用新的命名参数标记语法。</description>
       <pubDate>2024-09-17 21:00:31</pubDate>
-    </item>
-  
-    <item>
-      <title>How data at work impacts the employee experience</title>
-      <link>https://www.surveymonkey.com/curiosity/employee-experience-and-data/?ut_source=rss</link>
-      <description>数据在工作中的运用对员工体验有重大影响。研究表明，数据有助于决策、增强员工信心，并提高对领导的信任。然而，数据解读的准确性、员工对数据的信任以及对直觉与数据决策的平衡，都是影响员工体验的关键因素。通过确保数据易于访问和正确解读，公司可以创造一个更积极的数据驱动环境，从而提升整体业绩。</description>
-      <pubDate>2024-09-17 20:44:58</pubDate>
-    </item>
-  
-    <item>
-      <title>3 workplace trends that will reshape today’s workforce</title>
-      <link>https://www.surveymonkey.com/curiosity/workplace-trends/?ut_source=rss</link>
-      <description>随着工作与个人生活的界限变得模糊，现代职场呈现出三个关键趋势：员工在个人与专业时间之间难以划清界限，远程工作导致的多任务处理和“安静休假”现象日益普遍；工作环境对员工体验的影响，包括远程、混合和办公室工作者的满意度与压力差异；以及员工对工作满意度和工作与生活平衡的看法，包括对工作意义的重视和对跳槽态度的变化。</description>
-      <pubDate>2024-09-17 20:39:53</pubDate>
     </item>
   
     <item>
