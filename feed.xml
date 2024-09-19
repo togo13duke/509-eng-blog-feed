@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Try out OpenAI o1 in GitHub Copilot and Models</title>
+      <link>https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/</link>
+      <description>GitHub Copilot现在支持OpenAI o1-preview和o1-mini模型，这些模型具备高级推理能力，可提高代码生成效率和结果质量。开发者可以通过GitHub Copilot Chat和GitHub Models playground体验这些新模型，并开始在自己的应用中集成它们。</description>
+      <pubDate>2024-09-19 19:44:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Join the .NET Smart Components ecosystem</title>
+      <link>https://devblogs.microsoft.com/dotnet/join-the-dotnet-smart-components-ecosystem/</link>
+      <description>.NET Smart Components是一套预包装的UI组件，可轻松添加AI功能，如智能文本补全和语义搜索。这些组件现已在GitHub上开源，供开发者参考和改进。文章介绍了如何使用这些组件以及一些知名供应商如何在此基础上进行创新。</description>
+      <pubDate>2024-09-19 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Databricks Assistant Quick Fix</title>
+      <link>https://www.databricks.com/blog/introducing-databricks-assistant-quick-fix</link>
+      <description>Databricks推出了一项名为“Databricks Assistant Quick Fix”的新功能，旨在自动修复SQL和Python中的常见错误，如语法错误、未解决的列、类型转换等。该功能通过AI技术提高编码效率，快速提供错误修复建议，并优化用户体验。</description>
+      <pubDate>2024-09-19 18:59:16</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS named as a Leader in the 2024 Gartner Magic Quadrant for Desktop as a Service (DaaS)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2024-gartner-magic-quadrant-for-desktop-as-a-service-daas/</link>
+      <description>AWS在2024年Gartner桌面即服务（DaaS）魔力象限中被评为领导者，这是首次获得此荣誉。这一成就归功于AWS致力于满足客户多样化的需求，提供具有许可证可移植性的虚拟桌面服务组合，包括企业版Microsoft 365 Apps，以及地理战略和专注于成本优化和自动化的运营能力。AWS的DaaS产品包括Amazon WorkSpaces和Amazon AppStream 2.0，旨在支持远程和混合工作环境。</description>
+      <pubDate>2024-09-19 18:54:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Real-time Linux is officially part of the kernel after decades of debate</title>
+      <link>https://arstechnica.com/?p=2050956</link>
+      <description>Linux内核正式将实时Linux纳入其中，结束了数十年的争议。这一变化对桌面Linux影响不大，但对需要保证执行和最坏情况下的延迟时长的系统（如监控汽车刹车、引导CNC机器和调节复杂的CPU系统）非常有用。此举简化了实时系统的维护，并可能改变专业实时操作系统解决方案提供商的市场。</description>
+      <pubDate>2024-09-19 18:14:14</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #84: Central banks (solution)</title>
+      <link>https://www.bambooweekly.com/bw-84-central-banks-solution/</link>
+      <description>本文探讨了全球中央银行降低利率的趋势。美国联邦储备系统预计将宣布四年来的首次降息。文章分析了国际结算银行（BIS）的数据，比较了各国中央银行的利率变化，并讨论了如何处理缺失数据。此外，还讨论了土耳其和阿根廷等国的利率最高，而克罗地亚和日本的利率最低。</description>
+      <pubDate>2024-09-19 18:04:52</pubDate>
+    </item>
+  
+    <item>
       <title>$100 billion AI infrastructure fund launched by Microsoft, BlackRock, UAE firm</title>
       <link>https://arstechnica.com/?p=2050936</link>
       <description>微软和黑石集团投资1000亿美元推动AI发展，旨在建设数据中心和AI加速芯片，以支持全球数亿人使用生成式AI产品。该投资计划将超越任何单一公司或政府的融资能力，并可能引发对环境影响的关注。</description>
@@ -87,6 +129,13 @@
       <link>https://www.timescale.com/blog/scaling-postgresql-to-petabyte-scale/</link>
       <description>Timescale Cloud通过优化存储架构和查询效率，成功将PostgreSQL扩展到PB级规模，每日处理数以亿计的查询和数万亿的指标。该平台利用连续聚合和分层存储，即使在数据量不断增长的情况下，也能保持快速响应。Timescale Cloud为用户提供免费支持，帮助用户轻松实现数据库的扩展。</description>
       <pubDate>2024-09-19 13:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Install Marketplace Integrations from the Vercel CLI</title>
+      <link>https://vercel.com/changelog/install-marketplace-integrations-from-the-vercel-cli</link>
+      <description>Vercel CLI现在支持直接从市场安装集成，包括Supabase、Redis和EdgeDB等，无需离开平台或创建额外账户。通过vc i命令，用户可以轻松安装集成，自动配置资源，并获取增强的错误消息以解决安装问题。了解更多信息，请查看文档。</description>
+      <pubDate>2024-09-19 13:00:00</pubDate>
     </item>
   
     <item>
@@ -329,6 +378,13 @@
       <link>https://www.timescale.com/blog/how-we-made-postgresql-upserts-300x-faster-on-compressed-data/</link>
       <description>TimescaleDB通过优化压缩数据上的upsert性能，将PostgreSQL的upsert操作速度提升了300倍。这一改进通过使用现有的索引来快速定位需要解压缩的数据块，从而减少了冲突解决和批量解压缩所需的时间。</description>
       <pubDate>2024-09-18 18:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Inference-Friendly Models with MixAttention</title>
+      <link>https://www.databricks.com/blog/mixattention</link>
+      <description>MixAttention模型通过使用滑动窗口注意力和共享KV缓存来减少推理时的内存使用，同时保持模型质量。实验表明，这种架构在保持模型质量的同时，提高了推理速度和减少了内存占用。研究还发现，在模型的深层使用标准注意力层对于长上下文能力至关重要，而标准注意力层的KV缓存可以在非连续层之间共享，但过度共享会损害长上下文能力。</description>
+      <pubDate>2024-09-18 17:19:09</pubDate>
     </item>
   
     <item>
