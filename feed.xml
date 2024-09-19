@@ -6,62 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>10 Docker Myths Debunked</title>
-      <link>https://www.docker.com/blog/docker-myths-debunked/</link>
-      <description>Docker容器技术自2013年推出以来，已成为开发、部署和运行容器化应用的关键平台。本文揭示了关于Docker的八大常见误解，包括其开源性质、与虚拟机的区别、不同版本的功能差异、与Kubernetes的关系、安全性、发展现状、学习难度以及应用范围。Docker不仅易于学习，而且广泛应用于开发、测试、数据科学和医疗保健等领域，是推动容器化技术发展的关键工具。</description>
-      <pubDate>2024-09-19 13:59:41</pubDate>
-    </item>
-  
-    <item>
-      <title>A beginner’s guide to Spring Data Envers</title>
-      <link>https://vladmihalcea.com/spring-data-envers/</link>
-      <description>Spring Data Envers是一个用于跟踪JPA和Hibernate实体变更的Hibernate ORM扩展。它通过Spring Data JPA提供审计日志功能，允许开发者轻松跟踪实体变化。文章介绍了如何使用Spring Data Envers进行审计，包括配置、实体映射、事务处理以及如何使用Spring Data Envers的RevisionRepository来加载和分页显示实体修订版本。</description>
-      <pubDate>2024-09-19 13:50:33</pubDate>
-    </item>
-  
-    <item>
-      <title>Some recent grants, contests, events, job openings, etc.</title>
-      <link>https://blog.rootsofprogress.org/announcements-from-friends-2024-09</link>
-      <description>近期，Cosmos Institute举办了关于人工智能时代人类自主性的论文竞赛和资助项目，Spec Tech启动了第二期大脑研究加速器申请，San Francisco Freedom Club将举办首次派对，Works in Progress招聘兼职社交媒体内容创作者，Loyal公司招聘总经理以推广延长狗健康寿命的药物，Dwarkesh Patel寻找COO，Progress Ireland，一家新的爱尔兰进步智库成立。</description>
-      <pubDate>2024-09-19 13:13:00</pubDate>
-    </item>
-  
-    <item>
-      <title>‘FINAL FANTASY XVI’ Soars Into the Cloud With GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-final-fantasy-xvi/</link>
-      <description>《最终幻想XVI》现已通过GeForce NOW在云端提供流媒体服务。玩家可以体验这款由Square Enix开发的动作角色扮演游戏，在Valisthea的世界中展开冒险。游戏支持高达4K分辨率的流媒体播放，并提供了免费试玩。同时，GeForce NOW还新增了《Frostpunk 2》和《PAYDAY 3》等七款新游戏。</description>
-      <pubDate>2024-09-19 13:00:19</pubDate>
-    </item>
-  
-    <item>
-      <title>Scaling PostgreSQL to Petabyte Scale</title>
-      <link>https://www.timescale.com/blog/scaling-postgresql-to-petabyte-scale/</link>
-      <description>Timescale Cloud通过优化存储架构和查询效率，成功将PostgreSQL扩展到PB级规模，每日处理数以亿计的查询和数万亿的指标。该平台利用连续聚合和分层存储，即使在数据量不断增长的情况下，也能保持快速响应。Timescale Cloud为用户提供免费支持，帮助用户轻松实现数据库的扩展。</description>
-      <pubDate>2024-09-19 13:00:02</pubDate>
-    </item>
-  
-    <item>
-      <title>How to Use Jaeger with OpenTelemetry</title>
-      <link>https://last9.io/blog/how-to-use-jaeger-with-opentelemetry/</link>
-      <description>本文深入探讨了如何使用Jaeger与OpenTelemetry结合进行分布式追踪和应用程序监控。介绍了Jaeger和OpenTelemetry的功能和优势，以及它们如何互补。文章详细说明了集成步骤，包括选择编程语言、安装依赖、配置OpenTelemetry和Jaeger、进行代码的分布式追踪、验证和优化配置。通过这些步骤，开发者可以有效地利用Jaeger和OpenTelemetry来提高应用程序的性能和可观察性。</description>
-      <pubDate>2024-09-19 12:19:16</pubDate>
-    </item>
-  
-    <item>
-      <title>The Download: bird flu concerns, and tracking AI’s impact on elections</title>
-      <link>https://www.technologyreview.com/2024/09/19/1104187/the-download-bird-flu-concerns-and-tracking-ais-impact-on-elections/</link>
-      <description>禽流感在美国奶牛中传播，引发全球疫情担忧；AI生成内容在欧洲选举中影响有限；人工智能技术助力早期发现野火；MIT Technology Review发布最新科技动态。</description>
-      <pubDate>2024-09-19 12:10:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Climate Week Forecast: Outlook Improving With AI, Accelerated Computing</title>
-      <link>https://blogs.nvidia.com/blog/climate-week-ai-accelerated-computing/</link>
-      <description>NVIDIA通过其平台帮助客户在能源效率方面取得显著提升，推动可持续增长。文章介绍了Foxconn利用加速计算和AI构建数字孪生工厂、云服务提高效率、数据中心采用可再生能源以及医疗保健公司利用AI和加速计算来解码癌症和节省能源的案例。NVIDIA正致力于培养一个关注可持续性的广泛生态系统，并与其他组织合作举办气候周活动，以推动使用AI和加速计算应对气候变化。</description>
-      <pubDate>2024-09-19 12:00:33</pubDate>
-    </item>
-  
-    <item>
       <title>Hacking With The Homies: People Like Us</title>
       <link>https://spin.atomicobject.com/hacking-with-homies-2024/</link>
       <description>在底特律的“与同好一起黑客”开发者大会上，Sulaiman Bah分享了自己作为少数族裔在科技行业中的经历和挑战。他鼓励那些怀疑自己能力的人，通过自己的成功故事来激励他人，并强调在科技行业中存在许多类似的机会和角色。</description>
@@ -83,13 +27,6 @@
     </item>
   
     <item>
-      <title>Social Media Management Services: What You Get Beyond Enhancing Your Online Presence</title>
-      <link>https://s14415.pcdn.co/blog/social-media-management-services/</link>
-      <description>社交媒体管理服务帮助企业和品牌扩大在线影响力，实现营销目标。通过制定策略、创建内容、管理社区和监测绩效，这些服务能提升品牌形象，增强与客户的互动，并优化社交媒体活动。选择合适的社交媒体管理服务，无论是全面服务、部分服务还是使用管理工具，都能帮助企业更有效地利用社交媒体平台，提升品牌知名度，并实现业务增长。</description>
-      <pubDate>2024-09-19 09:00:17</pubDate>
-    </item>
-  
-    <item>
       <title>Why virologists are getting increasingly nervous about bird flu</title>
       <link>https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/</link>
       <description>美国奶牛中禽流感的传播可能永远存在，并增加了全球哺乳动物（包括人类）爆发疫情的风险。病毒已从奶牛传播到家禽，并可能再次传播到迁徙鸟类，引发全球担忧。病毒在奶牛中的传播方式可能使其在人群中传播的可能性增加，这引起了病毒学家的高度关注。</description>
@@ -100,13 +37,6 @@
       <title>Ranking: Top 10 Medical Influencers on Instagram</title>
       <link>https://s14415.pcdn.co/blog/ranking-top-medical-influencer/</link>
       <description>本文排名了Instagram上最受欢迎的10位医疗领域影响者，分析了他们的成功原因。这些影响者包括医生、护士和理疗师，他们通过Instagram分享专业知识、日常生活和工作经验，以教育粉丝并展示医疗行业的真实面貌。文章还讨论了医疗影响者在品牌营销中的价值，以及如何利用影响者营销工具来识别和管理工作关系。</description>
-      <pubDate>2024-09-19 08:10:31</pubDate>
-    </item>
-  
-    <item>
-      <title>Ranking: Top 10 Medical Influencers on Instagram</title>
-      <link>https://www.brandwatch.com/blog/ranking-top-medical-influencer/</link>
-      <description>本文排名了Instagram上最受欢迎的10位医疗领域影响者，分析了他们的成功因素。这些影响者包括医生、护士和理疗师，他们通过Instagram分享专业知识、日常生活和工作经验，以教育粉丝并展示医疗行业的真实面貌。文章还讨论了医疗影响者在品牌营销中的价值，以及如何利用影响者营销工具来识别和合作。</description>
       <pubDate>2024-09-19 08:10:31</pubDate>
     </item>
   
@@ -151,13 +81,6 @@
       <title>Join our in-person office hours in London this October</title>
       <link>https://thoughtbot.com/blog/in-london-and-stuck-on-code-or-a-tricky-roadmap-join-us-for-in-person-office-hours</link>
       <description>thoughtbot将于10月6日和11日在伦敦举办面对面办公时间，为产品经理和开发者提供一对一辅导，解答问题，讨论挑战和目标。需提前预约，报名截止至9月30日。</description>
-      <pubDate>2024-09-19 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Secure your Elastic Cloud account with multifactor authentication (MFA)</title>
-      <link>https://www.elastic.co/blog/user-account-security-mfa</link>
-      <description>Elastic Cloud推出增强的多因素认证（MFA）功能，以加强账户安全性。MFA要求用户输入两个或多个验证因素，如指纹、电子邮件或认证器应用，以增加账户被非法访问的难度。新功能包括默认启用MFA、支持电子邮件MFA和淘汰SMS MFA。用户应立即设置MFA以保护其Elastic Cloud账户。</description>
       <pubDate>2024-09-19 00:00:00</pubDate>
     </item>
   
