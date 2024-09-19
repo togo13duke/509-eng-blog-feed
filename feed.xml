@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why virologists are getting increasingly nervous about bird flu</title>
+      <link>https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/</link>
+      <description>美国奶牛中禽流感的传播可能永远存在，并增加了全球哺乳动物（包括人类）爆发疫情的风险。病毒已从奶牛传播到家禽，并可能再次传播到迁徙鸟类，引发全球担忧。病毒在奶牛中的传播方式可能使其在人群中传播的可能性增加，这引起了病毒学家的高度关注。</description>
+      <pubDate>2024-09-19 08:53:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Ranking: Top 10 Medical Influencers on Instagram</title>
+      <link>https://s14415.pcdn.co/blog/ranking-top-medical-influencer/</link>
+      <description>本文排名了Instagram上最受欢迎的10位医疗领域影响者，分析了他们的成功原因。这些影响者包括医生、护士和理疗师，他们通过Instagram分享专业知识、日常生活和工作经验，以教育粉丝并展示医疗行业的真实面貌。文章还讨论了医疗影响者在品牌营销中的价值，以及如何利用影响者营销工具来识别和管理工作关系。</description>
+      <pubDate>2024-09-19 08:10:31</pubDate>
+    </item>
+  
+    <item>
+      <title>The Biggest Consumer Trends in Health and Wellness</title>
+      <link>https://www.brandwatch.com/blog/consumer-trends-health-wellness/</link>
+      <description>2024年，健康和 wellness 行业面临诸多挑战，品牌需了解消费者行为变化，提供解决方案。Brandwatch 消费者研究分析了超过1.95亿条在线对话，发现以下趋势：1. 消费者转向功能手机对抗社交媒体成瘾；2. 女性健康意识提升；3. 消费者服用镁补充剂改善睡眠；4. 跑步俱乐部受欢迎；5. 消费者使用AI进行自我诊断。</description>
+      <pubDate>2024-09-19 07:55:18</pubDate>
+    </item>
+  
+    <item>
       <title>Configuring Vault as an identity provider</title>
       <link>https://www.hashicorp.com/blog/configuring-vault-as-an-identity-provider</link>
       <description>配置 Vault 作为身份提供者以简化应用程序的用户身份验证过程。通过使用 OpenID Connect (OIDC) 标准和 Vault 的身份验证后端，可以自动化密码管理、登录尝试策略，并减少安全风险。此方法涉及创建用户、实体、别名和 OIDC 分配，以确保用户身份在 Vault 中得到管理，并通过 JWT 令牌进行身份验证。通过这种方式，组织可以集中管理身份和密钥，提高安全性并简化应用程序开发。</description>
@@ -16,6 +37,15 @@
       <title>Lightweight Network Observability Operator without Loki</title>
       <link>https://developers.redhat.com/articles/2024/09/19/lightweight-network-observability-operator-without-loki</link>
       <description>Red Hat发布了一个无需Loki的轻量级网络可观察性操作员，版本1.6，为Red Hat OpenShift集群提供网络洞察，无需Loki日志聚合系统。该功能提高了查询性能和资源利用率，但牺牲了某些高级功能，如流量表和细粒度资源监控。</description>
+      <pubDate>2024-09-19 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to forward OpenShift logs to Azure Monitor</title>
+      <link>https://developers.redhat.com/articles/2024/09/19/how-forward-openshift-logs-azure-monitor</link>
+      <description>如何将OpenShift日志转发到Azure Monitor
+
+本文介绍了如何将Red Hat OpenShift 5.9及更高版本的集群日志转发到Azure Monitor，以利用其强大的日志分析和监控功能。通过使用Vector作为日志收集器，用户可以轻松地将日志从OpenShift集群发送到Azure Monitor Logs，从而实现更高效的监控和问题解决。文章还提供了使用Helm图表配置日志转发的详细步骤，并讨论了通过Azure Private Link进行安全连接的选项。</description>
       <pubDate>2024-09-19 07:00:00</pubDate>
     </item>
   
@@ -241,6 +271,13 @@
     <item>
       <title>5 Social Media Automation Tools to Boost Your Digital Marketing Efficiency</title>
       <link>https://s14415.pcdn.co/blog/social-media-automation-tools/</link>
+      <description>本文探讨了五款社交媒体自动化工具，旨在提高数字营销效率。这些工具能帮助用户节省时间，实现内容的一致发布，并提供深入的分析，从而提升社交媒体营销效果。文章详细介绍了每款工具的关键功能和优势，包括Brandwatch、Hootsuite、Buffer等，并针对不同规模的企业和营销团队提供了使用建议。</description>
+      <pubDate>2024-09-18 10:57:04</pubDate>
+    </item>
+  
+    <item>
+      <title>5 Social Media Automation Tools to Boost Your Digital Marketing Efficiency</title>
+      <link>https://www.brandwatch.com/blog/social-media-automation-tools/</link>
       <description>本文探讨了五款社交媒体自动化工具，旨在提高数字营销效率。这些工具能帮助用户节省时间，实现内容的一致发布，并提供深入的分析，从而提升社交媒体营销效果。文章详细介绍了每款工具的关键功能和优势，包括Brandwatch、Hootsuite、Buffer等，并针对不同规模的企业和营销团队提供了使用建议。</description>
       <pubDate>2024-09-18 10:57:04</pubDate>
     </item>
