@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Join our in-person office hours in London this October</title>
+      <link>https://thoughtbot.com/blog/in-london-and-stuck-on-code-or-a-tricky-roadmap-join-us-for-in-person-office-hours</link>
+      <description>thoughtbot将于10月6日和11日在伦敦举办面对面办公时间，为产品经理和开发者提供一对一辅导，解答问题，讨论挑战和目标。需提前预约，报名截止至9月30日。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing the new Python Data Science Extension Pack for VS Code</title>
       <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code/</link>
       <description>微软宣布推出新的Python数据科学扩展包，适用于VS Code，包含Python、Jupyter、GitHub Copilot和Data Wrangler等工具，旨在简化数据科学工作流程。</description>
@@ -136,6 +143,13 @@
       <link>https://github.blog/open-source/social-impact/software-as-a-public-good/</link>
       <description>开源软件已成为经济、公共服务和国际组织的基础，其价值巨大。然而，许多开源项目资金不足，GitHub与Linux基金会和哈佛商学院合作研究如何支持开源。联合国也承诺支持开源，并推动全球数字契约，增加对数字公共商品（DPGs）的资助。GitHub通过Sponsors、Accelerator和Fund等项目支持开源项目，并鼓励行业和政府合作解决开源维护的可持续性问题。开源软件应被视为公共商品，其维护应成为行业和政府支出的重要部分。</description>
       <pubDate>2024-09-18 15:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Merchandising strategy: best practices and tactics to drive more sales</title>
+      <link>https://algolia.com/blog/ecommerce/merchandising-strategy-best-practices-and-tactics-to-drive-more-sales/</link>
+      <description>为了在竞争激烈的市场中脱颖而出，制定有效的商品营销策略至关重要。这包括优化网站搜索、简化导航、提升用户体验、创造紧迫感、使用移动优化以及采用最佳实践，如个性化推荐、分析客户行为、管理库存、关注市场趋势、简化在线结账和利用用户生成内容。通过这些策略，企业可以提高销售额、增强客户体验并建立品牌忠诚度。</description>
+      <pubDate>2024-09-18 14:06:46</pubDate>
     </item>
   
     <item>
