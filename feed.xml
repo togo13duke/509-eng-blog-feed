@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Configuring Vault as an identity provider</title>
+      <link>https://www.hashicorp.com/blog/configuring-vault-as-an-identity-provider</link>
+      <description>配置 Vault 作为身份提供者以简化应用程序的用户身份验证过程。通过使用 OpenID Connect (OIDC) 标准和 Vault 的身份验证后端，可以自动化密码管理、登录尝试策略，并减少安全风险。此方法涉及创建用户、实体、别名和 OIDC 分配，以确保用户身份在 Vault 中得到管理，并通过 JWT 令牌进行身份验证。通过这种方式，组织可以集中管理身份和密钥，提高安全性并简化应用程序开发。</description>
+      <pubDate>2024-09-19 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lightweight Network Observability Operator without Loki</title>
+      <link>https://developers.redhat.com/articles/2024/09/19/lightweight-network-observability-operator-without-loki</link>
+      <description>Red Hat发布了一个无需Loki的轻量级网络可观察性操作员，版本1.6，为Red Hat OpenShift集群提供网络洞察，无需Loki日志聚合系统。该功能提高了查询性能和资源利用率，但牺牲了某些高级功能，如流量表和细粒度资源监控。</description>
+      <pubDate>2024-09-19 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Join our in-person office hours in London this October</title>
       <link>https://thoughtbot.com/blog/in-london-and-stuck-on-code-or-a-tricky-roadmap-join-us-for-in-person-office-hours</link>
       <description>thoughtbot将于10月6日和11日在伦敦举办面对面办公时间，为产品经理和开发者提供一对一辅导，解答问题，讨论挑战和目标。需提前预约，报名截止至9月30日。</description>
@@ -365,6 +379,13 @@
       <link>https://jaketrent.com/post/export-multiple-stylesheets-postcss-import</link>
       <description>总结：
 本文介绍了如何使用postcss-import插件将多个样式表导出到CSS文件中。由于postcss-import不支持Node.js的命名导出，作者建议使用postcss-import的路径查找功能，并设置package.json中的style字段。此外，建议在文件名前添加命名空间前缀，以便在导入时指定特定包的样式表。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Crystal 1.13.3 is released!</title>
+      <link>https://crystal-lang.org/2024/09/18/1.13.3-released/</link>
+      <description>Crystal编程语言发布了1.13.3版本，包含重要错误修复和改进。此版本修复了自1.13.0以来的几个回归问题，并更新了Aarch64 CI运行器。感谢所有贡献者，并鼓励通过捐赠和赞助支持Crystal的开发。</description>
       <pubDate>2024-09-18 00:00:00</pubDate>
     </item>
   
