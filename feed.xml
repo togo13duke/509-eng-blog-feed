@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>$100 billion AI infrastructure fund launched by Microsoft, BlackRock, UAE firm</title>
+      <link>https://arstechnica.com/?p=2050936</link>
+      <description>微软和黑石集团投资1000亿美元推动AI发展，旨在建设数据中心和AI加速芯片，以支持全球数亿人使用生成式AI产品。该投资计划将超越任何单一公司或政府的融资能力，并可能引发对环境影响的关注。</description>
+      <pubDate>2024-09-19 16:52:41</pubDate>
+    </item>
+  
+    <item>
       <title>Establish your Generative AI expertise with the latest Databricks certification</title>
       <link>https://www.databricks.com/blog/establish-your-generative-ai-expertise-latest-databricks-certification</link>
       <description>Databricks推出首个生成式AI工程师认证，旨在帮助企业和个人建立生成式AI应用构建和部署的专业技能。该认证结合理论与实践，涵盖生成式AI解决方案的设计、开发、部署和监控。Databricks不断更新学习材料和考试内容，确保学员掌握最新技能。通过Databricks学院的学习和考试准备，学员可提升在生成式AI领域的竞争力。</description>
@@ -34,10 +41,24 @@
     </item>
   
     <item>
+      <title>My window has the WS_EX_NOACTIVATE extended style, but it got activated anyway</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240919-00/?p=110283</link>
+      <description>我的窗口设置了WS_EX_NOACTIVATE扩展样式，但仍然被激活了。Windows在点击窗口时不会激活它，但在查找新窗口激活时，会跳过该窗口，并且默认情况下不会在Alt+Tab或任务栏中显示。用户可以通过鼠标悬停来激活它，这通常是通过调用SetForegroundWindow或SetActiveWindow来实现的。如果想要防止窗口通过鼠标悬停被激活，需要处理WM_MOUSEACTIVATE消息并返回MA_NOACTIVATE或MA_NOACTIVATEANDEAT。</description>
+      <pubDate>2024-09-19 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>10 Docker Myths Debunked</title>
       <link>https://www.docker.com/blog/docker-myths-debunked/</link>
       <description>Docker容器技术自2013年推出以来，已成为开发、部署和运行容器化应用的关键平台。本文揭示了关于Docker的八大常见误解，包括其开源性质、与虚拟机的区别、不同版本的功能差异、与Kubernetes的关系、安全性、发展现状、学习难度以及应用范围。Docker不仅易于学习，而且广泛应用于开发、测试、数据科学和医疗保健等领域，是推动容器化技术发展的关键工具。</description>
       <pubDate>2024-09-19 13:59:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Elevating your search experience: Stack Overflow for Teams ML-powered reranking experiment</title>
+      <link>https://stackoverflow.blog/2024/09/19/elevating-your-search-experience-stack-overflow-for-teams-ml-powered-reranking-experiment/</link>
+      <description>Stack Overflow for Teams推出了一项基于机器学习的搜索结果重新排序实验，旨在提高搜索结果的相关性和实用性。该实验通过优化搜索结果排序，使用户更快地找到最佳答案。实验将逐步进行，并密切监控各项指标以确保积极影响。</description>
+      <pubDate>2024-09-19 13:55:04</pubDate>
     </item>
   
     <item>
@@ -108,6 +129,15 @@
       <link>https://developers.redhat.com/articles/2024/09/19/observability-signal-correlation-red-hat-openshift-technology-preview</link>
       <description>Red Hat OpenShift发布了一项名为“可观察性信号相关性”的技术预览版，作为Cluster Observability Operator 0.4.0版本的一部分。该技术由Red Hat内部成立的Korrel8r开源项目提供支持，旨在简化跨不同数据存储的指标、日志、警报、网络流和其他可观察性信号的关联。新功能包括改进的故障排除面板、更直观的查询可视化和增强的可用性。</description>
       <pubDate>2024-09-19 10:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Composable Commerce: how to select best-of-breed components to meet your business needs</title>
+      <link>https://algolia.com/blog/ecommerce/composable-commerce-how-to-select-best-of-breed-components-to-meet-your-business-needs/</link>
+      <description>可组合式商业：为您的企业带来所需灵活性
+
+可组合式商业通过集成最佳组件，实现电商平台的敏捷性、定制性和可扩展性。与传统商业模式相比，它提供了创新、快速更新、增强的可扩展性和更多灵活性。企业通过采用可组合式商业，可以优化客户旅程，降低总拥有成本，并快速适应市场变化。本文探讨了可组合式商业的概念、与传统商业的对比、其优势以及如何过渡到这种模式。</description>
+      <pubDate>2024-09-19 10:06:15</pubDate>
     </item>
   
     <item>
@@ -207,6 +237,13 @@
       <title>Boosting ML Pipeline Efficiency: Direct Cassandra Ingestion from Spark</title>
       <link>https://engineeringblog.yelp.com/2024/09/boosting-ml-pipeline-efficiency-direct-cassandra-ingestion-from-spark.html</link>
       <description>Yelp通过直接从Spark将数据同步到Cassandra，提高了机器学习管道的效率。这一改进消除了数据管道，减少了执行器和I/O操作的成本，并提高了开发效率。通过直接发布功能，工程师可以更轻松地跟踪数据状态，并减少了维护复杂性。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Learning From Structure: Discord’s Entity-Relationship Embeddings</title>
+      <link>https://discord.com/blog/learning-from-structure-discords-entity-relationship-embeddings</link>
+      <description>Discord开发了名为DERE的实体关系嵌入技术，用于从原始数据中构建有意义的表示。DERE通过预训练每个用户、公会、游戏等实体的嵌入，并使用对比学习技术来训练模型，从而快速构建模型并从数据中生成洞察。这项技术已在多个Discord项目中得到应用，包括分类、推荐和游戏相似度分析，旨在提高效率和用户体验。</description>
       <pubDate>2024-09-19 00:00:00</pubDate>
     </item>
   
