@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hacking With The Homies: People Like Us</title>
+      <link>https://spin.atomicobject.com/hacking-with-homies-2024/</link>
+      <description>在底特律的“与同好一起黑客”开发者大会上，Sulaiman Bah分享了自己作为少数族裔在科技行业中的经历和挑战。他鼓励那些怀疑自己能力的人，通过自己的成功故事来激励他人，并强调在科技行业中存在许多类似的机会和角色。</description>
+      <pubDate>2024-09-19 12:00:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Why We Skip Friday Standups (And Other Small Adjustments That Make a Big Difference)</title>
+      <link>https://spin.atomicobject.com/skip-friday-standups/</link>
+      <description>我们通过跳过周五的站立会议、提前准备待办事项精炼以及安排社交和技术交流时间，对团队工作流程和团队动态进行了小调整，这些看似微不足道的改变却带来了显著的积极影响。这些调整不仅提高了工作效率，还增强了团队凝聚力，使远程工作团队感觉更加紧密。</description>
+      <pubDate>2024-09-19 12:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>How AI can help spot wildfires</title>
+      <link>https://www.technologyreview.com/2024/09/19/1104174/how-ai-can-help-spot-wildfires/</link>
+      <description>人工智能技术正帮助更快地发现野火，如谷歌资助的FireSat卫星系统，可每20分钟提供全球任何地点的更新图像。这些技术有助于提前发现火灾，减少对人类生命和财产的威胁。然而，这些系统需要长期部署和大规模研究来证明其预防火灾的有效性，并且成本也是一个挑战。</description>
+      <pubDate>2024-09-19 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why virologists are getting increasingly nervous about bird flu</title>
       <link>https://www.technologyreview.com/2024/09/19/1104183/virologists-increasingly-nervous-bird-flu/</link>
       <description>美国奶牛中禽流感的传播可能永远存在，并增加了全球哺乳动物（包括人类）爆发疫情的风险。病毒已从奶牛传播到家禽，并可能再次传播到迁徙鸟类，引发全球担忧。病毒在奶牛中的传播方式可能使其在人群中传播的可能性增加，这引起了病毒学家的高度关注。</description>
@@ -50,6 +71,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: A Managed Session</title>
+      <link>https://thedailywtf.com/articles/a-managed-session</link>
+      <description>Remy Porter在TDWTF上分享了一篇关于ASP .Net应用程序中特殊代码的文章。文章中，Roald发现了一个名为RetrieveSessionString的函数，它尝试从Session对象中获取字符串，但处理null值的方式不当。此外，还有一个类似的函数RetrieveSessionDictionary，它尝试获取字典，但同样没有处理类型转换失败的情况。Remy指出，这种使用“session”一词在不同上下文中的方式令人不舒服，并认为函数命名和类型转换的做法不够理想。</description>
+      <pubDate>2024-09-19 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Join our in-person office hours in London this October</title>
       <link>https://thoughtbot.com/blog/in-london-and-stuck-on-code-or-a-tricky-roadmap-join-us-for-in-person-office-hours</link>
       <description>thoughtbot将于10月6日和11日在伦敦举办面对面办公时间，为产品经理和开发者提供一对一辅导，解答问题，讨论挑战和目标。需提前预约，报名截止至9月30日。</description>
@@ -68,6 +96,13 @@
       <link>https://www.technologyreview.com/2024/09/18/1104178/ai-generated-content-doesnt-seem-to-have-swayed-recent-european-elections/</link>
       <description>今年欧洲选举中，AI生成的虚假内容似乎并未对选举结果产生影响。研究显示，尽管AI工具可能增强恶意行为者传播虚假内容的能力，但大多数受虚假信息影响的人已经相信其基本信息。AI生成内容在影响公众观点方面似乎不如传统选举干扰策略有效。然而，AI在骚扰政治家和制造混乱方面的潜在影响仍然存在，且公众难以区分真实和AI生成内容。</description>
       <pubDate>2024-09-18 23:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cracking simple XOR cipher with simulated annealing, part II: MATLAB</title>
+      <link>https://yurichev.com/n/SA_XOR/</link>
+      <description>通过模拟退火算法破解简单的XOR密码，本文介绍了如何修改Python代码以改变关于数字的行为，并成功找到了4字节的XOR密钥，解密了MATLAB安装文件中的加密信息。</description>
+      <pubDate>2024-09-18 23:00:00</pubDate>
     </item>
   
     <item>
@@ -187,6 +222,13 @@
       <link>https://github.blog/open-source/social-impact/software-as-a-public-good/</link>
       <description>开源软件已成为经济、公共服务和国际组织的基础，其价值巨大。然而，许多开源项目资金不足，GitHub与Linux基金会和哈佛商学院合作研究如何支持开源。联合国也承诺支持开源，并推动全球数字契约，增加对数字公共商品（DPGs）的资助。GitHub通过Sponsors、Accelerator和Fund等项目支持开源项目，并鼓励行业和政府合作解决开源维护的可持续性问题。开源软件应被视为公共商品，其维护应成为行业和政府支出的重要部分。</description>
       <pubDate>2024-09-18 15:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveling up ecommerce search with AI-enabled personalization</title>
+      <link>https://algolia.com/blog/ecommerce/ecommerce-search-ai-enabled-personalization/</link>
+      <description>AI赋能的个性化搜索正在提升电商购物体验，通过分析用户行为和偏好，提供精准的产品推荐和购物建议，从而提高转化率和客户满意度。商家应考虑数据收集、技术能力和团队协作，以实现个性化搜索，并利用SaaS平台如Algolia等工具简化部署。</description>
+      <pubDate>2024-09-18 14:55:36</pubDate>
     </item>
   
     <item>
