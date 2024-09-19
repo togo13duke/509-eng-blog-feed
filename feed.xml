@@ -6,27 +6,6 @@
       <description>509 engineering blogs</description>
       
     <item>
-      <title>Announcing the new Python Data Science Extension Pack for VS Code</title>
-      <link>https://devblogs.microsoft.com/python/announcing-the-new-python-data-science-extension-pack-for-vs-code/</link>
-      <description>微软宣布推出新的Python数据科学扩展包，适用于VS Code，包含Python、Jupyter、GitHub Copilot和Data Wrangler等工具，旨在简化数据科学工作流程。</description>
-      <pubDate>2024-09-18 23:53:26</pubDate>
-    </item>
-  
-    <item>
-      <title>AI-generated content doesn’t seem to have swayed recent European elections</title>
-      <link>https://www.technologyreview.com/2024/09/18/1104178/ai-generated-content-doesnt-seem-to-have-swayed-recent-european-elections/</link>
-      <description>今年欧洲选举中，AI生成的虚假内容似乎并未对选举结果产生影响。研究显示，尽管AI工具可能增强恶意行为者传播虚假内容的能力，但大多数受虚假信息影响的人已经相信其基本信息。AI生成内容在影响公众观点方面似乎不如传统选举干扰策略有效。然而，AI在骚扰政治家和制造混乱方面的潜在影响仍然存在，且公众难以区分真实和AI生成内容。</description>
-      <pubDate>2024-09-18 23:01:00</pubDate>
-    </item>
-  
-    <item>
-      <title>“Dead Internet theory” comes to life with new AI-powered social media app</title>
-      <link>https://arstechnica.com/?p=2050587</link>
-      <description>SocialAI，一款由AI驱动的社交媒体应用，允许用户仅与AI聊天机器人互动，而非真实人类。这款应用旨在为孤独或被拒绝的人提供支持和反馈，但因其完全由AI生成的内容而受到批评。用户可以选择不同类型的AI聊天机器人，如“支持者”、“极客”和“怀疑者”，这些机器人会就各种主题发表简短评论和反应。尽管应用旨在提供社区感，但其AI聊天机器人的局限性包括提供错误信息和有限的情感范围。</description>
-      <pubDate>2024-09-18 22:19:15</pubDate>
-    </item>
-  
-    <item>
       <title>How to choose what to work on</title>
       <link>https://blog.rootsofprogress.org/how-to-choose-what-to-work-on</link>
       <description>选择工作方向时，应关注个人激情、重要性和市场需求。通过结合对重要议题的执着、对重要性的坚信以及独特的方法论，可以找到既符合个人兴趣又能满足社会需求的项目。重要的是要相信直觉，追随内心的激情，即使面对未知和挑战。</description>
@@ -343,14 +322,6 @@
       <title>Seizing the Means of Re-Production</title>
       <link>https://taylor.town/oh-infringement</link>
       <description>本文探讨了植物知识产权（IP）的法律和伦理问题。文章首先介绍了不同类型的植物IP，包括商标、品种权和专利，并解释了它们如何保护植物和植物产品的名称、品种和基因。接着，文章讨论了植物专利和品种权在实际应用中的挑战，特别是与转基因作物和基因污染相关的法律争议。最后，文章分析了植物知识产权对农业和农民的影响，以及开放种子运动作为对传统知识产权体系的一种替代方案。</description>
-      <pubDate>2024-09-18 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Export Multiple Stylesheets to postcss-import</title>
-      <link>https://jaketrent.com/post/export-multiple-stylesheets-postcss-import</link>
-      <description>总结：
-本文介绍了如何使用postcss-import插件将多个样式表导出到CSS文件中。由于postcss-import不支持Node.js的命名导出，作者建议使用postcss-import的路径查找功能，并设置package.json中的style字段。此外，建议在文件名前添加命名空间前缀，以便在导入时指定特定包的样式表。</description>
       <pubDate>2024-09-18 00:00:00</pubDate>
     </item>
   
