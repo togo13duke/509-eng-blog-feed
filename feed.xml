@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Establish your Generative AI expertise with the latest Databricks certification</title>
+      <link>https://www.databricks.com/blog/establish-your-generative-ai-expertise-latest-databricks-certification</link>
+      <description>Databricks推出首个生成式AI工程师认证，旨在帮助企业和个人建立生成式AI应用构建和部署的专业技能。该认证结合理论与实践，涵盖生成式AI解决方案的设计、开发、部署和监控。Databricks不断更新学习材料和考试内容，确保学员掌握最新技能。通过Databricks学院的学习和考试准备，学员可提升在生成式AI领域的竞争力。</description>
+      <pubDate>2024-09-19 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Protecting REST APIs Behind Amazon API Gateway Using Okta</title>
+      <link>https://auth0.com/blog/protecting-rest-apis-behind-aws-api-gateway/</link>
+      <description>本文介绍了如何使用Okta（Auth0）保护REST API背后的Amazon API Gateway。通过设置Amazon API Gateway和Okta的Customer Identity Cloud（Auth0），实现了对REST API的安全保护。文章详细说明了如何使用预建的Pets API进行演示，包括实现Lambda授权器验证Auth0令牌，以及如何使用JavaScript前端应用程序进行用户认证和API调用。</description>
+      <pubDate>2024-09-19 15:32:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing the Coral Cloud Resorts Sample App</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/introducing-the-coral-cloud-resorts-sample-app.html</link>
+      <description>Coral Cloud Resorts是Salesforce开发者社区推出的一个示例应用，旨在帮助开发者通过实际代码和最佳实践深入了解Agentforce和Data Cloud。该应用基于虚构的度假村，利用数据和AI提供个性化客户体验，涵盖数据云、提示模板和智能代理等功能。开发者可通过GitHub获取源代码，并在Salesforce平台上进一步探索。</description>
+      <pubDate>2024-09-19 15:00:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancements to the Traces UI in the OpenShift web console: Technology preview release</title>
+      <link>https://developers.redhat.com/articles/2024/09/19/enhancements-traces-ui-openshift-web-console-technology-preview-release</link>
+      <description>OpenShift Web控制台Traces UI插件技术预览版发布，新增功能包括：新的TraceQL查询器、改进的交互式跟踪表、新的迷你甘特图、带有跟踪详细信息和侧面板的甘特图，支持多租户。这些功能旨在提高用户对分布式系统请求生命周期的监控能力，帮助用户发现服务中的性能瓶颈和问题。</description>
+      <pubDate>2024-09-19 14:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>10 Docker Myths Debunked</title>
       <link>https://www.docker.com/blog/docker-myths-debunked/</link>
       <description>Docker容器技术自2013年推出以来，已成为开发、部署和运行容器化应用的关键平台。本文揭示了关于Docker的八大常见误解，包括其开源性质、与虚拟机的区别、不同版本的功能差异、与Kubernetes的关系、安全性、发展现状、学习难度以及应用范围。Docker不仅易于学习，而且广泛应用于开发、测试、数据科学和医疗保健等领域，是推动容器化技术发展的关键工具。</description>
@@ -73,6 +101,13 @@
       <link>https://spin.atomicobject.com/skip-friday-standups/</link>
       <description>我们通过跳过周五的站立会议、提前准备待办事项精炼以及安排社交和技术交流时间，对团队工作流程和团队动态进行了小调整，这些看似微不足道的改变却带来了显著的积极影响。这些调整不仅提高了工作效率，还增强了团队凝聚力，使远程工作团队感觉更加紧密。</description>
       <pubDate>2024-09-19 12:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Observability signal correlation for Red Hat OpenShift: Technology preview</title>
+      <link>https://developers.redhat.com/articles/2024/09/19/observability-signal-correlation-red-hat-openshift-technology-preview</link>
+      <description>Red Hat OpenShift发布了一项名为“可观察性信号相关性”的技术预览版，作为Cluster Observability Operator 0.4.0版本的一部分。该技术由Red Hat内部成立的Korrel8r开源项目提供支持，旨在简化跨不同数据存储的指标、日志、警报、网络流和其他可观察性信号的关联。新功能包括改进的故障排除面板、更直观的查询可视化和增强的可用性。</description>
+      <pubDate>2024-09-19 10:30:00</pubDate>
     </item>
   
     <item>
@@ -155,9 +190,23 @@
     </item>
   
     <item>
+      <title>GraphQL non-nullable fields can lead to cascading null errors.</title>
+      <link>https://advancedweb.hu/shorts/graphql-non-nullable-fields-can-lead-to-cascading-null-errors/</link>
+      <description>GraphQL的非空字段可能导致级联空值错误。当查询敏感信息如项目客户时，如果返回错误，整个用户对象会变为null。建议将敏感字段标记为可空，而不是使用魔法值或空列表来规避空值问题。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Secure your Elastic Cloud account with multifactor authentication (MFA)</title>
       <link>https://www.elastic.co/blog/user-account-security-mfa</link>
       <description>Elastic Cloud推出增强的多因素认证（MFA）功能，以加强账户安全性。MFA要求用户输入两个或多个验证因素，如指纹、电子邮件或认证器应用，以增加账户被非法访问的难度。新功能包括默认启用MFA、支持电子邮件MFA和淘汰SMS MFA。用户应立即设置MFA以保护其Elastic Cloud账户。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Boosting ML Pipeline Efficiency: Direct Cassandra Ingestion from Spark</title>
+      <link>https://engineeringblog.yelp.com/2024/09/boosting-ml-pipeline-efficiency-direct-cassandra-ingestion-from-spark.html</link>
+      <description>Yelp通过直接从Spark将数据同步到Cassandra，提高了机器学习管道的效率。这一改进消除了数据管道，减少了执行器和I/O操作的成本，并提高了开发效率。通过直接发布功能，工程师可以更轻松地跟踪数据状态，并减少了维护复杂性。</description>
       <pubDate>2024-09-19 00:00:00</pubDate>
     </item>
   
