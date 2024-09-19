@@ -6,10 +6,38 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to choose what to work on</title>
+      <link>https://blog.rootsofprogress.org/how-to-choose-what-to-work-on</link>
+      <description>选择工作方向时，应关注个人激情、重要性和市场需求。通过结合对重要议题的执着、对重要性的坚信以及独特的方法论，可以找到既符合个人兴趣又能满足社会需求的项目。重要的是要相信直觉，追随内心的激情，即使面对未知和挑战。</description>
+      <pubDate>2024-09-18 20:37:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Landmark AI deal sees Hollywood giant Lionsgate provide library for AI training</title>
+      <link>https://arstechnica.com/?p=2050685</link>
+      <description>好莱坞巨头狮门影业与AI视频合成公司Runway达成合作，利用狮门庞大的电影和电视库训练AI模型，旨在提高内容制作效率并降低成本。此举引发行业对AI在内容创作中应用的担忧，包括对艺术家和电影制作人的工作安全、肖像权滥用和伦理问题的关注。</description>
+      <pubDate>2024-09-18 20:10:44</pubDate>
+    </item>
+  
+    <item>
+      <title>Massive China-state IoT botnet went undetected for four years—until now</title>
+      <link>https://arstechnica.com/?p=2050629</link>
+      <description>美国联邦调查局（FBI）近日揭露并摧毁了一个由中国政府支持的黑客组织运营的庞大物联网（IoT）僵尸网络，该网络在四年内未被检测到。该僵尸网络主要由小型办公和家用路由器、监控摄像头、网络附加存储等设备组成，遍布全球，其中75%的受感染设备位于北美和欧洲。研究人员称，这是迄今为止发现的最大中国国家级僵尸网络。</description>
+      <pubDate>2024-09-18 19:58:42</pubDate>
+    </item>
+  
+    <item>
       <title>Now available: Graviton4-powered memory-optimized Amazon EC2 X8g instances</title>
       <link>https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/</link>
       <description>亚马逊发布新型Graviton4驱动的内存优化Amazon EC2 X8g实例，提供高达3TiB的DDR5内存和192个vCPU，适用于电子设计自动化、内存数据库、关系数据库、实时分析和内存受限的微服务。这些实例具有最佳的价格性能和扩展能力，支持多种工作负载，并具备增强的安全特性。</description>
       <pubDate>2024-09-18 19:46:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Build Your Own Customer Success Scorecard with Amazon SageMaker and Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/customer-success-scorecard-amazon-sagemaker-data-cloud.html</link>
+      <description>本文介绍了如何使用Amazon SageMaker和Data Cloud构建自己的客户成功评分卡（CSS）。通过结合Salesforce产品数据、机器学习模型和Einstein Studio，实现了对组织绩效的跟踪和分析。文章详细介绍了从数据准备到模型部署的步骤，并提供了自动化工具，使非技术背景的开发者也能轻松实现。</description>
+      <pubDate>2024-09-18 19:05:00</pubDate>
     </item>
   
     <item>
@@ -280,6 +308,20 @@
       <title>The big ideas behind retrieval augmented generation</title>
       <link>https://www.elastic.co/blog/retrieval-augmented-generation-explained</link>
       <description>本文探讨了检索增强生成（RAG）在生成式AI中的应用，通过结合语义搜索和LLM，使AI能够根据私有数据源提供更准确、更符合特定需求的回答。文章指出，尽管LLM在理解和回应用户输入方面表现出色，但它们依赖于公共数据，可能缺乏特定领域的信息。RAG通过在提示中包含必要信息，允许现有LLM与额外内容协同工作，从而克服了这一限制。文章还讨论了向量嵌入和语义搜索在实现这一目标中的作用，以及如何通过优化提示和选择合适的嵌入模型来提高AI的性能。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Practical strategies for Laravel performance optimization</title>
+      <link>https://www.honeybadger.io/blog/optimize-laravel/</link>
+      <description>Laravel性能优化策略：本文探讨了优化Laravel应用性能的最佳实践，包括使用缓存、优化数据库查询、使用队列和CDN，以提高响应速度、用户体验和成本效益。</description>
+      <pubDate>2024-09-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Seizing the Means of Re-Production</title>
+      <link>https://taylor.town/oh-infringement</link>
+      <description>本文探讨了植物知识产权（IP）的法律和伦理问题。文章首先介绍了不同类型的植物IP，包括商标、品种权和专利，并解释了它们如何保护植物和植物产品的名称、品种和基因。接着，文章讨论了植物专利和品种权在实际应用中的挑战，特别是与转基因作物和基因污染相关的法律争议。最后，文章分析了植物知识产权对农业和农民的影响，以及开放种子运动作为对传统知识产权体系的一种替代方案。</description>
       <pubDate>2024-09-18 00:00:00</pubDate>
     </item>
   
