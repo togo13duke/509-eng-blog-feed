@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>NC governor candidate cries AI fabrication as defense for racist porn forum posts</title>
+      <link>https://arstechnica.com/?p=2051248</link>
+      <description>北卡罗来纳州州长候选人马克·罗宾逊声称其十年前在色情网站论坛上的种族主义言论是由人工智能伪造的。CNN的调查发现，罗宾逊在2008年至2012年间使用“minisoldr”用户名在“Nude Africa”网站上发表了这些言论。尽管有证据表明这些言论是罗宾逊所写，但他坚持自己的说法，并指责是AI在操纵。这一事件引发了关于“深度怀疑时代”的讨论，即人工智能的兴起使得谎言者有更多借口来否认证据，并可能导致民主话语的侵蚀。</description>
+      <pubDate>2024-09-20 15:49:28</pubDate>
+    </item>
+  
+    <item>
       <title>Medical Centers Tap AI, Federated Learning for Better Cancer Detection</title>
       <link>https://blogs.nvidia.com/blog/ai-federated-learning-cancer-detection/</link>
       <description>美国顶尖医疗中心和研究所的专家团队正在利用NVIDIA的联邦学习技术，以提高癌症检测的准确性。通过在多个地点同时构建和测试模型，联邦学习在保护数据隐私的同时，提升了模型准确性和泛化能力。该团队使用NVIDIA FLARE框架和RTX A5000 GPU，结合AI辅助标注工具MONAI，优化了模型训练过程，并计划将研究成果公开发布，以促进医疗领域的进一步发展。</description>
       <pubDate>2024-09-20 14:00:49</pubDate>
+    </item>
+  
+    <item>
+      <title>How can I check that all the changes in a git branch have been cherry-picked or rebased into its upstream branch?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240920-00/?p=110287</link>
+      <description>如何检查Git分支中的所有更改是否已合并到其上游分支？可以通过将分支合并到上游并查看是否有任何更改来确认。如果没有输出，则所有更改已在上游中，可以删除分支。如果有输出，则分支中存在上游中缺失的内容，需要检查这些更改是否值得保留。</description>
+      <pubDate>2024-09-20 14:00:00</pubDate>
     </item>
   
     <item>
@@ -71,6 +85,13 @@
     </item>
   
     <item>
+      <title>Detecting errors in AI-generated code</title>
+      <link>https://stackoverflow.blog/2024/09/20/detecting-errors-in-ai-generated-code/</link>
+      <description>本文探讨了检测AI生成代码中错误的方法。作者与多伦多约克大学的软件工程、数据科学和机器学习助理教授Gias Uddin进行了对话，讨论了AI生成代码中的“幻觉”概念，以及检测和纠正这些幻觉的工具需求。此外，还探讨了AI工具生成QA测试的潜力。</description>
+      <pubDate>2024-09-20 07:40:00</pubDate>
+    </item>
+  
+    <item>
       <title>InterSystems IRIS operations made easy with Red Hat Insights</title>
       <link>https://developers.redhat.com/articles/2024/09/20/intersystems-iris-operations-made-easy-red-hat-insights</link>
       <description>Red Hat Insights与InterSystems合作，为Red Hat Enterprise Linux系统管理员提供操作InterSystems IRIS的建议和警报，优化性能并防止故障转移问题。通过Insights Advisor，管理员可以调整配置设置，确保最佳性能，并使用API获取系统信息。</description>
@@ -117,6 +138,13 @@
       <link>https://www.elastic.co/blog/threat-modeling-oatmeal</link>
       <description>OATMEAL威胁建模框架通过将环境分解为可管理的层，提供了一种结构化和全面的方法来理解和缓解潜在威胁。它通过可视化叠加和详细文档，帮助组织优先考虑安全工作并提高整体安全态势。OATMEAL适用于所有安全专业人士，无论经验如何，都是分析潜在威胁的有效方法。</description>
       <pubDate>2024-09-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Fine-tuning Llama 3.1 with Long Sequences</title>
+      <link>https://www.databricks.com/blog/llama-finetuning</link>
+      <description>Databricks宣布Mosaic AI模型训练现在支持对Meta Llama 3.1模型家族进行长达131K个标记的全上下文长度微调。这一新功能使Databricks客户能够利用长上下文长度的企业数据创建专用模型，从而构建更高品质的检索增强生成（RAG）或工具使用系统。通过优化内存使用和训练效率，Databricks实现了在长上下文长度上高效微调Llama 3.1模型，为客户提供更好的模型质量和训练吞吐量。</description>
+      <pubDate>2024-09-19 23:48:51</pubDate>
     </item>
   
     <item>
