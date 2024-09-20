@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Microsoft releases a new Windows app called Windows App for running Windows apps</title>
+      <link>https://arstechnica.com/?p=2051069</link>
+      <description>微软发布了一款名为“Windows App”的新应用程序，允许用户在Windows、macOS、iOS、Android和Web浏览器上运行Windows应用程序。该应用旨在替代Microsoft Remote Desktop，提供统一的远程桌面访问方式，包括Windows 365、Azure Virtual Desktop等云服务。此外，它还支持IT管理员更好的设备管理，并优化了账户切换和网络连接。</description>
+      <pubDate>2024-09-19 22:03:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Ever wonder how crooks get the credentials to unlock stolen phones?</title>
+      <link>https://arstechnica.com/?p=2051165</link>
+      <description>执法机构关闭了一项为解锁超过120万部被盗或丢失的手机提供便利的服务。该服务是自2018年以来运营的iServer钓鱼服务平台的组成部分，该平台位于阿根廷，提供通过电子邮件、短信和电话进行钓鱼的相关服务。iServer为那些拥有大量被盗或丢失手机的人提供了一种专门的服务，帮助他们获取绕过iPhone丢失模式等保护措施的凭证。执法机构逮捕了iServer的幕后黑手，并确定了2000多名注册在钓鱼平台上的“解锁者”。</description>
+      <pubDate>2024-09-19 21:41:34</pubDate>
+    </item>
+  
+    <item>
       <title>Try out OpenAI o1 in GitHub Copilot and Models</title>
       <link>https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/</link>
       <description>GitHub Copilot现在支持OpenAI o1-preview和o1-mini模型，这些模型具备高级推理能力，可提高代码生成效率和结果质量。开发者可以通过GitHub Copilot Chat和GitHub Models playground体验这些新模型，并开始在自己的应用中集成它们。</description>
@@ -300,6 +314,13 @@
       <title>Learning From Structure: Discord’s Entity-Relationship Embeddings</title>
       <link>https://discord.com/blog/learning-from-structure-discords-entity-relationship-embeddings</link>
       <description>Discord开发了名为DERE的实体关系嵌入技术，用于从原始数据中构建有意义的表示。DERE通过预训练每个用户、公会、游戏等实体的嵌入，并使用对比学习技术来训练模型，从而快速构建模型并从数据中生成洞察。这项技术已在多个Discord项目中得到应用，包括分类、推荐和游戏相似度分析，旨在提高效率和用户体验。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Transcribe phone calls in real-time using C# .NET with AssemblyAI and Twilio</title>
+      <link>https://www.twilio.com/en-us/blog/transcribe-phone-calls-real-time-csharp-assemblyai-twilio</link>
+      <description>使用C# .NET和AssemblyAI，结合Twilio实时转录电话通话至文本。教程介绍了如何创建一个应用，当有人拨打Twilio电话号码时，通过Media Streams API将通话音频流式传输到WebSocket ASP.NET Core服务器，服务器再将音频传递给AssemblyAI的实时语音转文字服务。</description>
       <pubDate>2024-09-19 00:00:00</pubDate>
     </item>
   
