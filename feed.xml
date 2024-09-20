@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Secret calculator hack brings ChatGPT to the TI-84, enabling easy cheating</title>
+      <link>https://arstechnica.com/?p=2051342</link>
+      <description>YouTube创作者ChromaLock发布视频，展示如何将ChatGPT集成到TI-84图形计算器中，实现考试作弊。通过定制硬件修改，用户可以在计算器上输入问题，并通过屏幕接收ChatGPT的实时回复。该设备还提供其他作弊工具，如图像浏览器和文本作弊表。然而，使用此设备作弊可能违反学术诚信，并导致严重后果。</description>
+      <pubDate>2024-09-20 21:15:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Google calls for halting use of WHOIS for TLS domain verifications</title>
+      <link>https://arstechnica.com/?p=2051511</link>
+      <description>Google呼吁停止使用WHOIS数据验证TLS域名所有权，因研究表明威胁行为者可利用此过程获取欺诈性TLS证书。此做法存在安全漏洞，导致证书颁发机构依赖不可靠的WHOIS数据。建议逐步淘汰WHOIS数据，并探讨使用替代协议。</description>
+      <pubDate>2024-09-20 20:53:25</pubDate>
+    </item>
+  
+    <item>
       <title>NC governor candidate cries AI fabrication as defense for racist porn forum posts</title>
       <link>https://arstechnica.com/?p=2051248</link>
       <description>北卡罗来纳州州长候选人马克·罗宾逊声称其十年前在色情网站论坛上的种族主义言论是由人工智能伪造的。CNN的调查发现，罗宾逊在2008年至2012年间使用“minisoldr”用户名在“Nude Africa”网站上发表了这些言论。尽管有证据表明这些言论是罗宾逊所写，但他坚持自己的说法，并指责是AI在操纵。这一事件引发了关于“深度怀疑时代”的讨论，即人工智能的兴起使得谎言者有更多借口来否认证据，并可能导致民主话语的侵蚀。</description>
@@ -38,6 +52,20 @@
       <link>https://www.timescale.com/blog/boosting-query-performance-for-tiered-data-in-postgresql/</link>
       <description>Timescale Cloud通过将数据分层存储，实现了在PostgreSQL中提升400倍查询性能。通过将不常访问的旧数据移动到更便宜的存储，同时保持查询性能，Timescale Cloud允许用户在保持高性能的同时显著降低存储成本。通过优化如块排除、行组排除和列排除等技术，查询分层数据变得更加快速高效。</description>
       <pubDate>2024-09-20 13:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>From CDNs to Frontend Clouds</title>
+      <link>https://vercel.com/blog/from-cdns-to-frontend-clouds</link>
+      <description>Vercel通过其前端云平台，利用框架定义的基础设施，简化了部署并管理基础设施，使开发者能够专注于创新和用户体验，同时实现应用交付的六个核心原则：速度、全球覆盖、可扩展性、动态性、可靠性和安全性。这一转变使得开发者能够通过编写框架代码来直接定义底层架构，从而实现性能优化和基础设施增强，最终提升用户体验和业务价值。</description>
+      <pubDate>2024-09-20 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI SDK 3.4</title>
+      <link>https://vercel.com/blog/ai-sdk-3-4</link>
+      <description>AI SDK 3.4版本发布，引入了语言模型中间件、数据流协议、多步骤调用等功能，支持更灵活的AI应用开发。新版本还增强了追踪能力，提供模拟模型和测试工具，方便开发者进行性能测试和单元测试。</description>
+      <pubDate>2024-09-20 13:00:00</pubDate>
     </item>
   
     <item>
@@ -85,6 +113,13 @@
     </item>
   
     <item>
+      <title>Thinking Inside the Box: How to Solve the Bin Packing Problem with Ray on Databricks</title>
+      <link>https://www.databricks.com/blog/thinking-inside-box-how-solve-bin-packing-problem-ray-databricks</link>
+      <description>Databricks博客文章介绍了如何使用Ray在Databricks上解决装箱问题，通过优化算法和并行计算技术，显著减少了装箱时间，提高了效率，并降低了成本。</description>
+      <pubDate>2024-09-20 07:54:36</pubDate>
+    </item>
+  
+    <item>
       <title>Detecting errors in AI-generated code</title>
       <link>https://stackoverflow.blog/2024/09/20/detecting-errors-in-ai-generated-code/</link>
       <description>本文探讨了检测AI生成代码中错误的方法。作者与多伦多约克大学的软件工程、数据科学和机器学习助理教授Gias Uddin进行了对话，讨论了AI生成代码中的“幻觉”概念，以及检测和纠正这些幻觉的工具需求。此外，还探讨了AI工具生成QA测试的潜力。</description>
@@ -120,6 +155,13 @@
     </item>
   
     <item>
+      <title>Default blind</title>
+      <link>https://blog.sbensu.com/posts/default-blind/</link>
+      <description>在软件业务中，由于缺乏观察，人们往往无法正确地定位和决策。文章通过一个纸店的故事说明了观察的重要性，并指出在抽象系统中，人们往往忽视观察，导致误解和错误的决策。文章强调，要成为有方向的人，需要主动观察、研究业务、记录重要指标，并期望他人也能保持观察。</description>
+      <pubDate>2024-09-20 04:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why Is Autumn The Only Season With Two Names?</title>
       <link>https://www.babbel.com/en/magazine/fall-and-autumn</link>
       <description>为什么秋天是唯一有两个名称的季节？秋天和秋分在美国和英国人之间引发了争议。文章探讨了这两个名称的起源和差异，指出“秋天”和“fall”的用法差异源于美式英语和英式英语的差异，以及语言演变的历史背景。秋天（autumn）一词源自17世纪的英国英语，而“fall”则在美国更为常见。文章还简要介绍了其他语言中季节名称的用法。</description>
@@ -141,10 +183,31 @@
     </item>
   
     <item>
+      <title>How Discord Reduced Websocket Traffic by 40%</title>
+      <link>https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent</link>
+      <description>Discord通过采用zstandard压缩算法，成功将WebSocket流量减少了40%。通过实验和调整，Discord团队发现zstandard在流式压缩和字典支持方面优于zlib，从而实现了更高的压缩比和更低的带宽使用。这项改进不仅提高了移动端性能，还扩展到了桌面用户。</description>
+      <pubDate>2024-09-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Exception Handling in JavaScript</title>
+      <link>https://www.honeybadger.io/blog/javascript-exception-handling/</link>
+      <description>JavaScript异常处理是确保应用稳定性和用户体验的关键。本文深入探讨了JavaScript中异常处理的重要性，包括错误检测、错误处理机制（try-catch-finally块）和错误日志记录。通过示例代码和Honeybadger工具的使用，展示了如何有效地管理异常，提高应用的可靠性。</description>
+      <pubDate>2024-09-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Fine-tuning Llama 3.1 with Long Sequences</title>
       <link>https://www.databricks.com/blog/llama-finetuning</link>
       <description>Databricks宣布Mosaic AI模型训练现在支持对Meta Llama 3.1模型家族进行长达131K个标记的全上下文长度微调。这一新功能使Databricks客户能够利用长上下文长度的企业数据创建专用模型，从而构建更高品质的检索增强生成（RAG）或工具使用系统。通过优化内存使用和训练效率，Databricks实现了在长上下文长度上高效微调Llama 3.1模型，为客户提供更好的模型质量和训练吞吐量。</description>
       <pubDate>2024-09-19 23:48:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Advanced Web Deployment With Plesk on Vultr</title>
+      <link>https://www.sitepoint.com/web-deployment-with-plesk-on-vultr/?utm_source=rss</link>
+      <description>Plesk是一个强大的网页托管控制面板，简化了服务器和网站管理。本文介绍了如何在Vultr上部署Plesk，包括设置管理员账户、添加域名、配置SSL证书等步骤，以及Plesk的特性和优势，如集中式用户管理、自动化任务、多语言支持和备份恢复功能。</description>
+      <pubDate>2024-09-19 22:25:13</pubDate>
     </item>
   
     <item>
