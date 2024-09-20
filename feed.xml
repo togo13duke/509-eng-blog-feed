@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AI models let robots carry out tasks in unfamiliar environments</title>
+      <link>https://www.technologyreview.com/2024/09/20/1104233/ai-models-let-robots-carry-out-tasks-in-unfamiliar-environments/</link>
+      <description>研究人员开发了一种新型AI模型，使机器人在新环境中完成基本任务，无需额外训练或调整。这些“机器人实用模型”（RUMs）能够以90%的成功率完成五项任务，包括开门、抽屉、拾取纸巾、袋子和圆柱形物体。这一进展有望加快机器人新技能的学习，并使机器人能够在以前未见过的领域内运作。</description>
+      <pubDate>2024-09-20 10:12:08</pubDate>
+    </item>
+  
+    <item>
       <title>Flu season is coming—and so is the risk of an all-new bird flu</title>
       <link>https://www.technologyreview.com/2024/09/20/1104194/flu-season-risk-of-all-new-bird-flu/</link>
       <description>随着流感季节的临近，禽流感风险也随之增加。多种流感病毒在一种动物体内结合可能导致新的病毒株形成，正如过去大流行病中所发生的那样。美国疾病控制与预防中心建议六个月以上的人都接种流感疫苗，特别是奶牛场工人，以降低新流感大流行的风险。然而，疫苗的有效性有限，且并非所有人都会接种。因此，公众应避免接触生奶和死动物，并依赖政府机构监控病毒传播。</description>
@@ -27,10 +34,24 @@
     </item>
   
     <item>
+      <title>Error'd: A Dark Turn</title>
+      <link>https://thedailywtf.com/articles/a-dark-turn</link>
+      <description>Lyle Seaman在《Error'd》中探讨了南北半球日照时间差异带来的感受，同时提及了多个与编程和IT相关的趣事，包括Microsoft Office365反垃圾邮件过滤器的问题、测试数据在生产环境中的错误、费用计算错误、表单设计问题以及编码问题等。</description>
+      <pubDate>2024-09-20 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>‘We’ve Fused Signal Processing and AI’: NVIDIA CEO Outlines Future of Telecom at T-Mobile’s Capital Markets Day</title>
       <link>https://blogs.nvidia.com/blog/wireless-ai-t-mobile/</link>
       <description>NVIDIA CEO黄仁勋在T-Mobile资本市场日上展望电信行业未来，强调将信号处理与AI融合，推出AI Aerial平台，旨在优化无线网络性能和效率，并开辟新的收入来源。AI-RAN技术将使网络更高效，并推动电信行业增长。黄仁勋还强调了AI在提高网络能效和满足数据连接需求增长中的关键作用。</description>
       <pubDate>2024-09-20 05:48:51</pubDate>
+    </item>
+  
+    <item>
+      <title>The twists of the Ballmer puzzle</title>
+      <link>https://advancedweb.hu/shorts/the-twists-of-the-ballmer-puzzle/</link>
+      <description>Ballmer谜题是一个简单的数字猜测游戏，但其中隐藏着策略和数学的复杂性。玩家B需要猜测一个1到100之间的数字，每次猜测后，玩家A会告诉他是高是低。游戏中的策略和玩家A的对抗性策略会影响玩家B的期望回报。文章探讨了是否存在一种算法，即使玩家A知道这个算法，也能让玩家B获得正回报。此外，还讨论了玩家A可以采取的一种策略，使得玩家B无论如何都会输。</description>
+      <pubDate>2024-09-20 00:00:00</pubDate>
     </item>
   
     <item>
@@ -356,6 +377,13 @@
       <title>Transcribe phone calls in real-time using C# .NET with AssemblyAI and Twilio</title>
       <link>https://www.twilio.com/en-us/blog/transcribe-phone-calls-real-time-csharp-assemblyai-twilio</link>
       <description>使用C# .NET和AssemblyAI，结合Twilio实时转录电话通话至文本。教程介绍了如何创建一个应用，当有人拨打Twilio电话号码时，通过Media Streams API将通话音频流式传输到WebSocket ASP.NET Core服务器，服务器再将音频传递给AssemblyAI的实时语音转文字服务。</description>
+      <pubDate>2024-09-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Power of Crystal: A language for humans and computers @ Helvetic Ruby 2024</title>
+      <link>https://crystal-lang.org/2024/09/19/talk-power-of-crystal-helvetic-ruby-2024/</link>
+      <description>在2024年Helvetic Ruby会议上，Johannes Müller分享了关于Crystal编程语言的演讲，旨在让Ruby开发者了解Crystal。演讲内容涵盖了Crystal的特点和未来，并鼓励开发者交流想法，传播Crystal。Crystal团队支持在演讲、研讨会等活动中推广Crystal。</description>
       <pubDate>2024-09-19 00:00:00</pubDate>
     </item>
   
