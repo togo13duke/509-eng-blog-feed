@@ -255,6 +255,13 @@
     </item>
   
     <item>
+      <title>eBay Inc. Announces New Member to Board of Directors</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-inc-announces-new-member-to-board-of-directors-2/</link>
+      <description>eBay宣布任命CarMax首席执行官Bill Nash为新独立董事，他将在零售、电子商务和技术发展方面为eBay带来丰富经验，助力公司实现可持续增长。Nash在CarMax的领导下推动了公司向全渠道零售商转型，并拥有在人力资源和行政服务方面的丰富经验。</description>
+      <pubDate>2024-09-19 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: A Managed Session</title>
       <link>https://thedailywtf.com/articles/a-managed-session</link>
       <description>Remy Porter在TDWTF上分享了一篇关于ASP .Net应用程序中特殊代码的文章。文章中，Roald发现了一个名为RetrieveSessionString的函数，它尝试从Session对象中获取字符串，但处理null值的方式不当。此外，还有一个类似的函数RetrieveSessionDictionary，它尝试获取字典，但同样没有处理类型转换失败的情况。Remy指出，这种使用“session”一词在不同上下文中的方式令人不舒服，并认为函数命名和类型转换的做法不够理想。</description>
