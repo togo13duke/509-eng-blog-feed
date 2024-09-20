@@ -153,13 +153,6 @@
     </item>
   
     <item>
-      <title>Improvements to Vercel Toolbar: Shrinking when inactive, removal of avatars, and more</title>
-      <link>https://vercel.com/changelog/improvements-to-vercel-toolbar</link>
-      <description>Vercel更新了其工具栏，使其在非活动状态时缩小，移除了团队成员的头像，并优化了文本选择功能。这些改进旨在提高用户体验，使工具栏在需要时可用，在不使用时则保持简洁。</description>
-      <pubDate>2024-09-19 13:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>How to Use Jaeger with OpenTelemetry</title>
       <link>https://last9.io/blog/how-to-use-jaeger-with-opentelemetry/</link>
       <description>本文深入探讨了如何使用Jaeger与OpenTelemetry结合进行分布式追踪和应用程序监控。介绍了Jaeger和OpenTelemetry的功能和优势，以及它们如何互补。文章详细说明了集成步骤，包括选择编程语言、安装依赖、配置OpenTelemetry和Jaeger、进行代码的分布式追踪、验证和优化配置。通过这些步骤，开发者可以有效地利用Jaeger和OpenTelemetry来提高应用程序的性能和可观察性。</description>
@@ -357,13 +350,6 @@
       <link>https://arstechnica.com/?p=2050587</link>
       <description>SocialAI，一款由AI驱动的社交媒体应用，允许用户仅与AI聊天机器人互动，而非真实人类。这款应用旨在为孤独或被拒绝的人提供支持和反馈，但因其完全由AI生成的内容而受到批评。用户可以选择不同类型的AI聊天机器人，如“支持者”、“极客”和“怀疑者”，这些机器人会就各种主题发表简短评论和反应。尽管应用旨在提供社区感，但其AI聊天机器人的局限性包括提供错误信息和有限的情感范围。</description>
       <pubDate>2024-09-18 22:19:15</pubDate>
-    </item>
-  
-    <item>
-      <title>Pēteris Daliņš joins GoCardless as VP Operations and Riga site lead</title>
-      <link>https://gocardless.com/blog/peteris-dalins-joins-gocardless-as-vp-operations-and-riga-site-lead/</link>
-      <description>GoCardless任命Pēteris Daliņš为运营副总裁和里加办公室负责人，负责领导全球共享服务团队，包括客户运营、风险运营、支付处理和账单。Daliņš拥有丰富的国际经验，曾在多个地区担任高级管理职务，最近在KPMG工作。GoCardless在里加的投资和扩张计划中，计划到2024年底在里加办公室拥有多达300名员工。</description>
-      <pubDate>2024-09-18 22:11:27</pubDate>
     </item>
   
     <item>
