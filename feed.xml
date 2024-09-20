@@ -6,6 +6,57 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Medical Centers Tap AI, Federated Learning for Better Cancer Detection</title>
+      <link>https://blogs.nvidia.com/blog/ai-federated-learning-cancer-detection/</link>
+      <description>美国顶尖医疗中心和研究所的专家团队正在利用NVIDIA的联邦学习技术，以提高癌症检测的准确性。通过在多个地点同时构建和测试模型，联邦学习在保护数据隐私的同时，提升了模型准确性和泛化能力。该团队使用NVIDIA FLARE框架和RTX A5000 GPU，结合AI辅助标注工具MONAI，优化了模型训练过程，并计划将研究成果公开发布，以促进医疗领域的进一步发展。</description>
+      <pubDate>2024-09-20 14:00:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Adding Cluster Labels to Kubernetes Metrics</title>
+      <link>https://last9.io/blog/adding-cluster-labels-to-kubernetes-metrics/</link>
+      <description>本文深入探讨了在Kubernetes集群中添加集群标签的重要性，并提供了使用Prometheus Operator和Kube Helm Stack添加标签的具体步骤。通过添加标签，可以轻松过滤和分组指标，创建更有意义的仪表板和警报，简化跨集群比较指标的过程。文章还比较了两种方法的范围、灵活性和用例，并提供了避免常见问题的建议。</description>
+      <pubDate>2024-09-20 13:13:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Boosting 400x Query Performance for Tiered Data on S3 in PostgreSQL</title>
+      <link>https://www.timescale.com/blog/boosting-query-performance-for-tiered-data-in-postgresql/</link>
+      <description>Timescale Cloud通过将数据分层存储，实现了在PostgreSQL中提升400倍查询性能。通过将不常访问的旧数据移动到更便宜的存储，同时保持查询性能，Timescale Cloud允许用户在保持高性能的同时显著降低存储成本。通过优化如块排除、行组排除和列排除等技术，查询分层数据变得更加快速高效。</description>
+      <pubDate>2024-09-20 13:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: training robots for unfamiliar environments, and all-new bird flu</title>
+      <link>https://www.technologyreview.com/2024/09/20/1104236/the-download-training-robots-for-unfamiliar-environments-and-all-new-bird-flu/</link>
+      <description>研究人员开发了一种新的AI模型，使机器人在不熟悉的环境中完成基本任务，如开门、抽屉、拾取纸巾、袋子、圆柱形物体等，成功率高达90%。这一进展有望加快机器人新技能的学习，并使其在以前未见过的领域内运作，未来在家中使用机器人将更加容易和便宜。</description>
+      <pubDate>2024-09-20 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deferring tasks with Laravel's defer() helper</title>
+      <link>https://freek.dev/2764-deferring-tasks-with-laravels-defer-helper</link>
+      <description>Laravel的defer()助手函数详解，介绍其工作原理和应用场景，为PHP开发者提供实用技巧。</description>
+      <pubDate>2024-09-20 12:02:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #221: Thriving as a Developer With ADHD</title>
+      <link>https://realpython.com/podcasts/rpp/221/</link>
+      <description>在《Real Python Podcast》第221期中，主持人Christopher Bailey与嘉宾Chris Ferdinandi探讨了如何作为患有ADHD的开发者保持生产力。Ferdinandi分享了他如何利用ADHD的专注力，以及他发现的时间管理、会议和保持工作效率的策略。他还提供了关于ADHD的定义、自我评估和持续完成任务资源的建议。</description>
+      <pubDate>2024-09-20 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create a Social Media Content Planner: Your Guide for Consistent and Engaging Posts</title>
+      <link>https://s14415.pcdn.co/blog/social-media-content-planner/</link>
+      <description>如何创建社交媒体内容规划器：您的指南
+
+本文为您提供了创建社交媒体内容规划器的全面指南，帮助您保持内容的一致性和吸引力。通过使用内容规划器，您可以更有效地管理社交媒体活动，提高品牌形象，并增强与受众的互动。文章详细介绍了社交媒体规划的基本原则、可用工具、创建内容日历的步骤，以及如何通过分析数据来优化策略。无论您是初学者还是有经验的营销人员，这篇文章都将为您提供宝贵的见解和实用技巧。</description>
+      <pubDate>2024-09-20 11:56:41</pubDate>
+    </item>
+  
+    <item>
       <title>AI models let robots carry out tasks in unfamiliar environments</title>
       <link>https://www.technologyreview.com/2024/09/20/1104233/ai-models-let-robots-carry-out-tasks-in-unfamiliar-environments/</link>
       <description>研究人员开发了一种新型AI模型，使机器人在新环境中完成基本任务，无需额外训练或调整。这些“机器人实用模型”（RUMs）能够以90%的成功率完成五项任务，包括开门、抽屉、拾取纸巾、袋子和圆柱形物体。这一进展有望加快机器人新技能的学习，并使机器人能够在以前未见过的领域内运作。</description>
@@ -48,9 +99,23 @@
     </item>
   
     <item>
+      <title>Why Is Autumn The Only Season With Two Names?</title>
+      <link>https://www.babbel.com/en/magazine/fall-and-autumn</link>
+      <description>为什么秋天是唯一有两个名称的季节？秋天和秋分在美国和英国人之间引发了争议。文章探讨了这两个名称的起源和差异，指出“秋天”和“fall”的用法差异源于美式英语和英式英语的差异，以及语言演变的历史背景。秋天（autumn）一词源自17世纪的英国英语，而“fall”则在美国更为常见。文章还简要介绍了其他语言中季节名称的用法。</description>
+      <pubDate>2024-09-20 01:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The twists of the Ballmer puzzle</title>
       <link>https://advancedweb.hu/shorts/the-twists-of-the-ballmer-puzzle/</link>
       <description>Ballmer谜题是一个简单的数字猜测游戏，但其中隐藏着策略和数学的复杂性。玩家B需要猜测一个1到100之间的数字，每次猜测后，玩家A会告诉他是高是低。游戏中的策略和玩家A的对抗性策略会影响玩家B的期望回报。文章探讨了是否存在一种算法，即使玩家A知道这个算法，也能让玩家B获得正回报。此外，还讨论了玩家A可以采取的一种策略，使得玩家B无论如何都会输。</description>
+      <pubDate>2024-09-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Threat modeling: As easy as OATMEAL</title>
+      <link>https://www.elastic.co/blog/threat-modeling-oatmeal</link>
+      <description>OATMEAL威胁建模框架通过将环境分解为可管理的层，提供了一种结构化和全面的方法来理解和缓解潜在威胁。它通过可视化叠加和详细文档，帮助组织优先考虑安全工作并提高整体安全态势。OATMEAL适用于所有安全专业人士，无论经验如何，都是分析潜在威胁的有效方法。</description>
       <pubDate>2024-09-20 00:00:00</pubDate>
     </item>
   
@@ -270,6 +335,13 @@
       <title>Social Media Management Services: What You Get Beyond Enhancing Your Online Presence</title>
       <link>https://s14415.pcdn.co/blog/social-media-management-services/</link>
       <description>社交媒体管理服务帮助企业和品牌扩大在线影响力，实现营销目标。通过制定策略、创建内容、管理社区和监测绩效，这些服务能提升品牌形象，增强与客户的互动，并优化社交媒体活动。选择合适的社交媒体管理服务，无论是全面服务、部分服务还是使用管理工具，都能帮助企业更有效地利用社交媒体平台，提升品牌知名度，并实现业务增长。</description>
+      <pubDate>2024-09-19 09:00:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Management Services: What You Get Beyond Enhancing Your Online Presence</title>
+      <link>https://www.brandwatch.com/blog/social-media-management-services/</link>
+      <description>社交媒体管理服务帮助企业和品牌扩大在线影响力，实现营销目标。通过制定策略、创建内容、管理社区和监控性能，这些服务能提升品牌形象，增强与客户的互动，并优化社交媒体活动。选择合适的社交媒体管理服务，无论是全面服务、部分服务还是使用管理工具，都能帮助企业更有效地利用社交媒体平台，提升品牌知名度，并实现业务增长。</description>
       <pubDate>2024-09-19 09:00:17</pubDate>
     </item>
   
@@ -674,6 +746,13 @@
       <link>https://arstechnica.com/?p=2042584</link>
       <description>由于AI深度伪造技术的发展，我们正进入一个“深疑”时代，其中AI生成的逼真图像在社交媒体上泛滥，导致人们开始质疑媒体的真实性。这种“深疑”现象不仅影响了公众对媒体内容的信任，还可能对政治、法律和我们对历史事件的共同理解产生深远影响。</description>
       <pubDate>2024-09-18 09:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Setting up Algolia AI Search with the BigCommerce connector</title>
+      <link>https://algolia.com/blog/ecommerce/setting-up-algolia-ai-search-with-the-bigcommerce-connector/</link>
+      <description>本文介绍了如何使用Algolia AI Search与BigCommerce平台进行集成，以提升电商搜索功能。通过Algolia的连接器，开发者可以快速实现数据同步和前端集成，从而提供更快速、更准确的搜索结果，改善用户体验。文章详细介绍了设置过程，包括安装连接器、配置数据同步、设置自动完成和即时搜索，以及如何使用Algolia Insights和推荐功能来增强搜索体验。</description>
+      <pubDate>2024-09-18 08:16:15</pubDate>
     </item>
   
     <item>
