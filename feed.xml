@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>InterSystems IRIS operations made easy with Red Hat Insights</title>
+      <link>https://developers.redhat.com/articles/2024/09/20/intersystems-iris-operations-made-easy-red-hat-insights</link>
+      <description>Red Hat Insights与InterSystems合作，为Red Hat Enterprise Linux系统管理员提供操作InterSystems IRIS的建议和警报，优化性能并防止故障转移问题。通过Insights Advisor，管理员可以调整配置设置，确保最佳性能，并使用API获取系统信息。</description>
+      <pubDate>2024-09-20 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Extending OpenShift Virtualization connectivity options on hosted control planes in AWS</title>
+      <link>https://developers.redhat.com/articles/2024/09/20/extending-openshift-virtualization-connectivity-options-hosted-control-planes</link>
+      <description>Red Hat在AWS托管控制平面上扩展了OpenShift虚拟化连接选项，以替代即将结束维护支持的Red Hat虚拟化。文章详细介绍了如何设置Red Hat OpenShift集群的托管控制平面，并深入探讨了在AWS中复制数据中心的网络架构，以实现虚拟机可路由IP地址的分配。这种方法对于尚未现代化的工作负载尤为重要。</description>
+      <pubDate>2024-09-20 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>‘We’ve Fused Signal Processing and AI’: NVIDIA CEO Outlines Future of Telecom at T-Mobile’s Capital Markets Day</title>
+      <link>https://blogs.nvidia.com/blog/wireless-ai-t-mobile/</link>
+      <description>NVIDIA CEO黄仁勋在T-Mobile资本市场日上展望电信行业未来，强调将信号处理与AI融合，推出AI Aerial平台，旨在优化无线网络性能和效率，并开辟新的收入来源。AI-RAN技术将使网络更高效，并推动电信行业增长。黄仁勋还强调了AI在提高网络能效和满足数据连接需求增长中的关键作用。</description>
+      <pubDate>2024-09-20 05:48:51</pubDate>
+    </item>
+  
+    <item>
       <title>Microsoft releases a new Windows app called Windows App for running Windows apps</title>
       <link>https://arstechnica.com/?p=2051069</link>
       <description>微软发布了一款名为“Windows App”的新应用程序，允许用户在Windows、macOS、iOS、Android和Web浏览器上运行Windows应用程序。该应用旨在替代Microsoft Remote Desktop，提供统一的远程桌面访问方式，包括Windows 365、Azure Virtual Desktop等云服务。此外，它还支持IT管理员更好的设备管理，并优化了账户切换和网络连接。</description>
