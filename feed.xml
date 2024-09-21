@@ -211,6 +211,13 @@
     </item>
   
     <item>
+      <title>How to Send SMS with Messaging API and OpenAI API</title>
+      <link>https://www.twilio.com/en-us/blog/send-sms-programmable-messaging-openai-api</link>
+      <description>Twilio教程介绍了如何使用Twilio Programmable Messaging API和OpenAI API构建一个发送积极信息的短信应用。该应用利用预定义消息和OpenAI的GPT-3模型生成新消息，旨在提升客户满意度和体验。</description>
+      <pubDate>2024-09-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>2024 Cyber Week Preparation Webinar: Frequently Asked Questions</title>
       <link>https://www.twilio.com/en-us/blog/cyber-week-preparation-2024-faq</link>
       <description>Twilio近期举办了2024年网络星期一准备研讨会，讨论了如何在客户互动激增和竞争加剧的时期有效导航。研讨会强调了监控投递率、个性化沟通和避免常见陷阱的重要性。Twilio建议品牌提前准备，注重列表卫生，并实施平衡相关性和数量的沟通策略。研讨会还讨论了如何处理高峰期的客户咨询，分享了成功品牌的案例，并提供了衡量成功的关键指标。</description>
