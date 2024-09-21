@@ -197,13 +197,6 @@
     </item>
   
     <item>
-      <title>Thank You for the Code</title>
-      <link>https://jaketrent.com/post/thank-you-code</link>
-      <description>感谢你所给予的代码。我们经常使用他人提供的代码，享受其带来的便利，而不应一味索取更多。即使遇到问题，也应先表达感激，然后提出改进建议。在享受现有成果的同时，保持谦逊和感激之心。</description>
-      <pubDate>2024-09-20 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Fine-tuning Llama 3.1 with Long Sequences</title>
       <link>https://www.databricks.com/blog/llama-finetuning</link>
       <description>Databricks宣布Mosaic AI模型训练现在支持对Meta Llama 3.1模型家族进行长达131K个标记的全上下文长度微调。这一新功能使Databricks客户能够利用长上下文长度的企业数据创建专用模型，从而构建更高品质的检索增强生成（RAG）或工具使用系统。通过优化内存使用和训练效率，Databricks实现了在长上下文长度上高效微调Llama 3.1模型，为客户提供更好的模型质量和训练吞吐量。</description>
