@@ -20,6 +20,13 @@
     </item>
   
     <item>
+      <title>A baursak week</title>
+      <link>http://blog.mitrichev.ch/2024/09/a-baursak-week.html</link>
+      <description>本周主要事件是2024年阿斯塔纳国际大学生程序设计竞赛（ICPC）世界总决赛。北京大学队在较易的问题上表现突出，以几乎300分钟的巨大优势赢得冠军。亚洲太平洋地区在12枚奖牌中占据了5枚，但欧洲分区的ETH苏黎世队和其他队伍未能获得奖牌。此外，还举办了CLI研讨会，由多位竞赛编程社区人士发表演讲。</description>
+      <pubDate>2024-09-20 18:16:00</pubDate>
+    </item>
+  
+    <item>
       <title>NC governor candidate cries AI fabrication as defense for racist porn forum posts</title>
       <link>https://arstechnica.com/?p=2051248</link>
       <description>北卡罗来纳州州长候选人马克·罗宾逊声称其十年前在色情网站论坛上的种族主义言论是由人工智能伪造的。CNN的调查发现，罗宾逊在2008年至2012年间使用“minisoldr”用户名在“Nude Africa”网站上发表了这些言论。尽管有证据表明这些言论是罗宾逊所写，但他坚持自己的说法，并指责是AI在操纵。这一事件引发了关于“深度怀疑时代”的讨论，即人工智能的兴起使得谎言者有更多借口来否认证据，并可能导致民主话语的侵蚀。</description>
@@ -791,6 +798,13 @@
     </item>
   
     <item>
+      <title>ICPC Astana mirror stream</title>
+      <link>http://blog.mitrichev.ch/2024/09/icpc-astana-mirror-stream.html</link>
+      <description>今天是ICPC Astana的彩排日，举办了各种社交和活动，包括Mike Mirzayanov的俯卧撑挑战。明天将迎来ICPC 2024世界决赛，预计将在阿斯塔纳时间11点左右开始。作者将与Kevin和Nikolay一起直播比赛，直播链接将在YouTube和Twitch上提供。</description>
+      <pubDate>2024-09-18 12:38:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why Algolia was named a Leader in the Gartner® Magic Quadrant™ Report</title>
       <link>https://algolia.com/blog/algolia/why-algolia-was-named-a-leader-in-the-gartner-magic-quadrant-report/</link>
       <description>Algolia因其AI搜索解决方案在Gartner® Magic Quadrant™报告中被评为领导者而感到自豪。该报告基于Algolia在执行能力和愿景完整性方面的表现。Algolia的AI搜索提供先进的工具和功能，如AI浏览、AI推荐、商品化工作室和数据分析，支持全球70多种语言，每年处理超过1.7万亿个客户查询，并确保99.999%的在线时间。</description>
@@ -1121,6 +1135,13 @@
       <link>https://vercel.com/blog/managing-275-thousand-pages-and-8-million-assets-with-isr</link>
       <description>Mecum拍卖公司通过采用由Americaneagle.com设计的可扩展架构，实现了其275,000个页面和800万个资产的快速管理。该架构利用Salesforce作为数据源，结合WordPress和Algolia进行内容管理和搜索，并通过Vercel的Frontend Cloud和ISR技术实现即时静态再生，提高了性能和用户体验。</description>
       <pubDate>2024-09-17 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ICPC Astana settling in</title>
+      <link>http://blog.mitrichev.ch/2024/09/icpc-astana-settling-in.html</link>
+      <description>参加者在阿斯塔纳度过周末，作者在周日抵达，对阿斯塔纳的组织和设施印象深刻。作者参加了团队注册、开幕式等活动，并享受了现场的氛围。此外，作者还参与了ICPC Quest挑战，增加了对世界决赛的了解。</description>
+      <pubDate>2024-09-17 12:35:00</pubDate>
     </item>
   
     <item>
