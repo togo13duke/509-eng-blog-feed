@@ -13,13 +13,6 @@
     </item>
   
     <item>
-      <title>Kakashi: The Copycat Robot</title>
-      <link>https://lifepluslinux.blogspot.com/2024/09/kakashi-copycat-robot.html</link>
-      <description>本文介绍了一个名为“Kakashi：模仿机器人”的项目，该机器人模仿了《火影忍者》中角色卡卡西的模仿能力。作者使用Arduino UNO板、LED显示屏、3D打印支架和伺服电机等组件构建了这个机器人，并通过编程实现了手部动作的追踪和模仿。作者详细介绍了机器人的设计、实现和代码，并提供了GitHub链接供读者参考。</description>
-      <pubDate>2024-09-23 04:47:00</pubDate>
-    </item>
-  
-    <item>
       <title>Building Ruby on Rails engines</title>
       <link>https://www.honeybadger.io/blog/rails-engines/</link>
       <description>本文深入探讨了Rails引擎的构建和应用，包括其与插件和Gems的区别、类型（可挂载和不可挂载）、实际应用案例以及如何创建自己的Rails引擎。Rails引擎有助于提高代码的可维护性和可扩展性，通过模块化功能，使大型Rails应用更易于管理和扩展。</description>
