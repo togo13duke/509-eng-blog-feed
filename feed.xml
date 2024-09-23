@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/aws/jamba-1-5-family-of-models-by-ai21-labs-is-now-available-in-amazon-bedrock/</link>
+      <description>AI21 Labs的Jamba 1.5系列大型语言模型现已可在Amazon Bedrock上使用，包括Jamba 1.5 Mini和Jamba 1.5 Large，支持256K标记的上下文窗口，适用于各种应用场景，如复杂推理和长文档分析。这些模型结合了Transformer模型架构和Structured State Space技术，提供高效、快速的处理速度，并支持多种语言。</description>
+      <pubDate>2024-09-23 17:59:18</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Amazon EC2 X8g Instances, Amazon Q generative SQL for Amazon Redshift, AWS SDK for Swift, and more (Sep 23, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-x8g-instances-amazon-q-generative-sql-for-amazon-redshift-aws-sdk-for-swift-and-more-sep-23-2024/</link>
+      <description>本周AWS发布了多项新功能，包括新的EC2 X8g实例、Amazon Q生成式SQL、Swift SDK、AWS Amplify对异步服务器端函数调用的支持等。此外，还扩展了现有服务在更多地区的可用性，并举办了一系列AWS社区日活动。</description>
+      <pubDate>2024-09-23 17:54:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Where developers feel AI coding tools are working—and where they’re missing the mark</title>
+      <link>https://stackoverflow.blog/2024/09/23/where-developers-feel-ai-coding-tools-are-working-and-where-they-re-missing-the-mark/</link>
+      <description>开发者普遍使用AI编码工具，但对其输出质量持怀疑态度。调查发现，尽管大多数开发者认为AI工具能提高生产力和学习速度，但他们对AI处理复杂任务的信心不足。此外，开发者花费大量时间寻找答案，知识孤岛影响了他们的工作效率。尽管如此，开发者预计AI工具将在文档、测试和编码中更加集成。</description>
+      <pubDate>2024-09-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Highlights from the Singapore Formula 1 Grand Prix to Get Your Heart Racing</title>
       <link>https://s14415.pcdn.co/blog/insights-singapore-formula-1-grand-prix/</link>
       <description>新加坡一级方程式大奖赛亮点：Lando Norris夺冠，Sainz发生事故，Ricciardo赛后采访感人。分析社交媒体数据，McLaren和Red Bull Racing表现抢眼，Ferrari面临挑战。 Norris成为最受关注的车手，Ricciardo赢得“最佳车手”称号。</description>
@@ -23,6 +44,13 @@
       <title>Python Virtual Environments: A Primer</title>
       <link>https://realpython.com/python-virtual-environments-a-primer/</link>
       <description>本文介绍了Python虚拟环境的基本概念和操作方法。通过创建和管理虚拟环境，可以隔离项目依赖，避免系统污染和依赖冲突，提高代码的可复现性。文章详细讲解了如何创建、激活、使用和关闭虚拟环境，并提供了不同操作系统的具体命令示例。此外，还讨论了为什么需要使用虚拟环境，以及如何通过venv模块和第三方工具进行管理。</description>
+      <pubDate>2024-09-23 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Going beyond the empty set: Embracing the power of other empty things</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240923-00/?p=110297</link>
+      <description>探讨空集合的概念，文章指出Windows运行时政策要求返回空集合而非null引用，以简化开发者代码。文章通过实例说明了空集合在C#、C++/WinRT和JavaScript中的使用，并讨论了在处理空字符串或数组时返回空缓冲区的重要性。文章还提到了在加密库中处理空缓冲区的挑战，并提出了一个解决方案，即在保护空缓冲区时添加一个哑字节。最后，文章强调了支持零字节缓冲区的重要性。</description>
       <pubDate>2024-09-23 14:00:00</pubDate>
     </item>
   
@@ -66,6 +94,13 @@
       <link>https://www.technologyreview.com/2024/09/23/1104262/the-download-ev-subsidies-risks-and-introducing-the-debrief/</link>
       <description>德国、瑞典和新西兰等国家正在结束对电动汽车的支持计划，这导致电动汽车销量下降，专家警告这可能会阻碍应对气候变化的进展。同时，MIT Technology Review编辑Mat Honan推出了新的时事通讯《The Debrief》，关注重要科技新闻。</description>
       <pubDate>2024-09-23 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Magic of Simplicity: Keeping Design Thinking Workshops Energized and Impactful</title>
+      <link>https://spin.atomicobject.com/simplicity-design-thinking/</link>
+      <description>设计思维工作坊的魔力在于保持简单。简单能激发更深入的洞察，快速让每个人参与，防止孤立和提问恐惧，鼓励更多想法，保持高能量。简单不仅更容易，而且更有效，它让参与者专注于任务，而不是复杂的指令，从而产生更多创新解决方案。</description>
+      <pubDate>2024-09-23 12:00:05</pubDate>
     </item>
   
     <item>
@@ -171,6 +206,20 @@
       <title>HighEdWeb 2024</title>
       <link>https://erikrunyon.com/2024/09/heweb2024/</link>
       <description>Erik Runyon在HighEdWeb 2024会议上介绍了CSS的最新功能和即将到来的更新，包括层、容器查询、子网格、嵌套等，并探讨了这些特性的语法和实际应用案例。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A FAIR perspective on generative AI risks and frameworks</title>
+      <link>https://www.elastic.co/blog/fair-generative-ai-risks-frameworks</link>
+      <description>生成式人工智能（GenAI）的风险和框架：本文探讨了GenAI在网络安全方面的风险，分析了现有管理框架，并提出了FAIR风险分析模型，以量化和管理GenAI风险。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>September Project Goals Update</title>
+      <link>https://blog.rust-lang.org/2024/09/23/Project-Goals-Sep-Update.html</link>
+      <description>Rust项目正致力于26个目标，其中3个为核心目标。2024版Rust语言预计于2025年2月发布，目前所有优先项已准备就绪。异步Rust特性进展顺利，Linux相关特性已稳定。其他更新包括Cargo工具、Clippy性能优化等。部分目标进展缓慢或停滞，如关联类型位置实现特性和Rustdoc搜索优化。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
