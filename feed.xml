@@ -13,6 +13,55 @@
     </item>
   
     <item>
+      <title>Using an AI Assistant to Read Tool Documentation</title>
+      <link>https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/</link>
+      <description>Docker Labs探索了使用AI助手阅读工具文档的潜力，通过创建最小化Docker镜像和利用LLM（大型语言模型）来简化工具使用流程。该实验展示了如何通过AI自动生成工具调用，并在命令失败时提供错误信息和替代方案，从而提高开发效率。Docker致力于通过AI技术改善软件开发体验。</description>
+      <pubDate>2024-09-23 13:41:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Addressing climate change impacts</title>
+      <link>https://www.technologyreview.com/2024/09/23/1103998/addressing-climate-change-impacts/</link>
+      <description>美国企业正面临气候变化带来的风险，并采取措施适应其影响。一项调查显示，大多数企业认为气候变化正在或将要损害经济，并已开始考虑因气候风险而搬迁。企业正面临运营成本增加、保险费上升和基础设施损坏等成本，同时越来越多的企业认识到气候规划的重要性，并正在制定适应计划。</description>
+      <pubDate>2024-09-23 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating Hispanic Heritage Month with Cloudera</title>
+      <link>https://blog.cloudera.com/celebrating-hispanic-heritage-month-with-cloudera/</link>
+      <description>Cloudera庆祝拉丁裔遗产月，通过举办活动如LinkedIn职业发展辅导、历史与文化研讨会等，增进对拉丁裔和拉丁美洲文化的了解，并促进多元包容的职场环境。</description>
+      <pubDate>2024-09-23 13:00:26</pubDate>
+    </item>
+  
+    <item>
+      <title>[OCTO] Article de Blog</title>
+      <link>https://blog.octo.com/octo-article-de-blog-8</link>
+      <description>OCTO Talks将于2024年11月19日在巴黎电影博物馆举行，聚焦产品与设计文化。会议将探讨设计包容性、数字工作者的现实、精益组合管理等多个主题，旨在激发创新思维和提升设计实践。</description>
+      <pubDate>2024-09-23 12:40:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Reasons you don't need a modal</title>
+      <link>https://freek.dev/2763-reasons-you-dont-need-a-modal</link>
+      <description>Laravel开发者Freek Van der Herten在其博客中探讨了为什么你可能不需要使用模态框，并提供了替代方案。文章旨在帮助开发者优化用户体验，同时提高网站性能。</description>
+      <pubDate>2024-09-23 12:16:12</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: EV subsidies risks, and  introducing The Debrief</title>
+      <link>https://www.technologyreview.com/2024/09/23/1104262/the-download-ev-subsidies-risks-and-introducing-the-debrief/</link>
+      <description>德国、瑞典和新西兰等国家正在结束对电动汽车的支持计划，这导致电动汽车销量下降，专家警告这可能会阻碍应对气候变化的进展。同时，MIT Technology Review编辑Mat Honan推出了新的时事通讯《The Debrief》，关注重要科技新闻。</description>
+      <pubDate>2024-09-23 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HubSpot Incident Report for August 27, 2024</title>
+      <link>https://product.hubspot.com/blog/hubspot-incident-aug27</link>
+      <description>2024年8月27日，HubSpot发生了一次服务中断，导致部分客户无法登录、访问内容或使用工具。公司对此表示歉意，并详细解释了事件发生的原因、所学到的教训以及为提高平台弹性所采取的措施。HubSpot正在改进系统，以防止未来发生类似事件，并承诺将继续努力提高平台的可靠性。</description>
+      <pubDate>2024-09-23 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cooking up recipe data for the Feast app</title>
       <link>https://www.theguardian.com/info/2024/sep/23/cooking-up-recipe-data-for-the-feast-app</link>
       <description>《The Guardian》开发的烹饪应用Feast拥有数千个可搜索的食谱，包括烹饪模式和其他特色功能，在iOS和Android上广受欢迎。文章详细介绍了Feast应用背后的数据结构化过程，从零开始构建超过4000个结构化食谱，涉及跨部门合作，包括数据科学家、编辑和记者等，通过自动化和人工审核相结合的方式，最终实现了食谱数据的结构化，为Feast应用提供了强大的数据支持。</description>
@@ -59,6 +108,14 @@
       <link>https://developers.redhat.com/articles/2024/09/23/making-systemtap-instrumentation-easier-tapsets</link>
       <description>SystemTap是Red Hat Enterprise Linux和Fedora中包含的仪器工具，它使用tapsets来封装代码以供重用。本文介绍了如何使用tapsets简化SystemTap的仪器化，包括如何查找tapsets的文档、tapsets的组成以及如何为用户应用程序创建tapsets。通过使用tapsets，开发者可以更容易地开发、使用和分发SystemTap仪器化。</description>
       <pubDate>2024-09-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Cleaning House</title>
+      <link>https://thedailywtf.com/articles/cleaning-house</link>
+      <description>原文总结：
+本文讲述了IT经理Craig在招聘新员工时，通过观察CEO的行为来评估候选人的故事。一位候选人在看到CEO用矿泉水清洗键盘后，展现出了对这种荒谬行为的理解，最终获得了工作机会。这个故事强调了实际工作经验和适应能力在职场中的重要性。</description>
+      <pubDate>2024-09-23 06:30:00</pubDate>
     </item>
   
     <item>
