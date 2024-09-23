@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>Convening With Data Streaming Engineers at Current 2024</title>
+      <link>https://www.confluent.io/blog/current-2024-data-streaming-engineers/</link>
+      <description>在2024年的Current数据流工程师大会上，专家们讨论了数据流工程师的角色和技能，强调了Apache Kafka在实时系统中的重要性。会议指出，随着微服务和云计算的普及，数据流工程师需要掌握流处理、集成和治理等技能，以应对企业对实时数据分析和AI应用的需求。会议还介绍了流数据平台的发展趋势，如Kafka和Apache Flink，以及如何通过这些技术提高数据分析的质量和效率。</description>
+      <pubDate>2024-09-23 20:38:10</pubDate>
+    </item>
+  
+    <item>
+      <title>11 million devices infected with botnet malware hosted in Google Play</title>
+      <link>https://arstechnica.com/?p=2051854</link>
+      <description>11百万设备感染了在Google Play上托管的后门恶意软件，名为Necro。这种恶意软件通过广告软件开发工具包（SDK）传播，能够隐藏通信并执行恶意代码。研究人员发现，恶意软件利用了Android系统的WebView功能，以提升系统权限执行恶意操作。受影响的用户应检查设备是否存在恶意软件的迹象。</description>
+      <pubDate>2024-09-23 20:27:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Michael J. Wallace Joins Confluent as Public Sector GM</title>
+      <link>https://www.confluent.io/blog/michael-j-wallace-joins-confluent/</link>
+      <description>Confluent宣布任命Michael J. Wallace为公共部门总经理。Wallace拥有超过25年的技术销售和工程团队领导经验，曾在网络安全、数据治理和数据管理领域工作。他将负责扩大Confluent在政府客户中的影响力，通过其数据流平台促进数字政府倡议。Confluent提供由Apache Kafka原始创建者构建的企业级事件流平台，帮助政府机构利用数据流技术实现直接任务影响。</description>
+      <pubDate>2024-09-23 20:00:02</pubDate>
+    </item>
+  
+    <item>
       <title>NVIDIA Partners for Globally Inclusive AI in U.S. Government Initiative</title>
       <link>https://blogs.nvidia.com/blog/nvidia-partners-for-globally-inclusive-ai-in-u-s-government-initiative/</link>
       <description>NVIDIA加入美国政府的全球包容性人工智能伙伴关系（PGIAI），提供深度学习培训、GPU信用和硬件软件补助，以促进发展中国家的人工智能发展。该伙伴关系旨在利用人工智能推动全球可持续发展，并承诺提供培训、计算和其他AI工具，以改善发展中国家的生活质量。NVIDIA将提供约1000万美元的免费培训，并支持新兴经济体的近5000家初创企业。</description>
@@ -188,6 +209,13 @@
     </item>
   
     <item>
+      <title>eBay Announces Samantha Wellington as Senior Vice President, Chief Legal Officer,  General Counsel and Secretary</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-announces-samantha-wellington-as-senior-vice-president-chief-legal-officer-general-counsel-and-secretary/</link>
+      <description>eBay宣布任命Samantha Wellington为高级副总裁、首席法务官、总法律顾问和秘书。她将负责eBay全球法律部门的所有事务，并直接向CEO Jamie Iannone汇报。Wellington拥有丰富的法律和商业事务经验，此前曾担任TriNet的执行副总裁、首席法务官和秘书。</description>
+      <pubDate>2024-09-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: Cleaning House</title>
       <link>https://thedailywtf.com/articles/cleaning-house</link>
       <description>原文总结：
@@ -248,6 +276,13 @@
       <title>September Project Goals Update</title>
       <link>https://blog.rust-lang.org/2024/09/23/Project-Goals-Sep-Update.html</link>
       <description>Rust项目正致力于26个目标，其中3个为核心目标。2024版Rust语言预计于2025年2月发布，目前所有优先项已准备就绪。异步Rust特性进展顺利，Linux相关特性已稳定。其他更新包括Cargo工具、Clippy性能优化等。部分目标进展缓慢或停滞，如关联类型位置实现特性和Rustdoc搜索优化。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Turning the page on some of our Open Source projects</title>
+      <link>https://thoughtbot.com/blog/turning-the-page-on-some-of-our-open-source-projects</link>
+      <description>thoughtbot对一些开源项目进行了审计，决定存档其中一些。尽管废弃库可能看似不利，但实际上是项目生命周期的一部分。文章列举了被存档的项目，如Paul Revere、fake_stripe、Croutons等，并解释了存档的原因。同时，thoughtbot也在寻找新的贡献者来维护其他开源项目。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
