@@ -13,9 +13,51 @@
     </item>
   
     <item>
+      <title>Cooking up recipe data for the Feast app</title>
+      <link>https://www.theguardian.com/info/2024/sep/23/cooking-up-recipe-data-for-the-feast-app</link>
+      <description>《The Guardian》开发的烹饪应用Feast拥有数千个可搜索的食谱，包括烹饪模式和其他特色功能，在iOS和Android上广受欢迎。文章详细介绍了Feast应用背后的数据结构化过程，从零开始构建超过4000个结构化食谱，涉及跨部门合作，包括数据科学家、编辑和记者等，通过自动化和人工审核相结合的方式，最终实现了食谱数据的结构化，为Feast应用提供了强大的数据支持。</description>
+      <pubDate>2024-09-23 09:57:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Les replays de La Grosse Conf 2024 sont disponibles !</title>
+      <link>https://blog.octo.com/octo-les-replays-de-la-grosse-conf-2024-sont-disponibles-!</link>
+      <description>La Grosse Conf 2024的回放现已上线，包括关于开源AI、数据项目成功秘诀和AI代理的精彩演讲。此外，还有关于系统架构的Duck Conf回放和即将到来的School of Product活动，探讨数据、产品设计和组织挑战。</description>
+      <pubDate>2024-09-23 08:30:37</pubDate>
+    </item>
+  
+    <item>
+      <title>Some countries are ending support for EVs. Is it too soon?</title>
+      <link>https://www.technologyreview.com/2024/09/23/1104247/ending-ev-subsidies/</link>
+      <description>一些国家正在结束对电动汽车的支持，这可能导致电动汽车销售放缓，影响气候变化的应对进度。专家警告，过早结束补贴可能危及气候变化的进展。政府需要谨慎决定何时让技术自立，并考虑市场具体情况。</description>
+      <pubDate>2024-09-23 08:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Découvrez les talks de La Duck Conf 2024 en replay !</title>
+      <link>https://blog.octo.com/decouvrez-les-talks-de-la-duck-conf-2024-en-replay-!</link>
+      <description>La Duck Conf 2024提供了一系列技术讨论的回放，包括关于服务可靠性、应用熵和战略决策的深入讨论。此外，还有关于数据与人工智能的Grosse Conf和School of Product会议的介绍。</description>
+      <pubDate>2024-09-23 08:05:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Driving a Project: Intern Edition</title>
+      <link>https://slack.engineering/driving-a-project-intern-edition/</link>
+      <description>如何在实习期间独立完成有意义的工程项目。文章分享了作者Sravya Nagalakunta作为软件工程实习生在Slack的经历，包括项目规划、资源获取、问题解决、寻求反馈和项目推广等关键步骤，强调了个人成长和团队合作的重要性。</description>
+      <pubDate>2024-09-23 07:00:03</pubDate>
+    </item>
+  
+    <item>
       <title>Red Hat OpenShift Dedicated on Google Cloud Integration</title>
       <link>https://developers.redhat.com/articles/2024/09/23/red-hat-openshift-dedicated-google-cloud-integration</link>
       <description>Red Hat OpenShift Dedicated与Google Cloud NetApp Volumes集成，通过Trident Operator实现持久化存储，支持多种访问模式，提高应用性能和可用性。</description>
+      <pubDate>2024-09-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Making SystemTap instrumentation easier with tapsets</title>
+      <link>https://developers.redhat.com/articles/2024/09/23/making-systemtap-instrumentation-easier-tapsets</link>
+      <description>SystemTap是Red Hat Enterprise Linux和Fedora中包含的仪器工具，它使用tapsets来封装代码以供重用。本文介绍了如何使用tapsets简化SystemTap的仪器化，包括如何查找tapsets的文档、tapsets的组成以及如何为用户应用程序创建tapsets。通过使用tapsets，开发者可以更容易地开发、使用和分发SystemTap仪器化。</description>
       <pubDate>2024-09-23 07:00:00</pubDate>
     </item>
   
@@ -30,6 +72,13 @@
       <title>Building Ruby on Rails engines</title>
       <link>https://www.honeybadger.io/blog/rails-engines/</link>
       <description>本文深入探讨了Rails引擎的构建和应用，包括其与插件和Gems的区别、类型（可挂载和不可挂载）、实际应用案例以及如何创建自己的Rails引擎。Rails引擎有助于提高代码的可维护性和可扩展性，通过模块化功能，使大型Rails应用更易于管理和扩展。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord’s Headed to Tokyo! See What We’re Doing at TGS 2024</title>
+      <link>https://discord.com/blog/discord-at-tokyo-game-show-2024</link>
+      <description>Discord将参加2024年东京电玩展（TGS），展示其虚拟世界Discordopolis，并提供Street Fighter 6游戏体验和限量版商品。同时，Discord将在TGS举办两场讨论会，探讨多玩家游戏和Discord Quests。展位位于07-C03，活动时间从9月26日至29日。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
