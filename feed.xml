@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>NVIDIA Partners for Globally Inclusive AI in U.S. Government Initiative</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-partners-for-globally-inclusive-ai-in-u-s-government-initiative/</link>
+      <description>NVIDIA加入美国政府的全球包容性人工智能伙伴关系（PGIAI），提供深度学习培训、GPU信用和硬件软件补助，以促进发展中国家的人工智能发展。该伙伴关系旨在利用人工智能推动全球可持续发展，并承诺提供培训、计算和其他AI工具，以改善发展中国家的生活质量。NVIDIA将提供约1000万美元的免费培训，并支持新兴经济体的近5000家初创企业。</description>
+      <pubDate>2024-09-23 18:55:49</pubDate>
+    </item>
+  
+    <item>
+      <title>To Save Lives, and Energy, Wellcome Sanger Institute Speeds Cancer Research With NVIDIA Accelerated Computing</title>
+      <link>https://blogs.nvidia.com/blog/wellcome-sanger-institute-cancer-research/</link>
+      <description>英国Wellcome Sanger研究所利用NVIDIA加速计算技术加速癌症研究，通过分析大量基因组数据，研究癌症形成和治疗效果，大幅减少分析时间和能耗，提高研究效率。</description>
+      <pubDate>2024-09-23 18:00:56</pubDate>
+    </item>
+  
+    <item>
       <title>Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock</title>
       <link>https://aws.amazon.com/blogs/aws/jamba-1-5-family-of-models-by-ai21-labs-is-now-available-in-amazon-bedrock/</link>
       <description>AI21 Labs的Jamba 1.5系列大型语言模型现已可在Amazon Bedrock上使用，包括Jamba 1.5 Mini和Jamba 1.5 Large，支持256K标记的上下文窗口，适用于各种应用场景，如复杂推理和长文档分析。这些模型结合了Transformer模型架构和Structured State Space技术，提供高效、快速的处理速度，并支持多种语言。</description>
@@ -24,6 +38,13 @@
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-x8g-instances-amazon-q-generative-sql-for-amazon-redshift-aws-sdk-for-swift-and-more-sep-23-2024/</link>
       <description>本周AWS发布了多项新功能，包括新的EC2 X8g实例、Amazon Q生成式SQL、Swift SDK、AWS Amplify对异步服务器端函数调用的支持等。此外，还扩展了现有服务在更多地区的可用性，并举办了一系列AWS社区日活动。</description>
       <pubDate>2024-09-23 17:54:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing Databricks Support for Amazon EC2 G6 Instances</title>
+      <link>https://www.databricks.com/blog/aws-ec2-g6</link>
+      <description>Databricks宣布支持Amazon EC2 G6实例，搭载NVIDIA L4 Tensor Core GPU，提升数据处理、机器学习和AI工作负载的效率与可扩展性。G6实例提供更高的性能和能效，适用于深度学习推理、图像和音频预处理以及深度学习模型训练。用户可通过Databricks文档创建GPU计算环境，并选择G6作为工作类型。</description>
+      <pubDate>2024-09-23 17:43:27</pubDate>
     </item>
   
     <item>
@@ -80,6 +101,13 @@
       <link>https://blog.octo.com/octo-article-de-blog-8</link>
       <description>OCTO Talks将于2024年11月19日在巴黎电影博物馆举行，聚焦产品与设计文化。会议将探讨设计包容性、数字工作者的现实、精益组合管理等多个主题，旨在激发创新思维和提升设计实践。</description>
       <pubDate>2024-09-23 12:40:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Issues #267 Sep 23, 2024</title>
+      <link>https://betterdev.link/issues/267</link>
+      <description>本周BetterDev链接聚焦于编程和加密技术，包括Alfred Menezes教授的加密学入门、WebAssembly介绍、OpenTelemetry追踪、SSH隧道可视化、CSS性能优化等，同时推荐了多个开源工具和资源。</description>
+      <pubDate>2024-09-23 12:19:00</pubDate>
     </item>
   
     <item>
