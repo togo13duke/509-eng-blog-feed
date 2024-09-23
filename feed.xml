@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Highlights from the Singapore Formula 1 Grand Prix to Get Your Heart Racing</title>
+      <link>https://s14415.pcdn.co/blog/insights-singapore-formula-1-grand-prix/</link>
+      <description>新加坡一级方程式大奖赛亮点：Lando Norris夺冠，Sainz发生事故，Ricciardo赛后采访感人。分析社交媒体数据，McLaren和Red Bull Racing表现抢眼，Ferrari面临挑战。 Norris成为最受关注的车手，Ricciardo赢得“最佳车手”称号。</description>
+      <pubDate>2024-09-23 14:00:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Python Virtual Environments: A Primer</title>
+      <link>https://realpython.com/python-virtual-environments-a-primer/</link>
+      <description>本文介绍了Python虚拟环境的基本概念和操作方法。通过创建和管理虚拟环境，可以隔离项目依赖，避免系统污染和依赖冲突，提高代码的可复现性。文章详细讲解了如何创建、激活、使用和关闭虚拟环境，并提供了不同操作系统的具体命令示例。此外，还讨论了为什么需要使用虚拟环境，以及如何通过venv模块和第三方工具进行管理。</description>
+      <pubDate>2024-09-23 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Using an AI Assistant to Read Tool Documentation</title>
       <link>https://www.docker.com/blog/using-an-ai-assistant-to-read-tool-documentation/</link>
       <description>Docker Labs探索了使用AI助手阅读工具文档的潜力，通过创建最小化Docker镜像和利用LLM（大型语言模型）来简化工具使用流程。该实验展示了如何通过AI自动生成工具调用，并在命令失败时提供错误信息和替代方案，从而提高开发效率。Docker致力于通过AI技术改善软件开发体验。</description>
@@ -136,6 +150,27 @@
       <title>Discord’s Headed to Tokyo! See What We’re Doing at TGS 2024</title>
       <link>https://discord.com/blog/discord-at-tokyo-game-show-2024</link>
       <description>Discord将参加2024年东京电玩展（TGS），展示其虚拟世界Discordopolis，并提供Street Fighter 6游戏体验和限量版商品。同时，Discord将在TGS举办两场讨论会，探讨多玩家游戏和Discord Quests。展位位于07-C03，活动时间从9月26日至29日。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How things work matters</title>
+      <link>https://advancedweb.hu/shorts/how-things-work-matters/</link>
+      <description>软件的内部工作原理至关重要，表面光鲜的软件可能存在安全隐患。例如，Arc浏览器中的Boosts功能允许远程注入任意脚本，而使用特定订餐系统的餐厅可能暴露了销售记录和顾客信息。优秀的软件工艺需要深入了解底层技术，避免依赖“快速解决方案”和“临时修复”。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Locale changes in Elasticsearch 8.16 and JDK 23</title>
+      <link>https://www.elastic.co/blog/locale-changes-elasticsearch-8-16-jdk-23</link>
+      <description>Elasticsearch 8.16和JDK 23的发布引入了重要的地区信息变更，这将对日期和周日期的处理产生影响。主要变化包括日期文本字段值的更改和周日期计算方法的变化。用户需要检查自定义日期格式是否受影响，并可能需要更新数据或重新索引以适应这些变化。Elasticsearch 8.16及更高版本将默认使用CLDR地区数据库，而旧版本将继续使用COMPAT数据库。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HighEdWeb 2024</title>
+      <link>https://erikrunyon.com/2024/09/heweb2024/</link>
+      <description>Erik Runyon在HighEdWeb 2024会议上介绍了CSS的最新功能和即将到来的更新，包括层、容器查询、子网格、嵌套等，并探讨了这些特性的语法和实际应用案例。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
