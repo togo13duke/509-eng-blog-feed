@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>GitHub Enterprise Cloud with data residency: How we built the next evolution of GitHub Enterprise using GitHub</title>
+      <link>https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/</link>
+      <description>GitHub Enterprise Cloud推出数据驻留功能，旨在满足客户对数据控制的需求，并提升用户体验。该功能允许用户将代码和存储库数据存储在首选地理位置，基于Microsoft Azure的安全性和业务连续性，为全球开发者提供AI驱动的开发平台。通过使用GitHub的内部工具和流程，GitHub团队成功实现了这一创新，确保了产品的高性能、可靠性和安全性。</description>
+      <pubDate>2024-09-24 05:00:31</pubDate>
+    </item>
+  
+    <item>
       <title>Join our AI in Focus learning series</title>
       <link>https://thoughtbot.com/blog/join-our-ai-in-focus-learning-series</link>
       <description>thoughtbot推出全新多集直播系列“AI in Focus”，旨在帮助观众超越AI炒作，构建实用的商业AI解决方案。该系列包括战略基础和面向Web开发者的AI入门两部分，提供实用建议和框架，帮助观众将AI愿景变为现实。系列将于10月3日开始，现已开放注册。</description>
@@ -256,6 +263,13 @@
       <link>https://lifepluslinux.blogspot.com/2024/09/kakashi-copycat-robot.html</link>
       <description>本文介绍了一个名为“Kakashi：模仿机器人”的项目，该机器人模仿了《火影忍者》中角色卡卡西的模仿能力。作者使用Arduino UNO板、LED显示屏、3D打印支架和伺服电机等组件构建了这个机器人，并通过编程实现了手部动作的追踪和模仿。作者详细介绍了机器人的设计、实现和代码，并提供了GitHub链接供读者参考。</description>
       <pubDate>2024-09-23 04:47:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bringing Grab’s Live Activity to Android: Enhancing user experience through custom notifications</title>
+      <link>https://engineering.grab.com/live-activity-2</link>
+      <description>Grab宣布将Live Activity功能引入Android系统，以提升用户体验。该功能通过在应用外显示用户界面，提供实时更新和互动内容，使用户无需打开应用即可了解订单更新。Grab团队通过设计探索和可行性研究，确保Live Activity在Android平台上的无缝集成，旨在为Android用户提供与iOS用户相同的便利性和实时更新。</description>
+      <pubDate>2024-09-23 00:00:10</pubDate>
     </item>
   
     <item>
