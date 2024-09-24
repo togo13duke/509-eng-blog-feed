@@ -43,6 +43,14 @@
     </item>
   
     <item>
+      <title>CodeSOD: Secure Cryptography</title>
+      <link>https://thedailywtf.com/articles/secure-cryptography</link>
+      <description>原文总结：
+本文探讨了加密技术中的安全性与政府监管之间的矛盾。作者指出，虽然加密技术为个人和政府提供了安全通信的便利，但也可能导致恶意行为者利用加密隐藏其活动。因此，存在一种要求既能保证通信安全又能让政府进行监听的加密系统的呼声。然而，这种系统在技术上是不可行的。文章还分析了某个加密库的代码，指出其中存在随机数生成错误和内存管理漏洞，可能导致程序崩溃。</description>
+      <pubDate>2024-09-24 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>GitHub Enterprise Cloud with data residency: How we built the next evolution of GitHub Enterprise using GitHub</title>
       <link>https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/</link>
       <description>GitHub Enterprise Cloud推出数据驻留功能，旨在满足客户对数据控制的需求，并提升用户体验。该功能允许用户将代码和存储库数据存储在首选地理位置，基于Microsoft Azure的安全性和业务连续性，为全球开发者提供AI驱动的开发平台。通过使用GitHub的内部工具和流程，GitHub团队成功实现了这一创新，确保了产品的高性能、可靠性和安全性。</description>
