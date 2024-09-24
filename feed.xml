@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>Hacker plants false memories in ChatGPT to steal user data in perpetuity</title>
+      <link>https://arstechnica.com/?p=2052198</link>
+      <description>黑客通过在ChatGPT中植入虚假记忆来窃取用户数据。安全研究员Rehberger发现，攻击者可以利用ChatGPT的长期记忆功能，通过间接提示注入的方式，将恶意信息永久存储在用户的记忆中。OpenAI已对此漏洞进行了修复，但用户仍需注意审查存储的记忆，以防恶意攻击。</description>
+      <pubDate>2024-09-24 20:56:26</pubDate>
+    </item>
+  
+    <item>
       <title>Terminator’s Cameron joins AI company behind controversial image generator</title>
       <link>https://arstechnica.com/?p=2052114</link>
       <description>著名科幻电影导演詹姆斯·卡梅隆加入争议性图像生成器公司Stability AI的董事会，该公司以其开创性的AI图像合成模型Stable Diffusion系列而闻名。卡梅隆表示，他对前沿的影视制作技术感兴趣，并相信生成式AI与CGI的结合将是未来电影制作的下一个浪潮。尽管Stability AI面临一系列挑战，包括版权诉讼和领导层变动，但卡梅隆认为，Stability AI有望引领这一转型。</description>
