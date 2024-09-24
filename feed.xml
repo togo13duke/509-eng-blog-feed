@@ -13,6 +13,48 @@
     </item>
   
     <item>
+      <title>Retrieval-Augmented Generation With Claude Sonnet 3.5 and Pgvector</title>
+      <link>https://www.timescale.com/blog/retrieval-augmented-generation-with-claude-sonnet-3-5-and-pgvector/</link>
+      <description>Timescale提供了一种增强型数据库解决方案，结合了PostgreSQL的高性能和pgvector的向量搜索功能，适用于时间序列和AI应用。Claude Sonnet 3.5是Anthropic的新模型，以其快速处理和低成本在多个评估中表现优异，适用于构建RAG应用。通过结合Sonnet 3.5和pgvector，可以创建一个检索增强生成引擎，实现高效的信息检索和自然语言处理。</description>
+      <pubDate>2024-09-24 13:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Docker State of Application Development Survey: Share Your Thoughts on Development</title>
+      <link>https://www.docker.com/blog/2024-docker-state-of-application-development-survey/</link>
+      <description>2024年Docker应用开发调查报告：Docker邀请开发者分享他们的开发观点，以了解开发者的关注点、工作内容和重要事项。通过参与调查，开发者有机会赢取奖品，并帮助Docker构建更好的产品和服务。调查结果将公开报告，不包含个人识别信息。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Last9 at AWS re: Invent 2024!</title>
+      <link>https://last9.io/events/join-last9-at-aws-re-invent-2024/</link>
+      <description>在2024年12月2日至6日的AWS re: Invent大会上，Last9将展示其高基数指标、日志和跟踪技术，以重新定义可观察性，确保用户不遗漏重要信息。Last9是一个与Prometheus和OpenTelemetry兼容的数据存储，旨在简化遥测需求，提供智能警报、用户友好的控制平面和完整数据保留等功能，帮助用户提升监控能力。</description>
+      <pubDate>2024-09-24 12:42:35</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenTelemetry Collector: The Complete Guide</title>
+      <link>https://last9.io/blog/opentelemetry-collector-guide/</link>
+      <description>OpenTelemetry Collector是一个强大的开源工具，用于管理分布式软件系统的遥测数据。它支持多种数据格式和协议，包括OpenCensus、Jaeger和Zipkin，适用于各种技术栈的组织。该工具具有多个组件，如接收器、处理器、导出器和扩展，可简化数据收集、处理和导出。它还提供了多种使用案例和集成，如微服务监控、云迁移和遗留系统集成。通过优化配置和利用其高级功能，OpenTelemetry Collector能够提高可观察性和性能。</description>
+      <pubDate>2024-09-24 12:28:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Adding real-time chat in 14 lines of code with Laravel Reverb and Livewire</title>
+      <link>https://freek.dev/2765-adding-real-time-chat-in-14-lines-of-code-with-laravel-reverb-and-livewire</link>
+      <description>在14行代码内使用Laravel Reverb和Livewire添加实时聊天功能，Freek Van der Herten在博客中展示了如何将Reverb集成到现有的Laravel应用程序中。</description>
+      <pubDate>2024-09-24 12:26:51</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: AI lessons for the US election, and our climate tech list is coming</title>
+      <link>https://www.technologyreview.com/2024/09/24/1104351/the-download-ai-lessons-for-the-us-election-and-our-climate-tech-list-is-coming/</link>
+      <description>MIT Technology Review最新报道了人工智能在选举中的角色，指出AI生成的虚假信息对全球选举结果影响不大。同时，文章预告了即将发布的2024年气候变化技术公司榜单，并讨论了美国考虑禁止中国和俄罗斯技术用于联网汽车的消息。</description>
+      <pubDate>2024-09-24 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>What the US can learn from the role of AI in other elections</title>
       <link>https://www.technologyreview.com/2024/09/24/1104347/what-the-us-can-learn-from-the-role-of-ai-in-other-elections/</link>
       <description>美国可以从其他国家选举中AI的作用中学到什么：尽管对深度伪造的担忧可能被夸大了，但AI生成的虚假信息和深度伪造似乎对选举结果没有影响。俄罗斯等国家依赖的是长期存在的技巧，如社交机器人，以制造分裂和混淆。美国可以采取一些措施来应对AI威胁，包括模拟最坏情况的工作坊和加强社交媒体平台、事实核查组织、反虚假信息研究人员和执法机构的合作。同时，政治候选人使用AI的道德规范也需要明确。</description>
@@ -152,6 +194,13 @@
       <title>AI on Android Spotlight Week begins September 30th</title>
       <link>http://android-developers.googleblog.com/2024/09/ai-on-android-spotlight-week-.html</link>
       <description>AI on Android Spotlight Week将于9月30日开始，为期一周，聚焦于Android平台上的AI最新进展。活动包括与Google AI专家的AMA、技术讲座、新工具和API的早期访问以及最新Android生成式AI技术的演示。开发者、研究人员和爱好者可以在线参与，学习如何利用生成式AI和机器学习开发Android应用。</description>
+      <pubDate>2024-09-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>He sold his first company for billions. Now he’s building a better developer experience.</title>
+      <link>https://stackoverflow.blog/2024/09/23/he-sold-his-first-company-for-billions-now-he-s-building-a-better-developer-experience/</link>
+      <description>Jyoti Bansal，前公司亿万富翁卖家，现在正致力于打造更好的开发者体验。他创立了AI驱动的软件开发平台Harness，旨在简化DevOps流程。同时，他还是早期初创公司投资公司Unusual Ventures的联合创始人。</description>
       <pubDate>2024-09-23 16:00:00</pubDate>
     </item>
   
