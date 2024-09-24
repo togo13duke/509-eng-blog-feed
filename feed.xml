@@ -13,6 +13,34 @@
     </item>
   
     <item>
+      <title>Handing the Producer Request: Kafka Producer and Consumer Internals, Part 2</title>
+      <link>https://www.confluent.io/blog/kafka-producer-internals-handling-producer-request/</link>
+      <description>Apache Kafka生产者请求的生命周期：本文深入探讨了Kafka生产者与消费者内部机制，包括请求处理、数据存储、网络线程、请求队列、I/O线程、页面缓存和磁盘操作等环节。通过了解这些细节，可以更好地监控和优化Kafka的性能。</description>
+      <pubDate>2024-09-24 15:52:15</pubDate>
+    </item>
+  
+    <item>
+      <title>Authtoberfest 2024 is Here!</title>
+      <link>https://auth0.com/blog/announcing-authtoberfest-2024/</link>
+      <description>2024年Authtoberfest活动即将到来，Auth0将鼓励开发者参与开源社区，贡献代码。活动期间，参与者有机会赢取限量版T恤。活动详情和参与方式可在官方网站查看。</description>
+      <pubDate>2024-09-24 15:12:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Demystifying Fine-Tuning: A Beginner’s Guide</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/demystifying-fine-tuning-a-beginners-guide.html</link>
+      <description>本文介绍了大型语言模型（LLM）的微调过程，包括其定义、优势、不同微调方法（如监督微调、参数高效微调、基于人类反馈的强化学习）以及常见应用场景。微调允许模型在特定任务或领域上实现专业化，提高性能，同时节省计算资源。然而，微调也面临一些挑战，如数据限制和频繁的任务变化。在开始微调之前，了解使用案例和投资回报至关重要。</description>
+      <pubDate>2024-09-24 15:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Advanced Python import Techniques</title>
+      <link>https://realpython.com/courses/advanced-import-techniques/</link>
+      <description>本文深入探讨了Python的导入技术，强调了正确使用导入语句对于代码结构和项目维护的重要性。课程涵盖了模块、包、命名空间管理、避免循环导入、动态导入等高级技巧，并通过丰富的代码示例帮助学习者掌握这些概念。</description>
+      <pubDate>2024-09-24 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Retrieval-Augmented Generation With Claude Sonnet 3.5 and Pgvector</title>
       <link>https://www.timescale.com/blog/retrieval-augmented-generation-with-claude-sonnet-3-5-and-pgvector/</link>
       <description>Timescale提供了一种增强型数据库解决方案，结合了PostgreSQL的高性能和pgvector的向量搜索功能，适用于时间序列和AI应用。Claude Sonnet 3.5是Anthropic的新模型，以其快速处理和低成本在多个评估中表现优异，适用于构建RAG应用。通过结合Sonnet 3.5和pgvector，可以创建一个检索增强生成引擎，实现高效的信息检索和自然语言处理。</description>
@@ -52,6 +80,20 @@
       <link>https://www.technologyreview.com/2024/09/24/1104351/the-download-ai-lessons-for-the-us-election-and-our-climate-tech-list-is-coming/</link>
       <description>MIT Technology Review最新报道了人工智能在选举中的角色，指出AI生成的虚假信息对全球选举结果影响不大。同时，文章预告了即将发布的2024年气候变化技术公司榜单，并讨论了美国考虑禁止中国和俄罗斯技术用于联网汽车的消息。</description>
       <pubDate>2024-09-24 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>4 Tips for Software Testing with Playwright</title>
+      <link>https://spin.atomicobject.com/tips-testing-playwright/</link>
+      <description>Playwright测试框架在TypeScript/Svelte项目中使用时，可能会遇到测试失败的问题。本文提供了四个解决建议：启用测试重试、从.deprecate的.type方法迁移到.fill、使用.waitForTimeout以及组织测试分组。这些建议有助于提高测试的稳定性和效率。</description>
+      <pubDate>2024-09-24 12:00:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Coming soon: Our 2024 list of 15 Climate Tech Companies to Watch</title>
+      <link>https://www.technologyreview.com/2024/09/24/1104265/coming-soon-2024-15-climate-tech-companies-watch/</link>
+      <description>MIT Technology Review即将发布2024年15家气候技术公司的名单，这些公司致力于减少农业、采矿、交通等领域的气候污染。该名单将于10月1日发布，旨在表彰那些在减少温室气体排放和应对气候变化方面取得显著进展的企业。</description>
+      <pubDate>2024-09-24 11:00:00</pubDate>
     </item>
   
     <item>
@@ -110,6 +152,20 @@
       <title>Join our AI in Focus learning series</title>
       <link>https://thoughtbot.com/blog/join-our-ai-in-focus-learning-series</link>
       <description>thoughtbot推出全新多集直播系列“AI in Focus”，旨在帮助观众超越AI炒作，构建实用的商业AI解决方案。该系列包括战略基础和面向Web开发者的AI入门两部分，提供实用建议和框架，帮助观众将AI愿景变为现实。系列将于10月3日开始，现已开放注册。</description>
+      <pubDate>2024-09-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Be successful at Elastic with the Beehive model</title>
+      <link>https://www.elastic.co/blog/culture-beehive-model</link>
+      <description>Elastic公司通过“蜂巢模型”定义成功，该模型强调一系列领导行为，旨在培养员工的自我领导能力。该模型包括五个核心特质：友善、被理解、聪明、勇敢和健康，并提供了具体的行为指南。Elastic鼓励员工通过终身学习和自我关怀来提升个人能力，同时强调团队合作和共同目标的重要性。</description>
+      <pubDate>2024-09-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>the soundless interstitium</title>
+      <link>https://taylor.town/soundless</link>
+      <description>文章探讨了在软件和互联网架构中“无声音的间隔”这一概念，即那些未被证明或不可证明的部分。作者通过引用哥德尔的不完备性定理，说明了即使在看似健全的系统中，也存在无法证明的漏洞。他进一步讨论了编程语言、服务器可靠性和协议的重要性，并提出了对更可靠和透明系统的需求。作者认为，尽管存在不可预测性，但通过技术进步和信任机制，可以减少这些间隔，并提高系统的整体可靠性。</description>
       <pubDate>2024-09-24 00:00:00</pubDate>
     </item>
   
