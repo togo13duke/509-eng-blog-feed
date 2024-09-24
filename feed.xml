@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>What the US can learn from the role of AI in other elections</title>
+      <link>https://www.technologyreview.com/2024/09/24/1104347/what-the-us-can-learn-from-the-role-of-ai-in-other-elections/</link>
+      <description>美国可以从其他国家选举中AI的作用中学到什么：尽管对深度伪造的担忧可能被夸大了，但AI生成的虚假信息和深度伪造似乎对选举结果没有影响。俄罗斯等国家依赖的是长期存在的技巧，如社交机器人，以制造分裂和混淆。美国可以采取一些措施来应对AI威胁，包括模拟最坏情况的工作坊和加强社交媒体平台、事实核查组织、反虚假信息研究人员和执法机构的合作。同时，政治候选人使用AI的道德规范也需要明确。</description>
+      <pubDate>2024-09-24 09:13:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Level Up: Auth0 Plans Just Got an Upgrade</title>
+      <link>https://auth0.com/blog/auth0-plans-got-an-upgrade/</link>
+      <description>Auth0更新了其定价计划，包括扩展免费层和付费计划的功能。免费计划现在支持高达25,000月活跃用户，无限Okta和社交连接，以及自定义域名。付费计划提供更多组织、增强的多因素认证选项和额外的企业连接。这些更新旨在帮助开发者更轻松地构建、部署和扩展应用程序。</description>
+      <pubDate>2024-09-24 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>bootc: Getting started with bootable containers</title>
       <link>https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers</link>
       <description>Red Hat开发者博客介绍了可启动容器（bootable containers）的概念，这是Red Hat Enterprise Linux图像模式的核心技术，允许容器包含完整的操作系统。文章提供了入门指南和视频演示，帮助用户理解和使用这一技术，并鼓励在Fedora讨论区和bootc社区中分享反馈。</description>
@@ -33,6 +47,13 @@
       <link>https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/</link>
       <description>GitHub Enterprise Cloud推出数据驻留功能，旨在满足客户对数据控制的需求，并提升用户体验。该功能允许用户将代码和存储库数据存储在首选地理位置，基于Microsoft Azure的安全性和业务连续性，为全球开发者提供AI驱动的开发平台。通过使用GitHub的内部工具和流程，GitHub团队成功实现了这一创新，确保了产品的高性能、可靠性和安全性。</description>
       <pubDate>2024-09-24 05:00:31</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Name And Pronounce Colors In Italian</title>
+      <link>https://www.babbel.com/en/magazine/colors-in-italian</link>
+      <description>意大利语中如何命名和发音颜色：本文提供了一份实用的指南，包括基本颜色的名称和发音，以及如何根据名词的性别变化颜色词。此外，还提供了使用颜色词的句子示例，帮助读者更好地掌握意大利语中的颜色表达。</description>
+      <pubDate>2024-09-24 01:00:16</pubDate>
     </item>
   
     <item>
