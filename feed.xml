@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Terminator’s Cameron joins AI company behind controversial image generator</title>
+      <link>https://arstechnica.com/?p=2052114</link>
+      <description>著名科幻电影导演詹姆斯·卡梅隆加入争议性图像生成器公司Stability AI的董事会，该公司以其开创性的AI图像合成模型Stable Diffusion系列而闻名。卡梅隆表示，他对前沿的影视制作技术感兴趣，并相信生成式AI与CGI的结合将是未来电影制作的下一个浪潮。尽管Stability AI面临一系列挑战，包括版权诉讼和领导层变动，但卡梅隆认为，Stability AI有望引领这一转型。</description>
+      <pubDate>2024-09-24 19:38:51</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI released its advanced voice mode to more people. Here’s how to get it.</title>
+      <link>https://www.technologyreview.com/2024/09/24/1104422/openai-released-its-advanced-voice-mode-to-more-people-heres-how-to-get-it/</link>
+      <description>OpenAI发布了先进的语音模式，允许用户更自然地与AI模型交流，可中断其回答并感知用户的情绪。该模式已向付费用户开放，包括Plus和Team用户，并计划逐步向所有用户推出。新版本还增加了新的声音选项，并进行了安全测试以确保其安全性。</description>
+      <pubDate>2024-09-24 19:08:04</pubDate>
+    </item>
+  
+    <item>
       <title>Broadcom responds to AT&amp;T’s VMware support lawsuit: AT&amp;T has “other options”</title>
       <link>https://arstechnica.com/?p=2052026</link>
       <description>Broadcom回应AT&amp;T对VMware支持服务的诉讼，称AT&amp;T有“其他选择”。AT&amp;T指控Broadcom违反合同，拒绝续签VMware永久许可证的支持服务。Broadcom辩称，VMware正转向订阅模式，AT&amp;T应该为此做好准备。Broadcom还表示，AT&amp;T有其他选择，包括购买新服务的订阅或转向其他解决方案。</description>
@@ -86,6 +100,13 @@
       <title>2024 Docker State of Application Development Survey: Share Your Thoughts on Development</title>
       <link>https://www.docker.com/blog/2024-docker-state-of-application-development-survey/</link>
       <description>2024年Docker应用开发调查报告：Docker邀请开发者分享他们的开发观点，以了解开发者的关注点、工作内容和重要事项。通过参与调查，开发者有机会赢取奖品，并帮助Docker构建更好的产品和服务。调查结果将公开报告，不包含个人识别信息。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Preventing infrastructure abuse with Vercel Firewall</title>
+      <link>https://vercel.com/blog/preventing-infrastructure-abuse-with-vercel-firewall</link>
+      <description>Vercel Firewall通过自动缓解DDoS攻击，每天阻止数千个威胁，保护网站安全。它提供全面的多层安全解决方案，包括自动防御和可定制的Web应用防火墙，实时检测和缓解恶意流量，确保服务连续性。Vercel致力于通过默认安全策略，最小化停机时间并提前阻止威胁，让客户专注于增长和创新。</description>
       <pubDate>2024-09-24 13:00:00</pubDate>
     </item>
   
