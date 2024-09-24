@@ -13,6 +13,22 @@
     </item>
   
     <item>
+      <title>bootc: Getting started with bootable containers</title>
+      <link>https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers</link>
+      <description>Red Hat开发者博客介绍了可启动容器（bootable containers）的概念，这是Red Hat Enterprise Linux图像模式的核心技术，允许容器包含完整的操作系统。文章提供了入门指南和视频演示，帮助用户理解和使用这一技术，并鼓励在Fedora讨论区和bootc社区中分享反馈。</description>
+      <pubDate>2024-09-24 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Register allocation in the Go compiler</title>
+      <link>https://developers.redhat.com/articles/2024/09/24/register-allocation-go-compiler</link>
+      <description>Go编译器的寄存器分配器分析
+
+本文深入探讨了Go编译器中的寄存器分配器（RA），包括其工作原理、组件和优化策略。Go的RA基于SSA（静态单赋值）形式，并处理基本块和SSA值。它包括值分配、溢出处理、Phi节点处理和栈槽分配。Go RA使用高效的数据结构来管理寄存器和内存位置，并采用多种技术来保持SSA形式，即使在寄存器分配后。</description>
+      <pubDate>2024-09-24 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>GitHub Enterprise Cloud with data residency: How we built the next evolution of GitHub Enterprise using GitHub</title>
       <link>https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/</link>
       <description>GitHub Enterprise Cloud推出数据驻留功能，旨在满足客户对数据控制的需求，并提升用户体验。该功能允许用户将代码和存储库数据存储在首选地理位置，基于Microsoft Azure的安全性和业务连续性，为全球开发者提供AI驱动的开发平台。通过使用GitHub的内部工具和流程，GitHub团队成功实现了这一创新，确保了产品的高性能、可靠性和安全性。</description>
@@ -325,6 +341,13 @@
       <title>Turning the page on some of our Open Source projects</title>
       <link>https://thoughtbot.com/blog/turning-the-page-on-some-of-our-open-source-projects</link>
       <description>thoughtbot对一些开源项目进行了审计，决定存档其中一些。尽管废弃库可能看似不利，但实际上是项目生命周期的一部分。文章列举了被存档的项目，如Paul Revere、fake_stripe、Croutons等，并解释了存档的原因。同时，thoughtbot也在寻找新的贡献者来维护其他开源项目。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Step Into the Future: Expanded Access and Features for AI Assistants</title>
+      <link>https://www.twilio.com/en-us/blog/twilio-ai-assistants-expanded-access-features</link>
+      <description>Twilio宣布推出AI助手的扩展访问和功能，包括全面对话历史UI和API、AI星座模型、增强的公共API和知识改进。此外，还推出了首个AI助手的定价模型，取消了消息限制，提供免费消息配额，并按需付费。这些更新旨在使AI助手更易于使用和扩展，以支持个性化客户互动。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
