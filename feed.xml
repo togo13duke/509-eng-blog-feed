@@ -13,6 +13,22 @@
     </item>
   
     <item>
+      <title>Why internal developer portals matter</title>
+      <link>https://developers.redhat.com/articles/2024/09/25/why-internal-developer-portals-matter</link>
+      <description>内部开发者门户的重要性
+
+内部开发者门户（IDP）通过集中所有资源，帮助开发者专注于构建而非搜索，从而解决现代开发环境中常见的“书签地狱”问题。IDP作为自我服务的平台，提供工具、服务和文档，简化开发者的工作流程。这些门户通过提供软件模板、标准化开发流程，并嵌入最佳实践、安全和合规性指南，提高效率并增强可扩展性。Red Hat Developer Hub基于开源平台Backstage，提供全面支持，包括Red Hat的生态系统工具和技术，使部署、管理和扩展内部开发者门户变得容易。</description>
+      <pubDate>2024-09-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to serve embeddings models on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai</link>
+      <description>本文介绍了如何在OpenShift AI上部署和运行嵌入模型。通过使用Sentence Transformer模型和Caikit Standalone serving runtime，读者可以学习如何将大型语言模型转换为Caikit格式，并在OpenShift AI上部署和调用模型，以执行自然语言处理任务。</description>
+      <pubDate>2024-09-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Hacker plants false memories in ChatGPT to steal user data in perpetuity</title>
       <link>https://arstechnica.com/?p=2052198</link>
       <description>黑客通过在ChatGPT中植入虚假记忆来窃取用户数据。安全研究员Rehberger发现，攻击者可以利用ChatGPT的长期记忆功能，通过间接提示注入的方式，将恶意信息永久存储在用户的记忆中。OpenAI已对此漏洞进行了修复，但用户仍需注意审查存储的记忆，以防恶意攻击。</description>
