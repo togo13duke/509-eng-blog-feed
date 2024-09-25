@@ -13,20 +13,6 @@
     </item>
   
     <item>
-      <title>Getting started with testing and .NET Aspire</title>
-      <link>https://devblogs.microsoft.com/dotnet/getting-started-with-testing-and-dotnet-aspire/</link>
-      <description>本文介绍了如何使用.NET Aspire进行测试，确保分布式应用程序的组件和资源处于正确状态。通过创建测试项目并使用MSTest框架，可以编写测试用例来验证前端和API服务的运行情况。文章详细说明了如何设置测试环境、编写测试代码以及执行测试，以确保应用程序按预期运行。</description>
-      <pubDate>2024-09-25 17:05:00</pubDate>
-    </item>
-  
-    <item>
-      <title>AllTrails gains over 1 million downloads after implementing its Wear OS app</title>
-      <link>http://android-developers.googleblog.com/2024/09/alltrails-gains-over-1-million-downloads-wear-os-app.html</link>
-      <description>AllTrails推出Wear OS应用后，下载量超过一百万次。该应用利用Wear OS提供核心功能，如暂停、继续和完成徒步旅行，以及圆形进度环显示当前路线的进度。通过Jetpack Compose简化开发，并集成Health Connect API，用户可以同步和共享健康和健身数据。这一创新提升了用户体验，并获得了用户的高度认可。</description>
-      <pubDate>2024-09-25 16:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Two Nobel Prize winners want to cancel their own CRISPR patents in Europe</title>
       <link>https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/</link>
       <description>两位诺贝尔奖得主希望在欧洲取消他们自己的CRISPR专利，这一决定可能影响谁能够收取使用这项技术的丰厚许可费。这一请求是在欧洲技术上诉委员会的一项具有破坏性的8月意见之后提出的，该委员会裁定，这对夫妇的最早专利申请没有充分解释CRISPR，不足以让其他科学家使用，也不算是一项合法的发明。诺贝尔奖得主的律师表示，这一决定是如此错误和不公平，他们别无选择，只能预先取消他们的专利。</description>
@@ -51,13 +37,6 @@
       <title>Python 3.13 Preview: A Modern REPL</title>
       <link>https://realpython.com/python313-repl/</link>
       <description>Python 3.13引入了全新的交互式解释器（REPL），提供了更现代的交互体验。新REPL支持颜色高亮、改进的行编辑和自动完成功能，使代码输入更便捷。此外，用户可以通过F1快捷键快速访问Python的帮助系统，获取模块、函数和方法的详细信息。这些改进旨在提升开发者的工作效率和编程体验。</description>
-      <pubDate>2024-09-25 14:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Another example of the Windows Runtime interop pattern: Using the UserConsentVerifier from a Win32 program</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240925-00/?p=110312</link>
-      <description>本文探讨了在Win32程序中使用Windows Runtime互操作模式，特别是如何利用UserConsentVerifier类来显示身份验证提示。文章详细介绍了如何从Win32应用程序中调用UserConsentVerifier，包括接口的获取、方法的使用以及参数的传递。通过示例代码展示了如何在用户按下空格键时请求用户同意验证。</description>
       <pubDate>2024-09-25 14:00:00</pubDate>
     </item>
   
@@ -143,27 +122,6 @@
     </item>
   
     <item>
-      <title>eBay Announces Appointment of Gigi Ganatra Duff as Chief Communications Officer</title>
-      <link>https://www.ebayinc.com/stories/news/ebay-announces-appointment-of-gigi-ganatra-duff-as-chief-communications-officer/</link>
-      <description>eBay宣布任命Gigi Ganatra Duff为首席传播官，她将负责全球传播团队，包括内部和外部沟通、社交媒体、公共事务、ESG传播、eBay基金会和内容。Gigi在Nordstrom担任副总裁期间积累了丰富的经验，对品牌建设和ESG策略有深刻理解。她期待加入eBay，推动创新和增长。</description>
-      <pubDate>2024-09-25 07:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>How eBay’s AI Tools Helped This Seller ‘Work Smarter, Not Harder’</title>
-      <link>https://innovation.ebayinc.com/tech/features/how-ebays-ai-tools-helped-this-seller-work-smarter-not-harder/</link>
-      <description>Ashley Moulder，一位专注于二手和复古时尚商品的eBay卖家，利用eBay的AI工具，如背景移除功能，提高了工作效率。她通过Instagram分享技巧，帮助其他卖家成功。自2018年起，Ashley的在线业务迅速增长，现在拥有数千个活跃的eBay商品列表，并强调提供非传统尺码的商品。</description>
-      <pubDate>2024-09-25 07:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Magical Bulk Listing Tool is eBay’s Latest AI-Powered Time Saver for Sellers</title>
-      <link>https://innovation.ebayinc.com/tech/features/magical-bulk-listing-tool-is-ebays-latest-ai-powered-time-saver-for-sellers/</link>
-      <description>eBay推出了一款名为“神奇批量列表工具”的人工智能功能，旨在帮助卖家节省时间和精力。该工具可快速生成产品列表，包括分类、标题和详细信息，并支持批量处理图片。目前已在体育交易卡类别中推出，未来将扩展到更多类别和国家。此工具显著缩短了创建列表所需的时间，提高了效率。</description>
-      <pubDate>2024-09-25 07:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>Space for Queries</title>
       <link>https://thedailywtf.com/articles/space-for-queries</link>
       <description>Remy Porter讲述了金融机构内部一个ETL脚本系统的故事，其中包含大量手动支持的需求和异常。特别是，他描述了数据库中一个带有尾随空格的列名导致的查询错误，以及这个问题的解决过程。这个故事揭示了数据库管理中的常见挑战和解决方案。</description>
@@ -181,20 +139,6 @@
       <title>5 pillars of operational resilience</title>
       <link>https://www.elastic.co/blog/operational-resilience-pillars</link>
       <description>企业运营弹性框架是应对中断、恢复和继续运营的关键。它包括五个关键支柱：风险识别和评估、业务连续性计划、事件响应和恢复、危机管理和适应性治理和文化。通过实施这些策略，组织可以保护其整个生态系统，以抵御冲击，保持关键功能，并茁壮成长。</description>
-      <pubDate>2024-09-25 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Encryption at rest in Elastic Cloud: Bring your own key with Google Cloud</title>
-      <link>https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-google-cloud</link>
-      <description>Elastic Cloud与Google Cloud Key Management Service（KMS）集成，提供基于用户自带的密钥的静态加密功能。通过创建Google Cloud KMS密钥并应用于Elastic Cloud托管部署，可以加密数据和快照。文章详细介绍了设置过程，包括密钥创建、权限配置、部署创建以及密钥轮换和撤销等安全措施。</description>
-      <pubDate>2024-09-25 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Designing Tegon: a signature vision for the AI-driven issue tracker</title>
-      <link>https://evilmartians.com/chronicles/designing-tegon-a-signature-vision-for-the-ai-driven-issue-tracker</link>
-      <description>Tegon，一款开源的AI优先问题跟踪器，通过Evil Martians团队的设计改造，成功更新了其UI和UX，提升了用户体验。新版本引入了智能过滤器、票证增强、重复检测和文本辅助等功能，简化了复杂任务的管理。设计团队注重可用性和迭代过程，确保产品与市场需求相匹配，并提供了直观的导航和快速访问关键功能。</description>
       <pubDate>2024-09-25 00:00:00</pubDate>
     </item>
   
