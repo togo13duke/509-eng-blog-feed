@@ -254,13 +254,6 @@
     </item>
   
     <item>
-      <title>WebAssembly targets: change in default target-features</title>
-      <link>https://blog.rust-lang.org/2024/09/24/webassembly-targets-change-in-default-target-features.html</link>
-      <description>Rust编译器已升级至LLVM 19，默认为WebAssembly目标启用了一些新特性。这些变化包括多值和引用类型提案的默认启用，以及改进的WebAssembly提案文档。这些更新预计将对Rust代码产生较小的影响，但建议用户测试新版本以确保兼容性。</description>
-      <pubDate>2024-09-24 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>OpenAI CEO: We may have AI superintelligence in “a few thousand days”</title>
       <link>https://arstechnica.com/?p=2051754</link>
       <description>OpenAI CEO Sam Altman在博客中预测，超级智能AI可能在“几千天内”出现，并认为深度学习将带来巨大繁荣。他设想AI将推动教育、医疗和软件开发等领域的突破，但同时也提醒要谨慎应对AI带来的挑战。</description>
