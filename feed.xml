@@ -174,6 +174,13 @@
     </item>
   
     <item>
+      <title>AI Powered BI for Games</title>
+      <link>https://www.databricks.com/blog/ai-powered-bi-games</link>
+      <description>Databricks推出AI驱动的BI工具，名为AI/BI Genie，旨在通过聊天界面让用户直接与数据互动，从而提高数据洞察的生成效率。该工具允许用户提出问题，系统会解释问题并呈现结果，甚至将结果转化为可视化图表。文章以《魔兽世界》数据集为例，展示了如何创建Genie空间，并探讨了其在游戏公司中的应用价值。通过Genie空间，游戏设计师可以更深入地了解玩家行为，从而优化游戏体验。</description>
+      <pubDate>2024-09-24 07:31:56</pubDate>
+    </item>
+  
+    <item>
       <title>bootc: Getting started with bootable containers</title>
       <link>https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers</link>
       <description>Red Hat开发者博客介绍了可启动容器（bootable containers）的概念，这是Red Hat Enterprise Linux图像模式的核心技术，允许容器包含完整的操作系统。文章提供了入门指南和视频演示，帮助用户理解和使用这一技术，并鼓励在Fedora讨论区和bootc社区中分享反馈。</description>
