@@ -13,6 +13,48 @@
     </item>
   
     <item>
+      <title>Join Last9 at SRECon Europe 2024!</title>
+      <link>https://last9.io/events/join-last9-at-srecon-europe-2024/</link>
+      <description>参加2024年10月29日至31日在爱尔兰都柏林举行的SRECon Europe，与Last9团队见面，了解如何通过高基数指标、日志和跟踪来转换可观察性，确保您不会错过真正重要的事情。Last9是一个与Prometheus和OpenTelemetry兼容的数据存储，旨在简化您的遥测需求，提供智能警报、开发者友好的控制平面和完整的数据保留功能。</description>
+      <pubDate>2024-09-25 13:45:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Decoding How AI Can Accelerate Data Science Workflows</title>
+      <link>https://blogs.nvidia.com/blog/rtx-ai-rapids-cudf-pandas/</link>
+      <description>NVIDIA的RAPIDS cuDF库通过加速pandas库，显著提升了数据科学工作流程的速度，使数据科学家能够在不牺牲处理速度的情况下使用熟悉的代码库。该库利用GPU加速，在RTX工作站和PC上实现高达100倍的性能提升，支持大规模数据集处理，为数据科学领域带来新的发展机遇。</description>
+      <pubDate>2024-09-25 13:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>A tiny new open-source AI model performs as well as powerful big ones</title>
+      <link>https://www.technologyreview.com/2024/09/25/1104465/a-tiny-new-open-source-ai-model-performs-as-well-as-powerful-big-ones/</link>
+      <description>MIT Technology Review报道，艾伦人工智能研究所（Ai2）发布了一个名为Molmo的开源多模态语言模型系列，其性能与OpenAI、谷歌和Anthropic等公司的顶级专有模型相当。Molmo模型在更少但质量更高的数据集上训练，表现出色，且计算成本更低。Ai2的Molmo模型在图像、图表和文档理解等测试中超越了OpenAI的GPT-4o，同时其开放性允许开发者在其基础上构建应用。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: how to connect the US’s grids, and OpenAI’s new voice mode</title>
+      <link>https://www.technologyreview.com/2024/09/25/1104462/the-download-how-to-connect-the-uss-grids-and-openais-new-voice-mode/</link>
+      <description>MIT Technology Review最新报道了美国电网连接和OpenAI新语音模式的发展。能源企业家Michael Skelly致力于开发长距离输电线路，以促进从燃煤和天然气发电厂向可再生能源的转变。OpenAI发布了ChatGPT的先进语音模式，允许用户更自然地与AI模型交流。此外，还介绍了Cinelytic公司利用生成式AI提供剧本反馈，以及中国资金支持的美国风险投资基金受到审查等科技新闻。</description>
+      <pubDate>2024-09-25 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Webflow Tips for Pros: All Killer, No Filler</title>
+      <link>https://spin.atomicobject.com/webflow-101-tips-for-pros/</link>
+      <description>Webflow是一个无需编码即可创建专业网站的平台，适合前端开发者和设计师使用。本文为经验丰富的开发者提供Webflow使用指南，包括规划策略、管理样式、响应式设计、图标使用、组件创建、交互和动画等。通过学习这些技巧，开发者可以更高效地利用Webflow构建网站。</description>
+      <pubDate>2024-09-25 12:00:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Why one developer won’t quit fighting to connect the US’s grids</title>
+      <link>https://www.technologyreview.com/2024/09/25/1104413/why-one-developer-wont-quit-fighting-to-connect-the-uss-grids/</link>
+      <description>美国能源企业家Michael Skelly致力于连接美国电网，尽管他的前公司Clean Line Energy Partners在2019年关闭，但他依然坚持这一愿景。他最新的公司Grid United正在推进的North Plains Connector项目，旨在连接美国最大的两个电网，以促进可再生能源的使用，并提高电网的稳定性和可靠性。该项目得到了美国能源部的数亿美元资助，有望缓解美国电网连接的瓶颈问题。</description>
+      <pubDate>2024-09-25 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why internal developer portals matter</title>
       <link>https://developers.redhat.com/articles/2024/09/25/why-internal-developer-portals-matter</link>
       <description>内部开发者门户的重要性
@@ -26,6 +68,27 @@
       <link>https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai</link>
       <description>本文介绍了如何在OpenShift AI上部署和运行嵌入模型。通过使用Sentence Transformer模型和Caikit Standalone serving runtime，读者可以学习如何将大型语言模型转换为Caikit格式，并在OpenShift AI上部署和调用模型，以执行自然语言处理任务。</description>
       <pubDate>2024-09-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Space for Queries</title>
+      <link>https://thedailywtf.com/articles/space-for-queries</link>
+      <description>Remy Porter讲述了金融机构内部一个ETL脚本系统的故事，其中包含大量手动支持的需求和异常。特别是，他描述了数据库中一个带有尾随空格的列名导致的查询错误，以及这个问题的解决过程。这个故事揭示了数据库管理中的常见挑战和解决方案。</description>
+      <pubDate>2024-09-25 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GraphQL tip: Have the subscription types contain all filterable fields on the top-level.</title>
+      <link>https://advancedweb.hu/shorts/graphql-tip-have-the-subscription-types-contain-all-filterable-fields-on-the-top-level/</link>
+      <description>GraphQL最佳实践：确保订阅类型包含所有可筛选字段在顶层。这种结构便于在项目删除时发送事件，并支持所有筛选器。此外，当实体本身不存在筛选器时，如用户ID变更，添加prevUserId字段可通知原始所有者。</description>
+      <pubDate>2024-09-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>5 pillars of operational resilience</title>
+      <link>https://www.elastic.co/blog/operational-resilience-pillars</link>
+      <description>企业运营弹性框架是应对中断、恢复和继续运营的关键。它包括五个关键支柱：风险识别和评估、业务连续性计划、事件响应和恢复、危机管理和适应性治理和文化。通过实施这些策略，组织可以保护其整个生态系统，以抵御冲击，保持关键功能，并茁壮成长。</description>
+      <pubDate>2024-09-25 00:00:00</pubDate>
     </item>
   
     <item>
@@ -371,6 +434,13 @@
       <title>Highlights from the Singapore Formula 1 Grand Prix to Get Your Heart Racing</title>
       <link>https://s14415.pcdn.co/blog/insights-singapore-formula-1-grand-prix/</link>
       <description>新加坡一级方程式大奖赛亮点：Lando Norris夺冠，Sainz发生事故，Ricciardo赛后采访感人。分析社交媒体数据，McLaren和Red Bull Racing表现抢眼，Ferrari面临挑战。 Norris成为最受关注的车手，Ricciardo赢得“最佳车手”称号。</description>
+      <pubDate>2024-09-23 14:00:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Highlights from the Singapore Formula 1 Grand Prix to Get Your Heart Racing</title>
+      <link>https://www.brandwatch.com/blog/insights-singapore-formula-1-grand-prix/</link>
+      <description>新加坡一级方程式大奖赛亮点：Lando Norris夺冠，Sainz发生事故，Ricciardo赛后采访感人。分析社交媒体数据，McLaren和Ferrari成为最受关注的车队， Norris和Verstappen、Sainz成为最受关注的车手。</description>
       <pubDate>2024-09-23 14:00:26</pubDate>
     </item>
   
