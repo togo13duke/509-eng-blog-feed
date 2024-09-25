@@ -13,6 +13,34 @@
     </item>
   
     <item>
+      <title>OpenAI’s Murati shocks with sudden departure announcement</title>
+      <link>https://arstechnica.com/?p=2052426</link>
+      <description>OpenAI首席技术官Mira Murati突然宣布离职，引发业界关注。Murati在OpenAI担任CTO六年半，负责技术战略和产品开发，包括DALL-E、Codex、Sora和ChatGPT平台。她的离职正值OpenAI计划将公司重组为营利性公司，引发对公司未来研究方向和内部动态的质疑。</description>
+      <pubDate>2024-09-25 21:34:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Run your compute-intensive and general purpose workloads sustainably with the new Amazon EC2 C8g, M8g instances</title>
+      <link>https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/</link>
+      <description>亚马逊宣布推出新的EC2 C8g和M8g实例，基于AWS Graviton4处理器，适用于计算密集型和通用型工作负载。C8g实例适用于高性能计算、批处理、游戏等，而M8g实例提供最佳性价比，适用于应用服务器、微服务等。这些实例提供更大的实例大小、更高的内存带宽和更快的网络带宽，有助于处理更多数据、提高效率并降低总拥有成本。</description>
+      <pubDate>2024-09-25 21:16:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Talking to ChatGPT for the first time is a surreal experience</title>
+      <link>https://arstechnica.com/?p=2052409</link>
+      <description>体验ChatGPT的首次对话是一种超现实的感觉。OpenAI的ChatGPT-4o引入了先进的语音功能，使得对话更加自然和吸引人。尽管ChatGPT仍然只是一个处理信息的计算机程序，但它的语音合成技术令人信服，可能会让人误以为是在与一个有情感和意识的生物交流。这种新的交互方式可能会开启我们与AI关系的新纪元。</description>
+      <pubDate>2024-09-25 21:04:30</pubDate>
+    </item>
+  
+    <item>
+      <title>The FIPS Compliance of HKDF</title>
+      <link>https://words.filippo.io/dispatches/fips-hkdf/</link>
+      <description>HKDF是一种基于HMAC的密钥派生函数，符合FIPS 140-3标准，适用于多种加密场景。它既可作为密钥协商的一部分，也可作为通用密钥派生函数使用。HKDF-Extract和HKDF-Expand分别用于提取和扩展密钥，而HKDF-Expand也可作为通用密钥派生函数。FIPS 140合规性要求使用经过验证的模块，Go标准库的FIPS模块将测试HKDF的合规性。</description>
+      <pubDate>2024-09-25 20:42:07</pubDate>
+    </item>
+  
+    <item>
       <title>Roundtables: Putting AI’s Climate Impact Into Perspective</title>
       <link>https://www.technologyreview.com/2024/09/25/1104491/roundtables-putting-ais-climate-impact-into-perspective/</link>
       <description>人工智能的崛起伴随着日益增长的碳足迹和电力需求。分析预测，AI可能在本十年内将数据中心能源消耗增加160%。本文探讨了AI的电力需求和碳排放问题，并讨论了在气候危机面前如何负责任地使用这项技术。</description>
@@ -107,6 +135,13 @@
       <title>A tiny new open-source AI model performs as well as powerful big ones</title>
       <link>https://www.technologyreview.com/2024/09/25/1104465/a-tiny-new-open-source-ai-model-performs-as-well-as-powerful-big-ones/</link>
       <description>MIT Technology Review报道，艾伦人工智能研究所（Ai2）发布了一个名为Molmo的开源多模态语言模型系列，其性能与OpenAI、谷歌和Anthropic等公司的顶级专有模型相当。Molmo模型在更少但质量更高的数据集上训练，表现出色，且计算成本更低。Ai2的Molmo模型在图像、图表和文档理解等测试中超越了OpenAI的GPT-4o，同时其开放性允许开发者在其基础上构建应用。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>VPC Peering now available as self-service for Vercel’s Secure Compute</title>
+      <link>https://vercel.com/changelog/VPC-Peering-now-available-as-self-service-for-Vercel-Secure-Compute</link>
+      <description>Vercel推出Secure Compute的自服务功能，为Enterprise客户提供更灵活的网络管理，包括VPC Peering连接管理和故障转移区域配置。新功能简化了网络管理，增强了Vercel与AWS环境之间的安全自服务连接。</description>
       <pubDate>2024-09-25 13:00:00</pubDate>
     </item>
   
@@ -230,6 +265,13 @@
       <title>Kimba Syndrome</title>
       <link>https://taylor.town/oh-colonialism</link>
       <description>这篇文章探讨了知识产权和生物剽窃的问题，指出在音乐、科学和农业领域，由于信息不对称和合同不透明，权利所有者往往无法准确评估其权利，导致资源被不当地利用和补偿。文章通过多个案例，如迪士尼剽窃《狮子王》和多种植物专利问题，揭示了跨国公司在利用当地资源时缺乏公平性和透明度。作者呼吁尊重当地人民的权利，通过透明度和公平分享利益来解决这些问题。</description>
+      <pubDate>2024-09-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to use the Reddit API for a JavaScript application</title>
+      <link>https://www.honeybadger.io/blog/javascript-reddit-api/</link>
+      <description>本文介绍了如何使用JavaScript和Reddit API构建一个搜索Reddit文章的应用程序。通过设置Parcel打包器，作者展示了如何从Reddit API提取数据，并使用HTML和Bootstrap构建用户界面。文章详细说明了如何处理搜索请求、排序和限制结果，以及如何将结果展示在网页上。作者还提供了代码示例和GitHub链接，以便读者可以跟随教程进行实践。</description>
       <pubDate>2024-09-25 00:00:00</pubDate>
     </item>
   
