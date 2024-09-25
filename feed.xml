@@ -13,6 +13,34 @@
     </item>
   
     <item>
+      <title>Two Nobel Prize winners want to cancel their own CRISPR patents in Europe</title>
+      <link>https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/</link>
+      <description>两位诺贝尔奖得主希望在欧洲取消他们自己的CRISPR专利，这一决定可能影响谁能够收取使用这项技术的丰厚许可费。这一请求是在欧洲技术上诉委员会的一项具有破坏性的8月意见之后提出的，该委员会裁定，这对夫妇的最早专利申请没有充分解释CRISPR，不足以让其他科学家使用，也不算是一项合法的发明。诺贝尔奖得主的律师表示，这一决定是如此错误和不公平，他们别无选择，只能预先取消他们的专利。</description>
+      <pubDate>2024-09-25 15:32:32</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #85: PACs and parties</title>
+      <link>https://www.bambooweekly.com/bw-85-pacs-and-parties/</link>
+      <description>本文探讨了美国政治行动委员会（PAC）和政党在选举中的作用。文章指出，尽管对PAC的监管存在，但它们在筹集资金方面相对自由，且与候选人和政党的界限模糊。作者介绍了如何使用Streamlit构建一个数据仪表板，以查询和分析PAC和政党数据。文章还提供了下载FEC数据的链接和构建数据框架的步骤。</description>
+      <pubDate>2024-09-25 15:00:24</pubDate>
+    </item>
+  
+    <item>
+      <title>DevDay 2024 Recap: What's New In Auth0?</title>
+      <link>https://auth0.com/blog/devday2024-product-announcements/</link>
+      <description>DevDay 2024上，Auth0发布了多项新功能，包括改进定价和计划、增强登录体验和可扩展性、推出新的API和Okta FGA功能、引入高度监管身份（HRI）和Auth0 Teams等。这些更新旨在提升应用安全性、简化身份验证流程，并支持更多合规性要求。</description>
+      <pubDate>2024-09-25 14:38:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python 3.13 Preview: A Modern REPL</title>
+      <link>https://realpython.com/python313-repl/</link>
+      <description>Python 3.13引入了全新的交互式解释器（REPL），提供了更现代的交互体验。新REPL支持颜色高亮、改进的行编辑和自动完成功能，使代码输入更便捷。此外，用户可以通过F1快捷键快速访问Python的帮助系统，获取模块、函数和方法的详细信息。这些改进旨在提升开发者的工作效率和编程体验。</description>
+      <pubDate>2024-09-25 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Join Last9 at SRECon Europe 2024!</title>
       <link>https://last9.io/events/join-last9-at-srecon-europe-2024/</link>
       <description>参加2024年10月29日至31日在爱尔兰都柏林举行的SRECon Europe，与Last9团队见面，了解如何通过高基数指标、日志和跟踪来转换可观察性，确保您不会错过真正重要的事情。Last9是一个与Prometheus和OpenTelemetry兼容的数据存储，旨在简化您的遥测需求，提供智能警报、开发者友好的控制平面和完整的数据保留功能。</description>
@@ -48,6 +76,22 @@
     </item>
   
     <item>
+      <title>Prometheus Rate Function: A Practical Guide to Using It</title>
+      <link>https://last9.io/blog/prometheus-rate-function/</link>
+      <description>本文深入探讨了Prometheus的rate()函数，解释了其在分析系统行为变化、提升监控策略方面的作用。通过实例和最佳实践，文章展示了如何使用rate()函数进行性能监控、容量规划和警报设置，并提供了与irate()函数的区别、高级用法和常见错误避免的建议。总结来说，rate()函数是监控和优化系统性能的关键工具。</description>
+      <pubDate>2024-09-25 11:51:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Flow: Seven Steps for a Seamless Content Strategy</title>
+      <link>https://s14415.pcdn.co/blog/social-media-flow/</link>
+      <description>社交媒体内容策略：通过七个步骤实现无缝流程
+
+本文探讨了如何通过七个步骤创建有效的社交媒体工作流程，包括理解社交媒体工作流程、设置工作流程、了解受众、创建高质量内容、利用技术、分析表现和监控趋势。通过这些步骤，品牌可以更高效地管理社交媒体，提高内容质量，增强与受众的互动，并最终提升品牌形象。</description>
+      <pubDate>2024-09-25 09:00:40</pubDate>
+    </item>
+  
+    <item>
       <title>Why one developer won’t quit fighting to connect the US’s grids</title>
       <link>https://www.technologyreview.com/2024/09/25/1104413/why-one-developer-wont-quit-fighting-to-connect-the-uss-grids/</link>
       <description>美国能源企业家Michael Skelly致力于连接美国电网，尽管他的前公司Clean Line Energy Partners在2019年关闭，但他依然坚持这一愿景。他最新的公司Grid United正在推进的North Plains Connector项目，旨在连接美国最大的两个电网，以促进可再生能源的使用，并提高电网的稳定性和可靠性。该项目得到了美国能源部的数亿美元资助，有望缓解美国电网连接的瓶颈问题。</description>
@@ -67,6 +111,13 @@
       <title>How to serve embeddings models on OpenShift AI</title>
       <link>https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai</link>
       <description>本文介绍了如何在OpenShift AI上部署和运行嵌入模型。通过使用Sentence Transformer模型和Caikit Standalone serving runtime，读者可以学习如何将大型语言模型转换为Caikit格式，并在OpenShift AI上部署和调用模型，以执行自然语言处理任务。</description>
+      <pubDate>2024-09-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>eBay Empowers Sellers with Innovative Tools at eBay Open 2024</title>
+      <link>https://innovation.ebayinc.com/tech/features/ebay-empowers-sellers-with-innovative-tools-at-ebay-open-2024/</link>
+      <description>eBay在2024年eBay Open大会上推出了一系列创新工具和服务，旨在提升卖家体验，简化运营流程，并加强与买家的连接。新工具包括简化上架流程、AI辅助批量上架工具、重新设计的卖家中心以及移动应用中的专用销售模式。这些创新旨在帮助卖家更高效地工作，并推动电子商务的未来发展。</description>
       <pubDate>2024-09-25 07:00:00</pubDate>
     </item>
   
