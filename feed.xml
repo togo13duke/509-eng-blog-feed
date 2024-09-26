@@ -13,10 +13,59 @@
     </item>
   
     <item>
+      <title>Kicking off Cybersecurity Awareness Month: Researcher spotlights and additional incentives!</title>
+      <link>https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-researcher-spotlights-and-additional-incentives/</link>
+      <description>GitHub在网络安全意识月期间为安全研究员提供额外奖励，包括对新老研究员的奖金、提供Nuclei模板的奖金，以及对参与GitHub安全漏洞赏金计划的优秀研究员进行展示。这些举措旨在鼓励研究人员提高GitHub平台的安全性。</description>
+      <pubDate>2024-09-26 16:00:02</pubDate>
+    </item>
+  
+    <item>
       <title>Masked self-attention: How LLMs learn relationships between tokens</title>
       <link>https://stackoverflow.blog/2024/09/26/masked-self-attention-how-llms-learn-relationships-between-tokens/</link>
       <description>LLMs通过掩码自注意力机制学习词元间的关系，该机制是大型语言模型学习句子中词语丰富关系和模式的关键构建块。该机制包括线性投影、计算注意力分数、形成概率分布、掩码操作和计算输出等步骤，从而实现从文本中学习复杂模式，为当今流行的AI应用提供动力。</description>
       <pubDate>2024-09-26 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Boost your CLI skills with GitHub Copilot</title>
+      <link>https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/</link>
+      <description>GitHub Copilot CLI扩展可以帮助开发者提高终端操作技能，通过提供命令建议和解释，简化Git和通用终端命令的使用。通过安装GitHub CLI和GitHub Copilot订阅，用户可以享受更高效、更便捷的终端操作体验。</description>
+      <pubDate>2024-09-26 15:54:15</pubDate>
+    </item>
+  
+    <item>
+      <title>Advancing the State of the Art in Zero Knowledge Proofs: SIEVE Wrap Up</title>
+      <link>https://galois.com/blog/2024/09/advancing-the-state-of-the-art-in-zero-knowledge-proofs-sieve-wrap-up/</link>
+      <description>Galois公司完成了DARPA的SIEVE项目，该项目旨在推进零知识证明（ZKPs）技术，使其在国防相关应用中更加实用。通过显著提高ZKPs的性能，Galois实现了从软件漏洞检测到硬件设计验证的多种应用，同时保护隐私和安全。这些技术包括用于检测软件漏洞的Cheesecloth工具，以及用于验证硬件设计的零知识证明方法。此外，Galois还开发了一种保护消费者数据隐私的技术，允许用户在不泄露详细信息的情况下验证其资格。这些进展为ZKPs在多个领域的应用开辟了新的可能性。</description>
+      <pubDate>2024-09-26 15:49:06</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #85: PACs and parties (solution)</title>
+      <link>https://www.bambooweekly.com/bw-85-pacs-and-parties-solution/</link>
+      <description>本文探讨了美国政治选举中的资金筹集，特别是政治行动委员会（PACs）和政党如何报告其资金筹集情况。作者使用Pandas库处理FEC提供的数据，并创建了一个Streamlit应用程序来展示这些数据。文章详细介绍了如何从FEC下载数据，如何使用Pandas读取和格式化数据，以及如何使用Streamlit构建一个交互式仪表板来查询和分析这些数据。</description>
+      <pubDate>2024-09-26 15:01:20</pubDate>
+    </item>
+  
+    <item>
+      <title>From Apex to AI: Robin Gupta Embraces All Things Salesforce</title>
+      <link>https://developer.salesforce.com/blogs/2024/09/from-apex-to-ai-robin-gupta-embraces-all-things-salesforce.html</link>
+      <description>Robin Gupta是一位从Java背景转型到Salesforce开发的开发者，他在短短两年内从对Salesforce一无所知到在Dreamforce上演讲。他强调Salesforce是一个开发平台，其Einstein 1平台为开发者提供了基础设施、安全和AI支持。通过Salesforce的文档和Trailhead平台，他迅速掌握了Apex和SOQL技能。Robin认为Salesforce开发者社区对他的成功至关重要，他通过分享知识和参与开源项目回馈社区。他还在工作中探索AI的潜力，并开发了TestZeus工具和Provar Assistant聊天机器人。</description>
+      <pubDate>2024-09-26 15:00:17</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI plans tectonic shift from nonprofit to for-profit, giving Altman equity</title>
+      <link>https://arstechnica.com/?p=2052614</link>
+      <description>OpenAI计划从非营利组织转变为营利性公司，CEO Sam Altman将首次获得公司股权，可能获得7%的股份。这一转变可能使公司对投资者更具吸引力，但同时也引发了对其承诺将先进AI的益处与“全人类”共享的疑问。OpenAI的非营利部门将继续存在，但在新的营利实体中只拥有少数股权。</description>
+      <pubDate>2024-09-26 14:48:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Atomic Tessellator: Revolutionizing Computational Chemistry with Data Streaming</title>
+      <link>https://www.confluent.io/blog/computational-chemistry/</link>
+      <description>Atomic Tessellator利用数据流技术和生成式AI，将大量复杂分子数据从多个数据库和生成模型中推送到Confluent平台，并通过Kafka进行数据流处理，快速发现具有高商业价值的新催化剂。这种数据流架构使Atomic Tessellator能够快速部署数据管道，同步复杂分子数据，并快速集成新服务，从而加速新催化剂的发现。</description>
+      <pubDate>2024-09-26 14:00:02</pubDate>
     </item>
   
     <item>
@@ -114,6 +163,20 @@
       <title>How are GenAI and data analytics reshaping the public sector?</title>
       <link>https://www.elastic.co/blog/behind-the-scenes-genai-data-analytics-public-sector</link>
       <description>人工智能和数据分析正在重塑公共部门，通过提高效率和洞察力来应对日益增长的数据挑战。这些技术不仅帮助处理大量数据，还推动创新，但需要关注用户需求和隐私保护。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Come Build Where the World Plays</title>
+      <link>https://discord.com/blog/build-where-the-world-plays</link>
+      <description>Discord宣布向所有开发者开放Discord活动，允许他们使用嵌入式应用程序软件开发游戏、音乐体验等互动活动。这一举措旨在促进社交游戏创新，并为开发者提供更便捷的发现、发布和盈利方式。Discord致力于与开发者共同塑造平台未来，为用户提供丰富和有趣的体验。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding AI for customer support: How AI is transforming customer service</title>
+      <link>https://www.elastic.co/blog/understanding-ai-customer-support</link>
+      <description>人工智能正在改变客户服务，通过个性化解决方案和自动化工具提升客户体验。企业应了解客户需求，结合AI技术如聊天机器人、虚拟助手和自然语言处理，以优化客户服务流程，提高效率和满意度。同时，需关注隐私和安全问题，确保AI应用符合客户期望。</description>
       <pubDate>2024-09-26 00:00:00</pubDate>
     </item>
   
@@ -261,6 +324,13 @@
       <title>VPC Peering now available as self-service for Vercel’s Secure Compute</title>
       <link>https://vercel.com/changelog/VPC-Peering-now-available-as-self-service-for-Vercel-Secure-Compute</link>
       <description>Vercel推出Secure Compute的自服务功能，为Enterprise客户提供更灵活的网络管理，包括VPC Peering连接管理和故障转移区域配置。新功能简化了网络管理，增强了Vercel与AWS环境之间的安全自服务连接。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>VPC Peering now available as self-service for Vercel’s Secure Compute</title>
+      <link>https://vercel.com/changelog/vpc-peering-now-available-as-self-service-for-vercel-secure-compute</link>
+      <description>Vercel推出Secure Compute的自服务功能，为企业和团队提供更灵活的网络管理，包括VPC Peering连接和故障转移区域配置。这些更新简化了网络管理，增强了Vercel与AWS环境之间的安全自服务连接。</description>
       <pubDate>2024-09-25 13:00:00</pubDate>
     </item>
   
