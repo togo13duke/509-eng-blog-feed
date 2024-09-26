@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Want AI that flags hateful content? Build it.</title>
+      <link>https://www.technologyreview.com/2024/09/25/1104519/ai-models-hate-imagery-humane-intelligence-bounty-competition/</link>
+      <description>Humane Intelligence发起了竞赛，鼓励开发者创建能追踪和消除网络仇恨图像的计算机视觉模型。该竞赛旨在解决生成式AI被用于制造仇恨内容的问题，并承诺为获胜者提供10,000美元的奖金。竞赛要求提交两种模型，旨在识别和欺骗仇恨图像，以促进机器学习研究人员在减少极端主义方面的研究。</description>
+      <pubDate>2024-09-25 23:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>NIST proposes barring some of the most nonsensical password rules</title>
+      <link>https://arstechnica.com/?p=2052508</link>
+      <description>NIST提议废除一些荒谬的密码规则，旨在为密码安全注入必要的常识。新指南建议取消强制密码重置、限制字符使用和安全性问题的要求，强调使用足够长和随机的密码，以增强安全性。</description>
+      <pubDate>2024-09-25 22:39:38</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI’s Murati shocks with sudden departure announcement</title>
       <link>https://arstechnica.com/?p=2052426</link>
       <description>OpenAI首席技术官Mira Murati突然宣布离职，引发业界关注。Murati在OpenAI担任CTO六年半，负责技术战略和产品开发，包括DALL-E、Codex、Sora和ChatGPT平台。她的离职正值OpenAI计划将公司重组为营利性公司，引发对公司未来研究方向和内部动态的质疑。</description>
