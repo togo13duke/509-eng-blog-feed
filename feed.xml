@@ -13,6 +13,55 @@
     </item>
   
     <item>
+      <title>Masked self-attention: How LLMs learn relationships between tokens</title>
+      <link>https://stackoverflow.blog/2024/09/26/masked-self-attention-how-llms-learn-relationships-between-tokens/</link>
+      <description>LLMs通过掩码自注意力机制学习词元间的关系，该机制是大型语言模型学习句子中词语丰富关系和模式的关键构建块。该机制包括线性投影、计算注意力分数、形成概率分布、掩码操作和计算输出等步骤，从而实现从文本中学习复杂模式，为当今流行的AI应用提供动力。</description>
+      <pubDate>2024-09-26 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Streamlining Generative AI Deployment with New Accelerators</title>
+      <link>https://blog.cloudera.com/streamlining-generative-ai-deployment-with-new-accelerators/</link>
+      <description>Cloudera推出五款新的机器学习加速器（AMPs），旨在简化生成式AI的部署。这些工具专注于生成式AI的流行话题，包括微调工作室、知识图谱增强的RAG和PromptBrew，旨在帮助数据科学家更快地将AI想法转化为实际应用。</description>
+      <pubDate>2024-09-26 13:00:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Building an AI Image Gallery: Advanced RAG With Pgvector and Claude Sonnet 3.5</title>
+      <link>https://www.timescale.com/blog/building-an-ai-image-gallery-advanced-rag-with-pgvector-and-claude-sonnet-3-5/</link>
+      <description>Anthropic的Claude Sonnet 3.5作为新一代大型语言模型，因其智能、速度和成本效益而受到开发者青睐。本文介绍了如何使用Claude Sonnet 3.5和pgvector构建一个AI图像库，通过检索增强生成（RAG）技术，实现图像搜索和问答功能。</description>
+      <pubDate>2024-09-26 13:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Kotlin Heroes: Episode 11 – Your Chance to Win Great Prizes and More</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/09/join-kotlin-heroes-episode-11/</link>
+      <description>Kotlin Heroes第11期比赛将于2024年9月30日举行，为所有水平的程序员提供算法问题解决的机会。参与者将有机会通过解决各种难度的问题来学习Kotlin，提升编程技能，并争夺现金奖品和Kotlin周边产品。比赛时长2小时30分钟，设有10个问题，奖品包括现金和限量版T恤。</description>
+      <pubDate>2024-09-26 12:17:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Tail Latency: A Critical Factor in Large-scale Distributed Systems</title>
+      <link>https://last9.io/blog/tail-latency/</link>
+      <description>尾延迟是大型分布式系统中的关键因素，它对系统性能和用户体验有显著影响。本文探讨了尾延迟的重要性、影响因素以及降低策略，包括监控尾延迟、优化资源利用、实施超时和缓存等，以提升系统性能并确保用户流畅体验。</description>
+      <pubDate>2024-09-26 12:14:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: a CRISPR patent battle, and the promise of tiny AI</title>
+      <link>https://www.technologyreview.com/2024/09/26/1104538/the-download-a-crispr-patent-battle-and-the-promise-of-tiny-ai/</link>
+      <description>MIT Technology Review报道，诺贝尔奖得主团队请求取消其CRISPR专利，引发专利权争夺战；同时，开放源代码AI模型Molmo在性能上与大型AI模型相当，有助于降低计算成本；此外，Humane Intelligence推出竞赛，挑战开发者创建可追踪网络仇恨内容的计算机视觉模型。</description>
+      <pubDate>2024-09-26 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why I Prefer WebStorm Over Visual Studio Code for Web Development</title>
+      <link>https://spin.atomicobject.com/why-i-prefer-webstorm-over-visual-studio-code-for-web-development/</link>
+      <description>WebStorm在Web开发中胜过Visual Studio Code的原因包括：无需大量配置即可提供强大的功能，如智能代码补全、错误检测和重构工具；卓越的代码智能和导航功能，如快速跳转到定义和查找用法；强大的重构工具，可安全自动化地处理复杂变更；集成多种开发工具，无需额外插件；内置调试器，提供流畅的调试体验；以及与JetBrains其他产品的一致性，提高多语言或框架开发者的生产力。</description>
+      <pubDate>2024-09-26 12:00:44</pubDate>
+    </item>
+  
+    <item>
       <title>Why Microsoft made a deal to help restart Three Mile Island</title>
       <link>https://www.technologyreview.com/2024/09/26/1104516/three-mile-island-microsoft/</link>
       <description>三哩岛核电站即将重新启动，微软将购买其全部电力供应，为期20年。这一举措标志着核能在美国的回归，并可能预示着核能和大型科技公司对能源需求的未来趋势。三哩岛核电站的历史使其成为这一事件的焦点，而其重新启动可能为核能行业带来新的机遇。</description>
@@ -58,6 +107,13 @@
       <title>Disable console logs in production in Next.js</title>
       <link>https://www.amitmerchant.com/disable-console-logs-in-production-in-nextjs/</link>
       <description>在Next.js中，可以通过设置`next.config.js`文件中的`compiler.removeConsole`选项为`true`来禁用生产环境中的控制台日志，从而避免在生产环境中出现混乱的日志信息。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How are GenAI and data analytics reshaping the public sector?</title>
+      <link>https://www.elastic.co/blog/behind-the-scenes-genai-data-analytics-public-sector</link>
+      <description>人工智能和数据分析正在重塑公共部门，通过提高效率和洞察力来应对日益增长的数据挑战。这些技术不仅帮助处理大量数据，还推动创新，但需要关注用户需求和隐私保护。</description>
       <pubDate>2024-09-26 00:00:00</pubDate>
     </item>
   
