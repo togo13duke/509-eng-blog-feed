@@ -13,20 +13,6 @@
     </item>
   
     <item>
-      <title>Tails OS joins forces with Tor Project in merger</title>
-      <link>https://arstechnica.com/?p=2052906</link>
-      <description>Tails OS与Tor项目合并，旨在整合资源，降低成本，并更紧密地合作以实现网络匿名化目标。Tails是一个便携式操作系统，使用Tor网络，而Tor项目维护Tor匿名网络软件。合并将使Tails专注于其核心任务，同时受益于Tor项目的更大组织结构，从而加强双方在全球范围内保护用户免受监控和审查的能力。</description>
-      <pubDate>2024-09-26 20:57:23</pubDate>
-    </item>
-  
-    <item>
-      <title>Exponential growth brews 1 million AI models on Hugging Face</title>
-      <link>https://arstechnica.com/?p=2052715</link>
-      <description>Hugging Face平台上的AI模型数量突破一百万，这标志着机器学习领域的快速发展。该平台提供多样化的AI模型，支持开发者和研究人员的创新。通过社区驱动的定制和模型微调，Hugging Face成为AI研究和开发的重要枢纽。</description>
-      <pubDate>2024-09-26 19:50:27</pubDate>
-    </item>
-  
-    <item>
       <title>Keyset Pagination with Spring Data WindowIterator</title>
       <link>https://vladmihalcea.com/spring-data-windowiterator/</link>
       <description>本文介绍了如何使用Spring Data WindowIterator工具生成Keyset Pagination查询。通过Spring Data JPA方法返回查询结果集的Window，并使用Keyset Pagination策略迭代Window，从而实现高效的分页查询。这种方法可以减少数据库查询次数，提高性能。</description>
@@ -153,13 +139,6 @@
     </item>
   
     <item>
-      <title>Why I Prefer WebStorm Over Visual Studio Code for Web Development</title>
-      <link>https://spin.atomicobject.com/webstorm-over-vs-code/</link>
-      <description>WebStorm在Web开发中胜过Visual Studio Code，因为它提供即插即用的强大功能，如智能代码补全、错误检测和重构工具。WebStorm的代码智能和导航功能更胜一筹，且内置调试器，提供一致的用户体验，减少配置需求，提高开发效率。</description>
-      <pubDate>2024-09-26 12:00:44</pubDate>
-    </item>
-  
-    <item>
       <title>Why Microsoft made a deal to help restart Three Mile Island</title>
       <link>https://www.technologyreview.com/2024/09/26/1104516/three-mile-island-microsoft/</link>
       <description>三哩岛核电站即将重新启动，微软将购买其全部电力供应，为期20年。这一举措标志着核能在美国的回归，并可能预示着核能和大型科技公司对能源需求的未来趋势。三哩岛核电站的历史使其成为这一事件的焦点，而其重新启动可能为核能行业带来新的机遇。</description>
@@ -195,24 +174,10 @@
     </item>
   
     <item>
-      <title>eBay Announces Fifth Annual Up &amp; Running Grants Recipients</title>
-      <link>https://www.ebayinc.com/stories/news/ebay-announces-fifth-annual-up-and-running-grants-recipients/</link>
-      <description>eBay宣布了第五年度的Up &amp; Running Grants获奖者，为50位美国卖家提供总计50万美元的奖金、培训和指导，以促进他们的商业成功。这些卖家还将获得来自eBay Refurbished的500美元津贴，用于购买必要的商业技术和工具。自2020年启动以来，该计划已帮助众多小型企业主实现业务增长。</description>
-      <pubDate>2024-09-26 07:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>CodeSOD: True Parseimony</title>
       <link>https://thedailywtf.com/articles/true-parseimony</link>
       <description>Remy Porter在《Daily WTF》的博客中讨论了布尔表达式的误解，通过一个C#示例展示了不必要的字符串解析，指出这种做法降低了代码的可读性。</description>
       <pubDate>2024-09-26 06:30:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Propel Your SaaS Apps Into the Future at Oktane</title>
-      <link>https://developer.okta.com/blog/2024/09/26/oktane-saas-developers</link>
-      <description>Oktane 2024年10月15日至17日在拉斯维加斯举行，是年度最大的身份识别活动。Okta将举办研讨会、互动实验室和社交活动，帮助开发者推动SaaS应用的发展。参与者将学习如何利用Okta的身份和用户生命周期平台，提高应用的安全性，并扩展客户群。</description>
-      <pubDate>2024-09-26 05:00:00</pubDate>
     </item>
   
     <item>
