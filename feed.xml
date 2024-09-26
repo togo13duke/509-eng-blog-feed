@@ -69,6 +69,13 @@
     </item>
   
     <item>
+      <title>A Whole New World: ‘GreedFall II: The Dying World’ Joins GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-greedfall-ii-the-dying-world/</link>
+      <description>《GreedFall II：The Dying World》加入GeForce NOW，本周新增七款游戏，包括角色扮演游戏《GreedFall II：The Dying World》。GeForce NOW支持Windows on Arm笔记本电脑，提供高达4K分辨率、120帧每秒和HDR的流媒体体验。此外，GeForce NOW还提供《Guild Wars 2》的独特风格奖励包。</description>
+      <pubDate>2024-09-26 13:00:51</pubDate>
+    </item>
+  
+    <item>
       <title>Streamlining Generative AI Deployment with New Accelerators</title>
       <link>https://blog.cloudera.com/streamlining-generative-ai-deployment-with-new-accelerators/</link>
       <description>Cloudera推出五款新的机器学习加速器（AMPs），旨在简化生成式AI的部署。这些工具专注于生成式AI的流行话题，包括微调工作室、知识图谱增强的RAG和PromptBrew，旨在帮助数据科学家更快地将AI想法转化为实际应用。</description>
@@ -139,6 +146,13 @@
     </item>
   
     <item>
+      <title>eBay and Liberis Introduce Flexible Cash Advance, A New Way for Sellers to Expand and Grow Their Businesses</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-and-liberis-introduce-flexible-cash-advance-a-new-way-for-sellers-to-expand-and-grow-their-businesses/</link>
+      <description>eBay与Liberis合作推出灵活现金预支服务，为美国卖家提供快速、灵活的融资方式，以帮助他们扩大业务。该服务允许卖家从5,000美元到2,000,000美元不等地预支资金，并随着支付而解锁更多资本，只需支付实际使用的金额。此举旨在帮助卖家应对运营费用，并简化贷款申请流程，以促进小型企业的增长和经济机会。</description>
+      <pubDate>2024-09-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: True Parseimony</title>
       <link>https://thedailywtf.com/articles/true-parseimony</link>
       <description>Remy Porter在《Daily WTF》的博客中讨论了布尔表达式的误解，通过一个C#示例展示了不必要的字符串解析，指出这种做法降低了代码的可读性。</description>
@@ -177,6 +191,20 @@
       <title>Understanding AI for customer support: How AI is transforming customer service</title>
       <link>https://www.elastic.co/blog/understanding-ai-customer-support</link>
       <description>人工智能正在改变客户服务，通过个性化解决方案和自动化工具提升客户体验。企业应了解客户需求，结合AI技术如聊天机器人、虚拟助手和自然语言处理，以优化客户服务流程，提高效率和满意度。同时，需关注隐私和安全问题，确保AI应用符合客户期望。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord Update: September 26, 2024 Changelog</title>
+      <link>https://discord.com/blog/discord-update-september-26-2024-changelog</link>
+      <description>Discord于2024年9月26日更新，新增了App Launcher、四种新活动（如“Arena Kingdoms”和“Echo Chess”）、图像编辑功能，并允许开发者创建自己的活动。同时，引入了端到端加密和Passkeys登录，增强隐私和账户安全。此外，还提供了新的资源帮助用户更好地使用Discord。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 8.15.2 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-8-15-2-released</link>
+      <description>Elastic Stack 8.15.2版本发布，修复了Logstash环境变量替换的bug，并升级了PyTorch以解决内存分配问题。建议用户升级至最新版本以获得更好的性能和安全性。</description>
       <pubDate>2024-09-26 00:00:00</pubDate>
     </item>
   
