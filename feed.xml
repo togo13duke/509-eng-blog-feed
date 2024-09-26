@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>Why Microsoft made a deal to help restart Three Mile Island</title>
+      <link>https://www.technologyreview.com/2024/09/26/1104516/three-mile-island-microsoft/</link>
+      <description>三哩岛核电站即将重新启动，微软将购买其全部电力供应，为期20年。这一举措标志着核能在美国的回归，并可能预示着核能和大型科技公司对能源需求的未来趋势。三哩岛核电站的历史使其成为这一事件的焦点，而其重新启动可能为核能行业带来新的机遇。</description>
+      <pubDate>2024-09-26 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Clustercontrol adds Valkey in latest release</title>
       <link>https://severalnines.com/blog/clustercontrol-adds-valkey-in-latest-release/</link>
       <description>ClusterControl最新版本v2.2.0引入了新的Redis替代品Valkey，支持MariaDB 11.4和Ubuntu 24.04，并提供了对FIPS-140-2、Elasticsearch集群导入和Redis备份选项的增强。这些更新旨在优化和扩展开源数据库的工作负载。</description>
@@ -31,6 +38,13 @@
       <link>https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments</link>
       <description>本文介绍了在混合云环境中为Red Hat OpenShift 4.X集群启用etcd备份的方法，这对于灾难恢复或节点故障至关重要。建议定期备份etcd数据并存储在集群外部安全位置，以备节点恢复之用。文章详细说明了如何使用CronJob自动化备份过程，并提供了将备份存储在云对象存储（如S3）的步骤。</description>
       <pubDate>2024-09-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: True Parseimony</title>
+      <link>https://thedailywtf.com/articles/true-parseimony</link>
+      <description>Remy Porter在《Daily WTF》的博客中讨论了布尔表达式的误解，通过一个C#示例展示了不必要的字符串解析，指出这种做法降低了代码的可读性。</description>
+      <pubDate>2024-09-26 06:30:00</pubDate>
     </item>
   
     <item>
