@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Keyset Pagination with Spring Data WindowIterator</title>
+      <link>https://vladmihalcea.com/spring-data-windowiterator/</link>
+      <description>本文介绍了如何使用Spring Data WindowIterator工具生成Keyset Pagination查询。通过Spring Data JPA方法返回查询结果集的Window，并使用Keyset Pagination策略迭代Window，从而实现高效的分页查询。这种方法可以减少数据库查询次数，提高性能。</description>
+      <pubDate>2024-09-26 19:35:19</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub Copilot now available in github.com for Copilot Individual and Copilot Business plans</title>
+      <link>https://github.blog/news-insights/product-news/github-copilot-now-available-in-github-com-for-copilot-individual-and-copilot-business-plans/</link>
+      <description>GitHub Copilot现在可在github.com的Copilot个人和企业计划中提供预览版，通过集成GitHub，Copilot可以利用丰富的上下文信息，提供更个性化的编码辅助和AI原生开发者体验。用户可以通过自然语言搜索探索GitHub，快速理解代码，获取项目上下文，分析GitHub Actions作业，并在移动设备上与Copilot进行聊天。</description>
+      <pubDate>2024-09-26 18:01:17</pubDate>
+    </item>
+  
+    <item>
       <title>Kicking off Cybersecurity Awareness Month: Researcher spotlights and additional incentives!</title>
       <link>https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-researcher-spotlights-and-additional-incentives/</link>
       <description>GitHub在网络安全意识月期间为安全研究员提供额外奖励，包括对新老研究员的奖金、提供Nuclei模板的奖金，以及对参与GitHub安全漏洞赏金计划的优秀研究员进行展示。这些举措旨在鼓励研究人员提高GitHub平台的安全性。</description>
@@ -66,6 +80,13 @@
       <link>https://www.confluent.io/blog/computational-chemistry/</link>
       <description>Atomic Tessellator利用数据流技术和生成式AI，将大量复杂分子数据从多个数据库和生成模型中推送到Confluent平台，并通过Kafka进行数据流处理，快速发现具有高商业价值的新催化剂。这种数据流架构使Atomic Tessellator能够快速部署数据管道，同步复杂分子数据，并快速集成新服务，从而加速新催化剂的发现。</description>
       <pubDate>2024-09-26 14:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>If you’re going to specify the LVS_SORTASCENDING or LVS_SORTDESCENDING style, you had better be telling the truth</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240926-00/?p=110316</link>
+      <description>在Win32 ListView控件中，若指定LVS_SORTASCENDING或LVS_SORTDESCENDING样式，必须确保排序正确。若排序与声明不符，将导致二分搜索失败，进而影响键盘搜索功能。正确设置样式对于维持列表排序和搜索功能至关重要。</description>
+      <pubDate>2024-09-26 14:00:00</pubDate>
     </item>
   
     <item>
