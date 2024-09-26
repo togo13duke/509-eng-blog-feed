@@ -545,6 +545,15 @@
     </item>
   
     <item>
+      <title>How to Implement Drag and Drop Image With File Upload in Laravel and React</title>
+      <link>https://www.twilio.com/en-us/blog/implement-drag-drop-image-file-upload-laravel-react</link>
+      <description>如何实现Laravel和React中的拖放图像上传功能
+
+本文介绍如何在Laravel和React中实现拖放图像上传功能，适用于需要用户友好文件上传机制的应用程序。教程包括创建Laravel项目、设置数据库、创建模型和实现拖放上传功能。通过此教程，开发者可以学习如何使用拖放技术简化文件上传过程。</description>
+      <pubDate>2024-09-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI CEO: We may have AI superintelligence in “a few thousand days”</title>
       <link>https://arstechnica.com/?p=2051754</link>
       <description>OpenAI CEO Sam Altman在博客中预测，超级智能AI可能在“几千天内”出现，并认为深度学习将带来巨大繁荣。他设想AI将推动教育、医疗和软件开发等领域的突破，但同时也提醒要谨慎应对AI带来的挑战。</description>
