@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>Harness the power of serverless containers in hybrid scenarios</title>
+      <link>https://developers.redhat.com/articles/2024/09/26/harness-power-serverless-containers-hybrid-scenarios</link>
+      <description>Red Hat OpenShift Serverless利用无服务器容器技术，简化微服务和函数的应用开发，提高企业创新速度。它结合了无服务器和容器的优势，支持多种编程语言和自动扩展，适用于混合云环境，并通过事件驱动架构连接各种内置事件源。</description>
+      <pubDate>2024-09-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enable etcd backups for OpenShift clusters in hybrid cloud environments</title>
+      <link>https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments</link>
+      <description>本文介绍了在混合云环境中为Red Hat OpenShift 4.X集群启用etcd备份的方法，这对于灾难恢复或节点故障至关重要。建议定期备份etcd数据并存储在集群外部安全位置，以备节点恢复之用。文章详细说明了如何使用CronJob自动化备份过程，并提供了将备份存储在云对象存储（如S3）的步骤。</description>
+      <pubDate>2024-09-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Disable console logs in production in Next.js</title>
+      <link>https://www.amitmerchant.com/disable-console-logs-in-production-in-nextjs/</link>
+      <description>在Next.js中，可以通过设置`next.config.js`文件中的`compiler.removeConsole`选项为`true`来禁用生产环境中的控制台日志，从而避免在生产环境中出现混乱的日志信息。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Want AI that flags hateful content? Build it.</title>
       <link>https://www.technologyreview.com/2024/09/25/1104519/ai-models-hate-imagery-humane-intelligence-bounty-competition/</link>
       <description>Humane Intelligence发起了竞赛，鼓励开发者创建能追踪和消除网络仇恨图像的计算机视觉模型。该竞赛旨在解决生成式AI被用于制造仇恨内容的问题，并承诺为获胜者提供10,000美元的奖金。竞赛要求提交两种模型，旨在识别和欺骗仇恨图像，以促进机器学习研究人员在减少极端主义方面的研究。</description>
