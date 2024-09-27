@@ -13,38 +13,10 @@
     </item>
   
     <item>
-      <title>Man tricks OpenAI’s voice bot into duet of The Beatles’ “Eleanor Rigby”</title>
-      <link>https://arstechnica.com/?p=2052995</link>
-      <description>一位软件架构师成功诱使OpenAI的语音助手进行《Eleanor Rigby》的二重唱，展示了AI在音乐领域的潜力。</description>
-      <pubDate>2024-09-27 17:03:47</pubDate>
-    </item>
-  
-    <item>
-      <title>Microsoft details security/privacy overhaul for Windows Recall ahead of relaunch</title>
-      <link>https://arstechnica.com/?p=2052960</link>
-      <description>Microsoft对Windows的Recall功能进行了安全/隐私改革，原版因安全问题被取消。新版本为可选功能，提供更高级的加密和数据保护措施，包括使用TPM加密密钥和VBS隔离技术。</description>
-      <pubDate>2024-09-27 17:00:39</pubDate>
-    </item>
-  
-    <item>
       <title>Prometheus Recording Rules: A Developer's Guide to Query Optimization</title>
       <link>https://last9.io/blog/prometheus-recording-rules/</link>
       <description>本文深入探讨了Prometheus记录规则，这是一种预计算和存储常用或复杂PromQL查询的方法，以提高查询性能、优化仪表板并处理高基数数据。通过实际案例和最佳实践，文章展示了如何创建和管理记录规则，以及如何利用它们来简化监控和警报设置。</description>
       <pubDate>2024-09-27 15:16:24</pubDate>
-    </item>
-  
-    <item>
-      <title>Pandas office hours, September 29th</title>
-      <link>https://www.bambooweekly.com/pandas-office-hours-september-29th/</link>
-      <description>Pandas办公室时间将于9月29日举行，由Reuven M. Lerner主持，面向付费BW订阅者。参与者可提问或参与讨论，会议将录制并上传。</description>
-      <pubDate>2024-09-27 15:00:05</pubDate>
-    </item>
-  
-    <item>
-      <title>Expanding Confluent's Integration with Microsoft Azure®: Create and Manage Confluent Resources Directly from the Azure Portal with Confluent's Fully Managed Connectors (Preview)</title>
-      <link>https://www.confluent.io/blog/expanding-confluents-integration-with-microsoft-azure/</link>
-      <description>Confluent宣布与Microsoft Azure深度集成，用户可直接在Azure门户中创建和管理Confluent资源，简化数据流设置和管理，提高效率。此集成支持企业处理大量实时数据，如客户互动或交易数据，并带来无缝集成、增强数据流和改进效率等优势。</description>
-      <pubDate>2024-09-27 14:30:02</pubDate>
     </item>
   
     <item>
@@ -61,15 +33,6 @@
 
 Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“超越炒作：人工智能和未来基础设施”活动。活动在计算机历史博物馆举行，讨论了数据中心的环保影响、人工智能在代码安全中的作用以及如何规划基础设施以应对意外问题。</description>
       <pubDate>2024-09-27 14:21:46</pubDate>
-    </item>
-  
-    <item>
-      <title>The case of the crash when destructing a std::map</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240927-00/?p=110320</link>
-      <description>在析构std::map时发生崩溃的情况
-
-本文探讨了在析构std::map时发生的崩溃问题。通过分析崩溃的堆栈跟踪和STL源代码，发现崩溃是由于空树中哨兵节点的父节点为空导致的。进一步研究发现，这是由于程序在执行异步I/O操作时未正确处理OVERLAPPED结构体，导致内存损坏。文章最后提出了相应的修复方案，即确保在放弃I/O操作时取消它并等待其完成。</description>
-      <pubDate>2024-09-27 14:00:00</pubDate>
     </item>
   
     <item>
@@ -101,24 +64,10 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
-      <title>Some Go web dev notes</title>
-      <link>https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/</link>
-      <description>Julia Evans分享了她在Go语言开发网站过程中的经验和学习心得，包括Go 1.22的改进路由支持、使用sqlc自动生成数据库查询代码、sqlite数据库优化技巧、Go 1.19的GC内存限制设置，以及为什么她喜欢用Go语言制作网站。</description>
-      <pubDate>2024-09-27 11:16:00</pubDate>
-    </item>
-  
-    <item>
       <title>Space travel is dangerous. Could genetic testing and gene editing make it safer?</title>
       <link>https://www.technologyreview.com/2024/09/27/1104534/space-travel-dangerous-genetic-testing-gene-editing-safer/</link>
       <description>太空旅行存在风险，包括辐射、微重力和心理压力。为了保护宇航员，有研究提出通过基因编辑来增强他们的适应性。虽然这一想法目前还处于科幻阶段，但基因测试和基因编辑可能有助于降低太空旅行的风险，并保护宇航员和太空游客的健康。</description>
       <pubDate>2024-09-27 09:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>eBay Foundation Awards $3M to Help Drive Inclusive Entrepreneurship</title>
-      <link>https://www.ebayinc.com/stories/news/ebay-foundation-awards-3m-to-help-drive-inclusive-entrepreneurship/</link>
-      <description>eBay基金会宣布向31个全球项目授予近300万美元，以支持包容性创业。这些项目旨在帮助历史上被排除在外的群体克服创业障碍，包括为美国前囚犯提供第二次机会的Defy Ventures、在英国消除“机会差距”的Hatch Enterprise以及为澳大利亚女性提供灵活收入机会的Global Sisters。</description>
-      <pubDate>2024-09-27 07:00:00</pubDate>
     </item>
   
     <item>
@@ -146,13 +95,6 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <title>4 benefits of observability</title>
       <link>https://www.elastic.co/blog/4-benefits-observability</link>
       <description>现代可观察性平台通过统一数据平台和搜索AI能力，帮助IT团队实时排查问题，进行主动式分析，提高系统整体健康度。它通过整合监控工具和数据，简化数据管理，提高平均修复时间（MTTR），并使团队能够更有效地管理整个技术堆栈。这种解决方案通过提供对Kubernetes或微服务管理、第三方服务可见性、降低MTTR和数据整合等益处，为组织带来显著优势。</description>
-      <pubDate>2024-09-27 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>Save Variables in SQL</title>
-      <link>https://jaketrent.com/post/save-variables-sql</link>
-      <description>SQL中保存变量以供后续查询使用，使用WITH语句创建变量，通过选择和投影绑定二维结果。示例脚本展示了如何创建权限行、用户行和映射表行，并使用WITH语句保存变量，简化了插入操作。</description>
       <pubDate>2024-09-27 00:00:00</pubDate>
     </item>
   
