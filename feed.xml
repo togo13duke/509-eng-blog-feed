@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>The Power of the Coffee Walk: Boosting Creativity, Collaboration, and Focus</title>
+      <link>https://spin.atomicobject.com/coffee-walk-boost-creativity/</link>
+      <description>Atomic Object通过实施午后的“咖啡漫步”活动，提升了团队的创造力和协作效率。这种简单的20分钟团队散步，不仅打破了团队间的隔阂，促进了不同团队间的交流，还帮助员工在休息中激发新思路，提高解决问题的能力。这种活动有助于克服午后的疲劳，为员工提供一种有效的休息方式，从而提升工作效率和整体福祉。</description>
+      <pubDate>2024-09-27 12:00:39</pubDate>
+    </item>
+  
+    <item>
       <title>Space travel is dangerous. Could genetic testing and gene editing make it safer?</title>
       <link>https://www.technologyreview.com/2024/09/27/1104534/space-travel-dangerous-genetic-testing-gene-editing-safer/</link>
       <description>太空旅行存在风险，包括辐射、微重力和心理压力。为了保护宇航员，有研究提出通过基因编辑来增强他们的适应性。虽然这一想法目前还处于科幻阶段，但基因测试和基因编辑可能有助于降低太空旅行的风险，并保护宇航员和太空游客的健康。</description>
@@ -20,10 +27,24 @@
     </item>
   
     <item>
+      <title>Error'd: Operation Erred Successfully</title>
+      <link>https://thedailywtf.com/articles/operation-erred-successfully</link>
+      <description>《Operation Erred Successfully》一文讲述了作者Lyle Seaman在处理云服务和浏览器不一致性、测试团队遇到的问题以及开发者在面对错误时的幽默反应。文章中包含多个技术问题和解决方案的讨论，以及一些开发者的个人经历和感悟。</description>
+      <pubDate>2024-09-27 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Deedy Das: from coding at Meta, to search at Google, to investing with Anthropic</title>
       <link>https://stackoverflow.blog/2024/09/27/deedy-das-meta-google-menlo-ventures-ai-anthropic/</link>
       <description>Deedy Das，前Meta和Google的软件工程师，现在作为Menlo Ventures的合伙人，投资于AI和基础设施。他曾在Glean公司工作，并最近开始作为风险投资家，专注于Anthropic基金的投资。</description>
       <pubDate>2024-09-27 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Assess Technical Debt With a Developer Survey</title>
+      <link>https://www.amazingcto.com/assess-the-technical-debt-with-a-developer-survey/</link>
+      <description>技术债务评估：CTO应通过开发者调查来了解技术债务的现状，包括意外和策略性债务。通过问卷调查开发者，了解他们对代码质量的看法和改进建议，以提升开发性能和团队满意度。</description>
+      <pubDate>2024-09-27 00:00:00</pubDate>
     </item>
   
     <item>
@@ -94,6 +115,13 @@
       <link>https://www.bambooweekly.com/bw-85-pacs-and-parties-solution/</link>
       <description>本文探讨了美国政治选举中的资金筹集，特别是政治行动委员会（PACs）和政党如何报告其资金筹集情况。作者使用Pandas库处理FEC提供的数据，并创建了一个Streamlit应用程序来展示这些数据。文章详细介绍了如何从FEC下载数据，如何使用Pandas读取和格式化数据，以及如何使用Streamlit构建一个交互式仪表板来查询和分析这些数据。</description>
       <pubDate>2024-09-26 15:01:20</pubDate>
+    </item>
+  
+    <item>
+      <title>How to responsibly give a chatbot access to a database</title>
+      <link>https://algolia.com/blog/ai/making-a-generative-ai-model-actually-do-stuff/</link>
+      <description>本文探讨了如何负责任地赋予聊天机器人访问数据库的权限。文章指出，由于大型语言模型（LLM）缺乏常识，它们可能被“提示注入”攻击利用。为了解决这个问题，建议采用一种方法，即让AI请求所需信息，并确保用户已通过更准确的方式进行身份验证。文章还提供了一个实际示例，展示了如何使用OpenAI的API和Algolia的搜索功能来实现这一目标。</description>
+      <pubDate>2024-09-26 15:00:43</pubDate>
     </item>
   
     <item>
