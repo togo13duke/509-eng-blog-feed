@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>My parenting strategy: earn enough $ to outsource</title>
+      <link>http://blog.pamelafox.org/2024/09/my-parenting-strategy-earn-enough-to.html</link>
+      <description>为了应对繁忙工作和育儿压力，作者通过提高收入，将家务和育儿工作外包给专业人士，如使用餐食配送服务、定期清洁、聘请保姆和手艺人等。她强调，这种策略并非炫耀，而是为了减轻压力，并鼓励其他父母考虑外包家务，以获得更多自由时间。作者还提出，对于收入较低的家庭，应支持相关政策，如全民基本收入和政府赞助的健康保险，以帮助父母获得喘息之机。</description>
+      <pubDate>2024-09-27 18:39:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bon Voyage: NIO Unveils ONVO L60 Smart Electric SUV, Built on NVIDIA DRIVE Orin</title>
+      <link>https://blogs.nvidia.com/blog/nio-onvo-l60/</link>
+      <description>NIO推出基于NVIDIA DRIVE Orin系统的ONVO L60智能电动SUV，具备安全、舒适和高级辅助驾驶功能，旨在为家庭提供终极冒险体验。该车型采用创新设计，融合先进技术，提供全面安全、宽敞舒适、智能座舱、长续航里程和便捷充电等特性。</description>
+      <pubDate>2024-09-27 18:30:31</pubDate>
+    </item>
+  
+    <item>
+      <title>Meta pays the price for storing hundreds of millions of passwords in plaintext</title>
+      <link>https://arstechnica.com/?p=2053118</link>
+      <description>Meta因存储数亿用户密码的明文而面临巨额罚款，公司未能遵守密码存储的基本安全规则，导致密码被广泛地暴露给员工，存在严重的安全漏洞。</description>
+      <pubDate>2024-09-27 17:53:28</pubDate>
+    </item>
+  
+    <item>
       <title>Man tricks OpenAI’s voice bot into duet of The Beatles’ “Eleanor Rigby”</title>
       <link>https://arstechnica.com/?p=2052995</link>
       <description>一位软件架构师成功诱使OpenAI的语音助手进行《Eleanor Rigby》的二重唱，展示了AI在音乐领域的潜力。</description>
@@ -153,6 +174,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <title>Save Variables in SQL</title>
       <link>https://jaketrent.com/post/save-variables-sql</link>
       <description>SQL中保存变量以供后续查询使用，使用WITH语句创建变量，通过选择和投影绑定二维结果。示例脚本展示了如何创建权限行、用户行和映射表行，并使用WITH语句保存变量，简化了插入操作。</description>
+      <pubDate>2024-09-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>September Staff Picks: Mid-Travel Pitstop</title>
+      <link>https://discord.com/blog/september-staff-picks-mid-travel-pitstop</link>
+      <description>Discord员工分享了他们在旅行期间玩的游戏，包括《Astro Bot》、《Into the Breach》、《The Legend of Zelda: Breath of the Wild》、《Dead Cells》、《Balatro》、《Inscryption》、《Stardew Valley》、《Pokemon Violet/Scarlet》、《Satisfactory 1.0》、《Among Us》、《HELLDIVERS 2》、《Call of Duty: Warzone》、《Yakuza 0》、《The Witcher 3: Wild Hunt》、《Animal Crossing: New Horizons》、《New Pokémon Snap》、《Mario Kart 8 Deluxe》等。</description>
       <pubDate>2024-09-27 00:00:00</pubDate>
     </item>
   
