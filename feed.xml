@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Quiz: Syntactic Sugar: Why Python Is Sweet and Pythonic</title>
+      <link>https://realpython.com/quizzes/syntactic-sugar-python/</link>
+      <description>Python的语法糖为何如此甜美且Pythonic，通过这个互动测验检验你对Python常见语法糖的理解，提升代码的可读性和Pythonic风格。测验包含10题，无需计时，每答对一题得1分，最终获得总分。</description>
+      <pubDate>2024-09-28 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python 3.13: Cool New Features for You to Try</title>
+      <link>https://realpython.com/quizzes/python313-new-features/</link>
+      <description>Python 3.13版本带来了多项新特性，本互动测验包含9个问题，旨在检验你对这些新特性的理解。通过完成测验，你可以回顾Python 3.13版本的关键更新和改进。</description>
+      <pubDate>2024-09-28 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Google and Meta update their AI models amid the rise of “AlphaChip”</title>
       <link>https://arstechnica.com/?p=2052711</link>
       <description>Google和Meta在“AlphaChip”兴起之际更新了其AI模型，包括Google的Gemini更新和Meta的Llama 3.2，以及Google DeepMind推出的AI芯片设计工具AlphaChip，这些进展标志着AI技术的快速发展。</description>
@@ -41,6 +55,13 @@
     </item>
   
     <item>
+      <title>PHP 8.4 Release Candidate 1 is here</title>
+      <link>https://laravel-news.com/php-8-4-release-candidate-1</link>
+      <description>PHP 8.4的第一个发布候选版已发布，预计11月21日全面上市。新版本包含多项新特性，如新的数组查找方法、属性钩子等。开发者应熟悉新特性、升级路径和关键日期，为升级做好准备。更多详情和资源可在Laravel News官网查看。</description>
+      <pubDate>2024-09-27 17:20:12</pubDate>
+    </item>
+  
+    <item>
       <title>Man tricks OpenAI’s voice bot into duet of The Beatles’ “Eleanor Rigby”</title>
       <link>https://arstechnica.com/?p=2052995</link>
       <description>一位软件架构师成功诱使OpenAI的语音助手进行《Eleanor Rigby》的二重唱，展示了AI在音乐领域的潜力。</description>
@@ -52,6 +73,13 @@
       <link>https://arstechnica.com/?p=2052960</link>
       <description>Microsoft对Windows的Recall功能进行了安全/隐私改革，原版因安全问题被取消。新版本为可选功能，提供更高级的加密和数据保护措施，包括使用TPM加密密钥和VBS隔离技术。</description>
       <pubDate>2024-09-27 17:00:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Meta Connect 2024 Developer Recap</title>
+      <link>https://developers.facebook.com/blog/post/2024/09/27/meta-connect-developer-recap/</link>
+      <description>Meta Connect 2024大会发布了多项重要更新，包括Llama 3.2语言模型、Meta Quest 3S混合现实设备、支持2D应用的Meta Horizon Store以及一系列混合现实开发工具和改进。这些更新旨在推动人工智能、混合现实和可穿戴设备的发展，为开发者提供更多创新和高效的技术支持。</description>
+      <pubDate>2024-09-27 16:15:00</pubDate>
     </item>
   
     <item>
@@ -122,6 +150,62 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Our container platform is in production. It has GPUs. Here’s an early look</title>
+      <link>https://blog.cloudflare.com/container-platform-preview</link>
+      <description>Cloudflare推出了一款基于GPU的容器平台，用于在Cloudflare网络上运行容器。该平台支持多种计算能力，如 Workers AI、Workers Builds 等，旨在简化开发者的工作，让他们专注于构建和部署，而不是管理基础设施。Cloudflare通过全球调度器优化了资源分配，允许容器在任何位置运行，同时提供高效、可扩展和可靠的服务。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Advancing cybersecurity: Cloudflare implements a new bug bounty VIP program as part of CISA Pledge commitment</title>
+      <link>https://blog.cloudflare.com/cisa-pledge-commitment-bug-bounty-vip</link>
+      <description>Cloudflare推出新的漏洞赏金VIP计划，作为对CISA承诺的一部分，旨在加强网络安全。该计划允许精选的安全研究人员访问产品测试环境，并获得更高的赏金。这一举措旨在提高安全标准，加速产品开发，并促进创新。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Empowering builders: introducing the Dev Alliance and Workers Launchpad Cohort #4</title>
+      <link>https://blog.cloudflare.com/launchpad-cohort4-dev-starter-pack</link>
+      <description>Cloudflare推出Dev Starter Pack，为开发者提供免费或折扣的开发工具，以加速软件构建和业务增长。同时，Cloudflare宣布Workers Launchpad Cohort #4的参与者，支持创新项目，推动技术发展。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Network trends and natural language: Cloudflare Radar’s new Data Explorer &amp; AI Assistant</title>
+      <link>https://blog.cloudflare.com/radar-data-explorer-ai-assistant</link>
+      <description>Cloudflare推出新的数据探索器和AI助手，简化了用户对Cloudflare Radar数据的访问和分析。AI助手能够将自然语言问题转化为API调用，并可视化结果。数据探索器则提供直观的界面，让用户轻松构建复杂的查询和比较。这些工具旨在帮助用户更深入地了解全球互联网趋势和网络安全。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI Everywhere with the WAF Rule Builder Assistant, Cloudflare Radar AI Insights, and updated AI bot protection</title>
+      <link>https://blog.cloudflare.com/bringing-ai-to-cloudflare</link>
+      <description>Cloudflare通过WAF规则构建助手、Cloudflare雷达AI洞察和更新的AI机器人保护功能，增强了其AI能力。这些新功能简化了规则创建，提供了AI机器人流量洞察，并增强了AI机器人阻止能力，以保护网站免受恶意机器人攻击。此外，Cloudflare还通过机器学习和启发式方法提高了对AI机器人的检测能力，以更好地保护用户内容和知识产权。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Reaffirming our commitment to free</title>
+      <link>https://blog.cloudflare.com/cloudflares-commitment-to-free</link>
+      <description>Cloudflare自2010年推出免费服务以来，通过优化网络成本和与ISP合作，成功维持了免费服务。免费服务不仅帮助公司降低成本，还提供了独特的威胁情报，促进了产品质量和用户体验的提升。Cloudflare近期推出了多项更新，进一步增强了免费服务的功能，以支持更多用户和业务需求。</description>
+      <pubDate>2024-09-27 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Selection of Creative Menu Patterns &amp; Animations</title>
+      <link>https://tympanus.net/codrops/2024/09/27/a-selection-of-creative-menu-patterns-animations/</link>
+      <description>精选创意菜单模式和动画，提供多样化设计风格，为您的下一个项目带来灵感。</description>
+      <pubDate>2024-09-27 12:57:16</pubDate>
+    </item>
+  
+    <item>
+      <title>PHP and LLMs with Alfred Nutile</title>
+      <link>https://laravel-news.com/php-and-llms-with-alfred-nutile</link>
+      <description>Alfred Nutile深入探讨了Laravel与大型语言模型（LLMs）在开发中的交汇点，分享了LLMs如何塑造编程和内容创作的未来。他讨论了如何利用LLMs进行当前工作，对开发者释放的潜力以及这对Laravel生态系统演变的含义。</description>
+      <pubDate>2024-09-27 12:40:12</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: safer space travel, and generative AI in video games</title>
       <link>https://www.technologyreview.com/2024/09/27/1104574/the-download-safer-space-travel-and-generative-ai-in-video-games/</link>
       <description>探索太空旅行中的生物伦理问题，包括基因编辑以保护宇航员健康，以及生成式AI在视频游戏中的应用，为玩家带来更沉浸式的体验。</description>
@@ -147,6 +231,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/</link>
       <description>Julia Evans分享了她在Go语言开发网站过程中的经验和学习心得，包括Go 1.22的改进路由支持、使用sqlc自动生成数据库查询代码、sqlite数据库优化技巧、Go 1.19的GC内存限制设置，以及为什么她喜欢用Go语言制作网站。</description>
       <pubDate>2024-09-27 11:16:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #867</title>
+      <link>https://tympanus.net/codrops/collective/collective-867/</link>
+      <description>Codrops推出新板块Webzibition，展示优秀网站设计，并征集投稿。同时，介绍Astro 5.0 Beta、CSS自定义属性动画、React Query Infinite Queries问题、高延迟环境优化、自托管软件指南等。此外，讨论CSS masonry布局、TypeScript类型、按钮组件构建、JavaScript商标开放等话题。</description>
+      <pubDate>2024-09-27 11:00:00</pubDate>
     </item>
   
     <item>
@@ -227,10 +318,31 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Builder Day 2024: 18 big updates to the Workers platform</title>
+      <link>https://blog.cloudflare.com/builder-day-2024-announcements</link>
+      <description>Cloudflare在Builder Day 2024上发布了18项针对Workers平台的重大更新，包括持久化日志、私有数据库连接、Node.js兼容性提升、静态资产托管、Next.js应用部署、持续集成与交付、预览URL生成、渐进式部署和队列功能等，旨在提升开发效率和用户体验。</description>
+      <pubDate>2024-09-26 21:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing new GitHub Actions for App Platform</title>
+      <link>https://www.digitalocean.com/blog/github-actions-for-app-platform</link>
+      <description>DigitalOcean推出全新的GitHub Actions for App Platform，提供改进的部署功能，允许用户通过GitHub Actions管理整个部署过程，无需直接与DigitalOcean交互。新功能包括从GitHub仓库部署应用、集成环境变量、与GitHub Actions生态系统的更紧密集成，以及拉取请求预览功能，使应用部署更加高效和自动化。</description>
+      <pubDate>2024-09-26 20:58:00</pubDate>
+    </item>
+  
+    <item>
       <title>Tails OS joins forces with Tor Project in merger</title>
       <link>https://arstechnica.com/?p=2052906</link>
       <description>Tails OS与Tor项目合并，旨在整合资源，降低成本，并更紧密地合作以实现网络匿名化目标。Tails是一个便携式操作系统，使用Tor网络，而Tor项目维护Tor匿名网络软件。合并将使Tails专注于其核心任务，同时受益于Tor项目的更大组织结构，从而加强双方在全球范围内保护用户免受监控和审查的能力。</description>
       <pubDate>2024-09-26 20:57:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Top knowledge management tools to know</title>
+      <link>https://www.atlassian.com/blog/project-management/knowledge-management-tools</link>
+      <description>知识管理工具对于提升企业效率和创新能力至关重要。本文介绍了知识管理工具的类型、关键功能和市场领先产品，如Confluence、Jira和Trello。选择合适的工具需要考虑业务需求、预算、可扩展性和集成能力。通过实施最佳实践，如确定知识内容、识别专家和促进持续培训，企业可以最大化知识管理工具的效益。</description>
+      <pubDate>2024-09-26 20:34:50</pubDate>
     </item>
   
     <item>
@@ -280,6 +392,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://galois.com/blog/2024/09/advancing-the-state-of-the-art-in-zero-knowledge-proofs-sieve-wrap-up/</link>
       <description>Galois公司完成了DARPA的SIEVE项目，该项目旨在推进零知识证明（ZKPs）技术，使其在国防相关应用中更加实用。通过显著提高ZKPs的性能，Galois实现了从软件漏洞检测到硬件设计验证的多种应用，同时保护隐私和安全。这些技术包括用于检测软件漏洞的Cheesecloth工具，以及用于验证硬件设计的零知识证明方法。此外，Galois还开发了一种保护消费者数据隐私的技术，允许用户在不泄露详细信息的情况下验证其资格。这些进展为ZKPs在多个领域的应用开辟了新的可能性。</description>
       <pubDate>2024-09-26 15:49:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel Config Checker Package</title>
+      <link>https://laravel-news.com/laravel-config-checker-package</link>
+      <description>Laravel Config Checker 包由 Chris Di Carlo 开发，用于扫描代码库以验证配置键是否在配置文件中正确定义，确保代码中引用的所有配置值存在，防止出现缺失或未定义的配置错误。安装后，运行 `php artisan config:check` 可扫描应用并显示任何错误及其位置和缺失引用。</description>
+      <pubDate>2024-09-26 15:11:30</pubDate>
     </item>
   
     <item>
@@ -343,6 +462,34 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://www.timescale.com/blog/building-an-ai-image-gallery-advanced-rag-with-pgvector-and-claude-sonnet-3-5/</link>
       <description>Anthropic的Claude Sonnet 3.5作为新一代大型语言模型，因其智能、速度和成本效益而受到开发者青睐。本文介绍了如何使用Claude Sonnet 3.5和pgvector构建一个AI图像库，通过检索增强生成（RAG）技术，实现图像搜索和问答功能。</description>
       <pubDate>2024-09-26 13:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare’s bigger, better, faster AI platform</title>
+      <link>https://blog.cloudflare.com/workers-ai-bigger-better-faster</link>
+      <description>Cloudflare发布全新AI平台，包括 Workers AI、AI Gateway 和 Vectorize，提供更强大的GPU、更快的模型和更灵活的定价。Workers AI升级，支持更大模型和更快响应；AI Gateway引入更强大的日志和人工评估；Vectorize全面上市，提供更快的查询和更低的成本。这些改进旨在帮助用户充分利用AI的潜力，构建更高效、更智能的应用。</description>
+      <pubDate>2024-09-26 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Making Workers AI faster and more efficient: Performance optimization with KV cache compression and speculative decoding</title>
+      <link>https://blog.cloudflare.com/making-workers-ai-faster</link>
+      <description>Cloudflare通过升级硬件、引入KV缓存压缩和推测性解码技术，优化了Workers AI的性能，使其推理速度更快、更高效。这些改进包括使用新一代GPU支持更大模型和更快推理，以及通过压缩KV缓存和推测性解码来提高吞吐量。这些技术升级旨在降低延迟，提高处理能力，为用户提供更快的交互式聊天和开发支持。</description>
+      <pubDate>2024-09-26 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Zero-latency SQLite storage in every Durable Object</title>
+      <link>https://blog.cloudflare.com/sqlite-in-durable-objects</link>
+      <description>Cloudflare推出了一种名为Durable Objects的新型云存储方法，它将应用代码与存储层深度集成，实现零延迟访问。通过SQLite数据库，Durable Objects支持完整的SQL查询接口，提供快速、可靠的存储解决方案。这种架构优化了传统云存储的延迟问题，并简化了代码结构，适用于实时协作和分布式系统。</description>
+      <pubDate>2024-09-26 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>We made Workers KV up to 3x faster — here’s the data</title>
+      <link>https://blog.cloudflare.com/faster-workers-kv</link>
+      <description>Cloudflare宣布将Workers KV的速度提升至原来的3倍，通过优化架构和引入分层缓存，减少了请求到存储后端的次数，降低了延迟。这些改进使得KV读取操作更快，对Cloudflare Pages、Queues和Access等服务的性能提升尤为明显。</description>
+      <pubDate>2024-09-26 13:00:00</pubDate>
     </item>
   
     <item>
@@ -423,6 +570,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>How to Implement Attribute-Based Access Control For APIs</title>
+      <link>https://nordicapis.com/how-to-implement-attribute-based-access-control-for-apis/</link>
+      <description>本文探讨了基于属性的访问控制（ABAC）在API安全中的应用。与基于角色的访问控制（RBAC）相比，ABAC通过创建和利用属性来提供更细粒度的访问控制，从而增强安全性。文章解释了ABAC的工作原理，包括如何使用属性来控制访问，并讨论了在API设计中实现ABAC的考虑因素，如设计属性、授权流程和基于令牌的架构。总结来说，ABAC为API提供了更灵活和强大的安全解决方案。</description>
+      <pubDate>2024-09-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: True Parseimony</title>
       <link>https://thedailywtf.com/articles/true-parseimony</link>
       <description>Remy Porter在《Daily WTF》的博客中讨论了布尔表达式的误解，通过一个C#示例展示了不必要的字符串解析，指出这种做法降低了代码的可读性。</description>
@@ -486,6 +640,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Fearless Concurrency Ep.2: Managing Threaded Programs and Data Races in Rust</title>
+      <link>https://www.ardanlabs.com/blog/2024/09/fearless-concurrency-ep2-managing-threaded-programs-and-data-races-in-rust.html</link>
+      <description>Rust并发编程系列第二集深入探讨了线程管理和数据竞争。通过Rust的std::thread创建和管理线程，利用所有权和借用检查防止数据竞争，并使用join handles高效地处理线程结果。本集视频详细介绍了Rust的线程系统，以及构建安全高效并发程序所需的策略。</description>
+      <pubDate>2024-09-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Want AI that flags hateful content? Build it.</title>
       <link>https://www.technologyreview.com/2024/09/25/1104519/ai-models-hate-imagery-humane-intelligence-bounty-competition/</link>
       <description>Humane Intelligence发起了竞赛，鼓励开发者创建能追踪和消除网络仇恨图像的计算机视觉模型。该竞赛旨在解决生成式AI被用于制造仇恨内容的问题，并承诺为获胜者提供10,000美元的奖金。竞赛要求提交两种模型，旨在识别和欺骗仇恨图像，以促进机器学习研究人员在减少极端主义方面的研究。</description>
@@ -497,6 +658,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://arstechnica.com/?p=2052508</link>
       <description>NIST提议废除一些荒谬的密码规则，旨在为密码安全注入必要的常识。新指南建议取消强制密码重置、限制字符使用和安全性问题的要求，强调使用足够长和随机的密码，以增强安全性。</description>
       <pubDate>2024-09-25 22:39:38</pubDate>
+    </item>
+  
+    <item>
+      <title>Supercharging Discovery in Search with LLMs</title>
+      <link>https://tech.instacart.com/supercharging-discovery-in-search-with-llms-556c585d4720?source=rss----587883b5d2ee---4</link>
+      <description>Instacart通过将大型语言模型（LLM）集成到搜索系统中，显著提升了搜索结果的质量和用户体验。这种方法结合了LLM的广泛世界知识和Instacart的用户及商品数据，增强了内容生成能力，使搜索结果不仅相关，而且引人入胜，从而提高了用户参与度和收入。</description>
+      <pubDate>2024-09-25 22:07:17</pubDate>
     </item>
   
     <item>
@@ -556,6 +724,20 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Eliminating Memory Safety Vulnerabilities at the Source</title>
+      <link>http://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html</link>
+      <description>Google通过转向内存安全语言，成功降低了Android系统中的内存安全漏洞。这种方法不仅减少了安全风险，还提高了开发效率。通过分析漏洞生命周期，Google发现新代码中的漏洞密度较高，因此优先在新代码中采用内存安全语言，从而实现了安全性的指数级提升。</description>
+      <pubDate>2024-09-25 16:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>When I told 4,091 writers they weren’t getting paid</title>
+      <link>https://medium.engineering/when-i-told-4-091-writers-they-werent-getting-paid-b42b8e55ca43?source=rss----2817475205d3---4</link>
+      <description>在2024年9月5日，Medium的合作伙伴计划支付系统出现了一个严重的错误，导致4,091位作家未能收到报酬。问题源于数据库配置错误，导致支付系统在读取数据时遇到了尚未复制的写入操作，从而引发了100%的用户都未能达到最低提款门槛。通过调整支付流程，Medium解决了这个问题，并确保所有作家都得到了应有的报酬。</description>
+      <pubDate>2024-09-25 16:46:59</pubDate>
+    </item>
+  
+    <item>
       <title>AllTrails gains over 1 million downloads after implementing its Wear OS app</title>
       <link>http://android-developers.googleblog.com/2024/09/alltrails-gains-over-1-million-downloads-wear-os-app.html</link>
       <description>AllTrails推出Wear OS应用后，下载量超过一百万次。该应用利用Wear OS提供核心功能，如暂停、继续和完成徒步旅行，以及圆形进度环显示当前路线的进度。通过Jetpack Compose简化开发，并集成Health Connect API，用户可以同步和共享健康和健身数据。这一创新提升了用户体验，并获得了用户的高度认可。</description>
@@ -588,6 +770,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://auth0.com/blog/devday2024-product-announcements/</link>
       <description>DevDay 2024上，Auth0发布了多项新功能，包括改进定价和计划、增强登录体验和可扩展性、推出新的API和Okta FGA功能、引入高度监管身份（HRI）和Auth0 Teams等。这些更新旨在提升应用安全性、简化身份验证流程，并支持更多合规性要求。</description>
       <pubDate>2024-09-25 14:38:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel 11.24 Released</title>
+      <link>https://laravel-news.com/laravel-11-24-0</link>
+      <description>Laravel 11.24版本发布，新增了进程模拟的简写、外键定义的nullOnUpdate()方法、支持重试多个批次ID以重试作业等功能。同时修复了自动发现控制台命令的问题，并添加了prependLocation()方法到View工厂、nullOnUpdate()方法到ForeignKeyDefinition、支持BackedEnum在Route::can()中使用等新特性。</description>
+      <pubDate>2024-09-25 14:25:34</pubDate>
     </item>
   
     <item>
@@ -640,6 +829,34 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Introducing Speed Brain: helping web pages load 45% faster</title>
+      <link>https://blog.cloudflare.com/introducing-speed-brain</link>
+      <description>Cloudflare推出Speed Brain，通过预测用户行为和设备能力，实现更动态和个性化的网页加载优化。Speed Brain利用Speculation Rules API，在用户点击链接前预取内容，减少加载延迟，提高页面加载速度。该功能已对所有免费域名默认启用，并可通过仪表板或API为付费域名启用。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>New standards for a faster and more private Internet</title>
+      <link>https://blog.cloudflare.com/new-standards</link>
+      <description>Cloudflare推出新的压缩算法Zstandard，比Brotli快42%，比GZIP快11.3%，同时保持相似的速度。Zstandard优化了网络性能，减少了文件大小，加快了网站加载速度，提升了用户体验。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>TURN and anycast: making peer connections work globally</title>
+      <link>https://blog.cloudflare.com/webrtc-turn-using-anycast</link>
+      <description>Cloudflare的TURN服务通过其全球Anycast网络提供快速、低延迟的实时通信解决方案，解决NAT穿越问题，增强用户隐私，并实现自动扩展。该服务利用Cloudflare的全球数据中心，确保全球用户都能获得高质量的网络连接。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare’s 12th Generation servers — 145% more performant and 63% more efficient</title>
+      <link>https://blog.cloudflare.com/gen-12-servers</link>
+      <description>Cloudflare推出了新一代服务器Gen 12，采用AMD EPYC 9684X处理器，性能提升145%，效率提高63%。该服务器支持更强大的GPU，增强AI/ML工作负载，并集成硬件根信任功能，提高安全性。此外，采用E1.S存储和双端口25 GbE网络适配器，确保高效和可靠的服务器部署。</description>
+      <pubDate>2024-09-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: how to connect the US’s grids, and OpenAI’s new voice mode</title>
       <link>https://www.technologyreview.com/2024/09/25/1104462/the-download-how-to-connect-the-uss-grids-and-openais-new-voice-mode/</link>
       <description>MIT Technology Review最新报道了美国电网连接和OpenAI新语音模式的发展。能源企业家Michael Skelly致力于开发长距离输电线路，以促进从燃煤和天然气发电厂向可再生能源的转变。OpenAI发布了ChatGPT的先进语音模式，允许用户更自然地与AI模型交流。此外，还介绍了Cinelytic公司利用生成式AI提供剧本反馈，以及中国资金支持的美国风险投资基金受到审查等科技新闻。</description>
@@ -661,6 +878,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Habit Hustle: The Creative Process Behind a UI Animation</title>
+      <link>https://tympanus.net/codrops/2024/09/25/habit-hustle-the-creative-process-behind-a-ui-animation/</link>
+      <description>本文深入探讨了UI动画的创作过程，作者Michael Crawford分享了使用Blender、Figma和AfterEffects等工具制作动画的详细步骤，包括概念设计、探索、动画制作和渲染。他强调了在动画中实现细节和流畅性的重要性，并提供了实用的技巧和经验。</description>
+      <pubDate>2024-09-25 10:30:58</pubDate>
+    </item>
+  
+    <item>
       <title>Social Media Flow: Seven Steps for a Seamless Content Strategy</title>
       <link>https://s14415.pcdn.co/blog/social-media-flow/</link>
       <description>社交媒体内容策略：通过七个步骤实现无缝流程
@@ -674,6 +898,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://www.technologyreview.com/2024/09/25/1104413/why-one-developer-wont-quit-fighting-to-connect-the-uss-grids/</link>
       <description>美国能源企业家Michael Skelly致力于连接美国电网，尽管他的前公司Clean Line Energy Partners在2019年关闭，但他依然坚持这一愿景。他最新的公司Grid United正在推进的North Plains Connector项目，旨在连接美国最大的两个电网，以促进可再生能源的使用，并提高电网的稳定性和可靠性。该项目得到了美国能源部的数亿美元资助，有望缓解美国电网连接的瓶颈问题。</description>
       <pubDate>2024-09-25 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Thoughts on working inside a data center suite</title>
+      <link>https://rachelbythebay.com/w/2024/09/25/suite/</link>
+      <description>在数据中心工作需要注意的事项包括：佩戴耳塞、携带梯子、穿着合适的衣物以应对温度变化，以及仔细测量和选择合适的机架和服务器。此外，要注意电源分配单元（PDU）的布局，以确保设备安装空间充足。</description>
+      <pubDate>2024-09-25 08:44:34</pubDate>
     </item>
   
     <item>
@@ -717,6 +948,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <title>Magical Bulk Listing Tool is eBay’s Latest AI-Powered Time Saver for Sellers</title>
       <link>https://innovation.ebayinc.com/tech/features/magical-bulk-listing-tool-is-ebays-latest-ai-powered-time-saver-for-sellers/</link>
       <description>eBay推出了一款名为“神奇批量列表工具”的人工智能功能，旨在帮助卖家节省时间和精力。该工具可快速生成产品列表，包括分类、标题和详细信息，并支持批量处理图片。目前已在体育交易卡类别中推出，未来将扩展到更多类别和国家。此工具显著缩短了创建列表所需的时间，提高了效率。</description>
+      <pubDate>2024-09-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How API Description Languages Can Empower AI</title>
+      <link>https://nordicapis.com/how-api-description-languages-can-empower-ai/</link>
+      <description>API描述语言通过提高API组件的可互换性、促进自动化代码生成、增强自然语言处理和决策制定能力，为AI赋能。这些语言使API设计更一致，提升用户体验和开发者体验，推动API行业和AI的紧密融合。</description>
       <pubDate>2024-09-25 07:00:00</pubDate>
     </item>
   
@@ -770,9 +1008,30 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Neurodivergence and accountability in free software</title>
+      <link>https://drewdevault.com/2024/09/25/2024-09-25-Neurodivergence-and-accountability-in-free-software.html</link>
+      <description>文章讨论了神经多样性在自由软件社区中的责任和问责制。作者反驳了将理查德·斯托尔曼的行为归因于神经多样性的观点，认为这种做法是残疾主义，并可能伤害到神经多样性的人。文章强调了神经多样性并不意味着缺乏责任感，并呼吁社区对不当行为进行问责，同时提供支持和理解。</description>
+      <pubDate>2024-09-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Image icons and patterns for customized maps</title>
+      <link>https://www.maptiler.com/news/2024/09/image-icons-and-patterns-for-customized-maps</link>
+      <description>MapTiler推出新功能，允许用户上传PNG图像作为地图图标，并添加无缝图案填充，以增强地图的艺术效果和表达力。新功能包括自定义图标、图案填充和交互式弹出窗口，支持多种风格和颜色，适用于各种地图设计需求。</description>
+      <pubDate>2024-09-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Automating Vultr Cloud Infrastructure with Terraform</title>
       <link>https://www.sitepoint.com/automating-vultr-cloud-infrastructure-with-terraform/?utm_source=rss</link>
       <description>本文介绍了如何使用Terraform自动化Vultr云基础设施的配置。通过Terraform，用户可以定义、部署和管理云资源，如服务器、数据库、网络和存储。文章详细说明了如何设置Terraform环境，创建Vultr云实例和Kubernetes集群，并展示了如何通过Terraform配置文件一次性部署多个资源。</description>
+      <pubDate>2024-09-24 23:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Instant Purge: invalidating cached content in under 150ms</title>
+      <link>https://blog.cloudflare.com/instant-purge</link>
+      <description>Cloudflare推出业界最快的缓存清除功能，平均全球清除延迟低于150毫秒，比2022年5月提高了90%。此外，Cloudflare还向所有计划类型开放更多清除选项，包括免费、专业和企业计划，预计2025年初开始提供更多清除功能。</description>
       <pubDate>2024-09-24 23:00:00</pubDate>
     </item>
   
@@ -795,6 +1054,34 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://www.technologyreview.com/2024/09/24/1104422/openai-released-its-advanced-voice-mode-to-more-people-heres-how-to-get-it/</link>
       <description>OpenAI发布了先进的语音模式，允许用户更自然地与AI模型交流，可中断其回答并感知用户的情绪。该模式已向付费用户开放，包括Plus和Team用户，并计划逐步向所有用户推出。新版本还增加了新的声音选项，并进行了安全测试以确保其安全性。</description>
       <pubDate>2024-09-24 19:08:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Gusto Eng Spotlight Series: Maham Boghani</title>
+      <link>https://engineering.gusto.com/gusto-eng-spotlight-series-maham-boghani-1d88dc427c2d?source=rss----645edd256348---4</link>
+      <description>Gusto工程师Maham Boghani分享了她加入Gusto的历程，以及她在公司中作为工程师的成就和成长。她强调了Gusto支持非传统背景的工程师，以及公司文化对个人职业发展的重要性。Boghani还讨论了她在工程领域的挑战，以及她如何通过在线课程和同事的支持来克服这些挑战。她强调了好奇心和持续学习的重要性，并分享了她在ALPFA等组织中的参与经历。</description>
+      <pubDate>2024-09-24 17:18:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Sandcastle: data/AI apps for everyone</title>
+      <link>https://medium.com/airbnb-engineering/sandcastle-data-ai-apps-for-everyone-439f3b78b223?source=rss----53c7c27702d5---4</link>
+      <description>Airbnb推出内部原型平台Sandcastle，帮助数据科学家、工程师和产品经理将数据/人工智能想法转化为内部网络应用。Sandcastle简化了从代码到可共享应用的流程，通过Onebrain、kube-gen和OneTouch等工具，实现快速迭代和共享。该平台促进了数据科学和产品管理团队的创新，提高了内部协作效率。</description>
+      <pubDate>2024-09-24 17:01:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Repliance and Latacora: A Winning Combo for VSQs</title>
+      <link>https://www.latacora.com/blog/2024/09/24/repliance-latacora-vsqs/</link>
+      <description>Repliance与Latacora的强强联合为VSQs提供全面解决方案，简化流程，提高效率。Repliance不仅提供技术平台，还提供全方位服务，Latacora的加入更增强了其洞察力，确保更全面的VSQ响应。通过定制化答案、确保质量和准确性以及挖掘隐藏洞察，Repliance帮助客户专注于核心业务。</description>
+      <pubDate>2024-09-24 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>MySql Explain with Tobias Petry</title>
+      <link>https://laravel-news.com/mysql-explain-with-tobias-petry</link>
+      <description>本周，Laravel Creator Series节目邀请了Tobias Petry讨论他进入数据库优化的旅程，MySQL Explain工具的开发以及mysqlexplain.com域的收购。他还分享了关于Stack Bricks和其他项目的见解，这是一个管理不同数据库版本的工具，以及他对Laravel Debug Bar的贡献。</description>
+      <pubDate>2024-09-24 16:42:09</pubDate>
     </item>
   
     <item>
@@ -826,6 +1113,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Google &amp; Arm - Raising The Bar on GPU Security</title>
+      <link>http://security.googleblog.com/2024/09/google-arm-raising-bar-on-gpu-security.html</link>
+      <description>谷歌与Arm合作，加强GPU安全。通过结合谷歌工程师和IP所有者以及OEM的专长，确保Android生态系统保持强大的完整性。研究GPU漏洞，评估GPU实现的安全性，并实施改进措施，以增强Android设备的GPU软件/固件堆栈的安全性。</description>
+      <pubDate>2024-09-24 16:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Handing the Producer Request: Kafka Producer and Consumer Internals, Part 2</title>
       <link>https://www.confluent.io/blog/kafka-producer-internals-handling-producer-request/</link>
       <description>Apache Kafka生产者请求的生命周期：本文深入探讨了Kafka生产者与消费者内部机制，包括请求处理、数据存储、网络线程、请求队列、I/O线程、页面缓存和磁盘操作等环节。通过了解这些细节，可以更好地监控和优化Kafka的性能。</description>
@@ -840,10 +1134,24 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Testing a React App in Chrome with Heroku CI</title>
+      <link>https://blog.heroku.com/testing-react-app-chrome-heroku-ci</link>
+      <description>使用Heroku CI在Chrome中测试React应用程序，通过自动化端到端测试确保最终用户体验符合预期行为。本文介绍了如何使用Heroku Buildpack在Heroku CI中运行端到端测试，包括设置测试环境、编写测试代码以及将测试集成到CI流程中。</description>
+      <pubDate>2024-09-24 15:11:44</pubDate>
+    </item>
+  
+    <item>
       <title>Demystifying Fine-Tuning: A Beginner’s Guide</title>
       <link>https://developer.salesforce.com/blogs/2024/09/demystifying-fine-tuning-a-beginners-guide.html</link>
       <description>本文介绍了大型语言模型（LLM）的微调过程，包括其定义、优势、不同微调方法（如监督微调、参数高效微调、基于人类反馈的强化学习）以及常见应用场景。微调允许模型在特定任务或领域上实现专业化，提高性能，同时节省计算资源。然而，微调也面临一些挑战，如数据限制和频繁的任务变化。在开始微调之前，了解使用案例和投资回报至关重要。</description>
       <pubDate>2024-09-24 15:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>A Deep Dive into Sessions in Laravel</title>
+      <link>https://laravel-news.com/laravel-sessions</link>
+      <description>深入探讨Laravel中的会话管理：本文介绍了Laravel中会话的基本概念、工作原理以及如何在应用中操作会话。文章详细解释了会话的用途、存储方式、Laravel框架提供的会话驱动程序，并提供了会话操作的方法，包括读取、写入、推送、增减和删除会话数据。此外，还讨论了避免常见错误，如会话键错误和数据类型不明确的方法。</description>
+      <pubDate>2024-09-24 14:33:41</pubDate>
     </item>
   
     <item>
@@ -858,6 +1166,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://devblogs.microsoft.com/oldnewthing/20240924-00/?p=110308</link>
       <description>The UserConsentVerifier in Windows confirms the user's presence but doesn't protect data. It's used to confirm identity, like before revealing cached passwords, but the actual protection of data is up to the developer. The prompt doesn't grant access but confirms consent for an action, like revealing a password.</description>
       <pubDate>2024-09-24 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using GenAI to build a capability map and translate legacy               systems</title>
+      <link>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</link>
+      <description>Thoughtworks的技术团队正在探索使用生成式人工智能（GenAI）来简化遗留系统的现代化过程。他们开发了一个名为CodeConcise的工具，结合大型语言模型和知识图谱，以更有效地理解现有代码，并逐步构建系统的高级解释。这种方法旨在减少现代化风险，并允许在过程中逐步释放新软件，以实现早期价值并获取频繁反馈。</description>
+      <pubDate>2024-09-24 13:51:00</pubDate>
     </item>
   
     <item>
@@ -878,6 +1193,34 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <title>Preventing infrastructure abuse with Vercel Firewall</title>
       <link>https://vercel.com/blog/preventing-infrastructure-abuse-with-vercel-firewall</link>
       <description>Vercel Firewall通过自动缓解DDoS攻击，每天阻止数千个威胁，保护网站安全。它提供全面的多层安全解决方案，包括自动防御和可定制的Web应用防火墙，实时检测和缓解恶意流量，确保服务连续性。Vercel致力于通过默认安全策略，最小化停机时间并提前阻止威胁，让客户专注于增长和创新。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare partners with Internet Service Providers and network equipment providers to deliver a safer browsing experience to millions of homes</title>
+      <link>https://blog.cloudflare.com/safer-resolver</link>
+      <description>Cloudflare与互联网服务提供商和网络设备制造商合作，提供更安全的浏览体验。公司推出的1.1.1.1 DNS服务旨在保护用户隐私和安全，包括针对家庭的版本，可过滤成人内容和恶意软件。Cloudflare还提供多种安全解决方案，包括隐私、安全和家庭DNS解析器，以及高级网关产品，以帮助用户更好地控制网络使用。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Automatically generating Cloudflare’s Terraform provider</title>
+      <link>https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider</link>
+      <description>Cloudflare宣布自动生成Terraform提供程序和API参考文档，使新功能添加后立即可见并可用。此举简化了基础设施管理，提高了API交互体验。通过使用OpenAPI模式，Cloudflare确保了提供程序的更新和准确性，同时迁移到Terraform插件框架以解决遗留问题，提高了开发体验。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A safer Internet with Cloudflare: free threat intelligence, analytics, and new threat detections</title>
+      <link>https://blog.cloudflare.com/a-safer-internet-with-cloudflare</link>
+      <description>Cloudflare推出免费威胁情报、分析和超过10个新安全功能，旨在使互联网更安全。这些功能包括账户接管攻击、供应链攻击、API端点攻击、网络可见性和数据泄露防护。Cloudflare One平台新增了多种安全产品，如数据丢失预防、数字体验监控和魔法网络监控，以保护用户和网络的连接。此外，Cloudflare还引入了Google身份验证选项，以增强账户安全性。</description>
+      <pubDate>2024-09-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare helps verify the security of end-to-end encrypted messages by auditing key transparency for WhatsApp</title>
+      <link>https://blog.cloudflare.com/key-transparency</link>
+      <description>Cloudflare通过审计WhatsApp的密钥透明度来验证端到端加密消息的安全性。这项服务基于对公钥基础设施的审计，类似于证书透明度和二进制透明度，旨在确保公钥的正确分发和用户隐私保护。Cloudflare的Auditor负责验证公钥目录的完整性和唯一性，确保用户消息的安全。</description>
       <pubDate>2024-09-24 13:00:00</pubDate>
     </item>
   
@@ -910,6 +1253,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>Optics: A Real-time Data Analytics Solution</title>
+      <link>https://medium.com/expedia-group-tech/optics-a-real-time-data-analytics-solution-fa3a414219aa?source=rss----38998a53046f---4</link>
+      <description>Expedia集团技术团队开发了一款名为Optics的实时数据分析解决方案，旨在为用户提供快速（15秒内）的数据访问。该解决方案通过优化数据处理和查询速度，提高了团队性能和业务决策效率，同时降低了云基础设施成本。</description>
+      <pubDate>2024-09-24 12:01:49</pubDate>
+    </item>
+  
+    <item>
       <title>4 Tips for Software Testing with Playwright</title>
       <link>https://spin.atomicobject.com/tips-testing-playwright/</link>
       <description>Playwright测试框架在TypeScript/Svelte项目中使用时，可能会遇到测试失败的问题。本文提供了四个解决建议：启用测试重试、从.deprecate的.type方法迁移到.fill、使用.waitForTimeout以及组织测试分组。这些建议有助于提高测试的稳定性和效率。</description>
@@ -917,10 +1267,31 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>How to avoid “emotional overhead” at work (hint: emojis are 👍 )</title>
+      <link>https://www.atlassian.com/blog/communication/how-to-avoid-emotional-overhead-at-work</link>
+      <description>如何避免工作中的“情绪开销”（提示：表情符号是👍）研究表明，员工每年因混乱的电子邮件和聊天浪费高达40小时。本文建议通过使用表情符号、清晰表达和选择合适的沟通工具来提高沟通效率，减少误解和压力，从而提高工作效率和团队凝聚力。</description>
+      <pubDate>2024-09-24 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Coming soon: Our 2024 list of 15 Climate Tech Companies to Watch</title>
       <link>https://www.technologyreview.com/2024/09/24/1104265/coming-soon-2024-15-climate-tech-companies-watch/</link>
       <description>MIT Technology Review即将发布2024年15家气候技术公司的名单，这些公司致力于减少农业、采矿、交通等领域的气候污染。该名单将于10月1日发布，旨在表彰那些在减少温室气体排放和应对气候变化方面取得显著进展的企业。</description>
       <pubDate>2024-09-24 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #866</title>
+      <link>https://tympanus.net/codrops/collective/collective-866/</link>
+      <description>本周前端开发精选：探索CSS自定义属性、媒体查询逻辑属性、音频元素发展，以及Figma Sans字体设计背后的故事。还有GitHub成功秘诀、UI交互展示、设计模式演变等精彩内容。</description>
+      <pubDate>2024-09-24 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Increase truncated body in a Guzzle exception</title>
+      <link>https://akrabat.com/increase-truncated-body-in-a-guzzle-exception/</link>
+      <description>Guzzle异常中增加截断体长度：Rob Allen介绍了如何通过修改Guzzle客户端的httpErrors中间件中的BodySummarizer来增加异常消息中截断体的长度，从而在BadResponseException中显示更多文本信息。</description>
+      <pubDate>2024-09-24 10:00:00</pubDate>
     </item>
   
     <item>
@@ -938,10 +1309,24 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>You should push for BDD! Here is our journey</title>
+      <link>https://tech.olx.com/you-should-push-for-bdd-here-is-our-journey-e6558be28f4a?source=rss----761b019b483f---4</link>
+      <description>BDD（行为驱动开发）是一种强调行为定义的软件开发方法，它通过明确的行为描述来促进开发者、测试人员和业务利益相关者之间的协作和理解。BDD不仅提高了软件质量，还增强了团队间的沟通和协作。通过将测试与需求阶段相结合，BDD有助于早期发现并解决潜在问题，从而减少后期成本。尽管BDD存在学习曲线和前期投入等问题，但其带来的益处，如提高软件质量和维护性，使其成为软件开发的重要工具。</description>
+      <pubDate>2024-09-24 08:02:55</pubDate>
+    </item>
+  
+    <item>
       <title>AI Powered BI for Games</title>
       <link>https://www.databricks.com/blog/ai-powered-bi-games</link>
       <description>Databricks推出AI驱动的BI工具，名为AI/BI Genie，旨在通过聊天界面让用户直接与数据互动，从而提高数据洞察的生成效率。该工具允许用户提出问题，系统会解释问题并呈现结果，甚至将结果转化为可视化图表。文章以《魔兽世界》数据集为例，展示了如何创建Genie空间，并探讨了其在游戏公司中的应用价值。通过Genie空间，游戏设计师可以更深入地了解玩家行为，从而优化游戏体验。</description>
       <pubDate>2024-09-24 07:31:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Interview With Dan Barahona From APISec University</title>
+      <link>https://nordicapis.com/interview-with-dan-barahona-from-apisec-university/</link>
+      <description>APISec大学增长负责人Dan Barahona在Platform Summit 2024上讨论了API安全的重要性。他强调了API攻击的日益增加，并指出组织在API安全方面的忽视导致了这些攻击。Barahona讨论了API安全的关键挑战，包括逻辑漏洞、授权问题和数据泄露，并强调了在开发周期中尽早检测和修复这些问题的必要性。他还强调了“左移”安全测试的重要性，即在应用程序生命周期早期进行测试，以发现并修复漏洞。</description>
+      <pubDate>2024-09-24 07:00:20</pubDate>
     </item>
   
     <item>
@@ -968,6 +1353,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>A Perfview Alternative in WebAssembly</title>
+      <link>https://techblog.criteo.com/a-perfview-alternative-in-webassembly-f6833820b699?source=rss----fc3ea5a64a12---4</link>
+      <description>.NET Events Viewer是一个基于WebAssembly的性能分析工具，用于分析由dotnet-trace生成的nettrace文件。它通过Blazor在浏览器中运行，提供事件列表和堆栈跟踪视图，旨在替代Windows工具PerfView，解决跨平台和用户友好性问题。该工具目前支持小于500MB至1GB的文件，适用于大多数性能分析场景。</description>
+      <pubDate>2024-09-24 06:31:47</pubDate>
+    </item>
+  
+    <item>
       <title>CodeSOD: Secure Cryptography</title>
       <link>https://thedailywtf.com/articles/secure-cryptography</link>
       <description>原文总结：
@@ -980,6 +1372,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/</link>
       <description>GitHub Enterprise Cloud推出数据驻留功能，旨在满足客户对数据控制的需求，并提升用户体验。该功能允许用户将代码和存储库数据存储在首选地理位置，基于Microsoft Azure的安全性和业务连续性，为全球开发者提供AI驱动的开发平台。通过使用GitHub的内部工具和流程，GitHub团队成功实现了这一创新，确保了产品的高性能、可靠性和安全性。</description>
       <pubDate>2024-09-24 05:00:31</pubDate>
+    </item>
+  
+    <item>
+      <title>The September 2024 Laravel Worldwide Meetup is Today</title>
+      <link>https://laravel-news.com/laravel-worldwide-meetup-september-2024</link>
+      <description>2024年9月24日，Laravel全球会议今日举行，UTC时间16:00开始，由Marty Friedel和Max Brokman主讲，讨论Statamic网站构建和团队环境下的软件开发。会议将在YouTube直播，并可通过链接查看全球时间表。</description>
+      <pubDate>2024-09-24 02:25:07</pubDate>
     </item>
   
     <item>
@@ -1048,6 +1447,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
+      <title>More jabbering from me about non-clown hosting</title>
+      <link>https://rachelbythebay.com/w/2024/09/23/colo/</link>
+      <description>本文探讨了不同类型的托管服务，包括托管、专用服务器和托管，并强调了自托管硬件的重要性。作者分享了个人从专用托管转向托管的经验，并讨论了与托管服务提供商合作可能遇到的风险和应对策略。他鼓励读者探索替代方案，以避免依赖大型托管服务提供商。</description>
+      <pubDate>2024-09-23 21:38:12</pubDate>
+    </item>
+  
+    <item>
       <title>Convening With Data Streaming Engineers at Current 2024</title>
       <link>https://www.confluent.io/blog/current-2024-data-streaming-engineers/</link>
       <description>在2024年的Current数据流工程师大会上，专家们讨论了数据流工程师的角色和技能，强调了Apache Kafka在实时系统中的重要性。会议指出，随着微服务和云计算的普及，数据流工程师需要掌握流处理、集成和治理等技能，以应对企业对实时数据分析和AI应用的需求。会议还介绍了流数据平台的发展趋势，如Kafka和Apache Flink，以及如何通过这些技术提高数据分析的质量和效率。</description>
@@ -1101,6 +1507,20 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://www.databricks.com/blog/aws-ec2-g6</link>
       <description>Databricks宣布支持Amazon EC2 G6实例，搭载NVIDIA L4 Tensor Core GPU，提升数据处理、机器学习和AI工作负载的效率与可扩展性。G6实例提供更高的性能和能效，适用于深度学习推理、图像和音频预处理以及深度学习模型训练。用户可通过Databricks文档创建GPU计算环境，并选择G6作为工作类型。</description>
       <pubDate>2024-09-23 17:43:27</pubDate>
+    </item>
+  
+    <item>
+      <title>A terrible way to jump into colocating your own stuff</title>
+      <link>https://rachelbythebay.com/w/2024/09/22/colo/</link>
+      <description>在托管自己的硬件时，以下是一个糟糕的入门方法：寻找一个物理位置托管你的设备，安装Linux并配置静态IP，然后亲自将设备运送到托管地点，连接到网络并验证其互联网连接。这是一个简化的过程，不适用于所有人，但提供了一个基本的路径。</description>
+      <pubDate>2024-09-23 17:20:31</pubDate>
+    </item>
+  
+    <item>
+      <title>New Meta for Developers Experience</title>
+      <link>https://developers.facebook.com/blog/post/2024/09/23/developer-unification/</link>
+      <description>Meta为开发者推出全新体验，包括Meta for Developers中心和新改版的开发者中心，旨在帮助开发者利用Meta的领先技术和丰富资源，在全球范围内成功构建和扩展业务。开发者可通过这些平台学习、构建、获取支持，并探索虚拟现实、增强现实和混合现实等沉浸式体验。</description>
+      <pubDate>2024-09-23 16:30:00</pubDate>
     </item>
   
     <item>
@@ -1213,6 +1633,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <link>https://product.hubspot.com/blog/hubspot-incident-aug27</link>
       <description>2024年8月27日，HubSpot发生了一次服务中断，导致部分客户无法登录、访问内容或使用工具。公司对此表示歉意，并详细解释了事件发生的原因、所学到的教训以及为提高平台弹性所采取的措施。HubSpot正在改进系统，以防止未来发生类似事件，并承诺将继续努力提高平台的可靠性。</description>
       <pubDate>2024-09-23 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ScyllaDB implementation: Lists in Medium’s feature store, Part 2</title>
+      <link>https://medium.engineering/scylladb-implementation-lists-in-mediums-feature-store-part-2-905299c89392?source=rss----2817475205d3---4</link>
+      <description>本文介绍了Medium如何使用ScyllaDB构建一个快速且可扩展的数据层来管理其功能存储中的列表。文章详细解释了ScyllaDB数据库的概念，包括集群、节点、表、行、列、分区、二级索引和生存时间，以及如何为列表定义数据模型以支持高负载。特别强调了如何通过优化数据模型和查询来提高列表操作的效率。</description>
+      <pubDate>2024-09-23 11:25:47</pubDate>
     </item>
   
     <item>
@@ -1353,6 +1780,13 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
       <title>Step Into the Future: Expanded Access and Features for AI Assistants</title>
       <link>https://www.twilio.com/en-us/blog/twilio-ai-assistants-expanded-access-features</link>
       <description>Twilio宣布推出AI助手的扩展访问和功能，包括全面对话历史UI和API、AI星座模型、增强的公共API和知识改进。此外，还推出了首个AI助手的定价模型，取消了消息限制，提供免费消息配额，并按需付费。这些更新旨在使AI助手更易于使用和扩展，以支持个性化客户互动。</description>
+      <pubDate>2024-09-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>FSL: A Better Business/Open Source Balance Than AGPL</title>
+      <link>http://lucumr.pocoo.org/2024/9/23/fsl-agpl-open-source-businesses</link>
+      <description>FSL（公平源代码许可证）比AGPL更好地平衡了商业和开源之间的关系。FSL允许代码在一段时间后转为开源，保护了原创者的核心业务，同时保证了代码的长期开放性。与AGPL相比，FSL在保护商业利益和促进开源社区方面提供了更好的解决方案。</description>
       <pubDate>2024-09-23 00:00:00</pubDate>
     </item>
   
