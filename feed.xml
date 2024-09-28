@@ -206,20 +206,6 @@ Ars Technica编辑Ken Fisher和Lee Hutchinson参加了在IBM合作举办的“�
     </item>
   
     <item>
-      <title>How to Create a Documentation Site With Next.js and Markdown</title>
-      <link>https://www.twilio.com/en-us/blog/create-documentation-site-nextjs-markdown</link>
-      <description>Twilio通过使用Next.js和Markdown创建了一个新的文档网站，以提高开发者的体验。新平台解决了之前基于Wagtail CMS的文档网站的性能和基础设施管理问题，同时通过“文档即代码”的方法，利用git和GitHub等工具确保文档质量。</description>
-      <pubDate>2024-09-27 00:00:00</pubDate>
-    </item>
-  
-    <item>
-      <title>How to View Email Analytics with SMS and Python</title>
-      <link>https://www.twilio.com/en-us/blog/sendgrid-sms-email-notifications-analytics-python</link>
-      <description>使用Twilio SendGrid、Python和Flask构建实时短信通知系统，监控电子邮件活动指标。通过SendGrid的事件Webhook，跟踪电子邮件的投递、打开、点击和垃圾邮件报告，并接收关键指标的定期短信更新。</description>
-      <pubDate>2024-09-27 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>CNBC|SurveyMonkey Small Business Confidence Index Q3 2024</title>
       <link>https://www.surveymonkey.com/curiosity/cnbcsurveymonkey-small-business-index-q3-2024/?ut_source=rss</link>
       <description>2024年第三季度，小企业信心指数显示，尽管对通胀的担忧依然存在，但小企业主对利率下调的预期使得信心有所上升。劳动力市场冷却，空缺职位数量达到新低，且小企业主对招聘合格员工的难度有所下降。尽管如此，小企业主对通胀的担忧依然存在，认为这是他们面临的最大风险。在政治倾向方面，小企业主对总统拜登的支持度有所上升，而对企业监管、税收和贸易政策的积极预期也有所增加。</description>
