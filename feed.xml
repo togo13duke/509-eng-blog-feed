@@ -41,6 +41,13 @@
     </item>
   
     <item>
+      <title>Announcing Helmet v8</title>
+      <link>https://evanhahn.com/helmet-8/</link>
+      <description>宣布Helmet v8发布，这是由Evan Hahn维护的Node.js安全模块的新主要版本。版本8.0.0没有新增功能，只有一些小的破坏性更改，旨在减少开发者的额外工作。主要变更包括增加Strict-Transport-Security的最大年龄或提高最低Node版本至v18。更多变更详情请查看变更日志。Evan Hahn已维护此模块超过十年，希望用户喜欢这个新版本。</description>
+      <pubDate>2024-09-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Themes from DjangoCon US 2024</title>
       <link>https://simonwillison.net/2024/Sep/27/themes-from-djangocon-us-2024/#atom-entries</link>
       <description>DjangoCon US 2024会议重点讨论了Django软件基金会的发展，包括增加收入、支持LTS版本的可访问性审计、扩大奖学金计划以及需要更多功能支持者。会议还探讨了htmx与Django的兼容性、Django Ninja工具的兴起以及Valkey作为新赞助商的加入。</description>
