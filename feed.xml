@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Pandas office hours, September 29th (recording)</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-september-29th-recording/</link>
+      <description>Reuven M. Lerner于2024年9月29日举办了Pandas办公时间活动，讨论了Pandas相关问题，并分享了视频、Jupyter笔记本和Python文件。活动仅限付费订阅者参加，并附上了台北象山的一张照片。</description>
+      <pubDate>2024-09-30 07:39:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing the golden backup rule for your databases</title>
+      <link>https://severalnines.com/blog/implementing-the-golden-backup-rule-for-your-databases/</link>
+      <description>数据安全至关重要，本文介绍了“3-2-1-1-0”备份黄金法则，即保持三份数据副本、存储在两种不同介质、一份离线存储、一份异地存储，并测试备份。ClusterControl平台可自动化备份处理，帮助实现该法则，确保数据安全。</description>
+      <pubDate>2024-09-30 07:00:36</pubDate>
+    </item>
+  
+    <item>
+      <title>How to fine-tune Llama 3.1 with Ray on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2024/09/30/fine-tune-llama-openshift-ai</link>
+      <description>本文介绍了如何在OpenShift AI上使用Ray框架微调Llama 3.1模型。文章首先介绍了Llama 3.1模型的特点和优势，然后详细说明了如何使用OpenShift AI和Ray框架进行模型微调，包括创建工作台、配置Ray集群、准备数据集和运行微调任务等步骤。</description>
+      <pubDate>2024-09-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to use RHEL as a WSL Podman machine</title>
+      <link>https://developers.redhat.com/articles/2024/09/30/rhel-windows-wsl-podman-machine</link>
+      <description>本文介绍了如何将Red Hat Enterprise Linux (RHEL)作为Windows Subsystem for Linux (WSL)的Podman机器使用。文章详细说明了所需的步骤，包括安装必要的软件包、构建RHEL WSL镜像，并在Podman Desktop中创建和使用该镜像。</description>
+      <pubDate>2024-09-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Eleven years of blogging</title>
+      <link>https://vladmihalcea.com/eleven-years-of-blogging/</link>
+      <description>Vlad Mihalcea在WordPress上开设博客已满11年，共撰写610篇文章，吸引超过1250万访客。他开发了Hypersistence Optimizer工具，用于检测JPA和Hibernate性能问题。此外，他还发布了高性能SQL视频课程和Spring Persistence培训，并持续更新Hypersistence Optimizer以支持最新版本的Hibernate。</description>
+      <pubDate>2024-09-30 06:00:53</pubDate>
+    </item>
+  
+    <item>
       <title>Faster Machine Learning Deployments: Why We Disabled GKE Image Streaming</title>
       <link>https://tech.pic-collage.com/faster-machine-learning-deployments-why-we-disabled-gke-image-streaming-ad4c53f255e6?source=rss----3819a69148cb---4</link>
       <description>PicCollage公司决定禁用GKE镜像流，以加快机器学习部署。由于传统镜像流在部署大型图像时速度较慢，他们进行了测试，发现禁用流后，部署时间从16分钟缩短到9分钟。通过直接在集群和节点池上运行Google CLI并设置gcfs_config为false，他们成功禁用了镜像流。</description>
