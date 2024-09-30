@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The nuances and challenges of moderating a code collaboration platform</title>
+      <link>https://github.blog/news-insights/policy-news-and-insights/the-nuances-and-challenges-of-moderating-a-code-collaboration-platform/</link>
+      <description>GitHub在代码协作平台上的监管挑战和细微差别，包括如何处理DMCA下架通知，以及如何平衡开源软件的公共利益和内容监管。文章强调了GitHub政策团队在维护开发者利益和开源发展方面的作用，并介绍了如何通过透明度和研究来提高对代码协作平台监管的理解。</description>
+      <pubDate>2024-09-30 16:00:20</pubDate>
+    </item>
+  
+    <item>
+      <title>The Curious “Case” of the Bearer Scheme</title>
+      <link>https://auth0.com/blog/the-bearer-token-case/</link>
+      <description>OAuth 2.0中Bearer方案的正确使用至关重要，错误的解释可能导致调试困难和错误。本文解释了Bearer方案在OAuth 2.0中的正确大小写使用，指出虽然OAuth 2.0规范明确指出Bearer字符串必须不区分大小写，但实际应用中存在不一致的情况。文章强调了在实现OAuth 2.0时，开发者应确保遵循规范，以避免不必要的错误和调试时间。</description>
+      <pubDate>2024-09-30 15:06:00</pubDate>
+    </item>
+  
+    <item>
+      <title>LangCountry launches v4</title>
+      <link>https://laravel-news.com/langcountry-launches-v4</link>
+      <description>Laravel LangCountry发布新版本4，增加了基于国家的本地化功能，包括日期格式化、货币符号等。新版本支持直接在Carbon实例上使用LangCountry格式化，并提供自动完成功能。</description>
+      <pubDate>2024-09-30 14:28:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Exploring Docker for DevOps: What It Is and How It Works</title>
+      <link>https://www.docker.com/blog/docker-for-devops/</link>
+      <description>Docker是DevOps实践的关键组成部分，它通过容器化技术，使开发者在标准化的环境中协作，提高软件开发效率。Docker简化了持续集成和持续部署流程，提供一致的环境，减少依赖冲突，并增强安全性。尽管存在学习曲线和安全性挑战，但Docker通过自动化和资源效率为DevOps团队带来显著优势。</description>
+      <pubDate>2024-09-30 14:11:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing Generative AI API Features for Ads Creative</title>
+      <link>https://developers.facebook.com/blog/post/2024/09/30/implementing-generative-ai-api-features-for-ads-creative/</link>
+      <description>Meta推出适用于广告创意的生成式AI API功能，包括图像扩展、文本生成和背景生成，旨在提高广告制作效率和创意多样性，节省广告商的时间和资源。开发者可通过Marketing API利用这些功能，通过自动化优化创意，提升广告表现。</description>
+      <pubDate>2024-09-30 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pulling a single item from a C++ parameter pack by its index, remarks</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20240930-00/?p=110324</link>
+      <description>从C++参数包中按索引提取单个项，探讨了Pack Indexing提案，解释了为何需要使用特定的类型转换来保持引用类别，并讨论了C++中lvalue和rvalue引用的规则。</description>
+      <pubDate>2024-09-30 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python 3.13: Cool New Features for You to Try</title>
+      <link>https://realpython.com/python313-new-features/</link>
+      <description>Python 3.13带来了多项新特性，包括改进的交互式解释器（REPL）、更清晰的错误信息、移除全局解释器锁（GIL）以实现多线程、实验性即时编译器（JIT）以及静态类型系统的多项升级。这些改进旨在提升语言性能和开发者体验。</description>
+      <pubDate>2024-09-30 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Allure of Data in Motion Inspires Move to Confluent’s Professional Services Team</title>
       <link>https://www.confluent.io/blog/allure-of-data-in-motion/</link>
       <description>Nadine Capelle，前法国领先资本市场技术解决方案公司员工，加入Confluent担任高级解决方案架构师。她分享了自己从金融科技行业转向帮助客户实现数据流动愿景的职业转变，以及她在Confluent的角色和公司文化。Nadine在Confluent负责帮助客户最大化利用数据流技术，并享受在技术挑战中不断学习和成长的过程。</description>
@@ -136,6 +185,13 @@
       <title>Giving back with thoughtbot’s remote Office Hours &amp; Mentoring Services 🫶</title>
       <link>https://thoughtbot.com/blog/giving-back-with-thoughtbot-s-remote-office-hours-mentoring-services</link>
       <description>thoughtbot推出免费远程办公时间和辅导服务，旨在通过共享专业知识帮助他人构建优秀产品。该服务提供与thoughtbot的开发者、设计师或产品经理进行一小时的免费辅导，涵盖产品构建的各个方面。参与者只需填写简短表格，thoughtbot将匹配顾问并安排远程会议。</description>
+      <pubDate>2024-09-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Savoring tradition: How music and food keep Vero Gonzalez’s Chilean heritage alive</title>
+      <link>https://www.elastic.co/blog/culture-chilean-heritage-through-food-music</link>
+      <description>Vero Gonzalez，一位来自智利的软件工程师，在离开祖国16年后，通过音乐和食物保持了与 Chilean 文化深厚的联系。她在西班牙和澳大利亚的生活中，积极参与当地拉丁社区的文化活动，并在 Elastic 公司找到了一个重视多元文化的环境。她通过参与公司内的多元文化小组，继续传承和庆祝自己的文化身份。</description>
       <pubDate>2024-09-30 00:00:00</pubDate>
     </item>
   
