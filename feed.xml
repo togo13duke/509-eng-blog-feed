@@ -6,6 +6,28 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Leading When You Aren’t the Leader</title>
+      <link>https://spin.atomicobject.com/leading-when-you-arent-the-leader/</link>
+      <description>在非领导角色中展现领导力，关键在于了解团队成员、观察环境并适时发言。通过深入了解每个人的个性和倾向，可以建立信任并识别价值缺失。同时，学会倾听和提问，以促进团队互动和提升效率。最重要的是，主动承担责任，即使不是直接任务，也要积极推动改进。</description>
+      <pubDate>2024-09-30 12:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Learnings from optimising 22 of our most expensive Snowflake pipelines</title>
+      <link>https://medium.engineering/learnings-from-optimising-22-of-our-most-expensive-snowflake-pipelines-5ea6fcf57356?source=rss----2817475205d3---4</link>
+      <description>总结：
+本文分享了作者优化22个Snowflake数据管道的经验，通过合并56项更改，实现了成本的大幅降低。主要策略包括：审查并删除不再使用的管道、简化查询、调整管道运行频率、利用Snowflake的查询分析工具、优化时间窗口和仓库规模。这些方法不仅降低了成本，还提高了效率。</description>
+      <pubDate>2024-09-30 10:06:01</pubDate>
+    </item>
+  
+    <item>
+      <title>The UK is done with coal. How’s the rest of the world doing?</title>
+      <link>https://www.technologyreview.com/2024/09/30/1104591/uk-coal-global-shutdown/</link>
+      <description>英国已关闭其最后一家燃煤发电厂，标志着该国能源系统的一个重大里程碑。全球范围内，尽管许多国家正在减少对煤炭的依赖，但煤炭在其他地区仍在迅速增长，尤其是在电力需求快速增长的一些大型国家。中国和印度等国家正在迅速增加电力需求，其中大部分由燃煤发电厂满足。尽管如此，全球范围内已有约一半的煤炭发电厂计划被取消或暂停，显示出向清洁能源转型的趋势。</description>
+      <pubDate>2024-09-30 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Pandas office hours, September 29th (recording)</title>
       <link>https://www.bambooweekly.com/pandas-office-hours-september-29th-recording/</link>
       <description>Reuven M. Lerner于2024年9月29日举办了Pandas办公时间活动，讨论了Pandas相关问题，并分享了视频、Jupyter笔记本和Python文件。活动仅限付费订阅者参加，并附上了台北象山的一张照片。</description>
@@ -31,6 +53,13 @@
       <link>https://developers.redhat.com/articles/2024/09/30/rhel-windows-wsl-podman-machine</link>
       <description>本文介绍了如何将Red Hat Enterprise Linux (RHEL)作为Windows Subsystem for Linux (WSL)的Podman机器使用。文章详细说明了所需的步骤，包括安装必要的软件包、构建RHEL WSL镜像，并在Podman Desktop中创建和使用该镜像。</description>
       <pubDate>2024-09-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Switch How We Do Padding</title>
+      <link>https://thedailywtf.com/articles/switch-how-we-do-padding</link>
+      <description>这篇文章讨论了在C#中实现字符串填充的常见错误。作者Remy Porter通过一个示例代码展示了如何错误地使用switch语句来填充字符串，而不是使用内置的填充函数，从而导致了不必要的字符串实例创建和内存浪费。文章强调了使用正确的方法来处理字符串填充的重要性。</description>
+      <pubDate>2024-09-30 06:30:00</pubDate>
     </item>
   
     <item>
