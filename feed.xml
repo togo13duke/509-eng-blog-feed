@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Allure of Data in Motion Inspires Move to Confluent’s Professional Services Team</title>
+      <link>https://www.confluent.io/blog/allure-of-data-in-motion/</link>
+      <description>Nadine Capelle，前法国领先资本市场技术解决方案公司员工，加入Confluent担任高级解决方案架构师。她分享了自己从金融科技行业转向帮助客户实现数据流动愿景的职业转变，以及她在Confluent的角色和公司文化。Nadine在Confluent负责帮助客户最大化利用数据流技术，并享受在技术挑战中不断学习和成长的过程。</description>
+      <pubDate>2024-09-30 13:00:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Wrapping up another Birthday Week celebration</title>
+      <link>https://blog.cloudflare.com/birthday-week-2024-wrap-up</link>
+      <description>Cloudflare在2024年庆祝了其14岁生日，期间发布了多项创新产品和服务，包括AI模型审计、批量DNS记录更新、欺诈检测工具、更安全的浏览体验、速度提升技术、新的AI平台、容器平台等，旨在提升用户体验和网络安全。同时，Cloudflare还推出了新的支付方式Stripe Link，以支持全球支付需求。</description>
+      <pubDate>2024-09-30 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimizing Eloquent: Accessor Caching and Value Objects in Laravel</title>
+      <link>https://freek.dev/2766-optimizing-eloquent-accessor-caching-and-value-objects-in-laravel</link>
+      <description>Laravel的Eloquent通过使用shouldCache()进行访问器缓存，提高了性能，避免了重复计算。同时，使用值对象处理复杂数据，如地址，Laravel会自动同步更改回模型，从而提高代码效率和可维护性。</description>
+      <pubDate>2024-09-30 12:33:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: how to break up with coal, and AI’s false climate promises</title>
+      <link>https://www.technologyreview.com/2024/09/30/1104657/the-download-how-to-break-up-with-coal-and-ais-false-climate-promises/</link>
+      <description>英国关闭了其最后的燃煤发电厂，标志着该国能源系统时代的结束。然而，全球其他地区，尤其是电力需求快速增长的一些大型国家，煤炭仍在蓬勃发展。同时，人工智能在解决气候变化问题上的作用被过度夸大，技术进步只是消除全球气候排放的起点。</description>
+      <pubDate>2024-09-30 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Leading When You Aren’t the Leader</title>
       <link>https://spin.atomicobject.com/leading-when-you-arent-the-leader/</link>
       <description>在非领导角色中展现领导力，关键在于了解团队成员、观察环境并适时发言。通过深入了解每个人的个性和倾向，可以建立信任并识别价值缺失。同时，学会倾听和提问，以促进团队互动和提升效率。最重要的是，主动承担责任，即使不是直接任务，也要积极推动改进。</description>
@@ -70,6 +98,13 @@
     </item>
   
     <item>
+      <title>Sketch and AI</title>
+      <link>https://www.sketch.com/blog/sketch-and-ai/</link>
+      <description>Sketch团队探讨了人工智能（AI）在产品设计中的应用，强调尊重设计实践和用户隐私的重要性。他们承诺不会使用AI生成设计，也不会利用用户的设计数据进行训练。Sketch将专注于提高设计师的工作效率，同时确保用户对数据和作品的控制权。</description>
+      <pubDate>2024-09-30 06:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Faster Machine Learning Deployments: Why We Disabled GKE Image Streaming</title>
       <link>https://tech.pic-collage.com/faster-machine-learning-deployments-why-we-disabled-gke-image-streaming-ad4c53f255e6?source=rss----3819a69148cb---4</link>
       <description>PicCollage公司决定禁用GKE镜像流，以加快机器学习部署。由于传统镜像流在部署大型图像时速度较慢，他们进行了测试，发现禁用流后，部署时间从16分钟缩短到9分钟。通过直接在集群和节点池上运行Google CLI并设置gcfs_config为false，他们成功禁用了镜像流。</description>
@@ -81,6 +116,13 @@
       <link>https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/</link>
       <description>本文探讨了在Ruby中消除中间数组分配的方法。通过分析Ruby的内存分配机制，作者展示了如何通过优化代码来减少不必要的对象创建，从而提高性能。文章以一个具体的例子说明，即使看起来会创建数组的代码，实际上可能不会进行内存分配，并解释了Ruby编译器如何优化这种场景。最后，作者讨论了性能规则和代码风格，强调理解背后的原理比盲目遵循规则更重要。</description>
       <pubDate>2024-09-30 02:06:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Take your Inertia.js skills to the next level</title>
+      <link>https://laravel-news.com/advanced-inertia</link>
+      <description>《提升您的Inertia.js技能》——通过《高级Inertia课程》，学习高级概念，轻松构建和维护Laravel和Inertia.js应用程序。课程包含180页书籍、代码示例和实际应用代码，涵盖前端和后端，从解决常见误解到构建大型应用程序，帮助您将全栈开发技能提升到新水平。</description>
+      <pubDate>2024-09-30 01:30:47</pubDate>
     </item>
   
     <item>
