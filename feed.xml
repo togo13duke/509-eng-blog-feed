@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Systems used by courts and governments across the US riddled with vulnerabilities</title>
+      <link>https://arstechnica.com/?p=2053460</link>
+      <description>美国法院和政府使用的系统存在大量漏洞，这些漏洞可能导致攻击者篡改选民登记数据库和官方文件。安全研究员Jason Parker发现，至少19个商业平台存在关键漏洞，影响了数百个法院、政府机构和警察部门。这些漏洞主要源于权限控制薄弱、用户输入验证不良和认证过程有误。Parker呼吁对系统进行渗透测试和软件审计，并加强员工培训，特别是IT部门员工，以增强系统安全性。</description>
+      <pubDate>2024-09-30 20:30:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Code referencing now generally available in GitHub Copilot and with Microsoft Azure AI</title>
+      <link>https://github.blog/news-insights/product-news/code-referencing-now-generally-available-in-github-copilot-and-with-microsoft-azure-ai/</link>
+      <description>GitHub Copilot和Microsoft Azure AI现在提供代码引用功能，允许开发者查看代码匹配的详细信息，包括代码来源和许可信息，以增强透明度和知识共享。这一功能旨在帮助开发者做出更明智的开发决策，同时保护客户免受潜在的法律风险。</description>
+      <pubDate>2024-09-30 20:14:08</pubDate>
+    </item>
+  
+    <item>
       <title>Unlock the Power of Product-Led Growth</title>
       <link>https://8thlight.com/insights/unlock-power-product-led-growth</link>
       <description>产品驱动增长（PLG）已成为SaaS行业的关键策略，它将产品置于客户旅程的中心，通过让用户亲身体验产品价值来推动有机增长和长期保留。PLG通过优化用户体验、利用病毒式传播和战略一致来提升业务效率，降低客户获取成本，并缩短销售周期。通过建立可扩展的技术基础设施和利用数据分析，企业能够实现可持续的长期增长。</description>
@@ -97,6 +111,13 @@
     </item>
   
     <item>
+      <title>Transforming Omics Data Management with Databricks Data Intelligence Platform</title>
+      <link>https://www.databricks.com/blog/transforming-omics-data-management-databricks-data-intelligence-platform</link>
+      <description>Databricks数据智能平台通过其可扩展的云基础设施和Apache Spark集成，有效解决了生物信息学领域在处理大规模多组学数据时遇到的挑战。该平台通过湖屋架构和Unity Catalog实现了数据标准化和互操作性，同时确保了数据安全和合规性。Databricks还提供了用户友好的界面和AI辅助工具，简化了数据访问和分析，促进了跨学科合作，加速了药物发现和开发进程。</description>
+      <pubDate>2024-09-30 15:36:40</pubDate>
+    </item>
+  
+    <item>
       <title>The Curious “Case” of the Bearer Scheme</title>
       <link>https://auth0.com/blog/the-bearer-token-case/</link>
       <description>OAuth 2.0中Bearer方案的正确使用至关重要，错误的解释可能导致调试困难和错误。本文解释了Bearer方案在OAuth 2.0中的正确大小写使用，指出虽然OAuth 2.0规范明确指出Bearer字符串必须不区分大小写，但实际应用中存在不一致的情况。文章强调了在实现OAuth 2.0时，开发者应确保遵循规范，以避免不必要的错误和调试时间。</description>
@@ -122,6 +143,13 @@
       <link>https://www.docker.com/blog/docker-for-devops/</link>
       <description>Docker是DevOps实践的关键组成部分，它通过容器化技术，使开发者在标准化的环境中协作，提高软件开发效率。Docker简化了持续集成和持续部署流程，提供一致的环境，减少依赖冲突，并增强安全性。尽管存在学习曲线和安全性挑战，但Docker通过自动化和资源效率为DevOps团队带来显著优势。</description>
       <pubDate>2024-09-30 14:11:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Build an AI Strategy for Business Success with Databricks</title>
+      <link>https://www.databricks.com/blog/build-ai-strategy-business-success-databricks</link>
+      <description>Databricks博客文章探讨了如何构建AI策略以实现商业成功。文章强调了制定与业务目标一致的AI战略的重要性，包括定义目标、评估数据、识别风险、探索技术、整合现有系统以及监控和评估AI性能。通过这些步骤，企业可以优化AI的优势，实现长期目标并推动业务增长。</description>
+      <pubDate>2024-09-30 14:00:54</pubDate>
     </item>
   
     <item>
@@ -256,6 +284,13 @@
       <link>https://tech.pic-collage.com/faster-machine-learning-deployments-why-we-disabled-gke-image-streaming-ad4c53f255e6?source=rss----3819a69148cb---4</link>
       <description>PicCollage公司决定禁用GKE镜像流，以加快机器学习部署。由于传统镜像流在部署大型图像时速度较慢，他们进行了测试，发现禁用流后，部署时间从16分钟缩短到9分钟。通过直接在集群和节点池上运行Google CLI并设置gcfs_config为false，他们成功禁用了镜像流。</description>
       <pubDate>2024-09-30 04:13:25</pubDate>
+    </item>
+  
+    <item>
+      <title>There Is No Antimemetics Division</title>
+      <link>https://blog.sbensu.com/posts/antimemetics/</link>
+      <description>《没有抗记忆药分类》这本书探讨了传播良好的想法（meme）和不易传播的想法（antimeme）之间的差异。作者指出，不易传播的想法可能因为对说话者不利、令人不愉快、威胁社会秩序或是不道德等原因。书中还讨论了如何识别和应对这些antimeme，并提出了meme在“思想空间”中相互竞争的观点。</description>
+      <pubDate>2024-09-30 04:00:00</pubDate>
     </item>
   
     <item>
