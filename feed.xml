@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unlock the Power of Product-Led Growth</title>
+      <link>https://8thlight.com/insights/unlock-power-product-led-growth</link>
+      <description>产品驱动增长（PLG）已成为SaaS行业的关键策略，它将产品置于客户旅程的中心，通过让用户亲身体验产品价值来推动有机增长和长期保留。PLG通过优化用户体验、利用病毒式传播和战略一致来提升业务效率，降低客户获取成本，并缩短销售周期。通过建立可扩展的技术基础设施和利用数据分析，企业能够实现可持续的长期增长。</description>
+      <pubDate>2024-09-30 19:50:00</pubDate>
+    </item>
+  
+    <item>
       <title>Top knowledge management tools to know</title>
       <link>https://www.atlassian.com/blog/announcements/knowledge-management-tools-to-know</link>
       <description>知识管理工具对于提升企业效率和创新能力至关重要。本文介绍了知识管理工具的类型、关键功能和市场领先产品，如Confluence、Jira和Trello。选择合适的工具需要考虑业务需求、预算、可扩展性和集成能力。通过实施最佳实践，如确定知识内容、识别专家和促进持续培训，企业可以最大化知识管理工具的效益。</description>
       <pubDate>2024-09-30 18:00:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Upcoming 2024 Restriction Period for US ads about social issues, elections, or politics</title>
+      <link>https://developers.facebook.com/blog/post/2024/09/30/upcoming-2024-restriction-period-for-us-ads/</link>
+      <description>2024年美国将实施针对社会问题、选举或政治广告的限制期，从10月29日午夜至11月5日午夜，期间禁止发布新广告。在此期间，已投放至少一次广告的广告将允许继续运行，但编辑能力有限。广告主需提前准备，确保广告在限制期前投放并满足要求。</description>
+      <pubDate>2024-09-30 18:00:00</pubDate>
     </item>
   
     <item>
@@ -283,6 +297,13 @@
       <title>Faster threat detection, stronger security: The Kibana advantage</title>
       <link>https://www.elastic.co/blog/threat-detection-security-kibana-advantage</link>
       <description>Kibana通过其直观设计和协作功能，帮助组织实现更快的威胁检测和响应，从而加强安全态势。其用户友好的界面和强大的数据分析能力，使得安全团队能够更高效地工作，减少误报，并快速应对威胁。</description>
+      <pubDate>2024-09-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>January 2025 Update to FCC’s Lead Generation Rules</title>
+      <link>https://www.twilio.com/en-us/blog/jan-2025-fcc-lead-generation-rule-changes</link>
+      <description>2025年1月，美国联邦通信委员会（FCC）将更新其关于潜在客户生成规则，要求企业在发送自动电话或短信时，必须为每个营销合作伙伴分别获得消费者的单独同意，以符合新规定并避免潜在的法律问题。</description>
       <pubDate>2024-09-30 00:00:00</pubDate>
     </item>
   
