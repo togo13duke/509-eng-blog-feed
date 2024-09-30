@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Faster Machine Learning Deployments: Why We Disabled GKE Image Streaming</title>
+      <link>https://tech.pic-collage.com/faster-machine-learning-deployments-why-we-disabled-gke-image-streaming-ad4c53f255e6?source=rss----3819a69148cb---4</link>
+      <description>PicCollage公司决定禁用GKE镜像流，以加快机器学习部署。由于传统镜像流在部署大型图像时速度较慢，他们进行了测试，发现禁用流后，部署时间从16分钟缩短到9分钟。通过直接在集群和节点池上运行Google CLI并设置gcfs_config为false，他们成功禁用了镜像流。</description>
+      <pubDate>2024-09-30 04:13:25</pubDate>
+    </item>
+  
+    <item>
       <title>Eliminating Intermediate Array Allocations</title>
       <link>https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/</link>
       <description>本文探讨了在Ruby中消除中间数组分配的方法。通过分析Ruby的内存分配机制，作者展示了如何通过优化代码来减少不必要的对象创建，从而提高性能。文章以一个具体的例子说明，即使看起来会创建数组的代码，实际上可能不会进行内存分配，并解释了Ruby编译器如何优化这种场景。最后，作者讨论了性能规则和代码风格，强调理解背后的原理比盲目遵循规则更重要。</description>
