@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Top knowledge management tools to know</title>
+      <link>https://www.atlassian.com/blog/announcements/knowledge-management-tools-to-know</link>
+      <description>知识管理工具对于提升企业效率和创新能力至关重要。本文介绍了知识管理工具的类型、关键功能和市场领先产品，如Confluence、Jira和Trello。选择合适的工具需要考虑业务需求、预算、可扩展性和集成能力。通过实施最佳实践，如确定知识内容、识别专家和促进持续培训，企业可以最大化知识管理工具的效益。</description>
+      <pubDate>2024-09-30 18:00:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Weeknotes: Three podcasts, two trips and a new plugin system</title>
+      <link>https://simonwillison.net/2024/Sep/30/weeknotes/#atom-entries</link>
+      <description>本月，Simon Willison参加了两次旅行和多个项目。他在葡萄牙里斯本和北卡罗来纳州达勒姆参加了会议，并发表了关于插件系统的演讲，随后发布了新的Django插件系统。此外，他还作为嘉宾参加了三个播客，讨论了他的职业生涯、使用LLM编写代码的经验以及开源的重要性。</description>
+      <pubDate>2024-09-30 17:43:22</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: Jamba 1.5 family, Llama 3.2, Amazon EC2 C8g and M8g instances and more (Sep 30, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-jamba-1-5-family-llama-3-2-amazon-ec2-c8g-and-m8g-instances-and-more-sep-30-2024/</link>
+      <description>AWS本周发布了多项新功能，包括AI21 Labs的Jamba 1.5模型在Amazon Bedrock的可用性，Lambda对Amazon Linux 2023运行时的支持，SageMaker Studio的自动关闭空闲应用程序功能，以及新的EC2 C8g和M8g实例。此外，Llama 3.2模型也加入Amazon Bedrock，并支持跨多个AWS账户共享AWS End User Messaging SMS资源。</description>
+      <pubDate>2024-09-30 16:53:23</pubDate>
+    </item>
+  
+    <item>
+      <title>How we work in distributed teams at Gusto</title>
+      <link>https://engineering.gusto.com/how-we-work-in-distributed-teams-at-gusto-471945b78f9b?source=rss----645edd256348---4</link>
+      <description>Gusto通过“团队时间”和结对编程等策略，适应了远程和混合工作模式。公司鼓励团队成员跨越时区沟通，并定期举办面对面会议以加强团队凝聚力。Gusto不断迭代其工作方式，以适应全球多元化工作团队的需求。</description>
+      <pubDate>2024-09-30 16:02:09</pubDate>
+    </item>
+  
+    <item>
       <title>The nuances and challenges of moderating a code collaboration platform</title>
       <link>https://github.blog/news-insights/policy-news-and-insights/the-nuances-and-challenges-of-moderating-a-code-collaboration-platform/</link>
       <description>GitHub在代码协作平台上的监管挑战和细微差别，包括如何处理DMCA下架通知，以及如何平衡开源软件的公共利益和内容监管。文章强调了GitHub政策团队在维护开发者利益和开源发展方面的作用，并介绍了如何通过透明度和研究来提高对代码协作平台监管的理解。</description>
@@ -13,10 +41,59 @@
     </item>
   
     <item>
+      <title>Welcome to AI on Android Spotlight Week</title>
+      <link>http://android-developers.googleblog.com/2024/09/welcome-to-ai-on-android-spotlight-week.html</link>
+      <description>Android开发者博客举办了AI专题周活动，从9月30日到10月4日，旨在帮助开发者了解如何将前沿AI技术集成到Android应用中。活动包括深入的技术讲座、实际演示和成功案例分享，涵盖AI核心技术的应用，如Gemini Nano和Gemini 1.5 Pro/Flash等，并强调在开发过程中考虑隐私、用户体验和伦理问题。</description>
+      <pubDate>2024-09-30 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Gemini in Android Studio: Code Completion Gains Powerful Model Improvements</title>
+      <link>http://android-developers.googleblog.com/2024/09/gemini-android-studio-code-completion-model-improvements.html</link>
+      <description>Android Studio的Gemini功能通过AI代码补全技术，大幅提升了开发者的工作效率。该功能利用最新的AI模型，提供实时反馈，帮助开发者快速编写符合Android最佳实践的代码。通过不断优化模型质量、上下文和启发式算法，Gemini实现了40%的接受率提升，并持续探索更多改进，如检索增强、过滤低置信度补全和智能后处理等。开发者可通过启用AI代码补全功能，在Android Studio中体验这一创新工具。</description>
+      <pubDate>2024-09-30 15:58:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quick introduction to Large Language Models for Android developers</title>
+      <link>http://android-developers.googleblog.com/2024/09/introduction-to-large-language-models-for-android-developers.html</link>
+      <description>Android开发者可快速了解大型语言模型，包括其与传统机器学习的区别、在Android上的应用、以及如何使用这些模型进行文本生成和语言理解。文章介绍了LLMs的核心、架构、训练阶段、模型分类、关键概念和微调技术，展望了未来在Android设备上的应用前景。</description>
+      <pubDate>2024-09-30 15:56:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Knowledge-as-a-service: The future of community business models</title>
+      <link>https://stackoverflow.blog/2024/09/30/knowledge-as-a-service-the-future-of-community-business-models/</link>
+      <description>知识即服务：社区商业模式的新未来。随着互联网的碎片化，知识来源与用户互动之间的分离日益加剧。新兴的商业模式强调人类知识的创造、管理和验证，而非用户本身。Stack Overflow等平台正通过提供可信、验证和最新的技术内容，推动这一趋势，以支持知识创造和信任。</description>
+      <pubDate>2024-09-30 15:42:44</pubDate>
+    </item>
+  
+    <item>
+      <title>The changing state of the Internet and related business models</title>
+      <link>https://stackoverflow.blog/2024/09/30/the-changing-state-of-the-internet-and-related-business-models/</link>
+      <description>互联网和关联商业模式正在经历变革，Stack Overflow社区和团队见证了这一过程。随着生成式AI的兴起，内容创作者的原创性被忽视，知识来源变得模糊。本文探讨了这一转型对Stack Overflow及其产品策略的影响，包括知识即服务、开发者信任和社区数据保护等方面。</description>
+      <pubDate>2024-09-30 15:41:31</pubDate>
+    </item>
+  
+    <item>
+      <title>Attribution as the foundation of developer trust</title>
+      <link>https://stackoverflow.blog/2024/09/30/attribution-as-the-foundation-of-developer-trust/</link>
+      <description>Stack Overflow强调归因作为开发者信任的基础，认为在人工智能生态系统中，信任至关重要。文章指出，归因不仅关乎社区和Stack Overflow，还关乎整个AI生态系统的安全。Stack Overflow要求所有与OverflowAPI合作伙伴签订的合同都必须包含归因要求，并强调投资社区内容应促进社区和内容的增长与健康发展。文章还讨论了开发者对AI工具的信任度下降，以及AI在数据来源、偏见和准确性方面的伦理问题。最后，文章介绍了如何通过检索增强生成（RAG）等技术来提高LLM的准确性和可信度。</description>
+      <pubDate>2024-09-30 15:41:21</pubDate>
+    </item>
+  
+    <item>
       <title>The Curious “Case” of the Bearer Scheme</title>
       <link>https://auth0.com/blog/the-bearer-token-case/</link>
       <description>OAuth 2.0中Bearer方案的正确使用至关重要，错误的解释可能导致调试困难和错误。本文解释了Bearer方案在OAuth 2.0中的正确大小写使用，指出虽然OAuth 2.0规范明确指出Bearer字符串必须不区分大小写，但实际应用中存在不一致的情况。文章强调了在实现OAuth 2.0时，开发者应确保遵循规范，以避免不必要的错误和调试时间。</description>
       <pubDate>2024-09-30 15:06:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ongoing community data protection</title>
+      <link>https://stackoverflow.blog/2024/09/30/ongoing-community-data-protection/</link>
+      <description>Stack Overflow强调社区数据保护的重要性，认为数据使用需互惠互利。文章指出，AI提供商若不回馈社区，将逐渐失去数据访问权限。Stack Overflow采取措施保护社区内容，同时为合法的商业用途和开放访问创造途径，以促进社区和AI的共同发展。</description>
+      <pubDate>2024-09-30 15:01:07</pubDate>
     </item>
   
     <item>
@@ -73,6 +150,13 @@
       <link>https://freek.dev/2766-optimizing-eloquent-accessor-caching-and-value-objects-in-laravel</link>
       <description>Laravel的Eloquent通过使用shouldCache()进行访问器缓存，提高了性能，避免了重复计算。同时，使用值对象处理复杂数据，如地址，Laravel会自动同步更改回模型，从而提高代码效率和可维护性。</description>
       <pubDate>2024-09-30 12:33:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Issues #268 Sep 30, 2024</title>
+      <link>https://betterdev.link/issues/268</link>
+      <description>本周BetterDev链接聚焦于编程和数据库技术，包括PostgreSQL 17的新功能、DevSecCon 2024的即将到来、构建图像搜索引擎、使用Postgres向量存储和开源模型进行生产级RAG、JavaScript中的AbortController、PostgreSQL的ltree扩展、监控Web Vitals性能、减少Websocket流量、数字签名、数据变更跟踪等。</description>
+      <pubDate>2024-09-30 12:19:00</pubDate>
     </item>
   
     <item>
@@ -192,6 +276,13 @@
       <title>Savoring tradition: How music and food keep Vero Gonzalez’s Chilean heritage alive</title>
       <link>https://www.elastic.co/blog/culture-chilean-heritage-through-food-music</link>
       <description>Vero Gonzalez，一位来自智利的软件工程师，在离开祖国16年后，通过音乐和食物保持了与 Chilean 文化深厚的联系。她在西班牙和澳大利亚的生活中，积极参与当地拉丁社区的文化活动，并在 Elastic 公司找到了一个重视多元文化的环境。她通过参与公司内的多元文化小组，继续传承和庆祝自己的文化身份。</description>
+      <pubDate>2024-09-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Faster threat detection, stronger security: The Kibana advantage</title>
+      <link>https://www.elastic.co/blog/threat-detection-security-kibana-advantage</link>
+      <description>Kibana通过其直观设计和协作功能，帮助组织实现更快的威胁检测和响应，从而加强安全态势。其用户友好的界面和强大的数据分析能力，使得安全团队能够更高效地工作，减少误报，并快速应对威胁。</description>
       <pubDate>2024-09-30 00:00:00</pubDate>
     </item>
   
