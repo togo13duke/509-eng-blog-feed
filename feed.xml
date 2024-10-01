@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Shinrin-yoku: Our 7 Favorite Forest Sayings In Other Languages</title>
+      <link>https://www.babbel.com/en/magazine/nature-trees-vocabulary</link>
+      <description>秋天是体验森林浴的绝佳季节，森林浴（shinrin-yoku）是一种通过在森林中散步来放松身心、净化心灵的活动。研究表明，呼吸树木的香气有助于降低血压、缓解压力、改善睡眠和提升创造力。全球有许多适合体验森林浴的地方，如京都的竹林、哥斯达黎加的云雾林、加利福尼亚的红杉林等。</description>
+      <pubDate>2024-10-01 01:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Impact of Verizon’s September 30 outage on Internet traffic</title>
+      <link>https://blog.cloudflare.com/impact-of-verizons-september-30-outage-on-internet-traffic</link>
+      <description>Verizon在2024年9月30日的网络故障影响了美国多城市用户的移动网络连接。故障导致用户无法拨打电话，HTTP请求量下降。尽管问题在下午早些时候得到承认，但服务恢复到正常水平是在故障发生几小时后。受影响的城市包括芝加哥、印第安纳波利斯、纽约市、亚特兰大等。尽管没有提供具体原因，但似乎语音服务比数据服务受到的影响更大。</description>
+      <pubDate>2024-10-01 00:32:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Summary of reading: July - September 2024</title>
+      <link>https://eli.thegreenplace.net/2024/summary-of-reading-july-september-2024/</link>
+      <description>2024年7月至9月，作者Eli Bendersky阅读了多本不同领域的书籍，包括科幻、历史、科学和文学。他评价了《火星上的城市》对太空探索的探讨过于政治化，而《图书馆中的你寻找之物》则是一部关于普通人在日本生活的温馨短篇小说集。他还讨论了《识别误导性科学》在科学普及方面的不足，以及《虚数的故事》在数学和科学普及之间的独特定位。《基因编辑的竞争》和《动物感知的广阔世界》等书籍也引起了他的兴趣。此外，他还回顾了经典作品如《蒙田法典》和《基督山伯爵》。</description>
+      <pubDate>2024-10-01 00:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Remote user testing with kids &amp; teens</title>
+      <link>https://thoughtbot.com/blog/remote-testing-with-kids-teens</link>
+      <description>远程用户测试儿童和青少年时，需考虑额外因素。与成人相比，儿童可能感到更加紧张和不适应。建议直接与家长沟通，获取同意，并在测试前发送同意书。测试过程中，保持轻松友好，给予儿童更多鼓励，并注意保护其隐私。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why I’m leaving Medium: AI policy</title>
       <link>https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c?source=rss-f2f00cd05fc0------2</link>
       <description>我决定离开Medium，因为我无法接受其AI政策。我反对AI，认为它是对人类的侮辱，并可能导致我们的衰落。Medium的政策允许AI辅助写作，甚至AI生成的图像，这让我感到失望。我无法支持一个在写作平台上容忍AI内容的平台。</description>
