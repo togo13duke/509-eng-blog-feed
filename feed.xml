@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Integrating Azure DevOps Pipelines with HashiCorp Vault</title>
+      <link>https://www.hashicorp.com/blog/integrating-azure-devops-pipelines-with-hashicorp-vault</link>
+      <description>本文介绍了如何将Azure DevOps管道与HashiCorp Vault集成，利用Microsoft Azure DevOps的工作负载身份联合（WIF）功能，实现无密码、基于OpenID Connect标准的认证，简化了Azure DevOps与Azure之间的信任建立，并解决了之前集成中存在的秘密泄露问题。通过Terraform配置，可以自动化设置服务连接和HashiCorp Vault的配置，从而实现更高效的安全数据管理。</description>
+      <pubDate>2024-10-01 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>NICE DCV is now Amazon DCV with 2024.0 release</title>
+      <link>https://aws.amazon.com/blogs/aws/nice-desktop-cloud-visualization-dcv-is-now-amazon-dcv/</link>
+      <description>NICE DCV更名为Amazon DCV，2024.0版本发布，支持远程桌面和应用程序流传输。Amazon DCV提供高性能、安全、灵活的远程桌面解决方案，适用于各种操作系统和设备。新版本支持最新Ubuntu LTS，优化性能和安全性。用户可通过AWS资源免费使用Amazon DCV。</description>
+      <pubDate>2024-10-01 19:05:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the stable release of the official OpenAI library for .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/</link>
+      <description>.NET团队宣布了官方OpenAI库的稳定版发布，该库使开发者能够轻松将OpenAI的先进AI模型集成到.NET应用程序中。该库支持OpenAI的REST API，包括最新的GPT-4o等模型，并具有同步和异步API、流式完成等功能，确保与OpenAI和Azure OpenAI服务的无缝集成。</description>
+      <pubDate>2024-10-01 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>“Extreme” Broadcom-proposed price hike would up VMware costs 1,050%, AT&amp;T says</title>
+      <link>https://arstechnica.com/?p=2053645</link>
+      <description>Broadcom提议对VMware产品进行高达1050%的价格上涨，导致AT&amp;T面临巨额成本增加。AT&amp;T指控Broadcom非法拒绝其续签支持服务，并指出Broadcom的涨价行为极端不合理。AT&amp;T计划通过法律途径和投资迁移方案来应对这一挑战。</description>
+      <pubDate>2024-10-01 18:22:47</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI DevDay 2024 live blog</title>
       <link>https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/#atom-entries</link>
       <description>OpenAI DevDay 2024在旧金山举行，重点介绍了o1的更新和应用，包括实时API的发布，支持通过WebSockets实现语音输入输出。新API展示了Wanderlust旅行代理演示的更新版本，使用语音作为输入和输出。</description>
@@ -94,6 +122,13 @@
       <link>https://devblogs.microsoft.com/oldnewthing/20241001-22/?p=110330</link>
       <description>该策略名为“防止访问注册表编辑工具”，旨在阻止用户运行regedit.exe和reg.exe等工具，而不是阻止对注册表的访问。即使策略被启用，恶意软件仍然可以通过RegSetValue修改注册表值。此策略不影响其他程序，它们仍然可以访问注册表，但需遵守常规规则。</description>
       <pubDate>2024-10-01 16:10:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking Financial Insights with a Custom Text-to-SQL Application</title>
+      <link>https://www.databricks.com/blog/unlocking-financial-insights-nyse-ice</link>
+      <description>Databricks与ICE合作开发了一款基于RAG（检索增强生成）技术的文本到SQL应用，通过自然语言搜索结构化数据产品，无需数据迁移。该系统利用Databricks Mosaic AI产品，实现端到端RAG生命周期，并通过Spider基准测试优化SQL查询质量。</description>
+      <pubDate>2024-10-01 16:05:54</pubDate>
     </item>
   
     <item>
@@ -230,6 +265,13 @@
     </item>
   
     <item>
+      <title>Enterprise AI: Your Guide to How Artificial Intelligence is Shaping the Future of Business</title>
+      <link>https://www.databricks.com/blog/enterprise-ai-your-guide-how-artificial-intelligence-shaping-future-business</link>
+      <description>企业人工智能正改变商业未来。它通过优化运营、简化工作流程和推动创新，帮助企业实现大规模业务价值。企业AI在数据智能、网络安全、客户服务和运营加速等方面发挥重要作用。然而，采用企业AI策略也面临挑战，如缺乏AI专业知识、互操作性问题和合规性等。Databricks数据智能平台帮助企业利用AI实现数据优化和业务增长。</description>
+      <pubDate>2024-10-01 11:35:51</pubDate>
+    </item>
+  
+    <item>
       <title>Collective #868</title>
       <link>https://tympanus.net/codrops/collective/collective-868/</link>
       <description>前端架构基础、原型设计的未来、网页表情符号的悲剧。</description>
@@ -265,6 +307,13 @@
     </item>
   
     <item>
+      <title>AVEVA World Conference: Redefining Industrial AI with AVEVA &amp; Databricks</title>
+      <link>https://www.databricks.com/blog/aveva-world-conference-redefining-industrial-ai-aveva-databricks</link>
+      <description>AVEVA世界大会将探讨工业AI的未来，Databricks与AVEVA将展示如何通过结合技术推动工业组织取得前所未有的成果。会议将包括联合主题演讲和深入讨论，展示如何利用工业数据优化生产、提高安全性和效率。</description>
+      <pubDate>2024-10-01 08:46:33</pubDate>
+    </item>
+  
+    <item>
       <title>The coolest thing about smart glasses is not the AR. It’s the AI.</title>
       <link>https://www.technologyreview.com/2024/10/01/1104581/the-coolest-thing-about-smart-glasses-is-not-the-ar-its-the-ai/</link>
       <description>智能眼镜的核心魅力不在于增强现实（AR），而是人工智能（AI）。Meta和Snap的最新智能眼镜展示了令人印象深刻的视觉和手势控制功能，但真正吸引人的是它们如何无缝地与AI互动，使日常生活中的信息获取和互动更加便捷。这种多模态AI技术将彻底改变我们与世界互动的方式，就像智能手机一样。</description>
@@ -289,6 +338,13 @@
       <title>Build container images in OpenShift using Podman as a GitLab runner</title>
       <link>https://developers.redhat.com/articles/2024/10/01/build-container-images-openshift-using-podman-gitlab-runner</link>
       <description>使用Podman在OpenShift中构建容器镜像，通过GitLab runner自动化构建过程，提高效率并降低成本。</description>
+      <pubDate>2024-10-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Meet Three Women Who Are Redefining Sports Card Collecting</title>
+      <link>https://www.ebayinc.com/stories/news/meet-three-women-who-are-redefining-sports-card-collecting/</link>
+      <description>三位女性打破体育卡收藏的传统性别刻板印象，通过eBay平台展示了对统计数据、体育的热情和对低估宝藏的敏锐眼光。她们分享了自己的收藏经历，强调eBay在获取和销售卡片中的重要作用，以及她们在收藏界中的积极贡献。</description>
       <pubDate>2024-10-01 07:00:00</pubDate>
     </item>
   
@@ -366,6 +422,34 @@
       <title>Safely sample production data into pre-production environments with Logstash</title>
       <link>https://www.elastic.co/blog/production-data-pre-production-environments-logstash</link>
       <description>使用Logstash和UDP安全地将生产数据样本传输到预生产环境，通过UDP的“发送后即忘”功能，可以安全地将生产数据的一部分随机传输到预生产集群，而不会干扰生产数据流。这种方法简化了架构，降低了操作风险和性能开销，特别适用于需要将数据子集路由到预生产环境进行测试的场景。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Web Components are not Framework Components — and That’s Okay</title>
+      <link>https://lea.verou.me/blog/2024/wcs-vs-frameworks/</link>
+      <description>Web组件与框架组件不同，它们解决不同的问题。Web组件主要适用于可通用元素，而框架组件则更适合项目特定的组件。Web组件的互操作性是其一大优势，但编写Web组件仍然较为困难。框架和Web组件各有优势，应相互补充，共同推动Web开发。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing Ash Policies for GraphQL</title>
+      <link>https://jaketrent.com/post/ash-policies-graphql</link>
+      <description>本文介绍了如何在GraphQL中使用Ash框架实现身份验证和授权策略。通过定义用户和权限，以及使用Ash.Policies来声明安全策略，实现了对特定操作的访问控制。文章详细说明了如何设置用户实体、权限实体、路由器插件以及策略检查，以确保只有授权用户才能执行特定操作。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord Patch Notes: October 1, 2024</title>
+      <link>https://discord.com/blog/discord-patch-notes-october-1-2024</link>
+      <description>Discord在2024年10月1日更新中，对Android聊天渲染器进行了优化，提高了性能和响应速度。同时，对iOS数据存储进行了调整，减少了设备空间占用。此外，更新了屏幕共享、音板UI、支持播放Animated WebP附件等功能，并修复了多个bug，包括消息搜索、聊天、活动、音频/视频和媒体等领域的功能问题。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Stripe’s new API release process</title>
+      <link>https://stripe.com/blog/introducing-stripes-new-api-release-process</link>
+      <description>Stripe推出新的API发布流程，结合每半年一次的重大更新和每月的功能增强，提供可预测的发布时间表，以帮助开发者更好地规划工程路线图。新版本Acacia引入了新的命名和版本控制方法，同时更新了开发者变更日志，以便更清晰地了解每个版本的变化。</description>
       <pubDate>2024-10-01 00:00:00</pubDate>
     </item>
   
