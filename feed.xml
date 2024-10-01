@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>I won two British Cartographic Society awards!</title>
+      <link>https://blog.rtwilson.com/i-won-two-british-cartographic-society-awards/</link>
+      <description>我荣获两项英国制图学会奖！我的英国地名映射器网络应用获得了电子制图Avenza奖的“高度推荐”证书和地形测量OS奖的一等奖。奖杯和证书在伦敦的BCS年会上颁发，我还在英国地形测量局再次接受了奖杯。</description>
+      <pubDate>2024-10-01 13:13:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Taming Post Claps</title>
+      <link>https://medium.engineering/taming-post-claps-273d97ce1ced?source=rss----2817475205d3---4</link>
+      <description>Medium平台修复了一个用户利用后端系统中的竞争条件来操纵帖子点赞数的问题。该漏洞允许用户点赞数超出正常范围，但不会影响帖子收入或推荐。通过使用DynamoDB条件表达式和强一致性读取，系统阻止了对已读取但未写入的数据的更新。此外，还实施了一个最终一致性的点赞修正方案来解决受影响的帖子。</description>
+      <pubDate>2024-10-01 13:06:01</pubDate>
+    </item>
+  
+    <item>
+      <title>How We Built a Content Recommendation System With Pgai and Pgvectorscale</title>
+      <link>https://www.timescale.com/blog/how-we-built-a-content-recommendation-system-with-pgai-and-pgvectorscale/</link>
+      <description>我们使用pgai和pgvectorscale构建了一个内容推荐系统，以简化AI应用开发。pgai允许直接在数据库中调用LLM API，而pgvectorscale则提供了存储和搜索向量的功能。通过这两个工具，我们能够快速创建内容推荐系统，自动为文章推荐相关内容，提高SEO效果。</description>
+      <pubDate>2024-10-01 13:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean GPU Droplets, scalable computing power on demand</title>
+      <link>https://www.digitalocean.com/blog/announcing-gpu-droplets</link>
+      <description>DigitalOcean推出搭载NVIDIA H100 GPU的GPU Droplets，为开发者提供强大的AI计算能力。这些虚拟机支持单GPU到8GPU的配置，无需大量前期投资即可按需扩展计算能力。GPU Droplets简化了AI模型的训练和大数据处理，并预装了Python和深度学习软件包，使AI项目实验和扩展变得经济高效。</description>
+      <pubDate>2024-10-01 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>My Rails World 2024 Experience</title>
+      <link>https://hashrocket.com/blog/posts/my-rails-world-2024-experience</link>
+      <description>参加了Rails World 2024大会，深受启发。会议聚焦Rails 8和Kamal 2.0，DHH的演讲点燃了现场气氛。与开发者交流，感受到Rails社区的活力和热情。Hashrocket的支持和公司文化让我受益匪浅，期待将所学应用于项目，继续成长。</description>
+      <pubDate>2024-10-01 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl</title>
+      <link>https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/</link>
+      <description>Docker最佳实践：使用标签和标签来管理Docker镜像膨胀。文章讨论了如何通过使用标签和标签来管理Docker镜像的版本和元数据，以避免混乱和潜在的生产问题。通过使用语义版本控制标签和标签指令，可以确保图像的版本和元数据得到正确记录和管理。</description>
+      <pubDate>2024-10-01 12:51:36</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Monitor Ephemeral Storage Metrics in Kubernetes</title>
+      <link>https://last9.io/blog/monitor-ephemeral-storage-metrics-in-kubernetes/</link>
+      <description>Kubernetes中的临时存储监控对于确保应用性能和稳定性至关重要。k8s-ephemeral-storage-metrics工具提供了对Pod级别的临时存储使用的宝贵见解，有助于主动资源管理和避免中断，从而提高集群健康。通过整合此工具，可以有效地管理临时存储的复杂性，确保Kubernetes环境高效且具有弹性。</description>
+      <pubDate>2024-10-01 12:45:29</pubDate>
+    </item>
+  
+    <item>
+      <title>A Guide to Laravel Pipelines</title>
+      <link>https://freek.dev/2767-a-guide-to-laravel-pipelines</link>
+      <description>Laravel Pipelines指南：本文介绍了如何使用Laravel的Pipeline类将复杂的工作流程分解为更小的、独立的、专注的过程，并探讨了如何测试Laravel管道。</description>
+      <pubDate>2024-10-01 12:19:39</pubDate>
+    </item>
+  
+    <item>
+      <title>From Slow to Swift: Revolutionizing Kubernetes StatefulSet Updates with OpenKruise</title>
+      <link>https://www.haptik.ai/tech/revolutionizing-kubernetes-statefulset-updates-with-openkruise</link>
+      <description>OpenKruise的AdvancedStatefulSet通过并行更新，显著缩短了Kubernetes StatefulSet的更新时间，提高了工作效率。在之前，更新100个Pod需要14分钟，而使用OpenKruise后，更新时间缩短至1.5分钟，效率提升90%。</description>
+      <pubDate>2024-10-01 12:17:15</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: smart glasses, and tiny AI models</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104750/the-download-smart-glasses-and-tiny-ai-models/</link>
+      <description>智能眼镜成为下一个消费电子产品类别，其核心在于AI而非AR。Meta、Snap等公司推出新型智能眼镜，实现与AI的无缝交互。同时，AI研究正转向更高效的小型模型，以减少资源消耗和环境影响。</description>
+      <pubDate>2024-10-01 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Will Server Actions and Components Replace Route Handlers in NextJS?</title>
       <link>https://spin.atomicobject.com/server-actions-components/</link>
       <description>Next.js 13引入了服务器组件和服务器操作，允许在Node服务器上直接运行代码，无需访问API端点，从而简化了路由处理器的复杂性和样板代码。服务器操作主要用于数据变更，但它们在HTTP请求和响应控制方面有限制，并且只能从Next.js客户端访问。虽然服务器操作在某些情况下可以替代路由处理器，但它们不太可能完全取代它们，因为它们简化了开发者的体验。</description>
@@ -87,6 +157,13 @@
       <link>https://stackoverflow.blog/2024/10/01/david-mytton-arcjet-console-dev-newsletter-podcast/</link>
       <description>David Mytton，Arcjet CEO和Console.dev联合创始人，在云监控领域早期工作，对环境充满热情，并热爱分享优秀的开发者工具。</description>
       <pubDate>2024-10-01 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Split Log Levels Between Stdout and Stderr With Laravel</title>
+      <link>https://laravel-news.com/split-log-levels-between-stdout-and-stderr-with-laravel</link>
+      <description>Laravel News博客文章介绍了如何在Laravel中通过Monolog的FilterHandler来分离日志级别到stdout和stderr。文章提供了配置示例，说明如何设置不同的日志级别，并展示了如何使用环境变量来格式化日志，以便于日志服务的消费。</description>
+      <pubDate>2024-10-01 04:01:36</pubDate>
     </item>
   
     <item>
