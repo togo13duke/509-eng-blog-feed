@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Will Server Actions and Components Replace Route Handlers in NextJS?</title>
+      <link>https://spin.atomicobject.com/server-actions-components/</link>
+      <description>Next.js 13引入了服务器组件和服务器操作，允许在Node服务器上直接运行代码，无需访问API端点，从而简化了路由处理器的复杂性和样板代码。服务器操作主要用于数据变更，但它们在HTTP请求和响应控制方面有限制，并且只能从Next.js客户端访问。虽然服务器操作在某些情况下可以替代路由处理器，但它们不太可能完全取代它们，因为它们简化了开发者的体验。</description>
+      <pubDate>2024-10-01 12:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #868</title>
+      <link>https://tympanus.net/codrops/collective/collective-868/</link>
+      <description>前端架构基础、原型设计的未来、网页表情符号的悲剧。</description>
+      <pubDate>2024-10-01 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How did we use DBT and BigQuery to manage late arriving web events?</title>
+      <link>https://www.theguardian.com/info/2024/oct/01/how-did-we-use-dbt-and-bigquery-to-manage-late-arriving-web-events</link>
+      <description>本文探讨了如何利用DBT和BigQuery处理迟到的网络事件。通过DBT作为工作流程和数据转换层，BigQuery用于数据存储和查询，实现了每小时刷新数据资产并处理迟到事件。通过优化处理和更新策略，实现了低延迟、高精度和相对低成本的解决方案。</description>
+      <pubDate>2024-10-01 10:04:25</pubDate>
+    </item>
+  
+    <item>
       <title>Docker Compose DNS entries</title>
       <link>https://akrabat.com/docker-compose-dns-entries/</link>
       <description>Docker Compose允许在容器中添加额外的DNS条目。内部条目允许容器间通过域名解析，而外部条目则用于解析不在全局DNS注册表中的域名。通过配置`networks`和`extra_hosts`，可以在容器中实现这些功能。</description>
@@ -45,6 +66,13 @@
       <link>https://developers.redhat.com/articles/2024/10/01/build-container-images-openshift-using-podman-gitlab-runner</link>
       <description>使用Podman在OpenShift中构建容器镜像，通过GitLab runner自动化构建过程，提高效率并降低成本。</description>
       <pubDate>2024-10-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Feeling Free</title>
+      <link>https://thedailywtf.com/articles/feeling-free</link>
+      <description>程序员Remy Porter在文章中讨论了内存安全问题，指出低级内存访问的权力与安全工具的需求之间的权衡。他强调，软件安全文化的发展至关重要，需要建立系统来防止开发者造成实际伤害。</description>
+      <pubDate>2024-10-01 06:30:00</pubDate>
     </item>
   
     <item>
@@ -93,6 +121,13 @@
       <title>Remote user testing with kids &amp; teens</title>
       <link>https://thoughtbot.com/blog/remote-testing-with-kids-teens</link>
       <description>远程用户测试儿童和青少年时，需考虑额外因素。与成人相比，儿童可能感到更加紧张和不适应。建议直接与家长沟通，获取同意，并在测试前发送同意书。测试过程中，保持轻松友好，给予儿童更多鼓励，并注意保护其隐私。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The 2024 Elastic Global Threat Report: Visibility enhanced</title>
+      <link>https://www.elastic.co/blog/elastic-global-threat-report-2024</link>
+      <description>2024年Elastic全球威胁报告揭示了网络安全的主要威胁和趋势，包括攻击者利用现成工具和云环境配置错误，以及凭证访问的增加。报告强调了防御者技术的重要性，并提供了关于恶意软件趋势、对手策略和云安全的具体见解。</description>
       <pubDate>2024-10-01 00:00:00</pubDate>
     </item>
   
