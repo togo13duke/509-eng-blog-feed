@@ -6,6 +6,97 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>OpenAI DevDay 2024 live blog</title>
+      <link>https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/#atom-entries</link>
+      <description>OpenAI DevDay 2024在旧金山举行，重点介绍了o1的更新和应用，包括实时API的发布，支持通过WebSockets实现语音输入输出。新API展示了Wanderlust旅行代理演示的更新版本，使用语音作为输入和输出。</description>
+      <pubDate>2024-10-01 17:17:13</pubDate>
+    </item>
+  
+    <item>
+      <title>What are OpenTelemetry Metrics? A Comprehensive Guide</title>
+      <link>https://last9.io/blog/opentelemetry-metrics/</link>
+      <description>OpenTelemetry（OTel）是一个开源的观测性框架，提供了一种标准化的方式来收集和导出遥测数据。其核心组件包括API和SDK，API提供轻量级的语言特定接口用于代码的检测，而SDK负责处理遥测数据、应用聚合和导出到各种后端。OTel支持多种指标工具，如计数器、上下文计数器和直方图，并具有灵活的聚合系统。它支持多种导出格式和协议，如OTLP、Prometheus和StatsD，并可以与各种观测性工具集成，如Prometheus、Grafana和Jaeger。最佳实践包括使用语义约定、注意指标基数、实施健康检查和监控依赖项。</description>
+      <pubDate>2024-10-01 17:04:53</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: First Solar and its advanced solar panels</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104255/2024-climate-tech-companies-first-solar-advanced-solar-panels/</link>
+      <description>First Solar作为美国最大的太阳能板制造商，正扩大其薄膜太阳能板的生产并开设新工厂以满足激增的需求。公司正投资于钙钛矿，一种被视为未来关键太阳能技术的微小晶体材料。为了提高效率，First Solar正在研究将钙钛矿材料融入其太阳能板中，以实现更高的能源转换效率。尽管面临政策不确定性、供应链挑战和新技术的不稳定性，First Solar仍致力于推动太阳能技术的发展。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Electric Hydrogen and its push to mass-produce a carbon-free fuel</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104296/2024-climate-tech-companies-electric-hydrogen-carbon-free-fuel/</link>
+      <description>Electric Hydrogen公司致力于大规模生产无碳燃料——绿色氢，通过开发大型电解槽降低成本。其电解槽容量是现有设备的10倍，且更高效、更经济。公司已在加州运营两个电解槽工厂，并在马萨诸塞州开设了100兆瓦电解槽工厂。2023年，Electric Hydrogen获得3.8亿美元投资，成为首个估值超过10亿美元的电解槽公司。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Pivot Bio and its nitrogen-delivering microbes</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104307/2024-climate-tech-companies-pivot-bio-nitrogen-microbes/</link>
+      <description>Pivot Bio公司利用基因编辑微生物向作物根部提供精确的氮量，减少气候排放，同时不降低农业产量。其产品可替代部分合成肥料，减少污染，并已在超过500万英亩的土地上使用，有助于减少农业对气候的影响。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Sun King connects low-income households to clean energy</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104312/2024-climate-tech-companies-sun-king-solar-energy/</link>
+      <description>Sun King公司通过提供太阳能产品和服务，帮助亚洲和非洲的低收入家庭获得清洁能源，改善烹饪方式，减少对环境的影响。其创新的“先使用后付费”模式使得清洁能源更加可负担，同时通过碳信用额补贴降低家庭成本。Sun King的目标是减少气候变化的影响，并提高全球能源使用的可持续性。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Ceibo and its copper mining tech</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104318/2024-climate-tech-companies-ceibo-copper-mining/</link>
+      <description>Ceibo公司致力于解决全球铜短缺问题，其创新的低影响提取技术能够从低品位矿石中提取铜，满足清洁能源需求。该公司通过模拟自然微生物群落从硫化矿石中释放铜的方法，提高了铜的回收率。Ceibo计划在未来十年内每年生产一百万吨铜，以帮助减少铜供应缺口。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Rondo Energy and its hot bricks</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104324/2024-climate-tech-companies-rondo-energy-hot-bricks/</link>
+      <description>Rondo Energy利用简单、经济的材料为工厂提供零排放的热能，以替代化石燃料锅炉、熔炉和窑炉。其热电池技术通过电加热铁丝，使砖块升温至高达1500°C，将间歇性可再生能源转化为24/7的热源，有望大幅减少工业生产中的碳排放。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: LanzaJet and its next-generation jet fuel</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104331/2024-climate-tech-companies-lanzajet-saf-next-generation-jet-fuel/</link>
+      <description>LanzaJet公司利用玉米、甘蔗和市政废物等原料，开发下一代航空燃料，以减少航空业对化石燃料的依赖和温室气体排放。该公司已开设全球首个商业规模生产设施，每年可生产多达900万加仑的航空燃料，旨在推动航空业向可持续能源转型。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: BYD and its affordable EVs</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104363/2024-climate-tech-companies-byd-affordable-evs/</link>
+      <description>比亚迪作为全球最大的电动汽车制造商，正积极拓展国际市场。尽管面临品牌认知度和西方监管的挑战，比亚迪通过自产电池和零部件，以及创新的生产线，降低了成本并迅速推出新功能。公司正加速在全球建立工厂，并计划在印尼、匈牙利和土耳其等地生产电动汽车，以扩大其国际市场份额。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Gogoro and its battery-swapping network for electric scooters</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104369/2024-climate-tech-companies-gogoro-battery-swapping-network-electric-scooters/</link>
+      <description>Gogoro公司通过在台湾建立数百个电池交换站，为电动摩托车提供快速充电服务，正扩展至全球市场。其创新技术简化了电池更换过程，提高了电动车的便利性和效率。Gogoro不仅制造电动摩托车和电池，还与全球多家制造商合作，并维护共享电动车的车队。此外，其电池交换站还能作为虚拟电厂，为电网提供备用电源。然而，Gogoro在全球扩张面临挑战，包括资本密集型的基础设施建设、适应不同国家的法规和市场需求等。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104375/2024-climate-tech-companies-pano-ai-fire-detecting-ai/</link>
+      <description>Pano AI利用计算机视觉和高清摄像头，通过快速检测火灾，帮助消防员在火势蔓延前扑灭火灾。该初创公司已在森林、草原等高风险地区安装旋转摄像头网络，通过深度学习系统检测烟雾或其他火灾迹象，并在确认火灾后向消防监测机构提供图像和位置数据，以快速响应。Pano AI的系统已覆盖近2000万英亩土地，并已发现近10万起火灾。</description>
+      <pubDate>2024-10-01 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Misunderstanding the “Prevent access to registry editing tools” policy</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241001-22/?p=110330</link>
+      <description>该策略名为“防止访问注册表编辑工具”，旨在阻止用户运行regedit.exe和reg.exe等工具，而不是阻止对注册表的访问。即使策略被启用，恶意软件仍然可以通过RegSetValue修改注册表值。此策略不影响其他程序，它们仍然可以访问注册表，但需遵守常规规则。</description>
+      <pubDate>2024-10-01 16:10:22</pubDate>
+    </item>
+  
+    <item>
       <title>Cybersecurity spotlight on bug bounty researcher @imrerad</title>
       <link>https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-imrerad/</link>
       <description>GitHub Bug Bounty项目重点介绍安全研究员@imrerad，强调GitHub对软件生态系统安全的承诺，并庆祝GitHub安全漏洞赏金计划十周年。@imrerad分享了他对IT安全的热情、研究方法以及如何保持对漏洞研究的兴趣。他强调与社区合作的重要性，并鼓励研究人员分享发现和工具，以使互联网更安全。</description>
@@ -13,10 +104,24 @@
     </item>
   
     <item>
+      <title>Your Guide to the Apache Flink® Table API: An In-Depth Exploration</title>
+      <link>https://www.confluent.io/blog/getting-started-with-apache-flink-table-api/</link>
+      <description>Apache Flink的Table API是一个统一的关系型API，适用于流和批处理，它允许开发者以声明式的方式使用Java或Python代码表达复杂的数据处理逻辑。该API与Flink SQL紧密集成，支持与DataStream API互操作，适用于各种数据源，如Apache Kafka主题。Table API简化了工作流程，同时保持高性能和灵活性，适用于实时数据流和静态数据集。</description>
+      <pubDate>2024-10-01 15:39:42</pubDate>
+    </item>
+  
+    <item>
       <title>Créer un thème personnalisé pour Firefox</title>
       <link>https://blog.octo.com/creer-un-theme-personnalise-pour-firefox</link>
       <description>创建自定义Firefox主题：本文介绍了如何通过使用userChrome.css文件来深入定制Firefox浏览器的外观和功能。首先，通过Firefox Color工具进行简单定制，然后通过启用高级设置和开发工具来进一步定制。最后，通过编辑userChrome.css文件来应用CSS规则，实现个性化的主题设计。</description>
       <pubDate>2024-10-01 15:03:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing new features for the Threads API</title>
+      <link>https://developers.facebook.com/blog/post/2024/10/01/threads-api-new-features/</link>
+      <description>Threads API新增功能，包括实时通知、支持更多图片和视频、链接附件、辅助视觉障碍用户、与fediverse共享，并推出Postman API平台支持。</description>
+      <pubDate>2024-10-01 14:30:00</pubDate>
     </item>
   
     <item>
@@ -76,6 +181,13 @@
     </item>
   
     <item>
+      <title>Streaming now enabled by default for all Node.js Vercel Functions</title>
+      <link>https://vercel.com/changelog/streaming-now-enabled-by-default-for-all-node-js-vercel-functions</link>
+      <description>Vercel已默认为所有Node.js Vercel Functions启用流式传输，使团队能够以更快的速度部署。这一变化意味着函数可以即时向客户端发送数据，无需等待整个响应完成。流式传输的启用将影响日志格式和频率，因此需要检查日志处理管道。更多信息和部署指南可在Vercel博客和文档中找到。</description>
+      <pubDate>2024-10-01 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Docker Best Practices: Using Tags and Labels to Manage Docker Image Sprawl</title>
       <link>https://www.docker.com/blog/docker-best-practices-using-tags-and-labels-to-manage-docker-image-sprawl/</link>
       <description>Docker最佳实践：使用标签和标签来管理Docker镜像膨胀。文章讨论了如何通过使用标签和标签来管理Docker镜像的版本和元数据，以避免混乱和潜在的生产问题。通过使用语义版本控制标签和标签指令，可以确保图像的版本和元数据得到正确记录和管理。</description>
@@ -122,6 +234,13 @@
       <link>https://tympanus.net/codrops/collective/collective-868/</link>
       <description>前端架构基础、原型设计的未来、网页表情符号的悲剧。</description>
       <pubDate>2024-10-01 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elevate Your 2025 Social Media Strategy with These 5 Trends</title>
+      <link>https://s14415.pcdn.co/blog/top-social-media-marketing-trends/</link>
+      <description>2025年社交媒体营销五大趋势：品牌仅发起1%的讨论，消费者情绪行业差异大，限量产品提升品牌可见度，财务压力影响各行业，顾客分享创造更好体验的机会。</description>
+      <pubDate>2024-10-01 10:56:28</pubDate>
     </item>
   
     <item>
