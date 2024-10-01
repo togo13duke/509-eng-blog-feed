@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Docker Compose DNS entries</title>
+      <link>https://akrabat.com/docker-compose-dns-entries/</link>
+      <description>Docker Compose允许在容器中添加额外的DNS条目。内部条目允许容器间通过域名解析，而外部条目则用于解析不在全局DNS注册表中的域名。通过配置`networks`和`extra_hosts`，可以在容器中实现这些功能。</description>
+      <pubDate>2024-10-01 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why bigger is not always better in AI</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104744/why-bigger-is-not-always-better-in-ai/</link>
+      <description>人工智能领域，并非规模越大越好。大型模型虽然强大，但存在数据收集问题、碳足迹大、成本高昂等问题。新研究显示，小型模型也能达到类似性能，且资源消耗更少。这表明，我们不需要大规模的数据集和模型，而是应该关注模型的实际应用和效率。</description>
+      <pubDate>2024-10-01 09:02:18</pubDate>
+    </item>
+  
+    <item>
+      <title>The coolest thing about smart glasses is not the AR. It’s the AI.</title>
+      <link>https://www.technologyreview.com/2024/10/01/1104581/the-coolest-thing-about-smart-glasses-is-not-the-ar-its-the-ai/</link>
+      <description>智能眼镜的核心魅力不在于增强现实（AR），而是人工智能（AI）。Meta和Snap的最新智能眼镜展示了令人印象深刻的视觉和手势控制功能，但真正吸引人的是它们如何无缝地与AI互动，使日常生活中的信息获取和互动更加便捷。这种多模态AI技术将彻底改变我们与世界互动的方式，就像智能手机一样。</description>
+      <pubDate>2024-10-01 08:11:38</pubDate>
+    </item>
+  
+    <item>
       <title>eBay Announces Free Selling in the UK</title>
       <link>https://www.ebayinc.com/stories/news/ebay-announces-free-selling-in-the-uk/</link>
       <description>eBay宣布在英国取消消费者对消费者（C2C）卖家在国内交易的所有类别（除汽车外）的出售费用，并推出一系列改进措施，包括简化列表流程、简化配送、改进本地取货体验和增强钱包功能。这一举措旨在降低C2C销售的门槛，增加库存的广度和深度，并提高客户满意度。</description>
@@ -59,6 +80,13 @@
       <link>https://eli.thegreenplace.net/2024/summary-of-reading-july-september-2024/</link>
       <description>2024年7月至9月，作者Eli Bendersky阅读了多本不同领域的书籍，包括科幻、历史、科学和文学。他评价了《火星上的城市》对太空探索的探讨过于政治化，而《图书馆中的你寻找之物》则是一部关于普通人在日本生活的温馨短篇小说集。他还讨论了《识别误导性科学》在科学普及方面的不足，以及《虚数的故事》在数学和科学普及之间的独特定位。《基因编辑的竞争》和《动物感知的广阔世界》等书籍也引起了他的兴趣。此外，他还回顾了经典作品如《蒙田法典》和《基督山伯爵》。</description>
       <pubDate>2024-10-01 00:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Evolution of Catwalk: Model serving platform at Grab</title>
+      <link>https://engineering.grab.com/catwalk-evolution</link>
+      <description>Grab的Catwalk平台是一个不断进化的机器学习模型服务解决方案，旨在支持其庞大的业务需求。从最初的零代码、托管平台到现在的自托管、流程管理平台，Catwalk通过多个阶段的发展，实现了从8个模型到300个模型的增长，并支持多种框架。未来，Grab将继续扩展Catwalk的功能，以支持无服务器模型服务、数据在线服务和大型语言模型。</description>
+      <pubDate>2024-10-01 00:00:50</pubDate>
     </item>
   
     <item>
