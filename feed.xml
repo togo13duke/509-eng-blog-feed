@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>eBay Announces Free Selling in the UK</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-announces-free-selling-in-the-uk/</link>
+      <description>eBay宣布在英国取消消费者对消费者（C2C）卖家在国内交易的所有类别（除汽车外）的出售费用，并推出一系列改进措施，包括简化列表流程、简化配送、改进本地取货体验和增强钱包功能。这一举措旨在降低C2C销售的门槛，增加库存的广度和深度，并提高客户满意度。</description>
+      <pubDate>2024-10-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What Is API Developer Experience?</title>
+      <link>https://nordicapis.com/what-is-api-developer-experience/</link>
+      <description>API开发者体验（DX）是指开发者在使用API时的体验，包括从入门到集成、测试和维护的整个过程。优质DX能提高用户参与度、增加注册量，并提升API产品。本文探讨了如何优化API开发者体验，包括提供详尽的文档、自助服务能力、稳定性、向后兼容性以及代码生成等。同时，文章也指出了常见的开发者体验问题，如缺乏文档、可发现性差、缺乏时间和知识等，并强调了开发者体验对提高开发敏捷性、生产力和整体满意度的重要性。</description>
+      <pubDate>2024-10-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build container images in OpenShift using Podman as a GitLab runner</title>
+      <link>https://developers.redhat.com/articles/2024/10/01/build-container-images-openshift-using-podman-gitlab-runner</link>
+      <description>使用Podman在OpenShift中构建容器镜像，通过GitLab runner自动化构建过程，提高效率并降低成本。</description>
+      <pubDate>2024-10-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Magic Cauldron: Harry Potter Themed Gender Reveal Party</title>
+      <link>https://lifepluslinux.blogspot.com/2024/09/magic-cauldron-harry-potter-themed.html</link>
+      <description>今年，作者举办了一场有趣的哈利波特主题性别揭晓派对。派对中，作者制作了一个魔法大锅，通过干冰和LED灯阵来揭晓宝宝的性别。派对包括雾气效果、LED灯光编排和房间灯光效果，旨在创造一个独特的揭晓体验。</description>
+      <pubDate>2024-10-01 06:22:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A developer works to balance the data center boom with his climate change battle</title>
+      <link>https://stackoverflow.blog/2024/10/01/david-mytton-arcjet-console-dev-newsletter-podcast/</link>
+      <description>David Mytton，Arcjet CEO和Console.dev联合创始人，在云监控领域早期工作，对环境充满热情，并热爱分享优秀的开发者工具。</description>
+      <pubDate>2024-10-01 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Shinrin-yoku: Our 7 Favorite Forest Sayings In Other Languages</title>
       <link>https://www.babbel.com/en/magazine/nature-trees-vocabulary</link>
       <description>秋天是体验森林浴的绝佳季节，森林浴（shinrin-yoku）是一种通过在森林中散步来放松身心、净化心灵的活动。研究表明，呼吸树木的香气有助于降低血压、缓解压力、改善睡眠和提升创造力。全球有许多适合体验森林浴的地方，如京都的竹林、哥斯达黎加的云雾林、加利福尼亚的红杉林等。</description>
