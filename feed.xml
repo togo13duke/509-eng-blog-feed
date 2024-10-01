@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why I’m leaving Medium: AI policy</title>
+      <link>https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c?source=rss-f2f00cd05fc0------2</link>
+      <description>我决定离开Medium，因为我无法接受其AI政策。我反对AI，认为它是对人类的侮辱，并可能导致我们的衰落。Medium的政策允许AI辅助写作，甚至AI生成的图像，这让我感到失望。我无法支持一个在写作平台上容忍AI内容的平台。</description>
+      <pubDate>2024-09-30 22:32:45</pubDate>
+    </item>
+  
+    <item>
       <title>Systems used by courts and governments across the US riddled with vulnerabilities</title>
       <link>https://arstechnica.com/?p=2053460</link>
       <description>美国法院和政府使用的系统存在大量漏洞，这些漏洞可能导致攻击者篡改选民登记数据库和官方文件。安全研究员Jason Parker发现，至少19个商业平台存在关键漏洞，影响了数百个法院、政府机构和警察部门。这些漏洞主要源于权限控制薄弱、用户输入验证不良和认证过程有误。Parker呼吁对系统进行渗透测试和软件审计，并加强员工培训，特别是IT部门员工，以增强系统安全性。</description>
@@ -255,6 +262,13 @@
       <title>How to use RHEL as a WSL Podman machine</title>
       <link>https://developers.redhat.com/articles/2024/09/30/rhel-windows-wsl-podman-machine</link>
       <description>本文介绍了如何将Red Hat Enterprise Linux (RHEL)作为Windows Subsystem for Linux (WSL)的Podman机器使用。文章详细说明了所需的步骤，包括安装必要的软件包、构建RHEL WSL镜像，并在Podman Desktop中创建和使用该镜像。</description>
+      <pubDate>2024-09-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>eBay UK Announces It Is Now Free to Sell Across Its Categories</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-uk-announces-it-is-now-free-to-sell-across-its-categories/</link>
+      <description>eBay UK宣布对所有类别（除汽车外）的私人卖家免除销售费用，以简化销售流程并提高安全性。新功能包括简化列表、eBay余额、简单配送和本地服务，旨在为卖家提供更便捷的购物体验。此举预计将释放英国家庭中约2.94亿件未使用的物品，创造超过90亿英镑的再销售收入。</description>
       <pubDate>2024-09-30 07:00:00</pubDate>
     </item>
   
