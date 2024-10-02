@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Europa Clipper set to look for life-friendly conditions around Jupiter</title>
+      <link>https://www.technologyreview.com/2024/10/02/1104818/europa-clipper-set-to-look-for-life-friendly-conditions-around-jupiter/</link>
+      <description>NASA的欧罗巴快船号探测器即将发射，旨在寻找木卫二上可能的生命友好条件。该探测器将在2030年抵达木卫二，通过一系列飞越研究其表面和内部可能存在的液态海洋。尽管之前遇到了电子故障问题，但经过测试和修复，探测器已准备就绪，预计将在2024年10月10日从佛罗里达州的肯尼迪航天中心发射。</description>
+      <pubDate>2024-10-02 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Federico Pian Portfolio — 2024</title>
+      <link>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</link>
+      <description>Federico Pian分享了他如何使用Nuxt、GSAP和TresJs构建2024年个人作品集的经验，包括设计灵感、动画技术和页面过渡。他详细介绍了开发过程，包括技术栈选择、页面过渡实现和文本动画效果，以及如何通过键盘完全导航整个网站。</description>
+      <pubDate>2024-10-02 08:54:14</pubDate>
+    </item>
+  
+    <item>
       <title>FAIRPLAY: Research program to Optimize Fair &amp; Private Interactions between ML Agents in AI Marketpla</title>
       <link>https://techblog.criteo.com/fairplay-research-program-to-optimize-fair-private-interactions-between-ml-agents-in-ai-marketpla-89a8e99a7eb2?source=rss----fc3ea5a64a12---4</link>
       <description>FAIRPLAY项目由Criteo R&amp;D、Inria和ENSAAE共同发起，旨在优化机器学习代理在AI市场中的公平和隐私交互。该项目通过结合博弈论、经济学、在线和深度强化学习等技术，致力于开发既高效又公平的机器学习算法，以解决多代理环境中的公平性和隐私问题。</description>
