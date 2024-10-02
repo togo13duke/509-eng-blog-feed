@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>PyTorch machine learning models on Android</title>
+      <link>http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html</link>
+      <description>本文介绍了如何在Android设备上使用PyTorch机器学习模型。通过Google AI Edge工具，开发者可以将PyTorch模型转换为在Android上运行，并使用MediaPipe Tasks和LiteRT库。文章提供了将MobileViT模型用于图像分类的示例，并指导如何将模型集成到Android应用中。</description>
+      <pubDate>2024-10-02 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Structured DataStore (SDS): Multi-model Data Management With a Unified Serving Stack</title>
+      <link>https://medium.com/pinterest-engineering/structured-datastore-sds-multi-model-data-management-with-a-unified-serving-stack-e628f8081971?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest的工程师团队介绍了其数据管理平台Structured DataStore (SDS)的构建，该平台通过统一的多模型查询服务堆栈，实现了从支持多种查询服务堆栈到提供统一数据模型的转变。SDS负责数据生命周期管理的多个方面，包括在线查询服务、离线查询服务、数据流、成本归因和分析、目录/元数据管理、安全和审计性以及工具。该平台通过定义独立于数据存储技术的数据结构，提供了一种新的查询语言和结果格式，以实现不同API和数据存储技术之间的共享。</description>
+      <pubDate>2024-10-02 18:34:29</pubDate>
+    </item>
+  
+    <item>
+      <title>How Talking Over A Wall Changed My Direction As A Programmer</title>
+      <link>https://thecodist.com/how-talking-over-a-wall-changed-my-direction-as-a-programmer/</link>
+      <description>1981年，作者在一家大型国防承包商开始了他的编程生涯。一次偶然的机会，他与“微型计算机组”的成员交流，并受邀参加一个关于在Apple II上构建电子邮件应用程序的会议。这个任务不仅改变了他的职业方向，还让他成为世界上最大的国防承包商中唯一的PC程序员。最终，他决定专注于编程，并创立了自己的公司。15年后，他再次遇到那位经理，并回忆起这段改变他一生的经历。</description>
+      <pubDate>2024-10-02 18:21:51</pubDate>
+    </item>
+  
+    <item>
       <title>React at Meta Connect 2024</title>
       <link>https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/</link>
       <description>Meta Connect 2024上，Meta展示了使用React和React Native开发的创新项目。这些项目包括为Meta Quest重建的Instagram和Facebook应用，以及新的Meta Horizon移动应用和Meta Spatial Editor。Meta强调React和React Native在提高开发效率、性能和用户体验方面的作用，并分享了与开源社区的合作成果。</description>
