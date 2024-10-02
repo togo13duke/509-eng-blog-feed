@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Instantly Convert Your Adobe Designs to Canva</title>
+      <link>https://spin.atomicobject.com/convert-adobe-designs-canva/</link>
+      <description>Canva是一个直观的云设计平台，让非设计师也能轻松设计。它由Melanie Perkins创立，估值超过260亿美元，是女性创立和领导的最大初创公司。Canva的免费和付费服务帮助用户从Adobe等传统设计工具中切换，提供大量模板和AI工具，降低设计门槛。Canva团队许可费用远低于Adobe，为个人和小型企业节省大量成本。</description>
+      <pubDate>2024-10-02 12:00:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Join us this Hacktoberfest</title>
+      <link>https://www.digitalocean.com/blog/join-us-for-hacktoberfest-2024</link>
+      <description>DigitalOcean主办的Hacktoberfest活动已进入第11年，鼓励开发者参与开源项目。活动自2014年起，从一个小型的黑客马拉松发展成为一个全球性的虚拟活动，吸引了成千上万的开发者参与。Hacktoberfest不仅促进了开源项目的参与，还帮助开发者学习新技能、交流经验。DigitalOcean致力于支持开发者社区，通过提供工具和资源，让开发者能够创造更多优秀的软件。</description>
+      <pubDate>2024-10-02 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using HBase Quotas to Share Resources at Scale</title>
+      <link>https://product.hubspot.com/blog/hbase-share-resources</link>
+      <description>HubSpot通过HBase配额管理资源使用，以应对高并发请求。文章介绍了HBase配额的设置和优化，包括启用配额、配置默认用户配额、自定义退避策略等，旨在防止资源滥用和性能瓶颈，确保系统稳定性和可靠性。</description>
+      <pubDate>2024-10-02 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: A Guide to Modern Python String Formatting Tools</title>
+      <link>https://realpython.com/quizzes/python-formatted-output/</link>
+      <description>本指南介绍了现代Python字符串格式化工具，包括f-strings和.format()方法。通过阅读教程，读者可以测试自己对Python字符串格式化工具的理解，并通过一个包含10个问题的互动测验来检验学习成果。</description>
+      <pubDate>2024-10-02 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Europa Clipper set to look for life-friendly conditions around Jupiter</title>
+      <link>https://www.technologyreview.com/2024/10/02/1104818/europa-clipper-set-to-look-for-life-friendly-conditions-around-jupiter/</link>
+      <description>NASA的欧罗巴快船号探测器即将发射，旨在寻找木卫二上可能的生命友好条件。该探测器将在2030年抵达木卫二，通过一系列飞越研究其表面和内部可能存在的液态海洋。尽管之前遇到了电子故障问题，但经过测试和修复，探测器已准备就绪，预计将在2024年10月10日从佛罗里达州的肯尼迪航天中心发射。</description>
+      <pubDate>2024-10-02 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Federico Pian Portfolio — 2024</title>
+      <link>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</link>
+      <description>Federico Pian分享了他如何使用Nuxt、GSAP和TresJs构建2024年个人作品集的经验，包括设计灵感、动画技术和页面过渡。他详细介绍了开发过程，包括技术栈选择、页面过渡实现和文本动画效果，以及如何通过键盘完全导航整个网站。</description>
+      <pubDate>2024-10-02 08:54:14</pubDate>
+    </item>
+  
+    <item>
       <title>FAIRPLAY: Research program to Optimize Fair &amp; Private Interactions between ML Agents in AI Marketpla</title>
       <link>https://techblog.criteo.com/fairplay-research-program-to-optimize-fair-private-interactions-between-ml-agents-in-ai-marketpla-89a8e99a7eb2?source=rss----fc3ea5a64a12---4</link>
       <description>FAIRPLAY项目由Criteo R&amp;D、Inria和ENSAAE共同发起，旨在优化机器学习代理在AI市场中的公平和隐私交互。该项目通过结合博弈论、经济学、在线和深度强化学习等技术，致力于开发既高效又公平的机器学习算法，以解决多代理环境中的公平性和隐私问题。</description>
@@ -31,6 +73,13 @@
       <link>https://developers.redhat.com/articles/2024/10/02/migrate-eventlet-projects-asyncio</link>
       <description>Eventlet库因长期缺乏维护而即将退役，Python社区应迁移至Asyncio。Asyncio是CPython的非阻塞行为现代实现，并包含在CPython标准库中。迁移过程包括使用新的Eventlet hub asyncio，逐步将代码迁移到Asyncio。对于大型项目，可以使用Awaitlet项目混合同步和异步代码，避免全面重写。</description>
       <pubDate>2024-10-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Join or Die</title>
+      <link>https://thedailywtf.com/articles/join-or-die</link>
+      <description>Remy Porter在《Daily WTF》上分享了一篇关于糟糕代码的文章。文章中，他分析了某段旧代码，该代码自2011年以来一直被使用，尽管多次尝试替换，但由于其功能不明确，每次替换都未能完全满足需求。代码中存在大量魔法数字和错误的数据库操作，导致性能低下。尽管如此，这段代码因其业务需求而得以保留。</description>
+      <pubDate>2024-10-02 06:30:00</pubDate>
     </item>
   
     <item>
@@ -346,6 +395,13 @@
       <link>https://freek.dev/2767-a-guide-to-laravel-pipelines</link>
       <description>Laravel Pipelines指南：本文介绍了如何使用Laravel的Pipeline类将复杂的工作流程分解为更小的、独立的、专注的过程，并探讨了如何测试Laravel管道。</description>
       <pubDate>2024-10-01 12:19:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Revolutionizing Edge AI</title>
+      <link>https://blog.palantir.com/revolutionizing-edge-ai-c94742175ce1?source=rss----3c87dc14372f---4</link>
+      <description>Palantir与Edgescale AI合作，推出Live Edge平台，将云原生软件扩展到边缘计算，以解决物理系统中的AI应用难题。该平台结合了Palantir的Edge AI产品和Edgescale的虚拟连接边缘云，实现AI在物理边缘生态系统的应用，助力制造业、医疗保健等行业实现智能化升级。</description>
+      <pubDate>2024-10-01 12:18:37</pubDate>
     </item>
   
     <item>
