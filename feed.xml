@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>OpenAI is now valued at $157 billion</title>
+      <link>https://arstechnica.com/ai/2024/10/openai-is-now-valued-at-157-billion/</link>
+      <description>OpenAI在最新一轮融资中估值达到1570亿美元，几乎是之前860亿美元的近两倍。投资方包括Thrive Capital、微软、软银和英伟达等。然而，投资者有权在OpenAI未完成从非营利组织向营利性公司转型时撤资。尽管面临竞争，OpenAI的用户基础迅速增长，拥有约2.5亿周活跃用户和1100万付费订阅者。</description>
+      <pubDate>2024-10-02 19:56:31</pubDate>
+    </item>
+  
+    <item>
       <title>PyTorch machine learning models on Android</title>
       <link>http://android-developers.googleblog.com/2024/10/pytorch-machine-learning-models-on-android.html</link>
       <description>本文介绍了如何在Android设备上使用PyTorch机器学习模型。通过Google AI Edge工具，开发者可以将PyTorch模型转换为在Android上运行，并使用MediaPipe Tasks和LiteRT库。文章提供了将MobileViT模型用于图像分类的示例，并指导如何将模型集成到Android应用中。</description>
