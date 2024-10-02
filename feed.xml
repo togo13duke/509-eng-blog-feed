@@ -6,10 +6,66 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Vector Data Editor revamped</title>
+      <link>https://www.maptiler.com/news/2024/10/vector-data-editor-revamped</link>
+      <description>MapTiler更新了Vector Data Editor，简化了地图制作和数据发布流程。新编辑器具有改进的用户界面、搜索和添加功能，支持多种数据格式，并允许协作编辑。用户可以轻松导入卫星图像、进行数据可视化，并通过JavaScript库直接在地图上展示数据。</description>
+      <pubDate>2024-10-02 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>rsync&nbsp;Command in Linux with Examples</title>
+      <link>https://linuxblog.io/rsync-command-in-linux-with-examples/</link>
+      <description>本文介绍了Linux中rsync命令的用法，包括基本语法、常用选项和实际应用示例。rsync是一个强大的文件同步工具，适用于备份、远程文件传输和目录同步，支持增量传输、压缩和权限保留等功能。通过示例，读者可以学习如何使用rsync进行基本文件同步、通过SSH同步文件、排除文件和目录、恢复中断的传输、删除目标中的文件、在本地和远程系统之间同步文件以及备份目录等操作。</description>
+      <pubDate>2024-10-01 22:45:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Build Compound AI Systems Faster with Databricks Mosaic AI</title>
+      <link>https://www.databricks.com/blog/build-compound-ai-systems-faster-databricks-mosaic-ai</link>
+      <description>Databricks Mosaic AI推出新功能，简化构建复杂推理和执行任务的AI代理过程。这些功能包括连接LLMs与企业数据、快速实验和评估代理、无缝过渡到生产环境、持续监控和评估LLMs和代理。Mosaic AI提供完整的工具链，用于管理、实验、部署和改进复合AI系统，包括集中治理工具和代理的Unity Catalog、AI Playground的快速实验、以及模型服务的简单部署。</description>
+      <pubDate>2024-10-01 22:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>From Generalists to Specialists: The Evolution of AI Systems toward Compound AI</title>
+      <link>https://www.databricks.com/blog/generalists-specialists-evolution-ai-systems-toward-compound-ai</link>
+      <description>人工智能系统正从单一模型向复合模型进化，结合多个模型和工具解决复杂问题。这种复合AI系统类似于微服务架构，将任务分解为特定领域的小部分，提高效率和准确性。Databricks Mosaic AI平台提供构建生产级复合AI系统的工具，通过集成多个AI模型和数据检索系统，帮助企业实现更灵活、高效和强大的AI解决方案。</description>
+      <pubDate>2024-10-01 21:09:20</pubDate>
+    </item>
+  
+    <item>
+      <title>An Introduction to Privacy and Safety for Gemini Nano</title>
+      <link>http://android-developers.googleblog.com/2024/10/introduction-to-privacy-and-safety-gemini-nano.html</link>
+      <description>Gemini Nano是Google的Gemini系列中最高效的模型，专为Android设备上的离线AI推理而设计。它通过AICore系统服务提供隐私保护，确保模型的安全执行。文章介绍了Gemini Nano如何与AICore协同工作，以提供强大的设备端AI功能，同时优先考虑用户的隐私和安全。通过Private Compute Core (PCC)和数据处理隔离，Gemini Nano确保数据隐私，并通过多层安全措施确保AI的可靠性。</description>
+      <pubDate>2024-10-01 20:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Integrating Azure DevOps Pipelines with HashiCorp Vault</title>
       <link>https://www.hashicorp.com/blog/integrating-azure-devops-pipelines-with-hashicorp-vault</link>
       <description>本文介绍了如何将Azure DevOps管道与HashiCorp Vault集成，利用Microsoft Azure DevOps的工作负载身份联合（WIF）功能，实现无密码、基于OpenID Connect标准的认证，简化了Azure DevOps与Azure之间的信任建立，并解决了之前集成中存在的秘密泄露问题。通过Terraform配置，可以自动化设置服务连接和HashiCorp Vault的配置，从而实现更高效的安全数据管理。</description>
       <pubDate>2024-10-01 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Crook made millions by breaking into execs’ Office365 inboxes, feds say</title>
+      <link>https://arstechnica.com/?p=2053721</link>
+      <description>一名男子通过入侵上市公司高管Office365邮箱，提前获取季度财务报告进行股票交易，非法获利数百万美元。他利用密码重置机制入侵五家上市公司的电子邮件账户，并在某些情况下设置了自动转发规则。他被指控证券欺诈、电讯欺诈和计算机欺诈，面临最高20年监禁和罚款。</description>
+      <pubDate>2024-10-01 19:40:59</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI unveils easy voice assistant creation at 2024 developer event</title>
+      <link>https://arstechnica.com/?p=2053625</link>
+      <description>OpenAI在2024年开发者大会上发布了四个主要API更新，使开发者能够轻松地将AI模型集成到产品中。新推出的实时API支持语音到语音的对话，并简化了语音助手创建过程。此外，公司还推出了模型精炼和提示缓存功能，以降低成本并提高效率。</description>
+      <pubDate>2024-10-01 19:16:14</pubDate>
+    </item>
+  
+    <item>
+      <title>Employee confidential: We asked workers how they really feel about workplace norms</title>
+      <link>https://www.surveymonkey.com/curiosity/employee-confidential-we-asked-workers-how-they-really-feel-about-workplace-norms/?ut_source=rss</link>
+      <description>美国职场现状调查：调查显示，求职者面临被“冷处理”的问题，53%的求职者在面试后被“冷落”。员工希望有弹性工作时间、积极反馈和解决问题，以提升满意度。远程工作面临断开连接和孤立等挑战，但节省的通勤时间被用于锻炼和家庭时间。不同代际在求职和电子邮件结束语方面存在差异。</description>
+      <pubDate>2024-10-01 19:13:15</pubDate>
     </item>
   
     <item>
@@ -23,6 +79,13 @@
       <title>Announcing the stable release of the official OpenAI library for .NET</title>
       <link>https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/</link>
       <description>.NET团队宣布了官方OpenAI库的稳定版发布，该库使开发者能够轻松将OpenAI的先进AI模型集成到.NET应用程序中。该库支持OpenAI的REST API，包括最新的GPT-4o等模型，并具有同步和异步API、流式完成等功能，确保与OpenAI和Azure OpenAI服务的无缝集成。</description>
+      <pubDate>2024-10-01 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Gemini Nano is now available on Android via experimental access</title>
+      <link>http://android-developers.googleblog.com/2024/10/gemini-nano-experimental-access-available-on-android.html</link>
+      <description>Gemini Nano，谷歌最新一代的模型，现可通过实验性访问在Android设备上使用。该模型专为设备任务设计，具有快速、私有和成本效益的特点，适用于各种用例，如文本重写、智能回复和校对。开发者可通过AI Edge SDK和AICore进行实验，并使用AI Edge SDK自定义提示和推理参数。</description>
       <pubDate>2024-10-01 19:00:00</pubDate>
     </item>
   
@@ -450,6 +513,13 @@
       <title>Introducing Stripe’s new API release process</title>
       <link>https://stripe.com/blog/introducing-stripes-new-api-release-process</link>
       <description>Stripe推出新的API发布流程，结合每半年一次的重大更新和每月的功能增强，提供可预测的发布时间表，以帮助开发者更好地规划工程路线图。新版本Acacia引入了新的命名和版本控制方法，同时更新了开发者变更日志，以便更清晰地了解每个版本的变化。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Count Git Blame Lines on Current Files</title>
+      <link>https://jaketrent.com/post/count-blame-lines-current-files</link>
+      <description>本文介绍了如何通过Git命令统计当前文件中每位作者的代码行数。此方法不涉及总行数的增减，也不处理已删除的文件，仅统计最新提交的作者及其行数。通过在仓库根目录创建一个名为blame.sh的脚本，并执行该脚本，可以查看每位作者的代码行数。</description>
       <pubDate>2024-10-01 00:00:00</pubDate>
     </item>
   
