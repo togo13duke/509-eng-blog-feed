@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>FAIRPLAY: Research program to Optimize Fair &amp; Private Interactions between ML Agents in AI Marketpla</title>
+      <link>https://techblog.criteo.com/fairplay-research-program-to-optimize-fair-private-interactions-between-ml-agents-in-ai-marketpla-89a8e99a7eb2?source=rss----fc3ea5a64a12---4</link>
+      <description>FAIRPLAY项目由Criteo R&amp;D、Inria和ENSAAE共同发起，旨在优化机器学习代理在AI市场中的公平和隐私交互。该项目通过结合博弈论、经济学、在线和深度强化学习等技术，致力于开发既高效又公平的机器学习算法，以解决多代理环境中的公平性和隐私问题。</description>
+      <pubDate>2024-10-02 07:03:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Nilo Velez: Making, nurturing, and capturing memories</title>
+      <link>https://www.hostinger.com/blog/nilo-velez</link>
+      <description>尼诺·维莱兹是一位拥有超过二十年网站制作经验的资深网络开发者，他对WordPress平台充满热情，并积极参与西班牙WordPress社区。尼诺不仅擅长网站开发，还涉足多媒体开发，并在系统管理、媒体集成、设计和视频编辑等方面不断自我提升。他创建了Machete插件，为WordPress用户提供实用工具。尼诺在多个WordPress团队中活跃，包括Polyglots、Photos、Community和TV，致力于翻译、图像、社区建设和视频档案等工作，为WordPress社区的发展做出了重要贡献。</description>
+      <pubDate>2024-10-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking Insurance’s Potential with APIs</title>
+      <link>https://nordicapis.com/unlocking-insurances-potential-with-apis/</link>
+      <description>APIs在保险领域的应用潜力巨大，能提升运营效率、个性化体验和产品创新。通过数据整合，保险公司能提供更精准的报价和风险管理。APIs还能简化流程，如自动化风险评估、报价和理赔处理，使保险公司更高效。此外，APIs还促进了与第三方服务提供商的合作，创造了新的收入机会。总之，APIs正推动保险行业的数字化转型，提升客户体验和业务效率。</description>
+      <pubDate>2024-10-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to migrate your Eventlet projects to Asyncio</title>
+      <link>https://developers.redhat.com/articles/2024/10/02/migrate-eventlet-projects-asyncio</link>
+      <description>Eventlet库因长期缺乏维护而即将退役，Python社区应迁移至Asyncio。Asyncio是CPython的非阻塞行为现代实现，并包含在CPython标准库中。迁移过程包括使用新的Eventlet hub asyncio，逐步将代码迁移到Asyncio。对于大型项目，可以使用Awaitlet项目混合同步和异步代码，避免全面重写。</description>
+      <pubDate>2024-10-02 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Vector Data Editor revamped</title>
       <link>https://www.maptiler.com/news/2024/10/vector-data-editor-revamped</link>
       <description>MapTiler更新了Vector Data Editor，简化了地图制作和数据发布流程。新编辑器具有改进的用户界面、搜索和添加功能，支持多种数据格式，并允许协作编辑。用户可以轻松导入卫星图像、进行数据可视化，并通过JavaScript库直接在地图上展示数据。</description>
@@ -16,6 +44,13 @@
       <title>This Week in Open Source</title>
       <link>https://thoughtbot.com/blog/this-week-in-open-source-july-2024</link>
       <description>This week's open source update includes a variety of improvements across thoughtbot's projects. Highlights include updates to the design system, Flightdeck, GoldMiner, and documentation templates, as well as the introduction of dynamic SECURITY.md files across multiple repositories. The team also focused on enhancing the CODEOWNERS files for infrastructure projects and contributed to various open source initiatives.</description>
+      <pubDate>2024-10-02 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Handle Twilio Webhooks With Go and DigitalOcean Functions</title>
+      <link>https://www.twilio.com/en-us/blog/twilio-webhooks-go-digitalocean-functions</link>
+      <description>本文介绍了如何使用Go语言和DigitalOcean Functions处理Twilio Webhooks。通过Twilio Webhooks，可以实时接收Twilio账户的各种事件通知。结合DigitalOcean Functions，可以高效地处理这些Webhooks，并根据Webhook数据执行自定义操作。教程中详细说明了创建DigitalOcean Function的步骤，包括初始化、配置和部署。</description>
       <pubDate>2024-10-02 00:00:00</pubDate>
     </item>
   
@@ -541,6 +576,34 @@
       <title>Count Git Blame Lines on Current Files</title>
       <link>https://jaketrent.com/post/count-blame-lines-current-files</link>
       <description>本文介绍了如何通过Git命令统计当前文件中每位作者的代码行数。此方法不涉及总行数的增减，也不处理已删除的文件，仅统计最新提交的作者及其行数。通过在仓库根目录创建一个名为blame.sh的脚本，并执行该脚本，可以查看每位作者的代码行数。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building Conversational AI Applications with Twilio and the OpenAI Realtime API</title>
+      <link>https://www.twilio.com/en-us/blog/twilio-openai-realtime-api-launch-integration</link>
+      <description>Twilio与OpenAI合作，将OpenAI的实时API集成到Twilio平台，使客户和开发者能够利用OpenAI的GPT-4o模型构建强大的对话式AI应用。通过提供教程、示例应用和集成资源，Twilio帮助用户开始构建具有人类对话体验的AI应用。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build an AI Voice Assistant with Twilio Voice, OpenAI’s Realtime API, and Node.js</title>
+      <link>https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-node</link>
+      <description>使用Twilio语音、OpenAI实时API和Node.js构建AI语音助手，实现语音到语音的实时对话，提高对话流畅性。教程详细介绍了如何设置项目、安装依赖、编写代码，实现Twilio和OpenAI之间的WebSocket连接代理，从而构建一个能够处理语音输入并返回语音输出的AI语音助手。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build an AI Voice Assistant with Twilio Voice, OpenAI’s Realtime API, and Python</title>
+      <link>https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-python</link>
+      <description>Twilio与OpenAI合作，利用Twilio Voice和OpenAI实时API，通过Python和FastAPI框架构建AI语音助手。该助手可处理语音通话，实现语音到语音的转换，提供流畅的AI对话体验。教程详细介绍了如何设置项目、安装依赖项、编写服务器代码，并提供了预构建应用程序。</description>
+      <pubDate>2024-10-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Live Translation with Twilio and OpenAI’s Realtime API</title>
+      <link>https://www.twilio.com/en-us/blog/live-translation-contact-center-openai-realtime-api</link>
+      <description>Twilio与OpenAI合作，将OpenAI的实时API集成到Twilio平台，实现实时语音翻译。此功能可帮助呼叫中心提供自动化的多语言支持，无需人工翻译，提高客户服务质量和效率。通过实时翻译，不同语言的参与者可以直接进行交流，消除语言障碍。</description>
       <pubDate>2024-10-01 00:00:00</pubDate>
     </item>
   
