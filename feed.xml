@@ -6,9 +6,102 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Let's hack together at OpenSource Global Hack Week!</title>
+      <link>https://crystal-lang.org/2024/10/03/lets-hack-together-at-opensource-global-hack-week/</link>
+      <description>在开源全球黑客周期间，Crystal语言社区将举办Crystal+LavinMQ挑战赛，旨在学习如何构建健壮的消息队列架构。LavinMQ是一个支持Crystal编写的世界级消息队列系统，此次挑战将提供学习机会，详情可查看LavinMQ的公告帖子。</description>
+      <pubDate>2024-10-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>React at Meta Connect 2024</title>
+      <link>https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/</link>
+      <description>Meta Connect 2024上，Meta展示了使用React和React Native开发的创新项目。这些项目包括为Meta Quest重建的Instagram和Facebook应用，以及新的Meta Horizon移动应用和Meta Spatial Editor。Meta强调React和React Native在提高开发效率、性能和用户体验方面的作用，并分享了与开源社区的合作成果。</description>
+      <pubDate>2024-10-02 16:00:47</pubDate>
+    </item>
+  
+    <item>
+      <title>False positives: A big problem for secret scanners</title>
+      <link>https://www.hashicorp.com/blog/false-positives-a-big-problem-for-secret-scanners</link>
+      <description>虚假警报是安全扫描器面临的一个大问题，它们会分散安全团队注意力，消耗资源，并增加实际威胁被忽视的风险。HCP Vault Radar通过自动分配严重性并优先处理重要项目来帮助减少这些虚假警报。它还支持通过票务和警报解决方案进行补救工作流程，包括Slack、PagerDuty、Splunk、JIRA和ServiceNow等工具，以帮助组织在数据泄露发生之前采取主动补救措施。</description>
+      <pubDate>2024-10-02 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to bring your AI Model to Android devices</title>
+      <link>http://android-developers.googleblog.com/2024/10/bring-your-ai-model-to-android-devices.html</link>
+      <description>将AI模型带到Android设备上的方法
+
+本文介绍了如何将AI模型部署到Android设备上，包括理解设备端AI、使用Google AI Edge平台等资源，以及如何构建、优化和测试自定义AI功能。文章强调了隐私和透明度的重要性，并提供了Play Integrity API等工具来确保模型的安全性和可靠性。通过这些资源，开发者可以创建性能卓越、隐私保护且用户体验良好的AI应用。</description>
+      <pubDate>2024-10-02 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Generating Coding Tests for LLMs: A Focus on Spark SQL</title>
+      <link>https://www.databricks.com/blog/generating-coding-tests-llms-focus-spark-sql</link>
+      <description>本文探讨了为大型语言模型（LLM）生成编码测试的重要性，特别是针对Spark SQL。作者提出了一种系统方法，通过合成特定于任何编码库的代码测试来评估LLM在特定库中的专长。这种方法包括从代码文档中筛选种子函数、生成代码指令以及验证这些指令的准确性。通过在Databricks Assistant Autocomplete模型中应用这些测试，作者展示了如何评估LLM在生成正确代码方面的能力。</description>
+      <pubDate>2024-10-02 15:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to embed AI/BI Dashboards into your websites and applications</title>
+      <link>https://www.databricks.com/blog/how-embed-aibi-dashboards-your-websites-and-applications</link>
+      <description>Databricks宣布推出AI/BI仪表板嵌入功能，允许用户将仪表板无缝集成到第三方工具中，如内部网站和应用。此功能简化了数据洞察的访问，并提高了团队的工作效率。用户可以在不离开当前应用的情况下查看仪表板，并享受安全访问和优化性能。通过简单的步骤，用户可以在Databricks中创建和分享仪表板，并在所需平台上嵌入。</description>
+      <pubDate>2024-10-02 15:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Visual Guide to Salesforce Data Cloud Capabilities</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/a-visual-guide-to-salesforce-data-cloud-capabilities.html</link>
+      <description>Salesforce Data Cloud助力企业打破数据孤岛，通过AI构建智能应用，提升客户体验。它提供数据访问、连接、映射和统一等功能，支持数据湖对象和数据模型对象，实现数据洞察和AI模型构建。此外，Data Cloud还支持数据共享、自动化和激活，帮助企业实现数据驱动的业务决策。</description>
+      <pubDate>2024-10-02 15:00:36</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #86: FEMA</title>
+      <link>https://www.bambooweekly.com/bw-86-fema/</link>
+      <description>FEMA在过去的几十年里为美国提供了大量的灾害援助，本周将分析其工作数据，了解灾害援助的历史和分布情况。文章介绍了如何从FEMA获取数据，并提出了六个学习任务，包括处理日期数据、制作条形图等。</description>
+      <pubDate>2024-10-02 15:00:05</pubDate>
+    </item>
+  
+    <item>
+      <title>A Guide to Modern Python String Formatting Tools</title>
+      <link>https://realpython.com/python-formatted-output/</link>
+      <description>本文介绍了Python中现代字符串格式化工具，包括f-strings和.format()方法。f-strings允许直接在字符串中嵌入变量和表达式，而.format()方法则提供了更灵活的格式化选项。文章详细解释了如何使用这些工具进行字符串插值和格式化，包括创建格式化字符串、使用替换字段以及动态创建格式化说明符。</description>
+      <pubDate>2024-10-02 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A function for creating an absolute security descriptor from a self-relative one</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20241002-00/?p=110333</link>
+      <description>本文介绍了如何将自相对安全描述符转换为绝对安全描述符的函数。该函数通过一次性分配大块内存来优化性能，并确保在转换过程中不会发生溢出。这种方法适用于需要绝对安全描述符的CoInitializeSecurity函数。</description>
+      <pubDate>2024-10-02 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack</title>
       <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack</link>
       <description>Cloudflare成功自动缓解了创纪录的3.8 Tbps DDoS攻击，这是迄今为止公开披露的最大攻击。该攻击持续了一个月，Cloudflare的防御系统自动检测并缓解了超过一百次攻击，其中许多攻击的速率超过2亿个数据包每秒和3太比特每秒。Cloudflare的网络容量、全球覆盖和智能系统使其能够吸收和自动缓解这些巨大的攻击，保护客户免受攻击影响。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vercel WAF upgrade brings persistent actions, rate limiting, and API control</title>
+      <link>https://vercel.com/blog/vercel-waf-upgrade-brings-persistent-actions-rate-limiting-and-api-control</link>
+      <description>Vercel更新了其Web应用防火墙（WAF），引入了持久性操作、速率限制和API控制，以增强安全性和流量管理。这些新功能包括针对重复攻击者的持久性规则、防止API滥用的速率限制，以及通过API自动化安全工作流程。Vercel的WAF还提供即时规则传播，确保应用安全。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vercel WAF rate limiting now generally available</title>
+      <link>https://vercel.com/changelog/vercel-waf-rate-limiting-now-generally-available</link>
+      <description>Vercel推出Web应用防火墙（WAF）速率限制功能，提供精确控制应用请求流量的能力。通过多种参数和算法，用户可限制匹配流量频率，减少资源滥用。此功能适用于Pro和Enterprise客户，定价区域化，起价0.50美元/百万次允许请求。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vercel WAF now supports persistent actions</title>
+      <link>https://vercel.com/changelog/vercel-waf-now-supports-persistent-actions</link>
+      <description>Vercel Web Application Firewall (WAF)新增持久性动作功能，可针对触发防火墙规则的重复违规者进行阻止。此功能可对客户端实施特定响应，如阻止，持续1-60分钟，减少边缘请求负载，并增强防火墙逻辑控制。</description>
       <pubDate>2024-10-02 13:00:00</pubDate>
     </item>
   
@@ -139,6 +232,13 @@
     </item>
   
     <item>
+      <title>Legalize Life (and Living)</title>
+      <link>https://taylor.town/oh-possession</link>
+      <description>文章探讨了美国对移民、毒品法律和农业政策的不一致态度。作者批评了保守派对墨西哥移民的偏见，指出他们一方面利用移民的劳动力，另一方面又反对他们。文章还讨论了水果飞虫检疫和毒品法律如何被用作搜查和逮捕的借口，以及美国历史上对大麻和可卡因的处理方式，揭示了法律执行中的选择性。作者强调，这些政策背后隐藏着对特定群体的歧视和权力滥用。</description>
+      <pubDate>2024-10-02 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>rsync&nbsp;Command in Linux with Examples</title>
       <link>https://linuxblog.io/rsync-command-in-linux-with-examples/</link>
       <description>本文介绍了Linux中rsync命令的用法，包括基本语法、常用选项和实际应用示例。rsync是一个强大的文件同步工具，适用于备份、远程文件传输和目录同步，支持增量传输、压缩和权限保留等功能。通过示例，读者可以学习如何使用rsync进行基本文件同步、通过SSH同步文件、排除文件和目录、恢复中断的传输、删除目标中的文件、在本地和远程系统之间同步文件以及备份目录等操作。</description>
@@ -150,6 +250,13 @@
       <link>https://www.databricks.com/blog/build-compound-ai-systems-faster-databricks-mosaic-ai</link>
       <description>Databricks Mosaic AI推出新功能，简化构建复杂推理和执行任务的AI代理过程。这些功能包括连接LLMs与企业数据、快速实验和评估代理、无缝过渡到生产环境、持续监控和评估LLMs和代理。Mosaic AI提供完整的工具链，用于管理、实验、部署和改进复合AI系统，包括集中治理工具和代理的Unity Catalog、AI Playground的快速实验、以及模型服务的简单部署。</description>
       <pubDate>2024-10-01 22:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Science-backed productivity playlists to help you dive into deep work</title>
+      <link>https://www.atlassian.com/blog/productivity/science-backed-productivity-playlists</link>
+      <description>科学支持下的生产力播放列表，助你深入高效工作。文章介绍了不同类型的音乐如何帮助提高生产力，包括古典音乐、咖啡馆声音、环境音乐、节奏感强的音乐、自然声音和粉红/白色噪音。这些音乐被证明可以提升专注力、创造力和记忆力，帮助人们更好地进入工作状态。</description>
+      <pubDate>2024-10-01 22:00:00</pubDate>
     </item>
   
     <item>
@@ -507,6 +614,13 @@
       <link>https://www.theguardian.com/info/2024/oct/01/how-did-we-use-dbt-and-bigquery-to-manage-late-arriving-web-events</link>
       <description>本文探讨了如何利用DBT和BigQuery处理迟到的网络事件。通过DBT作为工作流程和数据转换层，BigQuery用于数据存储和查询，实现了每小时刷新数据资产并处理迟到事件。通过优化处理和更新策略，实现了低延迟、高精度和相对低成本的解决方案。</description>
       <pubDate>2024-10-01 10:04:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Terminal colours are tricky</title>
+      <link>https://jvns.ca/blog/2024/10/01/terminal-colours/</link>
+      <description>终端配色问题复杂，涉及颜色标准不一致、颜色对比度问题、程序间颜色冲突等。文章探讨了多种解决方案，如配置终端模拟器、使用颜色脚本、启用最小对比度功能等，以改善终端配色体验。</description>
+      <pubDate>2024-10-01 10:01:44</pubDate>
     </item>
   
     <item>
