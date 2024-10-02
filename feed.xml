@@ -13,13 +13,6 @@
     </item>
   
     <item>
-      <title>This Week in Open Source</title>
-      <link>https://thoughtbot.com/blog/this-week-in-open-source-july-2024</link>
-      <description>This week's open source update includes a variety of improvements across thoughtbot's projects. Highlights include updates to the design system, Flightdeck, GoldMiner, and documentation templates, as well as the introduction of dynamic SECURITY.md files across multiple repositories. The team also focused on enhancing the CODEOWNERS files for infrastructure projects and contributed to various open source initiatives.</description>
-      <pubDate>2024-10-02 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>rsync&nbsp;Command in Linux with Examples</title>
       <link>https://linuxblog.io/rsync-command-in-linux-with-examples/</link>
       <description>本文介绍了Linux中rsync命令的用法，包括基本语法、常用选项和实际应用示例。rsync是一个强大的文件同步工具，适用于备份、远程文件传输和目录同步，支持增量传输、压缩和权限保留等功能。通过示例，读者可以学习如何使用rsync进行基本文件同步、通过SSH同步文件、排除文件和目录、恢复中断的传输、删除目标中的文件、在本地和远程系统之间同步文件以及备份目录等操作。</description>
