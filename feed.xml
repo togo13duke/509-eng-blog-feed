@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack</title>
+      <link>https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack</link>
+      <description>Cloudflare成功自动缓解了创纪录的3.8 Tbps DDoS攻击，这是迄今为止公开披露的最大攻击。该攻击持续了一个月，Cloudflare的防御系统自动检测并缓解了超过一百次攻击，其中许多攻击的速率超过2亿个数据包每秒和3太比特每秒。Cloudflare的网络容量、全球覆盖和智能系统使其能够吸收和自动缓解这些巨大的攻击，保护客户免受攻击影响。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: 15 Climate Tech Companies to Watch</title>
+      <link>https://www.technologyreview.com/2024/10/02/1104844/the-download-15-climate-tech-companies-to-watch/</link>
+      <description>MIT Technology Review发布了一篇关于气候变化技术的文章，介绍了15家有望在应对气候变化方面产生重大影响的公司。文章强调了气候变化带来的紧迫性，包括全球气温升高和极端天气事件的增加。同时，文章还提到了其他科技新闻，如NASA即将发射的欧罗巴快船任务，旨在探索木星的第四大卫星欧罗巴的宜居性。</description>
+      <pubDate>2024-10-02 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Instantly Convert Your Adobe Designs to Canva</title>
       <link>https://spin.atomicobject.com/convert-adobe-designs-canva/</link>
       <description>Canva是一个直观的云设计平台，让非设计师也能轻松设计。它由Melanie Perkins创立，估值超过260亿美元，是女性创立和领导的最大初创公司。Canva的免费和付费服务帮助用户从Adobe等传统设计工具中切换，提供大量模板和AI工具，降低设计门槛。Canva团队许可费用远低于Adobe，为个人和小型企业节省大量成本。</description>
@@ -83,6 +97,13 @@
     </item>
   
     <item>
+      <title>Laravel 11.26 Released</title>
+      <link>https://laravel-news.com/laravel-11-26-0</link>
+      <description>Laravel 11.26版本发布，新增优雅地停止进程池、使用枚举定义速率限制、创建作业中间件命令等功能。更新包括改进的PHPDoc、修复的崩溃问题、支持单元和受支持的枚举注册速率限制器等。</description>
+      <pubDate>2024-10-02 04:39:39</pubDate>
+    </item>
+  
+    <item>
       <title>Vector Data Editor revamped</title>
       <link>https://www.maptiler.com/news/2024/10/vector-data-editor-revamped</link>
       <description>MapTiler更新了Vector Data Editor，简化了地图制作和数据发布流程。新编辑器具有改进的用户界面、搜索和添加功能，支持多种数据格式，并允许协作编辑。用户可以轻松导入卫星图像、进行数据可视化，并通过JavaScript库直接在地图上展示数据。</description>
@@ -100,6 +121,20 @@
       <title>How to Handle Twilio Webhooks With Go and DigitalOcean Functions</title>
       <link>https://www.twilio.com/en-us/blog/twilio-webhooks-go-digitalocean-functions</link>
       <description>本文介绍了如何使用Go语言和DigitalOcean Functions处理Twilio Webhooks。通过Twilio Webhooks，可以实时接收Twilio账户的各种事件通知。结合DigitalOcean Functions，可以高效地处理这些Webhooks，并根据Webhook数据执行自定义操作。教程中详细说明了创建DigitalOcean Function的步骤，包括初始化、配置和部署。</description>
+      <pubDate>2024-10-02 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How tribal nations can use data to build exceptional customer experiences</title>
+      <link>https://www.elastic.co/blog/tribal-nations-data-customer-experiences</link>
+      <description>部落民族如何克服数据和人工智能挑战，提升客户体验：通过使用Elastic的搜索和AI平台，部落企业可以整合数据，打破数据孤岛，优化搜索导航，并利用AI工具预测客户需求，从而提升客户满意度和业务效率。</description>
+      <pubDate>2024-10-02 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The 2024 Elastic Global Threat Report: Forecasts and recommendations</title>
+      <link>https://www.elastic.co/blog/elastic-global-threat-report-2024-forecasts-recommendations</link>
+      <description>2024年Elastic全球威胁报告预测和推荐：报告基于超过10亿数据点，分析威胁行为者的方法和趋势，为安全团队提供关键洞察。主要预测包括凭证访问攻击增加、云服务提供商资源配置不当、防御逃避技术增多等。建议包括定期更换凭证、加强云安全配置、监控防御逃避技术等。</description>
       <pubDate>2024-10-02 00:00:00</pubDate>
     </item>
   
@@ -146,9 +181,23 @@
     </item>
   
     <item>
+      <title>Crook made millions by breaking into execs’ Office365 inboxes, feds say</title>
+      <link>https://arstechnica.com/security/2024/10/crook-made-millions-by-breaking-into-execs-office365-inboxes-feds-say/</link>
+      <description>一名男子通过入侵上市公司高管Office365邮箱，提前获取季度财务报告进行股票交易，非法获利数百万美元。他利用密码重置机制入侵五家上市公司的邮箱，并在某些情况下设置了自动转发规则。他被控证券欺诈、电讯欺诈和计算机欺诈，面临最高20年监禁和罚款。</description>
+      <pubDate>2024-10-01 19:40:59</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI unveils easy voice assistant creation at 2024 developer event</title>
       <link>https://arstechnica.com/?p=2053625</link>
       <description>OpenAI在2024年开发者大会上发布了四个主要API更新，使开发者能够轻松地将AI模型集成到产品中。新推出的实时API支持语音到语音的对话，并简化了语音助手创建过程。此外，公司还推出了模型精炼和提示缓存功能，以降低成本并提高效率。</description>
+      <pubDate>2024-10-01 19:16:14</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI unveils easy voice assistant creation at 2024 developer event</title>
+      <link>https://arstechnica.com/information-technology/2024/10/openai-unveils-easy-voice-assistant-creation-at-2024-developer-event/</link>
+      <description>OpenAI在2024年开发者大会上推出了易于创建语音助手的API更新，包括实时API和模型精炼功能，旨在简化语音助手开发过程，并降低成本。此外，公司还扩展了图像微调能力，允许开发者通过图像和文本定制GPT-4o。</description>
       <pubDate>2024-10-01 19:16:14</pubDate>
     </item>
   
@@ -184,6 +233,13 @@
       <title>“Extreme” Broadcom-proposed price hike would up VMware costs 1,050%, AT&amp;T says</title>
       <link>https://arstechnica.com/?p=2053645</link>
       <description>Broadcom提议对VMware产品进行高达1050%的价格上涨，导致AT&amp;T面临巨额成本增加。AT&amp;T指控Broadcom非法拒绝其续签支持服务，并指出Broadcom的涨价行为极端不合理。AT&amp;T计划通过法律途径和投资迁移方案来应对这一挑战。</description>
+      <pubDate>2024-10-01 18:22:47</pubDate>
+    </item>
+  
+    <item>
+      <title>“Extreme” Broadcom-proposed price hike would up VMware costs 1,050%, AT&amp;T says</title>
+      <link>https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/</link>
+      <description>Broadcom提议对VMware产品进行高达1050%的价格上涨，AT&amp;T表示这会导致其成本激增。AT&amp;T指控Broadcom非法拒绝其续签支持服务，并指出Broadcom在收购VMware后停止销售永久许可证。AT&amp;T计划迁移到其他解决方案，预计迁移成本为4000万至5000万美元。</description>
       <pubDate>2024-10-01 18:22:47</pubDate>
     </item>
   
@@ -674,6 +730,13 @@
       <title>Systems used by courts and governments across the US riddled with vulnerabilities</title>
       <link>https://arstechnica.com/?p=2053460</link>
       <description>美国法院和政府使用的系统存在大量漏洞，这些漏洞可能导致攻击者篡改选民登记数据库和官方文件。安全研究员Jason Parker发现，至少19个商业平台存在关键漏洞，影响了数百个法院、政府机构和警察部门。这些漏洞主要源于权限控制薄弱、用户输入验证不良和认证过程有误。Parker呼吁对系统进行渗透测试和软件审计，并加强员工培训，特别是IT部门员工，以增强系统安全性。</description>
+      <pubDate>2024-09-30 20:30:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Systems used by courts and governments across the US riddled with vulnerabilities</title>
+      <link>https://arstechnica.com/security/2024/09/systems-used-by-courts-and-govs-across-the-us-riddled-with-vulnerabilities/</link>
+      <description>美国法院和政府使用的系统存在大量漏洞，可能导致攻击者篡改选民登记数据库和官方文件。安全研究员发现，这些漏洞主要源于权限控制薄弱、用户输入验证不良和认证过程有误。这些问题严重影响了司法、投票权利和其他政府职能的透明度和公正性。专家呼吁加强系统安全，包括实施严格的权限控制和定期的安全审计。</description>
       <pubDate>2024-09-30 20:30:26</pubDate>
     </item>
   
