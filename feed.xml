@@ -13,6 +13,27 @@
     </item>
   
     <item>
+      <title>From $0 to revenue in 6 months: How Uday Chakravarthi unlocked rapid startup growth at Clinch AGI</title>
+      <link>https://www.atlassian.com/blog/strategy/uday-chakravarthi-on-rapid-startup-growth</link>
+      <description>Uday Chakravarthi在六个月内将Clinch AGI从零发展到收入，分享了五个关键因素：首先，招聘具有关键技能的团队；其次，紧密关注客户需求；第三，寻找具有行业知识的投资者；第四，设定里程碑以衡量市场成功；最后，确保工具支持灵活的分布式团队文化。</description>
+      <pubDate>2024-10-02 23:37:55</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI DevDay: Let’s build developer tools, not digital God</title>
+      <link>https://simonwillison.net/2024/Oct/2/not-digital-god/#atom-entries</link>
+      <description>OpenAI DevDay 2024聚焦于为开发者构建工具，而非追求数字神。会议发布了多项新功能，包括Prompt Caching、GPT-4o音频通过新的WebSocket实时API、模型蒸馏等，旨在简化开发者的工作流程。与去年相比，今年的DevDay更加注重开发者体验，而非单纯的产品发布。OpenAI强调，他们更倾向于提供实用、可靠的工具，而非追求AGI（通用人工智能）。</description>
+      <pubDate>2024-10-02 22:33:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Attackers exploit critical Zimbra vulnerability using cc’d email addresses</title>
+      <link>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</link>
+      <description>研究人员警告称，攻击者正在利用Zimbra邮件服务器的一个关键漏洞，通过cc的电子邮件地址远程执行恶意命令并安装后门。尽管漏洞已被修复，但攻击者仍在尝试利用该漏洞，尽管其可靠性有限。用户应立即安装补丁或禁用postjournal服务。</description>
+      <pubDate>2024-10-02 21:50:28</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI is now valued at $157 billion</title>
       <link>https://arstechnica.com/ai/2024/10/openai-is-now-valued-at-157-billion/</link>
       <description>OpenAI在最新一轮融资中估值达到1570亿美元，几乎是之前860亿美元的近两倍。投资方包括Thrive Capital、微软、软银和英伟达等。然而，投资者有权在OpenAI未完成从非营利组织向营利性公司转型时撤资。尽管面临竞争，OpenAI的用户基础迅速增长，拥有约2.5亿周活跃用户和1100万付费订阅者。</description>
@@ -130,6 +151,13 @@
       <title>Vercel WAF now supports persistent actions</title>
       <link>https://vercel.com/changelog/vercel-waf-now-supports-persistent-actions</link>
       <description>Vercel Web Application Firewall (WAF)新增持久性动作功能，可针对触发防火墙规则的重复违规者进行阻止。此功能可对客户端实施特定响应，如阻止，持续1-60分钟，减少边缘请求负载，并增强防火墙逻辑控制。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Application-aware Observability now in limited beta</title>
+      <link>https://vercel.com/changelog/application-aware-observability-in-limited-beta</link>
+      <description>Vercel推出新的应用感知可观察性功能，提供对应用程序性能和行为的深入洞察。此功能包括对函数行为、外部API请求、数据传输、缓存和API请求的详细分析，目前处于限量测试阶段。</description>
       <pubDate>2024-10-02 13:00:00</pubDate>
     </item>
   
