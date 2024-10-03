@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AI-generated images can teach robots how to act</title>
+      <link>https://www.technologyreview.com/2024/10/03/1104958/ai-generated-images-can-teach-robots-how-to-act/</link>
+      <description>研究人员开发了一种名为Genima的系统，通过微调生成式AI模型Stable Diffusion来生成机器人动作的训练数据。该系统能够在模拟和现实世界中指导机器人运动，有助于训练各种类型的机器人完成任务，包括机械臂、类人机器人和自动驾驶汽车。Genima通过将机器人传感器的数据叠加到图像上，将所需动作渲染为图像上的彩色球体，指示机器人关节未来的移动位置。这种方法有望提高机器人的速度和准确性，并可能被应用于训练家庭机器人进行家务等任务。</description>
+      <pubDate>2024-10-03 08:42:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Does Scarcity Sell? How Brands Are Manufacturing Rarity to Boost Sales</title>
+      <link>https://s14415.pcdn.co/blog/does-scarcity-sell/</link>
+      <description>品牌如何通过制造稀缺性来提升销量：通过限量版收藏品和惊喜产品发布等手段，制造稀缺性正激发消费者巨大热情。本文探讨了品牌如何利用供需规律，在社交媒体时代提升业务。</description>
+      <pubDate>2024-10-03 08:15:29</pubDate>
+    </item>
+  
+    <item>
       <title>10 Examples of SDKs With Great Developer Experience</title>
       <link>https://nordicapis.com/10-examples-of-sdks-with-great-developer-experience/</link>
       <description>本文介绍了10个具有优秀开发者体验的SDK示例，包括Google Maps、Stripe、Twilio等。这些SDK以其易用性、广泛支持的编程语言和平台、详尽的文档和代码示例而著称。文章强调了SDK在提升开发者体验中的重要性，并讨论了SDK的未来发展趋势。</description>
@@ -703,6 +717,13 @@
     <item>
       <title>Elevate Your 2025 Social Media Strategy with These 5 Trends</title>
       <link>https://s14415.pcdn.co/blog/top-social-media-marketing-trends/</link>
+      <description>2025年社交媒体营销五大趋势：品牌仅发起1%的讨论，消费者情绪行业差异大，限量产品提升品牌可见度，财务压力影响各行业，顾客分享创造更好体验的机会。</description>
+      <pubDate>2024-10-01 10:56:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Elevate Your 2025 Social Media Strategy with These 5 Trends</title>
+      <link>https://www.brandwatch.com/blog/top-social-media-marketing-trends/</link>
       <description>2025年社交媒体营销五大趋势：品牌仅发起1%的讨论，消费者情绪行业差异大，限量产品提升品牌可见度，财务压力影响各行业，顾客分享创造更好体验的机会。</description>
       <pubDate>2024-10-01 10:56:28</pubDate>
     </item>
