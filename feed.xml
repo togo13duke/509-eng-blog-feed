@@ -6,9 +6,23 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Leading the way: 10 projects in the Open Source Zone at GitHub Universe 2024</title>
+      <link>https://github.blog/open-source/10-projects-in-the-open-source-zone-at-github-universe-2024/</link>
+      <description>GitHub Universe 2024的Open Source Zone展示了10个引人注目的开源项目，包括A-Frame、Home Assistant、Homebrew、Kubernetes等，这些项目涵盖了虚拟现实、智能家居、软件包管理、容器编排等多个领域，展示了开源社区的活力和创新精神。</description>
+      <pubDate>2024-10-03 00:05:08</pubDate>
+    </item>
+  
+    <item>
       <title>Let's hack together at OpenSource Global Hack Week!</title>
       <link>https://crystal-lang.org/2024/10/03/lets-hack-together-at-opensource-global-hack-week/</link>
       <description>在开源全球黑客周期间，Crystal语言社区将举办Crystal+LavinMQ挑战赛，旨在学习如何构建健壮的消息队列架构。LavinMQ是一个支持Crystal编写的世界级消息队列系统，此次挑战将提供学习机会，详情可查看LavinMQ的公告帖子。</description>
+      <pubDate>2024-10-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>thoughtbot is proud to be Gender Fair certified</title>
+      <link>https://thoughtbot.com/blog/thoughtbot-is-proud-to-be-gender-fair-certified</link>
+      <description>thoughtbot自豪地宣布获得Gender Fair认证，致力于创建一个多元化、公平、包容、充满活力和安全的环境。通过Gender Fair的评估，该公司实现了性别平衡的领导层、良好的家庭友好政策、薪酬平等评估、挑战刻板印象的营销、工作力和供应商的数据透明度以及针对女性的慈善活动。thoughtbot期待与更多志同道合的客户合作，共同推动平等。</description>
       <pubDate>2024-10-03 00:00:00</pubDate>
     </item>
   
