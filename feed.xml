@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Gemini API in action: showcase of innovative Android apps</title>
+      <link>http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html</link>
+      <description>Android开发者利用Gemini API创新应用： Meal Planner通过AI生成周餐计划，Life应用将对话转化为日记条目，HiiKER应用提供AI建议的昵称。Gemini API简化了Android应用开发，为开发者提供新的机遇。</description>
+      <pubDate>2024-10-03 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Advanced capabilities of the Gemini API for Android developers</title>
+      <link>http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html</link>
+      <description>Android开发者可以利用Gemini API的高级功能，将生成式AI特性融入应用。通过系统指令塑造AI行为，支持JSON输出，以及多模态处理，开发者可以创建从图像到视频的多种创新功能。此外，通过函数调用扩展模型能力，实现与数据库交互和触发应用内操作。Gemini API为Android应用带来创新体验，助力开发者脱颖而出。</description>
+      <pubDate>2024-10-03 17:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Node v20.18.0 (LTS)</title>
+      <link>https://nodejs.org/en/blog/release/v20.18.0</link>
+      <description>Node.js v20.18.0 (LTS)版本引入了网络检查实验性功能，允许在JavaScript应用中检查网络活动。此外，更新了tls.createSecureContext API以支持部分信任链，并增加了vm.createContext的新选项。同时，进行了多项优化和修复，包括buffer模块的优化、新的EventSource客户端和性能指标等。</description>
+      <pubDate>2024-10-03 17:57:41</pubDate>
+    </item>
+  
+    <item>
       <title>How students teamed up to decode 2,000-year-old texts using AI</title>
       <link>https://github.blog/ai-and-ml/machine-learning/how-students-teamed-up-to-decode-2000-year-old-texts-using-ai/</link>
       <description>学生们利用GitHub Copilot技术成功解码了埋藏在维苏威火山灰下的2000年古老卷轴，实现了历史性的突破。他们的合作展示了AI、开源协作和解决历史谜题的力量。</description>
@@ -226,6 +247,13 @@
       <title>Kubernetes Namespace Restriction and Separation</title>
       <link>https://goteleport.com/blog/kubernetes-namespace-restriction-separation/</link>
       <description>Teleport提供了一种安全且可扩展的解决方案，用于管理Kubernetes集群中的命名空间分离，简化合规性，并帮助金融机构在保持弹性和敏捷性的同时满足行业合规要求。通过Teleport，组织可以轻松实施基础设施隔离，满足行业合规要求，同时提高工程师的生产力。</description>
+      <pubDate>2024-10-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>JSON The Fine Print Ep.1: Data Integrity with JSON Serialization</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-ep-1-data-integrity-with-json-serialization.html</link>
+      <description>本篇博客深入探讨了JSON序列化的数据完整性，强调了在API和存储层优化JSON处理、数据验证的重要性，以及如何避免常见的序列化错误。文章通过实例和最佳实践，指导工程师更有效地使用JSON，并避免性能问题和数据不可靠。</description>
       <pubDate>2024-10-03 00:00:00</pubDate>
     </item>
   
