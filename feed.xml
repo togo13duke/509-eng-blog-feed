@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Code Review: A New Developer’s Guide</title>
+      <link>https://spin.atomicobject.com/reviewing-code-new-dev/</link>
+      <description>新开发者指南：本文为初出校门的新手开发者提供代码审查的实用建议。强调编写清晰、可读的代码，提供详尽的测试说明，以及如何有效地进行代码审查和反馈。强调团队合作和持续学习的重要性，帮助新开发者更好地融入团队，提升软件开发技能。</description>
+      <pubDate>2024-10-03 12:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>These 15 companies are innovating in climate tech</title>
+      <link>https://www.technologyreview.com/2024/10/03/1104910/15-climate-tech-companies/</link>
+      <description>2024年，麻省理工学院科技评论发布了15家气候技术领域的创新公司名单。这些公司来自全球五大洲，涵盖多个行业，致力于解决气候变化问题。其中包括电动汽车制造商BYD、替代燃料生产商LanzaJet和可持续化学品制造商Solugen。这些公司通过技术创新，如大规模生产电动汽车、开发替代燃料和利用生物原料制造化学品，为减少碳排放和应对气候变化做出了贡献。</description>
+      <pubDate>2024-10-03 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>AI-generated images can teach robots how to act</title>
       <link>https://www.technologyreview.com/2024/10/03/1104958/ai-generated-images-can-teach-robots-how-to-act/</link>
       <description>研究人员开发了一种名为Genima的系统，通过微调生成式AI模型Stable Diffusion来生成机器人动作的训练数据。该系统能够在模拟和现实世界中指导机器人运动，有助于训练各种类型的机器人完成任务，包括机械臂、类人机器人和自动驾驶汽车。Genima通过将机器人传感器的数据叠加到图像上，将所需动作渲染为图像上的彩色球体，指示机器人关节未来的移动位置。这种方法有望提高机器人的速度和准确性，并可能被应用于训练家庭机器人进行家务等任务。</description>
@@ -41,6 +55,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: Library Checkout</title>
+      <link>https://thedailywtf.com/articles/library-checkout</link>
+      <description>图书馆在招聘新员工时，需要程序员添加其到主页，却因一个无法正常工作的“邮件发送”功能而求助。程序员发现，邮件地址存储在一个PHP文件中，且在发送邮件时覆盖了原有数组，导致邮件无法发送。修复问题后，图书馆对程序员的帮助表示感谢。</description>
+      <pubDate>2024-10-03 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Leading the way: 10 projects in the Open Source Zone at GitHub Universe 2024</title>
       <link>https://github.blog/open-source/10-projects-in-the-open-source-zone-at-github-universe-2024/</link>
       <description>GitHub Universe 2024的Open Source Zone展示了10个引人注目的开源项目，包括A-Frame、Home Assistant、Homebrew、Kubernetes等，这些项目涵盖了虚拟现实、智能家居、软件包管理、容器编排等多个领域，展示了开源社区的活力和创新精神。</description>
@@ -65,6 +86,13 @@
       <title>Why data will define value for insurers  - and how to harness its full potential for success</title>
       <link>https://www.thoughtworks.com/insights/articles/data-driven-insurance</link>
       <description>数据将决定保险公司的价值，并如何充分利用其潜力以取得成功。保险公司正将数据视为战略资产，以提供高度个性化的客户体验。通过利用数据来满足新客户期望，保险公司可以超越竞争对手，并实现客户满意度和参与度的提升。然而，传统系统和监管障碍为保险公司全面利用数据带来了挑战。通过采用增量方法、民主化和去中心化的架构，保险公司可以克服这些挑战，并利用数据资产来增强客户体验和市场竞争力。</description>
+      <pubDate>2024-10-03 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>cpx — The npx counterpart of the PHP ecosystem</title>
+      <link>https://www.amitmerchant.com/cpx-the-npx-counterpart-of-the-php-ecosystem/</link>
+      <description>cpx是PHP生态系统中npx的对应工具，允许用户在项目中“即时”运行Composer包，无需全局安装。它类似于npx，可以从Composer注册表中获取包并运行，同时处理包及其依赖的更新。尽管cpx仍处于早期阶段，但其潜力巨大，有助于简化PHP项目中的包管理。</description>
       <pubDate>2024-10-03 00:00:00</pubDate>
     </item>
   
