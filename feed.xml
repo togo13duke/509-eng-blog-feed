@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Synthetic Monitoring Explained: A Developer's Guide</title>
+      <link>https://last9.io/blog/what-is-synthetic-monitoring/</link>
+      <description>合成监控是一种通过模拟真实用户行为来提前发现潜在问题的主动监控方法。它通过执行预定义的脚本，模拟用户操作，从而监控Web应用、API和其他数字服务的性能和功能。这种方法有助于在问题影响最终用户之前识别并解决它们，对于确保应用性能和提升用户体验至关重要。</description>
+      <pubDate>2024-10-03 13:06:29</pubDate>
+    </item>
+  
+    <item>
+      <title>How AMD GPUs accelerate model training and tuning with OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2024/10/03/amd-gpus-model-training-openshift-ai</link>
+      <description>AMD GPU加速OpenShift AI模型训练和调优，通过ROCm软件栈和Red Hat OpenShift AI平台，实现高性能AI/ML工作负载。AMD Instinct MI300X加速器提供192GB高带宽内存，优化LLM训练和调优，缩短模型调优时间，提高效率。</description>
+      <pubDate>2024-10-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: training robots with gen AI, and the state of climate tech</title>
+      <link>https://www.technologyreview.com/2024/10/03/1104966/the-download-training-robots-with-gen-ai-and-the-state-of-climate-tech/</link>
+      <description>MIT Technology Review最新报道，人工智能在机器人训练中的应用和气候技术发展现状。研究人员利用生成式AI模型为机器人创建训练数据，提高机器人动作的准确性。同时，MIT Technology Review发布了2024年气候技术公司观察名单，旨在关注可能对气候变化产生重大影响的企业。</description>
+      <pubDate>2024-10-03 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Code Review: A New Developer’s Guide</title>
       <link>https://spin.atomicobject.com/reviewing-code-new-dev/</link>
       <description>新开发者指南：本文为初出校门的新手开发者提供代码审查的实用建议。强调编写清晰、可读的代码，提供详尽的测试说明，以及如何有效地进行代码审查和反馈。强调团队合作和持续学习的重要性，帮助新开发者更好地融入团队，提升软件开发技能。</description>
@@ -59,6 +80,13 @@
       <link>https://thedailywtf.com/articles/library-checkout</link>
       <description>图书馆在招聘新员工时，需要程序员添加其到主页，却因一个无法正常工作的“邮件发送”功能而求助。程序员发现，邮件地址存储在一个PHP文件中，且在发送邮件时覆盖了原有数组，导致邮件无法发送。修复问题后，图书馆对程序员的帮助表示感谢。</description>
       <pubDate>2024-10-03 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pest Route Testing Plugin for Laravel Applications</title>
+      <link>https://laravel-news.com/pest-route-testing-plugin</link>
+      <description>Pest Route Testing Plugin为Laravel应用提供了一种确保路由正确性的方法，具有过滤路由、绑定用户、运行自定义代码等功能。通过简单的调用，可以测试所有GET路由，并返回200状态码。该插件支持特定路由测试、排除路由、路由模型绑定等，可在GitHub上获取和使用。</description>
+      <pubDate>2024-10-03 03:09:26</pubDate>
     </item>
   
     <item>
@@ -242,6 +270,13 @@
       <title>Application-aware Observability now in limited beta</title>
       <link>https://vercel.com/changelog/application-aware-observability-in-limited-beta</link>
       <description>Vercel推出新的应用感知可观察性功能，提供对应用程序性能和行为的深入洞察。此功能包括对函数行为、外部API请求、数据传输、缓存和API请求的详细分析，目前处于限量测试阶段。</description>
+      <pubDate>2024-10-02 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Patent troll Sable pays up, dedicates all its patents to the public!</title>
+      <link>https://blog.cloudflare.com/patent-troll-sable-pays-up</link>
+      <description>Cloudflare成功对抗专利流氓Sable，赢得诉讼并迫使Sable支付225,000美元，同时放弃其所有专利并公开其专利组合，确保其不能再对其他公司提出侵权诉讼。这一胜利不仅为Cloudflare赢得了尊重，也向专利流氓发出了警告。</description>
       <pubDate>2024-10-02 13:00:00</pubDate>
     </item>
   
