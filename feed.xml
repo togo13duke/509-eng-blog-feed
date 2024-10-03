@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How open source AI can improve population estimates, sustainable energy, and the delivery of climate change interventions</title>
+      <link>https://engineering.fb.com/2024/10/03/ml-applications/open-source-ai-population-maps-meta/</link>
+      <description>Meta开源其AI人口地图数据，以改善全球人口估计、可持续能源和气候变化干预措施的实施。这些数据有助于政府和研究人员更准确地预测人口分布，从而优化资源分配和应对灾害。</description>
+      <pubDate>2024-10-03 16:00:14</pubDate>
+    </item>
+  
+    <item>
+      <title>Continuous Session Protection Now Available for Enterprise Customers</title>
+      <link>https://auth0.com/blog/continuous-session-protection-now-available-for-enterprise-customers/</link>
+      <description>Auth0推出针对企业客户的连续会话保护功能，增强会话管理能力，提供更高级别的安全性。此功能允许开发者自定义会话和刷新令牌的过期时间和空闲超时，根据组织策略、可疑活动和安全风险评估撤销会话或拒绝用户访问。通过这些特性，开发者可以创建更定制化的认证流程，满足不断变化的业务和安全需求。</description>
+      <pubDate>2024-10-03 15:09:00</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #86: FEMA (solution)</title>
+      <link>https://www.bambooweekly.com/bw-86-fema-copy/</link>
+      <description>本周，我们探讨了联邦紧急事务管理署（FEMA）多年来为各种灾害提供的援助，包括飓风海伦娜。文章分析了FEMA的数据，展示了不同年份和类型的灾害数量，并探讨了如何通过数据可视化来理解灾害趋势。</description>
+      <pubDate>2024-10-03 15:00:34</pubDate>
+    </item>
+  
+    <item>
+      <title>Community Products Roadmap Update, October 2024</title>
+      <link>https://stackoverflow.blog/2024/10/03/community-product-update-knowledge-as-a-service/</link>
+      <description>Stack Overflow在2024年10月更新了其社区产品路线图，重点在于支持“知识即服务”的新框架和商业模式。文章讨论了如何通过改进内容循环和知识生命周期、支持版主和内容审核者、使用机器学习进行个性化以及通过实验和社区反馈来提升用户体验。</description>
+      <pubDate>2024-10-03 15:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Statamic, Radical Design, and more with Jack McDade</title>
+      <link>https://laravel-news.com/statamic-radical-design-and-more-with-jack-mcdade</link>
+      <description>Jack McDade在Laravel News的访谈中讨论了Statamic、他的Radical Design课程、商业和营销等话题。</description>
+      <pubDate>2024-10-03 14:39:08</pubDate>
+    </item>
+  
+    <item>
       <title>Synthetic Monitoring Explained: A Developer's Guide</title>
       <link>https://last9.io/blog/what-is-synthetic-monitoring/</link>
       <description>合成监控是一种通过模拟真实用户行为来提前发现潜在问题的主动监控方法。它通过执行预定义的脚本，模拟用户操作，从而监控Web应用、API和其他数字服务的性能和功能。这种方法有助于在问题影响最终用户之前识别并解决它们，对于确保应用性能和提升用户体验至关重要。</description>
@@ -16,6 +51,20 @@
       <title>How AMD GPUs accelerate model training and tuning with OpenShift AI</title>
       <link>https://developers.redhat.com/articles/2024/10/03/amd-gpus-model-training-openshift-ai</link>
       <description>AMD GPU加速OpenShift AI模型训练和调优，通过ROCm软件栈和Red Hat OpenShift AI平台，实现高性能AI/ML工作负载。AMD Instinct MI300X加速器提供192GB高带宽内存，优化LLM训练和调优，缩短模型调优时间，提高效率。</description>
+      <pubDate>2024-10-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Serverless servers: Node.js with in-function concurrency</title>
+      <link>https://vercel.com/blog/serverless-servers-node-js-with-in-function-concurrency</link>
+      <description>Vercel推出了一款支持函数内并发的Node.js服务器，旨在优化交互式工作负载，如服务器端渲染、API和AI应用。该产品通过利用空闲时间处理多个调用，实现了高达50%的计算使用量减少，同时保持低延迟。Vercel Functions继续提供原生Node.js支持，并基于V8字节码和实例预热，加速冷启动性能。</description>
+      <pubDate>2024-10-03 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>In-function concurrency now in public beta</title>
+      <link>https://vercel.com/changelog/in-function-concurrency-now-in-public-beta</link>
+      <description>Vercel宣布其函数并发功能进入公开测试阶段，允许单个函数实例同时处理多个调用，提高资源利用率。这一功能可提升效率20%-50%，降低成本。目前，该功能适用于Pro和Enterprise客户，可通过仪表板启用并实时跟踪资源节省情况。</description>
       <pubDate>2024-10-03 13:00:00</pubDate>
     </item>
   
@@ -761,6 +810,13 @@
       <link>https://spin.atomicobject.com/server-actions-components/</link>
       <description>Next.js 13引入了服务器组件和服务器操作，允许在Node服务器上直接运行代码，无需访问API端点，从而简化了路由处理器的复杂性和样板代码。服务器操作主要用于数据变更，但它们在HTTP请求和响应控制方面有限制，并且只能从Next.js客户端访问。虽然服务器操作在某些情况下可以替代路由处理器，但它们不太可能完全取代它们，因为它们简化了开发者的体验。</description>
       <pubDate>2024-10-01 12:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: When to Use a List Comprehension in Python</title>
+      <link>https://realpython.com/quizzes/list-comprehension-python/</link>
+      <description>本篇博客文章是关于Python列表推导式的互动测验。测验旨在检验读者对列表推导式理解，包括如何将循环转换为列表推导式、何时使用列表推导式、如何在推导式中使用条件逻辑以及如何对代码进行性能分析。测验包含8个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
+      <pubDate>2024-10-01 12:00:00</pubDate>
     </item>
   
     <item>
