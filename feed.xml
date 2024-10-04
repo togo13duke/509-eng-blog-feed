@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>People are using Google study software to make AI podcasts—and they’re weird and amazing</title>
+      <link>https://www.technologyreview.com/2024/10/03/1104978/people-are-using-google-study-software-to-make-ai-podcasts-and-theyre-weird-and-amazing/</link>
+      <description>Google的AI播客工具NotebookLM因其惊人的真实感和互动性而受到用户喜爱，可用于制作教育内容、研究总结和娱乐节目。该工具基于Google的Gemini 1.5模型，能够处理多种内容并生成逼真的对话。尽管存在幻觉和偏见问题，NotebookLM仍以其创新性和实用性吸引了众多用户。</description>
+      <pubDate>2024-10-03 21:01:11</pubDate>
+    </item>
+  
+    <item>
       <title>Gemini API in action: showcase of innovative Android apps</title>
       <link>http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html</link>
       <description>Android开发者利用Gemini API创新应用： Meal Planner通过AI生成周餐计划，Life应用将对话转化为日记条目，HiiKER应用提供AI建议的昵称。Gemini API简化了Android应用开发，为开发者提供新的机遇。</description>
