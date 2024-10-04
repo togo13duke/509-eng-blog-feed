@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why Self-Expression at Work Matters: From Desk Plushies to Tattoos</title>
+      <link>https://spin.atomicobject.com/self-expression-at-work-matters/</link>
+      <description>在Atomic Object工作，员工被鼓励展现自我，无论是通过装饰桌面还是着装风格。这种自我表达不仅体现了公司的包容性文化，还促进了员工之间的理解和团队凝聚力。研究表明，鼓励自我表达可以提高工作满意度、员工生产力和公司利润。</description>
+      <pubDate>2024-10-04 12:00:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #869</title>
+      <link>https://tympanus.net/codrops/collective/collective-869/</link>
+      <description>Ahmad Shadeed分享了网站重设计的背后故事，Rick Viscomi和Addy Osmani宣布Web Vitals将集成到Chrome DevTools中，2024年HTML状态调查现在开放，Alvaro Montoro探讨了CSS的新特性，Josh Comeau介绍了使用Next.js App Router重建博客的经验，Mat Marquis提供了JavaScript解构的指南，Jonas Hietala反思了博客的长期运营，Simon Willison讨论了AI工具的实际应用，Bramus解决了View Transitions的问题，Adam Argyle解释了使用CSS创建平滑过渡的方法，Netlify庆祝了500万开发者，KeakKeak推出了AI网站优化工具，Michael Crawford分享了UI动画的创作过程，Meco推出了21世纪的新闻阅读器应用。</description>
+      <pubDate>2024-10-04 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>High Availability in Prometheus: Best Practices and Tips</title>
+      <link>https://last9.io/blog/high-availability-in-prometheus/</link>
+      <description>本文探讨了在Prometheus中实现高可用性的最佳实践和技巧。文章强调了在云原生环境中，随着微服务的普及，可靠监控的重要性。介绍了Prometheus的高可用性概念，包括多实例部署、Alertmanager、Thanos或Cortex、Kubernetes和Grafana等关键组件。此外，还提供了在Kubernetes集群中设置高可用Prometheus的步骤，包括部署多个Prometheus实例、配置Alertmanager、设置Thanos、配置远程写入以及部署Grafana。最后，文章提出了实现Prometheus高可用性的最佳实践，如使用外部标签、实施去重、分片Prometheus实例、优化保留和存储、定期备份以及监控监控器。</description>
+      <pubDate>2024-10-04 10:21:13</pubDate>
+    </item>
+  
+    <item>
       <title>A new law in California protects consumers’ brain data. Some think it doesn’t go far enough.</title>
       <link>https://www.technologyreview.com/2024/10/04/1104972/law-california-protects-brain-data-doesnt-go-far-enough/</link>
       <description>加州新法律保护消费者大脑数据，引发对精神隐私保护的讨论。该法修正了2018年加州消费者隐私法案，将神经数据明确纳入个人信息保护范畴，禁止公司出售或共享个人数据，并赋予消费者了解和删除数据的权利。然而，一些支持者认为法律在保护神经数据方面仍不够充分，呼吁进一步明确神经数据的定义和保护范围。</description>
@@ -38,6 +59,13 @@
       <link>https://techblog.criteo.com/the-cement-of-software-a-deep-dive-into-testing-8c9b0b549769?source=rss----fc3ea5a64a12---4</link>
       <description>软件测试是软件开发中不可或缺的基石，它不仅有助于发现和修复错误，还能确保软件的稳定性和可维护性。本文深入探讨了软件测试的重要性，包括回归测试的价值、测试覆盖率的作用、处理遗留代码的策略，以及如何平衡可读性和效率。通过借鉴资深软件开发者的经验和教训，文章强调了测试不仅是开发过程中的一个阶段，更是确保软件长期稳定运行的关键。</description>
       <pubDate>2024-10-04 06:37:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: Stop Poking Me!</title>
+      <link>https://thedailywtf.com/articles/stop-poking-me</link>
+      <description>程序员Lyle Seaman分享了他对魔兽III和Freeciv游戏的趣事，包括游戏补丁引入的bug和邮件调查中的问题。他还提到了一个剧院座位选择UI的例子，其按钮布局存在问题。</description>
+      <pubDate>2024-10-04 06:30:00</pubDate>
     </item>
   
     <item>
