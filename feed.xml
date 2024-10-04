@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Interviewed by Book Overflow podcast on Refactoring</title>
+      <link>https://www.youtube.com/watch?v=CjCJ76oZXTE</link>
+      <description>请更新您的浏览器以获得最佳YouTube体验和最新功能。其他无关信息已去除。</description>
+      <pubDate>2024-10-04 07:16:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing OpenSSL-backed Go cryptographic algorithms</title>
+      <link>https://developers.redhat.com/articles/2024/10/04/openssl-go-cryptographic-algorithms</link>
+      <description>本文介绍了如何在Go语言中实现基于OpenSSL的加密算法。Go标准库提供了丰富的加密功能，但并非所有算法都包含在内。Red Hat Enterprise Linux (RHEL) 通过Go Toolset包提供的Go工具链对Go标准库的加密API进行了FIPS合规性增强，通过链接OpenSSL加密库实现。文章还提供了如何创建自己的CGO绑定并利用Go OpenSSL绑定库来实现非标准库加密算法的示例。</description>
+      <pubDate>2024-10-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Tutorial: Tool up your LLM with Apache Camel on OpenShift</title>
+      <link>https://developers.redhat.com/articles/2024/10/04/tutorial-tool-your-llm-apache-camel-openshift</link>
+      <description>本教程介绍了如何在Red Hat OpenShift的Developer Sandbox中学习大型语言模型（LLM）的基础知识。通过Apache Camel和Kaoto可视化编辑器，用户可以无需任何先决条件或设置即可快速上手。教程重点展示了如何使用Apache Camel构建处理流程和LLM功能，并最终将原型导出为可部署的应用程序。</description>
+      <pubDate>2024-10-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Cement of Software: A Deep Dive into Testing</title>
+      <link>https://techblog.criteo.com/the-cement-of-software-a-deep-dive-into-testing-8c9b0b549769?source=rss----fc3ea5a64a12---4</link>
+      <description>软件测试是软件开发中不可或缺的基石，它不仅有助于发现和修复错误，还能确保软件的稳定性和可维护性。本文深入探讨了软件测试的重要性，包括回归测试的价值、测试覆盖率的作用、处理遗留代码的策略，以及如何平衡可读性和效率。通过借鉴资深软件开发者的经验和教训，文章强调了测试不仅是开发过程中的一个阶段，更是确保软件长期稳定运行的关键。</description>
+      <pubDate>2024-10-04 06:37:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Serving Leaner Cloudfront Bills: Our Recipe for 50% Savings</title>
+      <link>https://bytes.swiggy.com/serving-leaner-cloudfront-bills-our-recipe-for-50-savings-2670e66dc749?source=rss----9556560f659---4</link>
+      <description>Swiggy通过一系列优化措施成功将Cloudfront成本降低了50%。措施包括：分析数据传输模式，减少错误HTML文件大小，使用HTML Minifier进行代码精简，压缩资产，改进资产缓存，以及迁移到更高效的CDN。这些优化不仅降低了成本，还提高了性能。</description>
+      <pubDate>2024-10-04 05:56:26</pubDate>
+    </item>
+  
+    <item>
       <title>Join thoughtbot Open Summit 2024 - A virtual Open Source hack day</title>
       <link>https://thoughtbot.com/blog/join-thoughtbot-open-summit-2024</link>
       <description>thoughtbot将于2024年10月25日举办首届Open Summit，这是一个免费的虚拟开源黑客马拉松。活动将从上午9:30至晚上9:00 UTC进行，由10多位全球开发人员主持。参与者将与开源维护者合作，参与Administrate、Belt、FactoryBot等项目，并有机会观看相关主题的演讲。活动还包括技术交流和奖品。注册参加即可。</description>
