@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Shift Left: Bad Data in Event Streams, Part 1</title>
+      <link>https://www.confluent.io/blog/shift-left-bad-data-in-event-streams-part-1/</link>
+      <description>本文探讨了在事件流中预防和修复不良数据的问题。不良数据可能导致严重问题，影响下游数据用户。文章分析了不良数据如何进入事件流，以及如何处理它。此外，还讨论了不良数据对业务决策的潜在影响，并提出了预防不良数据进入流的有效策略。</description>
+      <pubDate>2024-10-04 17:54:08</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Monthly Partnership Roundup August and September, 2024</title>
+      <link>https://www.digitalocean.com/blog/aug-sept-2024-partnership-roundup</link>
+      <description>DigitalOcean在2024年8月和9月加强了合作伙伴关系，扩展了网络，与多家新公司建立联系。该合作伙伴计划为不同成长阶段的企业提供定制解决方案和专家支持，包括ISV、托管服务提供商和代理。加入DigitalOcean合作伙伴网络可享受高达25%的服务折扣，初创企业可申请Hatch计划，开发者可在DigitalOcean市场销售软件。</description>
+      <pubDate>2024-10-04 17:46:03</pubDate>
+    </item>
+  
+    <item>
+      <title>A Better Conversation (Palantir CSE #1)</title>
+      <link>https://blog.palantir.com/a-better-conversation-palantir-cse-1-8c6fb00ba5be?source=rss----3c87dc14372f---4</link>
+      <description>Palantir推出了一款名为Customer Service Engine（CSE）的人工智能客服引擎，旨在通过自动化和优化客服流程，提高客户体验。该引擎在短短六周内就自动化处理了90%的客户服务查询，并显著提高了响应速度和准确性。CSE采用多智能体架构，通过分类、响应、行动建议、集成和模态转换等智能体类型，实现了高效的问题解决和客户沟通。此外，CSE还具备记忆模块和工具集，以支持复杂任务的处理和个性化服务。</description>
+      <pubDate>2024-10-04 16:14:10</pubDate>
+    </item>
+  
+    <item>
       <title>Why Developers Should Attend Oktane Online</title>
       <link>https://auth0.com/blog/why-developers-should-attend-oktane-online/</link>
       <description>Oktane Online 2024为开发者量身定制，于2024年10月15日至17日举行，包括关键演讲、技术研讨会和实操演示，帮助开发者掌握身份和访问管理。通过专家指导、实时互动和最新创新，开发者将学习如何构建更安全、更高效的应用程序。活动完全免费，包括现场和点播内容，是提升身份管理技能的绝佳机会。</description>
@@ -38,6 +59,13 @@
       <link>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</link>
       <description>近期，Codrops在其通讯中分享了多个创意和有趣的编码实验，包括动画、GSAP魔法和WebGL/Three.js技术。这些实验展示了前端开发的创新和创意，为读者提供了丰富的灵感和学习资源。</description>
       <pubDate>2024-10-04 13:08:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Navigating Web3 dynamism: Ledger's solution to traffic spike stability with Vercel</title>
+      <link>https://vercel.com/blog/ledgers-solution-to-traffic-spike-stability-with-vercel</link>
+      <description>Ledger通过采用Next.js和Vercel，成功应对了Web3市场的动态变化，实现了100倍以上的发布频率和67%的加载时间减少。Vercel的无服务器架构和可扩展性为Ledger提供了稳定可靠的技术基础设施，支持其电商平台和Web应用，即使在市场波动中也能保持流畅的用户体验。</description>
+      <pubDate>2024-10-04 13:00:00</pubDate>
     </item>
   
     <item>
