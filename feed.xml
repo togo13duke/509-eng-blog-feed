@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Join thoughtbot Open Summit 2024 - A virtual Open Source hack day</title>
+      <link>https://thoughtbot.com/blog/join-thoughtbot-open-summit-2024</link>
+      <description>thoughtbot将于2024年10月25日举办首届Open Summit，这是一个免费的虚拟开源黑客马拉松。活动将从上午9:30至晚上9:00 UTC进行，由10多位全球开发人员主持。参与者将与开源维护者合作，参与Administrate、Belt、FactoryBot等项目，并有机会观看相关主题的演讲。活动还包括技术交流和奖品。注册参加即可。</description>
+      <pubDate>2024-10-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Thousands of Linux systems infected by stealthy malware since 2021</title>
+      <link>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</link>
+      <description>自2021年以来，数千台Linux系统被一种名为Perfctl的隐蔽恶意软件感染。这种恶意软件能够利用超过20,000种常见配置错误，并具有广泛的恶意活动能力。它通过多种手段隐藏自身，包括使用rootkit、在用户登录时停止活动、使用Tor进行外部通信等。此外，它还能将受感染的机器变成盈利的代理服务器，并可能被用于安装其他恶意软件。研究人员估计，受感染的机器数量以千计，而潜在易受攻击的机器数量以百万计。</description>
+      <pubDate>2024-10-03 23:42:05</pubDate>
+    </item>
+  
+    <item>
       <title>Slim Reader/Writer Locks are neato</title>
       <link>https://nullprogram.com/blog/2024/10/03/</link>
       <description>Slim Reader/Writer Locks 是一种高效的同步机制，具有简洁的接口和零初始化特性。本文探讨了其基于 futex 的实现，并介绍了如何使用 C++ 封装 Win32 锁和条件变量，以实现高效的线程同步。</description>
