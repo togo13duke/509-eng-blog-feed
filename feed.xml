@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why Developers Should Attend Oktane Online</title>
+      <link>https://auth0.com/blog/why-developers-should-attend-oktane-online/</link>
+      <description>Oktane Online 2024为开发者量身定制，于2024年10月15日至17日举行，包括关键演讲、技术研讨会和实操演示，帮助开发者掌握身份和访问管理。通过专家指导、实时互动和最新创新，开发者将学习如何构建更安全、更高效的应用程序。活动完全免费，包括现场和点播内容，是提升身份管理技能的绝佳机会。</description>
+      <pubDate>2024-10-04 15:49:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why I Use Swift To Make Generative Art</title>
+      <link>https://thecodist.com/why-i-use-swift-to-make-generative-art/</link>
+      <description>我使用Swift制作生成式艺术的原因在于，Swift是我职业生涯中使用的语言之一，我对它非常熟悉。我喜欢Swift的现代语法、持续改进、良好的性能和易于实现高质量代码的特性。在退休后，我选择使用Swift而非流行的框架，如p5.js，以保持艺术创作的独特性。我依赖Swift的性能和MacOS框架，如Core Image和Core Graphics，以及自己设计的算法。我的艺术作品虽然多样，但都通过类似的过程和多种工具完成。我选择Swift是因为它让我能够快速尝试新事物，并保留有效的成果。</description>
+      <pubDate>2024-10-04 15:47:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Python in Visual Studio Code – October 2024 Release</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2024-release/</link>
+      <description>Visual Studio Code的Python和Jupyter扩展在2024年10月发布了新版本，新增了运行带覆盖率的Python测试、默认Python问题匹配器、Pylance语言服务器模式等特性，同时还包括了其他改进和问题修复，以提升Python和Jupyter在VS Code中的使用体验。</description>
+      <pubDate>2024-10-04 14:21:59</pubDate>
+    </item>
+  
+    <item>
+      <title>The GANfather: Using Malicious GenAI Agents to Combat Money Laundering</title>
+      <link>https://medium.com/feedzaitech/the-ganfather-using-malicious-genai-agents-to-combat-money-laundering-1666908113fc?source=rss----e11168e7fe6b---4</link>
+      <description>利用生成式AI技术对抗洗钱：本文介绍了Feedzai开发的一种方法，通过生成模拟洗钱活动的合成数据来训练检测系统，无需依赖标记数据。这种方法结合了生成对抗网络（GAN）和优化目标，能够识别和预防洗钱活动，提高金融系统的安全性。</description>
+      <pubDate>2024-10-04 13:49:42</pubDate>
+    </item>
+  
+    <item>
       <title>Some Recent Creative &amp; Fun Coding Experiments</title>
       <link>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</link>
       <description>近期，Codrops在其通讯中分享了多个创意和有趣的编码实验，包括动画、GSAP魔法和WebGL/Three.js技术。这些实验展示了前端开发的创新和创意，为读者提供了丰富的灵感和学习资源。</description>
@@ -97,6 +125,13 @@
     </item>
   
     <item>
+      <title>Meet the AI native developers who build software through prompt engineering</title>
+      <link>https://stackoverflow.blog/2024/10/04/develop-software-with-ai-prompt-engineering-code-generation/</link>
+      <description>AI原生开发者Crystal Xu通过提示工程构建软件，她利用Python和Java在公司内部开发应用和服务，而无需传统计算机科学教育或编码培训。她与ChatGPT、Cursor和Replit等GenAI系统合作，通过提示工程实现软件构建。</description>
+      <pubDate>2024-10-04 04:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Inertia 2.0 Beta is Coming Soon</title>
       <link>https://laravel-news.com/inertia-2-beta-coming-soon</link>
       <description>Inertia 2.0 Beta即将发布，带来异步请求、轮询、懒加载组件等新特性，支持无限滚动和预加载页面。此版本对请求/路由层进行了重构，以支持异步请求并解锁其他新功能。预计下周发布，敬请关注。</description>
@@ -107,6 +142,13 @@
       <title>Join thoughtbot Open Summit 2024 - A virtual Open Source hack day</title>
       <link>https://thoughtbot.com/blog/join-thoughtbot-open-summit-2024</link>
       <description>thoughtbot将于2024年10月25日举办首届Open Summit，这是一个免费的虚拟开源黑客马拉松。活动将从上午9:30至晚上9:00 UTC进行，由10多位全球开发人员主持。参与者将与开源维护者合作，参与Administrate、Belt、FactoryBot等项目，并有机会观看相关主题的演讲。活动还包括技术交流和奖品。注册参加即可。</description>
+      <pubDate>2024-10-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Transforming cybersecurity with Elastic Search AI: A game-changer for Proficio</title>
+      <link>https://www.elastic.co/blog/transforming-cybersecurity-elastic-search-ai-proficio</link>
+      <description>Proficio利用Elastic Search AI技术，通过Elastic AI Assistant和Elastic Attack Discovery，大幅提升了其威胁检测和响应能力，将威胁检测时间缩短了34%。这种创新解决方案帮助Proficio在分析大量数据的同时，快速识别高可信度威胁，从而提高了安全性和效率。</description>
       <pubDate>2024-10-04 00:00:00</pubDate>
     </item>
   
