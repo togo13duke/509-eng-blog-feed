@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Some Recent Creative &amp; Fun Coding Experiments</title>
+      <link>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</link>
+      <description>近期，Codrops在其通讯中分享了多个创意和有趣的编码实验，包括动画、GSAP魔法和WebGL/Three.js技术。这些实验展示了前端开发的创新和创意，为读者提供了丰富的灵感和学习资源。</description>
+      <pubDate>2024-10-04 13:08:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Last9 at the 3rd Annual India DevOps Show 2024!</title>
+      <link>https://last9.io/events/join-last9-at-the-devops-show-2024/</link>
+      <description>在2024年10月10日举行的第三届印度DevOps展会上，Last9将展示如何通过其兼容Prometheus和OpenTelemetry的遥测数据仓库，简化监控需求，提供实时指标、高效管理高基数数据，并支持云环境部署。Last9提供即时洞察、全面数据保留和开发者友好的控制平面，助力高效监控和问题检测。</description>
+      <pubDate>2024-10-04 12:46:04</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Google’s AI podcasts, and protecting your brain data</title>
+      <link>https://www.technologyreview.com/2024/10/04/1104991/the-download-googles-ai-podcasts-and-protecting-your-brain-data/</link>
+      <description>Google推出AI播客工具Audio Overview，可制作逼真播客；加州新法律保护消费者大脑数据，引发隐私保护讨论。</description>
+      <pubDate>2024-10-04 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Why Self-Expression at Work Matters: From Desk Plushies to Tattoos</title>
       <link>https://spin.atomicobject.com/self-expression-at-work-matters/</link>
       <description>在Atomic Object工作，员工被鼓励展现自我，无论是通过装饰桌面还是着装风格。这种自我表达不仅体现了公司的包容性文化，还促进了员工之间的理解和团队凝聚力。研究表明，鼓励自我表达可以提高工作满意度、员工生产力和公司利润。</description>
@@ -73,6 +94,13 @@
       <link>https://bytes.swiggy.com/serving-leaner-cloudfront-bills-our-recipe-for-50-savings-2670e66dc749?source=rss----9556560f659---4</link>
       <description>Swiggy通过一系列优化措施成功将Cloudfront成本降低了50%。措施包括：分析数据传输模式，减少错误HTML文件大小，使用HTML Minifier进行代码精简，压缩资产，改进资产缓存，以及迁移到更高效的CDN。这些优化不仅降低了成本，还提高了性能。</description>
       <pubDate>2024-10-04 05:56:26</pubDate>
+    </item>
+  
+    <item>
+      <title>The Inertia 2.0 Beta is Coming Soon</title>
+      <link>https://laravel-news.com/inertia-2-beta-coming-soon</link>
+      <description>Inertia 2.0 Beta即将发布，带来异步请求、轮询、懒加载组件等新特性，支持无限滚动和预加载页面。此版本对请求/路由层进行了重构，以支持异步请求并解锁其他新功能。预计下周发布，敬请关注。</description>
+      <pubDate>2024-10-04 03:14:16</pubDate>
     </item>
   
     <item>
@@ -241,6 +269,13 @@
       <link>https://spin.atomicobject.com/reviewing-code-new-dev/</link>
       <description>新开发者指南：本文为初出校门的新手开发者提供代码审查的实用建议。强调编写清晰、可读的代码，提供详尽的测试说明，以及如何有效地进行代码审查和反馈。强调团队合作和持续学习的重要性，帮助新开发者更好地融入团队，提升软件开发技能。</description>
       <pubDate>2024-10-03 12:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python import: Advanced Techniques and Tips</title>
+      <link>https://realpython.com/quizzes/python-import/</link>
+      <description>本文章提供了一次关于Python导入语句的高级技巧和提示的互动测验，旨在测试读者对模块使用和动态导入的理解。测验包含五个问题，无时间限制，每答对一题得一分，最终获得总分。文章鼓励读者通过测验来巩固学习成果。</description>
+      <pubDate>2024-10-03 12:00:00</pubDate>
     </item>
   
     <item>
