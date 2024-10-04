@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Meta’s new “Movie Gen” AI system can deepfake video from a single photo</title>
+      <link>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</link>
+      <description>Meta推出了一项名为“Movie Gen”的AI系统，能够从单人照片中生成深度伪造视频。该系统能够根据文本提示生成包含声音的个性化视频，并编辑现有视频。这一技术可能导致虚假视频的滥用，但同时也可能用于创造性的内容制作。</description>
+      <pubDate>2024-10-04 18:42:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Important Updates to Jira Service Management Pricing and Packaging</title>
+      <link>https://www.atlassian.com/blog/announcements/jsm-cloud-pricing-packaging-update-blog</link>
+      <description>Atlassian宣布对Jira Service Management的定价和套餐进行重要更新，包括将高级功能移至高级版和企业版，以及引入基于使用量的定价模式。这些变化将于2024年10月16日生效，并包括对受影响客户的12个月宽限期。</description>
+      <pubDate>2024-10-04 18:25:49</pubDate>
+    </item>
+  
+    <item>
       <title>Shift Left: Bad Data in Event Streams, Part 1</title>
       <link>https://www.confluent.io/blog/shift-left-bad-data-in-event-streams-part-1/</link>
       <description>本文探讨了在事件流中预防和修复不良数据的问题。不良数据可能导致严重问题，影响下游数据用户。文章分析了不良数据如何进入事件流，以及如何处理它。此外，还讨论了不良数据对业务决策的潜在影响，并提出了预防不良数据进入流的有效策略。</description>
@@ -65,6 +79,13 @@
       <title>Navigating Web3 dynamism: Ledger's solution to traffic spike stability with Vercel</title>
       <link>https://vercel.com/blog/ledgers-solution-to-traffic-spike-stability-with-vercel</link>
       <description>Ledger通过采用Next.js和Vercel，成功应对了Web3市场的动态变化，实现了100倍以上的发布频率和67%的加载时间减少。Vercel的无服务器架构和可扩展性为Ledger提供了稳定可靠的技术基础设施，支持其电商平台和Web应用，即使在市场波动中也能保持流畅的用户体验。</description>
+      <pubDate>2024-10-04 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vercel Terraform Provider now supports Vercel Firewall resources</title>
+      <link>https://vercel.com/changelog/vercel-terraform-provider-now-supports-vercel-firewall</link>
+      <description>Vercel Terraform Provider新增支持Vercel Firewall资源，通过基础设施即代码（IaC）自动化配置和管理，实现自定义规则、攻击挑战模式控制及IP地址管理，提升Vercel项目安全性。</description>
       <pubDate>2024-10-04 13:00:00</pubDate>
     </item>
   
