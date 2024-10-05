@@ -20,6 +20,13 @@
     </item>
   
     <item>
+      <title>Testing CSS Print Media Styles</title>
+      <link>https://glebbahmutov.com/blog/test-print-styles/</link>
+      <description>本文介绍了如何使用Cypress测试CSS打印媒体样式。作者展示了如何设置浏览器模拟打印媒体并测试样式，包括隐藏不需要在打印视图中的元素，如导航。文章还提供了在Cypress测试中设置模拟CSS媒体的方法，并展示了如何使用cypress-cdp插件简化Chrome调试协议命令的执行。</description>
+      <pubDate>2024-10-05 04:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Launch A Project In One Day</title>
       <link>https://www.amazingcto.com/launch-a-project-in-one-day/</link>
       <description>在一天内启动一个项目：通过限制范围和使用已知技能，作者成功地在一天内创建了一个名为MustReadBooks.me的网站，用于分享必读书籍列表。他强调了避免新工具和技术的诱惑，专注于实现目标的重要性。</description>
