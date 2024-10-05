@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>OpenAI’s Canvas can translate code between languages with a click</title>
+      <link>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</link>
+      <description>OpenAI推出Canvas，一个增强ChatGPT协作的新界面，可翻译代码并在侧边栏中提供快捷操作，如编辑、调试和代码转换。Canvas使用GPT-4o模型，支持用户在文档或代码编辑中保持专注，并允许用户恢复旧版本。该功能目前处于测试阶段，预计将逐步向所有用户开放。</description>
+      <pubDate>2024-10-04 19:55:09</pubDate>
+    </item>
+  
+    <item>
       <title>Meta’s new “Movie Gen” AI system can deepfake video from a single photo</title>
       <link>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</link>
       <description>Meta推出了一项名为“Movie Gen”的AI系统，能够从单人照片中生成深度伪造视频。该系统能够根据文本提示生成包含声音的个性化视频，并编辑现有视频。这一技术可能导致虚假视频的滥用，但同时也可能用于创造性的内容制作。</description>
@@ -198,6 +205,13 @@
       <title>Transforming cybersecurity with Elastic Search AI: A game-changer for Proficio</title>
       <link>https://www.elastic.co/blog/transforming-cybersecurity-elastic-search-ai-proficio</link>
       <description>Proficio利用Elastic Search AI技术，通过Elastic AI Assistant和Elastic Attack Discovery，大幅提升了其威胁检测和响应能力，将威胁检测时间缩短了34%。这种创新解决方案帮助Proficio在分析大量数据的同时，快速识别高可信度威胁，从而提高了安全性和效率。</description>
+      <pubDate>2024-10-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>New Features in Teleport Policy provide more insight into infrastructure policy risks</title>
+      <link>https://goteleport.com/blog/gain-proactive-insight-into-infrastructure-policy/</link>
+      <description>Teleport Policy 16新功能提供更深入的基础设施策略洞察，包括对常驻权限的可见性、优先保护关键资源以及通过SSH密钥发现影子访问。这些特性帮助组织识别风险、加强安全，并提高效率。</description>
       <pubDate>2024-10-04 00:00:00</pubDate>
     </item>
   
