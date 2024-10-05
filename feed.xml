@@ -146,6 +146,13 @@
     </item>
   
     <item>
+      <title>Quiz: Iterators and Iterables in Python: Run Efficient Iterations</title>
+      <link>https://realpython.com/quizzes/python-iterators-iterables/</link>
+      <description>本文章介绍Python中的迭代器和可迭代对象，通过20个问题的互动测验，帮助读者复习创建和使用迭代器与可迭代对象的方法，理解它们之间的区别，并回顾生成器函数和yield语句的使用。</description>
+      <pubDate>2024-10-04 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Collective #869</title>
       <link>https://tympanus.net/codrops/collective/collective-869/</link>
       <description>Ahmad Shadeed分享了网站重设计的背后故事，Rick Viscomi和Addy Osmani宣布Web Vitals将集成到Chrome DevTools中，2024年HTML状态调查现在开放，Alvaro Montoro探讨了CSS的新特性，Josh Comeau介绍了使用Next.js App Router重建博客的经验，Mat Marquis提供了JavaScript解构的指南，Jonas Hietala反思了博客的长期运营，Simon Willison讨论了AI工具的实际应用，Bramus解决了View Transitions的问题，Adam Argyle解释了使用CSS创建平滑过渡的方法，Netlify庆祝了500万开发者，KeakKeak推出了AI网站优化工具，Michael Crawford分享了UI动画的创作过程，Meco推出了21世纪的新闻阅读器应用。</description>
