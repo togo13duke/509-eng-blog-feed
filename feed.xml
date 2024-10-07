@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AWS Weekly Roundup: HIPAA eligible with Amazon Q Business, Amazon DCV, AWS re:Post Agent, and more (Oct 07, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-is-hipaa-eligible-amazon-dcv-aws-repost-agent-and-more-oct-07-2024/</link>
+      <description>AWS本周发布了多项新功能，包括Amazon Q Business获得HIPAA认证、NICE DCV更名为Amazon DCV、AWS re:Post推出re:Post Agent等。此外，还推出了Amazon Timestream、Amazon Bedrock Knowledge Bases等新功能，并提高了Amazon AppStream 2.0的存储限制。同时，AWS还帮助受飓风影响的社区，并在Wired杂志上发表关于生成式AI的文章。</description>
+      <pubDate>2024-10-07 17:36:37</pubDate>
+    </item>
+  
+    <item>
       <title>Highlights from Git 2.47</title>
       <link>https://github.blog/open-source/git/highlights-from-git-2-47/</link>
       <description>Git 2.47版本发布，新增了增量多包索引等特性，优化了对象查找速度，并引入了新工具“for-each-ref”来快速查找基础分支。</description>
