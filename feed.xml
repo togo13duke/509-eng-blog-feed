@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Highlights from Git 2.47</title>
+      <link>https://github.blog/open-source/git/highlights-from-git-2-47/</link>
+      <description>Git 2.47版本发布，新增了增量多包索引等特性，优化了对象查找速度，并引入了新工具“for-each-ref”来快速查找基础分支。</description>
+      <pubDate>2024-10-07 15:59:17</pubDate>
+    </item>
+  
+    <item>
+      <title>An OLX Chat: The Journey to Staff Engineering</title>
+      <link>https://tech.olx.com/an-olx-chat-the-journey-to-staff-engineering-e1e7b1de3c53?source=rss----761b019b483f---4</link>
+      <description>OLX工程师Paulo Zenida分享了他从咨询行业到成为OLX工程团队核心成员的旅程，包括技术领导、产品团队创新、新技能掌握以及建立信任和协作团队环境的策略。他还探讨了持续学习和业务需求平衡，并展望了OLX的当前技术项目和未来方向。</description>
+      <pubDate>2024-10-07 15:02:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Python News Roundup: October 2024</title>
+      <link>https://realpython.com/python-news-october-2024/</link>
+      <description>2024年10月，Python界发生了一系列重要事件。Python 3.13版本发布略有延迟，带来了许多新特性和改进，包括新的交互式解释器和即时编译器。Python 3.8即将达到其生命周期的终点，不再接收安全更新。Polars库增加了与Altair库的集成，用于轻量级绘图。DjangoCon US会议在北卡罗来纳州达勒姆举行，讨论了Django框架的最新进展。Python社区持续发展，期待Python 3.14的发布。</description>
+      <pubDate>2024-10-07 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing a Patients’ Guide to Foundry</title>
+      <link>https://blog.palantir.com/introducing-a-patients-guide-to-foundry-c5554b7f1313?source=rss----3c87dc14372f---4</link>
+      <description>Palantir与英国国家医疗服务体系（NHS）合作，开发了Foundry平台，以整合和利用数据，提高医疗决策和患者护理质量。该平台在COVID-19疫情期间管理关键资源，如呼吸机，并支持开发创新数字工具。为增强患者对数据处理的信任，Palantir与患者协会合作，发布了一本患者指南，解释Foundry如何保护患者隐私并提高护理个性化。指南旨在帮助患者了解Foundry的工作原理及其对NHS的行政和护理益处。</description>
+      <pubDate>2024-10-07 13:51:36</pubDate>
+    </item>
+  
+    <item>
       <title>Using an AI Assistant to Script Tools</title>
       <link>https://www.docker.com/blog/using-an-ai-assistant-to-script-tools/</link>
       <description>Docker Labs探索了使用AI助手来编写工具的潜力，通过AI生成SQL语句和JavaScript程序来自动化软件开发流程。这种方法利用了AI在数据处理和编程任务上的能力，同时通过Docker容器创建隔离的运行环境，提高了数据安全和工具的可重用性。Docker社区将继续探索此类工具在软件开发中的应用。</description>
@@ -17,6 +45,27 @@
       <link>https://www.timescale.com/blog/making-postgres-easier/</link>
       <description>Timescale通过集成PopSQL、简化集群管理、提供灵活的复制选项和改进的迁移工具，使PostgreSQL更易于使用和更可靠。这些更新包括一个现代的Postgres GUI、从概念到生产的快速UI工具、简化集群管理的PatroniSets、异步和同步复制选项，以及无缝的实时迁移工具，旨在提高性能和可靠性。</description>
       <pubDate>2024-10-07 13:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>How Supabase increased signups through the Vercel Marketplace</title>
+      <link>https://vercel.com/blog/how-supabase-increased-signups-through-the-vercel-marketplace</link>
+      <description>Supabase通过Vercel市场增加了注册量，提供无缝的集成和快速上手体验，使开发者能够直接从Vercel CLI或仪表板设置和管理Supabase数据库，从而显著提高了用户采用率和满意度。</description>
+      <pubDate>2024-10-07 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Thermal design supporting Gen 12 hardware: cool, efficient and reliable</title>
+      <link>https://blog.cloudflare.com/thermal-design-supporting-gen-12-hardware-cool-efficient-and-reliable</link>
+      <description>Cloudflare的Gen 12硬件采用先进的散热设计，确保高效、可靠和冷却效果。通过优化热管、风扇和系统布局，该设计支持更高的系统功率，同时降低冷却能耗。这种设计旨在提高服务器性能，确保在全球数据中心网络中保持最佳性能。</description>
+      <pubDate>2024-10-07 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Composer Package Executor (CPX) - bring NPX to Composer</title>
+      <link>https://laravel-news.com/cpx</link>
+      <description>cpx（Composer Package Executor）是一款由Liam Hammett开发的工具，简化了开发工作流程。它允许用户从Composer包中运行任何命令，无需安装。cpx自动处理包的安装和更新，确保项目一致性，并支持多种测试和代码格式化工具，与Laravel良好集成。</description>
+      <pubDate>2024-10-07 12:12:46</pubDate>
     </item>
   
     <item>
@@ -86,6 +135,20 @@
       <title>Ruby 3.4.0 preview2 Released</title>
       <link>https://www.ruby-lang.org/en/news/2024/10/07/ruby-3-4-0-preview2-released/</link>
       <description>Ruby 3.4.0 preview2版本发布，引入了多项新特性和改进，包括默认解析器更新、字符串字面量行为变更、异常和范围类更新、错误消息和C API的改进。此外，还进行了性能优化和代码重构，以提升整体性能和稳定性。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Improved Debugging with IPFS Check</title>
+      <link>https://blog.ipfs.tech/ipfs-check/</link>
+      <description>IPFS Check新版本简化了IPFS主网上的数据检索调试，提供CID路由和检索的详细信息，无需安装，支持CID-only检查、IPNI支持、NAT穿越和网络协议查看。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Migrating in-place from PostgreSQL to MySQL</title>
+      <link>https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html</link>
+      <description>Yelp的预订服务（yelp_res）是一个使用Django构建的Django服务和webapp，负责餐厅预订的后端和逻辑。由于使用PostgreSQL数据库，维护和故障响应存在困难。因此，Yelp将其迁移到MySQL数据库，以简化维护并提高性能。迁移过程中遇到了许多挑战，包括数据同步、功能替换和性能优化。最终，迁移过程顺利进行，并提高了系统的稳定性和性能。</description>
       <pubDate>2024-10-07 00:00:00</pubDate>
     </item>
   
