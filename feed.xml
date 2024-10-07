@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>High-Performance Java Persistence Newsletter, Issue 67</title>
+      <link>https://vladmihalcea.com/high-performance-java-persistence-newsletter-issue-67/</link>
+      <description>《高性能Java持久化》第67期通讯中，介绍了Hypersistence Optimizer工具，它可自动检测JPA和Hibernate性能问题。文章还分享了关于B+树索引、SQL标准、Hibernate Envers、ProxySQL、Hibernate 6.6继承特性等内容的文章，以及即将在奥斯陆举行的高性能Spring持久化培训信息。</description>
+      <pubDate>2024-10-07 09:40:50</pubDate>
+    </item>
+  
+    <item>
       <title>Manage MicroShift with Red Hat Advanced Cluster Management and OpenShift GitOps</title>
       <link>https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops</link>
       <description>MicroShift是一种轻量级的Kubernetes发行版，适用于资源有限的边缘或嵌入式环境。本文探讨了使用Red Hat Advanced Cluster Management和OpenShift GitOps管理MicroShift配置和应用程序部署的两种方法：将GitOps和其他清单嵌入RHEL RPM，以及使用RHACM动态提供GitOps清单进行远程管理。两种方法都涉及使用Argo CD App-of-Apps模式进行集群配置和应用程序部署。</description>
