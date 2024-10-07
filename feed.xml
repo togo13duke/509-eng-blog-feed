@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Using an AI Assistant to Script Tools</title>
+      <link>https://www.docker.com/blog/using-an-ai-assistant-to-script-tools/</link>
+      <description>Docker Labs探索了使用AI助手来编写工具的潜力，通过AI生成SQL语句和JavaScript程序来自动化软件开发流程。这种方法利用了AI在数据处理和编程任务上的能力，同时通过Docker容器创建隔离的运行环境，提高了数据安全和工具的可重用性。Docker社区将继续探索此类工具在软件开发中的应用。</description>
+      <pubDate>2024-10-07 13:48:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Making Postgres Easier and More Reliable With Timescale</title>
+      <link>https://www.timescale.com/blog/making-postgres-easier/</link>
+      <description>Timescale通过集成PopSQL、简化集群管理、提供灵活的复制选项和改进的迁移工具，使PostgreSQL更易于使用和更可靠。这些更新包括一个现代的Postgres GUI、从概念到生产的快速UI工具、简化集群管理的PatroniSets、异步和同步复制选项，以及无缝的实时迁移工具，旨在提高性能和可靠性。</description>
+      <pubDate>2024-10-07 13:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: how to find new music online, and climate friendly food</title>
+      <link>https://www.technologyreview.com/2024/10/07/1105160/the-download-how-to-find-new-music-online-and-climate-friendly-food/</link>
+      <description>MIT Technology Review的《The Download》本周聚焦于音乐发现和气候友好型食品。文章探讨了音乐流媒体个性化对好奇心的影响，并介绍了如何打破Spotify算法的束缚。此外，还讨论了食品系统对全球温室气体排放的影响，以及两家公司如何通过创新肥料和减少牲畜排放来应对气候挑战。</description>
+      <pubDate>2024-10-07 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understand Entity Framework LINQ-to-SQL Translations</title>
+      <link>https://spin.atomicobject.com/entity-linq-sql-translations/</link>
+      <description>本文探讨了在.NET中使用Entity Framework进行LINQ-to-SQL查询时遇到的问题和解决方案。作者Peter Van Drunen描述了如何处理不同实体类型之间的相似业务逻辑，同时处理不同的字段名。他首先尝试了复制和修改代码的方法，但遇到了“无法将表达式转换为SQL”的错误。随后，他提出了一个更通用的解决方案，通过创建一个通用的接口来处理不同类型的查询，从而避免了重复的复杂逻辑。尽管这个解决方案不是完美的，但它至少将代码分成了不同的模块，并使用了相同的接口。作者还表达了对Entity Framework与LINQ交互限制的遗憾，并希望读者能提出更好的解决方案。</description>
+      <pubDate>2024-10-07 12:00:05</pubDate>
+    </item>
+  
+    <item>
       <title>The Evolution of the Kotlin Language and How You Can Contribute</title>
       <link>https://blog.jetbrains.com/kotlin/2024/10/the-evolution-of-the-kotlin-language-and-how-emyou-em-can-contribute/</link>
       <description>Kotlin语言的发展受到其活跃社区的影响，通过不断反馈和讨论，形成了Kotlin Evolution and Enhancement Process（KEEP）。KEEP确保新功能经过精心设计、专家评审和社区反馈。该过程包括探索、设计、公开审查、规划和实施、预览和稳定发布等阶段。开发者可以通过参与讨论、提供反馈和测试新功能来贡献自己的力量，共同塑造Kotlin的未来。</description>
@@ -41,9 +69,23 @@
     </item>
   
     <item>
+      <title>Optimize Your SQLite Database with the Laravel Optimize DB Package</title>
+      <link>https://laravel-news.com/optimize-db-for-laravel-sqlite</link>
+      <description>Laravel Optimize DB包由Nuno Maduro创建，旨在优化SQLite数据库性能。它通过迁移和运行时配置来应用一系列设置，包括WAL日志模式、缓存大小和内存映射，以提升并发和性能。尽管处于开发阶段，建议谨慎使用并在生产前备份数据库。</description>
+      <pubDate>2024-10-07 03:56:00</pubDate>
+    </item>
+  
+    <item>
       <title>How Solid Queue works under the hood</title>
       <link>https://www.honeybadger.io/blog/solid-queue-lifecycle/</link>
       <description>Solid Queue是一个用于ActiveJob的简单高效的后端，用于处理后台任务，无需额外依赖如Redis。本文深入探讨了Solid Queue的工作原理，包括其数据库表结构、工作流程以及如何处理失败的任务。Solid Queue通过创建和管理多个数据库表来跟踪任务状态，简化了后台任务的处理，并提供了透明的架构来管理任务的生命周期。了解Solid Queue的内部机制对于调试和优化Rails应用程序至关重要。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ruby 3.4.0 preview2 Released</title>
+      <link>https://www.ruby-lang.org/en/news/2024/10/07/ruby-3-4-0-preview2-released/</link>
+      <description>Ruby 3.4.0 preview2版本发布，引入了多项新特性和改进，包括默认解析器更新、字符串字面量行为变更、异常和范围类更新、错误消息和C API的改进。此外，还进行了性能优化和代码重构，以提升整体性能和稳定性。</description>
       <pubDate>2024-10-07 00:00:00</pubDate>
     </item>
   
