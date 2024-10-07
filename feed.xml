@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Evolution of the Kotlin Language and How You Can Contribute</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/10/the-evolution-of-the-kotlin-language-and-how-emyou-em-can-contribute/</link>
+      <description>Kotlin语言的发展受到其活跃社区的影响，通过不断反馈和讨论，形成了Kotlin Evolution and Enhancement Process（KEEP）。KEEP确保新功能经过精心设计、专家评审和社区反馈。该过程包括探索、设计、公开审查、规划和实施、预览和稳定发布等阶段。开发者可以通过参与讨论、提供反馈和测试新功能来贡献自己的力量，共同塑造Kotlin的未来。</description>
+      <pubDate>2024-10-07 10:27:35</pubDate>
+    </item>
+  
+    <item>
       <title>High-Performance Java Persistence Newsletter, Issue 67</title>
       <link>https://vladmihalcea.com/high-performance-java-persistence-newsletter-issue-67/</link>
       <description>《高性能Java持久化》第67期通讯中，介绍了Hypersistence Optimizer工具，它可自动检测JPA和Hibernate性能问题。文章还分享了关于B+树索引、SQL标准、Hibernate Envers、ProxySQL、Hibernate 6.6继承特性等内容的文章，以及即将在奥斯陆举行的高性能Spring持久化培训信息。</description>
@@ -24,6 +31,13 @@
       <link>https://developers.redhat.com/articles/2024/10/07/deploy-coding-copilot-model-openshift-ai</link>
       <description>Red Hat OpenShift AI提供了一种安全、隔离的平台，支持在具有严格连接限制的环境中部署微调的基础模型，以适应特定团队的编码实践。通过利用服务网格和Knative，它提供了推理API，确保在专用设置中的无缝集成和操作。此外，KServe简化了机器学习模型的生产部署，提供高性能和抽象接口，支持多种机器学习框架。通过这些工具，团队可以在保持高准确性的同时，在定制开发生态系统中利用AI的潜力。</description>
       <pubDate>2024-10-07 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Representative Line: Try to Catch This</title>
+      <link>https://thedailywtf.com/articles/try-to-catch-this</link>
+      <description>这篇文章探讨了结构化异常处理在软件开发中的重要性。作者指出，在处理错误时，每一层都应该有机会通知并处理异常，而不是简单地让异常向上传递导致程序失败。文章通过一个匿名提交的代码示例，展示了错误处理不当的情况，并指出整个项目中没有使用任何try/catch语句。</description>
+      <pubDate>2024-10-07 06:30:00</pubDate>
     </item>
   
     <item>
