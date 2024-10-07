@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Windows dynamic linking depends on the active code page</title>
+      <link>https://nullprogram.com/blog/2024/10/07/</link>
+      <description>Windows动态链接依赖于活动代码页，这可能导致不同代码页下加载的DLL不同。文章通过一个示例展示了如何利用这一特性，并讨论了其潜在的应用和风险，尤其是在恶意软件中可能被用于欺骗检测工具。</description>
+      <pubDate>2024-10-07 19:50:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Building the Modern PostgreSQL GUI With PopSQL</title>
+      <link>https://www.timescale.com/blog/building-the-modern-postgres-gui/</link>
+      <description>PopSQL为现代PostgreSQL开发提供了一体化的GUI工具，包括操作模式和数据模式，以简化数据库管理和SQL查询开发。操作模式专注于配置和管理数据库服务，而数据模式则提供直观的SQL编辑器和协作功能，支持实时协作、自动补全、版本控制和可视化，从而提高开发效率。</description>
+      <pubDate>2024-10-07 19:27:46</pubDate>
+    </item>
+  
+    <item>
+      <title>How DigitalOcean Uses Semgrep to Fortify Security: A Highlight From Our Toolset</title>
+      <link>https://www.digitalocean.com/blog/semgrep-security</link>
+      <description>DigitalOcean利用开源静态分析工具Semgrep加强代码安全性，通过自动化和防护措施提高工程流程的安全性。Semgrep能够检测代码库中的漏洞，并集成到持续集成管道中，创建强大的安全框架。通过Semgrep，DigitalOcean能够快速识别和修复安全问题，增强开发者工作流程，并确保数据安全。</description>
+      <pubDate>2024-10-07 18:54:33</pubDate>
+    </item>
+  
+    <item>
       <title>AWS Weekly Roundup: HIPAA eligible with Amazon Q Business, Amazon DCV, AWS re:Post Agent, and more (Oct 07, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-is-hipaa-eligible-amazon-dcv-aws-repost-agent-and-more-oct-07-2024/</link>
       <description>AWS本周发布了多项新功能，包括Amazon Q Business获得HIPAA认证、NICE DCV更名为Amazon DCV、AWS re:Post推出re:Post Agent等。此外，还推出了Amazon Timestream、Amazon Bedrock Knowledge Bases等新功能，并提高了Amazon AppStream 2.0的存储限制。同时，AWS还帮助受飓风影响的社区，并在Wired杂志上发表关于生成式AI的文章。</description>
@@ -104,6 +125,13 @@
     </item>
   
     <item>
+      <title>Some notes on upgrading Hugo</title>
+      <link>https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/</link>
+      <description>本文记录了作者升级Hugo博客的详细过程，从Hugo v0.40升级到v0.135，涉及模板更改、Markdown渲染器更新等。升级过程中遇到了多个问题，包括模板语法变化、Markdown渲染规则更新等，作者通过编写脚本和手动检查解决了这些问题。升级虽然耗时且痛苦，但新渲染器解决了旧问题，并可能带来长期的好处。</description>
+      <pubDate>2024-10-07 09:19:57</pubDate>
+    </item>
+  
+    <item>
       <title>Manage MicroShift with Red Hat Advanced Cluster Management and OpenShift GitOps</title>
       <link>https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops</link>
       <description>MicroShift是一种轻量级的Kubernetes发行版，适用于资源有限的边缘或嵌入式环境。本文探讨了使用Red Hat Advanced Cluster Management和OpenShift GitOps管理MicroShift配置和应用程序部署的两种方法：将GitOps和其他清单嵌入RHEL RPM，以及使用RHACM动态提供GitOps清单进行远程管理。两种方法都涉及使用Argo CD App-of-Apps模式进行集群配置和应用程序部署。</description>
@@ -156,6 +184,13 @@
       <title>Migrating in-place from PostgreSQL to MySQL</title>
       <link>https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html</link>
       <description>Yelp的预订服务（yelp_res）是一个使用Django构建的Django服务和webapp，负责餐厅预订的后端和逻辑。由于使用PostgreSQL数据库，维护和故障响应存在困难。因此，Yelp将其迁移到MySQL数据库，以简化维护并提高性能。迁移过程中遇到了许多挑战，包括数据同步、功能替换和性能优化。最终，迁移过程顺利进行，并提高了系统的稳定性和性能。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>This Halloween, Treat a Friend to Nitro &amp; Get a Haunting Avatar Decoration!</title>
+      <link>https://discord.com/blog/this-halloween-treat-a-friend-to-nitro-get-an-avatar-decoration</link>
+      <description>在万圣节期间，赠送朋友Discord Nitro即可获得恐怖头像装饰。活动仅限10月，赠送给朋友Nitro后，你将获得一个专属头像装饰。同时，Spooky Nights商店集合了万圣节主题的装饰，供你选择。活动截止至11月3日。</description>
       <pubDate>2024-10-07 00:00:00</pubDate>
     </item>
   
