@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Manage MicroShift with Red Hat Advanced Cluster Management and OpenShift GitOps</title>
+      <link>https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops</link>
+      <description>MicroShift是一种轻量级的Kubernetes发行版，适用于资源有限的边缘或嵌入式环境。本文探讨了使用Red Hat Advanced Cluster Management和OpenShift GitOps管理MicroShift配置和应用程序部署的两种方法：将GitOps和其他清单嵌入RHEL RPM，以及使用RHACM动态提供GitOps清单进行远程管理。两种方法都涉及使用Argo CD App-of-Apps模式进行集群配置和应用程序部署。</description>
+      <pubDate>2024-10-07 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploy a coding copilot model with OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2024/10/07/deploy-coding-copilot-model-openshift-ai</link>
+      <description>Red Hat OpenShift AI提供了一种安全、隔离的平台，支持在具有严格连接限制的环境中部署微调的基础模型，以适应特定团队的编码实践。通过利用服务网格和Knative，它提供了推理API，确保在专用设置中的无缝集成和操作。此外，KServe简化了机器学习模型的生产部署，提供高性能和抽象接口，支持多种机器学习框架。通过这些工具，团队可以在保持高准确性的同时，在定制开发生态系统中利用AI的潜力。</description>
+      <pubDate>2024-10-07 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How Solid Queue works under the hood</title>
       <link>https://www.honeybadger.io/blog/solid-queue-lifecycle/</link>
       <description>Solid Queue是一个用于ActiveJob的简单高效的后端，用于处理后台任务，无需额外依赖如Redis。本文深入探讨了Solid Queue的工作原理，包括其数据库表结构、工作流程以及如何处理失败的任务。Solid Queue通过创建和管理多个数据库表来跟踪任务状态，简化了后台任务的处理，并提供了透明的架构来管理任务的生命周期。了解Solid Queue的内部机制对于调试和优化Rails应用程序至关重要。</description>
