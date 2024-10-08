@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Dans les rouages de Claude-dev: un Agent pour assister à coder</title>
+      <link>https://blog.octo.com/dans-les-rouages-de-claude-dev-un-agent-pour-assister-a-coder</link>
+      <description>本文探讨了Claude-dev，一个用于辅助编程的智能代理。它利用大型语言模型（LLM）进行自主决策，通过执行特定工具来完成任务。Claude-dev能够分析代码、执行命令，并支持多种编程语言。文章详细介绍了其工作原理、配置方法和使用案例。</description>
+      <pubDate>2024-10-08 20:59:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancing Security with IAM Roles in Confluent Managed Connectors</title>
+      <link>https://www.confluent.io/blog/enhancing-security-with-iam-roles-in-confluent-managed-connectors/</link>
+      <description>Confluent Cloud新增了AWS IAM角色集成功能，通过使用临时安全凭证，降低长期凭证泄露风险和密钥管理负担，提高数据流安全性和访问管理效率。此功能允许在AWS和Confluent Cloud之间建立安全连接，实现数据导入或传输。</description>
+      <pubDate>2024-10-08 20:01:24</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET 9 Release Candidate 2 is now available!</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-9-rc-2/</link>
+      <description>.NET 9 Release Candidate 2现已发布，为即将在11月推出的正式版做准备。此版本包含性能、稳定性和优化改进，适用于生产环境。开发者可下载试用，并提供反馈。同时，.NET Conf 2024将于11月12日至14日举行，庆祝.NET 9的发布。</description>
+      <pubDate>2024-10-08 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Envelope Encryption in Authentication Service Using Google Tink</title>
+      <link>https://engineering.gusto.com/envelope-encryption-in-authentication-service-using-google-tink-f1906fe8111f?source=rss----645edd256348---4</link>
+      <description>Gusto团队在构建新的身份验证服务时，使用Google Tink库对Keycloak库中的TOTP密钥进行加密，以增强安全性。通过Google Tink的对称加密和密钥轮换功能，他们实现了对TOTP密钥的加密存储，从而防止未经授权的访问。文章详细介绍了使用Google Tink进行密钥管理和加密的过程，包括密钥集、密钥集处理和Tinkey工具的使用。</description>
+      <pubDate>2024-10-08 19:02:50</pubDate>
+    </item>
+  
+    <item>
+      <title>The second half of software supply chain security on GitHub</title>
+      <link>https://github.blog/security/supply-chain-security/the-second-half-of-software-supply-chain-security-on-github/</link>
+      <description>GitHub博客文章探讨了软件供应链安全，特别是如何利用GitHub提高软件供应链后半段的安全性。文章回顾了2020年美国联邦政府遭受的严重网络攻击，以及随后政府和企业采取的应对措施。文章介绍了软件供应链安全的重要性，并详细说明了如何使用GitHub的代码签名和工件认证功能来确保软件构建的完整性和安全性。</description>
+      <pubDate>2024-10-08 18:54:34</pubDate>
+    </item>
+  
+    <item>
+      <title>Shorts vs. Long-Form Video: A Marketer’s Guide to Boosting YouTube Strategy</title>
+      <link>https://s14415.pcdn.co/blog/boost-youtube-engagement-with-shorts-and-long-form-videos/</link>
+      <description>YouTube策略提升：结合短视频与长视频，优化内容策略，扩大品牌影响力。通过分析长视频与短视频的优缺点，提供关键指标和制作技巧，帮助品牌在YouTube上建立信任、增加销售和扩大覆盖范围。</description>
+      <pubDate>2024-10-08 18:37:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/</link>
+      <description>微软推出了.NET生态系统的AI构建块——Microsoft.Extensions.AI的预览版，它提供了一组核心.NET库，用于与AI服务交互，如小语言模型（SLMs）和大语言模型（LLMs），以及中间件。这些库简化了AI服务的集成，使.NET开发者能够轻松地使用统一的API抽象，提高开发效率和灵活性。</description>
+      <pubDate>2024-10-08 18:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>From localhost to live</title>
       <link>https://blog.replit.com/from-localhost-to-live</link>
       <description>Replit为开发者提供了一种从本地到线上部署软件的简便方式。它通过AI和云IDE技术，简化了配置环境、管理依赖和服务等复杂过程，使非专业开发者也能轻松构建和部署应用。Replit的Agent功能进一步提升了开发效率，通过创建整个开发环境，让开发者能够快速启动和部署项目。</description>
@@ -44,6 +93,13 @@
       <title>HCP expands service principals access options and role assignments</title>
       <link>https://www.hashicorp.com/blog/hcp-expands-service-principals-access-options-and-role-assignments</link>
       <description>HCP推出跨项目服务主体和细粒度角色，增强资源访问控制和安全性。新功能允许更精确的角色基于访问控制，限制对必要资源的访问，并要求特定权限。这些改进有助于提高跨项目协作的效率和安全。</description>
+      <pubDate>2024-10-08 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Ink API, a new Jetpack library for stylus apps</title>
+      <link>http://android-developers.googleblog.com/2024/10/introducing-ink-api-jetpack-library.html</link>
+      <description>Android Developers Blog推出Ink API，一款新的Jetpack库，旨在简化手写笔应用的创建。它提供模块化架构，支持流畅的手写体验，并兼容多种Android设备。Ink API简化了图形和几何的复杂性，优化了性能，并允许开发者根据需求定制功能，为Android应用带来丰富的手写笔功能。</description>
       <pubDate>2024-10-08 16:00:00</pubDate>
     </item>
   
@@ -107,6 +163,13 @@
       <title>Social Media Tracker: Following Online Conversations in Real Time</title>
       <link>https://s14415.pcdn.co/blog/social-media-tracker/</link>
       <description>品牌监控工具可帮助您实时跟踪在线对话，以便快速做出决策并改进营销策略。这些工具可监测品牌在各大社交媒体平台上的表现，分析趋势，识别影响者，并改进工作方式。通过收集数据，您可以获得有价值的见解，推动品牌发展。使用这些工具，您可以优化在线品牌形象，找到关键影响者，并实时跟踪和报告，以保持与社交媒体的同步。</description>
+      <pubDate>2024-10-08 13:21:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Tracker: Following Online Conversations in Real Time</title>
+      <link>https://www.brandwatch.com/blog/social-media-tracker/</link>
+      <description>品牌监控工具可帮助您实时跟踪在线对话，以便快速做出决策并改进营销策略。这些工具可监测品牌在各大社交媒体平台上的表现，分析趋势，识别影响者，并提高工作效率。通过收集数据，您可以深入了解受众和行业，优化在线品牌形象，找到关键影响者，并实时跟踪和报告，从而提升营销效果。</description>
       <pubDate>2024-10-08 13:21:03</pubDate>
     </item>
   
