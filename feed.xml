@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Think you don’t need observability? Think again</title>
+      <link>https://stackoverflow.blog/2024/10/08/think-you-don-t-need-observability-think-again/</link>
+      <description>探讨实时可观测性的优势、数据库和缓存的多租户挑战、WebAssembly在UI开发中的应用以及Rust的好处。Momento的联合创始人兼CTO Daniela Miao分享了她在AWS和专注于可观测性的初创公司工作的经验，这些经验促成了Momento的创立。</description>
+      <pubDate>2024-10-08 07:40:00</pubDate>
+    </item>
+  
+    <item>
       <title>Linearizability in distributed systems</title>
       <link>https://eli.thegreenplace.net/2024/linearizability-in-distributed-systems/</link>
       <description>线性化是分布式系统中的一种强一致性模型，它使得并发过程中的每个操作都仿佛在调用和响应之间某个时刻瞬间生效。本文深入探讨了线性化在实践中的含义，通过具体示例和形式化定义解释了线性化与可串行化的区别，并提供了相关资源。</description>
@@ -212,6 +219,13 @@
       <title>Cultivating thought leaders</title>
       <link>https://www.thoughtworks.com/insights/blog/life-at-thoughtworks/cultivating-thought-leaders</link>
       <description>Thoughtworks鼓励员工自主设计职业发展路径，通过培养和协作促进个人成长。公司提供个性化发展计划和资源，支持员工成为行业领导者。以Geovanny Campoverde为例，他通过参与国际活动，将知识传播给更广泛的受众，并在个人和职业上取得了显著成长。Thoughtworks的文化和资源支持员工挑战自我，建立个人品牌，并在全球范围内产生影响。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Twilions Stay Focused, Connected and Drive Impact in a Remote-First Environment</title>
+      <link>https://www.twilio.com/en-us/blog/open-work</link>
+      <description>Twilio致力于成为一家远程优先的公司，通过“开放工作”模式，确保员工无论身在何处都能产生影响、保持联系并享受灵活性。公司强调，通过数据洞察和有意的团队建设，Twilio致力于提供最佳的产品和服务，同时加强全球团队的协作和创新能力。</description>
       <pubDate>2024-10-07 00:00:00</pubDate>
     </item>
   
