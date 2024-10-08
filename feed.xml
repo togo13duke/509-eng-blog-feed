@@ -6,6 +6,98 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What's New in Python 3.13</title>
+      <link>https://realpython.com/courses/new-features-python-313/</link>
+      <description>Python 3.13于2024年10月7日发布，是Python语言的一大进步。新版本在性能方面进行了改进，包括交互式解释器的改进、更清晰的错误信息、移除全局解释器锁（GIL）以实现Python的免费线程化、实验性即时编译器（JIT）的实施，以及静态类型系统的多项小升级。本视频课程将探讨这些变化，展示Python 3.13如何为用户带来便利。</description>
+      <pubDate>2024-10-08 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Boost your business in Germany with our new Frankfurt data center</title>
+      <link>https://www.hostinger.com/blog/frankfurt-data-center</link>
+      <description>德国新法兰克福数据中心助力企业提升业务，提供高速、安全的服务，符合德国数据保护法规，采用高效节能设备，保障数据安全，全球网络覆盖，支持快速迁移和30天退款保障。</description>
+      <pubDate>2024-10-08 13:22:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins</title>
+      <link>https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/</link>
+      <description>Mattermost通过采用Testcontainers，一个开源工具，为插件测试创建了隔离的Docker环境，从而提高了复杂集成测试的可行性和效率。这种方法使测试更加自动化、准确，并确保插件与Mattermost服务器无缝集成。通过使用Testcontainers，Mattermost能够创建与生产环境相似的测试环境，从而在开发过程中发现并解决潜在问题，提高插件的质量和可靠性。</description>
+      <pubDate>2024-10-08 13:22:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Tracker: Following Online Conversations in Real Time</title>
+      <link>https://s14415.pcdn.co/blog/social-media-tracker/</link>
+      <description>品牌监控工具可帮助您实时跟踪在线对话，以便快速做出决策并改进营销策略。这些工具可监测品牌在各大社交媒体平台上的表现，分析趋势，识别影响者，并改进工作方式。通过收集数据，您可以获得有价值的见解，推动品牌发展。使用这些工具，您可以优化在线品牌形象，找到关键影响者，并实时跟踪和报告，以保持与社交媒体的同步。</description>
+      <pubDate>2024-10-08 13:21:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Moving Faster From PoC to Prod With Timescale UI Tooling</title>
+      <link>https://www.timescale.com/blog/moving-faster-from-poc-to-prod/</link>
+      <description>Timescale提供工具，简化从概念验证到生产的迁移过程，包括数据迁移向导、配置TimescaleDB功能的工具，以及新的操作中心，以指导用户完成整个流程。这些工具帮助用户快速导入数据，设置超表、压缩和连续聚合等核心功能，并提供了操作中心以提供下一步操作的建议。</description>
+      <pubDate>2024-10-08 13:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Databricks Apps</title>
+      <link>https://www.databricks.com/blog/introducing-databricks-apps</link>
+      <description>Databricks推出新的Databricks Apps，这是一个在AWS和Azure上提供公共预览的新平台，用于构建和部署内部数据和分析应用。它支持多种开发框架，如Dash、Shiny、Gradio、Streamlit和Flask，并允许非技术用户通过代码而非SQL创建数据应用。Databricks Apps提供内置治理和自动部署，确保数据安全和合规性，同时简化了应用的开发和部署过程。</description>
+      <pubDate>2024-10-08 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare acquires Kivera to add simple, preventive cloud security to Cloudflare One</title>
+      <link>https://blog.cloudflare.com/cloudflare-acquires-kivera</link>
+      <description>Cloudflare收购Kivera，以增强其Cloudflare One平台的安全功能。Kivera的技术将提供预防性控制，帮助组织在部署云基础设施时防止错误，从而提高云安全性和合规性。这一整合将使Cloudflare One成为统一平台，提供云控制、访问管理和威胁与数据保护等功能。</description>
+      <pubDate>2024-10-08 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveraging Kubernetes virtual machines at Cloudflare with KubeVirt</title>
+      <link>https://blog.cloudflare.com/leveraging-kubernetes-virtual-machines-with-kubevirt</link>
+      <description>Cloudflare利用KubeVirt在Kubernetes虚拟机上运行，以实现多租户集群的虚拟化，提高安全性和可扩展性。KubeVirt允许在Kubernetes集群中运行虚拟机，与容器化工作负载并行运行，并集成Kubernetes的许多功能。Cloudflare使用KubeVirt进行Kubernetes可伸缩性测试、开发环境、内核和iPXE测试以及构建管道，以提高开发效率和系统稳定性。</description>
+      <pubDate>2024-10-08 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Adobe wants to make it easier for artists to blacklist their work from AI scraping</title>
+      <link>https://www.technologyreview.com/2024/10/08/1105234/adobe-wants-to-make-it-easier-for-artists-to-blacklist-their-work-from-ai-scraping/</link>
+      <description>Adobe推出了一款名为Adobe Content Authenticity的网页应用程序，旨在帮助艺术家标记其作品并使其不被用于训练生成式AI模型。该应用允许艺术家添加内容凭证，包括身份验证、社交媒体信息等，以保护其作品不被未经授权使用。Adobe Content Authenticity基于C2PA协议，使用密码学确保图像、视频和音频的安全标签，类似于艺术家的签名。该工具旨在帮助艺术家对抗技术公司未经许可抓取其作品，并可能使内容凭证在创作过程中更加普遍。</description>
+      <pubDate>2024-10-08 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Geoffrey Hinton’s Nobel Prize, and multimodal AI</title>
+      <link>https://www.technologyreview.com/2024/10/08/1105220/the-download-geoffrey-hintons-nobel-prize-and-multimodal-ai/</link>
+      <description>MIT技术评论报道了人工智能领域的重大新闻：深度学习先驱杰弗里·辛顿获得2024年诺贝尔物理学奖，同时探讨了多模态AI的发展，以及人工智能与清洁能源的相互依存关系。</description>
+      <pubDate>2024-10-08 12:25:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Last9 at KubeCon + CloudNativeCon North America 2024!</title>
+      <link>https://last9.io/events/join-last9-at-kubecon-2024/</link>
+      <description>Join Last9 at KubeCon + CloudNativeCon North America 2024 to explore high-cardinality monitoring solutions and tenant-level observability for SaaS platforms. Last9 offers a telemetry data warehouse compatible with Prometheus and OpenTelemetry, providing real-time tracking, detailed insights, and smart alerting for efficient monitoring.</description>
+      <pubDate>2024-10-08 12:09:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Geoffrey Hinton, AI pioneer and figurehead of doomerism, wins Nobel Prize</title>
+      <link>https://www.technologyreview.com/2024/10/08/1105221/geoffrey-hinton-just-won-the-nobel-prize-in-physics-for-his-work-on-machine-learning/</link>
+      <description>人工智能先驱、深度学习奠基人杰弗里·辛顿获得2024年诺贝尔物理学奖，表彰其对深度学习的贡献。辛顿曾对AI技术表示担忧，认为其可能引发灾难性事件，包括人类灭绝。尽管如此，他的研究对现代AI模型的发展至关重要。</description>
+      <pubDate>2024-10-08 12:01:13</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Avoid Pull Request (PR) Feedback</title>
+      <link>https://spin.atomicobject.com/pull-request-feedback-self-review/</link>
+      <description>总结：
+本文探讨了如何通过迭代自我审查来提高代码质量，从而减少Pull Request（PR）的反馈。作者强调了自我审查的重要性，并分享了如何通过逐步审查代码文件来提高代码质量，减少不必要的评论。这种方法不仅提高了代码质量，还提高了开发效率，减少了bug的数量，并增强了开发者的自信心。</description>
+      <pubDate>2024-10-08 12:00:56</pubDate>
+    </item>
+  
+    <item>
       <title>Collective #870</title>
       <link>https://tympanus.net/codrops/collective/collective-870/</link>
       <description>本周前端技术亮点：Bramus分享使用CSS Scroll-Driven Animations隐藏和显示头部的方法，无需JavaScript；David Bushell探讨处理脚本和样式标签的挑战；Sidekick工具简化多应用部署；Bas Dijkstra批评AI过度使用；Nolan Lawson讨论Web组件的优缺点。</description>
@@ -31,6 +123,13 @@
       <link>https://www.technologyreview.com/2024/10/08/1105165/why-artificial-intelligence-and-clean-energy-need-each-other/</link>
       <description>人工智能和清洁能源相互依存，共同推动未来。AI对电力需求巨大，为清洁能源技术发展提供机遇。美国需加强电力供应，以保持AI和能源生产领域的竞争优势。通过投资新型清洁能源技术，如先进核裂变和地热能，美国可满足AI对密集电力的需求，同时促进经济和能源技术的快速发展。</description>
       <pubDate>2024-10-08 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>8 Datadog Alternatives Worth Considering in 2024</title>
+      <link>https://last9.io/blog/8-datadog-alternatives-for-2024/</link>
+      <description>2024年，寻找Datadog的替代品时，可以考虑以下八种选择，以适应不同的监控需求和预算。这些替代品包括Prometheus、Grafana、New Relic、Dynatrace、Last9、Splunk、AppDynamics和LogicMonitor，它们各自具有独特的功能和优势，旨在提高可观察性并降低成本。</description>
+      <pubDate>2024-10-08 09:20:41</pubDate>
     </item>
   
     <item>
@@ -85,10 +184,31 @@
     </item>
   
     <item>
+      <title>Prism is an AI Package for Laravel</title>
+      <link>https://laravel-news.com/prism-ai-laravel</link>
+      <description>Prism是一个强大的Laravel包，用于集成大型语言模型（LLMs），提供统一的接口与多种AI提供商无缝交互。它支持多种AI服务，如Anthropic、OpenAI和Ollama，并允许自定义驱动程序。Prism具有优雅的集成、流畅的文本生成API和灵活的配置选项，旨在简化AI在Laravel项目中的应用。</description>
+      <pubDate>2024-10-08 02:09:08</pubDate>
+    </item>
+  
+    <item>
       <title>How startups scale on DigitalOcean Kubernetes: Best Practices Part VI - Security</title>
       <link>https://www.digitalocean.com/blog/digitalocean-kubernetes-best-practices-security</link>
       <description>本文探讨了初创公司在DigitalOcean Kubernetes上如何进行扩展，重点关注安全最佳实践。文章强调了零信任安全、最小权限原则和加密（静态和传输中）的重要性，并提供了实施网络策略、使用mTLS、RBAC和秘密管理器的具体步骤，以确保集群的安全性。</description>
       <pubDate>2024-10-08 00:35:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Guiding your organization with the 2024 Elastic Global Threat Report</title>
+      <link>https://www.elastic.co/blog/guiding-your-team-2024-global-threat-report</link>
+      <description>2024年Elastic全球威胁报告揭示了网络攻击的新趋势，包括恶意软件与进攻性安全工具的联系、云安全配置错误、防御规避策略、凭证泄露和生成式AI的潜在威胁。报告强调，组织应关注这些趋势，并采取适当的安全措施，如更新防御策略、加强云安全配置、实施最小权限原则和强化认证，以保护其数据和系统安全。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why we decided to change how the `details` element works</title>
+      <link>https://techblog.thescore.com/2024/10/08/why-we-decided-to-change-how-the-details-element-works/</link>
+      <description>我们决定改变`details`元素的工作方式，因为我们的分析团队发现`theScore Bet`网站上`accordion`切换事件的数量异常高。这起始于对`&lt;details&gt;`元素行为的误解。我们创建了一个自定义的`Details`组件来防止在挂载时触发`onToggle`事件，并引入了ESLint规则来防止使用原生的`&lt;details&gt;`元素。我们还在Next.js和jsdom中遇到了问题，并提交了修复pull请求。我们修改了`&lt;details&gt;`元素的行为，以确保它以大多数人预期的方式运行。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
     </item>
   
     <item>
