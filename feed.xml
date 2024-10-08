@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Collective #870</title>
+      <link>https://tympanus.net/codrops/collective/collective-870/</link>
+      <description>本周前端技术亮点：Bramus分享使用CSS Scroll-Driven Animations隐藏和显示头部的方法，无需JavaScript；David Bushell探讨处理脚本和样式标签的挑战；Sidekick工具简化多应用部署；Bas Dijkstra批评AI过度使用；Nolan Lawson讨论Web组件的优缺点。</description>
+      <pubDate>2024-10-08 11:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>H100 GPU-enabled worker nodes are now available for DigitalOcean Kubernetes (DOKS)</title>
       <link>https://www.digitalocean.com/blog/nvidia-h100-digitalocean-kubernetes-gpu</link>
       <description>DigitalOcean推出H100 GPU节点，支持Kubernetes集群，降低AI创新门槛，提供灵活、经济的GPU资源。此服务适用于AI/ML模型训练、视频处理、大数据分析等，助力企业高效利用数据，加速AI/ML项目开发。</description>
@@ -16,6 +23,13 @@
       <title>Running Spectral lint in Gitlab CI</title>
       <link>https://akrabat.com/running-spectral-lint-in-gitlab-ci/</link>
       <description>在GitLab CI中运行Spectral lint进行代码检查，通过Makefile和Docker容器执行OpenAPI规范检查，并利用GitLab CI的自动挂载功能简化操作流程。作者Rob Allen分享了他的实践经验和自动化HTML文档上传的考虑。</description>
+      <pubDate>2024-10-08 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why artificial intelligence and clean energy need each other</title>
+      <link>https://www.technologyreview.com/2024/10/08/1105165/why-artificial-intelligence-and-clean-energy-need-each-other/</link>
+      <description>人工智能和清洁能源相互依存，共同推动未来。AI对电力需求巨大，为清洁能源技术发展提供机遇。美国需加强电力供应，以保持AI和能源生产领域的竞争优势。通过投资新型清洁能源技术，如先进核裂变和地热能，美国可满足AI对密集电力的需求，同时促进经济和能源技术的快速发展。</description>
       <pubDate>2024-10-08 10:00:00</pubDate>
     </item>
   
@@ -54,6 +68,13 @@
 
 本文探讨了生成式AI大语言模型的工作原理，包括如何通过提示工程来引导模型生成准确、相关且符合上下文的响应。文章介绍了提示设计的重要性，包括理解LLM、领域专业知识、迭代过程和质量评估。此外，还提供了多种提示模式，如创作和生成提示、角色模式、问题解决提示、开发模式、重写提示和指导者模式，以帮助开发者更有效地使用AI工具。</description>
       <pubDate>2024-10-08 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: A Cache Exists</title>
+      <link>https://thedailywtf.com/articles/a-cache-exists</link>
+      <description>Ben的网站公司为一位新客户使用了一个可疑的购物车系统，该系统通过混淆代码来“保护”其代码。文章讨论了一个名为“cache_exists”的函数，该函数将变量$Data的内容以base64解码的形式输出到页面中，但未解释$Data的内容、与缓存的关联以及输出的目的。作者对此表示担忧，认为可能存在多个函数定义，但缺乏详细信息。</description>
+      <pubDate>2024-10-08 06:30:00</pubDate>
     </item>
   
     <item>
