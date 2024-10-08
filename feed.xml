@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>H100 GPU-enabled worker nodes are now available for DigitalOcean Kubernetes (DOKS)</title>
+      <link>https://www.digitalocean.com/blog/nvidia-h100-digitalocean-kubernetes-gpu</link>
+      <description>DigitalOcean推出H100 GPU节点，支持Kubernetes集群，降低AI创新门槛，提供灵活、经济的GPU资源。此服务适用于AI/ML模型训练、视频处理、大数据分析等，助力企业高效利用数据，加速AI/ML项目开发。</description>
+      <pubDate>2024-10-08 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Running Spectral lint in Gitlab CI</title>
+      <link>https://akrabat.com/running-spectral-lint-in-gitlab-ci/</link>
+      <description>在GitLab CI中运行Spectral lint进行代码检查，通过Makefile和Docker容器执行OpenAPI规范检查，并利用GitLab CI的自动挂载功能简化操作流程。作者Rob Allen分享了他的实践经验和自动化HTML文档上传的考虑。</description>
+      <pubDate>2024-10-08 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Forget chat. AI that can hear, see and click is already here</title>
+      <link>https://www.technologyreview.com/2024/10/08/1105214/forget-chat-ai-that-can-hear-see-and-click-is-already-here/</link>
+      <description>人工智能技术正从基于文本的聊天机器人向多模态模型转变，如Google的NotebookLM和Meta的Make-A-Video，这些模型能够处理图像、音频和文本等多种形式的数据。这种转变使得AI在内容生成、交互方式等方面有了显著的进步，例如Google Lens的图像搜索功能和OpenAI的Canvas界面。这些新功能不仅提高了AI的互动性和定制性，也展示了AI技术在各个领域的广泛应用和潜力。</description>
+      <pubDate>2024-10-08 09:04:52</pubDate>
+    </item>
+  
+    <item>
       <title>Think you don’t need observability? Think again</title>
       <link>https://stackoverflow.blog/2024/10/08/think-you-don-t-need-observability-think-again/</link>
       <description>探讨实时可观测性的优势、数据库和缓存的多租户挑战、WebAssembly在UI开发中的应用以及Rust的好处。Momento的联合创始人兼CTO Daniela Miao分享了她在AWS和专注于可观测性的初创公司工作的经验，这些经验促成了Momento的创立。</description>
