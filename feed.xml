@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Linearizability in distributed systems</title>
+      <link>https://eli.thegreenplace.net/2024/linearizability-in-distributed-systems/</link>
+      <description>线性化是分布式系统中的一种强一致性模型，它使得并发过程中的每个操作都仿佛在调用和响应之间某个时刻瞬间生效。本文深入探讨了线性化在实践中的含义，通过具体示例和形式化定义解释了线性化与可串行化的区别，并提供了相关资源。</description>
+      <pubDate>2024-10-08 02:16:00</pubDate>
+    </item>
+  
+    <item>
       <title>How startups scale on DigitalOcean Kubernetes: Best Practices Part VI - Security</title>
       <link>https://www.digitalocean.com/blog/digitalocean-kubernetes-best-practices-security</link>
       <description>本文探讨了初创公司在DigitalOcean Kubernetes上如何进行扩展，重点关注安全最佳实践。文章强调了零信任安全、最小权限原则和加密（静态和传输中）的重要性，并提供了实施网络策略、使用mTLS、RBAC和秘密管理器的具体步骤，以确保集群的安全性。</description>
