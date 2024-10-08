@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>From localhost to live</title>
+      <link>https://blog.replit.com/from-localhost-to-live</link>
+      <description>Replit为开发者提供了一种从本地到线上部署软件的简便方式。它通过AI和云IDE技术，简化了配置环境、管理依赖和服务等复杂过程，使非专业开发者也能轻松构建和部署应用。Replit的Agent功能进一步提升了开发效率，通过创建整个开发环境，让开发者能够快速启动和部署项目。</description>
+      <pubDate>2024-10-08 17:38:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Visualizing Codebases as Cities</title>
+      <link>https://galois.com/blog/2024/10/visualizing-codebases-as-cities/</link>
+      <description>Galois公司正在开发将代码库以城市形式可视化的工具，以帮助工程师更快地熟悉和操作大型软件项目。这种方法利用了人类对城市空间结构的自然理解，通过将代码库的层次结构和关系映射为城市中的区域、街道和建筑，从而提高沟通和问题解决效率。这些工具旨在与现有的系统工程工具集成，以支持设计空间探索和系统安全分析。</description>
+      <pubDate>2024-10-08 17:23:09</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET and .NET Framework October 2024 servicing releases updates</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates/</link>
+      <description>2024年10月，.NET和.NET Framework发布了服务更新，包括安全改进和CVE修复。更新包括.NET 6.0.35和.NET 8.0.10版本，以及ASP.NET Core、EF Core等组件的更新。详情请参阅官方发布说明。</description>
+      <pubDate>2024-10-08 17:07:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Netflix TimeSeries Data Abstraction Layer</title>
+      <link>https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8?source=rss----2615bd06b42e---4</link>
+      <description>Netflix推出了一种名为TimeSeries Data Abstraction Layer的新技术，旨在高效存储和查询大量时间序列数据。该技术通过分区数据、灵活存储和可配置性，解决了高吞吐量、低延迟和成本效益的挑战，适用于各种用例，包括视频播放事件和资产印象等。</description>
+      <pubDate>2024-10-08 17:05:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancing RAG Accuracy: Databricks Ventures Invests in Voyage AI</title>
+      <link>https://www.databricks.com/blog/enhancing-rag-accuracy-databricks-ventures-invests-voyage-ai</link>
+      <description>Databricks Ventures投资了Voyage AI，以提升生成式AI应用的准确性和效率。Voyage AI的嵌入和重排序模型将应用于Databricks Mosaic AI，帮助客户构建高质量的生产级RAG应用。</description>
+      <pubDate>2024-10-08 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HCP expands service principals access options and role assignments</title>
+      <link>https://www.hashicorp.com/blog/hcp-expands-service-principals-access-options-and-role-assignments</link>
+      <description>HCP推出跨项目服务主体和细粒度角色，增强资源访问控制和安全性。新功能允许更精确的角色基于访问控制，限制对必要资源的访问，并要求特定权限。这些改进有助于提高跨项目协作的效率和安全。</description>
+      <pubDate>2024-10-08 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>In stunning Nobel win, AI researchers Hopfield and Hinton take 2024 Physics Prize</title>
+      <link>https://arstechnica.com/ai/2024/10/in-stunning-nobel-win-ai-researchers-hopfield-and-hinton-take-2024-physics-prize/</link>
+      <description>2024年，人工智能领域的两位先驱，霍普菲尔德和辛顿，因其在机器学习领域的基础性工作而获得诺贝尔物理学奖。他们的研究将物理学原理应用于人工神经网络，推动了图像识别和模式完成等技术的进步，为现代机器学习奠定了基础。辛顿曾在2023年离开谷歌，警告人工智能的潜在风险，他的获奖也引起了广泛关注。</description>
+      <pubDate>2024-10-08 15:17:37</pubDate>
+    </item>
+  
+    <item>
       <title>Bring Your Google BigQuery Data Lake to Data Cloud: Part 1, Data In</title>
       <link>https://developer.salesforce.com/blogs/2024/10/bring-your-google-bigquery-data-lake-to-data-cloud-part-1-data-in.html</link>
       <description>Salesforce与Google合作，允许开发者将Google BigQuery企业数据仓库与Salesforce Data Cloud无缝连接，无需ETL过程。通过Zero Copy方法实现双向数据共享，用户可以直接连接到BigQuery中的表，并在Data Cloud中进行数据分析和处理。此集成还提供数据缓存功能，以优化性能。</description>
