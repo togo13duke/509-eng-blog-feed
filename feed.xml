@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Bring Your Google BigQuery Data Lake to Data Cloud: Part 1, Data In</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/bring-your-google-bigquery-data-lake-to-data-cloud-part-1-data-in.html</link>
+      <description>Salesforce与Google合作，允许开发者将Google BigQuery企业数据仓库与Salesforce Data Cloud无缝连接，无需ETL过程。通过Zero Copy方法实现双向数据共享，用户可以直接连接到BigQuery中的表，并在Data Cloud中进行数据分析和处理。此集成还提供数据缓存功能，以优化性能。</description>
+      <pubDate>2024-10-08 15:00:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploy and Scale AI Applications With Cloudera AI Inference Service</title>
+      <link>https://blog.cloudera.com/deploy-and-scale-ai-applications-with-cloudera-ai-inference-service/</link>
+      <description>Cloudera推出基于NVIDIA NIM微服务的AI推理服务，旨在加速企业级生成式AI部署。该服务支持多种优化AI模型，提供无缝且可扩展的AI推理。Cloudera AI Inference服务结合了性能、安全性和可扩展性，通过NVIDIA加速计算和优化，实现快速推理和高效部署。它支持混合环境，与CI/CD管道集成，提供高可用性和动态扩展，确保企业级安全性和合规性。</description>
+      <pubDate>2024-10-08 15:00:37</pubDate>
+    </item>
+  
+    <item>
+      <title>Join the Open Source Pledge</title>
+      <link>https://laravel-news.com/open-source-pledge</link>
+      <description>The Open Source Pledge encourages companies to financially support maintainers of open-source software to prevent burnout and security issues. It aims to establish a norm where businesses that rely on open-source software contribute back. Companies like Laravel and Sentry have already joined, and participation involves paying $2,000 per developer annually.</description>
+      <pubDate>2024-10-08 14:40:33</pubDate>
+    </item>
+  
+    <item>
+      <title>A New Era at Docker: How We’re Investing in Innovation and Customer Relationships</title>
+      <link>https://www.docker.com/blog/docker-investing-innovation-customer-relationships/</link>
+      <description>Docker公司宣布进入新时代，致力于创新和客户关系投资。新任首席营收官Javier Molina强调，Docker将继续投资产品，加强与客户的联系，以提供更优质的价值。公司战略转向更深入的客户互动，倾听反馈，确保解决方案真正解决客户痛点。同时，Docker将加强其企业产品套件，以支持开发团队，提高开发效率和生产力。</description>
+      <pubDate>2024-10-08 14:22:31</pubDate>
+    </item>
+  
+    <item>
       <title>What's New in Python 3.13</title>
       <link>https://realpython.com/courses/new-features-python-313/</link>
       <description>Python 3.13于2024年10月7日发布，是Python语言的一大进步。新版本在性能方面进行了改进，包括交互式解释器的改进、更清晰的错误信息、移除全局解释器锁（GIL）以实现Python的免费线程化、实验性即时编译器（JIT）的实施，以及静态类型系统的多项小升级。本视频课程将探讨这些变化，展示Python 3.13如何为用户带来便利。</description>
@@ -208,6 +236,13 @@
       <title>Why we decided to change how the `details` element works</title>
       <link>https://techblog.thescore.com/2024/10/08/why-we-decided-to-change-how-the-details-element-works/</link>
       <description>我们决定改变`details`元素的工作方式，因为我们的分析团队发现`theScore Bet`网站上`accordion`切换事件的数量异常高。这起始于对`&lt;details&gt;`元素行为的误解。我们创建了一个自定义的`Details`组件来防止在挂载时触发`onToggle`事件，并引入了ESLint规则来防止使用原生的`&lt;details&gt;`元素。我们还在Next.js和jsdom中遇到了问题，并提交了修复pull请求。我们修改了`&lt;details&gt;`元素的行为，以确保它以大多数人预期的方式运行。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>K–12 schools: Don’t miss out on new federal cybersecurity funding</title>
+      <link>https://www.elastic.co/blog/k-12-schools-federal-cybersecurity-funding</link>
+      <description>美国联邦政府为K-12学校和图书馆提供高达2亿美元的资金，以加强其网络安全。该计划名为“学校和图书馆网络安全试点计划”，将在三年内提供资金支持网络安全产品和服务的采购。感兴趣的组织必须完成两步申请流程。该试点计划包括四个类别：高级和下一代防火墙、端点保护、身份保护和认证、以及监控、检测和响应。Elastic Security的灵活性和开放性非常适合学校和图书馆，以应对复杂环境中的高级网络安全威胁。</description>
       <pubDate>2024-10-08 00:00:00</pubDate>
     </item>
   
