@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How startups scale on DigitalOcean Kubernetes: Best Practices Part VI - Security</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-kubernetes-best-practices-security</link>
+      <description>本文探讨了初创公司在DigitalOcean Kubernetes上如何进行扩展，重点关注安全最佳实践。文章强调了零信任安全、最小权限原则和加密（静态和传输中）的重要性，并提供了实施网络策略、使用mTLS、RBAC和秘密管理器的具体步骤，以确保集群的安全性。</description>
+      <pubDate>2024-10-08 00:35:00</pubDate>
+    </item>
+  
+    <item>
       <title>Windows dynamic linking depends on the active code page</title>
       <link>https://nullprogram.com/blog/2024/10/07/</link>
       <description>Windows动态链接依赖于活动代码页，这可能导致不同代码页下加载的DLL不同。文章通过一个示例展示了如何利用这一特性，并讨论了其潜在的应用和风险，尤其是在恶意软件中可能被用于欺骗检测工具。</description>
@@ -191,6 +198,13 @@
       <title>This Halloween, Treat a Friend to Nitro &amp; Get a Haunting Avatar Decoration!</title>
       <link>https://discord.com/blog/this-halloween-treat-a-friend-to-nitro-get-an-avatar-decoration</link>
       <description>在万圣节期间，赠送朋友Discord Nitro即可获得恐怖头像装饰。活动仅限10月，赠送给朋友Nitro后，你将获得一个专属头像装饰。同时，Spooky Nights商店集合了万圣节主题的装饰，供你选择。活动截止至11月3日。</description>
+      <pubDate>2024-10-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cultivating thought leaders</title>
+      <link>https://www.thoughtworks.com/insights/blog/life-at-thoughtworks/cultivating-thought-leaders</link>
+      <description>Thoughtworks鼓励员工自主设计职业发展路径，通过培养和协作促进个人成长。公司提供个性化发展计划和资源，支持员工成为行业领导者。以Geovanny Campoverde为例，他通过参与国际活动，将知识传播给更广泛的受众，并在个人和职业上取得了显著成长。Thoughtworks的文化和资源支持员工挑战自我，建立个人品牌，并在全球范围内产生影响。</description>
       <pubDate>2024-10-07 00:00:00</pubDate>
     </item>
   
