@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>5 tips and tricks when using GitHub Copilot Workspace</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/</link>
+      <description>GitHub Copilot Workspace 提供了高效的编码环境，通过以下五点技巧可最大化其效用：明确任务目标，提供详细背景；将大任务分解为小部分；迭代审查和改进建议；利用可编辑的各个阶段调整方向；以及利用链接和文档提供额外上下文。这些方法有助于提高代码质量和开发效率。</description>
+      <pubDate>2024-10-09 16:00:44</pubDate>
+    </item>
+  
+    <item>
+      <title>Healthcare Data Insights Powered by Pentavere and Databricks</title>
+      <link>https://www.databricks.com/blog/unlocking-healthcare-data-pentavere</link>
+      <description>Pentavere与Databricks合作，利用AI技术从非结构化医疗数据中提取关键信息，以改善患者护理结果。Databricks平台帮助Pentavere统一数据和分析资源，加速了其DARWEN AI系统的开发，该系统可自动化从电子病历中提取数据，并识别适合治疗的患者。这一合作推动了医疗保健领域的创新，提高了患者护理的效率和质量。</description>
+      <pubDate>2024-10-09 15:25:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Bring Your Google BigQuery Data Lake to Data Cloud: Part 2, Data Out</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/bring-your-google-bigquery-data-lake-to-data-cloud-part-2-data-out.html</link>
+      <description>将Salesforce Data Cloud与Google BigQuery无缝集成，通过零拷贝数据共享功能，实现双向数据流动，无需ETL过程。此方法打破数据孤岛，简化数据聚合和分析，提升个性化客户体验。</description>
+      <pubDate>2024-10-09 15:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #87: Nuclear power</title>
+      <link>https://www.bambooweekly.com/bw-87-nuclear-power/</link>
+      <description>本周主题是关于核能，探讨了核能的优缺点、其在全球的普及情况以及与可再生能源的比较。文章提到，尽管核能具有低碳排放的优点，但成本、监管和放射性废物处理等问题依然存在。作者通过世界资源研究所的全球发电厂数据库分析了全球核电站的分布和发电量。</description>
+      <pubDate>2024-10-09 15:00:05</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Improve Your DevOps Automation</title>
+      <link>https://www.docker.com/blog/how-to-improve-your-devops-automation/</link>
+      <description>如何通过自动化提高DevOps效率：DevOps结合开发与运维团队，通过促进沟通、协作、创新、速度、安全和敏捷性，提升软件开发生命周期中的软件质量。自动化在DevOps中扮演关键角色，可简化重复性任务，提高开发效率和代码质量。Docker容器化平台通过自动化工具，如自动化测试、安全加固和构建，帮助团队实现DevOps自动化，从而加速开发流程并提高软件安全性。</description>
+      <pubDate>2024-10-09 14:15:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Build a Contact Book App With Python, Textual, and SQLite</title>
+      <link>https://realpython.com/contact-book-python-textual/</link>
+      <description>本教程介绍了如何使用Python、Textual和SQLite构建一个基于文本界面的联系人管理应用。通过学习如何创建用户界面、处理数据库操作以及将两者连接起来，读者将能够构建一个能够存储和管理联系信息的实用应用。教程详细介绍了每个步骤，包括设置项目结构、创建用户界面、实现数据库操作以及添加新功能。</description>
+      <pubDate>2024-10-09 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Supercharge PhpStorm with Laravel Idea</title>
+      <link>https://laravel-news.com/laravel-idea</link>
+      <description>Laravel Idea是一款为PhpStorm添加Laravel开发功能的插件，提供改进的自动完成、代码生成、Eloquent模型生成等特性，极大提升开发效率。它易于安装，提供免费试用，并具有个人和组织两种付费计划。该插件通过增强导航和代码生成，帮助开发者更高效地编写Laravel代码。</description>
+      <pubDate>2024-10-09 13:35:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Preventing Climate Change: A Team Sport</title>
+      <link>https://www.technologyreview.com/2024/10/09/1105349/preventing-climate-change-a-team-sport/</link>
+      <description>本文探讨了气候变化防治的重要性，强调团队合作在应对气候变化中的作用。文章以密歇根州为例，展示了其在清洁能源转型、公共-私人合作和气候行动计划方面的领先地位。密歇根州通过这些举措不仅促进了可持续发展，还吸引了人才，为竞争激烈的就业市场增添了优势。</description>
+      <pubDate>2024-10-09 13:22:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Productivity Electrified: Tech That Is Supercharging Business</title>
+      <link>https://www.technologyreview.com/2024/10/09/1105355/productivity-electrified-tech-that-is-supercharging-business/</link>
+      <description>本文探讨了技术如何推动商业效率的提升。重点介绍了福特Pro在2024年MIT Technology Review EmTech MIT活动上关于电气化和技术采纳的演讲，以及如何通过早期采用者如应急响应人员、地方政府和小企业主来推广电动汽车和新技术。演讲者Wanda Young分享了她在品牌营销和数字化转型方面的经验，以及如何帮助商业客户保持生产力以推动增长。</description>
+      <pubDate>2024-10-09 13:21:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Replacing StatefulSets With a Custom K8s Operator in Our Postgres Cloud Platform</title>
+      <link>https://www.timescale.com/blog/replacing-statefulsets-with-a-custom-k8s-operator-in-our-postgres-cloud-platform/</link>
+      <description>Timescale团队在改进其PostgreSQL云平台的基础设施稳定性、可靠性和成本效率方面取得了进展。他们通过替换StatefulSets，使用自定义Kubernetes资源操作符PatroniSets，提高了系统的稳定性，并最小化了用户中断。这种改进使得维护工作变得更加容易，同时也为未来的创新奠定了基础。</description>
+      <pubDate>2024-10-09 13:00:34</pubDate>
+    </item>
+  
+    <item>
       <title>Improving platform resilience at Cloudflare through automation</title>
       <link>https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare</link>
       <description>Cloudflare通过自动化提高平台弹性，以应对生产系统中的故障。通过构建一个可扩展的自动化系统，Cloudflare能够快速响应故障，减少对用户的影响，并提高系统的可靠性。该系统利用Temporal平台，通过工作流和活动实现自动修复，确保关键服务的稳定运行。</description>
@@ -13,10 +83,59 @@
     </item>
   
     <item>
+      <title>How Chatbase scaled rapidly with Vercel's developer experience and AI SDK</title>
+      <link>https://vercel.com/blog/how-chatbase-scaled-rapidly-with-vercels-developer-experience-and-ai-sdk</link>
+      <description>Chatbase通过使用Vercel的AI SDK和Next.js技术栈，实现了快速扩展。他们利用Vercel的快速迭代能力和AI SDK，在不到两年的时间里，从500K月访问量增长到$4M的年度收入。Vercel的架构和工具帮助Chatbase优化了开发流程，提高了性能，并确保了应用的稳定性。</description>
+      <pubDate>2024-10-09 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveraging Vercel and the AI SDK to deliver a seamless, AI-powered experience as a solo founder</title>
+      <link>https://vercel.com/blog/leveraging-vercel-and-the-ai-sdk-to-deliver-a-seamless-ai-powered-experience</link>
+      <description>Claire Vo作为独立创始人，利用Vercel和AI SDK快速构建了ChatPRD，一个面向产品经理的AI协作工具。Vercel平台简化了基础设施部署，而AI SDK则简化了AI功能的集成，提高了用户体验。ChatPRD在九个月内吸引了20,000用户，正扩展功能以支持团队协作。</description>
+      <pubDate>2024-10-09 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel 11.27 Released</title>
+      <link>https://laravel-news.com/laravel-11-27-0</link>
+      <description>Laravel 11.27版本发布，新增可配置的默认货币设置、Str::doesntContain()方法、Schema::hasTable()性能改进等特性。此外，还引入了HTTP Kernel方法以调整中间件优先级，并提供了详细的发布说明。</description>
+      <pubDate>2024-10-09 12:54:09</pubDate>
+    </item>
+  
+    <item>
+      <title>The Ultimate Guide to Application Performance Monitoring (APM)</title>
+      <link>https://last9.io/blog/application-performance-monitoring/</link>
+      <description>应用性能监控（APM）是确保软件应用最佳运行的关键技术，它通过实时监控和数据分析，帮助组织识别和解决影响用户体验的问题。APM工具提供从基础性能指标到代码级诊断的广泛功能，支持IT团队自动化检测、诊断和解决性能问题，从而确保应用的高可用性和用户满意度。通过实施APM，企业可以提升用户体验、加快问题解决、优化资源利用，并最终改善业务成果。</description>
+      <pubDate>2024-10-09 12:27:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Two never-before-seen tools, from same group, infect air-gapped devices</title>
+      <link>https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/</link>
+      <description>研究人员发现，一个可能来自俄罗斯的国家黑客组织使用了两种前所未有的工具集，感染了与互联网隔离的设备，以窃取敏感数据。这些工具集自2019年起被用于攻击白俄罗斯的一个南亚大使馆，并在三年后感染了一个欧盟政府机构。这些工具集的复杂性和针对性表明，该组织具有高度的技术能力和资源。</description>
+      <pubDate>2024-10-09 12:26:26</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: another Nobel Prize for AI, and Adobe’s anti-scraping tool</title>
+      <link>https://www.technologyreview.com/2024/10/09/1105339/the-download-another-nobel-prize-for-ai-and-adobes-anti-scraping-tool/</link>
+      <description>Google DeepMind因使用人工智能预测蛋白质结构而获得诺贝尔化学奖，Adobe推出新工具帮助艺术家防止其作品被AI抓取，同时报道了电动汽车电池在飓风后的潜在风险、Meta的监督委员会新成立申诉中心等科技新闻。</description>
+      <pubDate>2024-10-09 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>From Zero to Unraid: The Perfect Home Server OS</title>
       <link>https://spin.atomicobject.com/unraid-home-server/</link>
       <description>Unraid是一个简单而强大的家庭服务器操作系统，适用于设置媒体服务器、游戏服务器和运行Docker容器。它简化了复杂任务，如设置Docker容器和虚拟机，并提供广泛的定制选项。无需昂贵硬件，只需旧电脑和硬盘即可开始使用。Unraid还支持远程访问，确保安全便捷地管理服务器。</description>
       <pubDate>2024-10-09 12:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Google DeepMind leaders share Nobel Prize in chemistry for protein prediction AI</title>
+      <link>https://www.technologyreview.com/2024/10/09/1105335/google-deepmind-wins-joint-nobel-prize-in-chemistry-for-protein-prediction-ai/</link>
+      <description>DeepMind的AI在蛋白质预测领域获得诺贝尔化学奖，Demis Hassabis和John M. Jumper因使用AI预测蛋白质结构而获奖，David Baker因计算蛋白质设计工具获奖。这项研究有助于科学家更好地理解蛋白质的工作原理，并推动疫苗和药物研发。</description>
+      <pubDate>2024-10-09 11:32:04</pubDate>
     </item>
   
     <item>
@@ -107,6 +226,34 @@
       <title>How To Talk About Mental Health In 6 Different Languages</title>
       <link>https://www.babbel.com/en/magazine/how-to-talk-about-mental-health-in-6-different-languages</link>
       <description>全球各地对心理健康话题的态度和讨论方式存在差异。一些国家，如巴西，对心理治疗持开放态度，而德国和法国则更倾向于私下讨论。意大利和西班牙则较少公开讨论心理健康问题，但自我照顾被视为重要。这些差异反映了文化、历史和社会因素对心理健康观念的影响。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Top priorities of today’s cybersecurity leader</title>
+      <link>https://www.elastic.co/blog/cybersecurity-leader-top-priorities</link>
+      <description>当今网络安全领导者的首要任务是平衡战略和运营任务，以保护组织免受不断变化的威胁环境的影响。这包括风险管理、内部协作、战略规划、安全保证、安全治理、供应商和第三方管理、安全培训、外部协作、行业研究和事件监控。领导者需要识别弱点并努力改进，同时根据组织类型、规模、行业和地区调整优先事项。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking SOC as a Service with Elastic Security for public sector</title>
+      <link>https://www.elastic.co/blog/soc-as-a-service-elastic-security-public-sector</link>
+      <description>Elastic Security为公共部门提供SOCaaS，通过统一威胁检测、响应、数据隔离和跨集群搜索，帮助政府机构实现安全、合规和适应性强的安全运营。该平台提供24/7监控、威胁检测、主动威胁狩猎、自动化事件响应和合规报告，满足政府客户对高级威胁检测、可扩展性和合规支持的需求。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Gumroad, where is my money?</title>
+      <link>https://carlosbecker.com/posts/gumroad/</link>
+      <description>Gumroad在支付处理上出现问题，导致作者无法收到款项，且客户服务响应缓慢。作者对此表示不满，并呼吁Gumroad改善客户服务，提供替代支付方式。作者承诺将继续支持GoReleaser Pro用户，并希望Gumroad能够重视客户需求。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Georgist's Guerilla Gardening Guide</title>
+      <link>https://taylor.town/oh-trespassing</link>
+      <description>这篇关于地租理论的游击园艺指南强调了土地公有和可持续利用的重要性。文章通过分析土地私有化带来的社会问题，如饥饿、无家可归和土地闲置，提倡通过社区参与和创意行动来改善环境。作者以洛杉矶的Ron Finley为例，展示了如何通过合法途径争取社区园艺的权利。指南还提供了具体的行动建议，包括与邻居合作、利用公共信息、参与城市规划和分享故事，以促进社区绿化和改善居住环境。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
@@ -368,6 +515,13 @@
       <description>总结：
 本文探讨了如何通过迭代自我审查来提高代码质量，从而减少Pull Request（PR）的反馈。作者强调了自我审查的重要性，并分享了如何通过逐步审查代码文件来提高代码质量，减少不必要的评论。这种方法不仅提高了代码质量，还提高了开发效率，减少了bug的数量，并增强了开发者的自信心。</description>
       <pubDate>2024-10-08 12:00:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python Closures: Common Use Cases and Examples</title>
+      <link>https://realpython.com/quizzes/python-closure/</link>
+      <description>本篇博客文章介绍了Python闭包的常见用例和示例，通过一个包含6个问题的互动测验来检验读者对闭包的理解。闭包是Python中功能编程语言的一个常见特性，允许创建基于函数的装饰器。文章建议读者在完成测验前先阅读相关教程。</description>
+      <pubDate>2024-10-08 12:00:00</pubDate>
     </item>
   
     <item>
