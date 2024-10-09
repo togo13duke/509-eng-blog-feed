@@ -13,6 +13,55 @@
     </item>
   
     <item>
+      <title>Function and event orchestration with OpenShift serverless logic</title>
+      <link>https://developers.redhat.com/articles/2024/10/09/openshift-serverless-logic-ga</link>
+      <description>OpenShift Serverless 1.33版本中，Red Hat推出了无服务器逻辑，允许开发者定义和部署工作流程来编排函数、事件和其他服务。这为开发者提供了使用工作流程（YAML或JSON格式）构建应用的声明性方法，并简化了开发、部署和运行时管理。通过Serverless Workflow规范和SonataFlow运行时，开发者可以轻松创建和运行工作流程，提高开发效率。</description>
+      <pubDate>2024-10-09 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhance security with system-wide crypto policies in RHEL 9</title>
+      <link>https://developers.redhat.com/articles/2024/10/09/enhance-security-system-wide-crypto-policies-rhel-9</link>
+      <description>RHEL 9通过系统级加密策略增强安全性，提供多种策略以满足不同需求，如DEFAULT、LEGACY、FUTURE和FIPS。这些策略可自定义，以适应特定安全要求。管理员可通过命令行工具轻松查看或更新策略，确保系统安全。</description>
+      <pubDate>2024-10-09 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Let’s go, Team ’24 Europe!</title>
+      <link>https://www.atlassian.com/blog/announcements/team-24-europe-founder-update</link>
+      <description>Atlassian在2024年10月8日宣布支持欧洲团队'24，强调其AI创新和团队协作系统。公司推出AI产品Rovo，旨在提高团队效率，并推出针对开发者的AI代理。同时，Atlassian推出Focus和更新后的Jira，旨在连接技术团队和业务团队，加速进步并最大化团队影响。</description>
+      <pubDate>2024-10-09 06:50:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Helping every team succeed in the AI era</title>
+      <link>https://www.atlassian.com/blog/announcements/team-24-eu-ai-updates</link>
+      <description>Atlassian推出全新AI产品Rovo，助力团队在AI时代取得成功。Rovo提供AI搜索、聊天和代理功能，可解锁组织知识，提高工作效率。Rovo已进入全面可用阶段，并带来一系列创新功能，如Rovo Search、Rovo Chat和Rovo Agents，旨在简化工作流程，提升团队协作效率。</description>
+      <pubDate>2024-10-09 06:50:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing Focus, Atlassian’s new enterprise strategy and planning solution</title>
+      <link>https://www.atlassian.com/blog/jira-align/announcing-focus-atlassians-new-enterprise-strategic-portfolio-management-offering</link>
+      <description>Atlassian推出全新企业战略规划解决方案Focus，帮助领导者集中精力跟踪目标、工作、团队和资金，确保一切与战略优先事项保持一致。Focus提供集中枢纽、可视化战略优先事项地图、实时通知和AI总结更新等功能，支持企业OKR目标跟踪，并整合现有工具，以实现更高效的战略规划和执行。</description>
+      <pubDate>2024-10-09 06:49:23</pubDate>
+    </item>
+  
+    <item>
+      <title>The *new* Jira is here</title>
+      <link>https://www.atlassian.com/blog/announcements/the-new-jira</link>
+      <description>Atlassian发布全新Jira，旨在为不同团队提供更灵活、易用的协作平台。新功能包括自定义导航、个性化背景、改进的搜索和AI工作创建，以及支持多种工作方式的定制项目模板。Jira的目标是帮助团队更好地协作，实现共同目标。</description>
+      <pubDate>2024-10-09 06:48:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlock advanced Atlassian cloud security today with Guard Premium</title>
+      <link>https://www.atlassian.com/blog/announcements/guard-premium</link>
+      <description>Atlassian Guard Premium现已全面上市，提供统一身份和访问管理、威胁检测以及数据丢失预防功能。通过Guard Premium，客户可以加强数据保护，防止敏感信息泄露，并快速响应潜在风险。该产品适用于高度监管的行业，帮助组织确保员工不会无意或故意共享敏感信息。Guard Premium还支持自定义检测，如对国际银行账户号码（IBAN）的扫描，以及监控离职员工的活动，以防止知识产权泄露。</description>
+      <pubDate>2024-10-09 06:47:57</pubDate>
+    </item>
+  
+    <item>
       <title>Software for all ages: tackling ageism with industry experts</title>
       <link>https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts</link>
       <description>在应对年龄歧视时，设计软件应考虑不同年龄人群的需求。文章强调了在技术行业中，由于缺乏人口统计学多样性，软件往往只针对有限用户群体设计，导致忽视大量人群的需求。文章建议通过用户研究、测试和迭代来减少偏见，并提出了设计可访问软件的实用建议，如使用适当的颜色对比、确保字体大小可调节、简化导航等。此外，还强调了在用户测试中考虑老年人的身体和认知差异的重要性。</description>
@@ -23,6 +72,13 @@
       <title>AI for Product Managers</title>
       <link>https://thoughtbot.com/blog/ai-for-product-managers</link>
       <description>产品经理如何利用人工智能（AI）提升工作效率和产品开发质量？本文探讨了AI在产品管理中的应用，包括发现、构思、验证、构建、发布、评估和迭代等阶段。AI可以帮助产品经理更快地理解、优先排序、实验和沟通，但无法替代以客户为中心和坚实的商业意识。通过AI，产品经理可以做出更明智的选择，产生更大的影响，实现更好的成果。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Talk About Mental Health In 6 Different Languages</title>
+      <link>https://www.babbel.com/en/magazine/how-to-talk-about-mental-health-in-6-different-languages</link>
+      <description>全球各地对心理健康话题的态度和讨论方式存在差异。一些国家，如巴西，对心理治疗持开放态度，而德国和法国则更倾向于私下讨论。意大利和西班牙则较少公开讨论心理健康问题，但自我照顾被视为重要。这些差异反映了文化、历史和社会因素对心理健康观念的影响。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
@@ -356,6 +412,13 @@
       <link>https://thedailywtf.com/articles/a-cache-exists</link>
       <description>Ben的网站公司为一位新客户使用了一个可疑的购物车系统，该系统通过混淆代码来“保护”其代码。文章讨论了一个名为“cache_exists”的函数，该函数将变量$Data的内容以base64解码的形式输出到页面中，但未解释$Data的内容、与缓存的关联以及输出的目的。作者对此表示担忧，认为可能存在多个函数定义，但缺乏详细信息。</description>
       <pubDate>2024-10-08 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Moneybox renews with GoCardless to power seamless payments in savings and investments</title>
+      <link>https://gocardless.com/blog/moneybox-renews-with-gocardless/</link>
+      <description>Moneybox与GoCardless续签合作，以优化储蓄和投资支付体验。新协议包括GoCardless的“当日结算”功能，加快资金到账，助力用户更快实现财务目标。</description>
+      <pubDate>2024-10-08 05:52:08</pubDate>
     </item>
   
     <item>
