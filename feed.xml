@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>From Zero to Unraid: The Perfect Home Server OS</title>
+      <link>https://spin.atomicobject.com/unraid-home-server/</link>
+      <description>Unraid是一个简单而强大的家庭服务器操作系统，适用于设置媒体服务器、游戏服务器和运行Docker容器。它简化了复杂任务，如设置Docker容器和虚拟机，并提供广泛的定制选项。无需昂贵硬件，只需旧电脑和硬盘即可开始使用。Unraid还支持远程访问，确保安全便捷地管理服务器。</description>
+      <pubDate>2024-10-09 12:00:45</pubDate>
+    </item>
+  
+    <item>
       <title>Accumulated Test Vectors</title>
       <link>https://words.filippo.io/dispatches/accumulated/</link>
       <description>本文探讨了测试向量的积累方法，通过使用SHAKE128等哈希函数生成随机输入，并检查最终哈希值，以减少存储空间并提高测试效率。这种方法适用于多种加密算法，如ML-KEM，并可以扩展到探索大量输入参数和大小。尽管这种方法在测试失败时无法提供调试信息，但其优势在于可重用性和节省存储空间。</description>
@@ -76,6 +83,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: JaphpaScript</title>
+      <link>https://thedailywtf.com/articles/japhpascript</link>
+      <description>JaphpaScript博客文章探讨了在Web应用中，一个开发者使用PHP和JavaScript混合代码进行数据传输的案例。该开发者通过在PHP中执行循环并在JavaScript中输出大量数组赋值，创建了一个难以理解和修改的代码块。尽管代码复杂，但意外地没有出现太多错误，使得后续的修改变得困难。</description>
+      <pubDate>2024-10-09 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Software for all ages: tackling ageism with industry experts</title>
       <link>https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts</link>
       <description>在应对年龄歧视时，设计软件应考虑不同年龄人群的需求。文章强调了在技术行业中，由于缺乏人口统计学多样性，软件往往只针对有限用户群体设计，导致忽视大量人群的需求。文章建议通过用户研究、测试和迭代来减少偏见，并提出了设计可访问软件的实用建议，如使用适当的颜色对比、确保字体大小可调节、简化导航等。此外，还强调了在用户测试中考虑老年人的身体和认知差异的重要性。</description>
@@ -94,6 +108,13 @@
       <link>https://www.babbel.com/en/magazine/how-to-talk-about-mental-health-in-6-different-languages</link>
       <description>全球各地对心理健康话题的态度和讨论方式存在差异。一些国家，如巴西，对心理治疗持开放态度，而德国和法国则更倾向于私下讨论。意大利和西班牙则较少公开讨论心理健康问题，但自我照顾被视为重要。这些差异反映了文化、历史和社会因素对心理健康观念的影响。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cypress Env Types</title>
+      <link>https://glebbahmutov.com/blog/cypress-env-types/</link>
+      <description>Cypress 环境类型：本文介绍了如何为 Cypress 的 `Cypress.env` 调用返回的值提供适当的类型。通过定义 `Cypress.env` 方法，可以避免使用 `any` 类型，提高代码的可维护性和安全性。</description>
+      <pubDate>2024-10-08 22:00:00</pubDate>
     </item>
   
     <item>
