@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Software for all ages: tackling ageism with industry experts</title>
+      <link>https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts</link>
+      <description>在应对年龄歧视时，设计软件应考虑不同年龄人群的需求。文章强调了在技术行业中，由于缺乏人口统计学多样性，软件往往只针对有限用户群体设计，导致忽视大量人群的需求。文章建议通过用户研究、测试和迭代来减少偏见，并提出了设计可访问软件的实用建议，如使用适当的颜色对比、确保字体大小可调节、简化导航等。此外，还强调了在用户测试中考虑老年人的身体和认知差异的重要性。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI for Product Managers</title>
+      <link>https://thoughtbot.com/blog/ai-for-product-managers</link>
+      <description>产品经理如何利用人工智能（AI）提升工作效率和产品开发质量？本文探讨了AI在产品管理中的应用，包括发现、构思、验证、构建、发布、评估和迭代等阶段。AI可以帮助产品经理更快地理解、优先排序、实验和沟通，但无法替代以客户为中心和坚实的商业意识。通过AI，产品经理可以做出更明智的选择，产生更大的影响，实现更好的成果。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Reach vs. Impressions: What’s the Difference and How to Optimize Both for Your Social Media Strategy</title>
       <link>https://s14415.pcdn.co/blog/reach-vs-impressions/</link>
       <description>了解社交媒体营销中的“触及”和“展示”差异，并优化两者以提升内容策略和效果。触及衡量独特用户数量，展示衡量内容出现次数。两者均重要，但作用不同：触及影响受众建设，展示推动频率。优化策略包括：分析活跃时间，尝试不同内容格式，使用热门标签，与影响者合作，增加发布频率，内容多样化，使用付费推广，保持与受众互动，确保内容适合各平台。使用社交媒体分析工具跟踪数据，以优化触及和展示。</description>
@@ -17,6 +31,13 @@
       <link>https://blog.octo.com/dans-les-rouages-de-claude-dev-un-agent-pour-assister-a-coder</link>
       <description>本文探讨了Claude-dev，一个用于辅助编程的智能代理。它利用大型语言模型（LLM）进行自主决策，通过执行特定工具来完成任务。Claude-dev能够分析代码、执行命令，并支持多种编程语言。文章详细介绍了其工作原理、配置方法和使用案例。</description>
       <pubDate>2024-10-08 20:59:10</pubDate>
+    </item>
+  
+    <item>
+      <title>The Long Context RAG Capabilities of OpenAI o1 and Google Gemini</title>
+      <link>https://www.databricks.com/blog/long-context-rag-capabilities-openai-o1-and-google-gemini</link>
+      <description>OpenAI的o1模型在长上下文RAG基准测试中表现出色，优于Anthropic和Google模型。尽管Google Gemini 1.5模型在长上下文中表现稳定，但整体正确率低于o1和GPT-4o模型。这些发现为构建高效RAG系统提供了重要参考。</description>
+      <pubDate>2024-10-08 20:36:17</pubDate>
     </item>
   
     <item>
