@@ -6,10 +6,38 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>DevRel newsletter — October 2024</title>
+      <link>https://www.elastic.co/blog/devrel-newsletter-october-2024</link>
+      <description>Elastic DevRel团队在2024年10月的通讯中介绍了Elasticsearch和Kibana的本地运行方法、Elastic AI助手与私有LLM的连接、与Google Vertex AI的集成，以及一系列博客、视频和即将举行的活动。此外，还涵盖了数据集翻译、RAG、LangChain4j、数据摄入、PII检测、语义搜索、向量数据库导航和AI摘要等主题。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing TypeScript 5.7 Beta</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/</link>
+      <description>TypeScript 5.7 Beta版本发布，新增了检查未初始化变量、相对路径重写、支持ES2024目标、改进项目所有权检查和JSON导入验证等功能，旨在提升开发效率和代码质量。</description>
+      <pubDate>2024-10-09 20:59:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Tumblr Hack Day, September 2024 Edition</title>
+      <link>https://engineering.tumblr.com/post/763892885430157312</link>
+      <description>在2024年9月的Tumblr Hack Day活动中，工程师们开发了一系列新功能，包括高级搜索操作符、实时帖子互动、社区活动跟踪器等。此外，还有新的默认博客头像和改进的界面元素。这些创新旨在提升用户体验，并可能在未来正式推出。</description>
+      <pubDate>2024-10-09 20:17:05</pubDate>
+    </item>
+  
+    <item>
       <title>How to convert hex-encoded WKB geometries in PostGIS</title>
       <link>https://blog.rtwilson.com/how-to-convert-hex-encoded-wkb-geometries-in-postgis/</link>
       <description>本文介绍了如何在PostGIS中将十六进制编码的WKB几何形状转换为PostGIS几何形状。作者首先遇到了ST_GeomFromWKB函数不存在的问题，然后通过使用decode函数将十六进制字符串转换为bytea类型，并正确调用ST_GeomFromWKB函数，成功实现了转换。</description>
       <pubDate>2024-10-09 19:39:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Data Strategy: Why it Matters and How to Build One</title>
+      <link>https://www.databricks.com/blog/data-strategy-why-it-matters-and-how-build-one</link>
+      <description>数据战略对于企业至关重要，它定义了如何收集、管理、利用数据以实现业务目标。通过消除数据孤岛、提高数据治理和培养数据文化，企业可以做出更明智的决策，提高效率，并推动增长。构建数据战略需要评估现状、组建团队、设定目标、制定路线图，并持续监控和调整。</description>
+      <pubDate>2024-10-09 19:00:00</pubDate>
     </item>
   
     <item>
@@ -71,6 +99,13 @@
     <item>
       <title>You asked, we built it: Announcing our new multi-survey analysis feature</title>
       <link>https://www.surveymonkey.com/curiosity/you-asked-we-built-it-announcing-our-new-multi-survey-analysis-feature/?ut_source=rss</link>
+      <description>SurveyMonkey推出全新多调查分析功能，可整合和分析来自不同调查的数据，帮助用户在单一视图中查看和分析数据，节省时间并构建引人入胜的数据故事。此功能适用于所有需要从调查结果中获取深入见解以推动决策的人，包括市场营销人员、客户体验专家和人力资源领导者。</description>
+      <pubDate>2024-10-09 14:27:51</pubDate>
+    </item>
+  
+    <item>
+      <title>You asked, we built it: Announcing our new multi-survey analysis feature</title>
+      <link>https://www.surveymonkey.com/curiosity/multi-survey-analysis/?ut_source=rss</link>
       <description>SurveyMonkey推出全新多调查分析功能，可整合和分析来自不同调查的数据，帮助用户在单一视图中查看和分析数据，节省时间并构建引人入胜的数据故事。此功能适用于所有需要从调查结果中获取深入见解以推动决策的人，包括市场营销人员、客户体验专家和人力资源领导者。</description>
       <pubDate>2024-10-09 14:27:51</pubDate>
     </item>
@@ -317,6 +352,13 @@
       <title>Crystal 1.14.0 is released!</title>
       <link>https://crystal-lang.org/2024/10/09/1.14.0-released/</link>
       <description>Crystal 1.14.0版本发布，新增多项特性和修复了多个bug。包括改进多线程支持、新的语言特性、标准库更新、Windows支持增强等。此版本包含134项变更，由13位贡献者完成。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The ultimate guide to Node JS testing</title>
+      <link>https://www.honeybadger.io/blog/node-testing/</link>
+      <description>Node.js测试对于确保代码质量和可靠性至关重要。本文深入探讨了Node.js测试的重要性，包括错误检测、重构安全性和回归预防等益处。文章介绍了单元测试、集成测试和端到端测试的类型，并展示了如何使用Jest框架进行测试。通过实例，展示了如何编写单元测试和集成测试，以及如何使用Jest进行API调用测试。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
