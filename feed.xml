@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to convert hex-encoded WKB geometries in PostGIS</title>
+      <link>https://blog.rtwilson.com/how-to-convert-hex-encoded-wkb-geometries-in-postgis/</link>
+      <description>本文介绍了如何在PostGIS中将十六进制编码的WKB几何形状转换为PostGIS几何形状。作者首先遇到了ST_GeomFromWKB函数不存在的问题，然后通过使用decode函数将十六进制字符串转换为bytea类型，并正确调用ST_GeomFromWKB函数，成功实现了转换。</description>
+      <pubDate>2024-10-09 19:39:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Spring Into Confluent Cloud with Kotlin – Part 2: Kafka Streams</title>
+      <link>https://www.confluent.io/blog/spring-into-confluent-cloud-with-kotlin-part-2-kafka-streams/</link>
+      <description>本文深入探讨了使用Spring框架和Kotlin语言结合Confluent Cloud进行Kafka Streams拓扑构建的过程。文章详细介绍了如何利用Spring框架和Kotlin的特性，如简洁的语法、空安全性和Java互操作性，来创建高效且易于理解的Kafka Streams拓扑。通过一个“词频统计”的示例，展示了如何使用Kafka Streams进行数据处理，并利用Spring Boot创建REST控制器和端点来查询状态存储。此外，文章还提供了单元测试的示例，并讨论了如何使用Avro模式定义数据结构，以实现更复杂的数据流处理。</description>
+      <pubDate>2024-10-09 17:43:31</pubDate>
+    </item>
+  
+    <item>
+      <title>Exploring Playful Context-Aware Animations for Fixed Elements</title>
+      <link>https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/</link>
+      <description>探索固定元素在滚动交互中的趣味情境动画</description>
+      <pubDate>2024-10-09 16:26:28</pubDate>
+    </item>
+  
+    <item>
       <title>5 tips and tricks when using GitHub Copilot Workspace</title>
       <link>https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/</link>
       <description>GitHub Copilot Workspace 提供了高效的编码环境，通过以下五点技巧可最大化其效用：明确任务目标，提供详细背景；将大任务分解为小部分；迭代审查和改进建议；利用可编辑的各个阶段调整方向；以及利用链接和文档提供额外上下文。这些方法有助于提高代码质量和开发效率。</description>
       <pubDate>2024-10-09 16:00:44</pubDate>
+    </item>
+  
+    <item>
+      <title>Atlassian’s distributed work glossary</title>
+      <link>https://www.atlassian.com/blog/distributed-work/distributed-work-glossary</link>
+      <description>本文是关于现代远程工作模式的术语解释。它涵盖了远程工作、分布式工作、混合工作等概念，以及与时间管理、团队沟通和会议相关的术语。文章旨在帮助读者理解现代工作环境中常用的术语和概念。</description>
+      <pubDate>2024-10-09 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Vault 1.18 introduces support for IPv6 and CMPv2 while improving security team user experience</title>
+      <link>https://www.hashicorp.com/blog/vault-1-18-introduces-support-for-ipv6-and-cmpv2-while-improving-security-team-ux</link>
+      <description>HashiCorp Vault 1.18版本推出，支持IPv6和CMPv2，同时提升安全团队用户体验。新功能包括CMPv2 PKI支持、自适应过载保护、静态数据库账户密码轮换、Raft库更新、IPv6合规性以及AWS Workload Identity Federation和KVv2秘密路径管理界面支持。这些改进旨在增强安全性、可用性和易用性。</description>
+      <pubDate>2024-10-09 16:00:00</pubDate>
     </item>
   
     <item>
@@ -31,6 +66,13 @@
       <link>https://www.bambooweekly.com/bw-87-nuclear-power/</link>
       <description>本周主题是关于核能，探讨了核能的优缺点、其在全球的普及情况以及与可再生能源的比较。文章提到，尽管核能具有低碳排放的优点，但成本、监管和放射性废物处理等问题依然存在。作者通过世界资源研究所的全球发电厂数据库分析了全球核电站的分布和发电量。</description>
       <pubDate>2024-10-09 15:00:05</pubDate>
+    </item>
+  
+    <item>
+      <title>You asked, we built it: Announcing our new multi-survey analysis feature</title>
+      <link>https://www.surveymonkey.com/curiosity/you-asked-we-built-it-announcing-our-new-multi-survey-analysis-feature/?ut_source=rss</link>
+      <description>SurveyMonkey推出全新多调查分析功能，可整合和分析来自不同调查的数据，帮助用户在单一视图中查看和分析数据，节省时间并构建引人入胜的数据故事。此功能适用于所有需要从调查结果中获取深入见解以推动决策的人，包括市场营销人员、客户体验专家和人力资源领导者。</description>
+      <pubDate>2024-10-09 14:27:51</pubDate>
     </item>
   
     <item>
@@ -167,6 +209,13 @@
     </item>
   
     <item>
+      <title>This Couple Exports NYC Sneaker Culture Worldwide on eBay</title>
+      <link>https://www.ebayinc.com/stories/news/this-couple-exports-nyc-sneaker-culture-worldwide-on-ebay/</link>
+      <description>纽约夫妇通过eBay将纽约运动鞋文化推广至全球，开设了两家实体店，并为社区做出贡献。他们从街头开始，通过eBay销售限量版和二手运动鞋，积累了信誉，最终在纽约开设了店铺，并继续扩大业务。他们的建议是，卖家应从家中开始，跟随趋势，确保产品真实性，并为社区做出贡献。</description>
+      <pubDate>2024-10-09 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Let’s go, Team ’24 Europe!</title>
       <link>https://www.atlassian.com/blog/announcements/team-24-europe-founder-update</link>
       <description>Atlassian在2024年10月8日宣布支持欧洲团队'24，强调其AI创新和团队协作系统。公司推出AI产品Rovo，旨在提高团队效率，并推出针对开发者的AI代理。同时，Atlassian推出Focus和更新后的Jira，旨在连接技术团队和业务团队，加速进步并最大化团队影响。</description>
@@ -254,6 +303,20 @@
       <title>A Georgist's Guerilla Gardening Guide</title>
       <link>https://taylor.town/oh-trespassing</link>
       <description>这篇关于地租理论的游击园艺指南强调了土地公有和可持续利用的重要性。文章通过分析土地私有化带来的社会问题，如饥饿、无家可归和土地闲置，提倡通过社区参与和创意行动来改善环境。作者以洛杉矶的Ron Finley为例，展示了如何通过合法途径争取社区园艺的权利。指南还提供了具体的行动建议，包括与邻居合作、利用公共信息、参与城市规划和分享故事，以促进社区绿化和改善居住环境。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlock business growth with data-driven insights: 5 lessons from IT leaders</title>
+      <link>https://www.elastic.co/blog/unlock-business-growth-data-driven-insights</link>
+      <description>本文探讨了如何通过数据驱动的洞察力推动业务增长，分享了五位IT领导者的五个关键经验教训。首先，应优先考虑数据驱动的洞察力以加速业务创新；其次，确保对数据洞察力满意；第三，花时间评估和提升数据成熟度；第四，理解生成式AI（GenAI）在良好数据实践之后；最后，拥抱GenAI以获得竞争优势。通过这些策略，组织可以更好地利用数据，提高效率，并推动业务增长。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Crystal 1.14.0 is released!</title>
+      <link>https://crystal-lang.org/2024/10/09/1.14.0-released/</link>
+      <description>Crystal 1.14.0版本发布，新增多项特性和修复了多个bug。包括改进多线程支持、新的语言特性、标准库更新、Windows支持增强等。此版本包含134项变更，由13位贡献者完成。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
@@ -649,6 +712,13 @@
       <title>K–12 schools: Don’t miss out on new federal cybersecurity funding</title>
       <link>https://www.elastic.co/blog/k-12-schools-federal-cybersecurity-funding</link>
       <description>美国联邦政府为K-12学校和图书馆提供高达2亿美元的资金，以加强其网络安全。该计划名为“学校和图书馆网络安全试点计划”，将在三年内提供资金支持网络安全产品和服务的采购。感兴趣的组织必须完成两步申请流程。该试点计划包括四个类别：高级和下一代防火墙、端点保护、身份保护和认证、以及监控、检测和响应。Elastic Security的灵活性和开放性非常适合学校和图书馆，以应对复杂环境中的高级网络安全威胁。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How we improved our Android navigation performance by ~30%</title>
+      <link>https://engineeringblog.yelp.com/2024/10/how-we-improved-our-android-navigation-performance-by-~30.html</link>
+      <description>Yelp的Android团队通过将多个活动转换为单个活动内的多个片段，成功提升了导航性能约30%。他们评估了多种方案，包括使用视图和Google的Jetpack导航库，最终选择了纯片段导航，并创建了一个名为“SingleActivityNavigator”的抽象层来简化导航。这种方法不仅提高了性能，还保持了代码的可维护性和模块化。</description>
       <pubDate>2024-10-08 00:00:00</pubDate>
     </item>
   
