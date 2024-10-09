@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Improving platform resilience at Cloudflare through automation</title>
+      <link>https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare</link>
+      <description>Cloudflare通过自动化提高平台弹性，以应对生产系统中的故障。通过构建一个可扩展的自动化系统，Cloudflare能够快速响应故障，减少对用户的影响，并提高系统的可靠性。该系统利用Temporal平台，通过工作流和活动实现自动修复，确保关键服务的稳定运行。</description>
+      <pubDate>2024-10-09 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Software for all ages: tackling ageism with industry experts</title>
       <link>https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts</link>
       <description>在应对年龄歧视时，设计软件应考虑不同年龄人群的需求。文章强调了在技术行业中，由于缺乏人口统计学多样性，软件往往只针对有限用户群体设计，导致忽视大量人群的需求。文章建议通过用户研究、测试和迭代来减少偏见，并提出了设计可访问软件的实用建议，如使用适当的颜色对比、确保字体大小可调节、简化导航等。此外，还强调了在用户测试中考虑老年人的身体和认知差异的重要性。</description>
