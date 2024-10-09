@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Accumulated Test Vectors</title>
+      <link>https://words.filippo.io/dispatches/accumulated/</link>
+      <description>本文探讨了测试向量的积累方法，通过使用SHAKE128等哈希函数生成随机输入，并检查最终哈希值，以减少存储空间并提高测试效率。这种方法适用于多种加密算法，如ML-KEM，并可以扩展到探索大量输入参数和大小。尽管这种方法在测试失败时无法提供调试信息，但其优势在于可重用性和节省存储空间。</description>
+      <pubDate>2024-10-09 09:50:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Monitoring with Prometheus: A Step-by-Step Guide</title>
+      <link>https://last9.io/blog/docker-monitoring-with-prometheus-a-step-by-step-guide/</link>
+      <description>本文介绍了如何使用Prometheus和Grafana监控Docker容器。通过设置Prometheus收集容器指标，并使用Grafana进行可视化，可以轻松跟踪容器性能和资源使用情况。文章详细说明了设置过程，包括创建Docker Compose文件、配置Prometheus和Grafana，以及如何导入仪表板进行监控。此外，还讨论了生产环境中的最佳实践，如设置警报、实施安全措施和扩展监控。</description>
+      <pubDate>2024-10-09 09:34:38</pubDate>
+    </item>
+  
+    <item>
       <title>Function and event orchestration with OpenShift serverless logic</title>
       <link>https://developers.redhat.com/articles/2024/10/09/openshift-serverless-logic-ga</link>
       <description>OpenShift Serverless 1.33版本中，Red Hat推出了无服务器逻辑，允许开发者定义和部署工作流程来编排函数、事件和其他服务。这为开发者提供了使用工作流程（YAML或JSON格式）构建应用的声明性方法，并简化了开发、部署和运行时管理。通过Serverless Workflow规范和SonataFlow运行时，开发者可以轻松创建和运行工作流程，提高开发效率。</description>
