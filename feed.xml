@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>[Agentforce ハンズオン] Coral Cloud Resorts サンプルアプリケーションのご紹介</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/jp-agentforce-handson-coral-cloud-resorts-sampleapp.html</link>
+      <description>Coral Cloud Resorts 是一个基于 Salesforce 平台的酒店业示例应用程序，利用数据云和人工智能提供高度个性化的客户体验。它展示了如何将生成 AI、智能自动化和内容生成等功能集成到业务流程中。应用程序包括数据云的使用、智能提示模板和代理功能，旨在帮助开发者理解 Salesforce 平台的高级概念。</description>
+      <pubDate>2024-10-10 03:54:32</pubDate>
+    </item>
+  
+    <item>
       <title>Archive.org, a repository storing the entire history of the Internet, has been hacked</title>
       <link>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</link>
       <description>互联网档案馆，一个保存整个互联网历史的数据库，遭遇数据泄露，约3100万用户的电子邮件地址和密码散列被曝光。攻击发生在上个月，档案馆表示遭受了DDoS攻击。</description>
