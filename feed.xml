@@ -6,6 +6,62 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What’s new in Cloudflare One: Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express</title>
+      <link>https://blog.cloudflare.com/whats-new-in-cloudflare-one-digital-experience-dex-monitoring-notifications</link>
+      <description>Cloudflare One新增了Digital Experience (DEX)监控通知和与中国Express的无缝访问。DEX通知可帮助管理员快速识别和解决影响用户体验的问题，包括设备连接异常、测试延迟和低可用性。中国Express则提供稳定访问中国托管网站的安全连接，通过与中国本地服务提供商合作，确保零信任安全策略的实施。</description>
+      <pubDate>2024-10-10 13:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CJ Desai: Why I joined Cloudflare as president of Product and Engineering</title>
+      <link>https://blog.cloudflare.com/cj-desai-why-i-joined-cloudflare</link>
+      <description>CJ Desai兴奋地加入Cloudflare担任产品与工程总裁，致力于推动构建更美好的互联网。他曾在伊利诺伊大学学习，见证了互联网的变革。Desai认为，创新是技术公司的生命线，他期待利用在ServiceNow的经验，帮助Cloudflare扩展产品，满足不断增长的客户需求。他强调，Cloudflare在技术创新的关键领域处于有利位置，致力于解决客户的核心问题，并推动业务转型。</description>
+      <pubDate>2024-10-10 13:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bulletproofing Your Database With (Multiple) PostgreSQL Replicas</title>
+      <link>https://www.timescale.com/blog/bulletproofing-your-database-with-multiple-postgresql-replicas/</link>
+      <description>Timescale提供加速版的PostgreSQL，专为处理时间序列、向量、事件和数据分析等高需求工作负载而设计。文章强调了数据库副本的重要性，以保护数据免受各种意外情况的影响。Timescale支持多种高可用性副本类型，包括异步和同步副本，以适应不同需求。文章详细介绍了如何通过Timescale Cloud确保数据库的高可用性和数据完整性，并提供了关于如何选择合适副本类型的指导。</description>
+      <pubDate>2024-10-10 13:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudera Lakehouse Optimizer Makes it Easier Than Ever to Deliver High-Performance Iceberg Tables</title>
+      <link>https://blog.cloudera.com/cloudera-lakehouse-optimizer-makes-it-easier-than-ever-to-deliver-high-performance-iceberg-tables/</link>
+      <description>Cloudera Lakehouse Optimizer简化了高性能Iceberg表的交付，通过自动化表维护任务，优化存储并提高性能。该工具提供自动压缩和清理功能，降低总拥有成本，并减少数据管理的工作量。Cloudera致力于使数据湖house的采用更加容易，并计划添加更多优化功能。</description>
+      <pubDate>2024-10-10 13:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Experts warn the US must do more to boost demand for carbon removal</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105392/experts-warn-the-us-must-do-more-to-boost-demand-for-carbon-removal/</link>
+      <description>美国在碳移除行业投入巨资，但市场需求增长缓慢，专家呼吁政府加大支持力度，以确保行业不陷入停滞。碳移除技术需要大量政府支持，以实现规模化和降低成本，同时确保企业能够负担得起。</description>
+      <pubDate>2024-10-10 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>WireSpy is a Sleek New Debug Bar for Laravel Livewire</title>
+      <link>https://laravel-news.com/wirespy-livewire</link>
+      <description>WireSpy是一个为Laravel Livewire提供的新颖调试栏，可即时调试和交互Laravel Livewire组件，查看和修改组件状态，追踪事件，并支持热重载。该工具已作为beta版发布，可通过Composer安装。</description>
+      <pubDate>2024-10-10 12:49:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Treize Grammes — 2024</title>
+      <link>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</link>
+      <description>Treize Grammes近期完成了全面品牌重塑，以适应客户期望的增长和公司发展。他们选择Webflow构建新网站，以获得更多自主权和灵活性。新品牌概念以经典的ON/OFF按钮为核心，通过创新设计和动画，重新诠释这一符号，为品牌注入活力。</description>
+      <pubDate>2024-10-10 12:19:37</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: herbicide-resistant weeds, and an octopus-inspired adhesive</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105415/the-download-herbicide-resistant-weeds-and-an-octopus-inspired-adhesive/</link>
+      <description>文章主要探讨了农业领域面临的挑战，包括杂草对除草剂的抗性日益增强，这可能导致农作物产量下降，甚至迫使农民破产。同时，文章还介绍了一种模仿章鱼吸盘的粘合剂技术，该技术可能有助于水下建筑或日常设备。此外，还提到了气候技术、食品系统对气候的影响以及一些科技新闻。</description>
+      <pubDate>2024-10-10 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>How to Pass Data Between Angular Parent and Child Components</title>
       <link>https://spin.atomicobject.com/angular-parent-child/</link>
       <description>本文介绍了如何在Angular框架中通过父组件和子组件之间传递数据。主要使用了@Input()和@Output()指令，通过@Input()将数据从父组件传递到子组件，通过@Output()将数据从子组件传递回父组件。文章提供了具体的代码示例，展示了如何实现这一功能。</description>
