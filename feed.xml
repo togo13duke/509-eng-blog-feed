@@ -342,6 +342,13 @@
     </item>
   
     <item>
+      <title>Leveraging RAG-powered LLMs for Analytical Tasks</title>
+      <link>https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LM</link>
+      <description>本文探讨了利用RAG（检索增强生成）技术提升大型语言模型（LLM）在数据分析任务中的效率。通过结合内部LLM工具、数据、调度器、消息工具和中间件Data-Arks，实现了自动化报告生成和欺诈调查的简化。RAG方法因其成本效益、信息更新灵活性和快速可扩展性而优于微调。未来，团队计划将更多工具集成到LLM中，以进一步扩展其应用范围。</description>
+      <pubDate>2024-10-09 00:00:10</pubDate>
+    </item>
+  
+    <item>
       <title>Software for all ages: tackling ageism with industry experts</title>
       <link>https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts</link>
       <description>在应对年龄歧视时，设计软件应考虑不同年龄人群的需求。文章强调了在技术行业中，由于缺乏人口统计学多样性，软件往往只针对有限用户群体设计，导致忽视大量人群的需求。文章建议通过用户研究、测试和迭代来减少偏见，并提出了设计可访问软件的实用建议，如使用适当的颜色对比、确保字体大小可调节、简化导航等。此外，还强调了在用户测试中考虑老年人的身体和认知差异的重要性。</description>
@@ -824,6 +831,15 @@
       <title>How we improved our Android navigation performance by ~30%</title>
       <link>https://engineeringblog.yelp.com/2024/10/how-we-improved-our-android-navigation-performance-by-~30.html</link>
       <description>Yelp的Android团队通过将多个活动转换为单个活动内的多个片段，成功提升了导航性能约30%。他们评估了多种方案，包括使用视图和Google的Jetpack导航库，最终选择了纯片段导航，并创建了一个名为“SingleActivityNavigator”的抽象层来简化导航。这种方法不仅提高了性能，还保持了代码的可维护性和模块化。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build a Blog with Laravel Livewire</title>
+      <link>https://www.twilio.com/en-us/blog/laravel-livewire-build-example</link>
+      <description>使用Laravel Livewire构建博客
+
+本文介绍了如何使用Laravel Livewire框架构建一个博客。Livewire将后端与前端融合，简化了DOM操作、动态界面和请求处理。文章详细讲解了Livewire的基本概念，包括验证、错误处理和组件化，并通过实际示例展示了如何使用Livewire进行开发。</description>
       <pubDate>2024-10-08 00:00:00</pubDate>
     </item>
   
