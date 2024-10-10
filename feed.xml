@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Pass Data Between Angular Parent and Child Components</title>
+      <link>https://spin.atomicobject.com/angular-parent-child/</link>
+      <description>本文介绍了如何在Angular框架中通过父组件和子组件之间传递数据。主要使用了@Input()和@Output()指令，通过@Input()将数据从父组件传递到子组件，通过@Output()将数据从子组件传递回父组件。文章提供了具体的代码示例，展示了如何实现这一功能。</description>
+      <pubDate>2024-10-10 12:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean and ProxySQL LLC Collaborate to Bring PROXY Protocol Support to ProxySQL</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-proxysql-collaborate</link>
+      <description>DigitalOcean与ProxySQL LLC合作，在ProxySQL的最新版本v2.7.0中添加了对PROXY协议的支持，以优化数据库连接管理。这一更新通过保留客户端IP信息，解决了负载均衡中客户端IP信息丢失的问题，提高了数据库管理员对连接和流量来源的追踪和管理能力。</description>
+      <pubDate>2024-10-10 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Les pratiques Lean pour revenir aux sources de l’agilité (1ere partie)</title>
+      <link>https://blog.octo.com/les-pratiques-lean-pour-revenir-aux-sources-de-l'agilite-(1ere-partie)</link>
+      <description>本文探讨了精益实践如何帮助敏捷团队回归其核心原则，以提升客户满意度、员工参与度和绩效。文章指出，尽管敏捷方法在软件开发中广泛应用，但许多团队未能实现预期效果。作者强调，回归精益原则，如持续改进和客户价值，对于实现敏捷的真正潜力至关重要。通过实例和案例分析，文章展示了如何通过精益实践来优化敏捷团队的工作流程和结果。</description>
+      <pubDate>2024-10-10 11:16:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Everything comes back to climate tech. Here’s what to watch for next.</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105382/climate-tech-watch/</link>
+      <description>过去几年是应对气候变化的关键时期，电池技术、核能和材料科学等领域取得了显著进展。未来几年，我们将见证这些领域的进一步发展，包括新型电池的商业化、核能的复兴以及材料回收和再利用的创新。同时，我们将迎来巴黎协定十周年和通胀削减法案实施五周年，标志着全球气候行动的重要里程碑。</description>
+      <pubDate>2024-10-10 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The weeds are winning</title>
       <link>https://www.technologyreview.com/2024/10/10/1105034/weeds-climate-change-genetic-engineering-superweeds-food/</link>
       <description>随着气候变化，转基因技术在粮食生产中变得至关重要，但这也催生了超级杂草的兴起。杂草对除草剂的抗性日益增强，导致产量下降，甚至可能迫使农民破产。科学家们正在寻找替代方法，如混合使用不同类型的除草剂、轮作和采用非化学控制手段，以应对这一挑战。</description>
@@ -34,10 +62,24 @@
     </item>
   
     <item>
+      <title>CodeSOD: Idtoic Mistakes</title>
+      <link>https://thedailywtf.com/articles/idtoic-mistakes</link>
+      <description>Remy Porter在TDWTF上撰文，讨论了公司领导层虽然曾是技术背景，但逐渐脱离技术岗位后仍参与代码提交所导致的错误。文章以CEO重复提交无效代码为例，指出这种做法不仅无益，还可能引发合并冲突，让技术团队感到沮丧。</description>
+      <pubDate>2024-10-10 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>[Agentforce ハンズオン] Coral Cloud Resorts サンプルアプリケーションのご紹介</title>
       <link>https://developer.salesforce.com/blogs/2024/10/jp-agentforce-handson-coral-cloud-resorts-sampleapp.html</link>
       <description>Coral Cloud Resorts 是一个基于 Salesforce 平台的酒店业示例应用程序，利用数据云和人工智能提供高度个性化的客户体验。它展示了如何将生成 AI、智能自动化和内容生成等功能集成到业务流程中。应用程序包括数据云的使用、智能提示模板和代理功能，旨在帮助开发者理解 Salesforce 平台的高级概念。</description>
       <pubDate>2024-10-10 03:54:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Taking A Walk With New York City’s Longest-Serving Tour Guide</title>
+      <link>https://www.babbel.com/en/magazine/new-york-city-tour-guide</link>
+      <description>Joyce Gold，纽约市资历最深的导游，自1977年起带领游客探索纽约的丰富文化和历史。她分享了成为导游的经历、对纽约的看法以及给游客和未来导游的建议。Gold强调，尽管旅游行业经历了变化，但与数字媒体相比，与知识渊博的导游互动仍然是了解城市的好方法。同时，新一代导游如Sarah Funk通过数字内容和创新体验正在改变行业。</description>
+      <pubDate>2024-10-10 03:43:00</pubDate>
     </item>
   
     <item>
