@@ -6,10 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Archive.org, a repository storing the entire history of the Internet, has been hacked</title>
+      <link>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</link>
+      <description>互联网档案馆，一个保存整个互联网历史的数据库，遭遇数据泄露，约3100万用户的电子邮件地址和密码散列被曝光。攻击发生在上个月，档案馆表示遭受了DDoS攻击。</description>
+      <pubDate>2024-10-10 00:12:56</pubDate>
+    </item>
+  
+    <item>
       <title>DevRel newsletter — October 2024</title>
       <link>https://www.elastic.co/blog/devrel-newsletter-october-2024</link>
       <description>Elastic DevRel团队在2024年10月的通讯中介绍了Elasticsearch和Kibana的本地运行方法、Elastic AI助手与私有LLM的连接、与Google Vertex AI的集成，以及一系列博客、视频和即将举行的活动。此外，还涵盖了数据集翻译、RAG、LangChain4j、数据摄入、PII检测、语义搜索、向量数据库导航和AI摘要等主题。</description>
       <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel performance monitoring in Honeybadger</title>
+      <link>https://www.honeybadger.io/blog/laravel-performance-monitoring/</link>
+      <description>Honeybadger推出Laravel性能监控功能，包括性能仪表盘和自动性能事件发送。仪表盘提供多种监控工具，如请求计数、响应分布、作业持续时间等。通过Honeybadger Insights，开发者可以实时查看性能数据，进行故障诊断和性能分析。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Laracon AU schedule is now live</title>
+      <link>https://laravel-news.com/laracon-au-2024-full-schedule</link>
+      <description>Laracon AU 2024会议日程现已公布，汇集了来自全球的17位演讲者，包括Laravel团队成员。会议涵盖商业、专业发展、CI/CD、设计、Livewire和移动应用开发等主题。仅剩32张门票，包括不到10张早鸟票。</description>
+      <pubDate>2024-10-09 23:44:18</pubDate>
     </item>
   
     <item>
@@ -38,6 +59,13 @@
       <link>https://blog.rtwilson.com/how-to-convert-hex-encoded-wkb-geometries-in-postgis/</link>
       <description>本文介绍了如何在PostGIS中将十六进制编码的WKB几何形状转换为PostGIS几何形状。作者首先遇到了ST_GeomFromWKB函数不存在的问题，然后通过使用decode函数将十六进制字符串转换为bytea类型，并正确调用ST_GeomFromWKB函数，成功实现了转换。</description>
       <pubDate>2024-10-09 19:39:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio</title>
+      <link>http://feeds.hanselman.com/~/905963465/0/scotthanselman~Webcam-randomly-pausing-in-OBS-Discord-and-websites-LSVCam-and-TikTok-Studio</link>
+      <description>博主Scott Hanselman分享了他遇到的问题：在使用OBS、Discord和网站时，他的网络摄像头会随机暂停。他发现这是由于LSVCam和TikTok Studio安装的虚拟摄像头引起的，并提供了删除注册表中LSVCam条目的方法来解决这个问题。</description>
+      <pubDate>2024-10-09 19:32:28</pubDate>
     </item>
   
     <item>
@@ -300,6 +328,13 @@
     </item>
   
     <item>
+      <title>8 AI Tips for Web Developers (and Their Careers)</title>
+      <link>https://www.sitepoint.com/ai-tips-for-web-developers-and-their-careers/?utm_source=rss</link>
+      <description>AI在Web开发中的应用正日益重要。本文提供了八条AI使用建议，包括使用AI助手、自动生成提交信息、AI代码审查、代码重构、进行测试项目等。作者强调，开发者应积极拥抱AI，同时也要了解其局限性，以保持自身竞争力。</description>
+      <pubDate>2024-10-09 03:33:47</pubDate>
+    </item>
+  
+    <item>
       <title>Automate with Care</title>
       <link>https://blog.rinesi.com/2024/10/automate-with-care</link>
       <description>美国港口自动化程度较低，其效率与世界同行相比相对较低。自动化项目通常能降低劳动力成本，但有时只在特定条件下可靠，且自动化活动的高效并不一定意味着整体性能提升。复杂系统如软件基础设施、金融公司或港口，不能盲目改变单个组件的性能和可靠性，而应先分析系统性能特征，以预测自动化对整体系统的影响。</description>
@@ -380,6 +415,13 @@
       <title>Tables with Fixed Headers and Horizontal Scroll</title>
       <link>https://www.taniarascia.com/horizontal-scroll-fixed-headers-table/</link>
       <description>创建具有水平滚动和固定表头的HTML表格是一个复杂问题。通过在包含表格的div中设置`overflow-x: auto`，可以添加水平滚动。然而，当滚动时，可能会出现无法看到与单元格关联的表头的问题。为了解决这个问题，可以将表头设置为`position: sticky`，并给表包装器添加一个高度，以确保页眉和页脚始终可见。这样，表格既可水平滚动，又可垂直滚动，且表头固定。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Twilio SMS &amp; MMS Heightened Awareness Period for 2024 elections and Cyber Week</title>
+      <link>https://www.twilio.com/en-us/blog/2024-heightened-awareness-period</link>
+      <description>Twilio将进入2024年选举和网络安全周的“高度关注期”，以确保平台在高峰期的可靠性和弹性。在此期间，Twilio将密切监控和调整消息吞吐量，以维护平台的安全和正常运行。高度关注期从2024年11月1日至2025年1月5日，客户无需采取任何行动，Twilio将确保所有客户在高峰期享有100%的可用性和零故障。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
@@ -800,6 +842,13 @@
     </item>
   
     <item>
+      <title>How to Make a Simple JavaScript Quiz</title>
+      <link>https://www.sitepoint.com/simple-javascript-quiz/?utm_source=rss</link>
+      <description>本文介绍了如何使用JavaScript创建一个简单的在线测验。作者详细讲解了如何构建测验的基本结构、初始化变量、构建测验函数、显示结果以及添加样式。教程还涵盖了如何使用JavaScript动态生成问题和答案，以及如何实现分页功能来提升用户体验。此外，文章提醒开发者注意现代浏览器兼容性和前端安全等问题。</description>
+      <pubDate>2024-10-07 19:18:18</pubDate>
+    </item>
+  
+    <item>
       <title>How DigitalOcean Uses Semgrep to Fortify Security: A Highlight From Our Toolset</title>
       <link>https://www.digitalocean.com/blog/semgrep-security</link>
       <description>DigitalOcean利用开源静态分析工具Semgrep加强代码安全性，通过自动化和防护措施提高工程流程的安全性。Semgrep能够检测代码库中的漏洞，并集成到持续集成管道中，创建强大的安全框架。通过Semgrep，DigitalOcean能够快速识别和修复安全问题，增强开发者工作流程，并确保数据安全。</description>
@@ -895,6 +944,13 @@
       <link>https://blog.jetbrains.com/kotlin/2024/10/the-evolution-of-the-kotlin-language-and-how-emyou-em-can-contribute/</link>
       <description>Kotlin语言的发展受到其活跃社区的影响，通过不断反馈和讨论，形成了Kotlin Evolution and Enhancement Process（KEEP）。KEEP确保新功能经过精心设计、专家评审和社区反馈。该过程包括探索、设计、公开审查、规划和实施、预览和稳定发布等阶段。开发者可以通过参与讨论、提供反馈和测试新功能来贡献自己的力量，共同塑造Kotlin的未来。</description>
       <pubDate>2024-10-07 10:27:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Best React UI Component Libraries</title>
+      <link>https://www.sitepoint.com/popular-react-ui-component-libraries/?utm_source=rss</link>
+      <description>本文探讨了最佳React UI组件库，包括Radix Primitives、MUI、Ant Design、React-Bootstrap、Chakra UI和Mantine等，并分析了它们的特点、优缺点和适用场景。这些库可以帮助开发者简化开发过程，提高效率，并创建独特的用户界面。</description>
+      <pubDate>2024-10-07 09:41:14</pubDate>
     </item>
   
     <item>
