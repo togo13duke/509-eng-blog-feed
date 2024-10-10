@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Engineering the Scalable Vector Extension in .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet/</link>
+      <description>.NET博客文章《在.NET中构建可伸缩向量扩展》介绍了Arm处理器上的可伸缩向量扩展（SVE）如何通过灵活的向量处理提高现代硬件的并行工作负载处理能力。文章详细阐述了SVE在.NET中的集成，包括SVE .NET API的引入，以及如何通过这些API编写更高效、性能更高的代码。此外，文章还讨论了SVE API的设计和实现，以及如何利用这些API在.NET应用程序中实现SVE。</description>
+      <pubDate>2024-10-10 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Convert AWS console actions to reusable code with AWS Console-to-Code, now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/convert-aws-console-actions-to-reusable-code-with-aws-console-to-code-now-generally-available/</link>
+      <description>AWS Console-to-Code 现已全面上市，可轻松将 AWS 控制台操作转换为可重用代码。此工具支持记录操作和流程，并生成 AWS CloudFormation 模板或 AWS CDK 代码，以实现基础设施自动化和定制。新版本增加了对更多服务、简化用户体验和高级代码生成功能。</description>
+      <pubDate>2024-10-10 16:38:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Using Chrome's accessibility APIs to find security bugs</title>
+      <link>http://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html</link>
+      <description>Google安全工程师Adrian Taylor在Chrome博客中介绍了如何利用Chrome的辅助技术API来发现安全漏洞。通过“模糊测试”技术，Chrome的UI控件被随机交互，以检测潜在的崩溃和漏洞。这种方法旨在提高Chrome的安全性，并确保其用户界面对所有用户都易于访问。</description>
+      <pubDate>2024-10-10 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking Data Value in the Age of AI and Data Streaming</title>
+      <link>https://www.confluent.io/blog/current-2024-data-streaming-event/</link>
+      <description>在2024年的Current数据流会议中，行业专家分享了如何利用数据流平台（DSP）将数据从混乱转化为价值，并帮助组织在各个行业中实现今天的用例和明天的用例。会议强调了数据流平台在实现个性化体验、优化业务流程和推动创新方面的作用。此外，还介绍了Confluent的新产品和服务，旨在简化数据流并释放其商业价值。</description>
+      <pubDate>2024-10-10 15:55:48</pubDate>
+    </item>
+  
+    <item>
       <title>Now you can install PHP and the Laravel installer with a single command</title>
       <link>https://laravel-news.com/php-new</link>
       <description>Laravel团队更新了官方文档，允许用户通过单行命令安装PHP和Laravel，简化了安装过程。无论在macOS、Windows还是Linux上，只需运行相应的命令即可自动下载和配置环境，为PHP、Composer和Laravel做好准备。</description>
       <pubDate>2024-10-10 15:29:16</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the General Availability of Databricks Assistant Autocomplete</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-databricks-assistant-autocomplete</link>
+      <description>Databricks宣布其AI助手自动补全功能在所有云平台上正式推出。此功能提供Python和SQL的个性化AI代码建议，直接集成到笔记本、SQL编辑器和AI/BI仪表板中，以提高开发效率。该系统利用相关代码单元格、相关查询和笔记本中的上下文信息，生成准确且与上下文相关的建议。Databricks团队通过优化模型和评估框架，确保了该工具的准确性和实用性。</description>
+      <pubDate>2024-10-10 15:27:33</pubDate>
     </item>
   
     <item>
@@ -118,6 +153,13 @@
     </item>
   
     <item>
+      <title>Easily integrate data from MySQL, Elasticsearch, or Google Analytics with Algolia’s latest no-code connectors</title>
+      <link>https://algolia.com/blog/product/mysql-elasticsearch-google-analytics-no-code-connectors/</link>
+      <description>Algolia推出无需代码的数据连接器，简化了从MySQL、Elasticsearch或Google Analytics等数据源的数据集成流程。这些连接器使技术和非技术用户都能轻松地将数据导入Algolia，并通过单一仪表板进行管理，从而提高团队的工作效率。新功能包括高级安全设置、数据捕获和转换功能，以及同步表格和列的能力。</description>
+      <pubDate>2024-10-10 10:42:41</pubDate>
+    </item>
+  
+    <item>
       <title>Everything comes back to climate tech. Here’s what to watch for next.</title>
       <link>https://www.technologyreview.com/2024/10/10/1105382/climate-tech-watch/</link>
       <description>过去几年是应对气候变化的关键时期，电池技术、核能和材料科学等领域取得了显著进展。未来几年，我们将见证这些领域的进一步发展，包括新型电池的商业化、核能的复兴以及材料回收和再利用的创新。同时，我们将迎来巴黎协定十周年和通胀削减法案实施五周年，标志着全球气候行动的重要里程碑。</description>
@@ -214,6 +256,20 @@
       <description>可观测性的三个支柱：统一日志、指标和跟踪
 
 本文探讨了可观测性的三个核心支柱：统一日志、指标和跟踪。这些是理解和监控复杂系统性能的关键。文章详细解释了每个支柱的作用，包括如何通过它们来识别问题、优化性能和提升用户体验。统一日志、指标和跟踪共同构成了现代可观测性的基础，帮助团队实现系统级的可见性和洞察力。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Mental Health &amp; Discord: Promoting Well-Being All Year Long</title>
+      <link>https://discord.com/blog/mental-health-discord-promoting-well-being-all-year-long</link>
+      <description>Discord致力于为用户提供一个安全、友好的在线空间，并关注用户的心理健康。通过研究、提供资源和与相关组织的合作，Discord旨在帮助用户应对生活中的压力和不适，促进心理健康和福祉。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Two minutes for mental health</title>
+      <link>https://www.thoughtworks.com/insights/blog/diversity-equity-and-inclusion/Two-minutes-for-mental-health</link>
+      <description>每天只需两分钟，通过深呼吸、积极自我对话和身体放松，就能有效缓解压力，提升心理健康。作者建议在忙碌的工作中，利用这短暂的时间进行简单的瑜伽练习或正念冥想，以帮助重置身心，提高工作效率和生活质量。</description>
       <pubDate>2024-10-10 00:00:00</pubDate>
     </item>
   
