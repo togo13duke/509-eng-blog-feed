@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Now you can install PHP and the Laravel installer with a single command</title>
+      <link>https://laravel-news.com/php-new</link>
+      <description>Laravel团队更新了官方文档，允许用户通过单行命令安装PHP和Laravel，简化了安装过程。无论在macOS、Windows还是Linux上，只需运行相应的命令即可自动下载和配置环境，为PHP、Composer和Laravel做好准备。</description>
+      <pubDate>2024-10-10 15:29:16</pubDate>
+    </item>
+  
+    <item>
+      <title>Ktor 3.0 Is Now Available With New Features and Improved Performance</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/10/ktor-3-0/</link>
+      <description>Ktor 3.0版本发布，引入了基于Kotlin 2.0和kotlinx-io库的新特性，提升了性能。新版本支持更快的客户端-服务器应用构建，并增加了对服务器发送事件（SSE）的支持。此外，Ktor 3.0还引入了静态资源ZIP存档服务、CSRF保护以及WebAssembly（Wasm）支持，旨在改善开发体验和架构。</description>
+      <pubDate>2024-10-10 15:18:14</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #87: Nuclear power (solution)</title>
+      <link>https://www.bambooweekly.com/bw-87-nuclear-power-solution/</link>
+      <description>本周，我们探讨了全球核电站，特别是微软投资重新激活三里岛核电站以支持OpenAI数据需求的故事。我们使用GeoPandas从非地理数据创建GeoDataFrame，并制作了核电站的交互式地图。数据集来自世界资源研究所的全球发电厂数据库，包含34,936个电站的详细信息。我们分析了各国电站数量，发现美国拥有最多的电站，其次是中国。我们还比较了每国的平均和中位数电站数量，发现平均值受少数国家影响较大，而中位数更能反映实际情况。</description>
+      <pubDate>2024-10-10 15:00:34</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Ars in DC for infrastructure, cocktails, and spycraft on October 29</title>
+      <link>https://arstechnica.com/information-technology/2024/10/join-ars-in-dc-for-infrastructure-cocktails-and-spycraft-on-october-29/</link>
+      <description>Ars Technica将于10月29日在华盛顿特区举办下一场会议，主题为“AI在DC：隐私、合规性和使基础设施更智能”。会议将包括三个讨论小组，涉及新兴技术合规性、AI辅助网络间谍时代的网络安全以及AI/ML策略的最佳基础设施解决方案。会议将在国际间谍博物馆举行，并设有鸡尾酒会。</description>
+      <pubDate>2024-10-10 14:26:47</pubDate>
+    </item>
+  
+    <item>
       <title>What’s new in Cloudflare One: Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express</title>
       <link>https://blog.cloudflare.com/whats-new-in-cloudflare-one-digital-experience-dex-monitoring-notifications</link>
       <description>Cloudflare One新增了Digital Experience (DEX)监控通知和与中国Express的无缝访问。DEX通知可帮助管理员快速识别和解决影响用户体验的问题，包括设备连接异常、测试延迟和低可用性。中国Express则提供稳定访问中国托管网站的安全连接，通过与中国本地服务提供商合作，确保零信任安全策略的实施。</description>
@@ -72,6 +100,13 @@
       <title>DigitalOcean and ProxySQL LLC Collaborate to Bring PROXY Protocol Support to ProxySQL</title>
       <link>https://www.digitalocean.com/blog/digitalocean-proxysql-collaborate</link>
       <description>DigitalOcean与ProxySQL LLC合作，在ProxySQL的最新版本v2.7.0中添加了对PROXY协议的支持，以优化数据库连接管理。这一更新通过保留客户端IP信息，解决了负载均衡中客户端IP信息丢失的问题，提高了数据库管理员对连接和流量来源的追踪和管理能力。</description>
+      <pubDate>2024-10-10 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Structural Pattern Matching</title>
+      <link>https://realpython.com/quizzes/structural-pattern-matching/</link>
+      <description>本篇博客介绍了一道关于Python结构化模式匹配的测验。测验包含11个问题，旨在检验读者对match语句、case子句、支持的多种模式、守卫、联合、别名和命名绑定的理解。测验无时间限制，每答对一题得1分，满分100%。</description>
       <pubDate>2024-10-10 12:00:00</pubDate>
     </item>
   
@@ -163,6 +198,22 @@
       <title>Laravel performance monitoring in Honeybadger</title>
       <link>https://www.honeybadger.io/blog/laravel-performance-monitoring/</link>
       <description>Honeybadger推出Laravel性能监控功能，包括性能仪表盘和自动性能事件发送。仪表盘提供多种监控工具，如请求计数、响应分布、作业持续时间等。通过Honeybadger Insights，开发者可以实时查看性能数据，进行故障诊断和性能分析。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How search accelerates your path to "AI first"</title>
+      <link>https://www.elastic.co/blog/how-search-accelerates-your-path-to-ai-first</link>
+      <description>搜索技术加速企业迈向“AI优先”之路，通过自然语言处理、机器学习、向量/语义搜索等技术，帮助组织发现、分析并利用未分析的数据。现代搜索系统利用AI能力，提高了结果的准确性、相关性和实用性。生成式AI（GenAI）正在改变组织对搜索、知识管理和知识发现的方法，通过检索增强生成（RAG）将GenAI与业务和现实世界数据连接起来。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The 3 pillars of observability: Unified logs, metrics, and traces</title>
+      <link>https://www.elastic.co/blog/3-pillars-of-observability</link>
+      <description>可观测性的三个支柱：统一日志、指标和跟踪
+
+本文探讨了可观测性的三个核心支柱：统一日志、指标和跟踪。这些是理解和监控复杂系统性能的关键。文章详细解释了每个支柱的作用，包括如何通过它们来识别问题、优化性能和提升用户体验。统一日志、指标和跟踪共同构成了现代可观测性的基础，帮助团队实现系统级的可见性和洞察力。</description>
       <pubDate>2024-10-10 00:00:00</pubDate>
     </item>
   
