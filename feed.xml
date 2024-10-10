@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The weeds are winning</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105034/weeds-climate-change-genetic-engineering-superweeds-food/</link>
+      <description>随着气候变化，转基因技术在粮食生产中变得至关重要，但这也催生了超级杂草的兴起。杂草对除草剂的抗性日益增强，导致产量下降，甚至可能迫使农民破产。科学家们正在寻找替代方法，如混合使用不同类型的除草剂、轮作和采用非化学控制手段，以应对这一挑战。</description>
+      <pubDate>2024-10-10 09:13:00</pubDate>
+    </item>
+  
+    <item>
+      <title>This octopus-inspired adhesive can stick to just about anything</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105396/this-octopus-inspired-adhesive-can-stick-to-just-about-anything/</link>
+      <description>一种模仿章鱼吸盘的粘合剂技术，能够快速附着和释放各种表面，包括湿滑和复杂表面。这项技术有望改善水下建筑方法，并应用于日常设备，如辅助手套。研究人员在实验室中通过控制橡胶茎内的气压，实现了吸盘的精确控制，使其能够稳定地抓取和释放物体。该技术具有广泛的应用前景，包括海洋环境中的水下焊接和医疗手术中的临时固定组织。</description>
+      <pubDate>2024-10-10 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Storage and data protection for OpenShift Virtualization</title>
+      <link>https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization</link>
+      <description>Red Hat OpenShift Virtualization支持在容器化应用环境中运行虚拟机，无需额外订阅。本文介绍了存储解决方案如何支持OpenShift Virtualization，包括支持动态持久卷、虚拟机克隆、快照、实时迁移、热插拔等功能，并强调了性能、可扩展性、备份恢复和灾难恢复的重要性。</description>
+      <pubDate>2024-10-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Get started with the Keycloak Collection</title>
+      <link>https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection</link>
+      <description>本教程介绍了如何使用Ansible中间件执行环境和Ansible内容集合来设置Keycloak。通过Ansible Playbook，可以自动下载和安装Keycloak，并定义域、客户端和用户。教程详细说明了使用ansible-navigator工具和SSH密钥进行自动化配置的过程。</description>
+      <pubDate>2024-10-10 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>[Agentforce ハンズオン] Coral Cloud Resorts サンプルアプリケーションのご紹介</title>
       <link>https://developer.salesforce.com/blogs/2024/10/jp-agentforce-handson-coral-cloud-resorts-sampleapp.html</link>
       <description>Coral Cloud Resorts 是一个基于 Salesforce 平台的酒店业示例应用程序，利用数据云和人工智能提供高度个性化的客户体验。它展示了如何将生成 AI、智能自动化和内容生成等功能集成到业务流程中。应用程序包括数据云的使用、智能提示模板和代理功能，旨在帮助开发者理解 Salesforce 平台的高级概念。</description>
       <pubDate>2024-10-10 03:54:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Hello And Goodbye In Arabic: A Guide To Greetings And Farewells</title>
+      <link>https://www.babbel.com/en/magazine/hello-and-goodbye-in-arabic</link>
+      <description>阿拉伯语中的问候和告别：掌握这些基本表达，无论是正式还是非正式场合，都能帮助你留下良好的第一印象。从“和平与你同在”到“再见”，了解不同情境下的恰当用语，展现对语言的尊重和熟悉度。</description>
+      <pubDate>2024-10-10 01:00:00</pubDate>
     </item>
   
     <item>
@@ -436,6 +471,20 @@
       <title>Twilio SMS &amp; MMS Heightened Awareness Period for 2024 elections and Cyber Week</title>
       <link>https://www.twilio.com/en-us/blog/2024-heightened-awareness-period</link>
       <description>Twilio将进入2024年选举和网络安全周的“高度关注期”，以确保平台在高峰期的可靠性和弹性。在此期间，Twilio将密切监控和调整消息吞吐量，以维护平台的安全和正常运行。高度关注期从2024年11月1日至2025年1月5日，客户无需采取任何行动，Twilio将确保所有客户在高峰期享有100%的可用性和零故障。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Important email and SMS compliance considerations for Black Friday 2024</title>
+      <link>https://www.twilio.com/en-us/blog/black-friday-marketing-compliance</link>
+      <description>黑五期间，企业需遵守重要电子邮件和短信合规性要求，以避免被邮件提供商或运营商阻止发送消息。了解相关法规，确保获得收件人的明确同意，并注册10DLC号码，对于成功开展营销活动至关重要。</description>
+      <pubDate>2024-10-09 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cyber Week 2024 preparation: Key insights and best practices for retail success</title>
+      <link>https://www.twilio.com/en-us/blog/cyber-week-preparation-retail-business</link>
+      <description>Twilio发布了一篇关于2024年网络星期一准备的博客，强调了在假日购物季期间，零售商需要提前准备，确保高质量、个性化的客户体验。文章指出，在2023年的网络星期一期间，Twilio处理了68亿封电子邮件和消息，而Shopify的消费者在全球范围内购买了价值近60亿美元的商品。为了成功，零售商应提前准备，确保邮件的投递率，细分受众，并遵守合规性要求。</description>
       <pubDate>2024-10-09 00:00:00</pubDate>
     </item>
   
