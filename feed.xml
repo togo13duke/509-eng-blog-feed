@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Roundtables: Producing Climate-Friendly Food</title>
+      <link>https://www.technologyreview.com/2024/10/10/1105428/roundtables-producing-climate-friendly-food/</link>
+      <description>MIT Technology Review举办了一场关于生产气候友好型食品的圆桌讨论，探讨了食品系统对全球温室气体排放的影响，以及如何通过创新技术如合成牛肉和利用卫星数据提高农作物产量来减少农业的气候影响。与会嘉宾包括James Temple、Casey Crownhart、Karsten Temme和Matt Callahan，他们分享了关于未来食品和气候变化的见解。</description>
+      <pubDate>2024-10-10 18:14:34</pubDate>
+    </item>
+  
+    <item>
       <title>Engineering the Scalable Vector Extension in .NET</title>
       <link>https://devblogs.microsoft.com/dotnet/engineering-sve-in-dotnet/</link>
       <description>.NET博客文章《在.NET中构建可伸缩向量扩展》介绍了Arm处理器上的可伸缩向量扩展（SVE）如何通过灵活的向量处理提高现代硬件的并行工作负载处理能力。文章详细阐述了SVE在.NET中的集成，包括SVE .NET API的引入，以及如何通过这些API编写更高效、性能更高的代码。此外，文章还讨论了SVE API的设计和实现，以及如何利用这些API在.NET应用程序中实现SVE。</description>
@@ -274,10 +281,24 @@
     </item>
   
     <item>
+      <title>Fearless Concurrency Ep.3: Managing Threaded Programs and Data Races in Rust</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/fearless-concurrency-ep3-optimize-rust-code-with-scoped-threads-&-rayon.html</link>
+      <description>Rust并发编程教程，介绍如何管理线程程序和数据竞争。通过使用scoped threads和Rayon库，优化性能并处理复杂工作负载。scoped threads确保线程在定义的范围内终止，防止数据竞争。Rayon库简化并行计算任务，通过工作窃取机制优化任务分配。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Laracon AU schedule is now live</title>
       <link>https://laravel-news.com/laracon-au-2024-full-schedule</link>
       <description>Laracon AU 2024会议日程现已公布，汇集了来自全球的17位演讲者，包括Laravel团队成员。会议涵盖商业、专业发展、CI/CD、设计、Livewire和移动应用开发等主题。仅剩32张门票，包括不到10张早鸟票。</description>
       <pubDate>2024-10-09 23:44:18</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s new in Cloudflare One: Digital Experience (DEX) monitoring notifications and seamless access to Cloudflare Gateway with China Express</title>
+      <link>https://blog.cloudflare.com/roundup-dex-alerts-cloudflare-gateway-china-express</link>
+      <description>Cloudflare One新增功能包括：通过Digital Experience Monitoring (DEX)通知，IT管理员可以主动识别影响用户数字体验的问题；与China Express集成，为Cloudflare Gateway客户提供访问中国托管网站的便捷和安全连接。这些更新旨在提高网络性能和安全性，确保用户获得更好的数字体验。</description>
+      <pubDate>2024-10-09 23:00:00</pubDate>
     </item>
   
     <item>
