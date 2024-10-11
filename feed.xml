@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Implementing Raft: Part 4 - Key/Value Database</title>
+      <link>https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/</link>
+      <description>本篇博客介绍了如何使用Raft算法实现一个具有强一致性语义的键值数据库。文章详细描述了如何构建一个键值数据库系统，包括服务端和客户端库，以及如何通过Raft协议确保数据的一致性和可靠性。通过HTTP API与客户端交互，并使用Raft的复制状态机机制来处理数据变更，确保了数据的一致性。</description>
+      <pubDate>2024-10-11 02:50:00</pubDate>
+    </item>
+  
+    <item>
       <title>We’re All Just Looking for Connection</title>
       <link>https://slack.engineering/were-all-just-looking-for-connection/</link>
       <description>Slack工程师团队在将Quip技术集成到Slack时，遇到了一个与TCP状态相关的复杂bug。通过深入调查和修复，他们解决了EOFError错误，并从中学到了关于网络连接和错误处理的宝贵经验。这次经历还推动了Python运行时迁移的进展，并强调了在底层代码中深入挖掘问题的重要性。</description>
