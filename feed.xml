@@ -316,13 +316,6 @@
     </item>
   
     <item>
-      <title>Rogue Agents: Stop AI From Misusing Your APIs</title>
-      <link>https://www.twilio.com/en-us/blog/rogue-ai-agents-secure-your-apis</link>
-      <description>Twilio博客文章《Rogue Agents: Stop AI From Misusing Your APIs》探讨了如何防止大型语言模型（LLMs）如ChatGPT滥用API。文章指出，LLMs虽然强大，但容易受到操纵和产生不可预测的行为，因此需要将它们视为不可信的客户端，并采取类似浏览器和移动应用的严格安全措施，如中间层API和身份验证，以保护API不被滥用。</description>
-      <pubDate>2024-10-10 00:00:00</pubDate>
-    </item>
-  
-    <item>
       <title>The Laracon AU schedule is now live</title>
       <link>https://laravel-news.com/laracon-au-2024-full-schedule</link>
       <description>Laracon AU 2024会议日程现已公布，汇集了来自全球的17位演讲者，包括Laravel团队成员。会议涵盖商业、专业发展、CI/CD、设计、Livewire和移动应用开发等主题。仅剩32张门票，包括不到10张早鸟票。</description>
