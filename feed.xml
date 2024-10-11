@@ -6,10 +6,52 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>HubSpot Incident Report for September 25, 2024</title>
+      <link>https://product.hubspot.com/blog/hubspot-incident-sept25</link>
+      <description>2024年9月25日，HubSpot发生两次服务中断，导致部分客户无法登录和使用工具。问题源于Kubernetes节点上流量处理Pod的分布不均，导致多个Pod同时失败。HubSpot已将受影响的路由层回滚到更稳定的版本，并加强了监控和警报系统，以减少未来类似事件的发生。</description>
+      <pubDate>2024-10-11 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Last9 for the October Observability Meetup!</title>
+      <link>https://last9.io/events/join-last9-for-the-october-observability-meetup/</link>
+      <description>参加10月观测性Meetup，探索关键观测性主题，与行业专家交流。活动于10月22日举行，地点在加州桑尼维尔Plug and Play Tech Center。Last9提供可靠的数据管理服务，支持Prometheus和OpenTelemetry，实现实时指标和灵活的云支持。多位行业专家将分享见解，并提供注册链接。</description>
+      <pubDate>2024-10-11 13:23:18</pubDate>
+    </item>
+  
+    <item>
+      <title>PostgreSQL Migration Made Easier: Improving Our Live Migration Tool</title>
+      <link>https://www.timescale.com/blog/postgresql-migration-made-easier/</link>
+      <description>PostgreSQL数据库迁移是一项复杂任务，尤其是对于时间序列数据。Timescale公司推出了改进的实时迁移工具，简化了数据迁移过程，提高了迁移路径、可靠性和性能。新功能包括支持迁移到Timescale Cloud、转换表为 hypertable、支持生成列和表数据过滤等。此外，还增强了工具的可靠性，如改进复制稳定性、优雅终止和自动重连功能。性能优化包括批量处理单行插入和利用PostgreSQL管道模式。这些改进旨在确保数据迁移的准确性和效率。</description>
+      <pubDate>2024-10-11 13:00:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Mastering Laravel, No Compromises, and SourceDive with Joel Clermont</title>
+      <link>https://laravel-news.com/mastering-laravel-no-compromises-and-sourcedive-with-joel-clermont</link>
+      <description>Joel Clermont在Laravel生态系统中分享了他的工作经验，包括通过Mastering Laravel的教育项目、每日提示的影响以及他建立的社区。他讨论了独特的“无妥协”咨询模式，强调简化客户关系的固定费用结构。他还谈到了最近的项目，如SourceDive的开发，这是一个帮助开发者更有效地探索Laravel代码库的工具。他强调了社区、教育和科技行业咨询创新方法的重要性。</description>
+      <pubDate>2024-10-11 12:43:43</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: direct-air-capture plants, and measuring body fat</title>
+      <link>https://www.technologyreview.com/2024/10/11/1105455/the-download-direct-air-capture-plants-and-measuring-body-fat/</link>
+      <description>MIT Technology Review的《The Download》本周聚焦于直接空气捕获植物和测量体脂的新方法，同时探讨了特斯拉Cybercab的发布、美国碳移除行业的需求提升、以及人工智能在各个领域的应用和影响。</description>
+      <pubDate>2024-10-11 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>Peer Recognition: Why It Matters and How It Fuels Team Success</title>
       <link>https://spin.atomicobject.com/peer-recognition-team-success/</link>
       <description>同伴认可对于团队成功至关重要。它不仅体现了对同事价值的认可，还能提升团队参与度和减少工作压力。在扁平化组织中，如Atomic Object，通过多种认可方式，如“Protons”和公开表扬，确保团队成员感到被重视，并促进创新和业务成功。</description>
       <pubDate>2024-10-11 12:00:40</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #223: Exploring the New Features of Python 3.13</title>
+      <link>https://realpython.com/podcasts/rpp/223/</link>
+      <description>The Real Python Podcast Episode 223 discusses the new features of Python 3.13, including the JIT compiler, improved error messages, and static typing enhancements. The episode features guests Geir Arne Hjelle and Christopher Trudeau, who provide insights and advice on incorporating these updates into projects.</description>
+      <pubDate>2024-10-11 12:00:00</pubDate>
     </item>
   
     <item>
@@ -66,6 +108,13 @@
       <link>https://thedailywtf.com/articles/you-don-t-need-a-weatherman</link>
       <description>本周，两位读者向《Daily WTF》提供了BBC关于布里斯托尔异常天气的报道。报道中BBC对风速的描述有误，一位读者分享了一张天气站的截图，另一位则对极端温度表示困惑。文章讨论了这些错误，并指出它们并非真正的错误。</description>
       <pubDate>2024-10-11 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Inertia.js v2 Beta is Here</title>
+      <link>https://laravel-news.com/inertiajs-v2-beta-is-here</link>
+      <description>Inertia.js v2 Beta已发布，核心库支持异步请求，带来多项新特性，如轮询、预取、延迟属性等。新版本支持异步请求，实现非阻塞，并引入无限滚动等新功能。开发者可查阅官方文档和升级指南开始使用。</description>
+      <pubDate>2024-10-11 04:20:45</pubDate>
     </item>
   
     <item>
