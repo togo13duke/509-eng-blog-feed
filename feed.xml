@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Peer Recognition: Why It Matters and How It Fuels Team Success</title>
+      <link>https://spin.atomicobject.com/peer-recognition-team-success/</link>
+      <description>同伴认可对于团队成功至关重要。它不仅体现了对同事价值的认可，还能提升团队参与度和减少工作压力。在扁平化组织中，如Atomic Object，通过多种认可方式，如“Protons”和公开表扬，确保团队成员感到被重视，并促进创新和业务成功。</description>
+      <pubDate>2024-10-11 12:00:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #871</title>
+      <link>https://tympanus.net/codrops/collective/collective-871/</link>
+      <description>CSS Masonry和CSS Grid的性能基准测试，Web组件与框架组件的讨论，零配置工具推荐，CSS @property性能优化，设计系统的实施策略，以及ProductHunt上机器人对用户互动的影响。</description>
+      <pubDate>2024-10-11 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Job title of the future: Digital forest ranger</title>
+      <link>https://www.technologyreview.com/2024/10/11/1105063/digital-forest-ranger-martin-roth-job-future/</link>
+      <description>未来职业：数字森林管理员 | 面对林业的不确定性，德国的Martin Roth运用高科技方法引领林业发展。他利用无人机、GPS和AI技术提高效率，监测森林状况，并实验新树种以应对气候变化。Roth的“数字森林管理员”称号在德国林业界广为人知，他的方法正受到越来越多人的关注。</description>
+      <pubDate>2024-10-11 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Designer Spotlight: Eva Sánchez</title>
       <link>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</link>
       <description>Eva Sánchez是一位来自巴塞罗那的独立视觉和交互设计师，专注于通过字体、动效和网页动画创造获奖的数字体验。她拥有丰富的项目经验，包括为Banjo、Ciclope Fest、CLASS(E)和Kids Agency等品牌设计网站。Eva在Awwwards担任评委，并在Domestika教授设计课程。她的设计哲学强调沟通和透明度，致力于为每个项目创造信任和协作的环境。</description>
@@ -38,6 +59,13 @@
       <link>https://last9.io/blog/otel-collector-monitoring/</link>
       <description>OTEL Collector是OpenTelemetry框架的关键组件，用于收集、处理和导出应用和基础设施的遥测数据。本文介绍了如何通过最佳实践和实施策略来有效监控OTEL Collector，包括配置、监控和扩展其功能，以确保系统性能和可观察性管道的顺畅运行。</description>
       <pubDate>2024-10-11 08:06:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: You Don't Need A Weatherman</title>
+      <link>https://thedailywtf.com/articles/you-don-t-need-a-weatherman</link>
+      <description>本周，两位读者向《Daily WTF》提供了BBC关于布里斯托尔异常天气的报道。报道中BBC对风速的描述有误，一位读者分享了一张天气站的截图，另一位则对极端温度表示困惑。文章讨论了这些错误，并指出它们并非真正的错误。</description>
+      <pubDate>2024-10-11 06:30:00</pubDate>
     </item>
   
     <item>
