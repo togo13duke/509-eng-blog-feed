@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Designer Spotlight: Eva Sánchez</title>
+      <link>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</link>
+      <description>Eva Sánchez是一位来自巴塞罗那的独立视觉和交互设计师，专注于通过字体、动效和网页动画创造获奖的数字体验。她拥有丰富的项目经验，包括为Banjo、Ciclope Fest、CLASS(E)和Kids Agency等品牌设计网站。Eva在Awwwards担任评委，并在Domestika教授设计课程。她的设计哲学强调沟通和透明度，致力于为每个项目创造信任和协作的环境。</description>
+      <pubDate>2024-10-11 09:52:12</pubDate>
+    </item>
+  
+    <item>
+      <title>These are the best ways to measure your body fat</title>
+      <link>https://www.technologyreview.com/2024/10/11/1105421/these-are-the-best-ways-to-measure-your-body-fat/</link>
+      <description>文章探讨了测量身体脂肪的最佳方法，指出传统的BMI指标存在缺陷，并介绍了几种更准确的方法，如DEXA扫描、CT扫描和MRI扫描。此外，还提到了SAD（矢状腹部直径）测量法，这是一种简单、经济、易于实施的方法，可以更好地评估健康风险。文章强调了解身体脂肪分布和类型的重要性，以及如何通过这些测量方法来更好地管理健康。</description>
+      <pubDate>2024-10-11 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Les pratiques Lean pour revenir aux sources de l’agilité (2ème partie)</title>
+      <link>https://blog.octo.com/les-pratiques-lean-pour-revenir-aux-sources-de-l'agilite-(2eme-partie)</link>
+      <description>本文探讨了如何通过精益实践回归敏捷的根源，以提高客户满意度、员工参与度和运营绩效。文章详细介绍了如何通过精益原则优化敏捷事件，包括准备冲刺、分析待办事项、计划冲刺、执行冲刺、审查冲刺和回顾。通过实际案例，展示了如何应用这些实践来提高团队效率和产品质量。</description>
+      <pubDate>2024-10-11 08:44:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Join Last9 at KubeCon + CloudNativeCon India 2024!</title>
+      <link>https://last9.io/events/join-last9-at-kubecon-cloudnativecon-india-2024/</link>
+      <description>KubeCon + CloudNativeCon India 2024将于2024年12月11-12日在印度德里举行，Last9将参加此次盛会。Last9提供大规模监控解决方案，支持高基数数据，并集成了Prometheus和OpenTelemetry。其平台旨在简化遥测数据管理，提供实时指标、智能警报和开发者友好的界面。</description>
+      <pubDate>2024-10-11 08:40:02</pubDate>
+    </item>
+  
+    <item>
+      <title>OTEL Collector Monitoring: Best Practices &amp; Guide</title>
+      <link>https://last9.io/blog/otel-collector-monitoring/</link>
+      <description>OTEL Collector是OpenTelemetry框架的关键组件，用于收集、处理和导出应用和基础设施的遥测数据。本文介绍了如何通过最佳实践和实施策略来有效监控OTEL Collector，包括配置、监控和扩展其功能，以确保系统性能和可观察性管道的顺畅运行。</description>
+      <pubDate>2024-10-11 08:06:46</pubDate>
+    </item>
+  
+    <item>
       <title>Implementing Raft: Part 4 - Key/Value Database</title>
       <link>https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/</link>
       <description>本篇博客介绍了如何使用Raft算法实现一个具有强一致性语义的键值数据库。文章详细描述了如何构建一个键值数据库系统，包括服务端和客户端库，以及如何通过Raft协议确保数据的一致性和可靠性。通过HTTP API与客户端交互，并使用Raft的复制状态机机制来处理数据变更，确保了数据的一致性。</description>
