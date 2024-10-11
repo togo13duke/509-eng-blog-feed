@@ -330,6 +330,13 @@
     </item>
   
     <item>
+      <title>10 holiday text message templates to use with customers</title>
+      <link>https://www.twilio.com/en-us/blog/holiday-text-templates</link>
+      <description>Twilio发布了一篇关于如何利用节日短信模板来吸引顾客的文章。文章指出，节日短信营销能够帮助商家提高销售额和客户忠诚度，并提供了三个主要优势：即时触达、高打开率和个性化沟通。文章还提供了节日短信营销的技巧，如建立目标订阅者列表和制作节日特定内容，以提升营销效果。</description>
+      <pubDate>2024-10-10 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Laracon AU schedule is now live</title>
       <link>https://laravel-news.com/laracon-au-2024-full-schedule</link>
       <description>Laracon AU 2024会议日程现已公布，汇集了来自全球的17位演讲者，包括Laravel团队成员。会议涵盖商业、专业发展、CI/CD、设计、Livewire和移动应用开发等主题。仅剩32张门票，包括不到10张早鸟票。</description>
@@ -655,6 +662,13 @@
       <title>Leveraging RAG-powered LLMs for Analytical Tasks</title>
       <link>https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LM</link>
       <description>本文探讨了利用RAG（检索增强生成）技术提升大型语言模型（LLM）在数据分析任务中的效率。通过结合内部LLM工具、数据、调度器、消息工具和中间件Data-Arks，实现了自动化报告生成和欺诈调查的简化。RAG方法因其成本效益、信息更新灵活性和快速可扩展性而优于微调。未来，团队计划将更多工具集成到LLM中，以进一步扩展其应用范围。</description>
+      <pubDate>2024-10-09 00:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveraging RAG-powered LLMs for Analytical Tasks</title>
+      <link>https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM</link>
+      <description>本文探讨了利用RAG（检索增强生成）技术提升大型语言模型（LLM）在数据分析任务中的效率。通过结合内部LLM工具、数据、调度器、消息工具和中间件Data-Arks，实现了自动化报告生成和欺诈调查的简化。RAG方法因其成本效益、信息更新灵活性和快速可扩展性而优于微调。未来，团队计划将更多工具与GPT集成，以进一步扩展RAG-LLM的应用潜力。</description>
       <pubDate>2024-10-09 00:00:10</pubDate>
     </item>
   
