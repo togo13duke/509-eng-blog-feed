@@ -6,6 +6,36 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Shift Left: Bad Data in Event Streams, Part 2</title>
+      <link>https://www.confluent.io/blog/shift-left-bad-data-in-event-streams-part-2/</link>
+      <description>在事件流中预防和修复不良数据，重点在于防止不良数据进入系统。使用模式、测试和数据质量约束来确保系统产生定义良好的数据。事件设计在修复不良数据方面发挥重要作用，通过设计良好的事件可以简化问题，并确保合规性。如果不良数据不可避免地进入流中，可以回滚、重建和重试。通过使用状态事件和Delta事件，可以有效地管理数据，并利用Kafka的压缩功能来删除不良数据。</description>
+      <pubDate>2024-10-11 19:15:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Conduct effective sprint retros using Confluence and Jira</title>
+      <link>https://www.atlassian.com/blog/confluence/effective-sprint-retros-with-confluence-and-jira</link>
+      <description>使用Confluence和Jira进行有效的冲刺回顾，可以整合反馈，提高团队协作和效率，通过链接Jira项目到Confluence空间，利用模板和实时报告，确保反馈得到跟踪和实施，从而提升冲刺回顾的质量。</description>
+      <pubDate>2024-10-11 18:44:45</pubDate>
+    </item>
+  
+    <item>
+      <title>How to make cross-functional collaboration simple for program managers</title>
+      <link>https://www.atlassian.com/blog/work-management/program-management-cross-functional-collaboration</link>
+      <description>如何简化项目经理的跨职能协作
+
+本文探讨了如何通过使用Confluence和Jira等工具来简化项目经理的跨职能协作。Confluence用于规划阶段的知识共享和决策制定，而Jira则用于执行阶段的任务分配和进度跟踪。通过这两个工具的结合，项目经理可以更有效地管理团队，减少信息孤岛，提高项目成功率。</description>
+      <pubDate>2024-10-11 18:14:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Hacktoberfest 2024: How to Participate</title>
+      <link>https://www.digitalocean.com/blog/hactoberfest-2024-how-to-participate</link>
+      <description>Hacktoberfest 2024是一个庆祝开源活动的节日，任何人都可以参与其中。参与者可以通过提交高质量的代码贡献、维护项目、提供技术文档、用户体验测试等方式支持开源项目。活动期间，参与者需在10月1日至10月31日提交四个高质量的pull/merge请求，以获得数字徽章。无论技术背景如何，Hacktoberfest都鼓励大家为开源项目做出贡献。</description>
+      <pubDate>2024-10-11 18:04:58</pubDate>
+    </item>
+  
+    <item>
       <title>Are Tesla’s robot prototypes AI marvels or remote-controlled toys?</title>
       <link>https://arstechnica.com/ai/2024/10/are-teslas-robot-prototypes-ai-marvels-or-remote-controlled-toys/</link>
       <description>特斯拉的Optimus机器人原型在“我们，机器人”活动中展示了其进步，能够自主移动和与人类互动。然而，许多观察者认为这些原型仍然需要远程操作，引发了关于其自主能力的讨论。特斯拉CEO埃隆·马斯克对机器人的未来潜力持乐观态度，预计它们将能够执行各种任务，从而降低劳动力成本。</description>
@@ -184,6 +214,13 @@
       <title>Generating a browser HAR file for Kibana troubleshooting</title>
       <link>https://www.elastic.co/blog/generating-browser-har-file-kibana-troubleshooting</link>
       <description>本文介绍了如何为Kibana故障排除生成浏览器HAR文件。通过捕获和分析HAR日志，可以诊断Kibana UI与Elasticsearch数据库之间的堆栈问题。文章详细说明了如何准备Kibana，捕获HAR日志，并清洗敏感数据，以便进行故障排除。</description>
+      <pubDate>2024-10-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>I love Continuity Camera, I hate Continuity Camera</title>
+      <link>https://carlosbecker.com/posts/continuity-camera/</link>
+      <description>Continuity Camera功能允许iPhone作为MacBook的摄像头使用，作者对其进行了体验。优点包括便携、功能丰富、音画质优良，但缺点是首次使用时易断开连接，电池续航短，且iPhone使用时发热。作者目前不确定是否继续使用，考虑使用USB-C线连接。</description>
       <pubDate>2024-10-11 00:00:00</pubDate>
     </item>
   
@@ -1310,6 +1347,13 @@
       <link>https://laravel-news.com/prism-ai-laravel</link>
       <description>Prism是一个强大的Laravel包，用于集成大型语言模型（LLMs），提供统一的接口与多种AI提供商无缝交互。它支持多种AI服务，如Anthropic、OpenAI和Ollama，并允许自定义驱动程序。Prism具有优雅的集成、流畅的文本生成API和灵活的配置选项，旨在简化AI在Laravel项目中的应用。</description>
       <pubDate>2024-10-08 02:09:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing GA of Provider Usage Analytics</title>
+      <link>https://www.databricks.com/blog/announcing-ga-provider-usage-analytics</link>
+      <description>Databricks宣布其Marketplace提供商的“Provider Usage Analytics”功能正式上线。此功能允许提供商实时分析潜在客户生成和产品兴趣，提供关于潜在客户、他们代表的公司和如何与产品互动的清晰见解，帮助提供商更好地了解其受众和产品性能，从而促进增长并提高潜在客户转化率。</description>
+      <pubDate>2024-10-08 01:03:24</pubDate>
     </item>
   
     <item>
