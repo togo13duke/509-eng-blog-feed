@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Are Tesla’s robot prototypes AI marvels or remote-controlled toys?</title>
+      <link>https://arstechnica.com/ai/2024/10/are-teslas-robot-prototypes-ai-marvels-or-remote-controlled-toys/</link>
+      <description>特斯拉的Optimus机器人原型在“我们，机器人”活动中展示了其进步，能够自主移动和与人类互动。然而，许多观察者认为这些原型仍然需要远程操作，引发了关于其自主能力的讨论。特斯拉CEO埃隆·马斯克对机器人的未来潜力持乐观态度，预计它们将能够执行各种任务，从而降低劳动力成本。</description>
+      <pubDate>2024-10-11 16:30:07</pubDate>
+    </item>
+  
+    <item>
       <title>5 AI features that will delight your support agents</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/5-ai-features-that-will-delight-your-support-agents</link>
       <description>AI技术正革新客户支持，通过Jira Service Management的先进AI功能，支持团队可利用AI摘要、编辑器、情感分析、问题分类和虚拟服务代理等工具，提高效率并提升客户满意度。这些功能简化了工作流程，使支持人员能够专注于复杂问题解决和战略任务，从而优化服务交付。</description>
@@ -150,6 +157,13 @@
       <link>https://thedailywtf.com/articles/you-don-t-need-a-weatherman</link>
       <description>本周，两位读者向《Daily WTF》提供了BBC关于布里斯托尔异常天气的报道。报道中BBC对风速的描述有误，一位读者分享了一张天气站的截图，另一位则对极端温度表示困惑。文章讨论了这些错误，并指出它们并非真正的错误。</description>
       <pubDate>2024-10-11 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create a Secure CI/CD Pipeline Using Okta Terraform</title>
+      <link>https://developer.okta.com/blog/2024/10/11/terraform-ci-cd</link>
+      <description>本文介绍了如何使用Okta、Terraform、AWS和GitHub Actions创建一个安全的CI/CD管道。通过结合这些工具，可以自动化基础设施部署，提高开发效率。文章详细阐述了设置过程，包括配置Terraform、管理密钥、设置IAM策略以及利用GitHub Actions触发Terraform命令。最终目标是实现一个安全、高效的代码集成和持续部署流程。</description>
+      <pubDate>2024-10-11 05:00:00</pubDate>
     </item>
   
     <item>
