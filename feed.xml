@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>5 AI features that will delight your support agents</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/5-ai-features-that-will-delight-your-support-agents</link>
+      <description>AI技术正革新客户支持，通过Jira Service Management的先进AI功能，支持团队可利用AI摘要、编辑器、情感分析、问题分类和虚拟服务代理等工具，提高效率并提升客户满意度。这些功能简化了工作流程，使支持人员能够专注于复杂问题解决和战略任务，从而优化服务交付。</description>
+      <pubDate>2024-10-11 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building Multi-Tenant RAG Applications With PostgreSQL: Choosing the Right Approach</title>
+      <link>https://www.timescale.com/blog/building-multi-tenant-rag-applications-with-postgresql-choosing-the-right-approach/</link>
+      <description>本文探讨了在PostgreSQL中使用pgvector构建检索增强生成（RAG）应用时，如何处理多租户问题。文章解释了多租户的概念，分析了其在RAG应用中的优势和挑战，并介绍了PostgreSQL在多租户RAG应用中的优势，如内置全文搜索、JSON支持和向量扩展。最后，文章概述了在PostgreSQL中实现RAG的策略，包括数据隔离、可扩展性和成本效益。</description>
+      <pubDate>2024-10-11 15:51:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing New 48vCPU and 60vCPU Optimized Premium Droplets on DigitalOcean</title>
+      <link>https://www.digitalocean.com/blog/new-larger-droplet-sizes</link>
+      <description>DigitalOcean推出新的48vCPU和60vCPU优化版高级Droplets，提供全时专用CPU、10 Gbps数据传输和NVMe存储，适用于大型、复杂应用。新Droplets包括内存优化、存储优化、通用优化和CPU优化版本，适用于不同类型的工作负载，如流媒体、在线游戏、机器学习等。</description>
+      <pubDate>2024-10-11 15:32:51</pubDate>
+    </item>
+  
+    <item>
+      <title>AMD unveils powerful new AI chip to challenge Nvidia</title>
+      <link>https://arstechnica.com/ai/2024/10/amd-unveils-powerful-new-ai-chip-to-challenge-nvidia/</link>
+      <description>AMD发布新型AI芯片挑战Nvidia，新芯片MI325X性能领先，预计2024年第四季度上市。AMD计划通过MI350芯片与Nvidia新系统Blackwell竞争，并希望在未来十年成为AI领域的领导者。尽管市场份额较小，AMD仍看好AI数据中心GPU的未来需求，预计2027年AI芯片市场规模将达4000亿美元。</description>
+      <pubDate>2024-10-11 14:58:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Ray Batch Inference at Pinterest (Part 3)</title>
+      <link>https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest使用Ray框架进行离线批量推理，显著提高了吞吐量和降低了成本。通过流式执行、异构集群管理、框架无关性和作业组合等特性，Ray Batch Inference在处理大规模数据集时表现出色，并支持多模型推理和分布式累积器，优化了大型语言模型（LLM）的推理。</description>
+      <pubDate>2024-10-11 14:12:12</pubDate>
+    </item>
+  
+    <item>
       <title>HubSpot Incident Report for September 25, 2024</title>
       <link>https://product.hubspot.com/blog/hubspot-incident-sept25</link>
       <description>2024年9月25日，HubSpot发生两次服务中断，导致部分客户无法登录和使用工具。问题源于Kubernetes节点上流量处理Pod的分布不均，导致多个Pod同时失败。HubSpot已将受影响的路由层回滚到更稳定的版本，并加强了监控和警报系统，以减少未来类似事件的发生。</description>
@@ -104,6 +139,13 @@
     </item>
   
     <item>
+      <title>Is this the real life? Training autonomous cars with simulations</title>
+      <link>https://stackoverflow.blog/2024/10/11/is-this-the-real-life-training-autonomous-cars-with-simulations/</link>
+      <description>Helm.ai CEO Vladislav Voroninski在Stack Overflow博客中讨论了使用模拟训练自动驾驶汽车，强调了无监督学习在自动驾驶领域的作用，以及多模态基础模型的价值。他还探讨了自动驾驶系统扩展的挑战、部分自主性的商业潜力，以及软件在汽车销售中的关键作用。</description>
+      <pubDate>2024-10-11 07:40:00</pubDate>
+    </item>
+  
+    <item>
       <title>Error'd: You Don't Need A Weatherman</title>
       <link>https://thedailywtf.com/articles/you-don-t-need-a-weatherman</link>
       <description>本周，两位读者向《Daily WTF》提供了BBC关于布里斯托尔异常天气的报道。报道中BBC对风速的描述有误，一位读者分享了一张天气站的截图，另一位则对极端温度表示困惑。文章讨论了这些错误，并指出它们并非真正的错误。</description>
@@ -122,6 +164,13 @@
       <link>https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/</link>
       <description>本篇博客介绍了如何使用Raft算法实现一个具有强一致性语义的键值数据库。文章详细描述了如何构建一个键值数据库系统，包括服务端和客户端库，以及如何通过Raft协议确保数据的一致性和可靠性。通过HTTP API与客户端交互，并使用Raft的复制状态机机制来处理数据变更，确保了数据的一致性。</description>
       <pubDate>2024-10-11 02:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Generating a browser HAR file for Kibana troubleshooting</title>
+      <link>https://www.elastic.co/blog/generating-browser-har-file-kibana-troubleshooting</link>
+      <description>本文介绍了如何为Kibana故障排除生成浏览器HAR文件。通过捕获和分析HAR日志，可以诊断Kibana UI与Elasticsearch数据库之间的堆栈问题。文章详细说明了如何准备Kibana，捕获HAR日志，并清洗敏感数据，以便进行故障排除。</description>
+      <pubDate>2024-10-11 00:00:00</pubDate>
     </item>
   
     <item>
