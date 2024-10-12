@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>A History of Microwave Ovens</title>
+      <link>https://taylor.town/history-of-microwave-ovens</link>
+      <description>微波炉的历史始于20世纪40年代，当时人们开始考虑使用无线电波加热食物。1947年，Radarange 1132成为首个商用微波炉，其工作原理是通过2.4 GHz的无线电波使水分子旋转产生热量。随着技术的发展，微波炉逐渐普及，并引入了自动解冻、旋转盘等创新功能。到了20世纪末，微波炉已成为厨房中不可或缺的电器，其技术也在不断进步，如引入了变频技术，使加热更加均匀。</description>
+      <pubDate>2024-10-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>6 Ways GenAI Is Changing Law Services &amp; Legal Practice</title>
       <link>https://8thlight.com/insights/6-ways-genai-is-changing-law</link>
       <description>生成式AI正在改变法律服务与法律实践，通过自动化研究、合同管理、诉讼预测和虚拟法律协助等应用，提高了法律流程的效率和准确性。这些技术不仅简化了日常任务，还增强了律师的研究和调查能力，为法律行业带来了新的机遇和挑战。</description>
@@ -1418,6 +1425,13 @@
       <description>使用Laravel Livewire构建博客
 
 本文介绍了如何使用Laravel Livewire框架构建一个博客。Livewire将后端与前端融合，简化了DOM操作、动态界面和请求处理。文章详细讲解了Livewire的基本概念，包括验证、错误处理和组件化，并通过实际示例展示了如何使用Livewire进行开发。</description>
+      <pubDate>2024-10-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Make mistakes easy to fix</title>
+      <link>https://swizec.com/blog/make-mistakes-easy-to-fix/</link>
+      <description>文章主要讲述了如何快速修复错误，强调了在软件开发中，尽管无法完全避免错误，但可以通过一些习惯和工具来使错误更容易修复。作者分享了他们在工作中遇到的一个错误案例，并分析了如何通过小而频繁的部署、良好的可观察性、自动化测试和代码审查来快速响应和修复问题。此外，还讨论了在代码提交前通过静态类型检查和测试来预防错误的重要性，以及如何通过降低架构复杂性和提高测试覆盖率来进一步减少错误的发生。</description>
       <pubDate>2024-10-08 00:00:00</pubDate>
     </item>
   
