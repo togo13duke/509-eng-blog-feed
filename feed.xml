@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>6 Ways GenAI Is Changing Law Services &amp; Legal Practice</title>
+      <link>https://8thlight.com/insights/6-ways-genai-is-changing-law</link>
+      <description>生成式AI正在改变法律服务与法律实践，通过自动化研究、合同管理、诉讼预测和虚拟法律协助等应用，提高了法律流程的效率和准确性。这些技术不仅简化了日常任务，还增强了律师的研究和调查能力，为法律行业带来了新的机遇和挑战。</description>
+      <pubDate>2024-10-11 22:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Shift Left: Bad Data in Event Streams, Part 2</title>
       <link>https://www.confluent.io/blog/shift-left-bad-data-in-event-streams-part-2/</link>
       <description>在事件流中预防和修复不良数据，重点在于防止不良数据进入系统。使用模式、测试和数据质量约束来确保系统产生定义良好的数据。事件设计在修复不良数据方面发挥重要作用，通过设计良好的事件可以简化问题，并确保合规性。如果不良数据不可避免地进入流中，可以回滚、重建和重试。通过使用状态事件和Delta事件，可以有效地管理数据，并利用Kafka的压缩功能来删除不良数据。</description>
