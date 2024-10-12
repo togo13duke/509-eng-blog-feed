@@ -232,6 +232,13 @@
     </item>
   
     <item>
+      <title>NowNowNow</title>
+      <link>https://www.devroom.io/now/</link>
+      <description>Ariejan de Vroom分享了他的个人和职业近况。他在家庭生活中忙碌，同时致力于软件工程，目前在一个Python/Django应用和Vue前端的项目中工作，并计划尝试Rails 8的新特性。他还提到在忙于家庭事务和汽车项目，并可能即将搬家。</description>
+      <pubDate>2024-10-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>We’re All Just Looking for Connection</title>
       <link>https://slack.engineering/were-all-just-looking-for-connection/</link>
       <description>Slack工程师团队在将Quip技术集成到Slack时，遇到了一个与TCP状态相关的复杂bug。通过深入调查和修复，他们解决了EOFError错误，并从中学到了关于网络连接和错误处理的宝贵经验。这次经历还推动了Python运行时迁移的进展，并强调了在底层代码中深入挖掘问题的重要性。</description>
