@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Internet Archive and its 916 billion saved webpages are back online</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/</link>
+      <description>The Internet Archive's Wayback Machine, which contains 916 billion webpages, has been restored online in a read-only mode following a DDoS attack and data breach. The site is still recovering and may require further maintenance, with some services temporarily offline. The Internet Archive, founded in 1996, preserves publicly available web pages and offers free access to videos, audio files, and books.</description>
+      <pubDate>2024-10-14 19:25:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Invisible text that AI chatbots understand and humans can’t? Yep, it’s a thing.</title>
+      <link>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</link>
+      <description>研究发现，利用Unicode编码标准中的异常，可以在AI聊天机器人中隐藏恶意指令，并通过不可见字符窃取机密数据。这种技术被称为“ASCII走私”，它允许攻击者在LLM中隐藏恶意负载，并使窃取密码、财务信息或其他秘密变得更加容易。研究人员已经展示了如何使用这种技术对Microsoft 365 Copilot进行攻击，并成功窃取了敏感信息。尽管一些大型语言模型已经采取措施减轻这种攻击，但这一发现对AI安全领域提出了新的挑战。</description>
+      <pubDate>2024-10-14 19:06:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Confluent Cloud Is Now 100% KRaft and You Should Be Too</title>
+      <link>https://www.confluent.io/blog/zookeeper-to-kraft-with-confluent-kubernetes/</link>
+      <description>Confluent Cloud已将Apache Kafka从ZooKeeper迁移至KRaft，大幅提升了性能和可扩展性。KRaft作为Kafka的新共识协议，消除了ZooKeeper的运营开销，并简化了集群管理。Confluent已成功迁移数千个集群，证明了KRaft在生产环境中的稳定性和可靠性。用户可通过Confluent for Kubernetes或Ansible Playbooks自动化迁移过程，确保零停机时间。</description>
+      <pubDate>2024-10-14 18:18:05</pubDate>
+    </item>
+  
+    <item>
+      <title>The Future of Drone Navigation</title>
+      <link>https://blog.palantir.com/the-future-of-drone-navigation-7236075fdedf?source=rss----3c87dc14372f---4</link>
+      <description>Palantir开发的视觉导航系统（VNav）为无人机在GPS受限区域提供自主导航，通过结合摄像头、计算能力和卫星图像，实现精确导航，无需依赖GPS或无线电控制信号。VNav利用惯性测量、光学流和参考匹配三种数据源，通过卡尔曼滤波器融合，提供稳定、低延迟的无人机状态模型，确保任务执行成功。</description>
+      <pubDate>2024-10-14 18:14:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Recommandations sur les enquêtes de mesure de la diversité en milieu professionnel - compte-rendu de la journée RGPD de la CNIL du 12/06/24 à Nancy</title>
+      <link>https://blog.octo.com/recommandations-sur-les-enquetes-de-mesure-de-la-diversite-en-milieu-professionnel-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-120624-a-nancy</link>
+      <description>在法国，国家信息与自由委员会（CNIL）举办了关于数据保护法规（GDPR）的研讨会，讨论了职场多样性调查的推荐措施。研讨会强调了遵守GDPR原则的重要性，包括合法目的、数据最小化、自愿参与、明确同意、信息透明和权利保障。此外，还提出了匿名化数据、使用第三方信任机构和进行数据保护影响评估等最佳实践。</description>
+      <pubDate>2024-10-14 17:11:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Catch the highlights from Azure Developers – .NET Aspire Day 2024!</title>
+      <link>https://devblogs.microsoft.com/dotnet/azure-developers-dotnet-aspire-day-recap/</link>
+      <description>2024年10月14日，Azure Developers - .NET Aspire Day 2024活动圆满结束。本次大会聚焦于使用.NET Aspire构建分布式应用程序，并部署到Azure Container Apps。活动提供了丰富的在线资源，包括如何使用.NET Aspire简化新应用开发及旧应用改造的教程，以及如何与Azure OpenAI、Cosmos DB、Redis Cache、SQL等集成，提升应用性能和安全性。</description>
+      <pubDate>2024-10-14 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>RESOURCE_LOCAL JPA Transaction Type</title>
+      <link>https://vladmihalcea.com/resource_local-jpa-transaction-type/</link>
+      <description>本文探讨了RESOURCE_LOCAL JPA事务类型的工作原理，这是Spring Boot和Spring Data JPA的默认事务类型。文章解释了如何配置JPA以使用JTA或RESOURCE_LOCAL事务类型，并详细说明了RESOURCE_LOCAL模式下事务的管理方式，包括如何通过JDBC连接管理数据库事务。</description>
+      <pubDate>2024-10-14 17:00:16</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: What’s App, AWS Lambda, Load Balancers, AWS Console, and more (Oct 14, 2024).</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/</link>
+      <description>AWS最近推出了多项新功能，包括支持WhatsApp的AWS End User Messaging、Amazon Redshift数据共享、网络负载均衡器的区域转移和自动转移功能、Console to Code生成基础设施代码、AWS CodePipeline的新入门体验、Lambda递归循环检测、Amazon MemoryDB for Valkey、Amazon Polly新增英语语音等。此外，AWS还举办了一系列技术会议和活动，包括AWS Cloud Day Prague、AWS Innovate、AWS Community Days和AWS re:Invent 2024。</description>
+      <pubDate>2024-10-14 16:51:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Here's what happening in our latest Spotlight Week: Adaptive Android Apps</title>
+      <link>http://android-developers.googleblog.com/2024/10/adaptive-spotlight-week.html</link>
+      <description>Android开发者博客最新Spotlight周聚焦于自适应Android应用。本周（10月14日至18日）将探讨如何构建适应不同屏幕尺寸和形态的应用，包括折叠屏、平板、ChromeOS和汽车。内容涵盖自适应UI、桌面窗口管理、笔输入和更多。开发者可通过参与讨论和提问，提升应用的自适应能力。</description>
+      <pubDate>2024-10-14 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Data Cloud One Is Now Generally Available</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/data-cloud-one-is-now-generally-available.html</link>
+      <description>Data Cloud One现已全面上市，为多组织用户提供了访问统一客户360和跨多个组织采取行动的便捷方式。该功能通过一个中央数据云，为多个Salesforce组织提供统一的客户资料和数据云功能，简化了数据共享和协作过程，使多组织团队能够更高效地工作。</description>
+      <pubDate>2024-10-14 15:00:20</pubDate>
+    </item>
+  
+    <item>
       <title>Syntactic Sugar: Why Python Is Sweet and Pythonic</title>
       <link>https://realpython.com/syntactic-sugar-python/</link>
       <description>Python的语法糖是使代码更简洁、易读的语法元素，本文探讨了Python中常用的语法糖，包括运算符、赋值表达式、循环和推导式等。这些语法糖让Python代码更易写、易读，并提高效率。了解这些语法糖有助于深入理解Python的工作原理。</description>
@@ -107,6 +177,34 @@
       <title>The Inevitability of Mixing Open Source and Money</title>
       <link>http://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money</link>
       <description>开源与金钱的融合不可避免，Armin Ronacher在文章中探讨了开源项目与商业利益之间的冲突。他分析了开源项目在获得资金支持时面临的道德困境，并以WordPress为例说明了即使成功项目也可能面临挑战。他认为，开源项目需要找到平衡点，以实现可持续发展和维护其初衷。</description>
+      <pubDate>2024-10-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>3 ways to maximize the ROI on your generative AI strategy</title>
+      <link>https://www.elastic.co/blog/maximize-roi-generative-ai-strategy</link>
+      <description>为了最大化生成式AI策略的回报率，应将其整合到业务战略中，提高效率和生产力，并基于数据做出明智的决策。通过将AI集成到产品和服务中，利用AI自动化任务，并利用数据驱动洞察来指导决策，企业可以提升业务表现并实现可持续增长。</description>
+      <pubDate>2024-10-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimize your RAG workflows with Elasticsearch and Vectorize</title>
+      <link>https://www.elastic.co/blog/optimize-rag-workflows-elasticsearch-vectorize</link>
+      <description>Elasticsearch与Vectorize的集成简化了RAG工作流程，使AI工程师能够快速创建可靠的RAG管道，专注于构建应用程序。通过自动化数据提取和优化向量搜索索引，Vectorize提高了构建生产级RAG管道的准确性和效率。</description>
+      <pubDate>2024-10-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building Livewire Components with Volt</title>
+      <link>https://www.honeybadger.io/blog/laravel-volt/</link>
+      <description>本文介绍了如何使用Laravel Volt构建Livewire组件。Volt是一个在Livewire之上添加单文件组件支持的Laravel包。与传统Livewire组件相比，Volt允许将前端和后端代码放在同一文件中，从而简化开发流程。文章详细讲解了如何创建基于类的Volt组件和基于函数的Volt组件，并提供了测试这些组件的方法。通过使用Volt，开发者可以更高效地构建Laravel应用程序的用户界面。</description>
+      <pubDate>2024-10-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>MacbookPro M1 with Asahi Linux: Fixing the touchpad</title>
+      <link>https://www.devroom.io/2024/10/14/macbookpro-m1-with-asahi-linux-fixing-the-touchpad/</link>
+      <description>Asahi Linux在MacBook Pro M1上的触摸板问题解决：本文介绍了如何在Asahi Linux上解决触摸板的意外点击和滚动速度过快的问题，包括禁用触摸板在输入时注册点击以及调整滚动速度的方法。</description>
       <pubDate>2024-10-14 00:00:00</pubDate>
     </item>
   
