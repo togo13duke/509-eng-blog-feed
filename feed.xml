@@ -6,10 +6,173 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Using Type Hints for Multiple Return Types in Python</title>
+      <link>https://realpython.com/courses/type-hints-multiple-return-types/</link>
+      <description>Python中，类型提示是一种可选但有用的功能，可让代码更易于阅读、推理和调试。本文介绍了如何为函数指定多个返回类型，以增强代码的灵活性和适应性。通过实例演示了如何为解析电子邮件地址的函数指定多个返回类型，以及如何为回调函数或接受函数作为输入的函数指定类型提示。</description>
+      <pubDate>2024-10-15 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Protect against identity-based attacks by sharing Cloudflare user risk scores with Okta</title>
+      <link>https://blog.cloudflare.com/protect-against-identity-based-attacks-by-sharing-cloudflare-user-risk-with-okta</link>
+      <description>Cloudflare与Okta合作，通过实时共享用户风险评分，帮助组织简化安全态势管理。Cloudflare的用户风险评分分析用户行为，为高风险活动分配评分。当用户风险评分变化时，Okta会自动采取措施，如强制多因素认证或从所有应用程序中注销用户。这种集成有助于组织更快地适应风险变化，减少手动工作量。</description>
+      <pubDate>2024-10-15 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Parsing All the Data With Open-Source Tools: Unstructured and Pgai</title>
+      <link>https://www.timescale.com/blog/parsing-all-the-data-with-open-source-tools-unstructured-and-pgai/</link>
+      <description>Timescale提供了一种使用开源工具解析和存储非结构化数据的方法，结合了Unstructured和pgai技术。Unstructured用于从多种文档类型中提取和结构化信息，而pgai则将AI功能直接集成到PostgreSQL数据库中。这种方法可以自动创建文本嵌入，并允许在数据库中执行复杂的AI操作，从而实现强大的语义搜索功能。通过这个流程，用户可以轻松地将文档解析为可搜索的信息，提高数据分析和知识提取的效率。</description>
+      <pubDate>2024-10-15 12:40:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Terraform Stacks, explained</title>
+      <link>https://www.hashicorp.com/blog/terraform-stacks-explained</link>
+      <description>Terraform Stacks简化了大规模基础设施的配置和管理，通过自动化和优化依赖配置的协调、部署和生命周期管理，减少了管理基础设施的时间和开销。它允许用户将多个模块组织在一起，简化了跨配置依赖的管理，并提高了生产力。Terraform Stacks支持跨多个区域、可用区域和云服务提供商账户部署，并简化了Kubernetes工作负载的配置和管理。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Boundary 0.18 adds transparent sessions for streamlined connections</title>
+      <link>https://www.hashicorp.com/blog/boundary-0-18-adds-transparent-sessions-for-streamlined-connections</link>
+      <description>Boundary 0.18版本新增透明会话功能，简化远程用户访问，允许用户无需与Boundary的CLI或桌面客户端交互即可安全连接到基础设施资源。透明会话通过拦截DNS调用并路由流量，使安全连接更加便捷，同时支持HTTPS，为用户提供更安全的Web应用访问体验。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HCP Vault Secrets adds enterprise capabilities for auto-rotation, dynamic secrets, and more</title>
+      <link>https://www.hashicorp.com/blog/hcp-vault-secrets-adds-enterprise-capabilities-for-auto-rotation-dynamic-secrets</link>
+      <description>HCP Vault Secrets增强企业级功能，包括自动轮换、动态密钥等，简化安全软件开发流程。自动轮换减少手动轮换的负担，动态密钥提供即时、短暂凭证，增强安全性。此外，支持与HCP Terraform同步，实现更高效的密钥管理。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Consul 1.20 improves multi-tenancy, metrics, and OpenShift deployment</title>
+      <link>https://www.hashicorp.com/blog/consul-1-20-improves-multi-tenancy-metrics-openshift-deployment</link>
+      <description>Consul 1.20版本升级了多租户服务发现、指标和OpenShift部署。新功能包括简化多租户环境中的服务发现、改进Consul目录同步的指标以及增强OpenShift集成，提高了安全性。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>New SLM offerings for Vault, Boundary, Consul at HashiConf 2024 make security easier</title>
+      <link>https://www.hashicorp.com/blog/new-slm-offerings-vault-boundary-consul-hashiconf-2024-make-security-easier</link>
+      <description>HashiCorp在2024年HashiConf大会上推出了针对Vault、Boundary和Consul的新安全生命周期管理(SLM)功能，旨在简化开发团队的安全实践。新功能包括自动密钥轮换、动态密钥和云凭证，以及边界透明会话和Consul DNS视图。这些更新旨在提高安全性，减少手动管理密钥的负担，并增强对基础设施的访问控制。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Nomad 1.9 adds NVIDIA MIG support, golden job versions, and more</title>
+      <link>https://www.hashicorp.com/blog/nomad-1-9-adds-nvidia-mig-support-golden-job-versions-and-more</link>
+      <description>Nomad 1.9版本新增了NVIDIA MIG支持、设备资源配额、NUMA意识、exec2任务驱动程序GA、金丝雀作业版本、libvirt任务驱动程序beta版和改进的IPv6支持。这些更新增强了Nomad在调度和管理容器和非容器化应用程序方面的能力，提高了性能和安全性。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Don’t leave cloud security to chance: 7 mistakes and how to avoid them</title>
+      <link>https://www.hashicorp.com/blog/dont-leave-cloud-security-to-chance-seven-mistakes</link>
+      <description>云安全不容忽视：避免7个常见错误
+
+本文探讨了企业在云资源管理和配置过程中常见的7个错误，以及如何通过有效的生命周期管理（ILM）来避免这些错误。通过采用标准化方法，企业可以降低当前的安全风险，并提高云数据安全、创新速度和效率，同时降低云计算的意外成本。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Terraform, Packer, Nomad, and Waypoint updates help scale ILM at HashiConf 2024</title>
+      <link>https://www.hashicorp.com/blog/terraform-packer-nomad-and-waypoint-updates-help-scale-ilm-at-hashiconf-2024</link>
+      <description>HashiCorp在2024年HashiConf大会上发布了Terraform、Packer、Nomad和Waypoint的最新更新，旨在帮助组织以更低的复杂性管理大规模基础设施。这些更新包括改进的CI/CD管道元数据、增强的权限管理、简化的基础设施管理、模块生命周期管理以及加速迁移到商业版Terraform。这些新功能旨在提高基础设施管理的速度、安全性和简便性。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HCP Waypoint now GA with enhancements to golden workflow capabilities</title>
+      <link>https://www.hashicorp.com/blog/hcp-waypoint-now-ga-with-enhancements-to-golden-workflow-capabilities</link>
+      <description>HCP Waypoint现已全面上市，并增强了黄金工作流程功能。新版本支持HCP API，并引入了模板升级工作流程。此外，还提供了变量支持，允许平台团队自定义操作，以适应各种用例。这些更新旨在简化应用部署，提高开发效率。</description>
+      <pubDate>2024-10-15 12:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: protecting farmworkers from heat, and AI’s Nobel Prize</title>
+      <link>https://www.technologyreview.com/2024/10/15/1105535/the-download-protecting-farmworkers-from-heat-and-ais-nobel-prize/</link>
+      <description>研究人员正在开发一种创新传感器，以监测多个生命体征，旨在预测工人可能患热病的风险并发出警报，以保护在极端高温下工作的农场工人。同时，AI科学家David Baker因其在蛋白质设计方面的贡献获得诺贝尔化学奖，但指出AI需要大量高质量数据，而此类数据库稀缺。</description>
+      <pubDate>2024-10-15 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Use C4 Diagrams in Systems Architecture</title>
+      <link>https://spin.atomicobject.com/c4-diagrams-systems-architecture/</link>
+      <description>C4图示法是软件架构图示的一种层次化方法，由Simon Brown创建。它包括上下文、容器、组件和代码四个层次，有助于在不同细节级别上可视化软件架构。C4图示法的优势在于其标准化和一致性，使得技术和非技术人员都能理解。然而，对于大型系统，C4图示可能会变得复杂，且在低层次上可能存在过度详细的问题。最佳实践是专注于高层次图示，谨慎使用组件图，并避免在大多数情况下使用代码级图示。</description>
+      <pubDate>2024-10-15 12:00:14</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Spaces Object Storage Now in Toronto</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-toronto</link>
+      <description>DigitalOcean宣布其对象存储服务Spaces现在在多伦多（TOR1）数据中心可用，为加拿大和东北美地区的客户提供更低的延迟和符合当地数据居留要求。Spaces支持大规模非结构化数据存储，包括图像、视频、备份和Web资产，适用于开发、媒体、分析和AI/ML工作负载。Spaces起价为每月5美元，提供250 GiB存储和1 TiB出站传输。</description>
+      <pubDate>2024-10-15 11:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #872</title>
+      <link>https://tympanus.net/codrops/collective/collective-872/</link>
+      <description>本周前端技术亮点包括：Bramus分享检测CSS Style Queries支持的技巧，Martin Laxenaire介绍WebGPU教程，Kevin Andrews提供UI无障碍性建议，js13kGames 2024获奖者揭晓，Tailwind Motion插件发布，以及VoidZero工具链公司介绍。</description>
+      <pubDate>2024-10-15 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Developer’s Handbook to Centralized Logging</title>
+      <link>https://last9.io/blog/the-developers-handbook-to-centralized-logging/</link>
+      <description>本文深入探讨了集中式日志管理，这是一种在复杂分布式系统中管理日志数据的方法。文章介绍了集中式日志的优势、关键组件和最佳实践，包括日志收集、存储、处理、搜索、可视化、警报和监控。此外，还讨论了云环境中的集中式日志、机器学习和人工智能在日志分析中的应用，以及未来趋势，如边缘计算和隐私法规的影响。集中式日志已成为现代软件开发中不可或缺的工具，它提高了可观察性、简化了故障排除，并为系统行为提供了宝贵见解。</description>
+      <pubDate>2024-10-15 10:51:17</pubDate>
+    </item>
+  
+    <item>
+      <title>A data bottleneck is holding AI science&nbsp; back, says new Nobel winner</title>
+      <link>https://www.technologyreview.com/2024/10/15/1105533/a-data-bottleneck-is-holding-ai-science-back-says-new-nobel-winner/</link>
+      <description>新诺贝尔奖得主指出，高质量数据短缺正阻碍人工智能科学发展。尽管AI在生物化学等领域展现出巨大潜力，但缺乏高质量数据导致AI模型训练效果不佳，影响科学发现。专家呼吁建立更多类似蛋白质数据银行的高质量数据库，以推动AI在科学领域的应用。</description>
+      <pubDate>2024-10-15 10:35:03</pubDate>
+    </item>
+  
+    <item>
+      <title>A Visual Deconstruction of the Paffi Totem Slider</title>
+      <link>https://tympanus.net/codrops/2024/10/15/a-visual-deconstruction-of-the-paffi-totem-slider/</link>
+      <description>Luca Franceschetti深入解析了Paffi Totem Slider的设计，探讨了如何通过柔和渐变、微妙的光照和趣味动效共同打造独特动态效果。文章详细介绍了如何通过旋转、缩放和变形等交互设计，以及低多边形美学和柔和渐变与光照，实现平滑流畅的视觉体验。</description>
+      <pubDate>2024-10-15 10:02:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Scripting News is 30 years old</title>
+      <link>https://akrabat.com/scripting-news-is-30-years-old/</link>
+      <description>Scripting News庆祝30周年，Dave Winer的博客自1994年起每日更新，见证了互联网的发展。RSS作为其催生技术，至今仍强健，推动了信息获取的民主化。独立RSS阅读器的多样性满足了不同用户的需求，体现了数字连接的重要性。</description>
+      <pubDate>2024-10-15 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The quest to protect farmworkers from extreme heat</title>
+      <link>https://www.technologyreview.com/2024/10/15/1105113/extreme-heat-farmworkers-agriculture-sensor/</link>
+      <description>研究人员正在开发一种传感器，以预测和预防农场工人因极端高温而导致的疲劳。该传感器能够连续测量皮肤温度、心率以及身体活动，旨在提前预警工人可能出现的健康问题。这一项目由埃默里大学和乔治亚理工学院工程师合作进行，旨在改善农场工人的工作条件。</description>
+      <pubDate>2024-10-15 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Canard un jour, canard toujours : la Duck Conf revient en 2025 !</title>
+      <link>https://blog.octo.com/canard-un-jour-canard-toujours--la-duck-conf-revient-en-2025-!</link>
+      <description>2025年3月19日，Duck Conf将回归，聚焦技术架构最新趋势，涵盖多种实践和幽默元素。活动将提供丰富的内容，包括基础设施和可观察性代码，以及人工智能增强的代码。报名参加，享受早鸟优惠和团体折扣。</description>
+      <pubDate>2024-10-15 08:10:35</pubDate>
+    </item>
+  
+    <item>
       <title>La Grosse Conf 2025, vous ouvre ses portes pour une nouvelle édition !</title>
       <link>https://blog.octo.com/octo-article-de-blog-9</link>
       <description>La Grosse Conf 2025，由OCTO举办的Data和IA主题大会，将于2024年10月15日举行。会议将探讨GenAI的进展和Plateformes Data &amp; IA的新时代，为参与者提供深入了解和交流的机会。会议设有多种参与方式，包括现场和在线选项，旨在帮助企业和个人把握未来技术趋势。</description>
       <pubDate>2024-10-15 07:40:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Key Takeaways From Platform Summit 2024</title>
+      <link>https://nordicapis.com/key-takeaways-from-platform-summit-2024/</link>
+      <description>2024年平台峰会聚焦API行业，探讨了AI与API连接的重要性，以及API安全、设计语言和开发者体验等议题。会议强调标准化API对AI发展至关重要，并讨论了TypeSpec等新API描述语言。此外，还探讨了平台工程、文化变革和API治理等话题，展示了API在数字化时代的重要性。</description>
+      <pubDate>2024-10-15 07:00:42</pubDate>
     </item>
   
     <item>
@@ -20,6 +183,13 @@
     </item>
   
     <item>
+      <title>CodeSOD: An Overloaded Developer</title>
+      <link>https://thedailywtf.com/articles/an-overloaded-developer</link>
+      <description>一位资深开发者试图在JavaScript中实现函数重载，但错误地通过递归调用自身来模拟，导致代码逻辑混乱。尽管这种方法在特定情况下意外地工作，但它并不是真正的函数重载。</description>
+      <pubDate>2024-10-15 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>ChatGPT will happily write you a thinly disguised horoscope</title>
       <link>https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/#atom-entries</link>
       <description>ChatGPT通过记忆功能，可以提供看似个性化的“性格分析”，但实际上这种分析基于用户输入的信息和预设的“bio”工具。这种分析利用了巴纳姆效应，即人们倾向于认同模糊且普遍适用的描述。了解ChatGPT的记忆机制对于正确使用它至关重要，因为它实际上只能访问有限的上下文信息。</description>
@@ -27,9 +197,23 @@
     </item>
   
     <item>
+      <title>API Platform for Laravel</title>
+      <link>https://laravel-news.com/api-platform-for-laravel</link>
+      <description>API Platform是一个基于Symfony组件构建的框架，用于创建现代Web项目，特别适合API-first项目。它支持将Eloquent模型快速暴露为REST或GraphQL API，并提供自动化的CRUD、UI、分页、验证和授权等功能。API Platform与Laravel无缝集成，可轻松添加到现有Laravel项目中。</description>
+      <pubDate>2024-10-15 02:55:16</pubDate>
+    </item>
+  
+    <item>
       <title>MacbookPro M1 with Asahi Linux: Fractional Display Scaling in GNOME</title>
       <link>https://www.devroom.io/2024/10/15/macbookpro-m1-with-asahi-linux-fractional-display-scaling-in-gnome/</link>
       <description>在MacBook Pro M1上使用Asahi Linux时，作者Ariejan de Vroom介绍了如何在GNOME中启用分数显示缩放。由于MacBook Pro的屏幕具有高像素密度，默认的100%缩放会导致内容过小，而200%缩放则过于放大。通过启用GNOME的实验性功能，用户可以调整缩放比例，从100%到400%，以获得更好的阅读体验。此外，作者还解决了Chromium浏览器在分数缩放下的模糊问题，并分享了使用Ansible自动化设置的过程。</description>
+      <pubDate>2024-10-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A lean approach to design systems</title>
+      <link>https://thoughtbot.com/blog/a-lean-approach-to-design-systems</link>
+      <description>设计系统对于产品及其团队至关重要，但传统的设计系统需要大量时间和资源。对于早期或小型产品团队，采用精益方法创建最小可行设计系统（MVDS）可以快速实现、提供即时影响，并确保一致性和可扩展性。通过核心设计令牌、基本组件库、简单使用指南和轻量级文档，MVDS可以帮助团队从第一天开始就享受设计系统的好处，避免设计债务的累积，并提高效率和速度。</description>
       <pubDate>2024-10-15 00:00:00</pubDate>
     </item>
   
