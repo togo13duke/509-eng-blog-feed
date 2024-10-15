@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>La Grosse Conf 2025, vous ouvre ses portes pour une nouvelle édition !</title>
+      <link>https://blog.octo.com/octo-article-de-blog-9</link>
+      <description>La Grosse Conf 2025，由OCTO举办的Data和IA主题大会，将于2024年10月15日举行。会议将探讨GenAI的进展和Plateformes Data &amp; IA的新时代，为参与者提供深入了解和交流的机会。会议设有多种参与方式，包括现场和在线选项，旨在帮助企业和个人把握未来技术趋势。</description>
+      <pubDate>2024-10-15 07:40:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Rest in peace: GCC Toolset and GNU Debugger</title>
+      <link>https://developers.redhat.com/articles/2024/10/15/rest-peace-gcc-toolset-and-gnu-debugger</link>
+      <description>Red Hat宣布GCC工具集（GTS）和GNU调试器（GDB）将不再作为Red Hat Enterprise Linux（RHEL）的一部分。GTS GDB的最后支持版本为13.1，RHEL 9.5和RHEL 10 beta将使用最新的GDB版本，为所有RHEL用户提供最新功能和编译器支持。GTS将继续在RHEL 8上提供GDB，因为该产品进入EUS。此变更旨在减轻维护负担，同时为用户提供更一致和强大的调试体验。</description>
+      <pubDate>2024-10-15 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ChatGPT will happily write you a thinly disguised horoscope</title>
+      <link>https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/#atom-entries</link>
+      <description>ChatGPT通过记忆功能，可以提供看似个性化的“性格分析”，但实际上这种分析基于用户输入的信息和预设的“bio”工具。这种分析利用了巴纳姆效应，即人们倾向于认同模糊且普遍适用的描述。了解ChatGPT的记忆机制对于正确使用它至关重要，因为它实际上只能访问有限的上下文信息。</description>
+      <pubDate>2024-10-15 03:24:51</pubDate>
+    </item>
+  
+    <item>
+      <title>MacbookPro M1 with Asahi Linux: Fractional Display Scaling in GNOME</title>
+      <link>https://www.devroom.io/2024/10/15/macbookpro-m1-with-asahi-linux-fractional-display-scaling-in-gnome/</link>
+      <description>在MacBook Pro M1上使用Asahi Linux时，作者Ariejan de Vroom介绍了如何在GNOME中启用分数显示缩放。由于MacBook Pro的屏幕具有高像素密度，默认的100%缩放会导致内容过小，而200%缩放则过于放大。通过启用GNOME的实验性功能，用户可以调整缩放比例，从100%到400%，以获得更好的阅读体验。此外，作者还解决了Chromium浏览器在分数缩放下的模糊问题，并分享了使用Ansible自动化设置的过程。</description>
+      <pubDate>2024-10-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Adobe unveils AI video generator trained on licensed content</title>
       <link>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</link>
       <description>Adobe推出了一款名为Firefly Video Model的AI视频生成工具，该工具可从书面提示中创建新颖的视频。与竞争对手不同，Adobe声称Firefly Video Model仅使用授权内容进行训练，从而避免了其他生成式AI工具所面临的伦理和版权问题。Adobe计划将Firefly Video Model定位为面向媒体专业人士的工具，如视频创作者和编辑，并声称其模型可以制作与传统视频内容无缝融合的素材。</description>
@@ -164,6 +192,13 @@
       <link>https://tympanus.net/codrops/2024/10/14/inspirational-websites-roundup-webflow-special-6/</link>
       <description>Codrops与Webflow合作，推出第六期灵感网站精选，展示一系列创意、精致且技术精湛的Webflow网站。包括DivBlockers、Sonar Music、Accordion等，涵盖音乐、设计、时尚等多个领域。</description>
       <pubDate>2024-10-14 07:52:17</pubDate>
+    </item>
+  
+    <item>
+      <title>What launching rockets taught this CTO about hardware observability</title>
+      <link>https://stackoverflow.blog/2024/10/14/what-launching-rockets-taught-this-cto-about-hardware-observability/</link>
+      <description>CTO Austin Spiegel分享了他从电影研究到SpaceX工作再到创立Sift的经历，探讨了在高风险环境中进行软件开发、硬件可观测性的挑战以及为什么在关键工程中保持警惕是宝贵的。</description>
+      <pubDate>2024-10-14 07:40:00</pubDate>
     </item>
   
     <item>
