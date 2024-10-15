@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Amazon Aurora PostgreSQL and Amazon DynamoDB zero-ETL integrations with Amazon Redshift now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-and-amazon-dynamodb-zero-etl-integrations-with-amazon-redshift-now-generally-available/</link>
+      <description>亚马逊宣布，Amazon Aurora PostgreSQL和Amazon DynamoDB与Amazon Redshift的零ETL集成现已全面上市。这种集成无缝地将事务性或运营数据提供给Amazon Redshift，无需构建和管理复杂的数据管道，从而简化了数据分析和机器学习操作。</description>
+      <pubDate>2024-10-15 19:59:43</pubDate>
+    </item>
+  
+    <item>
+      <title>SpaceX claims Starlink can offer gigabit speeds if FCC approves new plan</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</link>
+      <description>SpaceX向联邦通信委员会提出了一项计划，旨在将Starlink的速度提高约10倍，从约100Mbps提升至1Gbps。该计划包括调整卫星轨道和操作参数，降低卫星高度，并采用更先进的硬件技术。SpaceX承诺，一旦完全部署，该系统将为美国和全球消费者及企业提供高达1Gbps的高带宽、低延迟宽带服务。</description>
+      <pubDate>2024-10-15 18:42:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Safer with Google: Advancing Memory Safety</title>
+      <link>http://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html</link>
+      <description>谷歌致力于提升软件的内存安全性，通过采用内存安全语言和工具，减少内存安全漏洞。公司正在逐步将内存安全语言如Rust整合到其代码库中，同时强化现有代码库的安全性，包括对C++代码进行加固和边界检查，以及通过隔离技术和沙箱来减少安全风险。这些措施旨在构建更安全、更可靠的数字环境。</description>
+      <pubDate>2024-10-15 17:44:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Organization Access Tokens</title>
+      <link>https://www.docker.com/blog/introducing-organization-access-tokens/</link>
+      <description>Docker推出组织访问令牌，旨在简化组织资源的安全访问管理。此功能允许为特定仓库分配具有“最小权限”的访问令牌，并支持设置令牌过期时间，提高安全性。适用于Docker Team和Docker Business订阅者，提供10个和100个令牌的限制。</description>
+      <pubDate>2024-10-15 17:33:05</pubDate>
+    </item>
+  
+    <item>
+      <title>OCP Summit 2024: The open future of networking hardware for AI</title>
+      <link>https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/</link>
+      <description>Meta在OCP Summit 2024上展示了下一代网络布线技术，用于AI训练集群。公司扩展了其网络硬件组合，并向OCP贡献了两种新的解耦网络布线和新型的网络接口卡（NIC）。Meta强调开放硬件在推动创新中的重要性，并分享了其数据中心和组件设计，以及开源网络编排软件。此外，Meta还推出了新的网络硬件组合，并与多个供应商紧密合作开发。</description>
+      <pubDate>2024-10-15 17:06:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Meta’s open AI hardware vision</title>
+      <link>https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/</link>
+      <description>Meta在Open Compute Project（OCP）全球峰会上展示了其最新的开源AI硬件设计，包括新的AI平台、先进的开放机架设计和网络布线组件。Meta致力于通过开源硬件推动AI的潜力，并推出了新的Catalina机架和Grand Teton平台，以支持更强大的GPU和加速器，同时优化网络布线和计算能力，以应对AI训练的快速增长需求。</description>
+      <pubDate>2024-10-15 17:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI says ChatGPT treats us all the same (most of the time)</title>
+      <link>https://www.technologyreview.com/2024/10/15/1105558/openai-says-chatgpt-treats-us-all-the-same-most-of-the-time/</link>
+      <description>OpenAI的研究发现，其ChatGPT聊天机器人有时会根据用户的名字产生有害的性别或种族刻板印象，尽管这种情况相对罕见。尽管如此，由于ChatGPT的广泛使用，即使是低比例的偏见也可能导致大量偏见。OpenAI正在努力减少这种偏见，并计划扩大其分析范围以考虑更多因素。</description>
+      <pubDate>2024-10-15 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Marketplace got a makeover</title>
+      <link>https://www.atlassian.com/blog/add-ons/new-atlassian-marketplace</link>
+      <description>Atlassian对Marketplace进行了全面改版，简化了应用发现过程，包括更新了主页、分类、搜索功能，引入了新的标签和集合，以帮助用户更轻松地发现适合团队的应用。</description>
+      <pubDate>2024-10-15 16:54:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Google and Kairos sign nuclear reactor deal with aim to power AI</title>
+      <link>https://arstechnica.com/ai/2024/10/google-and-kairos-sign-nuclear-reactor-deal-with-aim-to-power-ai/</link>
+      <description>Google与Kairos签署了核反应堆合作协议，旨在为人工智能提供能源，计划到2030年将Kairos Power的初始小型模块化反应堆投入运营，并计划到2035年部署更多反应堆。这一合作旨在满足人工智能不断增长的能源需求，并推动清洁、可靠的能源技术发展。</description>
+      <pubDate>2024-10-15 16:14:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bringing new theft protection features to Android users around the world</title>
+      <link>http://security.googleblog.com/2024/10/android-theft-protection.html</link>
+      <description>Google为Android用户推出了新的防盗保护功能，包括AI驱动的失窃检测锁、离线设备锁和远程锁定，以保护用户数据和设备安全。这些功能通过Android 15和Google Play服务更新提供，旨在减少手机盗窃事件和数据泄露风险。</description>
+      <pubDate>2024-10-15 15:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s new in System.Text.Json in .NET 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/</link>
+      <description>.NET 9的System.Text.Json更新包括JSON模式导出、支持多JSON文档流式处理、可空引用类型支持、自定义枚举成员名称、自定义序列化缩进和元数据反序列化等新特性。这些更新旨在提高JSON处理效率和灵活性，同时增强序列化和反序列化的功能。</description>
+      <pubDate>2024-10-15 15:15:00</pubDate>
+    </item>
+  
+    <item>
       <title>Using Type Hints for Multiple Return Types in Python</title>
       <link>https://realpython.com/courses/type-hints-multiple-return-types/</link>
       <description>Python中，类型提示是一种可选但有用的功能，可让代码更易于阅读、推理和调试。本文介绍了如何为函数指定多个返回类型，以增强代码的灵活性和适应性。通过实例演示了如何为解析电子邮件地址的函数指定多个返回类型，以及如何为回调函数或接受函数作为输入的函数指定类型提示。</description>
@@ -13,9 +90,30 @@
     </item>
   
     <item>
+      <title>Intro to AI: a beginner’s guide to artificial intelligence from MIT Technology Review</title>
+      <link>https://www.technologyreview.com/2024/10/15/1105441/intro-ai-beginners-guide-artificial-intelligence-course/</link>
+      <description>MIT Technology Review推出了一本名为“Intro to AI”的免费电子简报，旨在帮助初学者了解人工智能。简报包含六期，每周一期，涵盖AI的基础知识、应用、伦理问题、职业影响以及全球AI法规现状。通过订阅，读者可以逐步掌握AI的核心概念和最新动态。</description>
+      <pubDate>2024-10-15 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The hidden costs of employee disengagement</title>
+      <link>https://www.surveymonkey.com/curiosity/the-hidden-costs-of-employee-disengagement/?ut_source=rss</link>
+      <description>员工参与度是组织成功的关键投资。员工脱岗不仅影响生产力、客户满意度和员工流失率，还可能导致工作设备滥用、无效的远程会议和变化的工作道德。通过定期的员工参与度调查，组织可以主动识别和解决问题，促进开放沟通，并与行业标准进行基准比较，从而提高员工满意度、生产力和整体成功。</description>
+      <pubDate>2024-10-15 13:38:32</pubDate>
+    </item>
+  
+    <item>
       <title>Protect against identity-based attacks by sharing Cloudflare user risk scores with Okta</title>
       <link>https://blog.cloudflare.com/protect-against-identity-based-attacks-by-sharing-cloudflare-user-risk-with-okta</link>
       <description>Cloudflare与Okta合作，通过实时共享用户风险评分，帮助组织简化安全态势管理。Cloudflare的用户风险评分分析用户行为，为高风险活动分配评分。当用户风险评分变化时，Okta会自动采取措施，如强制多因素认证或从所有应用程序中注销用户。这种集成有助于组织更快地适应风险变化，减少手动工作量。</description>
+      <pubDate>2024-10-15 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>#WeArePlay | NomadHer helps women travel the world</title>
+      <link>http://android-developers.googleblog.com/2024/10/weareplay-nomadher-helps-women-travel-the-world.html</link>
+      <description>NomadHer创始人Hyojeong希望通过该应用重塑女性探索世界的方式，通过建立全球社区，分享旅行技巧，强调安全，并连接彼此探索新目的地。Google Play帮助NomadHer连接全球90,000多名女性，通过Firebase等工具优化用户体验，并借助Google Play的创业计划获得指导和曝光，加速了其成长。Hyojeong希望NomadHer成为女性旅行者的首选平台，通过举办线下活动与当地女性企业家合作，建立支持女性社会和经济发展的社区。</description>
       <pubDate>2024-10-15 13:00:00</pubDate>
     </item>
   
@@ -106,6 +204,13 @@
     </item>
   
     <item>
+      <title>Updating our Platform Terms and Developer Policies</title>
+      <link>https://developers.facebook.com/blog/post/2024/10/15/platform-terms-and-developer-policies-updates/</link>
+      <description>Meta宣布更新平台条款和开发者政策，以提供更清晰的现有要求，帮助开发者建立用户信任，降低风险，并确保在开发者中心提供可靠和安全的体验。新政策将于2025年2月3日生效，包括对隐私政策、用户同意和数据主体权利请求的明确要求，以及对禁止行为、透明度和质量控制的指导。</description>
+      <pubDate>2024-10-15 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>DigitalOcean Spaces Object Storage Now in Toronto</title>
       <link>https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-toronto</link>
       <description>DigitalOcean宣布其对象存储服务Spaces现在在多伦多（TOR1）数据中心可用，为加拿大和东北美地区的客户提供更低的延迟和符合当地数据居留要求。Spaces支持大规模非结构化数据存储，包括图像、视频、备份和Web资产，适用于开发、媒体、分析和AI/ML工作负载。Spaces起价为每月5美元，提供250 GiB存储和1 TiB出站传输。</description>
@@ -152,6 +257,13 @@
       <link>https://www.technologyreview.com/2024/10/15/1105113/extreme-heat-farmworkers-agriculture-sensor/</link>
       <description>研究人员正在开发一种传感器，以预测和预防农场工人因极端高温而导致的疲劳。该传感器能够连续测量皮肤温度、心率以及身体活动，旨在提前预警工人可能出现的健康问题。这一项目由埃默里大学和乔治亚理工学院工程师合作进行，旨在改善农场工人的工作条件。</description>
       <pubDate>2024-10-15 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Get Verified on TikTok: A Complete Guide</title>
+      <link>https://s14415.pcdn.co/blog/how-to-get-verified-on-tiktok/</link>
+      <description>如何获得TikTok认证：2024年完整指南。TikTok认证标志意味着内容真实，有助于提升信誉和社交媒体影响力。要获得认证，需保持活跃，遵守社区准则，创建独特内容，并在其他平台建立存在感。本文提供申请步骤、提高认证机会的策略和常见误解的解答。</description>
+      <pubDate>2024-10-15 09:00:43</pubDate>
     </item>
   
     <item>
@@ -214,6 +326,20 @@
       <title>A lean approach to design systems</title>
       <link>https://thoughtbot.com/blog/a-lean-approach-to-design-systems</link>
       <description>设计系统对于产品及其团队至关重要，但传统的设计系统需要大量时间和资源。对于早期或小型产品团队，采用精益方法创建最小可行设计系统（MVDS）可以快速实现、提供即时影响，并确保一致性和可扩展性。通过核心设计令牌、基本组件库、简单使用指南和轻量级文档，MVDS可以帮助团队从第一天开始就享受设计系统的好处，避免设计债务的累积，并提高效率和速度。</description>
+      <pubDate>2024-10-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>K-12 schools are struggling with cybersecurity — Here’s how a SIEM can help</title>
+      <link>https://www.elastic.co/blog/k-12-schools-are-struggling-with-cybersecurity-here-s-how-a-siem-can-help</link>
+      <description>美国K-12学校在网络安全方面面临挑战，勒索软件攻击导致学习中断和恢复时间延长。为应对这些风险，许多学校投资于SIEM（安全信息和事件管理）解决方案，以提高安全性并满足保险要求。SIEM技术可整合来自多个来源的数据，实时检测攻击并采取行动，对于保护学习系统和学生隐私至关重要。在选择SIEM解决方案时，应考虑数据规模、团队规模、数据源添加频率、日志存储效率和云/本地部署选项等因素。</description>
+      <pubDate>2024-10-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A taste of Go code generator magic: a quick guide to getting started</title>
+      <link>https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started</link>
+      <description>探索Go代码生成器的魔法：本文提供快速入门指南，介绍如何使用golang.org/x/tools/go/packages、std go/types和github.com/dave/jennifer/jen等工具，通过阅读示例代码，生成包装函数，提高代码可读性和效率。</description>
       <pubDate>2024-10-15 00:00:00</pubDate>
     </item>
   
@@ -292,6 +418,13 @@
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/</link>
       <description>AWS最近推出了多项新功能，包括支持WhatsApp的AWS End User Messaging、Amazon Redshift数据共享、网络负载均衡器的区域转移和自动转移功能、Console to Code生成基础设施代码、AWS CodePipeline的新入门体验、Lambda递归循环检测、Amazon MemoryDB for Valkey、Amazon Polly新增英语语音等。此外，AWS还举办了一系列技术会议和活动，包括AWS Cloud Day Prague、AWS Innovate、AWS Community Days和AWS re:Invent 2024。</description>
       <pubDate>2024-10-14 16:51:29</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing the New SQL Editor</title>
+      <link>https://www.databricks.com/blog/introducing-new-sql-editor</link>
+      <description>Databricks发布新的SQL编辑器，提供统一、简化的SQL编写体验，包括多语句结果、实时协作、增强的Databricks助手集成和编辑器生产力功能，旨在提高SQL开发效率。</description>
+      <pubDate>2024-10-14 16:33:40</pubDate>
     </item>
   
     <item>
