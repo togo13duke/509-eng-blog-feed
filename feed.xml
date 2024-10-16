@@ -6,6 +6,92 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Llamafile v0.8.14: a new UI, performance gains, and more</title>
+      <link>https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/</link>
+      <description>Llamafile 0.8.14版本发布，引入了新的聊天界面和性能提升。新版本包括一个快速、易用的命令行聊天界面，以及一个名为Llamafiler的更可靠、更快的API服务器。此外，Llamafile支持多种新模型，包括Llama 3.2和OLMo 7B，并优化了在多种硬件上的性能。社区贡献者帮助推动了这些改进。</description>
+      <pubDate>2024-10-16 13:32:30</pubDate>
+    </item>
+  
+    <item>
+      <title>How Docker IT Streamlined Docker Desktop Deployment Across the Global Team</title>
+      <link>https://www.docker.com/blog/how-docker-it-streamlined-docker-desktop-deployment/</link>
+      <description>Docker IT通过利用新的Docker Business功能，简化了Docker Desktop的全球团队部署，提高了部署效率、安全性，并增强了用户可见性。通过采用新的安装方法和集成安全措施，Docker IT在24小时内将Docker Desktop部署到数百台计算机上，同时确保了用户连接和组织合规性。</description>
+      <pubDate>2024-10-16 13:30:38</pubDate>
+    </item>
+  
+    <item>
+      <title>Overcoming AI Fatigue: Building Real-World AI Software Solutions</title>
+      <link>https://8thlight.com/insights/overcoming-ai-fatigue</link>
+      <description>AI领域正经历从过度炒作到务实应用的转变。文章指出，当前AI的承诺与实际应用之间存在差距，导致“AI疲劳”。然而，这种疲劳是技术发展的必经阶段，有助于企业重新思考AI在业务战略中的作用。预计到2025年，AI将回归理性，成为产品创新的核心驱动力。企业应重视产品团队和咨询顾问的作用，确保AI应用解决实际问题，并实现长期价值。</description>
+      <pubDate>2024-10-16 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloud transformation clears businesses for digital takeoff</title>
+      <link>https://www.technologyreview.com/2024/10/16/1105361/cloud-transformation-clears-businesses-for-digital-takeoff/</link>
+      <description>国泰航空通过云转型提升了运营效率，实现了敏捷性和快速上市时间。从2014年开始的数字化转型，通过将旧系统迁移到云，不仅优化了内部流程，还促进了创新解决方案的应用，如DevSecOps和AI集成。这一转变不仅提高了客户和员工的服务质量，还帮助公司实现了可持续发展的目标，包括减少碳足迹。到2025年，国泰航空计划将所有业务应用程序迁移到云，以进一步增强其敏捷性、客户服务和成本效益。</description>
+      <pubDate>2024-10-16 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: an intro to AI, and ChatGPT’s bias</title>
+      <link>https://www.technologyreview.com/2024/10/16/1105635/the-download-an-intro-to-ai-and-chatgpts-bias/</link>
+      <description>MIT Technology Review的《The Download》本周聚焦人工智能，包括ChatGPT的偏见问题，以及超轻材料抑制电动汽车电池火灾的研究。此外，还介绍了生物技术公司Living Carbon设计的“超级树”和MIT Technology Review Narrated播客系列。</description>
+      <pubDate>2024-10-16 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>9 Reasons Why You Need API Governance</title>
+      <link>https://nordicapis.com/9-reasons-why-you-need-api-governance/</link>
+      <description>API治理对于确保API的有效管理和控制至关重要，它通过提高安全性、促进AI集成、减少API蔓延、提升用户体验和可发现性等方面，对API行业和业务目标产生积极影响。</description>
+      <pubDate>2024-10-16 12:05:37</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Be a Good Internal Consultant</title>
+      <link>https://spin.atomicobject.com/good-internal-consultant/</link>
+      <description>如何成为一名优秀的内部顾问：将同事视为客户，保持专业态度，提供高质量成果，并认真对待内部项目，如同对待外部客户一样。</description>
+      <pubDate>2024-10-16 12:00:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Super-light materials that help suppress EV battery fires just got a big boost</title>
+      <link>https://www.technologyreview.com/2024/10/16/1105504/aerogel-ev-battery-fire/</link>
+      <description>美国能源部承诺向Aspen Aerogels公司提供6.706亿美元贷款，以建设新工厂生产提高电池安全性的材料。这些超轻材料可防止或减缓电动汽车电池内部的热量和火灾蔓延，有助于解决电池火灾问题。新工厂预计将在2027年初投产，每年可供应超过两百万辆电动汽车的材料。</description>
+      <pubDate>2024-10-16 11:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Compose Multiplatform 1.7.0 Released</title>
+      <link>https://blog.jetbrains.com/kotlin/2024/10/compose-multiplatform-1-7-0-released/</link>
+      <description>Compose Multiplatform 1.7.0发布，带来更多组件、类型安全导航、iOS性能提升，并支持拖放和共享元素过渡。此版本优化了与iOS的交互，并引入了垃圾收集器并发标记支持，提高了性能。</description>
+      <pubDate>2024-10-16 10:58:27</pubDate>
+    </item>
+  
+    <item>
+      <title>1 description, 1 minute, and your WordPress site is ready to go</title>
+      <link>https://www.hostinger.com/blog/ai-website-builder-for-wordpress</link>
+      <description>Hostinger推出WordPress AI网站构建器（beta版），只需描述和几秒钟，即可快速创建完整的WordPress网站。该工具免费提供，适用于商业和云托管计划，并基于Gutenberg块，确保网站可扩展性和兼容性。AI生成个性化布局、配色方案、文案和图片，优化网站性能，确保快速加载。</description>
+      <pubDate>2024-10-16 08:09:02</pubDate>
+    </item>
+  
+    <item>
+      <title>REX d'utilisation de ChatGPT en conseil: le nouveau pouvoir à maitriser ?</title>
+      <link>https://blog.octo.com/rex-d'utilisation-de-chatgpt-en-conseil-le-nouveau-pouvoir-a-maitriser</link>
+      <description>ChatGPT在IT咨询中的应用：掌握新工具的挑战
+
+本文探讨了ChatGPT在IT咨询领域的应用，分析了其如何通过加速研究、辅助学习和内容创作来增强咨询能力。尽管ChatGPT提供了强大的支持，但它并非万能工具，需要结合人类专家的知识和经验。文章强调了在咨询过程中，人类专家与AI工具的协同作用，以提供更全面、准确的解决方案。</description>
+      <pubDate>2024-10-16 08:07:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Building Confidence in Your Genie Space with Benchmarks and Ask for Review</title>
+      <link>https://www.databricks.com/blog/building-confidence-your-genie-space-benchmarks-and-ask-review</link>
+      <description>Databricks的AI/BI Genie通过自然语言与用户互动，提供数据洞察。为增强用户对Genie提供洞察的信心，Databricks推出了两个新功能：基准测试和请求审查。基准测试允许作者创建测试问题以跟踪整体准确性，而请求审查则允许用户请求作者验证或更正响应。这些功能有助于确保Genie生成的答案的准确性和可靠性。</description>
+      <pubDate>2024-10-16 07:00:32</pubDate>
+    </item>
+  
+    <item>
       <title>Get started with the JBoss Web Server collection</title>
       <link>https://developers.redhat.com/articles/2024/10/16/get-started-jboss-web-server-collection</link>
       <description>本教程介绍了如何使用Ansible中间件执行环境和Ansible内容集合来设置和配置JBoss Web Server。通过Ansible-navigator工具和执行环境，可以自动化和配置JBoss Web Server集合，包括安装特定版本的JBoss Web Server和配置系统服务。教程还提供了如何部署Web应用程序和验证JBoss Web Server设置的示例。</description>
@@ -13,10 +99,31 @@
     </item>
   
     <item>
+      <title>eBay Expands Circular Fashion Fund to Start-ups, Delivering $1.2 Million Investment by the End of 2025</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-expands-circular-fashion-fund-to-start-ups-delivering-1.2-million-investment-by-the-end-of-2025/</link>
+      <description>eBay宣布扩大其循环时尚基金，计划到2025年底投资1200万美元支持初创企业，推动循环时尚解决方案的规模化。该基金旨在帮助时尚初创企业从生产到报废的整个生命周期中实施循环解决方案，包括租赁和维修服务。eBay将与全球领先的时尚行业机构合作，以扩大基金的影响力。</description>
+      <pubDate>2024-10-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Time to Change</title>
+      <link>https://thedailywtf.com/articles/time-to-change</link>
+      <description>程序员Remy Porter在TDWTF上撰文，批评了PHP中一个名为myTime的函数，该函数试图通过格式化和解析时间戳来获取当前时间，但最终只是重复了相同的操作，并指出这种重造轮子的做法应该被标记为个人所有。</description>
+      <pubDate>2024-10-16 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>The team behind Unity 6 explains the new features aimed at helping developers</title>
       <link>https://stackoverflow.blog/2024/10/16/unity-six-6-developer-features-multiplayer-mobile-web/</link>
       <description>Unity 6团队介绍了针对开发者的新功能，包括提升图形效果、添加多人游戏和简化游戏移动端适配。</description>
       <pubDate>2024-10-16 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel 11.28 Adds a Composer Dev Command</title>
+      <link>https://laravel-news.com/laravel-11-28-0</link>
+      <description>Laravel 11.28版本新增了Composer开发命令、Tailwind默认配置、自定义集合类属性、交互式加密解密命令等新特性，同时更新了多个方法和修复了bug。</description>
+      <pubDate>2024-10-16 02:46:21</pubDate>
     </item>
   
     <item>
@@ -129,6 +236,13 @@
       <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/</link>
       <description>.NET 9的System.Text.Json更新包括JSON模式导出、支持多JSON文档流式处理、可空引用类型支持、自定义枚举成员名称、自定义序列化缩进和元数据反序列化等新特性。这些更新旨在提高JSON处理效率和灵活性，同时增强序列化和反序列化的功能。</description>
       <pubDate>2024-10-15 15:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Analysis of the EPYC 145% performance gain in Cloudflare Gen 12 servers</title>
+      <link>https://blog.cloudflare.com/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-servers</link>
+      <description>Cloudflare的Gen 12服务器采用AMD EPYC 9684-X处理器，性能提升了145%，效率提高了63%。通过对比不同CPU架构和配置，Cloudflare发现L3缓存大小对性能影响最大。Genoa-X 9684X处理器因其更大的L3缓存而成为最佳选择，为Cloudflare的全球服务提供强大支持。</description>
+      <pubDate>2024-10-15 15:00:00</pubDate>
     </item>
   
     <item>
