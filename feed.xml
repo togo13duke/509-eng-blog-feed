@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>LWE Attack Benchmarking Project</title>
+      <link>https://www.jeremykun.com/shortform/2024-10-15-1543/</link>
+      <description>Facebook的研究团队最近宣布了一项针对LWE攻击的基准测试项目，旨在研究使用小型秘密和错误对标准化LWE设置（如Kyber和同态加密）安全性的影响，并关注稀疏秘密在同态加密中的应用。项目中最引人注目的是，在n=1024，log2 q=29的HE设置中，他们能在13小时内恢复Hamming重量为9的秘密。</description>
+      <pubDate>2024-10-15 22:43:03</pubDate>
+    </item>
+  
+    <item>
+      <title>North Korean hackers use newly discovered Linux malware to raid ATMs</title>
+      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
+      <description>朝鲜黑客利用新发现的Linux恶意软件攻击ATM机，通过名为FASTCash的远程访问工具，在受感染的支付网络中安装，篡改交易消息以盗取资金。该恶意软件已从Unix和Windows系统扩展到Linux，对金融系统构成严重威胁。</description>
+      <pubDate>2024-10-15 21:16:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Preparing the Consumer Fetch: Kafka Producer and Consumer Internals, Part 3</title>
+      <link>https://www.confluent.io/blog/preparing-the-consumer-fetch-kafka-producer-and-consumer-internals-part-3/</link>
+      <description>Kafka消费者内部工作原理，本文深入探讨了Kafka消费者如何与代理交互、协调分区以及发送请求以从Kafka主题中读取数据。文章详细介绍了消费者配置、分区分配策略、偏移量管理以及消费者请求的配置和监控。</description>
+      <pubDate>2024-10-15 21:13:53</pubDate>
+    </item>
+  
+    <item>
       <title>Amazon Aurora PostgreSQL and Amazon DynamoDB zero-ETL integrations with Amazon Redshift now generally available</title>
       <link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-and-amazon-dynamodb-zero-etl-integrations-with-amazon-redshift-now-generally-available/</link>
       <description>亚马逊宣布，Amazon Aurora PostgreSQL和Amazon DynamoDB与Amazon Redshift的零ETL集成现已全面上市。这种集成无缝地将事务性或运营数据提供给Amazon Redshift，无需构建和管理复杂的数据管道，从而简化了数据分析和机器学习操作。</description>
@@ -66,6 +87,13 @@
       <link>https://arstechnica.com/ai/2024/10/google-and-kairos-sign-nuclear-reactor-deal-with-aim-to-power-ai/</link>
       <description>Google与Kairos签署了核反应堆合作协议，旨在为人工智能提供能源，计划到2030年将Kairos Power的初始小型模块化反应堆投入运营，并计划到2035年部署更多反应堆。这一合作旨在满足人工智能不断增长的能源需求，并推动清洁、可靠的能源技术发展。</description>
       <pubDate>2024-10-15 16:14:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Creating a responsive dashboard layout for JetLagged with Jetpack Compose</title>
+      <link>http://android-developers.googleblog.com/2024/10/creating-responsive-dashboard-layout-for-jetlagged-jetpack-compose.html</link>
+      <description>本文介绍了如何使用Jetpack Compose创建响应式仪表盘布局。通过Flow布局、WindowSizeClasses、movableContentOf和LookaheadScope等技术，实现了在不同屏幕尺寸下自动调整布局和内容。文章以JetLagged示例代码为基础，展示了如何实现自适应布局和动画效果，使UI在不同设备上保持一致性和流畅性。</description>
+      <pubDate>2024-10-15 16:00:00</pubDate>
     </item>
   
     <item>
@@ -340,6 +368,13 @@
       <title>A taste of Go code generator magic: a quick guide to getting started</title>
       <link>https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started</link>
       <description>探索Go代码生成器的魔法：本文提供快速入门指南，介绍如何使用golang.org/x/tools/go/packages、std go/types和github.com/dave/jennifer/jen等工具，通过阅读示例代码，生成包装函数，提高代码可读性和效率。</description>
+      <pubDate>2024-10-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Damas-Hindley-Milner inference two ways</title>
+      <link>https://bernsteinbear.com/blog/type-inference/?utm_source=rss</link>
+      <description>本文探讨了Damas-Hindley-Milner（HM）类型系统，这是一种用于lambda演算的类型系统，具有参数多态性。文章介绍了HM类型系统的原理，包括如何通过变量和表达式的使用生成类型约束，并解决这些约束。此外，文章还实现了HM类型系统的两种算法（W和J），并简要介绍了第三种算法M。通过这些算法，可以更深入地理解HM类型系统的原理和应用。</description>
       <pubDate>2024-10-15 00:00:00</pubDate>
     </item>
   
