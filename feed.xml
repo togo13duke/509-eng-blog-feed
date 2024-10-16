@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Get started with the JBoss Web Server collection</title>
+      <link>https://developers.redhat.com/articles/2024/10/16/get-started-jboss-web-server-collection</link>
+      <description>本教程介绍了如何使用Ansible中间件执行环境和Ansible内容集合来设置和配置JBoss Web Server。通过Ansible-navigator工具和执行环境，可以自动化和配置JBoss Web Server集合，包括安装特定版本的JBoss Web Server和配置系统服务。教程还提供了如何部署Web应用程序和验证JBoss Web Server设置的示例。</description>
+      <pubDate>2024-10-16 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The team behind Unity 6 explains the new features aimed at helping developers</title>
+      <link>https://stackoverflow.blog/2024/10/16/unity-six-6-developer-features-multiplayer-mobile-web/</link>
+      <description>Unity 6团队介绍了针对开发者的新功能，包括提升图形效果、添加多人游戏和简化游戏移动端适配。</description>
+      <pubDate>2024-10-16 04:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>D2C is not an eCommerce issue, it's corporate finance modernization</title>
+      <link>https://www.thoughtworks.com/insights/blog/legacy-modernization/d2c-sales--a-finance-modernization-challenge-disguised-as-an-eco</link>
+      <description>D2C转型不仅仅是电子商务问题，更是企业财务现代化的重要步骤。OEMs通过拓展消费者服务能力，引入新的收入来源，如市场平台和订阅服务，以实现收入增长和现金流稳定。然而，这种转型也带来了财务复杂性，如销售税、订阅收入确认、欺诈管理等。企业财务部门需要通过D2C项目从服务提供者转变为企业平台，通过简化运营复杂性、提高合规性、减少员工摩擦和适应边缘情况来应对这些挑战。财务部门必须准备好进行重大变革，以支持D2C交易，并确保其战略的可持续性。</description>
+      <pubDate>2024-10-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>LWE Attack Benchmarking Project</title>
       <link>https://www.jeremykun.com/shortform/2024-10-15-1543/</link>
       <description>Facebook的研究团队最近宣布了一项针对LWE攻击的基准测试项目，旨在研究使用小型秘密和错误对标准化LWE设置（如Kyber和同态加密）安全性的影响，并关注稀疏秘密在同态加密中的应用。项目中最引人注目的是，在n=1024，log2 q=29的HE设置中，他们能在13小时内恢复Hamming重量为9的秘密。</description>
