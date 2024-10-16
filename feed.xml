@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing Azure Cobalt 100 VMs: Powering the Future of Azure Databricks</title>
+      <link>https://www.databricks.com/blog/announcing-azure-cobalt-100-vms-powering-future-azure-databricks</link>
+      <description>Databricks宣布支持新的Azure Cobalt 100虚拟机，为Azure Databricks提供性能和成本效益的提升。这些基于64位Arm CPU的虚拟机提供高达50%的价格性能比，并支持更高效的数据处理和更低的运营成本。Azure Cobalt 100 VM的推出标志着Databricks与微软合作的里程碑，旨在为Azure Databricks客户提供最佳体验。</description>
+      <pubDate>2024-10-16 21:55:38</pubDate>
+    </item>
+  
+    <item>
+      <title>How we build GitHub Copilot into Visual Studio</title>
+      <link>https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/</link>
+      <description>微软工程师Anson Horton在.NET博客中分享了GitHub Copilot集成到Visual Studio的过程。文章回顾了从IntelliCode到GitHub Copilot的发展历程，强调了.NET在构建和迭代AI功能中的关键作用。文章还讨论了GitHub Copilot X的引入，以及如何将聊天功能和代码补全整合到Visual Studio中。</description>
+      <pubDate>2024-10-16 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Amazon joins Google in investing in small modular nuclear power</title>
+      <link>https://arstechnica.com/science/2024/10/amazon-the-latest-tech-giant-to-announce-investments-in-nuclear/</link>
+      <description>亚马逊和谷歌共同投资小型模块化核反应堆技术，以应对数据中心能源需求增长。亚马逊与能源供应商合作，投资于小型模块化反应堆的研究和开发，旨在提高能源效率和安全性。这种新型反应堆设计旨在减少建设大型核电站的时间和成本，并具有更高的灵活性。亚马逊的这一举措反映了其对未来能源需求的担忧，以及对新技术风险的承担。</description>
+      <pubDate>2024-10-16 16:47:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Codegeist is back!</title>
+      <link>https://www.atlassian.com/blog/developer/codegeist-2024</link>
+      <description>Atlassian的Codegeist黑客松活动回归，为开发者提供机会，通过为Jira、Confluence和Bitbucket创建应用程序来争夺17万美元的奖金。活动从10月15日开始，至12月10日结束，涵盖多个类别，鼓励创新解决方案，并提供了专家建议以提升参赛者的成功机会。</description>
+      <pubDate>2024-10-16 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deepfake lovers swindle victims out of $46M in Hong Kong AI scam</title>
+      <link>https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/</link>
+      <description>香港警方逮捕了27名涉嫌利用AI深伪技术进行诈骗的嫌疑人，他们通过虚假的加密货币投资骗取了4600万美元。诈骗团伙使用AI工具创建虚假的在线人物，通过视频通话欺骗受害者。受害者意识到被骗是在尝试从虚假平台提款时。</description>
+      <pubDate>2024-10-16 15:40:36</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #88: Hot summers</title>
+      <link>https://www.bambooweekly.com/bw-88-hot-summers/</link>
+      <description>今年夏季，全球气温异常升高，导致海水温度达到前所未有的“热水浴缸”水平，加剧了飓风的强度和破坏力。气候中央组织的数据显示，这种温度升高与气候变化有关，但气象学家因此受到威胁。本周将分析气候中央发布的数据，探讨过去50年中夏季温度变化最大的地区。</description>
+      <pubDate>2024-10-16 15:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Staggered (3D) Grid Animations with Scroll-Triggered Effects</title>
+      <link>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</link>
+      <description>探索基于滚动的3D网格动画，结合透视和字体效果，实现流畅的视觉体验。作者Manoela Ilic展示了如何使用GSAP的SplitText插件，在网页上创建引人入胜的动画效果。</description>
+      <pubDate>2024-10-16 14:46:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Best Practices: Using ARG and ENV in Your Dockerfiles</title>
+      <link>https://www.docker.com/blog/docker-best-practices-using-arg-and-env-in-your-dockerfiles/</link>
+      <description>本文探讨了在Dockerfile中使用ARG和ENV指令的最佳实践。ARG用于定义构建时变量，而ENV则用于定义构建和运行时变量。文章通过示例说明了如何使用这些指令，并解释了如何覆盖它们以及在不同场景下的应用。</description>
+      <pubDate>2024-10-16 14:35:53</pubDate>
+    </item>
+  
+    <item>
+      <title>An introduction to inbound email parsing (What it is, and how you can do it)</title>
+      <link>https://postmarkapp.com/blog/an-introduction-to-inbound-email-parsing-what-it-is-and-how-you-can-do-it</link>
+      <description>本文介绍了邮件解析的概念及其应用。邮件解析能够将邮件内容转换为易于处理的数据结构，如JSON，从而便于在代码中操作。邮件解析可用于多种场景，如处理客户回复、记录邮件、社交应用等。Postmark提供了邮件解析服务，用户可以通过设置入站webhook来接收解析后的邮件数据。此外，Postmark还支持入站域名转发，以便处理整个域名的邮件。</description>
+      <pubDate>2024-10-16 14:09:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Structural Pattern Matching in Python</title>
+      <link>https://realpython.com/structural-pattern-matching/</link>
+      <description>Python 3.10 引入了结构化模式匹配，这是一种强大的控制流结构，用于简化代码并提高可读性。本教程将介绍如何使用 match 语句和 case 子句，探索不同类型的模式，包括字面量、值、捕获和序列模式，并学习如何为用户定义的类定制模式匹配。此外，还将讨论模式匹配的局限性，并提供实际应用案例，如解析用户输入和验证数据。</description>
+      <pubDate>2024-10-16 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Llamafile v0.8.14: a new UI, performance gains, and more</title>
       <link>https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/</link>
       <description>Llamafile 0.8.14版本发布，引入了新的聊天界面和性能提升。新版本包括一个快速、易用的命令行聊天界面，以及一个名为Llamafiler的更可靠、更快的API服务器。此外，Llamafile支持多种新模型，包括Llama 3.2和OLMo 7B，并优化了在多种硬件上的性能。社区贡献者帮助推动了这些改进。</description>
@@ -17,6 +87,13 @@
       <link>https://www.docker.com/blog/how-docker-it-streamlined-docker-desktop-deployment/</link>
       <description>Docker IT通过利用新的Docker Business功能，简化了Docker Desktop的全球团队部署，提高了部署效率、安全性，并增强了用户可见性。通过采用新的安装方法和集成安全措施，Docker IT在24小时内将Docker Desktop部署到数百台计算机上，同时确保了用户连接和组织合规性。</description>
       <pubDate>2024-10-16 13:30:38</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Simulate a Basic IoT Sensor Dataset on PostgreSQL</title>
+      <link>https://www.timescale.com/blog/how-to-explore-timescaledb-using-simulated-iot-sensor-data/</link>
+      <description>本文介绍了如何在PostgreSQL或TimescaleDB上模拟基本的物联网传感器数据集。通过SQL命令创建传感器和传感器数据表，并插入模拟数据。接着，展示了如何运行基本查询，包括平均温度、CPU使用率等，并利用传感器元数据进行分析。最后，提供了进一步学习和探索TimescaleDB资源的链接。</description>
+      <pubDate>2024-10-16 13:05:00</pubDate>
     </item>
   
     <item>
@@ -134,10 +211,38 @@
     </item>
   
     <item>
+      <title>Cisco uses Elastic to save 5,000 support engineer hours a month</title>
+      <link>https://www.elastic.co/blog/cisco-elastic-5000-support-engineer-hours</link>
+      <description>Cisco利用Elastic在Google Cloud上创建更丰富的搜索体验，使支持工程师能够快速找到所需答案，从而节省了5000名支持工程师每月的工作时间。通过将AI模型、语义搜索和向量搜索添加到50多个内部和外部应用中，Cisco提高了创新速度和整体运营效率。</description>
+      <pubDate>2024-10-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Set Out for a Discord Adventure! Check Out Our Roll20 Adventure &amp; D&amp;D Shop Collection</title>
+      <link>https://discord.com/blog/discord-roll20-adventure-and-dnd-shop-collection</link>
+      <description>Dungeons &amp; Dragons迎来50周年庆典，Discord推出全新桌面冒险和D&amp;D商店收藏，包括七款头像装饰和四款个人资料效果。玩家可在Discord内体验“Voyage Into Discord”冒险，无需物理地图和模型。同时，商店提供更多D&amp;D相关商品，庆祝这一里程碑事件。</description>
+      <pubDate>2024-10-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Driving innovation at Thoughtworks: The Power of Hackathons</title>
+      <link>https://www.thoughtworks.com/insights/blog/digital-innovation/Driving-innovation-at-Thoughtworks-the-power-of-Hackathons</link>
+      <description>Thoughtworks通过举办黑客马拉松来推动创新，这些活动促进了团队合作和技能提升。在过去四年中，Thoughtworks举办了11次黑客马拉松，产生了200多个想法和25个原型，涉及多个领域。文章强调了黑客马拉松的准备工作，包括成立委员会、选择主题、组建团队和安排时间。此外，还讨论了执行过程中的沟通和协作工具，以及如何展示成果和评估影响。</description>
+      <pubDate>2024-10-16 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>LWE Attack Benchmarking Project</title>
       <link>https://www.jeremykun.com/shortform/2024-10-15-1543/</link>
       <description>Facebook的研究团队最近宣布了一项针对LWE攻击的基准测试项目，旨在研究使用小型秘密和错误对标准化LWE设置（如Kyber和同态加密）安全性的影响，并关注稀疏秘密在同态加密中的应用。项目中最引人注目的是，在n=1024，log2 q=29的HE设置中，他们能在13小时内恢复Hamming重量为9的秘密。</description>
       <pubDate>2024-10-15 22:43:03</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Use the Materialize Emulator</title>
+      <link>https://hookrace.net/blog/materialize-emulator/</link>
+      <description>Materialize Emulator是一个Docker镜像，用于本地维护Materialize版本。在上一篇文章中，我们介绍了质量保证团队和测试方法，本文将深入探讨Materialize Emulator在测试过程中的应用。</description>
+      <pubDate>2024-10-15 22:00:00</pubDate>
     </item>
   
     <item>
