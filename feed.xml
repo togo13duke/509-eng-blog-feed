@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Managing Up: The Endpoint Lifecycle Matters More</title>
+      <link>https://nordicapis.com/managing-up-the-endpoint-lifecycle-matters-more/</link>
+      <description>API开发中，关注端点生命周期比生命周期管理更重要。传统API管理工具和方法过于繁琐，未能有效支持开发者工作。应聚焦于端点生命周期，通过模块化工具提高效率，实现代码质量、可重复性和可发现性的提升。这有助于组织节省成本、提高质量，并将更多资源用于创新。</description>
+      <pubDate>2024-10-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Efficient autoscaling in OpenShift with Priority and LeastWaste expanders</title>
+      <link>https://developers.redhat.com/articles/2024/10/17/efficient-autoscaling-openshift-priority-and-leastwaste-expanders</link>
+      <description>OpenShift中的高效自动扩展：通过Priority和LeastWaste扩展器，优化资源管理，减少浪费，提高集群效率和成本效益。LeastWaste扩展器最小化资源浪费，而Priority扩展器允许管理员根据优先级设置节点组扩展顺序。</description>
+      <pubDate>2024-10-17 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>I Endorse Kamala Harris For US President</title>
+      <link>https://glebbahmutov.com/blog/election-2024/</link>
+      <description>我支持卡玛拉·哈里斯竞选美国总统。作者强调，在即将到来的美国大选中，民主党是更好的选择。他列举了多个原因，包括气候变化、人权、战争、政策和性格等方面，认为卡玛拉·哈里斯比特朗普更适合担任总统。他呼吁所有美国公民在11月5日注册并投票给民主党候选人，并鼓励大家积极参与选举。</description>
+      <pubDate>2024-10-17 04:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>65 Years Of Asterix And Obelix: How The Duo Conquered Over A Hundred Languages</title>
+      <link>https://www.babbel.com/en/magazine/learn-french-with-asterix</link>
+      <description>《阿斯特rix和奥比留斯：这对传奇角色征服了超过一百种语言》讲述了由雷内·戈西尼和阿尔贝·乌德佐创作的阿斯特rix漫画如何跨越65年，被翻译成多种语言，成为学习法语的有力工具。文章介绍了漫画的背景、故事情节、翻译挑战以及如何通过阅读漫画学习法语。</description>
+      <pubDate>2024-10-17 01:54:00</pubDate>
+    </item>
+  
+    <item>
       <title>Build a (better) search form in Rails with Active Model</title>
       <link>https://thoughtbot.com/blog/rails-search-form-tutorial</link>
       <description>本文介绍了如何使用Active Model在Rails中构建一个更优的搜索表单。作者通过重构一个客户项目的自定义搜索表单，展示了如何将逻辑从控制器和视图中提取到模型中，从而简化代码并提高可维护性。通过使用ActiveModel的验证和属性API，作者实现了参数验证、默认值设置和结果过滤，使控制器和表单更加简洁。</description>
