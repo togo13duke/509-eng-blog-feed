@@ -6,6 +6,106 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New Docker Terraform Provider: Automate, Secure, and Scale with Ease</title>
+      <link>https://www.docker.com/blog/docker-terraform-provider/</link>
+      <description>Docker推出新的Terraform提供程序，旨在自动化、安全地管理Docker托管资源，包括仓库、团队和组织设置。此提供程序通过Terraform的基础设施即代码方法，提供统一、可扩展和安全的解决方案，简化资源管理，提高安全性，并促进团队协作。</description>
+      <pubDate>2024-10-17 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Build an Image Search Application With OpenAI CLIP &amp; PostgreSQL in JavaScript</title>
+      <link>https://www.timescale.com/blog/how-to-build-an-image-search-application-with-openai-clip-postgresql-in-javascript/</link>
+      <description>如何使用OpenAI CLIP模型和PostgreSQL构建图像搜索应用
+
+本文介绍了如何利用OpenAI的CLIP模型和PostgreSQL数据库构建高效的图像搜索应用。CLIP模型能够理解图像和文本信息，而PostgreSQL数据库则支持高效处理高维向量数据。通过结合这两种技术，可以创建出能够理解自然语言查询的图像搜索系统。文章详细介绍了CLIP模型的特点、使用方法以及如何将其与PostgreSQL结合，实现图像搜索功能。</description>
+      <pubDate>2024-10-17 13:07:22</pubDate>
+    </item>
+  
+    <item>
+      <title>The story of web framework Hono, from the creator of Hono</title>
+      <link>https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono</link>
+      <description>Hono是一个快速、轻量级的Web框架，可在任何JavaScript运行的环境中运行，由Web标准构建。它不仅适用于Cloudflare Workers，还支持Deno、Bun和Node.js。Hono不依赖外部库，仅使用Web标准API，这使得开发者可以“一次编写，到处运行”。它已被多个开发者和公司采用，包括Cloudflare，用于其核心产品。Hono的简洁性和易用性，以及其强大的类型系统和内置的JSX，使其成为构建全栈应用的理想选择。</description>
+      <pubDate>2024-10-17 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Transforming software with generative AI</title>
+      <link>https://www.technologyreview.com/2024/10/17/1105295/transforming-software-with-generative-ai/</link>
+      <description>生成式AI正在改变软件开发生命周期，预计将大幅提高生产率，但许多企业仍处于早期阶段。调查显示，尽管广泛采用，但仍有大量未开发的机会，包括自动化测试和代码生成。AI代理被视为下一个前沿，预计将带来效率提升和成本节约。</description>
+      <pubDate>2024-10-17 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent</title>
+      <link>https://simonwillison.net/2024/Oct/17/video-scraping/#atom-entries</link>
+      <description>通过使用Google Gemini，作者成功从35秒的屏幕录制中提取JSON数据，整个过程成本极低，几乎免费。这种方法避免了手动复制粘贴数据，并提供了比传统方法更高效的数据提取方式。作者还分享了一个基于LLM的定价计算器工具，用于简化价格计算过程。</description>
+      <pubDate>2024-10-17 12:32:47</pubDate>
+    </item>
+  
+    <item>
+      <title>10 teamwork examples to inspire your best work together</title>
+      <link>https://www.atlassian.com/blog/teamwork/teamwork-examples</link>
+      <description>本文探讨了提高团队协作的十个实例，强调了团队目标一致性、有效沟通、情绪智力、心理安全感以及决策制定等关键要素。通过学习这些技能和实例，团队可以提升协作效率，实现共同目标。</description>
+      <pubDate>2024-10-17 12:20:55</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: farming on Mars, and lab robots</title>
+      <link>https://www.technologyreview.com/2024/10/17/1105771/the-download-farming-on-mars-and-lab-robots/</link>
+      <description>探索火星农业和实验室机器人技术是MIT Technology Review本周的重点。文章探讨了火星的气候变迁和未来宇航员的食物供应问题，同时介绍了由多伦多大学研究人员开发的实验室机器人Organa，它能够通过计算机视觉和语言模型自动化化学实验。</description>
+      <pubDate>2024-10-17 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Think Like a Hacker: Pitfalls to Avoid When Writing an API</title>
+      <link>https://spin.atomicobject.com/pitfalls-writing-api/</link>
+      <description>编写API时，应像黑客一样思考，以避免常见的陷阱，如弱认证、不充分的输入验证、缺乏速率限制和节流、在错误消息中暴露过多信息以及忽视依赖和平台更新。通过实施行业标准的安全措施，如OAuth 2.0认证、数据验证和定期更新依赖项，可以保护API免受潜在威胁，并建立用户信任。</description>
+      <pubDate>2024-10-17 12:00:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimizing your container registry: Understanding garbage collection in DOCR</title>
+      <link>https://www.digitalocean.com/blog/garbage-collection-digitalocean-container-registry</link>
+      <description>DigitalOcean的容器注册库（DOCR）通过垃圾回收机制清理未使用的数据，以优化存储空间和性能。垃圾回收过程分为扫描和删除两个阶段，确保容器镜像的有序管理。对于大型注册库，引入了部分垃圾回收功能，允许用户中断并恢复垃圾回收过程。定期运行垃圾回收有助于维护高效且成本效益高的容器化基础设施。</description>
+      <pubDate>2024-10-17 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Duten’s 2024 Website</title>
+      <link>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</link>
+      <description>Duten与Incredibles Development Studio合作，重新设计其网站，以提升品牌形象和SEO表现。新网站采用优雅、简约的设计，强调高品质视觉和互动体验，包括3D产品视图、交互式形状和纹理动画。此项目成功提升了Duten的在线可见性和用户参与度。</description>
+      <pubDate>2024-10-17 11:54:02</pubDate>
+    </item>
+  
+    <item>
+      <title>A MySQL backup and recovery tutorial on K8s using the MySQL Operator for Kubernetes</title>
+      <link>https://severalnines.com/blog/mysql-backup-recovery-k8s/</link>
+      <description>本文介绍了如何在Kubernetes上使用MySQL Operator进行MySQL数据库的备份和恢复。通过配置备份配置文件和调度，可以将备份发送到AWS S3存储。文章详细说明了如何设置备份，包括创建Kubernetes密钥、配置备份配置文件和调度，以及如何验证备份和恢复过程。</description>
+      <pubDate>2024-10-17 11:33:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Log Analytics 101: Everything You Need to Know</title>
+      <link>https://last9.io/blog/log-analytics/</link>
+      <description>日志分析是IT运营的关键，它通过分析关键数据来帮助团队理解系统行为、性能和整体健康。它提供了实时洞察，使主动监控和性能问题的根本原因分析成为可能，从而提高系统可靠性和效率。</description>
+      <pubDate>2024-10-17 09:40:40</pubDate>
+    </item>
+  
+    <item>
+      <title>This lab robot mixes chemicals</title>
+      <link>https://www.technologyreview.com/2024/10/17/1105122/this-lab-robot-mixes-chemicals/</link>
+      <description>研究人员开发了一种名为Organa的实验室机器人，能够通过语音指令进行化学实验。该系统结合了计算机视觉和大型语言模型，将科学家的口头指示转化为实验流程。Organa能够执行多步骤实验，并监控进度，提供反馈。这种机器人有望提高实验室效率，让科学家有更多时间专注于科学问题。</description>
+      <pubDate>2024-10-17 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The quest to figure out farming on Mars</title>
+      <link>https://www.technologyreview.com/2024/10/17/1105135/mars-farming-soil-food-humans-farming-agriculture/</link>
+      <description>为了在火星上生活，科学家们正在研究如何在该星球贫瘠的土壤中种植食物。由于火星土壤富含有毒的过氯酸盐，传统的种植方法不可行。NASA和 NSF 正在资助研究，利用微生物去除过氯酸盐，并改造火星土壤，使其适合种植。这项研究不仅对火星农业至关重要，也可能有助于地球上受污染土地的修复。</description>
+      <pubDate>2024-10-17 08:24:34</pubDate>
+    </item>
+  
+    <item>
       <title>Managing Up: The Endpoint Lifecycle Matters More</title>
       <link>https://nordicapis.com/managing-up-the-endpoint-lifecycle-matters-more/</link>
       <description>API开发中，关注端点生命周期比生命周期管理更重要。传统API管理工具和方法过于繁琐，未能有效支持开发者工作。应聚焦于端点生命周期，通过模块化工具提高效率，实现代码质量、可重复性和可发现性的提升。这有助于组织节省成本、提高质量，并将更多资源用于创新。</description>
@@ -20,10 +120,24 @@
     </item>
   
     <item>
+      <title>CodeSOD: Ancestry Dot Dumb</title>
+      <link>https://thedailywtf.com/articles/ancestry-dot-dumb</link>
+      <description>Damiano的公司为了节省成本，选择了最便宜的承包商，导致承包商派遣的开发商对Drupal一无所知，编写了低质量的代码。代码中存在DOM查询的脆弱性、不清晰的变量命名、字符串拼接的HTML生成，以及嵌入PHP代码等严重问题，导致项目无法使用，需要大量返工。尽管如此，管理层仍然因为节省了成本而沾沾自喜。</description>
+      <pubDate>2024-10-17 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>I Endorse Kamala Harris For US President</title>
       <link>https://glebbahmutov.com/blog/election-2024/</link>
       <description>我支持卡玛拉·哈里斯竞选美国总统。作者强调，在即将到来的美国大选中，民主党是更好的选择。他列举了多个原因，包括气候变化、人权、战争、政策和性格等方面，认为卡玛拉·哈里斯比特朗普更适合担任总统。他呼吁所有美国公民在11月5日注册并投票给民主党候选人，并鼓励大家积极参与选举。</description>
       <pubDate>2024-10-17 04:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Always Render API Exceptions as JSON in Laravel</title>
+      <link>https://laravel-news.com/always-render-api-exceptions-as-json-in-laravel</link>
+      <description>Laravel 11提供了一种便捷的方法，无需额外中间件即可在API请求中强制返回JSON格式的异常。通过使用`shouldRenderJsonWhen()`方法，确保API请求中抛出的任何异常都以JSON格式渲染。此外，还需确保非错误响应也返回JSON。</description>
+      <pubDate>2024-10-17 02:44:35</pubDate>
     </item>
   
     <item>
