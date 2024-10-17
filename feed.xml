@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Shift Left: Headless Data Architecture, Part 1</title>
+      <link>https://www.confluent.io/blog/shift-left-headless-data-architecture-part-1/</link>
+      <description>无头数据架构是一种将数据存储、管理、优化和访问与写入、处理和查询数据的服务分离的架构。这种架构允许从单一逻辑位置管理数据，包括权限、模式演变和表优化，简化了合规性。无头数据架构支持多种数据格式，包括数据流和表，提供灵活性和可扩展性。通过使用Apache Kafka和Apache Iceberg等技术，可以构建高效的数据流和表，实现数据湖和数据仓库的集成，从而提高数据处理效率。</description>
+      <pubDate>2024-10-17 18:23:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Building Supercharged Agents with Heroku and Agentforce</title>
+      <link>https://blog.heroku.com/building-supercharged-agents-heroku-agentforce</link>
+      <description>Heroku与Agentforce结合，通过Heroku平台处理和实时分析数据，为员工提供全面的信息，提高工作效率。UltraConstruction公司利用Heroku和Java处理旧发票信息，使其AI代理能够访问和回答相关问题。Heroku支持多种编程语言和弹性计算服务，可扩展Agentforce的功能，实现定制化业务流程。</description>
+      <pubDate>2024-10-17 18:15:32</pubDate>
+    </item>
+  
+    <item>
+      <title>AI could help people find common ground during deliberations</title>
+      <link>https://www.technologyreview.com/2024/10/17/1105810/ai-could-help-people-find-common-ground-during-deliberations/</link>
+      <description>DeepMind开发的“Habermas机器”（HM）通过大型语言模型帮助人们就争议性问题达成共识。该系统通过总结群体意见，促进不同观点的参与者找到共同点，但其在处理现实世界讨论中的某些方面仍有限制。</description>
+      <pubDate>2024-10-17 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GitHub for Nonprofits: Drive social impact one commit at a time</title>
+      <link>https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/</link>
+      <description>GitHub为非营利组织提供产品折扣，简化注册流程，帮助这些组织通过技术推动社会影响，提高项目可见性，并与开源社区连接，共同创造更可持续和公平的未来。</description>
+      <pubDate>2024-10-17 17:00:06</pubDate>
+    </item>
+  
+    <item>
+      <title>App Defense Alliance Releases New Data Security Standards</title>
+      <link>https://developers.facebook.com/blog/post/2024/10/17/app-defense-alliance-releases-new-data-security-standards/</link>
+      <description>App Defense Alliance发布新的数据安全标准，旨在提升应用生态系统安全。这些标准包括移动应用、Web应用和云应用的安全规范，旨在帮助开发者构建更安全的软件，保护用户数据。这些标准不会改变与Meta的互动或现有数据安全计划，而是鼓励行业采用合理的应用安全实践。</description>
+      <pubDate>2024-10-17 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Attribute serverless costs to departments and users with budget policies</title>
+      <link>https://www.databricks.com/blog/attribute-serverless-costs-departments-and-users-budget-policies</link>
+      <description>Databricks推出公共预览版的无服务器预算策略，允许管理员自动为无服务器资源添加正确标签，实现定制化成本报告和追责。此策略有助于组织有效管理无服务器工作负载成本，通过标签分组账单记录，确保全面了解与每个标签相关的成本，简化跨部门和项目的预算管理。</description>
+      <pubDate>2024-10-17 16:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Career growth, learning, and fun, oh my! Your guide to GitHub Universe 2024</title>
+      <link>https://github.blog/news-insights/company-news/career-growth-learning-and-fun-oh-my-your-guide-to-github-universe-2024/</link>
+      <description>GitHub Universe 2024将带来丰富的洞察、启发性的会议和与行业领袖交流的机会。活动将于10月29日至30日在旧金山的Fort Mason Center举行，庆祝GitHub成立10周年。参与者将有机会参加超过100场会议，体验创新互动区域，与GitHub专家交流，并探索GitHub的最新功能和产品。现在购票，不要错过与开发者社区互动和获取行业前沿信息的机会。</description>
+      <pubDate>2024-10-17 16:00:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Staying up to date in Identity… Auth0’s Q3 Developer Releases</title>
+      <link>https://auth0.com/blog/auth0s-q3-developer-releases/</link>
+      <description>Auth0发布第三季度开发者更新，包括升级免费、基本、专业和企业计划，新增25,000 MAUs和自定义域名，以及增强的多因素认证。此外，推出Auth for GenAI，确保AI代理有适当的访问权限，并安全地代表用户调用API。</description>
+      <pubDate>2024-10-17 15:31:00</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #88: Hot summers (solution)</title>
+      <link>https://www.bambooweekly.com/bw-88-hot-summers-solution/</link>
+      <description>本周分析了来自Climate Central的数据集，探讨了今年6月、7月和8月的气温数据，指出夏季异常炎热。报告显示，海洋水温上升至前所未有的水平，部分原因是近期极端飓风的产生。文章详细介绍了如何使用Pandas处理和分析这些数据，包括数据导入、列名简化和数据处理。</description>
+      <pubDate>2024-10-17 15:00:31</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Complete View of Your Customers with Data Cloud and Identity Resolution</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/data-cloud-and-identity-resolution.html</link>
+      <description>Salesforce Data Cloud通过数据映射和身份解析技术，将分散的数据源中的客户信息整合成统一的客户档案，帮助企业在数据孤岛中实现客户数据的全面整合，从而提升客户理解、营销效果和客户服务，最终推动业务增长。</description>
+      <pubDate>2024-10-17 15:00:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Brain Drain: David vs Goliath</title>
+      <link>https://stackoverflow.blog/2024/10/17/training-data-scarcity-synthetic-quality-model-genai-ai/</link>
+      <description>随着生成式AI模型规模的扩大，对新鲜数据的担忧日益增加。合成数据是一种选择，但使用AI生成的数据训练AI可能会降低模型性能。文章探讨了数据质量是否能够克服数据数量的损失，并讨论了如何通过提高数据质量和结构来训练更小、更高效的AI模型。</description>
+      <pubDate>2024-10-17 14:51:37</pubDate>
+    </item>
+  
+    <item>
       <title>New Docker Terraform Provider: Automate, Secure, and Scale with Ease</title>
       <link>https://www.docker.com/blog/docker-terraform-provider/</link>
       <description>Docker推出新的Terraform提供程序，旨在自动化、安全地管理Docker托管资源，包括仓库、团队和组织设置。此提供程序通过Terraform的基础设施即代码方法，提供统一、可扩展和安全的解决方案，简化资源管理，提高安全性，并促进团队协作。</description>
@@ -19,6 +96,13 @@
 
 本文介绍了如何利用OpenAI的CLIP模型和PostgreSQL数据库构建高效的图像搜索应用。CLIP模型能够理解图像和文本信息，而PostgreSQL数据库则支持高效处理高维向量数据。通过结合这两种技术，可以创建出能够理解自然语言查询的图像搜索系统。文章详细介绍了CLIP模型的特点、使用方法以及如何将其与PostgreSQL结合，实现图像搜索功能。</description>
       <pubDate>2024-10-17 13:07:22</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Name And Pronounce Colors In German</title>
+      <link>https://www.babbel.com/en/magazine/german-colors</link>
+      <description>掌握德语中颜色的名称和发音是学习语言的重要一步。文章介绍了德语中颜色的形容词用法，包括颜色词的位置、与名词的搭配以及颜色的变化形式。例如，“红色的车”在德语中是“das rote Auto”，而“白色的猫”是“die weiße Katze”。此外，还提供了一些颜色词的变体形式和不可变形式，以及如何通过一个简单的测试来检验学习成果。</description>
+      <pubDate>2024-10-17 13:00:21</pubDate>
     </item>
   
     <item>
@@ -82,6 +166,13 @@
       <link>https://severalnines.com/blog/mysql-backup-recovery-k8s/</link>
       <description>本文介绍了如何在Kubernetes上使用MySQL Operator进行MySQL数据库的备份和恢复。通过配置备份配置文件和调度，可以将备份发送到AWS S3存储。文章详细说明了如何设置备份，包括创建Kubernetes密钥、配置备份配置文件和调度，以及如何验证备份和恢复过程。</description>
       <pubDate>2024-10-17 11:33:25</pubDate>
+    </item>
+  
+    <item>
+      <title>SurveyMonkey success stories from top marketers</title>
+      <link>https://www.surveymonkey.com/curiosity/curiosity-leanin-insights/?ut_source=rss</link>
+      <description>SurveyMonkey是一个强大的在线调查工具，适用于各种市场研究需求。它通过数据驱动的洞察力帮助品牌与消费者建立联系，并通过创新的方法提升营销效果。通过结合数据分析和真实故事讲述，品牌可以创造引人入胜的营销活动，同时保持与消费者的真诚互动。</description>
+      <pubDate>2024-10-17 11:16:00</pubDate>
     </item>
   
     <item>
@@ -155,6 +246,41 @@
     </item>
   
     <item>
+      <title>Diverse teams yield better results — Here’s how to build them</title>
+      <link>https://www.elastic.co/blog/culture-build-diverse-teams</link>
+      <description>构建多元化团队以获得更好的成果，关键在于包容不同背景和观点的成员。通过扩大招聘渠道，培养包容性环境，并建立信任和尊重的团队文化，企业可以促进创新并提高工作效率。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to build god and get away with it</title>
+      <link>https://taylor.town/build-god</link>
+      <description>人类在创造神的过程中面临着风险，包括意图不良的创造和意外产生的负面结果。为了确保创造出的神是善意的，我们需要开发能够检查神之意图的工具，同时提高透明度和可解释性。这需要全球合作，通过技术进步和公共意识提升来实现。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Yes, AI will "take" your job. No, you won't mind</title>
+      <link>https://swizec.com/blog/yes-ai-will-take-your-job-no-you-wont-mind/</link>
+      <description>AI将取代一些编程工作，但不会影响所有人。AI在编程领域的应用类似于历史上的两次技术浪潮，如编译器和互联网搜索，它们都降低了编程的门槛，提高了效率。AI将提高编程技能的最低标准，使更多人能够快速完成更多工作。对于程序员来说，这是机遇而非威胁。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing Rust 1.82.0</title>
+      <link>https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html</link>
+      <description>Rust 1.82.0版本发布，新增功能包括：Cargo的info子命令、macOS 64位ARM支持提升为一级目标、支持use&lt;..&gt;语法、原生语法创建原始指针、使用unsafe extern标记安全项、标准化NaN语义和const支持、const assembly操作数等。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>JSON The Fine Print Ep.2: Exploring JSON Encoding and Data Handling in Go</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-ep-2-exploring-json-encoding-and-data-handling-in-go.html</link>
+      <description>本篇博客深入探讨了在Go语言中使用JSON进行编码和数据处理的挑战与解决方案。文章首先分析了JSON的无模式格式特性及其灵活性与潜在问题，接着讨论了JSON与Go类型系统的映射，以及如何处理JSON中的null值和不同数值类型。最后，文章提供了使用Go的encoding/json包进行JSON编码和解码的实用示例。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Men accused of DDoSing some of the world’s biggest tech companies</title>
       <link>https://arstechnica.com/information-technology/2024/10/us-prosecutors-take-down-operation-accused-of-35000-ddoses-over-14-months/</link>
       <description>两名苏丹男子被控对全球最大科技公司进行分布式拒绝服务（DDoS）攻击，包括微软、OpenAI、PayPal等，以及医院和政府机构。他们通过名为“匿名苏丹”的服务，使用云平台进行攻击，并公开炫耀成果。若罪名成立，两人将面临长期监禁。</description>
@@ -187,6 +313,13 @@
       <link>https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/</link>
       <description>微软工程师Anson Horton在.NET博客中分享了GitHub Copilot集成到Visual Studio的过程。文章回顾了从IntelliCode到GitHub Copilot的发展历程，强调了.NET在构建和迭代AI功能中的关键作用。文章还讨论了GitHub Copilot X的引入，以及如何将聊天功能和代码补全整合到Visual Studio中。</description>
       <pubDate>2024-10-16 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Chrome on Android to support third-party autofill services natively</title>
+      <link>http://android-developers.googleblog.com/2024/10/chrome-3p-autofill-services.html</link>
+      <description>Android Chrome即将原生支持第三方自动填充服务，如密码管理器，以简化用户在网站上的表单填写过程。开发者需引导用户在Chrome中切换设置以继续使用这些服务。新功能已在Chrome 131及更高版本中测试可用，预计2025年初Chrome将停止支持兼容模式。</description>
+      <pubDate>2024-10-16 17:00:00</pubDate>
     </item>
   
     <item>
@@ -673,6 +806,13 @@
       <title>Updating our Platform Terms and Developer Policies</title>
       <link>https://developers.facebook.com/blog/post/2024/10/15/platform-terms-and-developer-policies-updates/</link>
       <description>Meta宣布更新平台条款和开发者政策，以提供更清晰的现有要求，帮助开发者建立用户信任，降低风险，并确保在开发者中心提供可靠和安全的体验。新政策将于2025年2月3日生效，包括对隐私政策、用户同意和数据主体权利请求的明确要求，以及对禁止行为、透明度和质量控制的指导。</description>
+      <pubDate>2024-10-15 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Getting Started With Async Features in Python</title>
+      <link>https://realpython.com/quizzes/python-async-features/</link>
+      <description>本文章介绍了一篇关于Python异步编程特性的互动测验。测验旨在测试读者对异步编程的理解，包括同步与异步程序的区别、编写异步程序的原因以及如何使用Python的异步特性。测验包含7个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
       <pubDate>2024-10-15 12:00:00</pubDate>
     </item>
   
