@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Cheap AI “video scraping” can now extract data from any screen recording</title>
+      <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
+      <description>廉价AI“视频抓取”技术现在可以从任何屏幕录制中提取数据，这项技术通过将屏幕录制视频输入AI模型，如ChatGPT，实现数据提取，为AI助手的发展带来新可能。尽管这项技术具有便利性，但也引发了隐私问题。</description>
+      <pubDate>2024-10-17 22:41:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing early access to DigitalOcean Internal Load Balancer: Scale your private workloads with ease</title>
+      <link>https://www.digitalocean.com/blog/ilb-ea</link>
+      <description>DigitalOcean推出内部负载均衡器，简化私有工作负载的扩展，支持私有IP地址进行负载均衡，提高安全性，并允许与全球负载均衡器结合使用以实现全球扩展。</description>
+      <pubDate>2024-10-17 21:46:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Five lessons from a minor production incident</title>
+      <link>https://lucvandonkersgoed.com/2024/10/17/five-lessons-from-a-minor-production-incident-copy/</link>
+      <description>这次小规模的生产事故让我学到了五点经验：早期投资可观察性、软件架构和测试的重要性、遵循YAGNI原则的权衡、理解错误的双生子特性以及数据溯源的价值。这些经验帮助我快速解决问题，并确保系统稳定。</description>
+      <pubDate>2024-10-17 21:04:44</pubDate>
+    </item>
+  
+    <item>
       <title>Shift Left: Headless Data Architecture, Part 1</title>
       <link>https://www.confluent.io/blog/shift-left-headless-data-architecture-part-1/</link>
       <description>无头数据架构是一种将数据存储、管理、优化和访问与写入、处理和查询数据的服务分离的架构。这种架构允许从单一逻辑位置管理数据，包括权限、模式演变和表优化，简化了合规性。无头数据架构支持多种数据格式，包括数据流和表，提供灵活性和可扩展性。通过使用Apache Kafka和Apache Iceberg等技术，可以构建高效的数据流和表，实现数据湖和数据仓库的集成，从而提高数据处理效率。</description>
@@ -281,6 +302,13 @@
     </item>
   
     <item>
+      <title>How to Make Phone Calls in Different Languages with OpenAI, Python, and Flask</title>
+      <link>https://www.twilio.com/en-us/blog/programmable-voice-foreign-languages-openai-python-flask</link>
+      <description>使用OpenAI、Python和Flask构建应用程序，通过Twilio进行多语言电话练习。</description>
+      <pubDate>2024-10-17 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Men accused of DDoSing some of the world’s biggest tech companies</title>
       <link>https://arstechnica.com/information-technology/2024/10/us-prosecutors-take-down-operation-accused-of-35000-ddoses-over-14-months/</link>
       <description>两名苏丹男子被控对全球最大科技公司进行分布式拒绝服务（DDoS）攻击，包括微软、OpenAI、PayPal等，以及医院和政府机构。他们通过名为“匿名苏丹”的服务，使用云平台进行攻击，并公开炫耀成果。若罪名成立，两人将面临长期监禁。</description>
@@ -292,6 +320,13 @@
       <link>https://www.databricks.com/blog/announcing-azure-cobalt-100-vms-powering-future-azure-databricks</link>
       <description>Databricks宣布支持新的Azure Cobalt 100虚拟机，为Azure Databricks提供性能和成本效益的提升。这些基于64位Arm CPU的虚拟机提供高达50%的价格性能比，并支持更高效的数据处理和更低的运营成本。Azure Cobalt 100 VM的推出标志着Databricks与微软合作的里程碑，旨在为Azure Databricks客户提供最佳体验。</description>
       <pubDate>2024-10-16 21:55:38</pubDate>
+    </item>
+  
+    <item>
+      <title>CameraX update makes dual concurrent camera even easier</title>
+      <link>http://android-developers.googleblog.com/2024/10/camerax-update-makes-dual-concurrent-camera-easier.html</link>
+      <description>CameraX库的更新使得双并发摄像头功能更加易于集成，允许同时从两个不同的摄像头进行流式传输。新版本将处理两个摄像头的流组合，无需修改现有代码。开发者可以通过使用新的SingleCameraConfig构造函数和CompositionSettings对象来实现这一功能。</description>
+      <pubDate>2024-10-16 21:00:00</pubDate>
     </item>
   
     <item>
