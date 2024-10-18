@@ -6,10 +6,87 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>New research: Write more clearly and become a super communicator</title>
+      <link>https://www.atlassian.com/blog/communication/clear-writing-experiment</link>
+      <description>新研究表明，通过使用“Smart Brevity”方法，可以教会团队清晰、有影响力的写作，从而节省时间。这种方法通过教授人们如何“写得更少，说得更多”来提高沟通的清晰度和效率。研究表明，无论角色如何，清晰写作都能带来好处。通过AI和Slack两种方法，参与者通过Smart Brevity培训后，写作清晰度和效率显著提高。</description>
+      <pubDate>2024-10-18 18:20:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Turning Conversation Into Action</title>
+      <link>https://blog.palantir.com/turning-conversation-into-action-c6bc4ed8c8be?source=rss----3c87dc14372f---4</link>
+      <description>Palantir的AI客户服务引擎（CSE）通过将AI代理锚定在企业环境中，实现了从对话到行动的转变。该引擎利用Palantir AIP提供数据访问、自定义工具和人类反馈，使代理能够驱动端到端自主流程，优化客户体验。通过数据丰富的环境、代理隔离和独立性、自定义行为和动作、以及人类验证和反馈，CSE能够持续优化并适应组织需求。</description>
+      <pubDate>2024-10-18 16:50:09</pubDate>
+    </item>
+  
+    <item>
       <title>How API security is evolving for the GenAI era</title>
       <link>https://stackoverflow.blog/2024/10/18/how-api-security-is-evolving-for-the-genai-era/</link>
       <description>API安全在GenAI时代的发展变化，Ben Popper与Solo.io产品负责人Keith Babo探讨了AI时代API安全领域的变革，包括治理在AI中的作用、数据保护的重要性以及API网关在增强安全和功能方面的作用。Babo分享了关于检索增强生成（RAG）系统、保护个人身份信息（PII）以及人机协作AI开发的见解。</description>
       <pubDate>2024-10-18 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The race to find new materials with AI needs more data. Meta is giving massive amounts away for free.</title>
+      <link>https://www.technologyreview.com/2024/10/18/1105880/the-race-to-find-new-materials-with-ai-needs-more-data-meta-is-giving-massive-amounts-away-for-free/</link>
+      <description>Meta发布了名为Open Materials 2024的大规模数据集和模型，旨在加速科学家利用AI发现新材料。这一举措旨在解决材料科学领域数据获取的难题，并推动该领域的研究进展。</description>
+      <pubDate>2024-10-18 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Benefits of Single Sign-On (SSO)</title>
+      <link>https://auth0.com/blog/benefits-of-single-sign-on/</link>
+      <description>单点登录（SSO）通过简化登录流程、提高安全性并减轻IT团队负担，使企业更高效、安全、可扩展。它允许用户使用单一登录凭证访问所有应用程序，减少密码管理负担，降低安全风险，并简化用户管理。SSO还支持合规性、报告和与合作伙伴的协作，是现代数字化企业的重要工具。</description>
+      <pubDate>2024-10-18 15:44:00</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI releases ChatGPT app for Windows</title>
+      <link>https://arstechnica.com/ai/2024/10/openai-releases-chatgpt-app-for-windows/</link>
+      <description>OpenAI发布ChatGPT Windows应用，目前仅对Plus、Team、Enterprise和Edu版本订阅者开放，可在Microsoft Store免费下载。此版本为测试版，功能与网页版类似，支持多种模型和图像生成。用户需登录付费账户，所有AI处理均在云端进行，需要网络连接。</description>
+      <pubDate>2024-10-18 15:42:46</pubDate>
+    </item>
+  
+    <item>
+      <title>How Shopify improved consumer search intent with real-time ML</title>
+      <link>https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml</link>
+      <description>Shopify通过整合AI驱动的搜索功能，提升了消费者搜索意图的准确性。利用语义搜索技术，Shopify不仅匹配关键词，还能理解搜索意图，从而提供更相关的产品。同时，Shopify开发了机器学习资产，通过实时嵌入技术将文本和图像转换为数值向量，实现更精确的搜索结果。这些技术帮助商家提高销售额，并为消费者提供更好的购物体验。</description>
+      <pubDate>2024-10-18 15:33:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Experimenting with audio input and output for the OpenAI Chat Completion API</title>
+      <link>https://simonwillison.net/2024/Oct/18/openai-audio/#atom-entries</link>
+      <description>OpenAI的Chat Completion API现在支持音频输入和输出。通过使用gpt-4o-audio-preview模型，可以生成音频，并通过curl命令进行交互。文章还展示了如何使用Bash脚本和Web应用程序进行音频输入和输出，并讨论了音频处理的成本，指出OpenAI的音频处理费用较高，与Google的Gemini模型相比，OpenAI的音频输入费用是后者的32倍。</description>
+      <pubDate>2024-10-18 15:17:40</pubDate>
+    </item>
+  
+    <item>
+      <title>What Happens When Software Projects End at Atomic Object</title>
+      <link>https://spin.atomicobject.com/software-projects-end-atomic/</link>
+      <description>当软件项目在Atomic Object结束时，有三种可能的发展方向：一是将维护责任转交给客户；二是签订维护合同，由Atomic提供定期维护服务；三是建立持续改进合作，定期进行项目改进和功能开发。无论选择哪种方式，Atomic都致力于确保项目顺利过渡。</description>
+      <pubDate>2024-10-18 15:05:54</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET Conf 2024 Student Zone</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnetconf-2024-student-zone/</link>
+      <description>.NET Conf 2024学生区将举办两次虚拟活动，旨在帮助初学者使用C#和.NET构建项目。活动包括构建个人项目、AI演示项目和职业准备讨论。活动时间分别为11月18日和11月19日，内容相同，适合所有水平的参与者。</description>
+      <pubDate>2024-10-18 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>10 Best Social Media Marketing Tools for 2024</title>
+      <link>https://s14415.pcdn.co/blog/social-media-marketing-tools/</link>
+      <description>2024年最佳社交媒体营销工具盘点：本文介绍了10款热门的社交媒体营销工具，包括Brandwatch、Sprout Social、Hootsuite、Buffer、Loomly、Meltwater和Mention等，这些工具可以帮助企业更有效地管理社交媒体，提高营销效果。选择合适的工具需要考虑覆盖范围、功能支持、预算、公司需求和使用便捷性等因素。</description>
+      <pubDate>2024-10-18 14:58:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Snook.ca is dead, long live Snook.ca!</title>
+      <link>http://snook.ca/archives/business/snookca-is-dead</link>
+      <description>Snook.ca Web Development, Inc. 已正式解散，但个人博客 Snook.ca 仍将继续。作者 Jonathan Snook 分享关于网页设计、开发和技术的见解。</description>
+      <pubDate>2024-10-18 14:16:41</pubDate>
     </item>
   
     <item>
@@ -62,6 +139,13 @@
     </item>
   
     <item>
+      <title>Consumers say bring on the pumpkin, but would appreciate a discount</title>
+      <link>https://algolia.com/blog/ecommerce/consumers-say-bring-on-the-pumpkin-but-would-appreciate-a-discount/</link>
+      <description>随着秋季的到来，消费者在食品和饮料方面的习惯发生了变化，67%的消费者会根据季节调整食谱和购物清单。60%的人更倾向于在秋季烘焙，而32%的人希望尽快享受南瓜风味。消费者在寻找烘焙和餐食灵感时，45%的人转向社交媒体，尤其是TikTok。尽管大多数消费者（72%）仍然选择亲自购物，但29%的人使用在线服务，包括Instacart或直接从超市下单取货。消费者希望在线购物时获得个性化推荐和更便捷的取货/配送选项。</description>
+      <pubDate>2024-10-18 10:52:07</pubDate>
+    </item>
+  
+    <item>
       <title>Finally upgrading from isc-dhcp-server to isc-kea for my homelab</title>
       <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
       <description>本文介绍了作者从isc-dhcp-server升级到isc-kea的过程。升级过程中，作者使用了Kea迁移助手工具，并详细介绍了Kea的安装和配置步骤。文章强调了Kea在维护和扩展方面的优势，并提供了具体的配置示例。</description>
@@ -104,6 +188,13 @@
     </item>
   
     <item>
+      <title>Test blog page</title>
+      <link>https://www.twilio.com/en-us/blog/test-publish-issue</link>
+      <description>Twilio提供全球通信解决方案，包括短信、语音、即时通讯和身份验证服务。其平台支持多渠道营销、客户数据统一和个性化客户体验，旨在帮助企业构建可靠的客户关系。</description>
+      <pubDate>2024-10-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cheap AI “video scraping” can now extract data from any screen recording</title>
       <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
       <description>廉价AI“视频抓取”技术现在可以从任何屏幕录制中提取数据，这项技术通过将屏幕录制视频输入AI模型，如ChatGPT，实现数据提取，为AI助手的发展带来新可能。尽管这项技术具有便利性，但也引发了隐私问题。</description>
@@ -115,6 +206,13 @@
       <link>https://www.digitalocean.com/blog/ilb-ea</link>
       <description>DigitalOcean推出内部负载均衡器，简化私有工作负载的扩展，支持私有IP地址进行负载均衡，提高安全性，并允许与全球负载均衡器结合使用以实现全球扩展。</description>
       <pubDate>2024-10-17 21:46:08</pubDate>
+    </item>
+  
+    <item>
+      <title>LocalXpose: The Most Useful Tool for Developers to Share Localhost Online</title>
+      <link>https://www.sitepoint.com/localxpose-share-localhost-online/?utm_source=rss</link>
+      <description>LocalXpose是一款专为开发者设计的工具，可轻松将本地服务器上的内容分享到互联网上。它通过创建安全的反向代理隧道，允许用户使用公共URL访问本地服务器，同时提供端到端加密、多协议支持、跨平台兼容性、自定义域名和详细日志等功能。LocalXpose不仅易于使用，而且安全性高，是提高开发效率和协作的理想选择。</description>
+      <pubDate>2024-10-17 21:16:04</pubDate>
     </item>
   
     <item>
@@ -1001,6 +1099,13 @@
     <item>
       <title>How to Get Verified on TikTok: A Complete Guide</title>
       <link>https://s14415.pcdn.co/blog/how-to-get-verified-on-tiktok/</link>
+      <description>如何获得TikTok认证：2024年完整指南。TikTok认证标志意味着内容真实，有助于提升信誉和社交媒体影响力。要获得认证，需保持活跃，遵守社区准则，创建独特内容，并在其他平台建立存在感。本文提供申请步骤、提高认证机会的策略和常见误解的解答。</description>
+      <pubDate>2024-10-15 09:00:43</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Get Verified on TikTok: A Complete Guide</title>
+      <link>https://www.brandwatch.com/blog/how-to-get-verified-on-tiktok/</link>
       <description>如何获得TikTok认证：2024年完整指南。TikTok认证标志意味着内容真实，有助于提升信誉和社交媒体影响力。要获得认证，需保持活跃，遵守社区准则，创建独特内容，并在其他平台建立存在感。本文提供申请步骤、提高认证机会的策略和常见误解的解答。</description>
       <pubDate>2024-10-15 09:00:43</pubDate>
     </item>
