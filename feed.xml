@@ -13,6 +13,90 @@
     </item>
   
     <item>
+      <title>Designer Spotlight: Serhii Polyvanyi</title>
+      <link>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</link>
+      <description>Serhii Polyvanyi是一位获奖的创意数字设计师，以其简约主义和动画技术著称。他的设计结合了不对称的排版、非传统的网格、光影效果、声音设计、分形效果和动态元素，创造出独特而富有影响力的作品。Polyvanyi的作品在保持简约的同时，通过巧妙运用色彩和光影，传达出强烈的视觉和情感冲击。他的设计哲学强调简洁、几何和情感，并不断探索创新技术，如AI和WebGL，以实现从品牌识别到视觉效果的全方位设计。</description>
+      <pubDate>2024-10-18 13:38:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Comptoir Gen IA - OCTO x GCP</title>
+      <link>https://blog.octo.com/comptoir-gen-ia-octo-x-gcp</link>
+      <description>本文探讨了如何部署和优化生成式AI解决方案，包括控制LLMs的非确定性、确保系统弹性、保障交互安全以及工业级使用LLMs。文章介绍了OCTO与GCP合作的Gen IA加速器，展示了两个Gen IA演示，包括一个生成广告的助手和一个基于RAG的聊天机器人。这些演示展示了如何通过自动化和优化来提高内容生成和用户交互的效率和质量。</description>
+      <pubDate>2024-10-18 13:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Legal Tech’s Future: How AI, Data Quality, and HITL Lead the Way</title>
+      <link>https://8thlight.com/insights/legal-techs-future-ai-data-hitl</link>
+      <description>法律科技的未来在于结合创新与法律专业的特定需求。通过构建专有的AI模型、采用RAG技术并保持人工介入，公司可以建立准确性的坚实基础。关注高质量数据、确保AI输出的透明度，并迅速适应新的法律框架，对于保持竞争优势至关重要。通过优先考虑这些要素，公司可以提供既提高效率又赢得法律专业人士和客户信任的AI解决方案。</description>
+      <pubDate>2024-10-18 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: AI for debates, and what to know about the Oropouche virus</title>
+      <link>https://www.technologyreview.com/2024/10/18/1105865/the-download-ai-for-debates-and-what-to-know-about-the-oropouche-virus/</link>
+      <description>MIT Technology Review最新报道，人工智能在辩论中帮助人们找到共同点，以及关于Oropouche病毒的传播情况。同时，报道了微软与OpenAI关系紧张、欧洲监管机构考虑对X罚款、FBI逮捕比特币推广者等科技新闻。</description>
+      <pubDate>2024-10-18 12:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using AWS Lambda with TimescaleDB for IoT Data Integration</title>
+      <link>https://www.timescale.com/blog/using-aws-lambda-with-timescaledb-for-iot-data-integration/</link>
+      <description>本文探讨了如何使用AWS Lambda与TimescaleDB结合，以实现物联网数据的集成。通过AWS Lambda的无服务器架构和TimescaleDB的时间序列数据库功能，开发者可以高效地处理和分析大量时间戳数据，特别适用于物联网应用。文章详细介绍了如何设置Lambda函数以访问TimescaleDB，包括创建Lambda函数、安装必要的库、使用Lambda层、设置环境变量以及连接到TimescaleDB。此外，还提供了最佳实践和注意事项，以确保数据处理的效率和安全性。</description>
+      <pubDate>2024-10-18 12:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #224: Narwhals: Expanding DataFrame Compatibility Between Libraries</title>
+      <link>https://realpython.com/podcasts/rpp/224/</link>
+      <description>《Real Python Podcast》第224期节目探讨了Narwhals项目，一个旨在增强不同数据帧库之间兼容性的工具。主持人Christopher Bailey与嘉宾Marco Gorelli讨论了Narwhals如何支持现代特性如懒加载，以及它与Altair、scikit-lego和Ibis等项目的合作。Gorelli分享了他在开源项目中的贡献经验，并提供了如何开始贡献的建议。</description>
+      <pubDate>2024-10-18 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #873</title>
+      <link>https://tympanus.net/codrops/collective/collective-873/</link>
+      <description>本周前端朋友们，我们带来了《Plain Vanilla》和《Three.js Journey》的40%折扣，Joeri Sebrechts展示了如何仅使用原生技术构建网页项目，同时讨论了Automattic与WP Engine的争议、CSS更新和新CSS标志的创建。</description>
+      <pubDate>2024-10-18 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Finally upgrading from isc-dhcp-server to isc-kea for my homelab</title>
+      <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
+      <description>本文介绍了作者从isc-dhcp-server升级到isc-kea的过程。升级过程中，作者使用了Kea迁移助手工具，并详细介绍了Kea的安装和配置步骤。文章强调了Kea在维护和扩展方面的优势，并提供了具体的配置示例。</description>
+      <pubDate>2024-10-18 10:45:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Oropouche virus is spreading. Here’s what we know.</title>
+      <link>https://www.technologyreview.com/2024/10/18/1105829/oropouche-virus-spreading-heres-what-we-know/</link>
+      <description>奥罗普切病毒正在传播，这种通过蚊虫叮咬传播的病毒似乎正在扩散到新的地区，并发生基因变化，可能对胎儿造成伤害。病毒已导致一些病例出现严重疾病，包括脑炎和脑膜炎，甚至有死亡病例。目前尚无治疗方法和疫苗。病毒可能通过孕妇传染给胎儿，导致死产和出生缺陷。研究人员发现，病毒已发生基因重组，可能使其在哺乳动物细胞中复制得更好，并更具致病性。</description>
+      <pubDate>2024-10-18 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: Friday On My Mind</title>
+      <link>https://thedailywtf.com/articles/friday-on-my-mind</link>
+      <description>《周五心情》讲述了作者Lyle Seaman分享的关于亚马逊在线零售错误的趣事，包括AI推荐已故作家厄内斯特·海明威的新书，以及消费者在购物时遇到的种种误会和错误信息。这些故事揭示了在线零售中常见的数据问题和营销失误。</description>
+      <pubDate>2024-10-18 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cypress Namespaces For Custom Commands</title>
+      <link>https://glebbahmutov.com/blog/cypress-namespaces/</link>
+      <description>本文介绍了如何使用Cypress测试框架中的命名空间来组织自定义命令。作者展示了如何创建自定义命令、将其添加到命名空间中，并更新类型定义文件。通过这种方式，可以更清晰地管理大量自定义命令，提高代码的可读性和可维护性。</description>
+      <pubDate>2024-10-18 04:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cancel a Specific Batch of Queued Jobs With This Laravel Package</title>
+      <link>https://laravel-news.com/cancel-a-specific-batch-in-laravel</link>
+      <description>Laravel News介绍了Laravel Queue Cancel Batch包，该包提供命令取消特定批次的队列任务。用户可通过命令行选择批次或使用UUID进行取消。该包适用于Laravel 10和11版本，可通过Composer安装。</description>
+      <pubDate>2024-10-18 03:49:04</pubDate>
+    </item>
+  
+    <item>
       <title>Calculating the norm of a complex number</title>
       <link>https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/</link>
       <description>本文解释了复数范数的计算方法。通常，计算复数z的范数平方（也称为绝对平方）很有用，表示为|z|^2。文章指出，直接计算zz是错误的，正确的计算方法是zz*，其中z*是z的共轭复数。通过这种方式，我们得到一个实数，即范数平方，它准确地表示了复数的“长度”。</description>
