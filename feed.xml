@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How API security is evolving for the GenAI era</title>
+      <link>https://stackoverflow.blog/2024/10/18/how-api-security-is-evolving-for-the-genai-era/</link>
+      <description>API安全在GenAI时代的发展变化，Ben Popper与Solo.io产品负责人Keith Babo探讨了AI时代API安全领域的变革，包括治理在AI中的作用、数据保护的重要性以及API网关在增强安全和功能方面的作用。Babo分享了关于检索增强生成（RAG）系统、保护个人身份信息（PII）以及人机协作AI开发的见解。</description>
+      <pubDate>2024-10-18 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Calculating the norm of a complex number</title>
+      <link>https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/</link>
+      <description>本文解释了复数范数的计算方法。通常，计算复数z的范数平方（也称为绝对平方）很有用，表示为|z|^2。文章指出，直接计算zz是错误的，正确的计算方法是zz*，其中z*是z的共轭复数。通过这种方式，我们得到一个实数，即范数平方，它准确地表示了复数的“长度”。</description>
+      <pubDate>2024-10-18 02:45:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cheap AI “video scraping” can now extract data from any screen recording</title>
       <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
       <description>廉价AI“视频抓取”技术现在可以从任何屏幕录制中提取数据，这项技术通过将屏幕录制视频输入AI模型，如ChatGPT，实现数据提取，为AI助手的发展带来新可能。尽管这项技术具有便利性，但也引发了隐私问题。</description>
