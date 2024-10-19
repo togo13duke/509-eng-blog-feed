@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How I Defeated An MMO Game Hack Author</title>
+      <link>https://thecodist.com/how-i-defeated-an-mmo-game-hack-author/</link>
+      <description>在2000年代后期，作者在一家小型MMO游戏公司工作，发现一款游戏被黑客攻击。他深入调查，发现黑客来自中国，并购买了黑客软件以了解其工作原理。作者通过修改游戏代码，使黑客难以更新，并最终识别出使用黑客的用户。公司决定暂时不采取行动，黑客最终放弃并停止了产品。作者认为，游戏中的作弊行为破坏了游戏的乐趣，并强调游戏的核心在于挑战。</description>
+      <pubDate>2024-10-19 17:25:59</pubDate>
+    </item>
+  
+    <item>
       <title>Trying to Land Your First Job In Tech Post-Grad? 3 Things Not to Do</title>
       <link>https://spin.atomicobject.com/dos-donts-first-tech-job/</link>
       <description>在寻找第一份技术工作时，不要停止学习，重视软技能，避免阅读在线的负面故事，并专注于个人成长。持续学习新技术，提升沟通、解决问题和时间管理等软技能，保持积极心态，将有助于成功找到理想的工作。</description>
@@ -37,6 +44,13 @@
       <title>Some great open-source alternatives to Postman</title>
       <link>https://www.amitmerchant.com/some-great-open-source-alternatives-to-postman/</link>
       <description>本文介绍了Postman的几个开源替代品，包括HTTPie、Yaak、Hoppscotch、Bruno、Insomnia和Thunder Client。这些工具各有特点，如HTTPie是一个命令行工具，Yaak支持多种协议，Hoppscotch是浏览器端应用，Bruno界面简洁，Insomnia功能丰富，Thunder Client则集成在代码编辑器中。</description>
+      <pubDate>2024-10-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Serendipity</title>
+      <link>http://lucumr.pocoo.org/2024/10/19/serendipity</link>
+      <description>生命从一张空白的页面开始，两颗灵魂相遇，携手共度时光，用爱与希望填满生活。在欢笑与泪水交织中，彼此成为生命中不可或缺的存在，共同经历喜悦、悲伤、痛苦和坚持，为彼此的存在赋予意义。</description>
       <pubDate>2024-10-19 00:00:00</pubDate>
     </item>
   
