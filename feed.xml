@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Trying to Land Your First Job In Tech Post-Grad? 3 Things Not to Do</title>
+      <link>https://spin.atomicobject.com/dos-donts-first-tech-job/</link>
+      <description>在寻找第一份技术工作时，不要停止学习，重视软技能，避免阅读在线的负面故事，并专注于个人成长。持续学习新技术，提升沟通、解决问题和时间管理等软技能，保持积极心态，将有助于成功找到理想的工作。</description>
+      <pubDate>2024-10-19 12:00:31</pubDate>
+    </item>
+  
+    <item>
+      <title>PrometheusRemoteWriteExporter: A Comprehensive Guide</title>
+      <link>https://last9.io/blog/prometheusremotewriteexporter-a-comprehensive-guide/</link>
+      <description>本文全面介绍了Prometheus RemoteWrite Exporter，一个用于将OpenTelemetry指标发送到Prometheus兼容后端的工具。文章涵盖了配置、与Kubernetes和Docker的集成、高级配置和最佳实践，以及常见问题的解决方法。总结来说，Prometheus RemoteWrite Exporter是连接OpenTelemetry和Prometheus生态系统的重要组件，有助于实现高效的监控和告警。</description>
+      <pubDate>2024-10-19 09:54:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Azalea: a science-fiction story</title>
+      <link>https://www.technologyreview.com/2024/10/19/1105142/azalea-science-fiction-paolo-bacigalupi-climate-change/</link>
+      <description>《杜鹃花》：一个关于不平等的科幻故事，作者Paolo Bacigalupi描绘了一个由气候变化和其他力量塑造的未来世界。故事讲述了Xia和Tascha在极端气候条件下努力生存，同时面对政治斗争和科技发展带来的挑战。</description>
+      <pubDate>2024-10-19 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GraphQL tip: Only make fields required if they are present for all users</title>
+      <link>https://advancedweb.hu/shorts/graphql-tip-only-make-fields-required-if-they-are-present-for-all-users/</link>
+      <description>在GraphQL中，仅当字段对所有用户都存在时才将其标记为必填。例如，如果某个字段在某些用户中可能为空（如不同访问级别），则应将其设置为可选。字段应仅在所有情况下都返回值时才标记为必填。</description>
+      <pubDate>2024-10-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Some great open-source alternatives to Postman</title>
+      <link>https://www.amitmerchant.com/some-great-open-source-alternatives-to-postman/</link>
+      <description>本文介绍了Postman的几个开源替代品，包括HTTPie、Yaak、Hoppscotch、Bruno、Insomnia和Thunder Client。这些工具各有特点，如HTTPie是一个命令行工具，Yaak支持多种协议，Hoppscotch是浏览器端应用，Bruno界面简洁，Insomnia功能丰富，Thunder Client则集成在代码编辑器中。</description>
+      <pubDate>2024-10-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>New research: Write more clearly and become a super communicator</title>
       <link>https://www.atlassian.com/blog/communication/clear-writing-experiment</link>
       <description>新研究表明，通过使用“Smart Brevity”方法，可以教会团队清晰、有影响力的写作，从而节省时间。这种方法通过教授人们如何“写得更少，说得更多”来提高沟通的清晰度和效率。研究表明，无论角色如何，清晰写作都能带来好处。通过AI和Slack两种方法，参与者通过Smart Brevity培训后，写作清晰度和效率显著提高。</description>
@@ -377,6 +412,13 @@
       <title>Optimizing your container registry: Understanding garbage collection in DOCR</title>
       <link>https://www.digitalocean.com/blog/garbage-collection-digitalocean-container-registry</link>
       <description>DigitalOcean的容器注册库（DOCR）通过垃圾回收机制清理未使用的数据，以优化存储空间和性能。垃圾回收过程分为扫描和删除两个阶段，确保容器镜像的有序管理。对于大型注册库，引入了部分垃圾回收功能，允许用户中断并恢复垃圾回收过程。定期运行垃圾回收有助于维护高效且成本效益高的容器化基础设施。</description>
+      <pubDate>2024-10-17 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Single and Double Underscores in Python Names</title>
+      <link>https://realpython.com/quizzes/python-double-underscore/</link>
+      <description>本篇博客文章是关于Python中单下划线和双下划线在命名中的使用。文章通过一个互动测验，帮助读者复习Python的命名约定，包括如何使用单下划线区分公共和非公共名称，以及如何使用双下划线实现Python类中的名称混淆等。测验包含9个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
       <pubDate>2024-10-17 12:00:00</pubDate>
     </item>
   
