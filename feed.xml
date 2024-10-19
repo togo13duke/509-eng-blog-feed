@@ -195,6 +195,15 @@
     </item>
   
     <item>
+      <title>Subdomain takeover: ignore this vulnerability at your peril</title>
+      <link>https://www.honeybadger.io/blog/subdomain-takeover/</link>
+      <description>域名劫持：忽视这一漏洞将带来严重后果
+
+本文探讨了域名劫持这一安全漏洞，解释了其如何通过悬挂的CNAME记录被利用，以及它可能对组织造成的损害。文章详细描述了攻击者可能采取的攻击方式，包括网站篡改、钓鱼、窃取广泛范围的cookies、跨站请求伪造和滥用CORS。最后，提供了避免域名劫持的建议，包括将域名劫持纳入威胁模型、保持良好的DNS卫生、谨慎选择供应商和关闭攻击窗口。</description>
+      <pubDate>2024-10-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cheap AI “video scraping” can now extract data from any screen recording</title>
       <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
       <description>廉价AI“视频抓取”技术现在可以从任何屏幕录制中提取数据，这项技术通过将屏幕录制视频输入AI模型，如ChatGPT，实现数据提取，为AI助手的发展带来新可能。尽管这项技术具有便利性，但也引发了隐私问题。</description>
