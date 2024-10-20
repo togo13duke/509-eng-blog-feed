@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Laracon AU with Michael Dyrynda</title>
+      <link>https://laravel-news.com/laracon-au-michael-dyrynda</link>
+      <description>Laracon AU创始人Michael Dyrynda在Laravel News Creator Spotlight中接受采访，讨论了在会议上建立人脉的重要性，以及他创建Laracon AU的旅程和今年社交活动的改进。他还分享了社区在开发中的作用、播客经历，并为新开发者提供了建议。</description>
+      <pubDate>2024-10-19 21:30:22</pubDate>
+    </item>
+  
+    <item>
       <title>How I Defeated An MMO Game Hack Author</title>
       <link>https://thecodist.com/how-i-defeated-an-mmo-game-hack-author/</link>
       <description>在2000年代后期，作者在一家小型MMO游戏公司工作，发现一款游戏被黑客攻击。他深入调查，发现黑客来自中国，并购买了黑客软件以了解其工作原理。作者通过修改游戏代码，使黑客难以更新，并最终识别出使用黑客的用户。公司决定暂时不采取行动，黑客最终放弃并停止了产品。作者认为，游戏中的作弊行为破坏了游戏的乐趣，并强调游戏的核心在于挑战。</description>
       <pubDate>2024-10-19 17:25:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Running Llama 3.2 Vision and Phi-3.5 Vision on a Mac with mistral.rs</title>
+      <link>https://simonwillison.net/2024/Oct/19/mistralrs/#atom-entries</link>
+      <description>在Mac上使用mistral.rs运行Llama 3.2 Vision和Phi-3.5 Vision模型，通过Rust库mistral.rs实现了在Mac上运行这些模型，并进行了图像描述的实验，展示了模型在视觉识别和描述方面的能力。</description>
+      <pubDate>2024-10-19 16:14:20</pubDate>
     </item>
   
     <item>
@@ -51,6 +65,13 @@
       <title>Serendipity</title>
       <link>http://lucumr.pocoo.org/2024/10/19/serendipity</link>
       <description>生命从一张空白的页面开始，两颗灵魂相遇，携手共度时光，用爱与希望填满生活。在欢笑与泪水交织中，彼此成为生命中不可或缺的存在，共同经历喜悦、悲伤、痛苦和坚持，为彼此的存在赋予意义。</description>
+      <pubDate>2024-10-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Creating a Keyboard Shortcut Hook in React (Deep Dive)</title>
+      <link>https://www.taniarascia.com/keyboard-shortcut-hook-react/</link>
+      <description>本文深入探讨了在React中创建键盘快捷方式钩子的方法。作者创建了一个自定义React钩子，用于处理键盘快捷方式，包括单个键、组合键和序列键。该钩子确保了事件处理函数的缓存、使用最新函数值以及防止在文本输入时运行快捷方式。文章还讨论了性能优化、避免旧状态的问题，并提供了示例代码。</description>
       <pubDate>2024-10-19 00:00:00</pubDate>
     </item>
   
