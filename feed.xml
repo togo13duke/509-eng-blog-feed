@@ -48,6 +48,13 @@
     </item>
   
     <item>
+      <title>The Nine Trillion Parameters of God</title>
+      <link>https://blog.rinesi.com/2024/10/the-nine-trillion-parameters-of-god</link>
+      <description>公司通过结合最新内容生成模型和营销优化代码，试图创造一种病毒式传播的宗教。他们从宗教成功案例中学习，不断调整原型，最终创造出一种既熟悉又新颖的宗教，吸引了大量信徒。随着信徒数量的增加，公司不得不重新考虑控制措施，但最终他们发现这种宗教的吸引力如此之大，以至于他们无法拒绝它，并开始将其视为世界历史和终结的一部分。</description>
+      <pubDate>2024-10-19 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>GraphQL tip: Only make fields required if they are present for all users</title>
       <link>https://advancedweb.hu/shorts/graphql-tip-only-make-fields-required-if-they-are-present-for-all-users/</link>
       <description>在GraphQL中，仅当字段对所有用户都存在时才将其标记为必填。例如，如果某个字段在某些用户中可能为空（如不同访问级别），则应将其设置为可选。字段应仅在所有情况下都返回值时才标记为必填。</description>
@@ -72,6 +79,13 @@
       <title>Creating a Keyboard Shortcut Hook in React (Deep Dive)</title>
       <link>https://www.taniarascia.com/keyboard-shortcut-hook-react/</link>
       <description>本文深入探讨了在React中创建键盘快捷方式钩子的方法。作者创建了一个自定义React钩子，用于处理键盘快捷方式，包括单个键、组合键和序列键。该钩子确保了事件处理函数的缓存、使用最新函数值以及防止在文本输入时运行快捷方式。文章还讨论了性能优化、避免旧状态的问题，并提供了示例代码。</description>
+      <pubDate>2024-10-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing AI Assistance in Chrome DevTools</title>
+      <link>https://addyosmani.com/blog/ai-assistance/</link>
+      <description>Chrome DevTools新增AI辅助功能，旨在提升开发者效率。该功能通过Google的Gemini AI模型，提供针对DOM结构和样式的智能建议，简化CSS调试过程。目前处于实验阶段，欢迎开发者试用并反馈。</description>
       <pubDate>2024-10-19 00:00:00</pubDate>
     </item>
   
