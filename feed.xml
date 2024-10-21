@@ -6,10 +6,61 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>These companies are creating food out of thin air</title>
+      <link>https://www.technologyreview.com/2024/10/21/1105171/air-protein-biotech-solar-foods-novonutrients-alternative-protein/</link>
+      <description>新型生物技术初创公司正在利用细菌和二氧化碳生产蛋白质，以减少对传统农业的依赖。这些公司如Air Protein和Solar Foods，通过发酵技术将空气中的二氧化碳转化为富含营养的蛋白质粉末，旨在提供一种更可持续的食品来源。这种方法不仅减少了土地和水的使用，还可能降低温室气体排放。然而，这些产品仍处于发展阶段，需要克服生产规模、成本和消费者接受度等挑战。</description>
+      <pubDate>2024-10-21 12:56:27</pubDate>
+    </item>
+  
+    <item>
+      <title>IoT With Me: Measure and Send Distances over Wi-Fi with the ESP-12E and Ultrasonic Sensor</title>
+      <link>https://spin.atomicobject.com/iot-esp12e-ultrasonic-sensor/</link>
+      <description>本文介绍了如何使用ESP8266 ESP-12E开发板和超声波传感器通过Wi-Fi测量并发送距离。作者详细描述了IDE设置、硬件连接和测试过程，包括如何编写代码以实现HTTP通信和距离测量。通过该项目，作者展示了如何将距离传感器数据通过Wi-Fi发送到网络，为物联网项目提供了基础。</description>
+      <pubDate>2024-10-21 12:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Getting Started with Piecesjs: Building Native Web Components with a Lightweight Framework</title>
+      <link>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</link>
+      <description>《Piecesjs入门：使用轻量级框架构建原生Web组件》介绍了Piecesjs框架，它基于原生Web组件，提供了一套针对创意网站的工具和实用程序。该框架简化了与原生Web组件一起工作的过程，允许动态管理组件，同时优化性能。文章详细介绍了如何创建和加载组件，以及如何使用Piecesjs进行交互式体验的开发。</description>
+      <pubDate>2024-10-21 09:47:28</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Repost on Instagram Successfully: Your Guide for Sharing Insta Content</title>
+      <link>https://s14415.pcdn.co/blog/repost-on-instagram/</link>
+      <description>如何成功在Instagram上转发内容：分享Instagram内容的指南
+
+本文详细介绍了如何在Instagram上转发内容，包括转发到故事、网格和Reels，以及转发自己内容的方法。文章强调了在转发他人内容时请求许可和给予适当信用的重要性，并提供了最佳实践，以确保转发行为既尊重原创者，又能提升品牌形象。</description>
+      <pubDate>2024-10-21 08:49:46</pubDate>
+    </item>
+  
+    <item>
+      <title>A new constant expression interpreter for Clang, Part 2</title>
+      <link>https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang-part-2</link>
+      <description>Clang新常量表达式解释器已取得显著进展，支持未初始化局部变量、浮点数和复数，并改进了初始化器处理。该解释器仍处于实验阶段，但已支持更多内置函数和C++20特性。未来将专注于支持更多标准库构造，如128位整数和指针转换。</description>
+      <pubDate>2024-10-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A new constant expression interpreter for Clang</title>
+      <link>https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang</link>
+      <description>新常量表达式解释器为Clang带来性能提升。该解释器通过在编译时而非运行时执行计算，优化了C和C++代码的运行性能。它使用字节码来提高重复解释的效率，并在某些情况下显著减少了执行时间。目前，该解释器仍处于开发阶段，支持多种表达式类型，但仍有改进空间。</description>
+      <pubDate>2024-10-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Red Hat publishes Docker Hub Images for Granite-7B LLM and InstructLab</title>
       <link>https://developers.redhat.com/articles/2024/10/21/red-hat-publishes-docker-hub-images-granite-7b-llm-and-instructlab</link>
       <description>Red Hat发布Docker Hub镜像，简化了使用Granite-7B LLM和InstructLab等大型语言模型的过程。这些镜像支持桌面和服务器环境，有助于在多种环境中进行AI模型开发和优化。</description>
       <pubDate>2024-10-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Perfect Test Coverage</title>
+      <link>https://thedailywtf.com/articles/perfect-test-coverage</link>
+      <description>Remy Porter在《Daily WTF》上撰文，批评了某公司追求100%测试覆盖率却只进行类型断言测试的做法。他指出，这种测试虽然能保证代码覆盖率，但实际上并未测试功能，且很多断言在编译时已被捕获，导致测试缺乏实际价值。</description>
+      <pubDate>2024-10-21 06:30:00</pubDate>
     </item>
   
     <item>
@@ -37,6 +88,20 @@
       <title>Putting MLOps into practice effectively with the help of Databricks</title>
       <link>https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/Putting-MLOps-into-practice-effectively-with-the-help-of-Databricks</link>
       <description>MLOps（机器学习运营）在当今数据驱动时代变得至关重要，它确保机器学习模型高效部署并持续维护。本文探讨了MLOps的关键挑战，如代码组织、测试驱动开发、工作流程自动化、实验跟踪和版本控制等，并介绍了Databricks如何通过其功能简化MLOps实践。MLOps对于提高机器学习模型部署速度和AI产品开发至关重要。</description>
+      <pubDate>2024-10-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Kubernetes networking: service, kube-proxy, load balancing</title>
+      <link>https://learnk8s.io/kubernetes-services-and-load-balancing</link>
+      <description>本文探讨了Kubernetes网络，重点介绍了服务、kube-proxy和负载均衡。文章涵盖了Pod如何在集群内通信、服务如何引导流量以及如何管理外部访问。探讨了ClusterIP、NodePort和LoadBalancer服务类型，并深入探讨了它们的iptables规则实现。还讨论了高级主题，如保留源IP、处理终止端点和与云负载均衡器的集成。</description>
+      <pubDate>2024-10-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>From contributor to Elastician: Insider tips from former Gold Contributor João Neto</title>
+      <link>https://www.elastic.co/blog/insider-tips-from-former-gold-contributor-joao-neto</link>
+      <description>前Elastic金级贡献者João Neto分享了他成为Elastic贡献者之路的经验和心得。他强调，通过参与Elastic贡献者项目，他不仅获得了宝贵的技能和知识，还在个人和职业生活中取得了显著成就。Neto鼓励新成员积极参与，享受旅程，并分享自己的知识和经验。</description>
       <pubDate>2024-10-21 00:00:00</pubDate>
     </item>
   
