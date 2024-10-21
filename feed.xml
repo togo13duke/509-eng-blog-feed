@@ -6,6 +6,90 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more (October 21, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/</link>
+      <description>AWS本周发布了多项新功能，包括Serverless Agentic Workflows、Amazon Transcribe支持更多语言、AWS Lambda实时日志分析等。此外，还推出了Amazon Q供应链分析工具和新的AWS事件，如GenAI Lofts和AWS re:Invent。</description>
+      <pubDate>2024-10-21 18:51:26</pubDate>
+    </item>
+  
+    <item>
+      <title>MongoDB EF Core Provider: What’s New?</title>
+      <link>https://devblogs.microsoft.com/dotnet/mongodb-ef-core-provider-whats-new/</link>
+      <description>MongoDB EF Core Provider的最新功能包括动态添加实体属性、索引管理、复杂查询以及事务和乐观并发控制。这些功能通过MongoDB Atlas和.NET平台实现，支持灵活的数据库操作和数据管理。</description>
+      <pubDate>2024-10-21 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Securing the open source supply chain: The essential role of CVEs</title>
+      <link>https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/</link>
+      <description>GitHub博客文章《确保开源供应链安全：CVEs的关键作用》强调了CVEs在开源软件安全中的重要性。随着CVE数据量激增，GitHub通过CVEs和GitHub安全实验室支持开源社区，提高软件安全性。文章指出，CVEs作为公开已知安全漏洞的目录，对于行业内的自动化漏洞管理工具至关重要。尽管数据量增加可能导致信息过载，但透明度提升有助于提高整体安全性。</description>
+      <pubDate>2024-10-21 16:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>From Prototype to Production</title>
+      <link>https://blog.palantir.com/from-prototype-to-production-engineering-responsible-ai-3-ea18818cd222?source=rss----3c87dc14372f---4</link>
+      <description>Palantir的AI系统测试与评估是确保AI解决方案在实际环境中可靠和有效的重要步骤。通过AIP Evals工具，Palantir提供了一套全面的测试和评估功能，帮助组织从原型过渡到生产环境。这些工具支持迭代测试，并允许对AI系统进行数据驱动的改进，从而确保AI解决方案的可靠性和可信赖性。</description>
+      <pubDate>2024-10-21 15:58:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Inside a container registry: The mechanics of push and pull</title>
+      <link>https://www.digitalocean.com/blog/inside-container-registry-mechanics-of-push-pull</link>
+      <description>本文深入探讨了容器注册库中图像推送和拉取的机制。文章详细解释了图像的组成，包括索引、清单、配置和层，以及它们如何在客户端和注册库之间传输。此外，还讨论了从私有注册库获取授权信息的步骤，以及推送图像时使用的不同上传方法。</description>
+      <pubDate>2024-10-21 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Everything I built with Claude Artifacts this week</title>
+      <link>https://simonwillison.net/2024/Oct/21/claude-artifacts/#atom-entries</link>
+      <description>本周，我利用Claude Artifacts功能创建了多个项目，包括从URL到Markdown的转换、SQLite in WASM演示、URL提取、剪贴板查看器、Pyodide REPL、相机设置模拟器、LLM定价计算器、YAML到JSON转换器、OpenAI音频工具、QR码解码器、图像转换和下载器、HTML实体转义器、文本包裹平衡导航、ARES音标字母转换器等。这些工具大多在几分钟内完成，展示了Claude Artifacts在快速原型设计和解决问题方面的强大功能。</description>
+      <pubDate>2024-10-21 14:32:57</pubDate>
+    </item>
+  
+    <item>
+      <title>How We Generated Millions of Content Annotations</title>
+      <link>https://engineering.atspotify.com/2024/10/how-we-generated-millions-of-content-annotations/</link>
+      <description>Spotify通过开发一个大规模的标注平台，显著提高了机器学习和生成式AI模型的数据标注效率。该平台通过扩展人类专家的知识、实施标注工具和建立基础设施，实现了数百万条标注数据的收集。这加速了新模型的开发和现有系统的迭代，同时确保了高质量标注的民主化。</description>
+      <pubDate>2024-10-21 14:19:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Python's property(): Add Managed Attributes to Your Classes</title>
+      <link>https://realpython.com/python-property/</link>
+      <description>Python的`property()`函数允许在类中创建受管理的属性，以避免直接修改属性而破坏公共API。通过使用`property()`，可以创建getter和setter方法，实现属性的读取和修改，同时保持代码的封装性和可维护性。本教程介绍了如何使用`property()`创建受管理的属性，包括只读属性、读写属性和计算属性，以及如何处理属性访问和修改的日志记录。通过学习这些，可以更有效地管理类属性，提高代码的健壮性和可扩展性。</description>
+      <pubDate>2024-10-21 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Investing in AI to build next-generation infrastructure</title>
+      <link>https://www.technologyreview.com/2024/10/21/1105545/investing-in-ai-to-build-next-generation-infrastructure/</link>
+      <description>人工智能投资于下一代基础设施的建设，通过提高效率、减少成本和风险，帮助解决全球基础设施短缺问题。AI在自动化重复性任务、优化资源使用和设计可持续性方面发挥着重要作用，但需要工程师的监督和创造力来确保安全和合规。</description>
+      <pubDate>2024-10-21 13:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pan Analytics Viewer</title>
+      <link>https://laravel-news.com/pan-analytics-viewer</link>
+      <description>Laravel社区对Pan分析包的发布感到兴奋，开发者Lukas Mateffy推出了名为Pan Analytics Viewer的Laravel包，允许用户在UI中直接查看panphp/pan分析，无需运行cli命令。安装包后，通过blade模板添加组件即可查看具有[data-pan]属性的元素分析。更多信息可在GitHub上查看。</description>
+      <pubDate>2024-10-21 13:26:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel performance monitoring in Honeybadger</title>
+      <link>https://laravel-news.com/honeybadger-laravel-performance-monitoring</link>
+      <description>Honeybadger推出Laravel性能监控工具，包括新的性能仪表板和自动性能事件发送功能。仪表板提供多种监控选项，如请求计数、响应分布、作业持续时间等。通过升级到最新版本的composer包并启用Honeybadger Insights，开发者可以轻松监控Laravel应用性能。</description>
+      <pubDate>2024-10-21 13:26:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Using Docker AI Tools for Devs to Provide Context for Better Code Fixes</title>
+      <link>https://www.docker.com/blog/using-docker-ai-tools-for-devs-to-provide-context-for-better-code-fixes/</link>
+      <description>Docker Labs正在探索如何利用AI工具为开发者提供代码修复的上下文，以提高代码质量。通过将Pylint等工具容器化，并利用LLM（大型语言模型）处理代码上下文，Docker开发了一个系统，使LLM能够更有效地修复代码问题。这种方法通过自动化和优化开发流程，使编程体验更加高效。</description>
+      <pubDate>2024-10-21 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>These companies are creating food out of thin air</title>
       <link>https://www.technologyreview.com/2024/10/21/1105171/air-protein-biotech-solar-foods-novonutrients-alternative-protein/</link>
       <description>新型生物技术初创公司正在利用细菌和二氧化碳生产蛋白质，以减少对传统农业的依赖。这些公司如Air Protein和Solar Foods，通过发酵技术将空气中的二氧化碳转化为富含营养的蛋白质粉末，旨在提供一种更可持续的食品来源。这种方法不仅减少了土地和水的使用，还可能降低温室气体排放。然而，这些产品仍处于发展阶段，需要克服生产规模、成本和消费者接受度等挑战。</description>
@@ -13,10 +97,24 @@
     </item>
   
     <item>
+      <title>The Download: food from thin air, and finding new materials</title>
+      <link>https://www.technologyreview.com/2024/10/21/1105959/the-download-food-from-thin-air-and-finding-new-materials/</link>
+      <description>科技初创公司利用碳消耗细菌和资本，从空气中制造食物，旨在减少排放。同时，Meta公司发布大量数据集和模型，以加快科学家利用AI发现新材料。</description>
+      <pubDate>2024-10-21 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>IoT With Me: Measure and Send Distances over Wi-Fi with the ESP-12E and Ultrasonic Sensor</title>
       <link>https://spin.atomicobject.com/iot-esp12e-ultrasonic-sensor/</link>
       <description>本文介绍了如何使用ESP8266 ESP-12E开发板和超声波传感器通过Wi-Fi测量并发送距离。作者详细描述了IDE设置、硬件连接和测试过程，包括如何编写代码以实现HTTP通信和距离测量。通过该项目，作者展示了如何将距离传感器数据通过Wi-Fi发送到网络，为物联网项目提供了基础。</description>
       <pubDate>2024-10-21 12:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Conditional SwiftUI Accessibility Labels</title>
+      <link>https://useyourloaf.com/blog/conditional-swiftui-accessibility-labels/</link>
+      <description>在iOS 18中，Apple为许多可访问性修饰符添加了可选的isEnabled参数，允许根据条件应用修饰符，例如根据项目是否被收藏来改变按钮的访问性标签。这种方法可以避免重复默认标签，提高代码的简洁性和可维护性。</description>
+      <pubDate>2024-10-21 10:08:21</pubDate>
     </item>
   
     <item>
