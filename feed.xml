@@ -13,10 +13,122 @@
     </item>
   
     <item>
+      <title>Upgraded Claude 3.5 Sonnet from Anthropic (available now), computer use (public beta), and Claude 3.5 Haiku (coming soon) in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/</link>
+      <description>Anthropic的Claude 3.5 Sonnet在Amazon Bedrock中升级，新增了更智能的模型、计算机使用能力和即将推出的Claude 3.5 Haiku。升级后的模型在软件工程任务、知识问答平台和自动化重复任务方面表现出色，同时支持与计算机界面交互，为AI应用开辟了新可能性。</description>
+      <pubDate>2024-10-22 18:55:45</pubDate>
+    </item>
+  
+    <item>
+      <title>No, the bug is in your code (and mine)</title>
+      <link>https://codeblog.jonskeet.uk/2024/10/22/no-the-bug-is-in-your-code-and-mine/</link>
+      <description>在诊断代码问题时，作者建议首先假设问题出在自己代码中，并尝试可靠地重现问题。通过最小化代码来重现问题，可以更快地定位错误。如果问题仍然存在，应查阅文档，寻找可能的解释或歧义。如果问题确实存在，则应准备好以清晰的方式报告。作者强调，这种心态有助于快速解决问题，并避免不必要的误解。</description>
+      <pubDate>2024-10-22 18:35:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Sécurité applicative : le détournement des fonctions internes d'un programme</title>
+      <link>https://blog.octo.com/securite-applicative--le-detournement-des-fonctions-internes-d'un-programme</link>
+      <description>本文探讨了如何通过绕过程序内部函数来检测软件安全性。作者通过一个实际案例，展示了如何在不修改原始程序的情况下，使用技术手段提取敏感信息，如加密密钥和证书。文章详细介绍了如何创建一个“双胞胎”函数来替代原有的加密函数，从而在不影响程序正常运作的情况下，捕获并显示敏感数据。这种方法对于检测软件安全漏洞和评估软件安全性具有重要意义。</description>
+      <pubDate>2024-10-22 18:18:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Abstraction: Introduction</title>
+      <link>https://codeblog.jonskeet.uk/2024/10/22/abstraction-introduction/</link>
+      <description>本文介绍了抽象概念在软件开发中的应用，以DigiMixer项目为例。作者详细阐述了抽象的两种方面：实现和消费，并探讨了在设计接口时面临的挑战。文章还讨论了DigiMixer项目的结构，包括核心抽象、实现、业务逻辑和应用，以及如何通过分层抽象来简化代码和理解。作者强调了抽象设计中的关键决策，包括确定哪些信息应该包含在抽象中，以及如何平衡通用性和特定性。</description>
+      <pubDate>2024-10-22 17:46:16</pubDate>
+    </item>
+  
+    <item>
+      <title>From idea to impact: learn from last year’s Codegeist winners</title>
+      <link>https://www.atlassian.com/blog/developer/codegeist-2024-inspo</link>
+      <description>去年Codegeist获奖者如何将想法转化为有影响力的解决方案，并从中获得宝贵经验，以提升你的项目水平。学习他们如何应对挑战，利用数据和AI，以及如何从个人经历中汲取灵感，以创新和解决问题。</description>
+      <pubDate>2024-10-22 17:43:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Initial explorations of Anthropic's new Computer Use capability</title>
+      <link>https://simonwillison.net/2024/Oct/22/computer-use/#atom-entries</link>
+      <description>Anthropic近日推出了新的计算机使用API，允许用户通过Claude模型控制计算机。该API支持截图和坐标，可执行如编译代码、运行程序等任务。然而，也存在安全风险，如提示注入攻击。Anthropic已采取措施确保模型的安全使用。</description>
+      <pubDate>2024-10-22 17:38:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Charting a course for leading an effective organisation</title>
+      <link>https://www.atlassian.com/blog/enterprise/effective-organisation</link>
+      <description>在当今经济环境下，企业正通过转向云平台、统一数据和采用敏捷策略来加速创新。有效组织的关键在于团队间的协作、统一系统与流程、透明度、适应性和对技术的战略应用。通过云平台，企业可以节省成本、提高效率，并实现跨团队和数据的连接，从而在竞争中取得优势。</description>
+      <pubDate>2024-10-22 17:14:14</pubDate>
+    </item>
+  
+    <item>
+      <title>5 new protections on Google Messages to help keep you safe</title>
+      <link>http://security.googleblog.com/2024/10/5-new-protections-on-google-messages.html</link>
+      <description>谷歌消息应用推出五项新安全功能，包括增强的诈骗检测、智能警告、国际发件人消息控制、敏感内容警告和联系人验证，以保护用户免受恶意信息侵害，并确保通信的隐私和安全。</description>
+      <pubDate>2024-10-22 16:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Intelligent Data Engineering for Enterprise AI with Databricks and Informatica</title>
+      <link>https://www.databricks.com/blog/intelligent-data-engineering-enterprise-ai-databricks-and-informatica</link>
+      <description>Databricks与Informatica合作，通过结合Informatica的数据管理专长和Databricks的AI优化数据仓库能力，为企业AI应用提供智能解决方案。这包括加速智能数据管道的开发、确保数据质量和治理、部署可扩展的生成式AI应用，并使所有最终用户都能从数据中获得可操作的见解。这种合作有助于解决数据挑战，提高AI成功的可能性。</description>
+      <pubDate>2024-10-22 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker at Cloud Expo Asia: GenAI, Security, and New Innovations</title>
+      <link>https://www.docker.com/blog/docker-at-cloud-expo-asia-genai-security-and-new-innovations/</link>
+      <description>在2024年新加坡云展亚洲上，Docker展示了其在AI集成、容器化、安全最佳实践和产品更新方面的最新创新。Docker首席产品官Giri Sreenivas强调了AI/ML和通用人工智能（GenAI）对软件开发的影响，并介绍了Docker如何通过容器化GenAI工作流程来加速产品开发。Docker首席技术官Justin Cormack讨论了实施最佳实践和向左移动的重要性，以在软件开发生命周期中尽早识别和解决安全问题。此外，Docker还推出了新的产品计划和更新，以简化对Docker产品套件的访问。</description>
+      <pubDate>2024-10-22 15:23:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Simple, Fast, and Scalable Batch LLM Inference on Mosaic AI Model Serving</title>
+      <link>https://www.databricks.com/blog/introducing-simple-fast-and-scalable-batch-llm-inference-mosaic-ai-model-serving</link>
+      <description>Databricks推出了一种简单、快速且可扩展的批量LLM推理方法，用于Mosaic AI模型服务。这种方法允许用户直接在数据工作流程中运行批量推理，无需将数据导出为CSV文件，并支持所有AI模型。通过这种方式，企业可以更高效地处理大量数据，提取关键信息，转换数据格式，并自动生成文本内容。此外，Databricks还简化了整个批量工作流程，包括预处理、LLM推理和后处理，从而降低了复杂性并节省了时间。</description>
+      <pubDate>2024-10-22 15:02:50</pubDate>
+    </item>
+  
+    <item>
+      <title>Develop LWC at Lightning Speed with the New Local Dev Experience</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/develop-lwc-at-lightning-speed-with-the-new-local-dev-experience.html</link>
+      <description>Local Dev（本地开发）是Salesforce为开发者推出的新功能，允许开发者通过保存代码即可实时预览Lightning Web组件（LWC）的更改，节省了部署和刷新页面所需的时间，从而提高了开发效率。Local Dev支持多种Salesforce容器，包括Lightning Experience、Experience Cloud的LWR站点和Salesforce移动应用。</description>
+      <pubDate>2024-10-22 15:00:23</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET MAUI Welcomes Syncfusion Open-source Contributions</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions/</link>
+      <description>.NET MAUI 欢迎Syncfusion开源贡献，Syncfusion发布了针对.NET MAUI的免费开源控件集，包括14个UI控件，可在GitHub和NuGet包中获取。此外，.NET 9将推出包含Syncfusion Toolkit的新项目模板，并加强与Syncfusion的合作，共同推动.NET MAUI的发展。</description>
+      <pubDate>2024-10-22 15:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>CEO Update: Building trust in AI is key to a thriving knowledge ecosystem</title>
       <link>https://stackoverflow.blog/2024/10/22/stack-overflow-ceo-update-first-half-1h-2024/</link>
       <description>Stack Overflow CEO Prashanth Chandrasekar强调，在人工智能时代，建立信任是构建繁荣知识生态系统的关键。他指出，尽管AI技术不断进步，但开发者对AI工具的信任度却在下降。为了解决这一信任差距，Stack Overflow推出了“知识即服务”模式，并与Google Cloud和OpenAI等合作伙伴合作，以提供高质量、准确的技术知识和增强开发者体验。此外，Stack Overflow还致力于通过社区平台和产品改进，如Stack Overflow for Teams，来促进知识共享和协作。</description>
       <pubDate>2024-10-22 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding Python's Global Interpreter Lock (GIL)</title>
+      <link>https://realpython.com/courses/understanding-global-interpreter-lock-gil/</link>
+      <description>Python的全局解释器锁（GIL）是一个互斥锁，允许一次只有一个线程控制Python解释器。在多线程架构中，GIL可能导致性能瓶颈。本课程将探讨GIL对Python程序性能的影响以及如何减轻其影响。</description>
+      <pubDate>2024-10-22 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The innovation vs. security paradox: Understanding security as a catalyst for faster innovation</title>
+      <link>https://www.hashicorp.com/blog/the-innovation-vs-security-paradox</link>
+      <description>在快速变化的企业环境中，创新和安全之间的平衡对于增长至关重要。通过将安全实践早期且战略性地嵌入组织，安全可以成为创新的盟友而不是障碍。通过改变视角和运营模式，企业可以弥合创新和安全之间的差距，实现更快、更可靠的进步。</description>
+      <pubDate>2024-10-22 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Monolith Studio</title>
+      <link>https://tympanus.net/codrops/2024/10/22/case-study-monolith-studio/</link>
+      <description>Monolith Studio与Artemii Lebedev团队合作，打造了一个独特的3D互动网站，展示了现代布鲁克林纹身工作室的数字化转型。网站集成了知名纹身艺术家的作品集，并提供了丰富的纹身文化和艺术文章。通过创新的视觉设计和用户友好的管理系统，Monolith Studio将纹身艺术带入数字时代，赢得了多个设计奖项。</description>
+      <pubDate>2024-10-22 13:33:43</pubDate>
     </item>
   
     <item>
@@ -41,6 +153,27 @@
     </item>
   
     <item>
+      <title>IPLS: Privacy-preserving storage for your WhatsApp contacts</title>
+      <link>https://engineering.fb.com/2024/10/22/security/ipls-privacy-preserving-storage-for-your-whatsapp-contacts/</link>
+      <description>WhatsApp推出新型加密存储系统IPLS，保护用户联系人隐私。用户可在WhatsApp内直接创建联系人，选择同步到手机或仅保存在WhatsApp中。IPLS确保联系人信息加密存储，即使更换手机也能安全恢复联系人列表。</description>
+      <pubDate>2024-10-22 12:59:46</pubDate>
+    </item>
+  
+    <item>
+      <title>A Zero-dependency SVG Chart Library for PHP</title>
+      <link>https://laravel-news.com/php-svg-charts-maantje</link>
+      <description>《PHP SVG图表库maantje/charts》介绍：这是一个零依赖的PHP库，用于生成SVG图表。它具有简单直观的API，支持多种图表类型，如折线图、柱状图、堆叠图和混合图，且可自定义和扩展。无需外部依赖，输出纯SVG，适用于嵌入PDF等。</description>
+      <pubDate>2024-10-22 12:48:49</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: beyond freezing food, and AI mediation</title>
+      <link>https://www.technologyreview.com/2024/10/22/1106045/the-download-beyond-freezing-food-and-ai-mediation/</link>
+      <description>《下载：超越冷冻食品，AI调解》探讨了食品冷藏对新鲜食品的影响，以及AI在调解争议中的应用。文章指出，尽管冷藏技术延长了食物的保质期，但也带来了环境、营养和社会文化成本。同时，AI技术正被用于帮助人们就社会或政治问题达成共识，通过识别和展示人们观点的重叠区域，减少分歧。</description>
+      <pubDate>2024-10-22 12:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>6 Ways Junior Developers Deliver Value on Product Teams</title>
       <link>https://spin.atomicobject.com/junior-developers-product-teams/</link>
       <description>初级开发者对产品团队的价值体现在：他们促进学习和教学文化，带来新视角，增强团队动态和沟通，对团队长期健康至关重要，以独特方式贡献，并帮助资深开发者成长为领导者。</description>
@@ -52,6 +185,13 @@
       <link>https://tympanus.net/codrops/collective/collective-874/</link>
       <description>本周的HTML和React开发者必读：探索使用矩阵变换进行颜色操作，学习React渲染的互动指南，以及HTML入门教程。还有设计灵感、AI视频指南工具介绍，以及隐私搜索引擎Whoogle等资源推荐。</description>
       <pubDate>2024-10-22 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Installing PyMuPDF on a prerelease Python</title>
+      <link>https://akrabat.com/installing-pymupdf-on-a-prerelease-python/</link>
+      <description>在预发布版Python上安装PyMuPDF时，由于没有提供二进制轮文件，需要设置正确的编译器头文件路径。作者通过设置CPATH环境变量到Xcode的路径，成功安装了PyMuPDF并继续了测试工作。</description>
+      <pubDate>2024-10-22 10:00:00</pubDate>
     </item>
   
     <item>
@@ -135,6 +275,41 @@
       <title>15 Terrifying Boogeymen From Around The World</title>
       <link>https://www.babbel.com/en/magazine/halloween-2014</link>
       <description>全球各地的15个恐怖的鬼怪故事，从英格兰的Boogeyman到巴西的Cuca，这些鬼怪以各种形式和名字出现，用以吓唬孩子并教育他们遵守规则。每个故事都揭示了不同文化中关于超自然恐惧的传统和信仰。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>"Yes caviar is great, here's a ham sandwich"</title>
+      <link>https://swizec.com/blog/yes-caviar-is-great-heres-a-ham-sandwich/</link>
+      <description>项目拖延的原因在于利益相关者缺乏明确的需求和工程师未能有效拒绝不必要的功能。利益相关者应明确需求，工程师应专注于核心功能，并推动早期参与以快速迭代。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 7.17.25 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-7-17-25-released</link>
+      <description>Elastic Stack 7.17.25版本发布，推荐用户升级至最新版本。此版本修复了多个问题，具体细节和每个产品的完整变更列表请参考发布说明。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking the future of health: Revolutionizing patient data management</title>
+      <link>https://www.thoughtworks.com/insights/articles/revolutionizing-patient-data-management</link>
+      <description>现代医疗数据管理面临挑战，英国国家卫生服务体系（NHS）依赖供应商共享数据，导致患者体验不佳。建立数字个人健康记录（DPHR）可提高数据可访问性和患者参与度，支持创新，并推动医疗保健的未来发展。DPHR可集成AI和可穿戴设备数据，支持开放市场环境，使第三方应用方便地集成到患者的护理旅程中。NHS应抓住机遇，推动DPHR的实施，以实现更高效、患者为中心的医疗保健。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The NIS2 Directive is Here. What Happens Next?</title>
+      <link>https://goteleport.com/blog/nis2-compliance-deadline-what-businesses-need-to-know/</link>
+      <description>NIS2指令正式实施，但许多欧洲企业尚未合规。该指令对违规行为实施严厉处罚，包括行政罚款和刑事制裁。企业应优先关注NIS2安全义务，并利用Teleport等解决方案来简化合规流程，同时提高工程效率和加强关键基础设施的安全性。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building confidence through code: How Saarika Bhasi restarted her career in tech</title>
+      <link>https://www.elastic.co/blog/culture-restart-tech-career</link>
+      <description>Saarika Bhasi，一位软件工程师，分享了她在技术行业重新开始的经历。她通过学习前端开发，提升了自己的技能，并在Elastic公司找到了工作。她鼓励女性在技术领域保持自信，积极提问，并追求自己的兴趣。</description>
       <pubDate>2024-10-22 00:00:00</pubDate>
     </item>
   
@@ -375,6 +550,13 @@
       <title>Twilio Video update: Twilio Video’s journey continues, bringing the human touch to your customer engagement experience</title>
       <link>https://www.twilio.com/en-us/blog/twilio-video-update-2024</link>
       <description>Twilio宣布将继续投资并发展Twilio Video，以满足客户需求，并增强客户互动体验。这一决定是基于客户反馈和对未来客户互动愿景的考虑。视频通话作为高度个性化和信任的数字互动方式，对于提供真实、个性化的客户体验至关重要。Twilio致力于提供灵活的客户互动平台，以帮助品牌实现无缝、可定制的全球视频互动。</description>
+      <pubDate>2024-10-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A 10-Step Guide to Using Embassy for Embedded Rust</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/a-10-step-guide-to-using-embassy-for-embedded-rust.html</link>
+      <description>使用Embassy框架进行嵌入式Rust开发的10步指南，包括理解Embassy架构、设置开发环境、选择目标微控制器、编写异步代码、处理中断和事件、使用定时器和延迟、实现通信协议、管理功耗、测试和调试以及部署准备。通过这些步骤，工程师可以构建高效、可靠的嵌入式系统。</description>
       <pubDate>2024-10-21 00:00:00</pubDate>
     </item>
   
