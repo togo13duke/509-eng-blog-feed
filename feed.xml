@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Rovo for GitHub Copilot leads Atlassian’s new developer focused innovations at GitHub Universe</title>
+      <link>https://www.atlassian.com/blog/developer/atlassian-developer-innovation-rovo-for-github-copilot</link>
+      <description>Atlassian在GitHub Universe上展示了针对开发者的新创新，包括Rovo for GitHub Copilot，它通过直接在IDE中访问Jira和Confluence的数据来减少上下文切换，提高开发效率。此外，Atlassian的内部开发者平台Compass帮助开发者管理复杂性，而新的AI开发代理则旨在加速工作流程和代码审查。</description>
+      <pubDate>2024-10-22 00:31:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Not another meeting</title>
+      <link>https://thoughtbot.com/blog/not-another-meeting</link>
+      <description>在产品开发中，减少会议以保持动量至关重要。建议通过Slack线程进行沟通，保持会议简短并明确议程，让团队成员自主决定是否参加，并创造团队互动机会以提升幸福感和生产力。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Kubernetes (DOKS) Networking, Reimagined</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-doks-managed-kubernetes-networking</link>
+      <description>DigitalOcean Kubernetes (DOKS)网络功能得到重大更新，包括VPC原生集群、VPC对等连接、全局负载均衡器和内部负载均衡器，以支持全球应用构建和扩展。这些新功能简化了跨区域和VPC资源的通信，提高了安全性和性能，使开发者能够构建更灵活、可扩展和安全的云原生应用。</description>
+      <pubDate>2024-10-21 23:46:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Basecamp-maker 37Signals says its “cloud exit” will save it $10M over 5 years</title>
+      <link>https://arstechnica.com/information-technology/2024/10/basecamp-maker-37signals-says-its-cloud-exit-will-save-it-10m-over-5-years/</link>
+      <description>37Signals公司决定将其七款基于云的应用从亚马逊云服务中撤出，预计这将使公司在五年内节省1000万美元。公司通过购买服务器设备并自托管应用，以及将存储转移到纯存储的闪存阵列，实现了这一目标。这一举措反映了云计算成本上升和公司对云服务依赖的重新评估。</description>
+      <pubDate>2024-10-21 19:51:20</pubDate>
+    </item>
+  
+    <item>
       <title>AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more (October 21, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/</link>
       <description>AWS本周发布了多项新功能，包括Serverless Agentic Workflows、Amazon Transcribe支持更多语言、AWS Lambda实时日志分析等。此外，还推出了Amazon Q供应链分析工具和新的AWS事件，如GenAI Lofts和AWS re:Invent。</description>
@@ -200,6 +228,20 @@
       <title>From contributor to Elastician: Insider tips from former Gold Contributor João Neto</title>
       <link>https://www.elastic.co/blog/insider-tips-from-former-gold-contributor-joao-neto</link>
       <description>前Elastic金级贡献者João Neto分享了他成为Elastic贡献者之路的经验和心得。他强调，通过参与Elastic贡献者项目，他不仅获得了宝贵的技能和知识，还在个人和职业生活中取得了显著成就。Neto鼓励新成员积极参与，享受旅程，并分享自己的知识和经验。</description>
+      <pubDate>2024-10-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Twilio’s Consumer Preferences Report</title>
+      <link>https://www.twilio.com/en-us/blog/2024-consumer-preferences-highlights</link>
+      <description>Twilio发布《消费者偏好报告》，指出品牌在满足消费者通过首选渠道互动的期望方面存在差距。报告强调选择正确渠道、尊重用户偏好、投资于品牌沟通和实时响应的重要性，以建立消费者信任并提升客户终身价值。</description>
+      <pubDate>2024-10-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Twilio Video update: Twilio Video’s journey continues, bringing the human touch to your customer engagement experience</title>
+      <link>https://www.twilio.com/en-us/blog/twilio-video-update-2024</link>
+      <description>Twilio宣布将继续投资并发展Twilio Video，以满足客户需求，并增强客户互动体验。这一决定是基于客户反馈和对未来客户互动愿景的考虑。视频通话作为高度个性化和信任的数字互动方式，对于提供真实、个性化的客户体验至关重要。Twilio致力于提供灵活的客户互动平台，以帮助品牌实现无缝、可定制的全球视频互动。</description>
       <pubDate>2024-10-21 00:00:00</pubDate>
     </item>
   
