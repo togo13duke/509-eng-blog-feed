@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The new pair programming: an AI agent that cleans your code as you write</title>
+      <link>https://stackoverflow.blog/2024/10/22/the-new-pair-programming-an-ai-agent-that-cleans-your-code-as-you-write/</link>
+      <description>AI编程新伙伴：编写代码时自动清理代码的AI代理，Sonar CEO Tariq Shaukat讨论了AI编码工具如何提高开发者生产力，并平衡潜在收益与代码质量和安全担忧。他们探讨了Sonar作为开源代码质量工具的起源，以及“编写时清理”哲学的优点，以及AI编码工具的适用性和局限性。</description>
+      <pubDate>2024-10-22 07:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Netflix Scales Using Data Abstraction</title>
+      <link>https://nordicapis.com/how-netflix-scales-using-data-abstraction/</link>
+      <description>Netflix通过数据抽象和API优先的方法实现了规模扩张。通过将系统分解为可扩展的API，Netflix能够从各种设备访问其服务，同时使用数据抽象层来简化数据格式和迁移过程，从而提高了灵活性和可扩展性。</description>
+      <pubDate>2024-10-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Rovo for GitHub Copilot leads Atlassian’s new developer focused innovations at GitHub Universe</title>
       <link>https://www.atlassian.com/blog/developer/atlassian-developer-innovation-rovo-for-github-copilot</link>
       <description>Atlassian在GitHub Universe上展示了针对开发者的新创新，包括Rovo for GitHub Copilot，它通过直接在IDE中访问Jira和Confluence的数据来减少上下文切换，提高开发效率。此外，Atlassian的内部开发者平台Compass帮助开发者管理复杂性，而新的AI开发代理则旨在加速工作流程和代码审查。</description>
@@ -16,6 +30,13 @@
       <title>Not another meeting</title>
       <link>https://thoughtbot.com/blog/not-another-meeting</link>
       <description>在产品开发中，减少会议以保持动量至关重要。建议通过Slack线程进行沟通，保持会议简短并明确议程，让团队成员自主决定是否参加，并创造团队互动机会以提升幸福感和生产力。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Combine and simplify multiple commands using Composer Scripts</title>
+      <link>https://www.amitmerchant.com/composer-scripts/</link>
+      <description>使用Composer脚本来合并和简化多个命令，可以显著提高大型项目中的开发效率。通过在`composer.json`中定义脚本，可以将多个命令组合成一个事件，如`lint`或`test`，从而在执行时依次运行这些命令，简化了前端和后端测试等复杂操作。这不仅减少了手动输入命令的麻烦，还便于配置持续集成/持续部署（CI/CD）流程。</description>
       <pubDate>2024-10-22 00:00:00</pubDate>
     </item>
   
