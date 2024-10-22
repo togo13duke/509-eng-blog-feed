@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Access for Infrastructure: SSH</title>
+      <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
+      <description>Cloudflare推出“基础设施访问”功能，将BastionZero集成到其SASE平台Cloudflare One中，以实现零信任控制。该功能提供短期SSH访问，并支持远程桌面协议（RDP）、Kubernetes和数据库等基础设施访问类型。通过使用Cloudflare管理的证书颁发机构（CA）签发的短期SSH证书，组织可以消除管理SSH密钥的风险，并通过策略控制访问权限，提高安全性。</description>
+      <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CEO Update: Building trust in AI is key to a thriving knowledge ecosystem</title>
+      <link>https://stackoverflow.blog/2024/10/22/stack-overflow-ceo-update-first-half-1h-2024/</link>
+      <description>Stack Overflow CEO Prashanth Chandrasekar强调，在人工智能时代，建立信任是构建繁荣知识生态系统的关键。他指出，尽管AI技术不断进步，但开发者对AI工具的信任度却在下降。为了解决这一信任差距，Stack Overflow推出了“知识即服务”模式，并与Google Cloud和OpenAI等合作伙伴合作，以提供高质量、准确的技术知识和增强开发者体验。此外，Stack Overflow还致力于通过社区平台和产品改进，如Stack Overflow for Teams，来促进知识共享和协作。</description>
+      <pubDate>2024-10-22 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Choose a Vector Database</title>
+      <link>https://www.timescale.com/blog/how-to-choose-a-vector-database/</link>
+      <description>选择向量数据库时，应考虑应用需求、查询模式、系统要求等因素。关键评估标准包括查询频率、数据分区能力、过滤需求、数据同步、数据变更处理和结构化数据处理能力。根据应用场景选择服务器式或无服务器式向量数据库，以实现成本效益和性能优化。</description>
+      <pubDate>2024-10-22 13:03:34</pubDate>
+    </item>
+  
+    <item>
+      <title>The Evolution of LLMOps: Adapting MLOps for GenAI</title>
+      <link>https://blog.cloudera.com/the-evolution-of-llmops-adapting-mlops-for-genai/</link>
+      <description>LLMOps是针对大型语言模型（LLMs）的机器学习操作，它扩展了MLOps，以适应LLMs带来的新挑战。LLMOps强调提示工程、模型优化和检索增强生成（RAG），同时引入了治理、风险管理和评估的新复杂性。企业采用LLMOps以成功扩展和管理这些高级模型。</description>
+      <pubDate>2024-10-22 13:00:29</pubDate>
+    </item>
+  
+    <item>
+      <title>How we use OpenBMC and ACPI power states to monitor the state of our servers</title>
+      <link>https://blog.cloudflare.com/how-we-use-openbmc-and-acpi-power-states-to-monitor-the-state-of-our-servers</link>
+      <description>Cloudflare通过使用OpenBMC和ACPI电源状态监控服务器状态，优化了服务器启动过程，提高了诊断能力。通过定制OpenBMC固件，解决了启动过程中的问题，如CPU未接收到电源和内存模块缺失等。此外，通过研究ACPI电源状态，实现了更有效的电源管理和诊断。</description>
+      <pubDate>2024-10-22 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>6 Ways Junior Developers Deliver Value on Product Teams</title>
+      <link>https://spin.atomicobject.com/junior-developers-product-teams/</link>
+      <description>初级开发者对产品团队的价值体现在：他们促进学习和教学文化，带来新视角，增强团队动态和沟通，对团队长期健康至关重要，以独特方式贡献，并帮助资深开发者成长为领导者。</description>
+      <pubDate>2024-10-22 12:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #874</title>
+      <link>https://tympanus.net/codrops/collective/collective-874/</link>
+      <description>本周的HTML和React开发者必读：探索使用矩阵变换进行颜色操作，学习React渲染的互动指南，以及HTML入门教程。还有设计灵感、AI视频指南工具介绍，以及隐私搜索引擎Whoogle等资源推荐。</description>
+      <pubDate>2024-10-22 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Cut Down Amazon CloudWatch Costs</title>
+      <link>https://last9.io/blog/how-to-cut-down-aws-cloudwatch-costs/</link>
+      <description>本文提供降低Amazon CloudWatch成本的方法，包括审计和优化指标、使用基本监控、应用日志指标过滤器、优化CloudWatch警报、设置日志组生命周期策略、使用CloudWatch容器洞察、批量API调用、使用CloudWatch合成进行用户旅程监控、利用CloudWatch日志洞察进行高效日志分析、使用标准分辨率指标、实现跨账户CloudWatch指标流、使用CloudWatch贡献者洞察进行针对性分析、实现异常检测、使用CloudWatch ServiceLens进行端到端应用程序洞察以及使用AWS VPC流日志与CloudWatch日志。</description>
+      <pubDate>2024-10-22 09:07:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Would you trust AI to mediate an argument?</title>
+      <link>https://www.technologyreview.com/2024/10/22/1106041/would-you-trust-ai-to-mediate-an-argument/</link>
+      <description>人工智能在解决复杂社交问题时展现出潜力，但存在局限性。研究人员训练大型语言模型帮助人们就复杂问题达成共识，但AI聊天机器人不能替代真实对话和深入倾听。作者通过个人经历强调了依赖AI聊天机器人可能带来的风险，并建议在处理重要事务时保持谨慎。</description>
+      <pubDate>2024-10-22 08:44:18</pubDate>
+    </item>
+  
+    <item>
+      <title>How refrigeration ruined fresh food</title>
+      <link>https://www.technologyreview.com/2024/10/22/1105184/refrigeration-fresh-food-nicola-twilley-artificial-cooling/</link>
+      <description>尼古拉·特威利在《冷冻：冷藏如何改变我们的食物、地球和我们自己》一书中探讨了冷藏技术对食物、环境和人类健康的影响。她指出，冷藏虽然延长了食物的保质期，但也导致了食物多样性和营养价值的下降，并加剧了全球变暖和臭氧层破坏。特威利认为，我们需要重新思考食物保存的方式，以创造更健康、美味且对环境友好的食物系统。</description>
+      <pubDate>2024-10-22 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The new pair programming: an AI agent that cleans your code as you write</title>
       <link>https://stackoverflow.blog/2024/10/22/the-new-pair-programming-an-ai-agent-that-cleans-your-code-as-you-write/</link>
       <description>AI编程新伙伴：编写代码时自动清理代码的AI代理，Sonar CEO Tariq Shaukat讨论了AI编码工具如何提高开发者生产力，并平衡潜在收益与代码质量和安全担忧。他们探讨了Sonar作为开源代码质量工具的起源，以及“编写时清理”哲学的优点，以及AI编码工具的适用性和局限性。</description>
@@ -17,6 +87,27 @@
       <link>https://nordicapis.com/how-netflix-scales-using-data-abstraction/</link>
       <description>Netflix通过数据抽象和API优先的方法实现了规模扩张。通过将系统分解为可扩展的API，Netflix能够从各种设备访问其服务，同时使用数据抽象层来简化数据格式和迁移过程，从而提高了灵活性和可扩展性。</description>
       <pubDate>2024-10-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A new constant expression interpreter for Clang, Part 3</title>
+      <link>https://developers.redhat.com/articles/2024/10/22/new-constant-expression-interpreter-clang-part-3</link>
+      <description>本文介绍了Clang常量表达式解释器的最新进展，包括对二进制和一元运算符在向量上的支持，以及多种内置函数和类型的新增。此外，还提到了对C++23特性的支持、对函数参数的nullability属性的支持，以及对虚拟函数调用和ObjectiveC块的支持。文章还讨论了测试覆盖范围的扩大和对已知问题的修复。</description>
+      <pubDate>2024-10-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>eBay Dropping Rare Basketball Trading Cards in 24-Hour Auction Series</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-dropping-rare-basketball-trading-cards-in-24-hour-auction-series/</link>
+      <description>eBay推出“Gametime Gets”系列，以24小时拍卖形式出售稀有篮球交易卡。由前WNBA MVP Candace Parker精选，当球员在场上达成里程碑时，这些卡片将上线拍卖。每张卡片拍卖起价24美分，旨在让球迷有机会收藏到具有历史意义的卡片。</description>
+      <pubDate>2024-10-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Coded Smorgasbord: What the Hmm?</title>
+      <link>https://thedailywtf.com/articles/what-the-hmm</link>
+      <description>Remy Porter在《Daily WTF》的博客中讨论了代码审查中的一些有趣案例。他分析了几个代码片段，包括宏定义、Windows注册表操作和HTML渲染问题，指出代码本身可能并不糟糕，但它们反映了周围环境的糟糕。他强调了理解代码背后的上下文和目的的重要性。</description>
+      <pubDate>2024-10-22 06:30:00</pubDate>
     </item>
   
     <item>
@@ -37,6 +128,13 @@
       <title>Combine and simplify multiple commands using Composer Scripts</title>
       <link>https://www.amitmerchant.com/composer-scripts/</link>
       <description>使用Composer脚本来合并和简化多个命令，可以显著提高大型项目中的开发效率。通过在`composer.json`中定义脚本，可以将多个命令组合成一个事件，如`lint`或`test`，从而在执行时依次运行这些命令，简化了前端和后端测试等复杂操作。这不仅减少了手动输入命令的麻烦，还便于配置持续集成/持续部署（CI/CD）流程。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>15 Terrifying Boogeymen From Around The World</title>
+      <link>https://www.babbel.com/en/magazine/halloween-2014</link>
+      <description>全球各地的15个恐怖的鬼怪故事，从英格兰的Boogeyman到巴西的Cuca，这些鬼怪以各种形式和名字出现，用以吓唬孩子并教育他们遵守规则。每个故事都揭示了不同文化中关于超自然恐惧的传统和信仰。</description>
       <pubDate>2024-10-22 00:00:00</pubDate>
     </item>
   
@@ -97,6 +195,13 @@
     </item>
   
     <item>
+      <title>Sailing the search seas with Algolia DocSearch</title>
+      <link>https://algolia.com/blog/product/sailing-the-search-seas-with-algolia-docsearch/</link>
+      <description>Mux公司决定放弃自建搜索组件，转而使用Algolia的DocSearch，以简化维护并提升用户体验。通过快速迁移，Mux实现了更优的搜索结果和索引，同时保留了品牌定制。员工和用户对改进后的搜索体验给予了积极反馈，DocSearch的免费特性也增加了额外价值。</description>
+      <pubDate>2024-10-21 14:27:20</pubDate>
+    </item>
+  
+    <item>
       <title>How We Generated Millions of Content Annotations</title>
       <link>https://engineering.atspotify.com/2024/10/how-we-generated-millions-of-content-annotations/</link>
       <description>Spotify通过开发一个大规模的标注平台，显著提高了机器学习和生成式AI模型的数据标注效率。该平台通过扩展人类专家的知识、实施标注工具和建立基础设施，实现了数百万条标注数据的收集。这加速了新模型的开发和现有系统的迭代，同时确保了高质量标注的民主化。</description>
@@ -135,6 +240,13 @@
       <title>Using Docker AI Tools for Devs to Provide Context for Better Code Fixes</title>
       <link>https://www.docker.com/blog/using-docker-ai-tools-for-devs-to-provide-context-for-better-code-fixes/</link>
       <description>Docker Labs正在探索如何利用AI工具为开发者提供代码修复的上下文，以提高代码质量。通过将Pylint等工具容器化，并利用LLM（大型语言模型）处理代码上下文，Docker开发了一个系统，使LLM能够更有效地修复代码问题。这种方法通过自动化和优化开发流程，使编程体验更加高效。</description>
+      <pubDate>2024-10-21 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>10 Spooky Halloween Facts That You Might Not Know</title>
+      <link>https://www.babbel.com/en/magazine/10-spooky-halloween-facts-that-you-might-not-know</link>
+      <description>万圣节，这个充满诡异和乐趣的节日，有着许多不为人知的历史和习俗。从古老的凯尔特人节日萨温节，到如今家家户户的万圣节派对，万圣节的传统和象征意义丰富多彩。了解这些万圣节的小知识，让你在节日中更加得心应手。</description>
       <pubDate>2024-10-21 13:00:00</pubDate>
     </item>
   
