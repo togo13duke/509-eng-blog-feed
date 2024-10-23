@@ -13,6 +13,83 @@
     </item>
   
     <item>
+      <title>Surrogate Modeling for Rapid Decision-Making</title>
+      <link>https://galois.com/blog/2024/10/surrogate-modeling-for-rapid-decision-making/</link>
+      <description>Galois公司开发了一种名为代理建模的技术，用于快速决策。该技术通过高效的代理模型，可以快速评估不同飞行平台和传感器载荷的组合，帮助飞行员在有限的时间和资源内做出最佳决策。这种方法适用于各种设计领域，包括航空航天、任务规划和更多。通过结合数据驱动的代理模型和快速计算的低保真物理模拟器，Galois的解决方案能够提供关键性能指标，如任务成功率、完成时间和剩余电池电量。</description>
+      <pubDate>2024-10-23 18:45:37</pubDate>
+    </item>
+  
+    <item>
+      <title>EC2 Image Builder now supports building and testing macOS images</title>
+      <link>https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/</link>
+      <description>AWS EC2 Image Builder现在支持构建和测试macOS镜像，简化了macOS工作负载的机器图像创建和管理，提高了自动化和云集成效率。通过EC2 Image Builder，用户可以创建包含特定操作系统版本和开发工具的黄金镜像，实现跨操作系统的图像管道整合，降低维护成本。</description>
+      <pubDate>2024-10-23 17:52:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Resource Management with Apache YuniKorn™ for Apache Spark™ on AWS EKS at Pinterest</title>
+      <link>https://medium.com/pinterest-engineering/resource-management-with-apache-yunikorn-for-apache-spark-on-aws-eks-at-pinterest-0dba3afb4609?source=rss-ef81ef829bcb------2</link>
+      <description>Pinterest的工程师团队在Apache YuniKorn™上实现了Apache Spark™在AWS EKS上的资源管理，以支持Pinterest的批处理平台Monarch。他们迁移了数千个Spark应用程序，同时保持了资源效率和高质量服务。通过引入YuniKorn和改进资源分配算法，Pinterest提高了资源管理的效率和可靠性。</description>
+      <pubDate>2024-10-23 17:20:34</pubDate>
+    </item>
+  
+    <item>
+      <title>eShop infused with AI – a comprehensive intelligent app sample</title>
+      <link>https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample/</link>
+      <description>eShop支持AI版是一个集成了人工智能功能的客户支持网站，展示了如何将AI技术应用于现有业务应用中，提高开发效率和个性化客户支持。该示例包括语义搜索、数据摘要、分类、情感评分、内部问答聊天机器人等功能，并使用.NET Aspire进行服务编排，以及Microsoft.Extensions.AI库进行智能应用开发。</description>
+      <pubDate>2024-10-23 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Databricks Migration Strategy - lessons learned</title>
+      <link>https://www.databricks.com/blog/databricks-migration-strategy-lessons-learned</link>
+      <description>Databricks的迁移策略：从发现、评估、策略设计、试点到执行，Databricks通过五个阶段帮助客户成功迁移数据仓库工作负载。重点在于自动化发现、利用代码转换工具、关注数据迁移和治理，以及进行验证和用户测试。通过专家团队和合作伙伴的支持，确保高效、高质量的迁移过程。</description>
+      <pubDate>2024-10-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing 1-Click Models powered by Hugging Face on DigitalOcean</title>
+      <link>https://www.digitalocean.com/blog/one-click-models-on-do-powered-by-huggingface</link>
+      <description>DigitalOcean推出由Hugging Face支持的1-Click Models，简化AI模型部署，用户可快速在GPU Droplets上部署流行AI模型，如Meta的Llama 3和Mistral，无需复杂设置，提高开发效率。</description>
+      <pubDate>2024-10-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Set a reminder: tune in for our Fall episode of #TheAndroidShow on October 31, live from Droidcon!</title>
+      <link>http://android-developers.googleblog.com/2024/10/tas-24-teaser.html</link>
+      <description>10月31日，关注#TheAndroidShow秋季特别节目，我们将从伦敦Droidcon现场直播最新Android开发者新闻，包括Jetpack Compose演示。节目将揭晓Android Studio中Gemini的最大更新，并探讨可穿戴、折叠屏和大型屏幕设备的新动态。同时，专家团队将解答关于构建卓越应用的问题。不要错过，10月31日10AM PT在YouTube和developer.android.com/events/show观看直播！</description>
+      <pubDate>2024-10-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Diversity, inclusion, and belonging at GitHub in 2024</title>
+      <link>https://github.blog/news-insights/company-news/diversity-inclusion-and-belonging-at-github-in-2024/</link>
+      <description>GitHub在2024年致力于促进多样性和包容性，通过支持多元化的员工和开发者社区，推动创新和公平。公司通过人才、工具和转型项目，扩大了不同背景的人才库，并支持了全球范围内的开源学习和社区发展。GitHub还致力于推动负责任的AI实践，并投资于可访问性，以使所有开发者都能参与其中。</description>
+      <pubDate>2024-10-23 15:03:43</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #89: Housing</title>
+      <link>https://www.bambooweekly.com/bw-89-housing/</link>
+      <description>美国选举活动即将结束，住房成本成为选民关注的最大问题。文章分析了住房问题的根源，指出供应不足是关键。作者通过研究美国新住房建设数据，探讨了住房建设情况，并提出了七个相关问题，旨在通过数据分析提升Pandas技能。</description>
+      <pubDate>2024-10-23 15:00:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Google DeepMind is making its AI text watermark open source</title>
+      <link>https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source/</link>
+      <description>Google DeepMind开源其AI文本水印工具SynthID，用于识别AI生成的文本。该工具通过在AI模型生成的文本中添加不可见水印来工作，旨在帮助开发者检测文本输出是否来自自己的大型语言模型，从而促进负责任地构建AI。尽管SynthID在防止篡改方面表现出色，但在某些情况下，如文本重写或翻译，其可靠性较低。</description>
+      <pubDate>2024-10-23 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to improve the developer experience in today’s ecommerce world</title>
+      <link>https://stackoverflow.blog/2024/10/23/improve-developer-experience-ecommerce-fastlane-paypal-sponsored/</link>
+      <description>本文探讨了如何提升电商世界中开发者的体验。PayPal推出的Fastlane SDK简化了开发者集成新技术的过程，并针对小型企业和大型企业提供灵活的解决方案。Fastlane通过优化支付流程、提供清晰的文档和工具，帮助开发者更快地完成集成，从而提高转化率和客户满意度。</description>
+      <pubDate>2024-10-23 14:58:24</pubDate>
+    </item>
+  
+    <item>
       <title>Python Thread Safety: Using a Lock and Other Techniques</title>
       <link>https://realpython.com/python-thread-lock/</link>
       <description>本文探讨了Python中的线程安全，包括理解线程安全、处理竞争条件和使用同步原语（如锁、信号、条件、屏障）来确保代码的线程安全性。文章强调了全局解释器锁（GIL）对线程的影响，并解释了如何在多线程环境中避免竞争条件。通过学习这些技术，开发者可以编写出既高效又可靠的并发代码。</description>
@@ -34,6 +111,20 @@
     </item>
   
     <item>
+      <title>What do jumping spiders find sexy? How DIY tech is offering insights into the animal mind.</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105196/animal-mind-diy-tech-scientists-hermit-crabs-jumping-spiders/</link>
+      <description>科学家们通过DIY技术创造各种装置来研究动物行为，如研究寄居蟹如何选择住所。这些装置从简单到复杂，旨在解答关于特定物种生活与心理的问题，例如蜜蜂是否需要良好的睡眠，跳跃蜘蛛对什么感兴趣，以及隼是否喜欢谜题等。这些实验不仅揭示了动物的智能，也展示了科学家们如何通过创新方法来理解动物世界。</description>
+      <pubDate>2024-10-23 13:21:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudera and Snowflake Partner to Deliver the Most Comprehensive Open Data Lakehouse</title>
+      <link>https://blog.cloudera.com/cloudera-and-snowflake-partner-to-deliver-the-most-comprehensive-open-data-lakehouse/</link>
+      <description>Cloudera与Snowflake合作，推出最全面的开放数据湖屋，提供数据共享、业务智能和仪表板功能。此合作允许用户在保持数据一致性和准确性的同时，选择最佳工具进行数据分析，降低总拥有成本，并实现真正的混合云架构。</description>
+      <pubDate>2024-10-23 13:00:43</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing Access for Infrastructure: SSH</title>
       <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
       <description>Cloudflare推出“基础设施访问”功能，将BastionZero集成到其SASE平台Cloudflare One中，以实现零信任控制。该功能提供短期SSH访问，并支持远程桌面协议（RDP）、Kubernetes和数据库等基础设施访问类型。通过使用Cloudflare管理的证书颁发机构（CA）签发的短期SSH证书，组织可以消除管理SSH密钥的风险，并通过策略控制访问权限，提高安全性。</description>
@@ -45,6 +136,34 @@
       <link>https://stackoverflow.blog/2024/10/23/empower-subject-matter-experts-to-contribute/</link>
       <description>Stack Overflow for Teams Enterprise 2024.7版本推出SME Auto-Assign功能，自动分配专家知识，提高知识分享效率。新功能简化了专家分配过程，通过声誉自动分配专家标签，提升内容质量。此外，增强搜索功能可总结相关搜索结果，并转换为可发现和重用的问答。</description>
       <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Training a million models per day to save customers of all sizes from DDoS attacks</title>
+      <link>https://blog.cloudflare.com/training-a-million-models-per-day-to-save-customers-of-all-sizes-from-ddos</link>
+      <description>Cloudflare通过每天训练数百万个模型来保护客户免受DDoS攻击。该系统通过分析流量并识别异常模式来检测攻击，同时利用机器学习技术来提高检测的准确性。这种方法不仅能够保护大型企业，也能保护小型网站，确保其在线安全。</description>
+      <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>4.2 Tbps of bad packets and a whole lot more: Cloudflare's Q3 DDoS report</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-for-2024-q3</link>
+      <description>Cloudflare发布的2024年第三季度DDoS威胁报告显示，DDoS攻击数量激增，Cloudflare成功缓解了近600万次攻击，其中最大的攻击峰值达到4.2 Tbps。报告还指出，金融服务业遭受了最多的DDoS攻击，中国是攻击目标最多的国家，而印度尼西亚是攻击源最多的国家。Cloudflare的自动化DDoS防御系统在2024年前三季度共缓解了1450万次攻击。</description>
+      <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s new with Robinhood, our in-house load balancing service</title>
+      <link>https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service</link>
+      <description>Dropbox的内部负载均衡服务Robinhood在2020年部署，通过使用PID控制器，提高了负载不平衡的管理效率，显著降低了硬件成本。该服务通过收集服务器负载信息，并将其与路由信息结合，实现更有效的负载均衡。Robinhood的架构包括负载均衡服务、代理和路由数据库，通过这些组件，Dropbox成功减少了服务舰队规模，提高了可靠性。</description>
+      <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: introducing the Food issue</title>
+      <link>https://www.technologyreview.com/2024/10/23/1106093/the-download-introducing-the-food-issue/</link>
+      <description>《MIT技术评论》的《食品》特刊探讨了全球粮食安全问题，包括非洲通过恢复本土作物应对饥饿，火星殖民需要自给自足的农业技术，以及利用细菌处理温室气体生产食物等创新解决方案。</description>
+      <pubDate>2024-10-23 12:10:00</pubDate>
     </item>
   
     <item>
@@ -109,6 +228,20 @@
       <link>https://developers.redhat.com/articles/2024/10/23/log4shell-vulnerability-shook-world-software-development</link>
       <description>Log4Shell漏洞在Java应用中引发全球关注，揭示了技术评估的重要性。通过多维度的技术评估，企业可提前识别潜在风险，避免类似危机。评估应涵盖财务、法律、生产力、安全、伦理、环境、兼容性和用户体验等方面。采取及时审计、更新计划和投资于安全措施，确保技术稳健和安全。</description>
       <pubDate>2024-10-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Querieous Strings</title>
+      <link>https://thedailywtf.com/articles/querieous-strings</link>
+      <description>Remy Porter在《每日WTF》上撰文，讨论了在处理HTTP请求时，如何通过一种复杂且低效的方式索引键值对。文章指出，开发者使用了冗长的条件语句来检查请求参数，而没有利用.NET提供的QueryString类型来简化这一过程。这种做法不仅效率低下，而且容易出错。</description>
+      <pubDate>2024-10-23 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Build Secure Okta Node.js Integrations with DPoP</title>
+      <link>https://developer.okta.com/blog/2024/10/23/dpop-oauth-node</link>
+      <description>本文介绍了如何使用DPoP（证明持有）技术来增强Okta Node.js集成应用的安全性。通过配置OAuth 2.0客户端凭据流，并添加DPoP约束，可以确保每个请求都来自最初请求令牌的原始客户端，从而提高访问令牌的安全性。文章详细说明了如何设置Node.js服务应用，包括配置环境变量、生成密钥、创建JWT令牌以及如何将DPoP集成到应用中。</description>
+      <pubDate>2024-10-23 05:00:00</pubDate>
     </item>
   
     <item>
