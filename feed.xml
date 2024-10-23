@@ -13,10 +13,88 @@
     </item>
   
     <item>
+      <title>Python Thread Safety: Using a Lock and Other Techniques</title>
+      <link>https://realpython.com/python-thread-lock/</link>
+      <description>本文探讨了Python中的线程安全，包括理解线程安全、处理竞争条件和使用同步原语（如锁、信号、条件、屏障）来确保代码的线程安全性。文章强调了全局解释器锁（GIL）对线程的影响，并解释了如何在多线程环境中避免竞争条件。通过学习这些技术，开发者可以编写出既高效又可靠的并发代码。</description>
+      <pubDate>2024-10-23 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the Confluent for Startups AI Accelerator Program: Empowering the First Generation of Real-Time AI Startups</title>
+      <link>https://www.confluent.io/blog/confluent-ai-accelerator-program-empowers-real-time-AI-startups/</link>
+      <description>Confluent推出针对初创企业的AI加速器计划，旨在支持实时AI创新。该计划为期10周，为10至15家早期AI初创企业提供数据流技术支持，帮助他们加速产品开发，优化开发流程，并快速将创新产品推向市场。初创企业将获得早期访问Confluent最新AI/ML技术、一对一技术及商业指导、市场曝光、产品信用和折扣等福利。</description>
+      <pubDate>2024-10-23 13:50:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Model-Based Testing with Testcontainers and Jqwik</title>
+      <link>https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/</link>
+      <description>本文探讨了使用Testcontainers和Jqwik进行基于模型的测试（MBT），这是一种通过建模软件预期行为来自动化测试用例生成的技术。通过在JUnit 5上使用jqwik测试引擎，结合Testcontainers启动不同版本的Docker容器，实现了对REST API的回归测试。文章详细介绍了MBT方法，包括如何使用测试工具自动生成测试序列，并执行和比较结果。此外，还展示了如何使用Docker Compose设置测试环境，以及如何利用jqwik的属性测试框架来增强测试覆盖率和发现边缘情况。</description>
+      <pubDate>2024-10-23 13:31:36</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing Access for Infrastructure: SSH</title>
       <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
       <description>Cloudflare推出“基础设施访问”功能，将BastionZero集成到其SASE平台Cloudflare One中，以实现零信任控制。该功能提供短期SSH访问，并支持远程桌面协议（RDP）、Kubernetes和数据库等基础设施访问类型。通过使用Cloudflare管理的证书颁发机构（CA）签发的短期SSH证书，组织可以消除管理SSH密钥的风险，并通过策略控制访问权限，提高安全性。</description>
       <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enterprise 2024.7: Empower your subject matter experts to contribute</title>
+      <link>https://stackoverflow.blog/2024/10/23/empower-subject-matter-experts-to-contribute/</link>
+      <description>Stack Overflow for Teams Enterprise 2024.7版本推出SME Auto-Assign功能，自动分配专家知识，提高知识分享效率。新功能简化了专家分配过程，通过声誉自动分配专家标签，提升内容质量。此外，增强搜索功能可总结相关搜索结果，并转换为可发现和重用的问答。</description>
+      <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding Kubernetes Metrics Server: Your Go-to Guide</title>
+      <link>https://last9.io/blog/kubernetes-metrics-server/</link>
+      <description>Kubernetes Metrics Server是监控集群资源使用的关键工具，它收集CPU和内存使用数据，并通过Metrics API与Kubernetes API服务器共享，确保集群性能和可伸缩性。本文介绍了Metrics Server的作用、安装配置方法、与其他监控工具的比较，以及如何使用Metrics Server进行水平 pod 自动缩放。</description>
+      <pubDate>2024-10-23 12:05:27</pubDate>
+    </item>
+  
+    <item>
+      <title>7 Ways to Get Practical Code Feedback</title>
+      <link>https://spin.atomicobject.com/get-practical-code-feedback/</link>
+      <description>总结：
+本文探讨了如何获得实用的代码反馈，强调了保持变更小、工作在范围内、提供良好反馈、设定基调、停止吹毛求疵、编写测试和教学与学习的重要性。通过这些方法，可以促进团队协作，提高代码质量，并营造一个共同成长的环境。</description>
+      <pubDate>2024-10-23 12:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing: The AI Hype Index</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105192/ai-hype-index-nov-dec-2024/</link>
+      <description>MIT Technology Review发布《AI炒作指数》，概述AI行业现状，包括令人兴奋的新进展和令人担忧的趋势，如深度伪造和缺乏监管的AI模型。同时，AI在游戏、乒乓球和动物交流等领域展现潜力，证明其多样性和不平凡。</description>
+      <pubDate>2024-10-23 10:45:00</pubDate>
+    </item>
+  
+    <item>
+      <title>GMOs could reboot chestnut trees</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105275/gmo-chestnut-trees-american-castanea-genetics-revival/</link>
+      <description>美国初创公司American Castanea致力于复兴美国栗树，通过基因工程培育抗病品种，旨在恢复森林生态。这一项目有望成为环保人士重新部署树木的范例，对抗气候变化和生物多样性丧失。公司计划通过生物信息学和人工智能技术，开发出更多抗病、适应不同用途的新品种，加速森林恢复和坚果生产。</description>
+      <pubDate>2024-10-23 10:22:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Green Revolution redux</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105291/green-revolution-plant-engineering-crispr-farming-agriculture/</link>
+      <description>20世纪60年代，绿色革命通过改良小麦和水稻品种显著提高了粮食产量，缓解了饥荒。然而，传统育种技术的局限性限制了进一步增产。随着CRISPR等基因编辑技术的出现，科学家们能够更精确地编辑植物基因，缩短了从实验室到种子产品的周期。现代植物工程不仅关注单株产量，还追求每亩产量，如转基因作物和富含营养的农作物。尽管公众对转基因作物的接受度有限，但随着气候变化和人口增长，具有气候友好特征的转基因作物将越来越普遍。</description>
+      <pubDate>2024-10-23 09:20:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The algorithms around us</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105260/ai-book-review-andrew-smith-ethan-mollick-hannah-silva/</link>
+      <description>三本书探讨了人工智能的机遇与挑战。Andrew Smith在《Devil in the Stack》中揭示了计算机代码如何渗透到我们生活的各个领域，并探讨了抽象化带来的便利与风险。Ethan Mollick在《Co-Intelligence》中倡导人机协作，认为AI将成为我们的伙伴和助手。Hannah Silva在《My Child, the Algorithm》中通过个人经历探讨了人工智能与人类身份的关系。</description>
+      <pubDate>2024-10-23 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Note from the Editor</title>
+      <link>https://www.technologyreview.com/2024/10/23/1105298/editor-letter-mat-honan-food-agriculture/</link>
+      <description>《麻省理工科技评论》最新一期聚焦食物问题，探讨如何利用高科技和低科技手段解决全球粮食安全问题。文章涵盖非洲恢复本土作物、高科技细菌生产食物、火星土壤改良等创新方案，同时也提醒技术并非万能，如除草剂抗性杂草和人工制冷对食物供应的潜在危害。</description>
+      <pubDate>2024-10-23 09:00:00</pubDate>
     </item>
   
     <item>
@@ -34,10 +112,38 @@
     </item>
   
     <item>
+      <title>Nested Describe Blocks Are Now Available in Pest v3.5</title>
+      <link>https://laravel-news.com/pest-3-5-0</link>
+      <description>Pest 3.5版本新增支持嵌套的describe()测试块，允许用户在测试文件中更灵活地组织测试，将相关测试分组在父describe()块内。这一更新提高了测试的组织性和可读性，并鼓励更清晰的测试结构。</description>
+      <pubDate>2024-10-23 02:47:24</pubDate>
+    </item>
+  
+    <item>
       <title>LLM-assisted vector similarity search</title>
       <link>https://engineering.grab.com/llm-assisted-vector-similarity-search</link>
       <description>本文探讨了结合向量相似性搜索和大型语言模型（LLM）以提升搜索结果的相关性和准确性的方法。通过实验表明，这种方法在处理复杂查询时具有明显优势，尤其是在需要理解上下文、细微差别和概念关系时。LLM能够更好地捕捉复杂查询的意图，从而提供更相关的搜索结果。</description>
       <pubDate>2024-10-23 00:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Macro trends in the tech industry | October 2024</title>
+      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/macro-trends-tech-industry-october-2024</link>
+      <description>2024年10月，技术行业宏观趋势分析显示，人工智能（AI）和生成式AI（GenAI）在软件交付生态系统中的影响日益显著，工具如GitHub Copilot和Cursor正在改变软件开发流程。同时，对AI局限性和风险的认知也在增加，包括对GenAI的过度承诺。此外，Rust语言和WebAssembly（WASM）的使用增长，以及PostgreSQL数据库的普及，表明技术治理和基础设施即代码（IaC）的重要性持续上升。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Reckoning with generative AI’s uncanny valley</title>
+      <link>https://www.thoughtworks.com/insights/blog/generative-ai/reckoning-generative-ai-uncanny-valley</link>
+      <description>生成式AI的“诡异谷”现象提醒我们重新审视对技术的期望和认知。文章指出，尽管AI技术不断进步，但我们需要认识到其局限性和潜在风险。通过调整心态、采用新的工具和技术，我们可以更好地理解和控制AI，从而构建更可靠和负责任的产品。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Asahi Linux is not for me</title>
+      <link>https://www.devroom.io/2024/10/23/why-asahi-linux-is-not-for-me/</link>
+      <description>Asahi Linux在MacBook Pro上的体验：尽管Asahi Linux让Linux在苹果硬件上运行成为可能，但作者发现其存在一些问题，如音频输出差、内置麦克风不工作、电池续航不佳等，这些缺点使其不适合作为移动工作站使用。作者建议，如果用户对Linux有坚定信念且能忍受这些问题，可以考虑使用Asahi Linux。但对于需要良好音频和电池管理的用户，可能需要考虑其他硬件。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
     </item>
   
     <item>
@@ -297,6 +403,13 @@
       <link>https://laravel-news.com/php-svg-charts-maantje</link>
       <description>《PHP SVG图表库maantje/charts》介绍：这是一个零依赖的PHP库，用于生成SVG图表。它具有简单直观的API，支持多种图表类型，如折线图、柱状图、堆叠图和混合图，且可自定义和扩展。无需外部依赖，输出纯SVG，适用于嵌入PDF等。</description>
       <pubDate>2024-10-22 12:48:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Treblle 3.0: Enhancing Your API Observability and Developer Experience</title>
+      <link>https://laravel-news.com/introducing-treblle-3</link>
+      <description>Treblle 3.0是API可观察性和开发者体验的升级版，提供实时API洞察、AI助手、工作空间、高级警报、API目录、数据隐私保护和高级跟踪功能，旨在简化API管理并提高开发效率。</description>
+      <pubDate>2024-10-22 12:47:51</pubDate>
     </item>
   
     <item>
