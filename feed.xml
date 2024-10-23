@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Safeguarding the future of frictionless banking against fraud</title>
+      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/safeguarding-the-future-of-frictionless-banking-against-fraud</link>
+      <description>为了保护无摩擦银行的未来，金融科技公司必须平衡速度和安全性。文章指出，尽管技术进步带来了便利，但也为欺诈者提供了更多机会。因此，公司需要采用多层次的安全措施，包括人工智能和机器学习来实时检测欺诈，同时保持用户界面流畅。此外，通过在交易过程中嵌入智能摩擦点，金融机构可以保护客户和自身声誉，确保在快速发展的数字世界中保持信任。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing Access for Infrastructure: SSH</title>
       <link>https://blog.cloudflare.com/intro-access-for-infrastructure-ssh</link>
       <description>Cloudflare推出“基础设施访问”功能，将BastionZero集成到其SASE平台Cloudflare One中，以实现零信任控制。该功能提供短期SSH访问，并支持远程桌面协议（RDP）、Kubernetes和数据库等基础设施访问类型。通过使用Cloudflare管理的证书颁发机构（CA）签发的短期SSH证书，组织可以消除管理SSH密钥的风险，并通过策略控制访问权限，提高安全性。</description>
       <pubDate>2024-10-23 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What is API Drift, and What Can You Do About It?</title>
+      <link>https://nordicapis.com/what-is-api-drift-and-what-can-you-do-about-it/</link>
+      <description>API漂移是指生产中的API与规范不符，导致开发者难以了解API功能。文章探讨了API漂移的原因，如规划不足、测试和控制不严格，以及如何通过版本控制、文档审查和变更管理来减轻API漂移。</description>
+      <pubDate>2024-10-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Log4Shell: The vulnerability that shook the world of software development</title>
+      <link>https://developers.redhat.com/articles/2024/10/23/log4shell-vulnerability-shook-world-software-development</link>
+      <description>Log4Shell漏洞在Java应用中引发全球关注，揭示了技术评估的重要性。通过多维度的技术评估，企业可提前识别潜在风险，避免类似危机。评估应涵盖财务、法律、生产力、安全、伦理、环境、兼容性和用户体验等方面。采取及时审计、更新计划和投资于安全措施，确保技术稳健和安全。</description>
+      <pubDate>2024-10-23 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>LLM-assisted vector similarity search</title>
+      <link>https://engineering.grab.com/llm-assisted-vector-similarity-search</link>
+      <description>本文探讨了结合向量相似性搜索和大型语言模型（LLM）以提升搜索结果的相关性和准确性的方法。通过实验表明，这种方法在处理复杂查询时具有明显优势，尤其是在需要理解上下文、细微差别和概念关系时。LLM能够更好地捕捉复杂查询的意图，从而提供更相关的搜索结果。</description>
+      <pubDate>2024-10-23 00:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Turbocharging GPU Inference at Logically AI</title>
+      <link>https://www.databricks.com/blog/turbocharging-gpu-inference-logically-ai</link>
+      <description>Logically AI通过优化GPU资源利用，显著缩短了复杂模型的运行时间。通过调整任务分配、并发任务执行和合并分区，Logically将旗舰模型的运行时间减少了40%。这些优化有助于更有效地处理大量数据，对抗社交媒体和互联网上的虚假信息传播。</description>
+      <pubDate>2024-10-22 21:09:41</pubDate>
     </item>
   
     <item>
@@ -349,6 +384,13 @@
     </item>
   
     <item>
+      <title>Quick link: It's not tokens all the way down</title>
+      <link>https://blog.rinesi.com/2024/10/koopman</link>
+      <description>这篇文章探讨了使用Koopman算子进行非线性动力系统因果发现的方法，这是一种通过可观测函数空间中的诱导线性动力学来测量系统组件间因果影响的数据驱动方法。尽管这种方法在技术上较为复杂，但它可能成为未来生物学、工程学等领域革命性AI背后的关键。作者认为，随着现有AI模型在提供超人类分析能力方面的局限性日益明显，这种数学方法可能会成为公司和经济体的主要战略差异化因素。</description>
+      <pubDate>2024-10-22 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Rovo for GitHub Copilot leads Atlassian’s new developer focused innovations at GitHub Universe</title>
       <link>https://www.atlassian.com/blog/developer/atlassian-developer-innovation-rovo-for-github-copilot</link>
       <description>Atlassian在GitHub Universe上展示了针对开发者的新创新，包括Rovo for GitHub Copilot，它通过直接在IDE中访问Jira和Confluence的数据来减少上下文切换，提高开发效率。此外，Atlassian的内部开发者平台Compass帮助开发者管理复杂性，而新的AI开发代理则旨在加速工作流程和代码审查。</description>
@@ -408,6 +450,13 @@
       <title>Building confidence through code: How Saarika Bhasi restarted her career in tech</title>
       <link>https://www.elastic.co/blog/culture-restart-tech-career</link>
       <description>Saarika Bhasi，一位软件工程师，分享了她在技术行业重新开始的经历。她通过学习前端开发，提升了自己的技能，并在Elastic公司找到了工作。她鼓励女性在技术领域保持自信，积极提问，并追求自己的兴趣。</description>
+      <pubDate>2024-10-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Adding row polymorphism to Damas-Hindley-Milner</title>
+      <link>https://bernsteinbear.com/blog/row-poly/?utm_source=rss</link>
+      <description>本文探讨了在Damas-Hindley-Milner类型系统中加入行多态性的方法。通过引入行（rows）的概念来模拟记录（records），并详细解释了如何通过类型推断和模式匹配来支持这种多态性。文章还讨论了如何统一行类型以及如何处理行多态性中的类型错误。</description>
       <pubDate>2024-10-22 00:00:00</pubDate>
     </item>
   
