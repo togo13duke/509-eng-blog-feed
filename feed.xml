@@ -20,6 +20,13 @@
     </item>
   
     <item>
+      <title>Location tracking of phones is out of control. Here’s how to fight back.</title>
+      <link>https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/</link>
+      <description>手机定位追踪失控，本文介绍了如何对抗。Babel Street的Location X服务能追踪数亿手机用户的位置，尽管限制于政府机构，但个人也能获取试用。该服务能追踪历史位置，如警察和堕胎诊所访客。Android和iOS默认允许应用访问位置，用户应审查并限制权限，以保护隐私。</description>
+      <pubDate>2024-10-23 23:03:15</pubDate>
+    </item>
+  
+    <item>
       <title>At TED AI 2024, experts grapple with AI’s growing pains</title>
       <link>https://arstechnica.com/ai/2024/10/at-ted-ai-2024-experts-grapple-with-ais-growing-pains/</link>
       <description>在2024年TED AI会议上，专家们讨论了人工智能的挑战和发展。会议聚焦于AI在科学、艺术和社会中的影响，包括训练数据权利、硬件监管、人机关系和工作场所的采用等议题。与会者探讨了AI的即时挑战，如生产力悖论，即AI的实际影响与其感知效益之间的脱节。同时，会议也涉及了AI的潜在危险，如恶意使用AI模型的风险，以及对艺术和版权的影响。专家们提出了新的AI架构和未来发展方向，如量子神经形态计算和基于物理的智能。</description>
@@ -311,6 +318,15 @@
       <title>Humanizing your data strategy: Seven key ideas for the AI era</title>
       <link>https://www.thoughtworks.com/insights/blog/data-strategy/humanizing-your-data-strategy-seven-key-ideas-for-the-ai-era</link>
       <description>数据策略人性化：在人工智能时代，通过以下七个关键点来引领数据战略：结合数据素养与商业洞察力，超越服务与自助的共创，通过“跟随痛苦”解决实际问题，共同发现数据目的，协调组织和个人数据价值视角，激发创造力，以及通过跨职能协作负责任地管理数据。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Create Dynamic Data Visualizations in Laravel with D3.js</title>
+      <link>https://www.twilio.com/en-us/blog/create-dynamic-data-visualisations-laravel-d3js</link>
+      <description>使用Laravel和D3.js创建动态数据可视化
+
+本文介绍了如何利用Laravel强大的数据处理能力和D3.js的复杂可视化技术，创建动态数据可视化。通过结合这两种技术，可以更直观地展示数据，帮助用户理解复杂信息，并做出更明智的决策。文章还讨论了动态数据可视化的好处，包括有效沟通、增强用户参与度、改善决策质量等。</description>
       <pubDate>2024-10-23 00:00:00</pubDate>
     </item>
   
