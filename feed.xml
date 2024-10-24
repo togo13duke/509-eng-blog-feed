@@ -6,9 +6,107 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Maximizing design impact with Confluence</title>
+      <link>https://www.atlassian.com/blog/confluence/maximizing-design-impact-with-confluence</link>
+      <description>使用Confluence最大化设计影响力，为设计师提供集中式文档共享和实时协作平台，提升跨职能沟通和迭代效率，确保设计工作与项目目标一致，从而提高团队协作效率和产品成功。</description>
+      <pubDate>2024-10-24 19:36:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Attacking browser extensions</title>
+      <link>https://github.blog/security/vulnerability-research/attacking-browser-extensions/</link>
+      <description>浏览器扩展安全：了解浏览器扩展的结构和潜在漏洞，学习如何使用CodeQL确保扩展的安全性。</description>
+      <pubDate>2024-10-24 18:15:02</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET Upgrade Assistant Now Supports Upgrading to Centralized Package Mangement</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-upgrade-assistant-cpm-upgrade/</link>
+      <description>.NET升级助手新增支持升级到集中式包管理，可帮助用户将解决方案升级到更高版本的.NET，并支持使用NuGet中央包管理（CPM）。通过Visual Studio扩展或命令行工具，用户可以选择将整个解决方案或选定项目转换为使用CPM，并提供了定制选项和配置文件。此外，升级助手还改进了文件更改的发现和工具的易用性，并支持了更安全的Visual Studio版本。</description>
+      <pubDate>2024-10-24 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Cost-Optimized Chatbot with Semantic Caching</title>
+      <link>https://www.databricks.com/blog/building-cost-optimized-chatbot-semantic-caching</link>
+      <description>Databricks博客文章介绍了如何通过语义缓存构建成本优化的聊天机器人。文章指出，虽然高性能的聊天机器人可以提升工作效率，但成本高昂。通过使用语义缓存，可以重用之前的响应，避免不必要的LLM查询，从而降低成本。Databricks提供了构建此类聊天机器人的工具和平台，包括向量搜索、模型管理和部署功能。</description>
+      <pubDate>2024-10-24 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Avoiding value decay in digital transformation</title>
+      <link>https://www.technologyreview.com/2024/10/24/1106197/avoiding-value-decay-in-digital-transformation/</link>
+      <description>企业数字化转型中避免价值衰减，需全面考虑技术系统的组件和交付，并制定长期转型计划。Deloitte分析显示，正确组合的数字化转型措施可为所有《财富》500强公司带来高达1.25万亿美元的额外市值。成功的关键包括确保包容性治理、跨业务、人力资源、财务和IT利益相关者的透明度和共同所有权。</description>
+      <pubDate>2024-10-24 16:33:57</pubDate>
+    </item>
+  
+    <item>
+      <title>Cybersecurity spotlight on bug bounty researcher @adrianoapj</title>
+      <link>https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-adrianoapj/</link>
+      <description>GitHub安全漏洞研究：突出展示漏洞赏金猎人@adrianoapj，强调GitHub安全漏洞赏金计划对软件生态系统安全的重要性，并介绍@adrianoapj在信息泄露方面的研究及其在GitHub平台上的贡献。</description>
+      <pubDate>2024-10-24 16:00:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Take a Tour of Model Builder and the Models API (Beta)</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/take-a-tour-of-model-builder-and-the-models-api.html</link>
+      <description>Model Builder和Models API是Salesforce平台扩展生成式AI能力的强大工具。通过Model Builder，用户可以配置和测试预配置的模型，并通过BYOLLM技术连接自定义外部模型。Models API允许直接通过Apex或REST调用模型，支持多种生成式AI用例，如单轮交互、多轮对话、收集用户反馈和语义相似性任务。这些工具简化了将生成式AI集成到自定义应用程序中的过程，同时利用Salesforce的Einstein Trust Layer提供的安全保障。</description>
+      <pubDate>2024-10-24 15:00:57</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #89: Housing (solution)</title>
+      <link>https://www.bambooweekly.com/bw-89-housing-solution/</link>
+      <description>美国住房问题成为总统大选的重要议题，副总统哈里斯提出增加住房供应和降低首次购房者价格的计划。文章分析了美国人口普查局关于每年住房开工和完工数量的数据，探讨了住房市场变化，指出2020年住房开工量下降，美国尚未从危机中恢复。</description>
+      <pubDate>2024-10-24 15:00:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Bringing Together Data Intelligence and Evaluation Intelligence: Databricks Ventures Invests in Galileo</title>
+      <link>https://www.databricks.com/blog/bringing-together-data-intelligence-and-evaluation-intelligence-databricks-ventures-invests</link>
+      <description>Databricks Ventures投资了专注于AI评估智能的初创公司Galileo，以帮助客户从试点到生产阶段解决“测量问题”。Galileo的Luna评估套件提供了一套专有指标和评估基础模型，使团队能够在整个AI开发工作流程中进行评估，无需真实数据即可快速部署，并适应特定用例的数据。Databricks和Galileo的合作将使Databricks模型原生可用，为用户提供数据智能和评估智能。</description>
+      <pubDate>2024-10-24 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Reckoning with generative AI’s uncanny valley</title>
+      <link>https://www.technologyreview.com/2024/10/24/1106110/reckoning-with-generative-ais-uncanny-valley/</link>
+      <description>生成式AI的“诡异谷”现象并非问题，而是重新评估AI行业期望的机会。文章指出，随着AI变得更加“人类”，它可能会引起不安，但这是AI局限性的提醒。作者建议通过反思我们的假设和期望，以及采用如结构化输出和检索增强生成等工具，来克服这种不安。</description>
+      <pubDate>2024-10-24 14:37:42</pubDate>
+    </item>
+  
+    <item>
+      <title>How Wayve’s driverless cars will meet one of their biggest challenges yet</title>
+      <link>https://www.technologyreview.com/2024/10/24/1106156/wayve-driverless-cars-us-biggest-challenges-yet/</link>
+      <description>Wayve，一家英国自动驾驶汽车初创公司，正将其技术扩展到美国市场。其自动驾驶AI系统需要适应从左侧行驶到右侧行驶的转换，这是一个重大挑战。Wayve采用端到端学习的方法，其车辆通过摄像头、测试驾驶员反馈和模拟训练来学习驾驶。公司相信其技术具有通用性，能够适应不同城市和道路条件。Wayve计划将技术出售给现有汽车制造商，以实现全面自动驾驶。</description>
+      <pubDate>2024-10-24 14:30:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Big tech transitions are slow</title>
+      <link>https://blog.rootsofprogress.org/big-tech-transitions-are-slow</link>
+      <description>技术转型缓慢，以蒸汽机为例，从发明到广泛应用历时数十年甚至数百年。类似地，AI的转型也将是一个渐进的过程，尽管它在某些用例上表现出色，但其在关键领域的适用性仍有限，预计整个转型将需要数十年的时间。</description>
+      <pubDate>2024-10-24 14:12:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build durable applications on Cloudflare Workers: you write the Workflows, we take care of the rest</title>
+      <link>https://blog.cloudflare.com/building-workflows-durable-execution-on-workers</link>
+      <description>Cloudflare Workers推出新的“Workflows”功能，允许开发者构建可靠、可重复的多步骤应用程序。Workflows管理重试、指标和状态存储，无需开发者管理底层基础设施。通过将API调用或状态性操作封装为单独的步骤，Workflows提高了应用程序的容错性。</description>
+      <pubDate>2024-10-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Billions and billions (of logs): scaling AI Gateway with the Cloudflare Developer Platform</title>
       <link>https://blog.cloudflare.com/billions-and-billions-of-logs-scaling-ai-gateway-with-the-cloudflare</link>
       <description>云flare的AI Gateway通过扩展日志存储能力，解决了开发者面临的数据管理和分析难题。该平台已成功处理超过20亿次请求，并支持永久存储日志，帮助开发者追踪AI应用性能、安全性和运营洞察。AI Gateway利用云flare Workers平台，提供高效、可扩展的AI推理服务，并即将推出改进的通用端点和自动重试机制，以增强请求管理的可靠性和灵活性。</description>
+      <pubDate>2024-10-24 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Durable Objects aren't just durable, they're fast: a 10x speedup for Cloudflare Queues</title>
+      <link>https://blog.cloudflare.com/how-we-built-cloudflare-queues</link>
+      <description>Cloudflare Queues利用Durable Objects和Cloudflare开发者平台，实现了消息队列的快速、可靠和可扩展。通过迁移到新的架构，消息发送的中位延迟从约200毫秒降低到约60毫秒，吞吐量提高了10倍，从每秒400条消息增加到5000条，最大消费者并发调用从20增加到250。这种改进使得Queues在处理大规模工作负载时更加高效。</description>
       <pubDate>2024-10-24 13:00:00</pubDate>
     </item>
   
@@ -17,6 +115,13 @@
       <link>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</link>
       <description>本文介绍了如何使用MediaPipe和Three.js创建一个3D手部控制器，通过Web摄像头实现手部追踪和深度控制。作者详细讲解了如何设置MediaPipeHands实例、创建Three.js场景以及如何使用手部关键点进行交互和深度转换。此外，还展示了如何实现手势识别和碰撞检测，使手部控制器能够与3D场景中的物体进行交互。</description>
       <pubDate>2024-10-24 12:22:02</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: the AI Hype Index, and spotting machine-written text</title>
+      <link>https://www.technologyreview.com/2024/10/24/1106150/the-download-the-ai-hype-index-and-spotting-machine-written-text/</link>
+      <description>MIT Technology Review最新报道了人工智能行业的发展，包括Google DeepMind开发的AI文本水印工具SynthID，用于识别AI生成的文本。此外，文章还探讨了农业面临的气候问题，以及加州的木材废物处理计划。</description>
+      <pubDate>2024-10-24 12:10:00</pubDate>
     </item>
   
     <item>
@@ -69,6 +174,20 @@
     </item>
   
     <item>
+      <title>New report from 11:FS and GoCardless predicts open banking adoption trends over time, as almost a quarter of UK businesses already ‘very familiar’ with the technology</title>
+      <link>https://gocardless.com/blog/open-banking-report-11fs-and-gocardless/</link>
+      <description>开放银行采用率正在上升，但若要实现真正的普及，其发展正处于关键点。根据11:FS咨询公司和银行支付公司GoCardless发布的新报告，通过近1000家英国企业的调查，近四分之一的企业表示对开放银行“非常熟悉”。报告指出，采用率最高的行业包括从信用卡支付中节省成本的行业、高价值交易行业以及拥有更多定期在线支付的软件公司。尽管存在障碍，但大多数英国企业表示有兴趣尝试开放银行支付。</description>
+      <pubDate>2024-10-24 05:37:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Blasp is a Profanity Filter Package for Laravel</title>
+      <link>https://laravel-news.com/blasp-profanity-filter-package-for-laravel</link>
+      <description>Blasp是一个用于Laravel的粗口过滤器包，可检测并屏蔽不雅词汇。它支持多种匹配方式，包括直接匹配、类似替换、隐藏不雅词汇和重复字母等。此外，它还提供了一个验证规则，用于检查表单输入中的不雅词汇。</description>
+      <pubDate>2024-10-24 02:20:58</pubDate>
+    </item>
+  
+    <item>
       <title>Safeguarding the future of frictionless banking against fraud</title>
       <link>https://www.thoughtworks.com/insights/blog/technology-strategy/safeguarding-the-future-of-frictionless-banking-against-fraud</link>
       <description>为了保护无摩擦银行的未来，金融科技公司必须平衡速度和安全性。文章指出，尽管技术进步带来了便利，但也为欺诈者提供了更多机会。因此，公司需要采用多层次的安全措施，包括人工智能和机器学习来实时检测欺诈，同时保持用户界面流畅。此外，通过在交易过程中嵌入智能摩擦点，金融机构可以保护客户和自身声誉，确保在快速发展的数字世界中保持信任。</description>
@@ -79,6 +198,21 @@
       <title>Safeguarding the future of frictionless banking against fraud</title>
       <link>https://www.thoughtworks.com/insights/articles/safeguarding-future-frictionless-banking-against-fraud</link>
       <description>为了保护无缝银行的未来，金融科技公司必须平衡速度和安全性。文章指出，尽管追求快速交易，但安全漏洞可能导致欺诈。因此，公司需要采用多层次的安全措施，包括人工智能和机器学习驱动的欺诈检测，以及边缘设备安全性和分级安全协议，以保护客户信任并防止欺诈。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ASP.NET Core Authentication Behind Proxies</title>
+      <link>https://auth0.com/blog/aspnet-core-authentication-behind-proxies/</link>
+      <description>总结：
+本文探讨了在ASP.NET Core应用程序位于代理、负载均衡器或容器等中间件之后时，如何解决身份验证配置问题。文章解释了当应用程序在容器或反向代理后面运行时，可能会遇到的错误类型，如HTTP协议错误、内部域名错误等。通过使用X-Forwarded-*头和Forwarded Headers中间件，可以正确地构建回调URL，从而解决这些问题。文章还提供了配置和启用这些解决方案的步骤。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Document-oriented Databases Store Data Similar to JSON Objects</title>
+      <link>https://www.amitmerchant.com/how-document-oriented-databases-store-data-similar-to-json-objects/</link>
+      <description>本文探讨了文档型数据库如何以类似JSON对象的方式存储数据。文章解释了文档型数据库和JSON对象在存储和检索数据方面的相似性，包括它们如何处理半结构化和非结构化数据，以及它们在灵活性和可扩展性方面的优势。此外，文章还比较了JSON对象和文档型数据库在数据存储结构上的相似之处，并讨论了它们在Web应用和其他现代应用中的使用。</description>
       <pubDate>2024-10-24 00:00:00</pubDate>
     </item>
   
@@ -122,6 +256,13 @@
       <link>https://devblogs.microsoft.com/dotnet/e-shop-infused-with-ai-comprehensive-intelligent-dotnet-app-sample/</link>
       <description>eShop支持AI版是一个集成了人工智能功能的客户支持网站，展示了如何将AI技术应用于现有业务应用中，提高开发效率和个性化客户支持。该示例包括语义搜索、数据摘要、分类、情感评分、内部问答聊天机器人等功能，并使用.NET Aspire进行服务编排，以及Microsoft.Extensions.AI库进行智能应用开发。</description>
       <pubDate>2024-10-23 17:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Translation Checker</title>
+      <link>https://laravel-news.com/translation-checker</link>
+      <description>Casper Bottelet的Translation Checker是一个用于更新多语言Laravel应用翻译的工具。它扫描项目代码中的字符串，与语言文件比较，自动添加缺失的翻译键。支持Laravel和多种前端框架，如Vue.js、React和Svelte。通过命令行工具可检查、管理、更新翻译，并支持配置翻译服务、指定源路径和定义语言文件夹。</description>
+      <pubDate>2024-10-23 16:02:56</pubDate>
     </item>
   
     <item>
@@ -178,6 +319,13 @@
       <link>https://stackoverflow.blog/2024/10/23/improve-developer-experience-ecommerce-fastlane-paypal-sponsored/</link>
       <description>本文探讨了如何提升电商世界中开发者的体验。PayPal推出的Fastlane SDK简化了开发者集成新技术的过程，并针对小型企业和大型企业提供灵活的解决方案。Fastlane通过优化支付流程、提供清晰的文档和工具，帮助开发者更快地完成集成，从而提高转化率和客户满意度。</description>
       <pubDate>2024-10-23 14:58:24</pubDate>
+    </item>
+  
+    <item>
+      <title>How to take open banking payments mainstream</title>
+      <link>https://gocardless.com/blog/how-to-take-open-banking-payments-mainstream/</link>
+      <description>开放银行支付正逐渐成为主流，研究表明，超过五分之一的中小企业和七分之一的英国消费者已使用开放银行支付。该报告指出，开放银行支付在金融、软件即服务和公用事业等远程、高价值交易或定期订阅用例中应用最广泛。然而，要实现更广泛的采用，需要解决基础设施、客户认知、用户体验、商业模式、可变定期支付和监管限制等挑战。</description>
+      <pubDate>2024-10-23 14:21:11</pubDate>
     </item>
   
     <item>
@@ -397,6 +545,13 @@
       <description>使用Laravel和D3.js创建动态数据可视化
 
 本文介绍了如何利用Laravel强大的数据处理能力和D3.js的复杂可视化技术，创建动态数据可视化。通过结合这两种技术，可以更直观地展示数据，帮助用户理解复杂信息，并做出更明智的决策。文章还讨论了动态数据可视化的好处，包括有效沟通、增强用户参与度、改善决策质量等。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>JSON - The Fine Print: Part 1</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-part-1.html</link>
+      <description>本文探讨了JSON的使用，包括其序列化过程、常见错误以及Go语言中的JSON处理。文章强调了在程序边缘进行序列化、为每个应用层使用不同的数据类型以及始终验证传入数据的重要性。此外，还介绍了JSON的类型映射、Go语言的内置支持以及如何使用encoding/json包进行序列化和反序列化。</description>
       <pubDate>2024-10-23 00:00:00</pubDate>
     </item>
   
@@ -678,6 +833,13 @@
       <link>https://spin.atomicobject.com/junior-developers-product-teams/</link>
       <description>初级开发者对产品团队的价值体现在：他们促进学习和教学文化，带来新视角，增强团队动态和沟通，对团队长期健康至关重要，以独特方式贡献，并帮助资深开发者成长为领导者。</description>
       <pubDate>2024-10-22 12:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Defining Your Own Python Function</title>
+      <link>https://realpython.com/quizzes/defining-your-own-python-function/</link>
+      <description>本篇博客介绍了一项名为“定义自己的Python函数”的互动测验，旨在测试读者对如何定义Python函数的理解。测验包含18个问题，无时间限制，每答对一题得1分，最终获得总分。文章还提供了相关教程和课程资源，帮助读者深入学习函数定义和调用。</description>
+      <pubDate>2024-10-22 12:00:00</pubDate>
     </item>
   
     <item>
