@@ -13,6 +13,20 @@
     </item>
   
     <item>
+      <title>Safeguarding the future of frictionless banking against fraud</title>
+      <link>https://www.thoughtworks.com/insights/articles/safeguarding-future-frictionless-banking-against-fraud</link>
+      <description>为了保护无缝银行的未来，金融科技公司必须平衡速度和安全性。文章指出，尽管追求快速交易，但安全漏洞可能导致欺诈。因此，公司需要采用多层次的安全措施，包括人工智能和机器学习驱动的欺诈检测，以及边缘设备安全性和分级安全协议，以保护客户信任并防止欺诈。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>At TED AI 2024, experts grapple with AI’s growing pains</title>
+      <link>https://arstechnica.com/ai/2024/10/at-ted-ai-2024-experts-grapple-with-ais-growing-pains/</link>
+      <description>在2024年TED AI会议上，专家们讨论了人工智能的挑战和发展。会议聚焦于AI在科学、艺术和社会中的影响，包括训练数据权利、硬件监管、人机关系和工作场所的采用等议题。与会者探讨了AI的即时挑战，如生产力悖论，即AI的实际影响与其感知效益之间的脱节。同时，会议也涉及了AI的潜在危险，如恶意使用AI模型的风险，以及对艺术和版权的影响。专家们提出了新的AI架构和未来发展方向，如量子神经形态计算和基于物理的智能。</description>
+      <pubDate>2024-10-23 22:32:14</pubDate>
+    </item>
+  
+    <item>
       <title>Surrogate Modeling for Rapid Decision-Making</title>
       <link>https://galois.com/blog/2024/10/surrogate-modeling-for-rapid-decision-making/</link>
       <description>Galois公司开发了一种名为代理建模的技术，用于快速决策。该技术通过高效的代理模型，可以快速评估不同飞行平台和传感器载荷的组合，帮助飞行员在有限的时间和资源内做出最佳决策。这种方法适用于各种设计领域，包括航空航天、任务规划和更多。通过结合数据驱动的代理模型和快速计算的低保真物理模拟器，Galois的解决方案能够提供关键性能指标，如任务成功率、完成时间和剩余电池电量。</description>
@@ -51,6 +65,13 @@
       <title>Announcing 1-Click Models powered by Hugging Face on DigitalOcean</title>
       <link>https://www.digitalocean.com/blog/one-click-models-on-do-powered-by-huggingface</link>
       <description>DigitalOcean推出由Hugging Face支持的1-Click Models，简化AI模型部署，用户可快速在GPU Droplets上部署流行AI模型，如Meta的Llama 3和Mistral，无需复杂设置，提高开发效率。</description>
+      <pubDate>2024-10-23 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing 1-Click Models powered by Hugging Face on DigitalOcean</title>
+      <link>https://www.digitalocean.com/blog/</link>
+      <description>DigitalOcean博客提供关于云产品更新、公司新闻和教育内容，帮助开发者和初创企业利用云技术。文章涵盖产品更新、技术指南、合作伙伴新闻和社区活动，旨在促进云计算教育和创新。</description>
       <pubDate>2024-10-23 16:00:00</pubDate>
     </item>
   
@@ -276,6 +297,20 @@
       <title>Why Asahi Linux is not for me</title>
       <link>https://www.devroom.io/2024/10/23/why-asahi-linux-is-not-for-me/</link>
       <description>Asahi Linux在MacBook Pro上的体验：尽管Asahi Linux让Linux在苹果硬件上运行成为可能，但作者发现其存在一些问题，如音频输出差、内置麦克风不工作、电池续航不佳等，这些缺点使其不适合作为移动工作站使用。作者建议，如果用户对Linux有坚定信念且能忍受这些问题，可以考虑使用Asahi Linux。但对于需要良好音频和电池管理的用户，可能需要考虑其他硬件。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>11 HTML best practices for login &amp; sign-up forms</title>
+      <link>https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms</link>
+      <description>本文探讨了11个HTML最佳实践，以优化登录和注册表单的用户体验。建议包括使用自动完成、选择正确的输入类型、使用按钮而非div或span、将输入字段和提交按钮包裹在表单标签内、避免使用占位符作为标签、将复选框包裹在标签内、添加可见的焦点状态、为屏幕阅读器标记无效字段、防止在用户输入时进行验证、防止表单被重复提交，以及考虑网络延迟和服务器错误。这些实践有助于提高表单的可用性和用户体验。</description>
+      <pubDate>2024-10-23 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Humanizing your data strategy: Seven key ideas for the AI era</title>
+      <link>https://www.thoughtworks.com/insights/blog/data-strategy/humanizing-your-data-strategy-seven-key-ideas-for-the-ai-era</link>
+      <description>数据策略人性化：在人工智能时代，通过以下七个关键点来引领数据战略：结合数据素养与商业洞察力，超越服务与自助的共创，通过“跟随痛苦”解决实际问题，共同发现数据目的，协调组织和个人数据价值视角，激发创造力，以及通过跨职能协作负责任地管理数据。</description>
       <pubDate>2024-10-23 00:00:00</pubDate>
     </item>
   
@@ -619,6 +654,13 @@
       <title>eBay Dropping Rare Basketball Trading Cards in 24-Hour Auction Series</title>
       <link>https://www.ebayinc.com/stories/news/ebay-dropping-rare-basketball-trading-cards-in-24-hour-auction-series/</link>
       <description>eBay推出“Gametime Gets”系列，以24小时拍卖形式出售稀有篮球交易卡。由前WNBA MVP Candace Parker精选，当球员在场上达成里程碑时，这些卡片将上线拍卖。每张卡片拍卖起价24美分，旨在让球迷有机会收藏到具有历史意义的卡片。</description>
+      <pubDate>2024-10-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Shohei Ohtani’s 50th home run ball sells for record-setting $4.392 million in auction</title>
+      <link>https://www.nytimes.com/athletic/5865172/2024/10/23/shohei-ohtani-50-50-ball-auction-record/</link>
+      <description>大谷翔平的50号全垒打球在拍卖中以创纪录的439.2万美元成交。这颗球不仅打破了之前的记录，也体现了大谷翔平在体育界的巨大影响力。</description>
       <pubDate>2024-10-22 07:00:00</pubDate>
     </item>
   
