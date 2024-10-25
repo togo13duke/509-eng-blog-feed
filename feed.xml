@@ -6,10 +6,38 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
+      <link>https://s14415.pcdn.co/blog/how-to-create-a-facebook-business-page-a-quick-guide-for-entrepreneurs/</link>
+      <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供了管理页面的策略，如使用Facebook洞察、设置CTA按钮和连接到其他平台。</description>
+      <pubDate>2024-10-24 21:27:21</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
+      <link>https://s14415.pcdn.co/blog/create-facebook-business-page/</link>
+      <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文详细介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供管理页面的最佳实践，如使用Facebook洞察工具和广告功能。</description>
+      <pubDate>2024-10-24 21:27:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Notes on the new Claude analysis JavaScript code execution tool</title>
+      <link>https://simonwillison.net/2024/Oct/24/claude-analysis-tool/#atom-entries</link>
+      <description>Anthropic发布了新的Claude分析工具，允许用户通过编写和执行JavaScript代码来解决问题。该工具支持复杂数学计算和文件分析，但受限于React环境，无法导入外部库。与ChatGPT和Google Gemini不同，Claude直接在浏览器中执行JavaScript代码，并通过Web Worker与主页面通信。</description>
+      <pubDate>2024-10-24 20:22:52</pubDate>
+    </item>
+  
+    <item>
       <title>Maximizing design impact with Confluence</title>
       <link>https://www.atlassian.com/blog/confluence/maximizing-design-impact-with-confluence</link>
       <description>使用Confluence最大化设计影响力，为设计师提供集中式文档共享和实时协作平台，提升跨职能沟通和迭代效率，确保设计工作与项目目标一致，从而提高团队协作效率和产品成功。</description>
       <pubDate>2024-10-24 19:36:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Removal of Russian coders spurs debate about Linux kernel’s politics</title>
+      <link>https://arstechnica.com/information-technology/2024/10/russian-coders-removed-from-linux-maintainers-list-due-to-sanction-concerns/</link>
+      <description>Linux内核维护者Greg Kroah-Hartman因合规要求移除了约十名具有俄罗斯名字或.ru电子邮件地址的开发者，引发了对开源代码与国际政治分离合法性的讨论。Linux创始人Linus Torvalds对此表示支持，称此举是为了遵守合规要求，并否认了俄罗斯黑客工厂的指控。尽管相关开发者的名字被移除，但他们的代码仍保留在内核中。</description>
+      <pubDate>2024-10-24 18:21:50</pubDate>
     </item>
   
     <item>
@@ -213,6 +241,20 @@
       <title>How Document-oriented Databases Store Data Similar to JSON Objects</title>
       <link>https://www.amitmerchant.com/how-document-oriented-databases-store-data-similar-to-json-objects/</link>
       <description>本文探讨了文档型数据库如何以类似JSON对象的方式存储数据。文章解释了文档型数据库和JSON对象在存储和检索数据方面的相似性，包括它们如何处理半结构化和非结构化数据，以及它们在灵活性和可扩展性方面的优势。此外，文章还比较了JSON对象和文档型数据库在数据存储结构上的相似之处，并讨论了它们在Web应用和其他现代应用中的使用。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The White House memorandum on AI: What you need to know</title>
+      <link>https://www.elastic.co/blog/white-house-national-security-memorandum-artificial-intelligence</link>
+      <description>白宫发布了一份关于人工智能的国家安全备忘录，旨在通过安全、可靠和透明的人工智能系统加强美国国家安全。该备忘录强调领导安全的AI开发、利用AI加强国家安全以及推进全球AI治理，以维护民主原则和人权。</description>
+      <pubDate>2024-10-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why you can’t build "artificially inflated traffic" protection in-house: the case against DIY SMS fraud prevention</title>
+      <link>https://www.twilio.com/en-us/blog/diy-sms-fraud-protection-dangers</link>
+      <description>DIY短信欺诈防护存在风险，因为短信欺诈，尤其是“人工夸大流量”或短信泵欺诈，对依赖短信进行用户验证的企业构成重大挑战。欺诈者通过生成大量欺诈性消息，增加成本并暴露消息基础设施的漏洞。许多公司认为建立内部解决方案可以减轻问题，但这种做法往往效率低下且风险较大。Twilio通过专业的数据科学团队和机器学习算法，能够提前检测欺诈模式，提供主动识别欺诈行为模式的工具，如识别一次性手机号码或显示非人类行为的消息。</description>
       <pubDate>2024-10-24 00:00:00</pubDate>
     </item>
   
@@ -1149,6 +1191,15 @@
       <description>如何成功在Instagram上转发内容：分享Instagram内容的指南
 
 本文详细介绍了如何在Instagram上转发内容，包括转发到故事、网格和Reels，以及转发自己内容的方法。文章强调了在转发他人内容时请求许可和给予适当信用的重要性，并提供了最佳实践，以确保转发行为既尊重原创者，又能提升品牌形象。</description>
+      <pubDate>2024-10-21 08:49:46</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Repost on Instagram Successfully: Your Guide for Sharing Insta Content</title>
+      <link>https://www.brandwatch.com/blog/repost-on-instagram/</link>
+      <description>如何成功在Instagram上转发内容：分享Instagram内容的指南
+
+本文介绍了如何在Instagram上转发内容，包括转发到故事、网格和Reels，以及转发自己内容的方法。转发内容可以增加品牌曝光度，建立与用户的关系，但要注意不要过度依赖转发，以免影响品牌形象。同时，要确保在转发时给予原作者适当的信用，以避免潜在的法律问题。</description>
       <pubDate>2024-10-21 08:49:46</pubDate>
     </item>
   
