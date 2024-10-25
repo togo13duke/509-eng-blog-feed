@@ -6,10 +6,66 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Address and Mitigate Bias in AI Product Design</title>
+      <link>https://8thlight.com/insights/how-address-mitigate-bias-ai</link>
+      <description>AI产品设计中的偏见问题及其缓解策略：文章探讨了AI系统中的偏见来源，包括数据的不代表性和历史偏见，以及这些偏见如何影响现实生活。文章强调了UX设计师在识别和解决AI产品中的偏见和“Eliza效应”中的作用，提出了包括包容性研究和测试、设计透明界面、设置合理期望、实施反馈机制、教育用户、跨职能协作和倡导伦理指南等策略，以创建公平、透明和值得信赖的AI产品。</description>
+      <pubDate>2024-10-25 16:46:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Diff Authoring Time: Measuring developer productivity at Meta</title>
+      <link>https://engineering.fb.com/2024/10/25/developer-tools/diff-authoring-time-dat-measuring-developer-productivity-meta/</link>
+      <description>Meta工程师Pascal Hartig探讨了如何衡量开发者生产力，介绍了Diff Authoring Time（DAT）方法，通过测量提交代码更改所需时间来评估开发效率，并讨论了DAT如何提升开发者能力。</description>
+      <pubDate>2024-10-25 16:32:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Shift Left: Headless Data Architecture, Part 2</title>
+      <link>https://www.confluent.io/blog/shift-left-headless-data-architecture-part-2/</link>
+      <description>无头数据架构通过将数据访问层置于组织中心，结合流和表，为操作和分析用例提供一致的数据访问。通过将工作从下游移至上游，可以降低成本并提高效率。无头数据架构通过流和表的数据产品实现，提供低延迟和高效率的查询能力，确保数据质量和一致性。</description>
+      <pubDate>2024-10-25 16:03:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploy Secure Spring Boot Microservices on Google GKE Using Terraform and Kubernetes</title>
+      <link>https://auth0.com/blog/terraform-gke-java-microservices/</link>
+      <description>本文介绍了如何使用Terraform和Kubernetes在Google GKE上部署安全的Spring Boot微服务。通过Terraform自动化管理GKE集群，并使用Auth0进行身份验证和授权，实现了云原生Java Spring Boot微服务架构的部署。</description>
+      <pubDate>2024-10-25 15:11:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Designer Spotlight: Maria Rakovic</title>
+      <link>https://tympanus.net/codrops/2024/10/25/designer-spotlight-maria-rakovic/</link>
+      <description>Maria Rakovic是一位从建筑师转型为网页设计师的独立数字设计师，擅长网页设计和品牌建设。她结合了建筑学的严谨和数字艺术的创意，为每个项目带来独特的风格。她的作品包括艺术服装电商网站、女士角、Flattered红底鞋重设计和Beatton家具电商网站等，展现了她在视觉艺术和互动设计方面的热情。Rakovic的设计哲学强调简约和极简主义，注重用户体验和功能性，同时采用Figma、Jitter、Framer和Photoshop等工具实现创意。</description>
+      <pubDate>2024-10-25 15:04:51</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create Tech Videos for YouTube with Josh Cirre</title>
+      <link>https://laravel-news.com/how-to-create-tech-videos-for-youtube-with-josh-cirre</link>
+      <description>Josh Cirre分享了他从音乐和图形设计到Laravel和视频制作的转变经历，讨论了如何创建YouTube科技视频，包括舒适地面对镜头和使用OBS等工具进行高效视频编辑的重要性。</description>
+      <pubDate>2024-10-25 14:16:16</pubDate>
+    </item>
+  
+    <item>
+      <title>19 Best Digital Marketing Tools in 2024</title>
+      <link>https://s14415.pcdn.co/blog/digital-marketing-tools/</link>
+      <description>2024年最佳19款数字营销工具，帮助您优化SEO、社交媒体、内容和自动化策略。这些工具可提高效率，节省时间和金钱，并增强在线影响力。选择适合您需求、团队规模和预算的工具，以实现更好的营销效果。</description>
+      <pubDate>2024-10-25 14:06:17</pubDate>
+    </item>
+  
+    <item>
       <title>Elephants in tunnels: how Hyperdrive connects to databases inside your VPC networks</title>
       <link>https://blog.cloudflare.com/elephants-in-tunnels-how-hyperdrive-connects-to-databases-inside-your-vpc-networks</link>
       <description>Cloudflare的Hyperdrive功能通过Cloudflare Tunnels将数据库流量从Workers发送，实现了全球部署的应用与本地数据库的快速连接。Hyperdrive利用Cloudflare的全球网络优化数据库访问路径，并缓存常用查询，以提升性能。同时，Cloudflare Tunnels提供了一种简单、安全的方式，将私有网络与Cloudflare连接，确保数据库访问的安全性。</description>
       <pubDate>2024-10-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Wayve’s driverless ambitions, and AI models built by kids</title>
+      <link>https://www.technologyreview.com/2024/10/25/1106238/the-download-wayves-driverless-ambitions-and-ai-models-built-by-kids/</link>
+      <description>Wayve，一家英国自动驾驶汽车初创公司，计划在美国旧金山进行技术测试，以应对从左侧行驶切换到右侧行驶的挑战。此外，麻省理工学院的媒体实验室推出了“小语言模型”应用程序，帮助儿童通过构建小型AI模型来理解AI模型的工作原理。</description>
+      <pubDate>2024-10-25 12:10:00</pubDate>
     </item>
   
     <item>
@@ -43,10 +99,24 @@
     </item>
   
     <item>
+      <title>Social Media Dashboard: How To Make Your Marketing Efforts A Whole Lot Easier</title>
+      <link>https://www.brandwatch.com/blog/social-media-dashboard/</link>
+      <description>社交媒体仪表板是优化营销策略的关键工具，它可以帮助企业集中管理所有社交媒体内容，提高效率，并实现更好的营销效果。通过实时数据跟踪、内容创建和发布、竞争分析和报告功能，仪表板能够帮助用户全面监控和管理社交媒体活动，从而提升品牌影响力。</description>
+      <pubDate>2024-10-25 09:48:48</pubDate>
+    </item>
+  
+    <item>
       <title>Kids are learning how to make their own little language models</title>
       <link>https://www.technologyreview.com/2024/10/25/1106168/kids-are-learning-how-to-make-their-own-little-language-models/</link>
       <description>麻省理工学院媒体实验室的研究人员开发了一个名为“小语言模型”的应用程序，旨在通过让孩子们亲手构建小型AI模型来教授他们AI的工作原理。该程序通过使用骰子来展示概率思维，帮助孩子们理解AI模型如何预测句子中的下一个词。此外，它还允许孩子们通过上传自己的数据来探索AI的偏见问题，并通过构建基于乐高积木的AI模型来学习更高级的概念。这个创新的教育工具预计将在全球范围内推广，为孩子们提供了解和创造AI技术的机会。</description>
       <pubDate>2024-10-25 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Tragedy of the (data) commons</title>
+      <link>https://stackoverflow.blog/2024/10/25/tragedy-of-the-data-commons/</link>
+      <description>数据共享的悲剧：探讨人工智能数据共享的挑战与未来</description>
+      <pubDate>2024-10-25 07:40:00</pubDate>
     </item>
   
     <item>
@@ -71,6 +141,34 @@
     </item>
   
     <item>
+      <title>Bringing generative AI to bear on legacy modernization in insurance</title>
+      <link>https://www.thoughtworks.com/insights/blog/generative-ai/generative-ai-legacy-modernization-insurance-erik-doernenburg</link>
+      <description>将生成式AI应用于保险行业的遗留系统现代化，可以加速转型过程。通过使用图检索增强生成等技术，AI可以帮助专家更高效地理解遗留代码库，但需要人类监督和判断，确保现代化过程的质量。小型语言模型的出现可能为保险等受监管行业带来新的机遇。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Fearless Concurrency Ep.4: Understanding Mutexes and Thread Safety in Rust</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/fearless-concurrency-ep4-understanding-mutexes-and-thread-safety-in-rust.html</link>
+      <description>Rust的并发编程通过其所有权和借用规则确保线程安全，避免了数据竞争和未定义行为。本篇博客探讨了如何使用互斥锁（Mutex）和Rust的Drop特性来同步线程和自动管理资源，从而构建可靠的多线程应用。通过实际案例，展示了Rust在多线程环境中的安全性和效率。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Manage seasonal time changes smoothly in Elasticsearch</title>
+      <link>https://www.elastic.co/blog/daylight-saving-time-calendar-elasticsearch</link>
+      <description>Elasticsearch 8.16及Elastic Cloud Serverless版本中，新增了处理夏令时变更的功能，以减少异常检测中的误报。通过创建DST日历并关联到相关作业或作业组，可以确保异常检测作业正确调整时间，从而避免误报。此功能有助于有效管理夏令时变更，并提高异常检测的准确性。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Open Source Security at Databricks</title>
+      <link>https://www.databricks.com/blog/open-source-security-databricks</link>
+      <description>Databricks产品安全团队致力于确保其基于多种开源项目构建和集成的产品的安全性和完整性。团队积极参与开源项目的安全工作，包括识别和报告漏洞、贡献补丁以及参与安全审查和审计。本文概述了团队发现的一些技术细节，包括Hadoop、Spark UI、Apache Ivy、SQLite JDBC、Apache Hive JDBC和Redshift JDBC等项目的安全漏洞。</description>
+      <pubDate>2024-10-24 21:30:04</pubDate>
+    </item>
+  
+    <item>
       <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
       <link>https://s14415.pcdn.co/blog/how-to-create-a-facebook-business-page-a-quick-guide-for-entrepreneurs/</link>
       <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供了管理页面的策略，如使用Facebook洞察、设置CTA按钮和连接到其他平台。</description>
@@ -80,6 +178,13 @@
     <item>
       <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
       <link>https://s14415.pcdn.co/blog/create-facebook-business-page/</link>
+      <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文详细介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供管理页面的最佳实践，如使用Facebook洞察工具和广告功能。</description>
+      <pubDate>2024-10-24 21:27:21</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
+      <link>https://www.brandwatch.com/blog/create-facebook-business-page/</link>
       <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文详细介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供管理页面的最佳实践，如使用Facebook洞察工具和广告功能。</description>
       <pubDate>2024-10-24 21:27:21</pubDate>
     </item>
