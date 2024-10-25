@@ -6,6 +6,71 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Elephants in tunnels: how Hyperdrive connects to databases inside your VPC networks</title>
+      <link>https://blog.cloudflare.com/elephants-in-tunnels-how-hyperdrive-connects-to-databases-inside-your-vpc-networks</link>
+      <description>Cloudflare的Hyperdrive功能通过Cloudflare Tunnels将数据库流量从Workers发送，实现了全球部署的应用与本地数据库的快速连接。Hyperdrive利用Cloudflare的全球网络优化数据库访问路径，并缓存常用查询，以提升性能。同时，Cloudflare Tunnels提供了一种简单、安全的方式，将私有网络与Cloudflare连接，确保数据库访问的安全性。</description>
+      <pubDate>2024-10-25 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Don’t Be a Hero: Harness the Power of Teamwork Instead</title>
+      <link>https://spin.atomicobject.com/dont-be-hero-teamwork/</link>
+      <description>不要成为英雄：利用团队协作的力量
+
+本文探讨了“英雄综合症”现象，即员工过度依赖个人英雄主义解决问题，导致团队依赖性过强，影响工作效率和风险控制。作者建议通过建立新流程、培训团队成员和引入额外支持来解决问题，并强调公司应关注工作模式，以识别和解决系统性问题。</description>
+      <pubDate>2024-10-25 12:00:35</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #225: Python Getting Faster and Leaner &amp; Ideas for Django Projects</title>
+      <link>https://realpython.com/podcasts/rpp/225/</link>
+      <description>本期《Real Python播客》探讨了Python最新版本的性能改进，包括自适应解释器和即时编译器的实验性功能。同时，分享了多个Django项目，从入门级教程到高级项目，以及使用Django的知名网站。此外，还介绍了Python社区的其他文章和项目，如PEP提案、Python版本发布、使用Pyodide在浏览器中运行DuckDB等。</description>
+      <pubDate>2024-10-25 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #875</title>
+      <link>https://tympanus.net/codrops/collective/collective-875/</link>
+      <description>GSAP加入Webflow，将增强Webflow的动画功能，同时GSAP将继续发展。Linear的“质量对话”探讨高质量用户体验，Andrée Lange的指南介绍可访问字体选择。Shadercraft提供着色器艺术和学习资源。探索Webzibition获取网站灵感，享受创意编码俱乐部GSAP课程折扣。</description>
+      <pubDate>2024-10-25 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Getting Started with Host Metrics Using OpenTelemetry</title>
+      <link>https://last9.io/blog/host-metrics-using-opentelemetry/</link>
+      <description>OpenTelemetry Collector可帮助您监控主机性能指标，包括CPU、内存、磁盘和网络使用情况。通过配置接收器、处理器和导出器，您可以收集数据并将其导出到Prometheus等平台。本文介绍了如何设置和配置OpenTelemetry Collector，包括开发环境和生产环境下的配置，以及如何解决常见问题，如高CPU使用率和内存泄漏。遵循最佳实践，如资源归因、监控监控器、优雅降级和配置管理，可以确保高效且可靠的监控。</description>
+      <pubDate>2024-10-25 10:30:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Kids are learning how to make their own little language models</title>
+      <link>https://www.technologyreview.com/2024/10/25/1106168/kids-are-learning-how-to-make-their-own-little-language-models/</link>
+      <description>麻省理工学院媒体实验室的研究人员开发了一个名为“小语言模型”的应用程序，旨在通过让孩子们亲手构建小型AI模型来教授他们AI的工作原理。该程序通过使用骰子来展示概率思维，帮助孩子们理解AI模型如何预测句子中的下一个词。此外，它还允许孩子们通过上传自己的数据来探索AI的偏见问题，并通过构建基于乐高积木的AI模型来学习更高级的概念。这个创新的教育工具预计将在全球范围内推广，为孩子们提供了解和创造AI技术的机会。</description>
+      <pubDate>2024-10-25 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Error'd: What Goes Around</title>
+      <link>https://thedailywtf.com/articles/what-goes-around</link>
+      <description>Lyle Seaman在《What Goes Around》一文中，分享了多个编程相关的趣事和错误，包括使用outlier.ai进行副业、邮件发送时间错误、Outlook的过去时间发送邮件功能、YouTube设置cookie的意外发现等，展现了编程中的幽默和挑战。</description>
+      <pubDate>2024-10-25 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Integrate Unsplash in Your Laravel Application</title>
+      <link>https://laravel-news.com/unsplash-package-for-laravel</link>
+      <description>Laravel Unsplash包简化了将Unsplash API集成到Laravel项目中的过程，支持搜索照片、获取用户数据等功能。通过Composer安装，并遵循readme文件中的指南进行配置和使用。</description>
+      <pubDate>2024-10-25 03:25:16</pubDate>
+    </item>
+  
+    <item>
+      <title>Central bank digital currencies: What’s really in them for banks?</title>
+      <link>https://www.thoughtworks.com/insights/articles/central-bank-digital-currencies</link>
+      <description>随着数字货币的发展，中央银行数字货币（CBDC）成为焦点，对商业银行的影响引发关注。CBDC可能带来新的交易类型，提高支付效率，但同时也可能减少商业银行的中间作用。商业银行应积极评估CBDC的使用案例和风险，制定清晰的战略，利用技术平台参与快速变化的支付生态系统。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How to Create a Facebook Business Page: A Quick Guide for Entrepreneurs</title>
       <link>https://s14415.pcdn.co/blog/how-to-create-a-facebook-business-page-a-quick-guide-for-entrepreneurs/</link>
       <description>如何创建并优化Facebook商业页面：为企业家提供快速指南。本文介绍了创建Facebook商业页面的步骤，包括添加基本信息、自定义页面、优化页面以吸引更多关注，并提供了管理页面的策略，如使用Facebook洞察、设置CTA按钮和连接到其他平台。</description>
@@ -192,6 +257,13 @@
       <link>https://developers.redhat.com/articles/2024/10/24/automate-red-hat-openshift-alibaba-cloud</link>
       <description>本文介绍了在阿里云上自动化部署Red Hat OpenShift集群的参考实现。通过使用Assisted Installer，用户可以自动在阿里云基础设施上部署OpenShift集群。文章详细说明了部署过程，包括创建集群、配置环境、设置资源以及安装和配置集群。此外，还提供了故障排除和资源清理的指南。</description>
       <pubDate>2024-10-24 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>12 Best Social Media Scheduling Tools for Streamlined Content Management</title>
+      <link>https://www.brandwatch.com/blog/best-social-media-scheduling-tools/</link>
+      <description>品牌watch发布了一篇关于社交媒体排期工具的文章，介绍了10款最佳社交媒体排期工具，包括Brandwatch、CoSchedule、Agorapulse、Buffer、Sendible、Tweetdeck、Later、Planoly和Planable等，旨在帮助社交媒体经理更高效地管理社交媒体内容。</description>
+      <pubDate>2024-10-24 06:44:29</pubDate>
     </item>
   
     <item>
@@ -460,6 +532,13 @@
       <description>总结：
 本文探讨了如何获得实用的代码反馈，强调了保持变更小、工作在范围内、提供良好反馈、设定基调、停止吹毛求疵、编写测试和教学与学习的重要性。通过这些方法，可以促进团队协作，提高代码质量，并营造一个共同成长的环境。</description>
       <pubDate>2024-10-23 12:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Python Class Constructors: Control Your Object Instantiation</title>
+      <link>https://realpython.com/quizzes/python-class-constructor/</link>
+      <description>Python类构造函数：控制对象实例化，通过练习测试对Python类构造函数的理解，包括实例化过程、使用`.__init__()`进行对象初始化和通过重写`.__new__()`微调对象创建。</description>
+      <pubDate>2024-10-23 12:00:00</pubDate>
     </item>
   
     <item>
@@ -843,6 +922,13 @@
     </item>
   
     <item>
+      <title>Building Vectorize, a distributed vector database, on Cloudflare’s Developer Platform</title>
+      <link>https://blog.cloudflare.com/building-vectorize-a-distributed-vector-database-on-cloudflare-developer-platform</link>
+      <description>云flare的Vectorize是一个全球分布式的向量数据库，通过Cloudflare Workers提供全栈AI应用。它通过优化查询和索引，使向量搜索更快、更易用、更经济。Vectorize利用Cloudflare的全球网络和多种技术，如IVF索引和PQ压缩，实现高效相似性搜索，并保证数据最终一致性。</description>
+      <pubDate>2024-10-22 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>IPLS: Privacy-preserving storage for your WhatsApp contacts</title>
       <link>https://engineering.fb.com/2024/10/22/security/ipls-privacy-preserving-storage-for-your-whatsapp-contacts/</link>
       <description>WhatsApp推出新型加密存储系统IPLS，保护用户联系人隐私。用户可在WhatsApp内直接创建联系人，选择同步到手机或仅保存在WhatsApp中。IPLS确保联系人信息加密存储，即使更换手机也能安全恢复联系人列表。</description>
@@ -1078,6 +1164,13 @@
       <link>https://blog.palantir.com/from-prototype-to-production-engineering-responsible-ai-3-ea18818cd222?source=rss----3c87dc14372f---4</link>
       <description>Palantir的AI系统测试与评估是确保AI解决方案在实际环境中可靠和有效的重要步骤。通过AIP Evals工具，Palantir提供了一套全面的测试和评估功能，帮助组织从原型过渡到生产环境。这些工具支持迭代测试，并允许对AI系统进行数据驱动的改进，从而确保AI解决方案的可靠性和可信赖性。</description>
       <pubDate>2024-10-21 15:58:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Nuxt 3 + Laravel Sanctum Authentication: Secure Your SPA and API with Ease</title>
+      <link>https://laravel-news.com/nuxt-3-laravel-sanctum-authentication</link>
+      <description>Nuxt 3与Laravel Sanctum的认证模块简化了SPA和API的认证过程，包括CSRF和Bearer令牌管理。通过nuxt-sanctum-authentication模块，可以轻松实现登录、CSRF保护和跨源资源共享（CORS）问题处理，确保应用安全。</description>
+      <pubDate>2024-10-21 15:22:40</pubDate>
     </item>
   
     <item>
