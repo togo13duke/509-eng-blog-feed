@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Take Back Control From Product Management</title>
+      <link>https://www.amazingcto.com/take-back-control-from-product-management/</link>
+      <description>CTO应掌握产品开发控制权，避免过度依赖产品管理。文章指出，CTO作为公司唯一需要向他人请示的经理，应对公司技术方向负责。文章强调，CTO应与CEO沟通，明确开发预算和分配比例，建立项目管理办公室，确保技术决策权在自己手中。</description>
+      <pubDate>2024-10-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Unlocking FHIR for Data and AI in a Meaningful Way</title>
       <link>https://www.databricks.com/blog/unlocking-fhir-data-and-ai-meaningful-way</link>
       <description>Databricks与XponentL合作，推出dbignite，简化FHIR数据共享，提高医疗数据互操作性。dbignite可从自定义模式写入任何FHIR资源，支持实时流分析和扩展性，运行在pySpark和SQL上，无需额外语言学习。该工具助力医疗机构高效处理医疗数据，实现数据共享和患者护理的优化。</description>
@@ -88,6 +95,13 @@
       <title>The Real Python Podcast – Episode #225: Python Getting Faster and Leaner &amp; Ideas for Django Projects</title>
       <link>https://realpython.com/podcasts/rpp/225/</link>
       <description>本期《Real Python播客》探讨了Python最新版本的性能改进，包括自适应解释器和即时编译器的实验性功能。同时，分享了多个Django项目，从入门级教程到高级项目，以及使用Django的知名网站。此外，还介绍了Python社区的其他文章和项目，如PEP提案、Python版本发布、使用Pyodide在浏览器中运行DuckDB等。</description>
+      <pubDate>2024-10-25 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: How to Reset a pandas DataFrame Index</title>
+      <link>https://realpython.com/quizzes/pandas-reset-index/</link>
+      <description>本篇文章是关于如何重置pandas DataFrame索引的互动测验。测验包含10个问题，旨在测试读者对索引的理解，并巩固教程中学到的知识。通过解决这些问题，读者将扩展对索引的认识，并可能需要额外研究以回答所有问题。测验无时间限制，每答对一题得1分，满分100%。</description>
       <pubDate>2024-10-25 12:00:00</pubDate>
     </item>
   
@@ -348,6 +362,13 @@
       <link>https://spin.atomicobject.com/dependency-cruiser-imports/</link>
       <description>Dependency Cruiser是一个npm包，用于定义应用程序不同部分之间的交互规则，以自动化实施架构边界，限制导入，防止不良依赖在代码库中根深蒂固。它通过扫描项目并报告违规行为来工作，有助于保持代码库的结构和可维护性。</description>
       <pubDate>2024-10-24 12:00:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: The Python Standard REPL: Try Out Code and Ideas Quickly</title>
+      <link>https://realpython.com/quizzes/python-repl/</link>
+      <description>Python标准REPL是一个交互式工具，用于测试新想法、探索库、重构和调试代码。本教程将指导你如何使用Python标准REPL，进行代码交互式运行，以加速学习和实践。</description>
+      <pubDate>2024-10-24 12:00:00</pubDate>
     </item>
   
     <item>
