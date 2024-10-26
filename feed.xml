@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unlocking FHIR for Data and AI in a Meaningful Way</title>
+      <link>https://www.databricks.com/blog/unlocking-fhir-data-and-ai-meaningful-way</link>
+      <description>Databricks与XponentL合作，推出dbignite，简化FHIR数据共享，提高医疗数据互操作性。dbignite可从自定义模式写入任何FHIR资源，支持实时流分析和扩展性，运行在pySpark和SQL上，无需额外语言学习。该工具助力医疗机构高效处理医疗数据，实现数据共享和患者护理的优化。</description>
+      <pubDate>2024-10-25 17:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How to Address and Mitigate Bias in AI Product Design</title>
       <link>https://8thlight.com/insights/how-address-mitigate-bias-ai</link>
       <description>AI产品设计中的偏见问题及其缓解策略：文章探讨了AI系统中的偏见来源，包括数据的不代表性和历史偏见，以及这些偏见如何影响现实生活。文章强调了UX设计师在识别和解决AI产品中的偏见和“Eliza效应”中的作用，提出了包括包容性研究和测试、设计透明界面、设置合理期望、实施反馈机制、教育用户、跨职能协作和倡导伦理指南等策略，以创建公平、透明和值得信赖的AI产品。</description>
@@ -158,6 +165,20 @@
       <title>Manage seasonal time changes smoothly in Elasticsearch</title>
       <link>https://www.elastic.co/blog/daylight-saving-time-calendar-elasticsearch</link>
       <description>Elasticsearch 8.16及Elastic Cloud Serverless版本中，新增了处理夏令时变更的功能，以减少异常检测中的误报。通过创建DST日历并关联到相关作业或作业组，可以确保异常检测作业正确调整时间，从而避免误报。此功能有助于有效管理夏令时变更，并提高异常检测的准确性。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Twilio-to-Spreadsheets Notification System</title>
+      <link>https://www.twilio.com/en-us/blog/building-twilio-spreadsheet-notification-system</link>
+      <description>Twilio教程：构建Twilio到电子表格的通知系统，通过Twilio编程消息和SendGrid，实现当数据中的特定指标发生变化时发送通知，提高工作效率。教程涵盖Google Sheets和Microsoft Excel，使用JavaScript和VBA编写脚本，实现数据变化时通过邮件和短信通知。</description>
+      <pubDate>2024-10-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building A SOLID foundation for Laravel API integrations</title>
+      <link>https://www.honeybadger.io/blog/laravel-apis/</link>
+      <description>本文介绍了如何为Laravel API集成构建一个SOLID基础。文章首先介绍了Laravel Saloon包，它作为Laravel和第三方API之间的中间件，简化了API集成的开发过程。接着，通过创建一个示例项目，展示了如何使用Laravel Saloon进行API请求，包括创建连接器、请求类和数据传输对象（DTO）。最后，讨论了如何使用模拟类进行API测试，以确保代码的正确性和稳定性。</description>
       <pubDate>2024-10-25 00:00:00</pubDate>
     </item>
   
