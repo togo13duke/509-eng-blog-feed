@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Using less memory to look up IP addresses in Mess With DNS</title>
+      <link>https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/</link>
+      <description>作者 Julia Evans 讨论了她在 Mess With DNS 项目中遇到的内存不足问题，并分享了她的解决过程。她尝试了多种方法，包括使用 SQLite 数据库、 trie 数据结构以及优化数据存储方式，最终通过使用 netip.Addr 库和去重技术，成功将内存使用量减少了 70MB。尽管查询速度略有下降，但作者认为这是一个合理的权衡。</description>
+      <pubDate>2024-10-27 07:47:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Run a prompt to generate and execute jq programs using llm-jq</title>
+      <link>https://simonwillison.net/2024/Oct/27/llm-jq/#atom-entries</link>
+      <description>llm-jq是一个新插件，允许用户将JSON直接输入到llm jq命令中，并生成和执行jq程序。通过简单的描述，llm-jq可以自动处理JSON数据，并输出结果。该插件通过将JSON和描述传递给默认的LLM模型，然后在子进程中运行jq来工作。</description>
+      <pubDate>2024-10-27 04:26:36</pubDate>
+    </item>
+  
+    <item>
       <title>3 Ways Atomic Does Career Fairs Better than Your Company, and Why Caring + Authenticity are the Solution</title>
       <link>https://spin.atomicobject.com/atomic-does-career-fairs-better/</link>
       <description>Atomic Object在职业招聘会上的三项优势：一是着装表达个性而非仅仅为了给人留下深刻印象；二是提供真实的工作经验，而非一般的人力资源代表；三是重视候选人的跟进，简历只是开始。这些做法使招聘会更具成效，有助于吸引合适的候选人。</description>
