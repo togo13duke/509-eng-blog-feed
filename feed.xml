@@ -6,6 +6,97 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to implement AI in customer service</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/ai-customer-service</link>
+      <description>人工智能在客户服务中的应用可以提升效率，改善客户体验。通过自然语言处理、机器学习算法和数据分析，AI可以自动化常见问题解答，预测客户需求，并辅助人类客服代表处理复杂问题。使用AI工具，如聊天机器人和虚拟助手，可以缩短响应时间，提供个性化服务，并确保24/7的客户支持。通过Jira Service Management等平台，企业可以整合AI，优化客户服务流程，提高效率和满意度。</description>
+      <pubDate>2024-10-28 17:49:12</pubDate>
+    </item>
+  
+    <item>
+      <title>Boost productivity with an AI writer</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/ai-writer</link>
+      <description>AI作家可提高写作效率，通过自动化内容生成、减少研究时间、激发创意和简化编辑过程，帮助内容创作者和营销人员更高效地完成工作。AI作家不仅适用于营销和SEO，还能支持内容创作者、企业行政工作，并可通过与Atlassian Intelligence结合，进一步优化团队协作和生产力。</description>
+      <pubDate>2024-10-28 17:48:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating 10 Years of Amazon ECS: Powering a Decade of Containerized Innovation</title>
+      <link>https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-ecs-powering-a-decade-of-containerized-innovation/</link>
+      <description>亚马逊ECS庆祝成立10周年：推动十年云原生创新</description>
+      <pubDate>2024-10-28 17:28:55</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: New code editor in AWS Lambda console, Amazon Q Business analytics, Claude 3.5 upgrades, and more (October 28, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-code-editor-in-aws-lambda-console-amazon-q-business-analytics-claude-3-5-upgrades-and-more-october-28-2024/</link>
+      <description>AWS本周发布了多项新功能，包括Lambda控制台的新代码编辑器、Amazon Bedrock的模型导入、EC2 Image Builder对macOS的支持、Claude 3.5模型的升级、Amazon Connect的屏幕共享功能、Amazon Aurora的全球数据库写入端点、Amazon Q Business的新分析工具和myApplications的新弹性工具。此外，还有即将到来的AWS GenAI Lofts、AWS Community Days和AWS re:Invent活动。</description>
+      <pubDate>2024-10-28 17:24:08</pubDate>
+    </item>
+  
+    <item>
+      <title>AI will add to the e-waste problem. Here’s what we can do about it.</title>
+      <link>https://www.technologyreview.com/2024/10/28/1106316/ai-e-waste/</link>
+      <description>人工智能的发展将加剧电子垃圾问题，预计到2030年将产生多达500万吨电子垃圾。这虽然只占全球电子垃圾总量的一小部分，但专家警告，这仍然是日益严重问题的一部分。通过延长设备使用寿命、翻新和重复使用组件以及设计易于回收和升级的硬件，可以显著减少电子垃圾的产生。</description>
+      <pubDate>2024-10-28 16:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Streamlining API Security with AWS Lambda Authorizers and Okta FGA</title>
+      <link>https://auth0.com/blog/api-security-with-aws-lambda-authorizers-and-okta-fga/</link>
+      <description>通过结合AWS Lambda Authorizers和Okta FGA，可以加强API的安全性，实现精确且可扩展的访问管理。这种方法允许开发者根据用户上下文实施复杂的授权策略，同时保持安全性和性能。本文将详细介绍如何使用Okta FGA模型来保护API Gateway资源，并展示如何通过API Gateway Authorizer和Okta FGA的集成来构建授权逻辑，从而提高开发效率和安全性。</description>
+      <pubDate>2024-10-28 15:38:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pandas office hours, October 30th</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-october-30th/</link>
+      <description>10月30日，Reuven M. Lerner将举办Pandas办公时间，仅限付费BW订阅者参加。活动将讨论Pandas相关问题，并记录上传。</description>
+      <pubDate>2024-10-28 15:03:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Beautiful Soup: Build a Web Scraper With Python</title>
+      <link>https://realpython.com/beautiful-soup-web-scraper-python/</link>
+      <description>本教程介绍了如何使用Python和Beautiful Soup库构建网络爬虫。通过学习如何检查网站HTML结构、解析URL中的数据以及使用Requests和Beautiful Soup进行数据抓取和解析，读者可以掌握从互联网上自动提取大量数据的方法。教程以一个模拟的Python职位网站为例，展示了从静态网站抓取数据的过程，并提供了实践练习来巩固技能。</description>
+      <pubDate>2024-10-28 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Semantically Compress Text to Save On LLM Costs</title>
+      <link>https://blog.developer.bazaarvoice.com/2024/10/28/semantically-compress-text-to-save-on-llm-costs/</link>
+      <description>Bazaarvoice通过压缩输入文本来降低大型语言模型（LLM）的成本。他们采用多遍分层聚类方法，在不损失语义的情况下压缩文本，从而减少LLM的上下文窗口限制，降低系统运营成本。这种方法将输入文本大小减少了97.7%，将生成总结的成本降低了82.4%。</description>
+      <pubDate>2024-10-28 13:34:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Datadog vs. Grafana: Finding Your Ideal Monitoring Tool</title>
+      <link>https://last9.io/blog/datadog-vs-grafana/</link>
+      <description>Datadog和Grafana是两款流行的监控工具，各有特点。Datadog提供全面的监控解决方案，包括APM、日志管理和基础设施监控，适合需要全面可视性的组织，但价格较高。Grafana专注于数据可视化，与Prometheus等工具配合使用，提供灵活的监控解决方案，适合注重数据可视化和现有基础设施的团队。选择哪个取决于组织的具体需求和预算。</description>
+      <pubDate>2024-10-28 12:46:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: an interview with Palmer Luckey, and AI-assisted math tutors</title>
+      <link>https://www.technologyreview.com/2024/10/28/1106309/the-download-palmer-luckey-and-ai-math-tutors/</link>
+      <description>MIT Technology Review的《The Download》最新一期报道了Palmer Luckey关于混合现实未来的访谈，以及AI辅助数学辅导工具。文章探讨了AI在教育不平等问题上的潜力，并介绍了Google开发的AI代理Jarvis。此外，还提到了中国限制芯片制造材料、Nuclearink的视网膜植入物恢复视力等科技新闻。</description>
+      <pubDate>2024-10-28 12:45:43</pubDate>
+    </item>
+  
+    <item>
+      <title>OIDC and OAuth 2.0 Demystified</title>
+      <link>https://spin.atomicobject.com/oidc-oauth-2-0-demystified/</link>
+      <description>本文深入浅出地解释了OpenID Connect (OIDC) 和 OAuth 2.0 认证机制。通过将认证过程比作餐厅预订的类比，文章清晰地阐述了身份验证、授权代码、客户端ID和密钥等概念。同时，通过图解和术语对照，帮助读者更好地理解这些技术标准背后的逻辑和运作方式。</description>
+      <pubDate>2024-10-28 12:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Beautiful Soup: Build a Web Scraper With Python</title>
+      <link>https://realpython.com/quizzes/beautiful-soup-web-scraper-python/</link>
+      <description>本文章介绍了一个关于使用Python、Requests和Beautiful Soup进行网络爬虫的互动测验。测验旨在测试读者对网络爬虫的理解，包括如何检查目标网站的HTML结构、解析URL中的数据、使用Requests和Beautiful Soup进行数据抓取和解析，以及了解网络爬虫的工作流程。测验包含14个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
+      <pubDate>2024-10-28 12:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>UI Interactions &amp; Animations Roundup #47</title>
       <link>https://tympanus.net/codrops/2024/10/28/ui-interactions-animations-roundup-47/</link>
       <description>本周UI交互与动画精选：Codrops发布第47期，汇集了来自Andrew Baygulov、Taras Migulko等设计师的创意动画和动效设计作品，涵盖电商、金融、教育等多个领域。</description>
@@ -38,6 +129,13 @@
       <link>https://thedailywtf.com/articles/trophy-bug-hunting</link>
       <description>Remy Porter在《Daily WTF》上撰文，讲述了某公司质量控制系统软件出现故障，导致工程师GRH介入修复的故事。该软件由离职员工编写，缺乏文档和测试，且长期未维护。GRH通过分析代码发现，数据库因日志记录过多而满载，清理旧日志后恢复正常。GRH还对代码进行了清理和现代化，但保留了部分已废弃的代码，以备未来可能的需求。</description>
       <pubDate>2024-10-28 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing General Availability: Publish to Microsoft Power BI Service from Unity Catalog</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-publish-microsoft-power-bi-service-unity-catalog</link>
+      <description>Databricks宣布推出从Unity Catalog发布到Microsoft Power BI服务的通用功能，简化了数据集的发布和同步过程。用户可以直接在Databricks中发布数据集到Power BI，无需离开Databricks界面，支持数据模型和关系的同步，提高数据可视化和分析的效率。</description>
+      <pubDate>2024-10-28 03:28:07</pubDate>
     </item>
   
     <item>
