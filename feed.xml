@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>UI Interactions &amp; Animations Roundup #47</title>
+      <link>https://tympanus.net/codrops/2024/10/28/ui-interactions-animations-roundup-47/</link>
+      <description>本周UI交互与动画精选：Codrops发布第47期，汇集了来自Andrew Baygulov、Taras Migulko等设计师的创意动画和动效设计作品，涵盖电商、金融、教育等多个领域。</description>
+      <pubDate>2024-10-28 09:33:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Palmer Luckey on the Pentagon’s future of mixed reality</title>
+      <link>https://www.technologyreview.com/2024/10/28/1106265/palmer-luckey-on-the-pentagons-future-of-mixed-reality/</link>
+      <description>Oculus创始人Palmer Luckey在MIT Technology Review上讨论了Pentagon的混合现实未来。他目前专注于为军事开发头戴设备，特别是与微软合作的美国陆军集成视觉增强系统（IVAS）。尽管IVAS项目面临挑战，如延迟和成本问题，Luckey仍对其充满信心，认为这是混合现实在国防领域的必要发展。他强调，与消费者市场相比，军事领域对混合现实技术的需求更为迫切，因为其应用直接关系到生命和任务的成功。</description>
+      <pubDate>2024-10-28 09:30:58</pubDate>
+    </item>
+  
+    <item>
+      <title>This AI system makes human tutors better at teaching children math</title>
+      <link>https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-human-tutors-better-at-teaching-children-math/</link>
+      <description>斯坦福大学的研究人员开发了一个名为Tutor CoPilot的AI系统，旨在通过虚拟辅导提高教师的教学效果。该系统基于OpenAI的GPT-4，能够为教师提供教学建议，帮助他们在辅导过程中更有效地纠正学生的错误，从而提高学生的学习成绩。初步测试显示，使用该工具的教师辅导的学生通过率提高了4个百分点。</description>
+      <pubDate>2024-10-28 09:30:07</pubDate>
+    </item>
+  
+    <item>
+      <title>Ephemeral OpenShift clusters in Konflux CI using the Cluster-as-a-Service operator</title>
+      <link>https://developers.redhat.com/articles/2024/10/28/ephemeral-openshift-clusters-konflux-ci-using-cluster-service-operator</link>
+      <description>Red Hat工程师利用Konflux-CI简化了OpenShift集群的集成测试过程。通过Cluster-as-a-Service Operator，工程师可以快速请求和使用集群模板，实现自动化测试，提高开发效率。该服务支持多架构，并计划进一步优化集群模板。</description>
+      <pubDate>2024-10-28 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Trophy Bug Hunting</title>
+      <link>https://thedailywtf.com/articles/trophy-bug-hunting</link>
+      <description>Remy Porter在《Daily WTF》上撰文，讲述了某公司质量控制系统软件出现故障，导致工程师GRH介入修复的故事。该软件由离职员工编写，缺乏文档和测试，且长期未维护。GRH通过分析代码发现，数据库因日志记录过多而满载，清理旧日志后恢复正常。GRH还对代码进行了清理和现代化，但保留了部分已废弃的代码，以备未来可能的需求。</description>
+      <pubDate>2024-10-28 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>CVE-2024-49761: ReDoS vulnerability in REXML</title>
       <link>https://www.ruby-lang.org/en/news/2024/10/28/redos-rexml-cve-2024-49761/</link>
       <description>REXML gem存在一个CVE-2024-49761编号的ReDoS漏洞，影响Ruby 3.1及以下版本。建议升级至3.3.9或更高版本，以避免安全风险。该漏洞在解析包含多个数字的XML时可能被触发。感谢manun发现此问题。</description>
@@ -30,6 +65,13 @@
       <title>Cypress: Should we apply the page object model to optimize the framework?</title>
       <link>https://www.thoughtworks.com/insights/blog/testing/Cypress-should-we-apply-the-page-object-model-to-optimize-the-framework</link>
       <description>Cypress框架中，应用页面对象模型（POM）可以优化代码库，提高测试效率。POM通过将页面元素建模为独立对象，简化了代码维护和重用，但可能增加测试时间。对于小型项目，使用App Actions可以简化框架，节省时间。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to hold developers accountable</title>
+      <link>https://www.amazingcto.com/how-to-hold-developers-accountable/</link>
+      <description>如何确保开发者负责？文章强调了在软件开发组织中建立责任感的必要性，区分了“负责”和“问责”的概念，并提出了确保开发者问责的几个关键点。这包括建立问责制作为工程文化的一部分，提供明确的期望和反馈，以及根据需要采取不同的管理策略，如“模式-A”和“模式-B”，以应对不同情况下的开发者行为。</description>
       <pubDate>2024-10-28 00:00:00</pubDate>
     </item>
   
