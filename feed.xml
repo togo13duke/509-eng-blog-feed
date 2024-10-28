@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>CVE-2024-49761: ReDoS vulnerability in REXML</title>
+      <link>https://www.ruby-lang.org/en/news/2024/10/28/redos-rexml-cve-2024-49761/</link>
+      <description>REXML gem存在一个CVE-2024-49761编号的ReDoS漏洞，影响Ruby 3.1及以下版本。建议升级至3.3.9或更高版本，以避免安全风险。该漏洞在解析包含多个数字的XML时可能被触发。感谢manun发现此问题。</description>
+      <pubDate>2024-10-28 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>A practical GitHub Actions pipeline example with Rails</title>
       <link>https://www.honeybadger.io/blog/rails-ci/</link>
       <description>本文介绍了如何使用GitHub Actions创建Rails应用的CI（持续集成）管道。通过设置工作流程来自动化Docker镜像构建、测试和发布，确保代码质量并实现持续部署。文章详细说明了如何配置GitHub Actions，包括安装依赖、运行测试、执行代码风格检查以及与Docker Hub交互。通过这些步骤，开发者可以构建一个可靠的CI管道，提高软件交付的效率和质量。</description>
@@ -16,6 +23,13 @@
       <title>thoughtbot at Just Product 2024</title>
       <link>https://thoughtbot.com/blog/thoughtbot-at-just-product-2024</link>
       <description>在2024年Just Product会议上，Bethan Ashley分享了关于产品管理的见解。她强调了AI产品开发中的领域知识、产品团队中的透明度、产品管理的现实挑战以及快速学习和迭代的重要性。会议强调了跨团队合作、信任和透明度，以及如何通过减少会议来提高工作效率。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cypress: Should we apply the page object model to optimize the framework?</title>
+      <link>https://www.thoughtworks.com/insights/blog/testing/Cypress-should-we-apply-the-page-object-model-to-optimize-the-framework</link>
+      <description>Cypress框架中，应用页面对象模型（POM）可以优化代码库，提高测试效率。POM通过将页面元素建模为独立对象，简化了代码维护和重用，但可能增加测试时间。对于小型项目，使用App Actions可以简化框架，节省时间。</description>
       <pubDate>2024-10-28 00:00:00</pubDate>
     </item>
   
