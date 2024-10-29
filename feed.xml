@@ -6,6 +6,43 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>5 Tips for Choosing an API Management Tool</title>
+      <link>https://nordicapis.com/5-tips-for-choosing-an-api-management-tool/</link>
+      <description>选择API管理工具的5个关键要素：确保选择支持多种协议的灵活性，以适应不同的云和Kubernetes环境；优先考虑安全性，包括基于角色的访问控制和集成；采用DevOps优先的方法，使API管理可编码；选择原生支持Kubernetes的平台；快速实现价值，提供易于配置和扩展的解决方案。</description>
+      <pubDate>2024-10-29 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How can you get your kids into coding? We asked an 8-year-old.</title>
+      <link>https://stackoverflow.blog/2024/10/29/how-can-you-get-your-kids-into-coding-we-asked-an-8-year-old/</link>
+      <description>如何让孩子对编程产生兴趣？本文采访了一位8岁孩子，探讨了AI工具如何帮助新开发者入门，以及如何鼓励孩子尝试编程。</description>
+      <pubDate>2024-10-29 07:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Run OpenShift 4.17 on VCF 5.2.1: What you need to know</title>
+      <link>https://developers.redhat.com/articles/2024/10/29/run-openshift-417-vcf-521-what-you-need-know</link>
+      <description>在VCF 5.2.1上运行OpenShift 4.17：了解所需信息
+
+本文介绍了在VMware Cloud Foundation (VCF) 5.2.1上运行OpenShift 4.17的必要信息，包括版本兼容性、安装要求、新功能以及配置步骤。</description>
+      <pubDate>2024-10-29 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Driving public sector modernization: aligning technology, strategy, and citizen needs</title>
+      <link>https://www.thoughtworks.com/insights/articles/driving-public-sector-modernization</link>
+      <description>公共部门现代化需要平衡技术、战略和公民需求。通过采用现代云平台和人工智能技术，公共部门可以提升服务交付、增强灵活性和可扩展性，同时降低成本。关键在于全面评估业务目标、技术限制和组织准备情况，采用渐进式方法，优先考虑数据基础和风险评估，以确保长期成功和可持续性。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Hope Driven Software Development</title>
+      <link>https://www.amazingcto.com/hope-driven-software-development/</link>
+      <description>希望驱动的软件开发模式在初创公司中常见，但也会出现在大型企业中。这种模式通常在没有明确战略或愿景的情况下出现，导致公司对单一功能寄予厚望，希望通过它来扭转局面。然而，这种做法往往导致开发压力增大，最终效果不佳。相反，建议公司制定长期愿景和战略，适应市场变化，并基于实际需求来开发产品。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Hospitals adopt error-prone AI transcription tools despite warnings</title>
       <link>https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/</link>
       <description>OpenAI的Whisper转录工具在医疗和商业环境中被广泛采用，尽管存在生成虚假文本的风险。该工具在音频转录中经常产生与说话者实际所说的内容不符的文本，这在AI领域被称为“虚构”或“幻觉”。尽管OpenAI警告不要在“高风险领域”使用Whisper，但超过30,000名医疗工作者仍在使用基于Whisper的工具进行患者访问的转录。这些错误可能导致医疗错误和患者误解。</description>
@@ -94,6 +131,13 @@
       <link>https://blog.developer.bazaarvoice.com/2024/10/28/semantically-compress-text-to-save-on-llm-costs/</link>
       <description>Bazaarvoice通过压缩输入文本来降低大型语言模型（LLM）的成本。他们采用多遍分层聚类方法，在不损失语义的情况下压缩文本，从而减少LLM的上下文窗口限制，降低系统运营成本。这种方法将输入文本大小减少了97.7%，将生成总结的成本降低了82.4%。</description>
       <pubDate>2024-10-28 13:34:46</pubDate>
+    </item>
+  
+    <item>
+      <title>AI Flame Graphs</title>
+      <link>http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html</link>
+      <description>AI Flame Graphs是Intel开发的一种新工具，用于降低AI成本。它通过可视化AI加速器或GPU硬件配置和完整的软件堆栈，帮助开发者识别性能瓶颈。该工具易于使用，对生产环境无影响，并支持多种AI工作负载，包括PyTorch。通过AI Flame Graphs，开发者可以更有效地优化AI应用程序，降低资源消耗。</description>
+      <pubDate>2024-10-28 13:00:00</pubDate>
     </item>
   
     <item>
@@ -205,6 +249,13 @@
       <title>Build a Movie Recommendation App with Python, OpenAI, and Twilio SendGrid</title>
       <link>https://www.twilio.com/en-us/blog/python-sendgrid-openai-movie-recommendation-app</link>
       <description>使用Python、OpenAI和Twilio SendGrid构建电影推荐应用，通过自然语言处理、机器学习和AI技术，根据用户情绪提供个性化电影推荐。教程涵盖使用Flask后端、OpenAI GPT-4智能推荐、TMDb API获取电影详情和SendGrid发送个性化邮件通知。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Minimalist Integration of Twilio and OpenAI Realtime</title>
+      <link>https://www.twilio.com/en-us/blog/minimalist-integration-twilio-openai-realtime</link>
+      <description>Twilio与OpenAI实时API的简约集成，通过Twilio连接PSTN和基于Websocket的媒体流，OpenAI实时API处理音频流，实现语音交互。本文介绍了如何注册OpenAI API密钥，设置环境，使用TypeScript构建Twilio语音和OpenAI实时API的集成，并连接到Twilio进行通话。</description>
       <pubDate>2024-10-28 00:00:00</pubDate>
     </item>
   
