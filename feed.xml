@@ -6,6 +6,100 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unplugged: Catherine’s Sabbatical Journey</title>
+      <link>https://www.babbel.com/en/magazine/unplugged-catherines-sabbatical-journey</link>
+      <description>Catherine Jozwik在Babbel的B2B RevOps团队领导职位上，通过一次长达两个月的休假，重新连接了自己和她的激情。这次休假帮助她放慢了脚步，重新审视了个人目标和职业优先级，从而在工作和生活中取得了更好的平衡。她鼓励同事们考虑休假带来的丰富机会，以获得个人和职业上的成长。</description>
+      <pubDate>2024-10-29 13:33:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Which RAG Chunking and Formatting Strategy Is Best for Your App With Pgvector</title>
+      <link>https://www.timescale.com/blog/which-rag-chunking-and-formatting-strategy-is-best/</link>
+      <description>总结：
+本文探讨了使用pgvector进行RAG（检索增强生成）的最佳策略。通过pgai Vectorizer，用户可以在PostgreSQL中轻松测试不同的RAG分块和格式化策略，无需手动处理。该工具允许用户通过SQL命令调整策略，就像调整数据库索引一样。pgai Vectorizer自动化了嵌入创建过程，并支持多向量器，以便比较不同策略的性能。此外，它还允许用户在测试新配置时保持向后兼容性，并逐步推出更改，而不会影响生产系统。</description>
+      <pubDate>2024-10-29 13:06:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Forced offline: the Q3 2024 Internet disruption summary</title>
+      <link>https://blog.cloudflare.com/q3-2024-internet-disruption-summary</link>
+      <description>2024年第三季度，全球互联网中断事件频发。政府主导的互联网关闭、海底和陆地电缆损坏、自然灾害以及军事行动等因素导致多国互联网服务中断。其中，孟加拉国、伊拉克库尔德地区、伊拉克、叙利亚和毛里塔尼亚等国家因考试作弊等原因实施全国范围的互联网关闭。此外，海底电缆故障也导致加勒比地区和美国部分地区互联网中断。</description>
+      <pubDate>2024-10-29 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The MLOps Architecture Behind Trustworthy AI Principles</title>
+      <link>https://8thlight.com/insights/the-mlops-architecture-behind-trustworthy-ai-principles</link>
+      <description>MLOps架构是实现可信AI的关键，它结合了DevOps原则，如版本控制、CI/CD和测试，以应对AI的独特挑战。文章探讨了MLOps的七个核心原则，包括数据管道管理、模型版本控制和治理、CI/CD流程、监控和警报、安全性、透明度和问责制，以确保AI系统既高效又符合伦理和监管标准。</description>
+      <pubDate>2024-10-29 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Cultivating the next generation of AI innovators in a global tech hub</title>
+      <link>https://www.technologyreview.com/2024/10/29/1106130/cultivating-the-next-generation-of-ai-innovators-in-a-global-tech-hub/</link>
+      <description>在阿布扎比的穆罕默德·本·扎耶德人工智能大学（MBZUAI）致力于培养下一代人工智能创新者，通过建立新的学术中心，专注于协作研发，使人工智能技术普及并培养全球人工智能领导者。该大学吸引了来自世界各地的顶尖研究人员，并致力于推动跨学科合作，如机器人技术、自然语言处理、机器学习和计算机视觉，以促进人工智能技术的全球包容性创新。</description>
+      <pubDate>2024-10-29 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Simplifying Backend Tasks for Frontend Developers with Manifest, a One-File Solution</title>
+      <link>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</link>
+      <description>Manifest是一个单文件解决方案，旨在简化前端开发者处理后端任务的过程。它通过一个YAML文件提供完整的后端功能，包括非技术性的管理面板、REST API、抽象数据库以及认证、验证、文件存储等关键后端特性。Manifest易于安装和使用，旨在帮助开发者快速搭建和管理后端，从而提高开发效率。</description>
+      <pubDate>2024-10-29 12:38:13</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: mysterious exosomes, and AI’s e-waste issue</title>
+      <link>https://www.technologyreview.com/2024/10/29/1106328/the-download-exosomes-ai-e-waste/</link>
+      <description>MIT Technology Review最新报道了神秘的细胞外囊泡作为新兴的治疗方法，以及人工智能对电子垃圾问题的加剧。文章指出，虽然细胞外囊泡被宣传为万能的治疗方法，但其工作原理尚不明确。同时，研究表明，到2030年，生成式人工智能可能增加多达500万吨的电子垃圾，这需要通过延长硬件使用寿命、翻新和重复使用组件以及设计易于回收和升级的硬件来解决。</description>
+      <pubDate>2024-10-29 12:35:31</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimize EF Core Database Query Performance</title>
+      <link>https://spin.atomicobject.com/ef-core-query-performance/</link>
+      <description>本文介绍了优化EF Core数据库查询性能的方法。作者通过实际案例，阐述了如何通过拆分查询、使用投影和DTOs以及优化索引来提高查询效率。通过避免数据重复、减少数据加载和利用索引加速查询，可以显著提升Web应用的性能。</description>
+      <pubDate>2024-10-29 12:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Palmer Luckey’s vision for the future of mixed reality</title>
+      <link>https://www.technologyreview.com/2024/10/29/1106325/palmer-luckeys-vision-for-the-future-of-mixed-reality/</link>
+      <description>Oculus创始人Palmer Luckey从消费者市场转向军事市场，创立Anduril公司，专注于无人机、巡航导弹等AI技术。他认为，军事领域将率先看到混合现实硬件的价值。尽管AI在军事领域的应用存在争议，但全球各国军队对此持开放态度。军事合同对科技行业来说是一大机遇，但也带来了严重的安全和隐私威胁。</description>
+      <pubDate>2024-10-29 11:07:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Selecting the correct iPhone to mirror in macOS Sequoia</title>
+      <link>https://akrabat.com/selecting-the-correct-iphone-to-mirror-in-macos-sequoia/</link>
+      <description>选择正确的iPhone在macOS Sequoia上镜像
+
+macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用进行交互。升级后，默认选择的老款iPhone无法使用，需在设置中更改选择新iPhone。</description>
+      <pubDate>2024-10-29 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to roll your own auth in JavaScript &amp; TypeScript</title>
+      <link>https://www.robinwieruch.de/how-to-roll-your-own-auth/</link>
+      <description>本文介绍了如何在JavaScript和TypeScript中构建自己的认证系统。作者通过一个基于会话的认证系统教程，详细讲解了如何从设置项目、定义用户和会话模式、创建会话、验证会话、管理cookie和密码等方面实现认证。文章强调了自主构建认证系统的优势，如更好地理解安全机制、控制性和灵活性，并提供了框架无关的代码示例，帮助读者在自己的项目中实现认证功能。</description>
+      <pubDate>2024-10-29 10:50:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Exosomes are touted as a trendy cure-all. We don’t know if they work.</title>
+      <link>https://www.technologyreview.com/2024/10/29/1105861/exosomes-are-touted-as-a-trendy-cure-all-we-dont-know-if-they-work/</link>
+      <description>外泌体作为一种新兴的治疗方法，被吹捧为万能的治愈良药，但它们的工作原理和效果尚不明确。尽管市场上存在大量未经证实的外泌体疗法，用于治疗脱发、皮肤老化、痤疮等，甚至更严重的疾病，如长期新冠和阿尔茨海默病，但这些疗法并未得到监管机构的批准。外泌体的成分和作用机制仍存在争议，其安全性和有效性尚未得到充分验证。</description>
+      <pubDate>2024-10-29 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media for Business: Driving Growth and Engagement in the Digital Age</title>
+      <link>https://s14415.pcdn.co/blog/social-media-for-business/</link>
+      <description>社交媒体对于企业至关重要，它可以帮助企业扩大品牌影响力、建立客户关系、生成潜在客户并提升销售。选择合适的平台、制定有效的策略、利用社交媒体广告和管理工具，以及衡量成效是关键。企业应利用社交媒体平台的特点，如Facebook、Instagram、LinkedIn、X和TikTok，来吸引目标受众，并实现业务增长。</description>
+      <pubDate>2024-10-29 08:30:48</pubDate>
+    </item>
+  
+    <item>
       <title>5 Tips for Choosing an API Management Tool</title>
       <link>https://nordicapis.com/5-tips-for-choosing-an-api-management-tool/</link>
       <description>选择API管理工具的5个关键要素：确保选择支持多种协议的灵活性，以适应不同的云和Kubernetes环境；优先考虑安全性，包括基于角色的访问控制和集成；采用DevOps优先的方法，使API管理可编码；选择原生支持Kubernetes的平台；快速实现价值，提供易于配置和扩展的解决方案。</description>
@@ -39,6 +133,20 @@
       <title>Hope Driven Software Development</title>
       <link>https://www.amazingcto.com/hope-driven-software-development/</link>
       <description>希望驱动的软件开发模式在初创公司中常见，但也会出现在大型企业中。这种模式通常在没有明确战略或愿景的情况下出现，导致公司对单一功能寄予厚望，希望通过它来扭转局面。然而，这种做法往往导致开发压力增大，最终效果不佳。相反，建议公司制定长期愿景和战略，适应市场变化，并基于实际需求来开发产品。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>6 Hardest Languages For English Speakers To Learn</title>
+      <link>https://www.babbel.com/en/magazine/6-hardest-languages-for-english-speakers-to-learn</link>
+      <description>学习对英语母语者来说最困难的六种语言：1. 汉语，因其独特的书写系统和声调；2. 阿拉伯语，非拉丁字母和复杂的语法；3. 波兰语，拼写和语法复杂；4. 俄语，使用西里尔字母和独特的语法结构；5. 土耳其语，前缀和后缀的使用以及元音和谐；6. 丹麦语，发音与拼写不符。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Essential tools for building successful security analytics</title>
+      <link>https://www.elastic.co/blog/essential-tools-building-successful-security-analytics</link>
+      <description>成功构建安全分析的关键工具包括：安全信息和事件管理（SIEM）、扩展检测和响应（XDR）、云安全、安全编排、自动化和响应（SOAR）、用户和实体行为分析（UEBA）以及威胁情报平台（TIP）。这些工具通过收集、分析和利用安全事件数据，帮助团队主动检测异常和漏洞，以减轻针对性攻击、内部威胁和高级持续性威胁（APTs）。结合生成式AI，这些工具能够提供预测性分析、精细化的行为分析以及自动化的应急响应，从而提高安全团队对事件的响应速度和防御能力。</description>
       <pubDate>2024-10-29 00:00:00</pubDate>
     </item>
   
@@ -137,6 +245,13 @@
       <title>AI Flame Graphs</title>
       <link>http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html</link>
       <description>AI Flame Graphs是Intel开发的一种新工具，用于降低AI成本。它通过可视化AI加速器或GPU硬件配置和完整的软件堆栈，帮助开发者识别性能瓶颈。该工具易于使用，对生产环境无影响，并支持多种AI工作负载，包括PyTorch。通过AI Flame Graphs，开发者可以更有效地优化AI应用程序，降低资源消耗。</description>
+      <pubDate>2024-10-28 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Many People Speak Indonesian, And Where Is It Spoken?</title>
+      <link>https://www.babbel.com/en/magazine/how-many-people-speak-indonesian-where-is-it-spoken</link>
+      <description>印尼语是世界上使用人数最多的语言之一，主要在印尼使用。它起源于马来语，并在20世纪初成为印尼的官方语言。尽管印尼拥有超过600种语言，但印尼语在法律、政治、媒体等公共领域得到广泛应用。除了印尼，印尼语在东南亚国家联盟成员国中也被使用，并在东帝汶曾作为工作语言。全球范围内，除了印尼，只有少数国家有少量印尼语使用者。学习印尼语可以了解印尼丰富的文化和历史。</description>
       <pubDate>2024-10-28 13:00:00</pubDate>
     </item>
   
