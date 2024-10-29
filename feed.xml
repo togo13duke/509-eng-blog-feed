@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Hospitals adopt error-prone AI transcription tools despite warnings</title>
+      <link>https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/</link>
+      <description>OpenAI的Whisper转录工具在医疗和商业环境中被广泛采用，尽管存在生成虚假文本的风险。该工具在音频转录中经常产生与说话者实际所说的内容不符的文本，这在AI领域被称为“虚构”或“幻觉”。尽管OpenAI警告不要在“高风险领域”使用Whisper，但超过30,000名医疗工作者仍在使用基于Whisper的工具进行患者访问的转录。这些错误可能导致医疗错误和患者误解。</description>
+      <pubDate>2024-10-28 18:23:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Connect apps will gain new extensibility features through Forge</title>
+      <link>https://www.atlassian.com/blog/developer/connect-forge-ga</link>
+      <description>Atlassian的Connect应用将通过Forge获得新的扩展功能，以增强其创新性和客户价值。Forge平台提供独特的扩展特性，如托管存储、自动数据驻留和自定义字段。现有Connect应用可通过Forge模块和功能来升级，确保持续获得最佳性能。Atlassian致力于通过Forge推动云应用的发展，并鼓励合作伙伴探索Forge以利用最新平台特性。</description>
+      <pubDate>2024-10-28 18:16:47</pubDate>
+    </item>
+  
+    <item>
+      <title>From firefighting to future-proofing: Atlassian’s journey with a multi-account strategy</title>
+      <link>https://www.atlassian.com/blog/atlassian-engineering/multi-account-strategy</link>
+      <description>Atlassian通过实施“账户分片”项目，重新设计内部云平台以解决扩展问题。这一举措旨在应对AWS账户限制，包括资源限制和API限制，以优化平台和开发者体验。通过逐步增加新账户、迁移服务以及调整账户拓扑结构，Atlassian旨在提高平台的可扩展性和可靠性。</description>
+      <pubDate>2024-10-28 18:12:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Kremlin-backed hackers have new Windows and Android malware to foist on Ukrainian foes</title>
+      <link>https://arstechnica.com/security/2024/10/kremlin-backed-hackers-have-new-windows-and-android-to-foist-on-ukrainian-foes/</link>
+      <description>俄罗斯支持的黑客针对乌克兰对手推出了新的Windows和Android恶意软件。谷歌研究人员发现，这些恶意软件主要通过Telegram平台传播，伪装成提供免费软件以寻找乌克兰军事招募人员的工具，实际上却安装了信息窃取软件。该活动旨在破坏乌克兰的军事招募工作，并可能涉及更广泛的社会媒体生态系统。</description>
+      <pubDate>2024-10-28 17:58:54</pubDate>
+    </item>
+  
+    <item>
       <title>How to implement AI in customer service</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-customer-service</link>
       <description>人工智能在客户服务中的应用可以提升效率，改善客户体验。通过自然语言处理、机器学习算法和数据分析，AI可以自动化常见问题解答，预测客户需求，并辅助人类客服代表处理复杂问题。使用AI工具，如聊天机器人和虚拟助手，可以缩短响应时间，提供个性化服务，并确保24/7的客户支持。通过Jira Service Management等平台，企业可以整合AI，优化客户服务流程，提高效率和满意度。</description>
@@ -170,6 +198,20 @@
       <title>How to hold developers accountable</title>
       <link>https://www.amazingcto.com/how-to-hold-developers-accountable/</link>
       <description>如何确保开发者负责？文章强调了在软件开发组织中建立责任感的必要性，区分了“负责”和“问责”的概念，并提出了确保开发者问责的几个关键点。这包括建立问责制作为工程文化的一部分，提供明确的期望和反馈，以及根据需要采取不同的管理策略，如“模式-A”和“模式-B”，以应对不同情况下的开发者行为。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build a Movie Recommendation App with Python, OpenAI, and Twilio SendGrid</title>
+      <link>https://www.twilio.com/en-us/blog/python-sendgrid-openai-movie-recommendation-app</link>
+      <description>使用Python、OpenAI和Twilio SendGrid构建电影推荐应用，通过自然语言处理、机器学习和AI技术，根据用户情绪提供个性化电影推荐。教程涵盖使用Flask后端、OpenAI GPT-4智能推荐、TMDb API获取电影详情和SendGrid发送个性化邮件通知。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Self-Service KYC Example TFN and Shaken/STIR Submission</title>
+      <link>https://www.twilio.com/en-us/blog/self-service-kyc-toll-free-verification-app-example</link>
+      <description>Twilio推出自助KYC示例，展示如何使用TFN和Shaken/STIR提交进行用户身份验证。通过构建一个Next.js应用程序，用户可以提交必要的业务信息以验证美国长途电话号码用于短信消息。此示例需要Twilio账户和至少一个未验证的长途电话号码。</description>
       <pubDate>2024-10-28 00:00:00</pubDate>
     </item>
   
