@@ -6,10 +6,124 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Understanding responsible AI practices</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/responsible-ai</link>
+      <description>本文探讨了负责任的人工智能（AI）原则和实践。负责任AI旨在创建符合伦理原则和社会价值观的AI系统，确保AI技术发展时优先考虑公平、隐私和个体及社会的整体福祉。文章强调了公平与偏见缓解、透明度和问责制等关键原则，并提供了实施负责任AI实践的方法，如开发伦理AI框架、进行影响评估和参与利益相关者。</description>
+      <pubDate>2024-10-29 17:45:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Log Forwarding is Now Available for DigitalOcean Kubernetes (DOKS)</title>
+      <link>https://www.digitalocean.com/blog/log-forwarding-for-doks</link>
+      <description>DigitalOcean Kubernetes (DOKS) 现已支持日志转发功能，该功能允许用户将日志数据从各种数据库和应用程序传输到他们选择的日志管理提供商，包括 OpenSearch。这一更新为用户提供了集中式日志管理、改进的监控和故障排除、以及优化资源使用等好处，从而提高开发效率和系统可靠性。</description>
+      <pubDate>2024-10-29 16:49:00</pubDate>
+    </item>
+  
+    <item>
+      <title>New from Universe 2024: Get the latest previews and releases</title>
+      <link>https://github.blog/news-insights/product-news/universe-2024-previews-releases/</link>
+      <description>GitHub Universe 2024重点介绍了GitHub平台和GitHub Copilot的最新进展。包括引入新的AI原生体验，如Anthropic的Claude 3.5 Sonnet、Google的Gemini 1.5 Pro和OpenAI的o1模型，以及GitHub Spark等新产品的发布。此外，还推出了多项改进，如多文件编辑、代码审查、自动修复等，以提高开发者的生产力和效率。</description>
+      <pubDate>2024-10-29 16:40:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview</title>
+      <link>https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/</link>
+      <description>GitHub宣布将Anthropic的Claude 3.5 Sonnet、Google的Gemini 1.5 Pro和OpenAI的o1-preview和o1-mini引入GitHub Copilot，为开发者提供更多选择，提升AI代码生成功能。这些新模型将逐步推出，支持多种功能，包括代码审查、安全自动修复和命令行界面。开发者可根据个人需求选择最合适的模型。</description>
+      <pubDate>2024-10-29 16:08:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Octoverse: AI leads Python to top language as the number of global developers surges</title>
+      <link>https://github.blog/news-insights/octoverse/octoverse-2024/</link>
+      <description>GitHub年度报告显示，随着全球开发者数量的激增，Python超越JavaScript成为GitHub上最受欢迎的编程语言，AI在GitHub上的应用日益广泛。报告指出，全球开发者社区正在快速增长，特别是在非洲、拉丁美洲和亚洲，其中印度预计将在2028年成为GitHub上开发者数量最多的国家。Python的流行与数据科学和机器学习的兴起密切相关，而Jupyter Notebooks的使用量也大幅增加。</description>
+      <pubDate>2024-10-29 16:07:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Important Updates to Jira Service Management Pricing and Packaging</title>
+      <link>https://www.atlassian.com/blog/announcements/jsm-cloud-pricing-packaging-update</link>
+      <description>Atlassian宣布对Jira Service Management的定价和套餐进行更新，包括将高级功能移至高级版和企业版，以及引入基于使用量的定价模式。这些变化将于2024年10月16日生效，旨在更好地满足客户需求并投资于创新。</description>
+      <pubDate>2024-10-29 15:56:43</pubDate>
+    </item>
+  
+    <item>
+      <title>You can now run prompts against images, audio and video in your terminal using LLM</title>
+      <link>https://simonwillison.net/2024/Oct/29/llm-multi-modal/#atom-entries</link>
+      <description>最新版本的LLM 0.17允许用户在终端中使用图像、音频和视频作为提示，与多种大型语言模型交互，如GPT-4o、Llama、Claude和Gemini。该版本引入了多模态模型支持，用户可以通过插件处理音频和视频，并使用Python API进行更复杂的操作。这些功能为AI应用提供了更多可能性，如生成图像描述、音频转录等，同时保持了低成本。</description>
+      <pubDate>2024-10-29 15:09:38</pubDate>
+    </item>
+  
+    <item>
+      <title>Use the LLM Open Connector to Build Generative AI Solutions Using Your Preferred Models and Platforms</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/build-generative-ai-solutions-with-llm-open-connector.html</link>
+      <description>Salesforce推出LLM Open Connector，允许用户将任何大型语言模型连接到Salesforce，以实现生成式AI应用。此工具支持多种模型和平台，适用于不同用户角色，包括开发者、管理员和业务用户。通过连接模型和构建提示模板，用户可以创建各种生成式AI解决方案，提高工作效率。</description>
+      <pubDate>2024-10-29 15:00:44</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Choose the Right Authorization Model for Your Multi-Tenant SaaS Application</title>
+      <link>https://auth0.com/blog/how-to-choose-the-right-authorization-model-for-your-multi-tenant-saas-application/</link>
+      <description>选择合适的授权模型对于构建安全、可扩展的多租户SaaS应用至关重要。文章探讨了基于角色的访问控制（RBAC）、基于属性的访问控制（ABAC）和基于关系的访问控制（ReBAC）模型，以及如何使用Auth0、OPA和Okta FGA等工具来简化授权策略。这些模型有助于确保用户权限的隔离和安全性，同时提供灵活的访问控制。</description>
+      <pubDate>2024-10-29 15:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using the Strangler Fig with Mobile Apps</title>
+      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</link>
+      <description>本文探讨了如何通过“绞杀榕”模式逐步现代化遗留的移动应用程序。文章以一个企业为例，展示了如何通过增量开发新移动应用程序并采用模块化架构，在降低风险的同时实现价值交付。这种方法有助于解决遗留移动应用程序现代化中的挑战，并显著提高交付效率。</description>
+      <pubDate>2024-10-29 14:34:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Migrating billions of records: moving our active DNS database while it’s in use</title>
+      <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
+      <description>Cloudflare迁移了其活跃的DNS数据库，以优化性能和可靠性。由于DNS数据占用了大量存储空间，且随着公司规模的扩大，原有数据库集群面临压力。迁移过程中，Cloudflare采用了新的数据库集群，并设计了Change Data Capture and Transfer Service（CDCTS）来确保数据安全迁移，同时最小化停机时间。这一举措旨在提高DNS服务的效率和稳定性。</description>
+      <pubDate>2024-10-29 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python's Magic Methods in Classes</title>
+      <link>https://realpython.com/courses/magic-methods-classes/</link>
+      <description>Python的魔法方法在类中——掌握Python面向对象编程的核心特性，通过特殊方法（魔法方法）定制类行为，支持实例化、序列索引、属性管理等操作。本课程包含16个视频教程，涵盖魔法方法的基础、高级应用和定制，适合Python开发者深入学习。</description>
+      <pubDate>2024-10-29 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Unplugged: Catherine’s Sabbatical Journey</title>
       <link>https://www.babbel.com/en/magazine/unplugged-catherines-sabbatical-journey</link>
       <description>Catherine Jozwik在Babbel的B2B RevOps团队领导职位上，通过一次长达两个月的休假，重新连接了自己和她的激情。这次休假帮助她放慢了脚步，重新审视了个人目标和职业优先级，从而在工作和生活中取得了更好的平衡。她鼓励同事们考虑休假带来的丰富机会，以获得个人和职业上的成长。</description>
       <pubDate>2024-10-29 13:33:22</pubDate>
+    </item>
+  
+    <item>
+      <title>How You Can Use Social Media KPIs to Increase Your Brand Awareness</title>
+      <link>https://s14415.pcdn.co/blog/social-media-kpis/</link>
+      <description>如何利用社交媒体KPI提高品牌知名度：了解社交媒体KPI及其对跟踪业务目标的重要性，通过设置SMART目标、考虑公司成长阶段、选择关键KPI并持续调整，监测社交媒体的覆盖范围、互动和转化，以优化内容策略并提升品牌影响力。</description>
+      <pubDate>2024-10-29 13:16:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Vector Databases Are the Wrong Abstraction. Here’s a Better Way.</title>
+      <link>https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/</link>
+      <description>向量数据库是错误抽象。更好的方法是使用“向量器”抽象，将嵌入视为数据库索引，自动同步与源数据，简化管理并提高效率。</description>
+      <pubDate>2024-10-29 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Automatically Create &amp; Update Embeddings in PostgreSQL—With One SQL Query</title>
+      <link>https://www.timescale.com/blog/how-to-automatically-create-update-embeddings-in-postgresql/</link>
+      <description>如何使用一个SQL查询在PostgreSQL中自动创建和更新嵌入：
+
+Pgai Vectorizer简化了在PostgreSQL中创建和管理向量嵌入的过程，允许开发者通过单个SQL命令设置和管理嵌入。它自动化了嵌入的创建和更新，无需额外的代码，从而减少了系统架构的复杂性，并使PostgreSQL成为开发AI应用的更佳平台。</description>
+      <pubDate>2024-10-29 13:06:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Which OpenAI Embedding Model Is Best for Your RAG App With Pgvector?</title>
+      <link>https://www.timescale.com/blog/which-openai-embedding-model-is-best/</link>
+      <description>探讨如何使用pgvector和PostgreSQL选择最佳OpenAI嵌入模型，介绍pgai Vectorizer工具，它自动创建和同步数据嵌入，支持不同模型和版本，简化嵌入管理，提高效率，并优化成本。</description>
+      <pubDate>2024-10-29 13:06:51</pubDate>
     </item>
   
     <item>
@@ -35,10 +149,24 @@
     </item>
   
     <item>
+      <title>Implementing Trustworthy AI Principles with MLOps</title>
+      <link>https://8thlight.com/insights/implementing-trustworthy-ai-principles-with-mlops</link>
+      <description>MLOps将DevOps原则融入机器学习模型的生命周期，通过自动化和人类监督确保AI系统的可靠性、公平性、隐私性和安全性。它通过持续监控、数据漂移检测、模型重训练和隐私保护技术，帮助组织构建可信赖的AI系统。然而，MLOps的实施需要战略规划、运营纪律和技术专长，以及支持持续改进的公司文化。</description>
+      <pubDate>2024-10-29 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Cultivating the next generation of AI innovators in a global tech hub</title>
       <link>https://www.technologyreview.com/2024/10/29/1106130/cultivating-the-next-generation-of-ai-innovators-in-a-global-tech-hub/</link>
       <description>在阿布扎比的穆罕默德·本·扎耶德人工智能大学（MBZUAI）致力于培养下一代人工智能创新者，通过建立新的学术中心，专注于协作研发，使人工智能技术普及并培养全球人工智能领导者。该大学吸引了来自世界各地的顶尖研究人员，并致力于推动跨学科合作，如机器人技术、自然语言处理、机器学习和计算机视觉，以促进人工智能技术的全球包容性创新。</description>
       <pubDate>2024-10-29 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Sprout Multitenancy Package for Laravel</title>
+      <link>https://laravel-news.com/sprout-laravel-multitenancy-package</link>
+      <description>Laravel Sprout是一个正在开发中的多租户包，旨在为Laravel提供功能丰富且灵活的多租户解决方案。它支持子域、路径、会话/cookie、HTTP头和基于身份验证的租户识别，并具有依赖注入和Eloquent租户支持。Sprout计划提供基于域的租户、多数据库租户支持等功能，可在GitHub上查看更多详情。</description>
+      <pubDate>2024-10-29 12:42:40</pubDate>
     </item>
   
     <item>
@@ -86,6 +214,20 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
     </item>
   
     <item>
+      <title>Ecommerce personalization platforms: a buyer’s guide</title>
+      <link>https://algolia.com/blog/ecommerce/ecommerce-personalization-platforms-a-buyers-guide/</link>
+      <description>电商个性化平台：买家指南 - Algolia博客介绍了电商个性化平台的重要性，分析了个性化是否适合您的业务，并提供了评估和选择合适个性化平台的关键因素，包括功能、成本、易用性、支持和声誉。文章还列举了多个市场上的个性化平台，如Adobe Experience Cloud、Algolia、Bloomreach等，以帮助电商企业做出明智的选择。</description>
+      <pubDate>2024-10-29 10:17:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Scaling Prometheus: Tips, Tricks, and Proven Strategies</title>
+      <link>https://last9.io/blog/scaling-prometheus-tips-tricks-and-proven-strategies/</link>
+      <description>本文探讨了如何扩展Prometheus监控系统，包括垂直扩展、通过联邦进行水平扩展，以及使用Thanos和Cortex等工具。文章详细介绍了Prometheus的架构、核心组件、拉模型的优势，并提供了性能优化和故障排除的实用建议。</description>
+      <pubDate>2024-10-29 09:19:14</pubDate>
+    </item>
+  
+    <item>
       <title>Exosomes are touted as a trendy cure-all. We don’t know if they work.</title>
       <link>https://www.technologyreview.com/2024/10/29/1105861/exosomes-are-touted-as-a-trendy-cure-all-we-dont-know-if-they-work/</link>
       <description>外泌体作为一种新兴的治疗方法，被吹捧为万能的治愈良药，但它们的工作原理和效果尚不明确。尽管市场上存在大量未经证实的外泌体疗法，用于治疗脱发、皮肤老化、痤疮等，甚至更严重的疾病，如长期新冠和阿尔茨海默病，但这些疗法并未得到监管机构的批准。外泌体的成分和作用机制仍存在争议，其安全性和有效性尚未得到充分验证。</description>
@@ -96,6 +238,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <title>Social Media for Business: Driving Growth and Engagement in the Digital Age</title>
       <link>https://s14415.pcdn.co/blog/social-media-for-business/</link>
       <description>社交媒体对于企业至关重要，它可以帮助企业扩大品牌影响力、建立客户关系、生成潜在客户并提升销售。选择合适的平台、制定有效的策略、利用社交媒体广告和管理工具，以及衡量成效是关键。企业应利用社交媒体平台的特点，如Facebook、Instagram、LinkedIn、X和TikTok，来吸引目标受众，并实现业务增长。</description>
+      <pubDate>2024-10-29 08:30:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media for Business: Driving Growth and Engagement in the Digital Age</title>
+      <link>https://www.brandwatch.com/blog/social-media-for-business/</link>
+      <description>社交媒体对于企业至关重要，它可以帮助企业扩大品牌影响力、建立客户关系、生成潜在客户并提升销售。选择合适的平台，如Facebook、Instagram、LinkedIn、X和TikTok，并制定有效的社交媒体策略，是企业成功的关键。通过明确目标、创造吸引人的内容并优化发布时间表，企业可以更好地利用社交媒体平台，实现业务增长和客户参与。</description>
       <pubDate>2024-10-29 08:30:48</pubDate>
     </item>
   
@@ -120,6 +269,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
 
 本文介绍了在VMware Cloud Foundation (VCF) 5.2.1上运行OpenShift 4.17的必要信息，包括版本兼容性、安装要求、新功能以及配置步骤。</description>
       <pubDate>2024-10-29 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Representative Line: On the Log, Forever</title>
+      <link>https://thedailywtf.com/articles/on-the-log-forever</link>
+      <description>Jon在设置开发环境时遇到了一个调试日志未关闭的问题，经过调查发现这是一个一年前由离职开发者留下的遗留问题。Jon修复了这个问题，并预计还有更多类似的问题需要解决。</description>
+      <pubDate>2024-10-29 06:30:00</pubDate>
     </item>
   
     <item>
@@ -148,6 +304,34 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <link>https://www.elastic.co/blog/essential-tools-building-successful-security-analytics</link>
       <description>成功构建安全分析的关键工具包括：安全信息和事件管理（SIEM）、扩展检测和响应（XDR）、云安全、安全编排、自动化和响应（SOAR）、用户和实体行为分析（UEBA）以及威胁情报平台（TIP）。这些工具通过收集、分析和利用安全事件数据，帮助团队主动检测异常和漏洞，以减轻针对性攻击、内部威胁和高级持续性威胁（APTs）。结合生成式AI，这些工具能够提供预测性分析、精细化的行为分析以及自动化的应急响应，从而提高安全团队对事件的响应速度和防御能力。</description>
       <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Don't judge tech just because you're old</title>
+      <link>https://swizec.com/blog/dont-judge-tech-just-because-you-re-old/</link>
+      <description>不要因为年纪大就评判科技。作者Swizec Teller提醒我们，新生事物在诞生时被视为正常，而发明于15至35岁之间的技术则被视为新颖和革命性的。他建议，在评判新技术时，要反思自己是否只是因为不习惯而排斥。随着时间的推移，技术的限制消失，最佳方法也会随之改变。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Woah, opacity! A full guide to this badass hero of efficient UI design</title>
+      <link>https://evilmartians.com/chronicles/woah-opacity-a-full-guide-to-this-badass-hero-of-efficient-ui-design</link>
+      <description>透明度在现代UI设计中是一个强大的工具，可以简化设计流程，提高效率。通过使用透明颜色，可以减少设计元素，如按钮和边框的样式，使设计更加灵活。透明度特别适用于需要定制主题的应用，如Slack或Zed。然而，使用透明度时需要注意对比度、性能和视觉干扰等问题。对于初创公司和快速发展的团队来说，透明度设计可以带来更简洁、更有效的结果。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Rob the Whole World; Give It Back</title>
+      <link>https://taylor.town/rob-the-world</link>
+      <description>人类繁荣需要自由获取营养、医疗、知识等资源，以及自我表达的工具。然而，资本分配往往不均，导致资源浪费和繁荣受限。作者呼吁改变这一现状，通过创新和故事讲述激发集体意识，引导资本流向能促进繁荣的项目。他计划通过成为“好人”、采用自我纠正机制和积累足够权力来实现这一目标，以推动世界向更繁荣的方向发展。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Post on Multiple Social Media Platforms at Once</title>
+      <link>https://www.brandwatch.com/blog/post-on-multiple-social-media-platforms/</link>
+      <description>如何一次性有效地发布到所有社交媒体平台。本文探讨了如何通过使用社交媒体管理工具，根据不同平台的特点定制内容，同时保持品牌信息的统一性。文章强调了理解不同平台受众的差异、内容偏好、发布时间和格式限制的重要性，并提供了八个步骤来简化多平台发布流程，包括选择合适的工具、设置账户、链接社交媒体资料、调整发布设置、撰写帖子、保持视觉一致性、决定发布时间以及跟踪和分析参与度。</description>
+      <pubDate>2024-10-28 21:25:05</pubDate>
     </item>
   
     <item>
@@ -302,6 +486,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <link>https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-human-tutors-better-at-teaching-children-math/</link>
       <description>斯坦福大学的研究人员开发了一个名为Tutor CoPilot的AI系统，旨在通过虚拟辅导提高教师的教学效果。该系统基于OpenAI的GPT-4，能够为教师提供教学建议，帮助他们在辅导过程中更有效地纠正学生的错误，从而提高学生的学习成绩。初步测试显示，使用该工具的教师辅导的学生通过率提高了4个百分点。</description>
       <pubDate>2024-10-28 09:30:07</pubDate>
+    </item>
+  
+    <item>
+      <title>A better dashboard and a better experience: Product updates - Autumn 2024</title>
+      <link>https://gocardless.com/blog/product-updates-autumn-2024/</link>
+      <description>GoCardless在2024年秋季推出了多项产品更新，包括改进仪表板、批量暂停订阅模板、增强支付状态透明度、简化客户迁移流程、开放银行功能以及新的即时银行支付方式，旨在提高支付效率和用户体验。</description>
+      <pubDate>2024-10-28 08:41:54</pubDate>
     </item>
   
     <item>
