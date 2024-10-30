@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Python Closures: Common Use Cases and Examples</title>
+      <link>https://realpython.com/python-closure/</link>
+      <description>本文深入探讨了Python中的闭包，包括其定义、工作原理、常见用例和示例。闭包是一种在函数内部定义的函数，能够访问外部函数的作用域中的变量。文章通过实例展示了如何使用闭包创建工厂函数、维护函数状态、实现回调函数，以及编写装饰器。此外，还讨论了闭包在事件驱动编程和图形用户界面编程中的应用。</description>
+      <pubDate>2024-10-30 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Product Management in the Dynamic World of Data Streaming</title>
+      <link>https://www.confluent.io/blog/product-manager-data-platform/</link>
+      <description>产品经理如何在数据流动态环境中提升客户数据平台。通过深入了解客户需求，与跨部门团队合作，构建解决方案，确保数据流健康可靠。成功的关键在于使客户能够维持流畅的流操作，通过跟踪新功能采用率、平台稳定性和性能改进以及积极客户反馈来衡量。</description>
+      <pubDate>2024-10-30 13:30:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating 25 Years of CVE’s</title>
+      <link>https://jerrygamblin.com/2024/10/30/celebrating-25-years-of-cves/</link>
+      <description>CVE项目自1999年启动以来，已成为网络安全领域的关键力量，通过标准化漏洞识别、共享和缓解，促进了全球协作，推动了网络安全的发展。25年来，CVE项目见证了从简单的漏洞跟踪到复杂的漏洞管理系统的演变，并推动了全球网络安全能力的提升。</description>
+      <pubDate>2024-10-30 13:15:44</pubDate>
+    </item>
+  
+    <item>
+      <title>Bluesky notification channel for Laravel</title>
+      <link>https://laravel-news.com/bluesky-notification-channel-for-laravel</link>
+      <description>Enzo Innocenzi开发了Laravel通知通道，用于Bluesky社交媒体应用，可在GitHub上找到。通过简单的步骤，用户可以将其集成到Laravel项目中，实现自动发布文章到Bluesky账户。详细安装说明和Bluesky处理嵌入的细节可在GitHub仓库中找到。</description>
+      <pubDate>2024-10-30 12:16:17</pubDate>
+    </item>
+  
+    <item>
+      <title>HubSpot Engineering's Quarterly Development Cycle: How &amp; Why</title>
+      <link>https://product.hubspot.com/blog/quarterly-dev-cycle</link>
+      <description>HubSpot的工程团队采用季度开发周期，以适应业务优先级和产品需求。每个季度，团队会确定一系列项目，并为每个特性指定直接责任人（DRI）。通过日常和周会保持团队同步，并按需进行项目特定会议。这种模式减少了团队会议时间，增加了专注工作的机会，同时保持灵活性和透明度，以应对不断变化的需求。</description>
+      <pubDate>2024-10-30 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Build and Grow a Powerful Social Media Presence</title>
+      <link>https://s14415.pcdn.co/blog/social-media-presence/</link>
+      <description>如何建立和扩大强大的社交媒体影响力：品牌需要制定并执行有效的社交媒体策略，以与受众建立有意义的互动。通过了解目标受众、选择合适的平台、创造吸引人的内容以及利用数据分析，品牌可以增强其社交媒体影响力，从而实现业务目标。</description>
+      <pubDate>2024-10-30 11:14:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Here’s the paper no one read before declaring the demise of modern cryptography</title>
+      <link>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</link>
+      <description>现代密码学的某些重要支柱可能因量子计算的发展而崩溃。近期有关量子计算机攻击加密算法的研究引发了广泛关注，但专家指出，这些研究并未突破传统数学方法，且对AES和RSA等算法的安全性影响有限。</description>
+      <pubDate>2024-10-30 11:00:32</pubDate>
+    </item>
+  
+    <item>
+      <title>SREday London 2024: Our conference highlights</title>
+      <link>https://severalnines.com/blog/sreday-london-2024-highlights/</link>
+      <description>SREday London 2024会议聚焦于数据库操作、云原生技术和Kubernetes在DevOps中的应用。Severalnines分享了如何通过Sovereign DBaaS模型定制数据库操作以满足特定需求，并探讨了Kubernetes在平台工程、资源优化和故障排除中的作用。会议还讨论了AI在自动化和监控中的角色，以及如何应对行业挑战，如团队合作和战略规划。</description>
+      <pubDate>2024-10-30 10:31:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Ruby 3.2.6 Released</title>
+      <link>https://www.ruby-lang.org/en/news/2024/10/30/ruby-3-2-6-released/</link>
+      <description>Ruby 3.2.6版本已发布，感谢众多贡献者提供错误报告，帮助改进此版本。下载链接和SHA校验信息已提供。</description>
+      <pubDate>2024-10-30 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>An easier-to-use technique for storing data in DNA is inspired by our cells</title>
+      <link>https://www.technologyreview.com/2024/10/30/1106345/a-new-easier-to-use-dna-data-storage-technique-is-inspired-by-our-cells/</link>
+      <description>研究人员开发了一种基于细胞化学过程的DNA数据存储新方法，使非专业人士也能编码数据。这种方法通过使用预先构建的DNA砖块，提高了存储效率，并有望用于长期存储档案信息，如医疗记录和科学数据。</description>
+      <pubDate>2024-10-30 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The arrhythmia of our current age</title>
+      <link>https://www.technologyreview.com/2024/10/30/1106350/the-arrhythmia-of-our-current-age/</link>
+      <description>在当今时代，生活节奏的失衡成为了一个普遍问题。作者通过个人经历，探讨了心律不齐这一生理现象如何隐喻性地反映了现代生活的混乱和不确定性。文章指出，尽管科技进步带来了便利，但同时也带来了新的焦虑和压力，如环境问题、心理健康危机和社会不平等。作者呼吁人们重新审视现代生活的设计，关注那些对幸福和繁荣至关重要的基本要素，如人际关系和社区联系。</description>
+      <pubDate>2024-10-30 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>SRECon EMEA 2024 - Day 1</title>
       <link>https://last9.io/blog/srecon-emea-2024-day-1/</link>
       <description>SRECon EMEA 2024在爱尔兰都柏林举行，汇集了来自不同背景的可靠性工程师，共同探讨提高系统可靠性的最佳实践。会议亮点包括讨论如何设计具有实时反馈的控制平面、SRE团队如何构建韧性、可靠性工程的前沿领域以及成本管理策略。此外，还进行了关于可靠性是否为奢侈品以及服务级别目标的讨论。</description>
@@ -13,10 +90,31 @@
     </item>
   
     <item>
+      <title>How Modern Banking Is Using GraphQL</title>
+      <link>https://nordicapis.com/how-modern-banking-is-using-graphql/</link>
+      <description>现代银行为何采用GraphQL：本文探讨了GraphQL在银行业的应用，包括其灵活的查询、单一端点、强类型和内省等优势。通过案例研究，展示了National Australia Bank、Varo、Goldman Sachs和BBVA等如何利用GraphQL简化技术复杂性、提高效率并优化用户体验。GraphQL为银行业提供了强大的数据管理和服务能力。</description>
+      <pubDate>2024-10-30 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Limitations of frame pointer unwinding</title>
       <link>https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding</link>
       <description>现代Linux发行版如Fedora和Ubuntu已禁用帧指针优化，以便于分析调用栈。本文探讨了帧指针优化的局限性，包括性能损失的不均匀分布、函数前后和PLT部分的间隙，以及库中汇编代码函数的问题。同时，文章也提到了一些旨在无需帧指针优化即可进行系统级分析的项目，如eu-stacktrace和SFrame，以及硬件辅助的影子栈技术。</description>
       <pubDate>2024-10-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: A Base Nature</title>
+      <link>https://thedailywtf.com/articles/a-base-nature</link>
+      <description>程序员Remy Porter在TDWTF上分析了代码中的无用条件语句，指出一个方法覆盖实际上只是重复了父类方法的行为，建议删除以简化代码，但这一建议尚未被采纳。</description>
+      <pubDate>2024-10-30 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Life in the Fastlane: SDK tools built with developers in mind</title>
+      <link>https://stackoverflow.blog/2024/10/30/paypal-fastlane-sdk-developer-integration-components-ecommerce/</link>
+      <description>PayPal的Fastlane工具旨在简化开发者的工作流程，通过提供加速的结账体验和减少支付过程中的摩擦，帮助商家和消费者创建无缝的结账体验。</description>
+      <pubDate>2024-10-30 04:40:00</pubDate>
     </item>
   
     <item>
@@ -48,6 +146,13 @@
     </item>
   
     <item>
+      <title>Why Have Daily Standups</title>
+      <link>https://www.amazingcto.com/how-to-make-daily-standups-work-and-a-success/</link>
+      <description>每日站立会议对于团队协作至关重要，有助于团队对齐、提高责任感和生产力，减少其他会议，并促进远程团队建设。然而，要避免反模式，如团队过大、会议目的不明确、管理者中心化等，以确保会议的有效性和开发者的参与度。</description>
+      <pubDate>2024-10-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Bloch sphere</title>
       <link>https://eli.thegreenplace.net/2024/bloch-sphere/</link>
       <description>本文解释了如何使用布洛赫球来可视化量子比特的状态。布洛赫球通过将四个维度映射到一个球体上，将量子比特的状态表示为球面上的一个点。文章详细介绍了如何通过极坐标和球坐标将量子态转换为布洛赫球上的点，并解释了为什么需要使用半个球面来表示量子态。此外，文章还通过具体的量子态示例展示了如何在布洛赫球上可视化量子态的叠加。</description>
@@ -66,6 +171,13 @@
       <link>https://www.atlassian.com/blog/artificial-intelligence/learn-ai</link>
       <description>人工智能（AI）正变得越来越重要，它能够执行传统上由人类完成的任务，并随着时间推移不断改进。本文探讨了AI的基础知识，包括不同类型的AI、AI与机器学习、深度学习的区别，以及如何开始学习AI。学习AI对于职业发展、解决问题和提升效率至关重要。通过在线课程、实践项目和AI工具，可以掌握AI技能，并在工作中应用。</description>
       <pubDate>2024-10-29 22:02:25</pubDate>
+    </item>
+  
+    <item>
+      <title>The Complete Guide to Facebook Marketing in 2024</title>
+      <link>https://www.brandwatch.com/blog/facebook-marketing-guide/</link>
+      <description>Facebook营销指南：本文深入探讨了Facebook营销的最佳实践和策略，包括广告类型、设置方法、营销策略和效果跟踪。通过Facebook，企业可以精准定位目标受众，提高品牌知名度，并利用多样化的广告格式和强大的数据分析工具来优化营销效果。</description>
+      <pubDate>2024-10-29 21:49:32</pubDate>
     </item>
   
     <item>
@@ -160,6 +272,13 @@
     </item>
   
     <item>
+      <title>Facebook Cover Photo Size: Your Ultimate Guide for 2024</title>
+      <link>https://www.brandwatch.com/blog/facebook-cover-photo-size/</link>
+      <description>2024年Facebook封面照片尺寸指南：了解2024年Facebook封面照片的理想尺寸，学习尺寸、技巧和最佳实践，让您的Facebook个人资料在任何设备上脱颖而出。推荐尺寸为820 x 360像素，适用于桌面和移动设备，确保图片清晰并快速加载。注意文件格式和文件大小，并确保重要信息位于图片中心区域。</description>
+      <pubDate>2024-10-29 14:22:30</pubDate>
+    </item>
+  
+    <item>
       <title>Migrating billions of records: moving our active DNS database while it’s in use</title>
       <link>https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use</link>
       <description>Cloudflare迁移了其活跃的DNS数据库，以优化性能和可靠性。由于DNS数据占用了大量存储空间，且随着公司规模的扩大，原有数据库集群面临压力。迁移过程中，Cloudflare采用了新的数据库集群，并设计了Change Data Capture and Transfer Service（CDCTS）来确保数据安全迁移，同时最小化停机时间。这一举措旨在提高DNS服务的效率和稳定性。</description>
@@ -184,6 +303,13 @@
       <title>How You Can Use Social Media KPIs to Increase Your Brand Awareness</title>
       <link>https://s14415.pcdn.co/blog/social-media-kpis/</link>
       <description>如何利用社交媒体KPI提高品牌知名度：了解社交媒体KPI及其对跟踪业务目标的重要性，通过设置SMART目标、考虑公司成长阶段、选择关键KPI并持续调整，监测社交媒体的覆盖范围、互动和转化，以优化内容策略并提升品牌影响力。</description>
+      <pubDate>2024-10-29 13:16:13</pubDate>
+    </item>
+  
+    <item>
+      <title>How You Can Use Social Media KPIs to Increase Your Brand Awareness</title>
+      <link>https://www.brandwatch.com/blog/social-media-kpis/</link>
+      <description>如何利用社交媒体KPI提高品牌知名度：通过设置与品牌目标一致的关键绩效指标（KPI），监测社交媒体活动效果，包括客户满意度、客户保留率、响应时间、互动量等，以优化内容策略，提升品牌在社交媒体上的表现。</description>
       <pubDate>2024-10-29 13:16:13</pubDate>
     </item>
   
@@ -429,6 +555,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <title>How to Integrate Voice Intelligence with Your CRM</title>
       <link>https://www.twilio.com/en-us/blog/build-hubspot-integrations-with-voice-intelligence</link>
       <description>Twilio的Voice Intelligence可以将客户通话转化为可操作的数据洞察，通过AI和机器学习技术，自动转录、分析情感和关键词，帮助企业理解客户情绪和行为。与CRM系统如HubSpot或Salesforce集成，Voice Intelligence可以自动提取关键信息，如电话号码、电子邮件和跟进承诺，提高数据准确性并简化客户管理。这种集成使销售团队能够更有效地处理客户信息，提高工作效率和客户满意度。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Apple's iOS 18.1 release expands RCS to include Business Messaging</title>
+      <link>https://www.twilio.com/en-us/blog/rcs-business-messaging-apple-update</link>
+      <description>苹果发布iOS 18.1更新，首次将富通信服务（RCS）扩展到商业消息，为iPhone用户带来更丰富的消息体验，包括高分辨率图片、阅读回执、行动按钮等。此更新将改变美国消费者与企业沟通的方式，为商家和消费者带来新的沟通可能性。</description>
       <pubDate>2024-10-29 00:00:00</pubDate>
     </item>
   
