@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Bloch sphere</title>
+      <link>https://eli.thegreenplace.net/2024/bloch-sphere/</link>
+      <description>本文解释了如何使用布洛赫球来可视化量子比特的状态。布洛赫球通过将四个维度映射到一个球体上，将量子比特的状态表示为球面上的一个点。文章详细介绍了如何通过极坐标和球坐标将量子态转换为布洛赫球上的点，并解释了为什么需要使用半个球面来表示量子态。此外，文章还通过具体的量子态示例展示了如何在布洛赫球上可视化量子态的叠加。</description>
+      <pubDate>2024-10-29 23:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to learn AI for beginners</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/learn-ai</link>
+      <description>人工智能（AI）正变得越来越重要，它能够执行传统上由人类完成的任务，并随着时间推移不断改进。本文探讨了AI的基础知识，包括不同类型的AI、AI与机器学习、深度学习的区别，以及如何开始学习AI。学习AI对于职业发展、解决问题和提升效率至关重要。通过在线课程、实践项目和AI工具，可以掌握AI技能，并在工作中应用。</description>
+      <pubDate>2024-10-29 22:02:25</pubDate>
+    </item>
+  
+    <item>
+      <title>My Art And Color-After Tiling</title>
+      <link>https://thecodist.com/my-art-and-color-after-tiling/</link>
+      <description>艺术家Andrew Wulf使用Swift创作生成艺术，并采用了一种名为“色后拼贴”的独特技术。他将拼贴布局与着色分离，通过代码创建不同尺寸的拼贴，然后用工具填充连续区域以去除线条，创造出比传统Truchet瓷砖更复杂的图像。他的作品通常具有50至200多兆像素，并采用单版印刷形式。</description>
+      <pubDate>2024-10-29 19:39:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Microsoft.Extensions.VectorData Preview</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/</link>
+      <description>微软推出.NET扩展库Microsoft.Extensions.VectorData的预览版，该库提供抽象层以帮助.NET应用程序集成向量存储。向量数据库对搜索和生成AI响应等任务至关重要，可高效存储、索引和管理以嵌入向量表示的数据。该库支持CRUD操作和向量及文本搜索，通过Semantic Kernel向量存储连接器轻松开始使用。</description>
+      <pubDate>2024-10-29 18:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>Understanding responsible AI practices</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/responsible-ai</link>
       <description>本文探讨了负责任的人工智能（AI）原则和实践。负责任AI旨在创建符合伦理原则和社会价值观的AI系统，确保AI技术发展时优先考虑公平、隐私和个体及社会的整体福祉。文章强调了公平与偏见缓解、透明度和问责制等关键原则，并提供了实施负责任AI实践的方法，如开发伦理AI框架、进行影响评估和参与利益相关者。</description>
@@ -276,6 +304,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <link>https://thedailywtf.com/articles/on-the-log-forever</link>
       <description>Jon在设置开发环境时遇到了一个调试日志未关闭的问题，经过调查发现这是一个一年前由离职开发者留下的遗留问题。Jon修复了这个问题，并预计还有更多类似的问题需要解决。</description>
       <pubDate>2024-10-29 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the Postman Collection for Postmark</title>
+      <link>https://postmarkapp.com/blog/announcing-the-postman-collection-for-postmark</link>
+      <description>Postmark推出官方Postman集合，简化API测试和分享。Postman是一款图形界面工具，可一键测试和分享API调用。Postmark集合让用户轻松尝试Postmark API并立即查看结果，无需编写代码。用户可通过Postman导入集合，更新变量，如API令牌，并开始测试API调用。</description>
+      <pubDate>2024-10-29 04:00:00</pubDate>
     </item>
   
     <item>
