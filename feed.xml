@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>SRECon EMEA 2024 - Day 1</title>
+      <link>https://last9.io/blog/srecon-emea-2024-day-1/</link>
+      <description>SRECon EMEA 2024在爱尔兰都柏林举行，汇集了来自不同背景的可靠性工程师，共同探讨提高系统可靠性的最佳实践。会议亮点包括讨论如何设计具有实时反馈的控制平面、SRE团队如何构建韧性、可靠性工程的前沿领域以及成本管理策略。此外，还进行了关于可靠性是否为奢侈品以及服务级别目标的讨论。</description>
+      <pubDate>2024-10-30 08:02:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Limitations of frame pointer unwinding</title>
+      <link>https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding</link>
+      <description>现代Linux发行版如Fedora和Ubuntu已禁用帧指针优化，以便于分析调用栈。本文探讨了帧指针优化的局限性，包括性能损失的不均匀分布、函数前后和PLT部分的间隙，以及库中汇编代码函数的问题。同时，文章也提到了一些旨在无需帧指针优化即可进行系统级分析的项目，如eu-stacktrace和SFrame，以及硬件辅助的影子栈技术。</description>
+      <pubDate>2024-10-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>W̶e̶e̶k̶n̶o̶t̶e̶s̶  Monthnotes for October</title>
+      <link>https://simonwillison.net/2024/Oct/30/monthnotes/#atom-entries</link>
+      <description>本月，我专注于发布长篇博客，包括LLM（大型语言模型）的最新动态。我推出了支持多模态的LLM工具，并探索了工具使用等新功能。此外，我还发布了多个LLM插件和工具，如Mistral、Claude和Gemini，并分享了关于Python、Hugo和YouTube等技术的见解。</description>
+      <pubDate>2024-10-30 04:20:44</pubDate>
+    </item>
+  
+    <item>
+      <title>How we reduced peak memory and CPU usage of the product configuration management SDK</title>
+      <link>https://engineering.grab.com/reduced-memory-cpu-usage-grabx-sdk</link>
+      <description>本文探讨了如何降低GrabX SDK的峰值内存和CPU使用率。通过分析SDK设计，我们发现服务数据分区、保留最新配置版本和优化JSON解码等方法可以显著降低资源消耗。实施后的解决方案将内存利用率降低了70%，CPU利用率降低了50%，提高了SDK的性能和可扩展性。</description>
+      <pubDate>2024-10-30 00:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhance Customer Engagement with Go and Twilio SMS</title>
+      <link>https://www.twilio.com/en-us/blog/enhance-customer-engagement-go-twilio-sms</link>
+      <description>Twilio通过Go和Twilio SMS API提升客户参与度，构建营销服务，发送个性化促销短信，增强客户关系，提高业务收益。</description>
+      <pubDate>2024-10-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Make It Ephemeral: Software Should Decay and Lose Data</title>
+      <link>http://lucumr.pocoo.org/2024/10/30/make-it-ephemeral</link>
+      <description>软件应有意“遗忘”数据，以避免信息过载和提升用户体验。当前软件往往缺乏对数据自然衰减的处理，导致信息冗余和搜索困难。建议软件采用“默认即临时”的策略，自动删除不活跃数据，并允许用户主动设置删除时间，以优化存储空间和提升信息检索效率。</description>
+      <pubDate>2024-10-30 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Bloch sphere</title>
       <link>https://eli.thegreenplace.net/2024/bloch-sphere/</link>
       <description>本文解释了如何使用布洛赫球来可视化量子比特的状态。布洛赫球通过将四个维度映射到一个球体上，将量子比特的状态表示为球面上的一个点。文章详细介绍了如何通过极坐标和球坐标将量子态转换为布洛赫球上的点，并解释了为什么需要使用半个球面来表示量子态。此外，文章还通过具体的量子态示例展示了如何在布洛赫球上可视化量子态的叠加。</description>
@@ -13,10 +55,24 @@
     </item>
   
     <item>
+      <title>Introducing support for HTTP/2 and gRPC on DigitalOcean App Platform</title>
+      <link>https://www.digitalocean.com/blog/support-for-http2-grpc-app-platform</link>
+      <description>DigitalOcean App Platform现已支持HTTP/2和gRPC，为开发者提供构建更快、更高效、可扩展的云原生应用的新可能性。HTTP/2通过多路复用提高性能，而gRPC则是一个高性能的RPC框架，支持跨语言和实时数据流。在DigitalOcean App Platform上运行gRPC应用，可享受高效性能、低延迟和无缝扩展。</description>
+      <pubDate>2024-10-29 23:02:47</pubDate>
+    </item>
+  
+    <item>
       <title>How to learn AI for beginners</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/learn-ai</link>
       <description>人工智能（AI）正变得越来越重要，它能够执行传统上由人类完成的任务，并随着时间推移不断改进。本文探讨了AI的基础知识，包括不同类型的AI、AI与机器学习、深度学习的区别，以及如何开始学习AI。学习AI对于职业发展、解决问题和提升效率至关重要。通过在线课程、实践项目和AI工具，可以掌握AI技能，并在工作中应用。</description>
       <pubDate>2024-10-29 22:02:25</pubDate>
+    </item>
+  
+    <item>
+      <title>2024 holiday insights and shopping trends: 100+ key stats</title>
+      <link>https://www.surveymonkey.com/curiosity/2024-holiday-insights-statistics-and-shopping-trends/?ut_source=rss</link>
+      <description>2024年假日购物趋势分析：消费者对通货膨胀担忧，预算紧张，预计将减少假日开支。购物时间提前，折扣和免费运输是主要驱动力。社交媒体和口碑推荐对购物决策有重要影响。品牌需关注顾客体验，利用社交媒体和收集反馈以提升竞争力。</description>
+      <pubDate>2024-10-29 21:25:35</pubDate>
     </item>
   
     <item>
@@ -359,6 +415,27 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <title>Rob the Whole World; Give It Back</title>
       <link>https://taylor.town/rob-the-world</link>
       <description>人类繁荣需要自由获取营养、医疗、知识等资源，以及自我表达的工具。然而，资本分配往往不均，导致资源浪费和繁荣受限。作者呼吁改变这一现状，通过创新和故事讲述激发集体意识，引导资本流向能促进繁荣的项目。他计划通过成为“好人”、采用自我纠正机制和积累足够权力来实现这一目标，以推动世界向更繁荣的方向发展。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build Automations for Utilities from Call Insights with Voice Intelligence</title>
+      <link>https://www.twilio.com/en-us/blog/build-automations-for-utilities-with-voice-intelligence</link>
+      <description>Twilio推出语音智能工具，可从通话数据中提取洞察，帮助企业自动化客户服务流程。通过结合预建和自定义语言操作符，企业可以创建自动化的工作流程，提高客户服务质量。本文将介绍如何使用语音智能工具来识别潜在的客户流失风险，并通过Twilio的预建语言操作符和自定义操作符实现这一目标。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Integrate Voice Intelligence with Your CRM</title>
+      <link>https://www.twilio.com/en-us/blog/build-hubspot-integrations-with-voice-intelligence</link>
+      <description>Twilio的Voice Intelligence可以将客户通话转化为可操作的数据洞察，通过AI和机器学习技术，自动转录、分析情感和关键词，帮助企业理解客户情绪和行为。与CRM系统如HubSpot或Salesforce集成，Voice Intelligence可以自动提取关键信息，如电话号码、电子邮件和跟进承诺，提高数据准确性并简化客户管理。这种集成使销售团队能够更有效地处理客户信息，提高工作效率和客户满意度。</description>
+      <pubDate>2024-10-29 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Get Started with Twilio’s Voice Intelligence Product</title>
+      <link>https://www.twilio.com/en-us/blog/get-started-with-voice-intelligence</link>
+      <description>Twilio的语音智能产品可以帮助企业从通话录音中提取结构化数据，通过AI技术将客户对话转化为有价值的洞察，从而提高投资回报率。在开始项目前，应考虑如何利用语音智能解决具体问题，如自动化任务、提高客户满意度等。通过分析通话记录，企业可以减少等待时间，提高效率，并实现业务增长。</description>
       <pubDate>2024-10-29 00:00:00</pubDate>
     </item>
   
