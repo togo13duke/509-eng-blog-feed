@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why Enterprises Are Concerned About Zombie APIs</title>
+      <link>https://nordicapis.com/why-enterprises-are-concerned-about-zombie-apis/</link>
+      <description>企业对僵尸API的担忧日益增加，因为这些被遗忘的API可能无意中暴露敏感数据。随着API攻击的增加，企业正在转向API治理来加强整体安全态势。为了防止API成为僵尸，组织需要通过治理来识别和管理这些不再服务于业务但可能构成威胁的端点。</description>
+      <pubDate>2024-10-31 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Tutorial: Implement custom policies in 3scale API Management</title>
+      <link>https://developers.redhat.com/articles/2024/10/31/tutorial-implement-custom-policies-3scale-api-management</link>
+      <description>本教程介绍了如何在3scale API管理中实现自定义策略。通过创建自定义策略，可以更好地满足客户需求，因为现有策略可能不够灵活。教程详细说明了如何从头开始创建策略，包括必要的文件和代码示例，以及如何在不同的nginx阶段中实现策略逻辑。</description>
+      <pubDate>2024-10-31 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>[Heroku] Managed Data Services を用いたイベント駆動型アーキテクチャの構築</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/heroku-managed-data-services-eda.html</link>
+      <description>本文探讨了使用Heroku管理数据服务构建事件驱动型架构（EDA）的重要性。EDA通过Apache Kafka实现，允许独立服务间高效通信，实现实时数据处理和无缝集成。Kafka作为数据存储中心，提供故障容忍性，确保数据不丢失。Heroku的Apache Kafka服务简化了管理，使开发人员能专注于功能开发。</description>
+      <pubDate>2024-10-31 06:07:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Going REPLing with Haskeline</title>
+      <link>https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed</link>
+      <description>本文介绍了如何使用Haskeline库为Haskell实现的新编程语言创建一个功能丰富的REPL（交互式编程环境）。文章首先概述了创建新语言的过程，包括AST（抽象语法树）、解析器和解释器。接着，详细介绍了如何实现一个具有自动完成、颜色输出、多行输入等高级功能的REPL。文章还展示了如何使用Haskeline库来处理用户输入、评估表达式以及管理REPL状态。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>What is conversational AI?</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/conversation-ai</link>
       <description>对话式人工智能是一种让计算机能够自然、有意义地理解和回应人类语言的技术。它包括从简单的聊天机器人到复杂的虚拟助手。这种技术通过自然语言处理和机器学习，使机器能够理解用户的意图，维持上下文，并生成更自然的回应。对话式人工智能在提高客户服务效率、自动化日常任务和增强用户体验方面具有显著优势，但也面临理解语境、处理模糊查询和维护数据隐私等挑战。未来，随着技术的进步，对话式人工智能有望实现更自然的交互、多语言能力和与其他AI技术的整合。</description>
