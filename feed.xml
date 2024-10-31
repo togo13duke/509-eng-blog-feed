@@ -6,6 +6,76 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Code a Subtle Shader Background Effect with React Three Fiber</title>
+      <link>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</link>
+      <description>Matias Perez在教程中展示了如何使用React Three Fiber和Drei库创建一个交互式的着色器背景效果。通过四个简单步骤，他详细解释了如何构建一个点状网格背景，并添加鼠标轨迹和遮罩效果，最后将所有元素组合在一起，实现一个动态的视觉效果。</description>
+      <pubDate>2024-10-31 13:13:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Workers Builds: integrated CI/CD built on the Workers platform</title>
+      <link>https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform</link>
+      <description>Cloudflare推出Workers Builds，一个集成的持续集成和持续交付（CI/CD）工作流程，允许用户将GitHub或GitLab仓库与Worker连接，每次提交时自动构建和部署更改。该系统利用Durable Objects、Hyperdrive和Workers Logs等技术，提供高效、可扩展的构建管理，并支持智能放置和位置提示以优化性能。</description>
+      <pubDate>2024-10-31 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Chasing AI’s value in life sciences</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106332/chasing-ais-value-in-life-sciences/</link>
+      <description>随着人工智能在生命科学领域的广泛应用，企业正利用其范围、规模、速度和人与AI协作的优势来区分自己。通过整合数据、个性化服务和加速药物发现，AI正在帮助公司提高效率并创造差异化体验。然而，为了最大化AI的价值，领导者需要仔细考虑如何平衡这些关键因素。</description>
+      <pubDate>2024-10-31 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build Resilient API Clients: Implementing Retry and Circuit Breaker Patterns</title>
+      <link>https://spin.atomicobject.com/retry-circuit-breaker-patterns/</link>
+      <description>本文探讨了构建弹性API客户端的重要性，重点介绍了重试和断路器模式。作者Nick Hawn分享了在自动化集成项目中处理网络问题和错误代码的经验，强调了重试策略、断路器模式以及死信队列在确保系统稳定性和可靠性方面的作用。</description>
+      <pubDate>2024-10-31 12:00:53</pubDate>
+    </item>
+  
+    <item>
+      <title>The Ultimate Guide to TikTok Marketing: Tips, Examples, &amp; Tools</title>
+      <link>https://s14415.pcdn.co/blog/tiktok-marketing/</link>
+      <description>TikTok营销指南：TikTok营销利用短视频与目标受众互动，具有高参与度和病毒式营销潜力。品牌可利用TikTok的广泛受众、低成本广告、增强的品牌认知和精准的定位工具。设置TikTok商业账户，优化个人资料，创建吸引人的内容，利用趋势和挑战，与影响者合作，以制定有效的营销策略。</description>
+      <pubDate>2024-10-31 11:35:37</pubDate>
+    </item>
+  
+    <item>
+      <title>A year after Broadcom’s VMware buy, customers eye exit strategies</title>
+      <link>https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/</link>
+      <description>Broadcom收购VMware后，由于价格上涨和许可政策改变，导致许多客户不满并考虑转向其他供应商。VMware产品价格在Broadcom接管后上涨了300%，一些客户甚至面临更高的涨幅。这导致许多客户，尤其是中小型企业，难以承受新成本结构。同时，Broadcom似乎更倾向于大型客户，这引发了客户对公平性的担忧。一些客户正在探索替代方案，如OpenNebula和Proxmox，以减少对VMware的依赖。</description>
+      <pubDate>2024-10-31 11:00:27</pubDate>
+    </item>
+  
+    <item>
+      <title>A Guide to Instagram Marketing: Strategy and Tips for 2025</title>
+      <link>https://www.brandwatch.com/blog/instagram-marketing/</link>
+      <description>2025年Instagram营销策略指南：掌握Instagram营销的关键，包括内容类型、广告类型和发布技巧，以建立成功的业务。Instagram营销有助于品牌形象塑造和产品推广，具有广泛的受众覆盖和高参与度，支持与影响者合作、精准广告和购物功能，是成本效益高且面向移动端的营销策略。</description>
+      <pubDate>2024-10-31 10:09:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Inside a fusion energy facility</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106384/inside-a-fusion-energy-facility/</link>
+      <description>Commonwealth Fusion Systems正在马萨诸塞州德文斯建造首个商业核聚变反应堆，目标是到2026年实现SPARC反应堆的运行。公司已筹集超过20亿美元资金，专注于磁铁工厂和SPARC反应堆的建设，旨在实现核聚变能源的商业化。</description>
+      <pubDate>2024-10-31 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The surprising barrier that keeps the US from building all the housing it needs</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106408/the-surprising-barrier-that-keeps-the-us-from-building-all-the-housing-we-need/</link>
+      <description>美国住房成本飙升，主要原因是建筑行业效率低下。尽管政府计划增加住房供应，但建筑行业的技术滞后和缺乏创新导致建设速度慢、成本高。提高建筑行业效率，采用数字化技术和标准化流程，是解决住房危机的关键。</description>
+      <pubDate>2024-10-31 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SRECon EMEA 2024 - Day 2</title>
+      <link>https://last9.io/blog/srecon-emea-2024-day-2/</link>
+      <description>SRECon EMEA 2024第二天，会议重点包括软件开发的犯罪现场分析、Wikipedia应对意外流量高峰的经验、时间序列数据异常检测、小型组织中的SRE团队管理、监控和警报策略、合成监控与端到端测试的关系，以及Snowflake迁移监控系统的案例。</description>
+      <pubDate>2024-10-31 08:16:33</pubDate>
+    </item>
+  
+    <item>
       <title>Why Enterprises Are Concerned About Zombie APIs</title>
       <link>https://nordicapis.com/why-enterprises-are-concerned-about-zombie-apis/</link>
       <description>企业对僵尸API的担忧日益增加，因为这些被遗忘的API可能无意中暴露敏感数据。随着API攻击的增加，企业正在转向API治理来加强整体安全态势。为了防止API成为僵尸，组织需要通过治理来识别和管理这些不再服务于业务但可能构成威胁的端点。</description>
@@ -20,6 +90,20 @@
     </item>
   
     <item>
+      <title>How industry leaders use employee and customer feedback to drive innovation</title>
+      <link>https://www.surveymonkey.com/curiosity/inquiring-minds-use-feedback/?ut_source=rss</link>
+      <description>企业领导者如何利用反馈和数据进行创新，通过数据故事讲述、民主化决策、平衡数据驱动决策与实验、培养好奇心文化，以及利用SurveyMonkey平台等工具，激发员工和客户的洞察力，推动持续改进和创新。</description>
+      <pubDate>2024-10-31 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: All the Rest Have 31</title>
+      <link>https://thedailywtf.com/articles/all-the-rest-have-31</link>
+      <description>挪威一家软件公司在1993年推出其软件产品，随着时间的推移，公司技术更新，代码库逐渐迁移到新的语言。Niklas F加入公司时，他们使用C#，但代码库仍源自原始的C代码库，其中包含许多隐藏的代码和问题。文章以一个自制的日期处理函数为例，展示了这种遗留代码的危险性，即使它看似正确，也可能隐藏着潜在的问题。</description>
+      <pubDate>2024-10-31 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>[Heroku] Managed Data Services を用いたイベント駆動型アーキテクチャの構築</title>
       <link>https://developer.salesforce.com/blogs/2024/10/heroku-managed-data-services-eda.html</link>
       <description>本文探讨了使用Heroku管理数据服务构建事件驱动型架构（EDA）的重要性。EDA通过Apache Kafka实现，允许独立服务间高效通信，实现实时数据处理和无缝集成。Kafka作为数据存储中心，提供故障容忍性，确保数据不丢失。Heroku的Apache Kafka服务简化了管理，使开发人员能专注于功能开发。</description>
@@ -27,9 +111,23 @@
     </item>
   
     <item>
+      <title>Laravel 11.30 Released</title>
+      <link>https://laravel-news.com/laravel-11-30-0</link>
+      <description>Laravel 11.30版本发布，新增了defer测试助手、自定义唯一字符串ID、支持使用背枚举等特性。此次更新包括对Blade指令的改进、翻译选择修复、授权方法接受枚举等。</description>
+      <pubDate>2024-10-31 04:14:14</pubDate>
+    </item>
+  
+    <item>
       <title>Going REPLing with Haskeline</title>
       <link>https://abhinavsarkar.net/posts/repling-with-haskeline/?mtm_campaign=feed</link>
       <description>本文介绍了如何使用Haskeline库为Haskell实现的新编程语言创建一个功能丰富的REPL（交互式编程环境）。文章首先概述了创建新语言的过程，包括AST（抽象语法树）、解析器和解释器。接着，详细介绍了如何实现一个具有自动完成、颜色输出、多行输入等高级功能的REPL。文章还展示了如何使用Haskeline库来处理用户输入、评估表达式以及管理REPL状态。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CTO Coach vs. Chess Grandmaster</title>
+      <link>https://www.amazingcto.com/cto-coach-vs.-chess-grandmaster/</link>
+      <description>CTO教练与象棋大师在软件开发的模式识别和策略上有着相似之处。CTO教练通过多年的编码和管理经验，能够洞察客户在软件开发中的问题，并帮助他们识别关键模式和策略，从而提高成功机会。</description>
       <pubDate>2024-10-31 00:00:00</pubDate>
     </item>
   
@@ -66,6 +164,13 @@
       <link>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</link>
       <description>新型Android木马“FakeCall”能够拦截银行通话，并变得更加隐蔽。该恶意软件能够将受害者试图拨打的银行客服电话重定向到攻击者控制的号码，并模拟银行员工的来电，以欺骗受害者泄露账户凭证。研究人员发现了13种新的恶意软件变体，表明攻击者持续投资于该恶意软件。Android用户应谨慎安装应用程序，并启用Google提供的Play Protect服务以扫描恶意软件。</description>
       <pubDate>2024-10-30 19:59:03</pubDate>
+    </item>
+  
+    <item>
+      <title>TikTok Hashtags: How to Use the Best Hashtags for More Views</title>
+      <link>https://www.brandwatch.com/blog/tiktok-hashtags/</link>
+      <description>如何利用TikTok标签提升曝光度：本文介绍了如何使用TikTok标签来增加视频观看量并更有效地与目标受众互动。通过使用相关且流行的标签，品牌可以提升内容可见性，增强参与度，建立社区，并识别竞争对手。文章还提供了寻找最佳TikTok标签的技巧，包括使用TikTok的发现工具和社交媒体分析工具，以及如何避免使用无关或过度使用的标签。</description>
+      <pubDate>2024-10-30 19:41:09</pubDate>
     </item>
   
     <item>
@@ -121,6 +226,13 @@
       <title>19 Social Media Holidays to Celebrate This November</title>
       <link>https://s14415.pcdn.co/blog/social-media-holidays-november/</link>
       <description>2023年11月社交媒体节日：为您的社交媒体日历提供灵感和创意。本文列出了20个11月的社交媒体节日，包括世界素食日、国家作者日、科学、技术、工程和医学（STEM）日、世界宽容日、国际学生日、国际男性日、世界问候日、国家企业家日、感恩节、黑色星期五、小企业周六、网络星期一和计算机安全日等。每个节日都为品牌提供了与受众建立有意义联系的独特和创造性的方式。</description>
+      <pubDate>2024-10-30 16:00:41</pubDate>
+    </item>
+  
+    <item>
+      <title>19 Social Media Holidays to Celebrate This November</title>
+      <link>https://www.brandwatch.com/blog/social-media-holidays-november/</link>
+      <description>11月社交媒体节日为品牌提供灵感，包括男性健康意识月、世界素食日、国家作者日等，每个节日都是与受众建立有意义联系的机会。</description>
       <pubDate>2024-10-30 16:00:41</pubDate>
     </item>
   
@@ -962,6 +1074,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <link>https://realpython.com/quizzes/beautiful-soup-web-scraper-python/</link>
       <description>本文章介绍了一个关于使用Python、Requests和Beautiful Soup进行网络爬虫的互动测验。测验旨在测试读者对网络爬虫的理解，包括如何检查目标网站的HTML结构、解析URL中的数据、使用Requests和Beautiful Soup进行数据抓取和解析，以及了解网络爬虫的工作流程。测验包含14个问题，无时间限制，每答对一题得1分，最终获得总分。</description>
       <pubDate>2024-10-28 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Clock is Ticking: This is the Best Time to Post on TikTok in 2025</title>
+      <link>https://www.brandwatch.com/blog/best-time-to-post-on-tiktok/</link>
+      <description>2025年，在TikTok上发布视频的最佳时间是在早上6点到9点以及晚上7点到11点，周三和周四的这些时间段效果最佳。了解最佳发布时间对提高互动率和吸引新粉丝至关重要。不同行业和地区可能有不同的最佳发布时间，建议使用深入分析工具来了解特定受众和行业的数据。</description>
+      <pubDate>2024-10-28 10:26:07</pubDate>
     </item>
   
     <item>
