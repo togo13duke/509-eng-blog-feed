@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What is conversational AI?</title>
+      <link>https://www.atlassian.com/blog/artificial-intelligence/conversation-ai</link>
+      <description>对话式人工智能是一种让计算机能够自然、有意义地理解和回应人类语言的技术。它包括从简单的聊天机器人到复杂的虚拟助手。这种技术通过自然语言处理和机器学习，使机器能够理解用户的意图，维持上下文，并生成更自然的回应。对话式人工智能在提高客户服务效率、自动化日常任务和增强用户体验方面具有显著优势，但也面临理解语境、处理模糊查询和维护数据隐私等挑战。未来，随着技术的进步，对话式人工智能有望实现更自然的交互、多语言能力和与其他AI技术的整合。</description>
+      <pubDate>2024-10-30 22:35:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating the GitHub Awards 2024 recipients 🎉</title>
+      <link>https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/</link>
+      <description>GitHub Awards 2024表彰了在开发者社区中做出卓越贡献的个人、项目和组织。奖项包括开源奖项、全球卓越奖、AI杰出奖等，旨在奖励那些对社区产生重大积极影响的贡献。例如，Home Assistant因其欢迎的社区和强大的贡献者群体获得“奇妙欢迎奖”，而GatsbyJS因其全球贡献者社区获得“全球卓越奖”。此外，还有针对教育领域的奖项，如“灯塔奖”和“赋权教育者奖”，以表彰在开源和教育方面做出贡献的学生和教师。</description>
+      <pubDate>2024-10-30 21:30:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Dropbox lays off 20% of staff, says it overinvested and underperformed</title>
+      <link>https://arstechnica.com/information-technology/2024/10/dropbox-lays-off-528-employees-slashing-total-workforce-by-20-percent/</link>
+      <description>Dropbox宣布裁员20%，减少全球员工总数528人，CEO Drew Houston表示公司过度投资且表现不佳。尽管去年已裁员500人，但管理层次仍过于复杂。此次裁员预计将花费6300万至6800万美元，主要涉及遣散费和员工福利。Dropbox正专注于解决客户在内容安全、组织和共享方面的新痛点，并投资于AI驱动的通用搜索产品Dropbox Dash。</description>
+      <pubDate>2024-10-30 20:03:31</pubDate>
+    </item>
+  
+    <item>
       <title>Enhancing Azure Deployments with AzureRM and AzAPI Terraform Providers</title>
       <link>https://www.hashicorp.com/blog/enhancing-azure-deployments-with-azurerm-and-azapi-terraform-providers</link>
       <description>本文比较了AzureRM和AzAPI Terraform提供者，为用户提供了在Azure基础设施管理中何时使用每个提供者的见解。AzureRM提供稳定、经过充分测试的层，适用于寻求稳定性和简化配置管理的用户。AzAPI则允许直接访问最新的Azure API版本，适用于需要快速采用新服务或解决AzureRM限制的用户。</description>
       <pubDate>2024-10-30 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Android Trojan that intercepts voice calls to banks just got more stealthy</title>
+      <link>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</link>
+      <description>新型Android木马“FakeCall”能够拦截银行通话，并变得更加隐蔽。该恶意软件能够将受害者试图拨打的银行客服电话重定向到攻击者控制的号码，并模拟银行员工的来电，以欺骗受害者泄露账户凭证。研究人员发现了13种新的恶意软件变体，表明攻击者持续投资于该恶意软件。Android用户应谨慎安装应用程序，并启用Google提供的Play Protect服务以扫描恶意软件。</description>
+      <pubDate>2024-10-30 19:59:03</pubDate>
+    </item>
+  
+    <item>
+      <title>How We Built the BFCM 2023 Globe</title>
+      <link>https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe</link>
+      <description>Shopify团队展示了如何构建BFCM 2023地球仪，通过使用Three.js和React-three-fiber等技术，实现了实时可视化全球Shopify商户的订单。文章详细介绍了弧线、城市点、烟花、相机动画、动画图钉和飞机等元素的设计和优化过程，强调了性能优化和用户体验的重要性。</description>
+      <pubDate>2024-10-30 19:03:30</pubDate>
     </item>
   
     <item>
@@ -31,6 +66,20 @@
       <link>https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/</link>
       <description>AWS Amplify Hosting与Amazon S3集成，简化并增强静态网站托管。通过AWS Amplify Hosting，用户可轻松部署和更新存储在S3桶中的静态网站，并利用Amazon CloudFront CDN提供内容。此服务支持自定义域名、SSL证书，并提供快速部署和全球访问。</description>
       <pubDate>2024-10-30 17:03:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Ouverture et réutilisation des données publiées sur internet - compte-rendu de la journée RGPD de la CNIL du 12/06/24 à Nancy</title>
+      <link>https://blog.octo.com/ouverture-et-reutilisation-des-donnes-publiees-sur-internet-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-120624-a-nancy</link>
+      <description>在法国，国家信息与自由委员会（CNIL）致力于通过提高信息系统的透明度来保护个人数据，并促进数据在互联网上的开放和再利用。CNIL最近在 Nancy 举办了一次关于通用数据保护条例（GDPR）的研讨会，讨论了数据开放和再利用的挑战和最佳实践。研讨会强调了确保数据质量、安全性和合法性的重要性，并提供了针对数据发布者和再利用者的具体建议。</description>
+      <pubDate>2024-10-30 16:44:44</pubDate>
+    </item>
+  
+    <item>
+      <title>How This Blog Does IndieWeb</title>
+      <link>https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/</link>
+      <description>本文介绍了作者如何将博客从WordPress迁移到Hugo静态网站生成器，并逐步实现IndieWeb功能。文章详细描述了博客的结构和部署、静态搜索索引、通过GitHub Actions运行脚本、社交媒体同步以及引用外部讨论线程等。作者强调了对自动化和第三方服务的依赖，并展示了如何通过GitHub Actions和Netlify实现自动化部署。</description>
+      <pubDate>2024-10-30 16:33:29</pubDate>
     </item>
   
     <item>
@@ -226,6 +275,13 @@
       <title>Limitations of frame pointer unwinding</title>
       <link>https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding</link>
       <description>现代Linux发行版如Fedora和Ubuntu已禁用帧指针优化，以便于分析调用栈。本文探讨了帧指针优化的局限性，包括性能损失的不均匀分布、函数前后和PLT部分的间隙，以及库中汇编代码函数的问题。同时，文章也提到了一些旨在无需帧指针优化即可进行系统级分析的项目，如eu-stacktrace和SFrame，以及硬件辅助的影子栈技术。</description>
+      <pubDate>2024-10-30 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>eBay Inc. Reports Third Quarter 2024 Results</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2024-results/</link>
+      <description>eBay在2024年第三季度实现了强劲的业绩，收入增长3%，达到26亿美元，总商品交易量（GMV）增长2%，达到183亿美元。公司通过战略投资和人工智能创新，提升了业务动力，并回购股票和支付股息，向股东返还了8.81亿美元。此外，eBay推出了新的广告平台、卖家融资选项和AI工具，以增强用户体验和销售。</description>
       <pubDate>2024-10-30 07:00:00</pubDate>
     </item>
   
