@@ -6,6 +6,91 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>This AI-generated Minecraft may represent the future of real-time video generation</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106461/this-ai-generated-minecraft-may-represent-the-future-of-real-time-video-generation/</link>
+      <description>AI公司Decart和Etched展示了完全由AI生成的Minecraft游戏版本，通过训练模型在数百万小时的Minecraft游戏数据和用户操作记录上，实现了实时视频生成。尽管当前版本存在分辨率低、易出现幻觉等问题，但公司相信随着芯片设计的创新，未来能够开发出高保真度的游戏版本。</description>
+      <pubDate>2024-10-31 19:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Best practices for avoiding cloud security and compliance costs</title>
+      <link>https://www.hashicorp.com/blog/best-practices-for-avoiding-cloud-security-and-compliance-costs</link>
+      <description>总结：
+本文探讨了避免云安全与合规成本的最佳实践。通过建立内部开发者平台，采用黄金路径、生命周期管理和集成密钥管理，可以显著降低安全风险和合规成本。文章强调了从风险缓解转向风险避免的重要性，并提出了最佳实践，包括开发安全且合规的默认工作流程、利用基础设施即代码创建黄金镜像和模块、以及实施生命周期管理，以实现快速上市和降低风险。</description>
+      <pubDate>2024-10-31 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI search could break the web</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106504/ai-search-could-break-the-web/</link>
+      <description>AI搜索引擎可能颠覆网络，引发版权和内容分发争议。新闻集团起诉Perplexity AI，认为其侵犯版权。AI搜索工具如Perplexity、Google的Gemini和OpenAI的SearchGPT旨在从第三方网站检索和重新包装信息。这可能导致数字经济的破坏，因为内容创作者可能失去访问量和收入。AI行业应建立更公平的奖励系统，以保护创作者并促进网络内容的健康发展。</description>
+      <pubDate>2024-10-31 17:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Amazon Aurora PostgreSQL Limitless Database is now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/</link>
+      <description>Amazon Aurora PostgreSQL Limitless Database现已全面上市，提供无服务器水平扩展功能，可超越现有Aurora的写入吞吐量和存储限制。通过将数据库工作负载分布在多个Aurora写入实例上，同时保持将其用作单个数据库的能力。该数据库支持三种类型的表：分片表、参考表和标准表，并兼容PostgreSQL查询语法。</description>
+      <pubDate>2024-10-31 17:08:32</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI launches ChatGPT with Search, taking Google head-on</title>
+      <link>https://arstechnica.com/ai/2024/10/openai-launches-chatgpt-with-search-taking-google-head-on/</link>
+      <description>OpenAI推出ChatGPT搜索功能，挑战谷歌搜索。该功能基于用户问题自动搜索，提供带有来源归因的答案，并支持手动搜索。ChatGPT搜索使用改进的GPT-4o模型，可显示图形内容和地图位置。功能首先向ChatGPT Plus和Team订阅者开放，未来几个月内将扩展到免费用户。</description>
+      <pubDate>2024-10-31 17:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAI brings a new web search tool to ChatGPT</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106472/chatgpt-now-lets-you-search-the-internet/</link>
+      <description>OpenAI的ChatGPT现在可以搜索互联网，为用户提供最新信息的答案。这一新功能将使ChatGPT在处理如体育、股票或当日新闻等最新信息查询时，能够提供丰富的多媒体结果。目前，此功能仅对付费用户开放，未来将免费提供给所有用户。</description>
+      <pubDate>2024-10-31 16:58:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Security Considerations in the Time of AI</title>
+      <link>https://auth0.com/blog/security-considerations-in-the-time-of-ai/</link>
+      <description>在人工智能时代，构建安全解决方案至关重要。文章探讨了工程师、创始人及投资者对AI工具安全的看法，强调了从数据安全、模型安全到基础设施安全的多个方面。同时，文章还讨论了AI在开发空间中的进步，以及AI工具在提高效率和生产力方面的作用。</description>
+      <pubDate>2024-10-31 16:01:00</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #90: Voter participation (solution)</title>
+      <link>https://www.bambooweekly.com/bw-90-voter-participation-solution/</link>
+      <description>本文探讨了美国选举中的投票参与度问题。作者分析了投票人数、投票率变化以及与其他国家相比的情况，并使用国际民主选举援助机构的数据进行了详细分析。文章还涉及了如何使用Pandas处理和分析这些数据。</description>
+      <pubDate>2024-10-31 16:00:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Win the CSP &amp; MSP Markets by Leveraging Confluent’s Data Streaming Platform and OEM Program</title>
+      <link>https://www.confluent.io/blog/leveraging-confluent-platform-and-oem-program/</link>
+      <description>Confluent平台通过提供企业级功能和服务，增强了Apache Kafka，帮助云服务提供商（CSP）和托管服务提供商（MSP）降低成本、提高效率，并满足客户对数据流平台的需求。该平台支持多种架构，如多数据中心集群、多集群复制和聚合架构，以提供高可用性和弹性。此外，它还提供自动化部署、灵活扩展和分层存储等功能，以优化性能和降低运营成本。通过Confluent平台，CSP和MSP可以提供安全、合规的数据流解决方案，支持现代客户用例，如事件驱动架构、数据湖和数据管道现代化、物联网数据管理以及客户体验增强。</description>
+      <pubDate>2024-10-31 16:00:03</pubDate>
+    </item>
+  
+    <item>
+      <title>The Migration CodeCraft</title>
+      <link>https://tomassetti.me/the-migration-codecraft/</link>
+      <description>Strumenta的Migration CodeCraft是一种自动化代码迁移服务，将旧编程语言代码转换为现代编程语言。它通过识别代码中的模式，将其意图翻译为目标语言的惯用代码，并允许客户参与架构设计，确保代码的维护性。此外，它提供双保障，确保代码质量，并支持多种语言迁移，如RPG到Java、Visual Basic 6到JavaScript等。</description>
+      <pubDate>2024-10-31 15:04:45</pubDate>
+    </item>
+  
+    <item>
+      <title>New Tools to Help Prepare for API Version Retirement</title>
+      <link>https://developer.salesforce.com/blogs/2024/10/new-tools-to-help-prepare-for-api-version-retirement.html</link>
+      <description>Salesforce即将在2025年夏季正式退役API版本21.0至30.0，为帮助开发者准备这一变化，推出了两个新工具：事件日志浏览器和API版本退役执行。这些工具可帮助识别使用旧API版本的应用程序，并提供了最佳实践，以确保在官方退役前升级到最新版本。</description>
+      <pubDate>2024-10-31 15:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>When Gen Z Write the Marketing Script: What Brands Can Learn</title>
+      <link>https://s14415.pcdn.co/blog/gen-z-marketing-script/</link>
+      <description>当Z世代撰写营销脚本时，品牌可以从中学习到如何利用社交媒体的力量。通过模仿Z世代的语言和风格，品牌可以吸引年轻一代的注意，并增加品牌知名度。关键在于抓住趋势的时机，保持内容的真实性，并与社交媒体团队紧密合作。</description>
+      <pubDate>2024-10-31 14:00:11</pubDate>
+    </item>
+  
+    <item>
       <title>How to Code a Subtle Shader Background Effect with React Three Fiber</title>
       <link>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</link>
       <description>Matias Perez在教程中展示了如何使用React Three Fiber和Drei库创建一个交互式的着色器背景效果。通过四个简单步骤，他详细解释了如何构建一个点状网格背景，并添加鼠标轨迹和遮罩效果，最后将所有元素组合在一起，实现一个动态的视觉效果。</description>
@@ -20,10 +105,24 @@
     </item>
   
     <item>
+      <title>Moving Baselime from AWS to Cloudflare: simpler architecture, improved performance, over 80% lower cloud costs</title>
+      <link>https://blog.cloudflare.com/80-percent-lower-cloud-cost-how-baselime-moved-from-aws-to-cloudflare</link>
+      <description>云服务迁移案例：Baselime从AWS迁移至Cloudflare，简化架构，提升性能，降低超过80%的云成本。通过使用Cloudflare Workers、Durable Objects和Workers Analytics Engine，Baselime实现了更快的响应速度、更高的可扩展性和可靠性，同时大幅降低了运营成本。</description>
+      <pubDate>2024-10-31 13:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Chasing AI’s value in life sciences</title>
       <link>https://www.technologyreview.com/2024/10/31/1106332/chasing-ais-value-in-life-sciences/</link>
       <description>随着人工智能在生命科学领域的广泛应用，企业正利用其范围、规模、速度和人与AI协作的优势来区分自己。通过整合数据、个性化服务和加速药物发现，AI正在帮助公司提高效率并创造差异化体验。然而，为了最大化AI的价值，领导者需要仔细考虑如何平衡这些关键因素。</description>
       <pubDate>2024-10-31 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: US house-building barriers, and a fusion energy facility tour</title>
+      <link>https://www.technologyreview.com/2024/10/31/1106451/the-download-building-barriers-fusion-tour/</link>
+      <description>美国住房 affordability 成为年轻选民最关心的问题，房价上涨和租金飙升导致购房难度增加。同时，核聚变能源设施建设取得进展，有望在2026年实现商业化运营。</description>
+      <pubDate>2024-10-31 12:10:56</pubDate>
     </item>
   
     <item>
@@ -37,6 +136,13 @@
       <title>The Ultimate Guide to TikTok Marketing: Tips, Examples, &amp; Tools</title>
       <link>https://s14415.pcdn.co/blog/tiktok-marketing/</link>
       <description>TikTok营销指南：TikTok营销利用短视频与目标受众互动，具有高参与度和病毒式营销潜力。品牌可利用TikTok的广泛受众、低成本广告、增强的品牌认知和精准的定位工具。设置TikTok商业账户，优化个人资料，创建吸引人的内容，利用趋势和挑战，与影响者合作，以制定有效的营销策略。</description>
+      <pubDate>2024-10-31 11:35:37</pubDate>
+    </item>
+  
+    <item>
+      <title>The Ultimate Guide to TikTok Marketing: Tips, Examples, &amp; Tools</title>
+      <link>https://www.brandwatch.com/blog/tiktok-marketing/</link>
+      <description>TikTok营销指南：TikTok营销利用短视频与目标受众互动，带来高参与度和病毒式营销潜力。品牌可利用TikTok的广泛受众、低成本广告、增强品牌认知和精准定位等优势。设置TikTok商业账户，优化个人资料，创建吸引人的内容，利用趋势和挑战，与影响者合作，制定有效的营销策略。</description>
       <pubDate>2024-10-31 11:35:37</pubDate>
     </item>
   
@@ -73,6 +179,13 @@
       <link>https://last9.io/blog/srecon-emea-2024-day-2/</link>
       <description>SRECon EMEA 2024第二天，会议重点包括软件开发的犯罪现场分析、Wikipedia应对意外流量高峰的经验、时间序列数据异常检测、小型组织中的SRE团队管理、监控和警报策略、合成监控与端到端测试的关系，以及Snowflake迁移监控系统的案例。</description>
       <pubDate>2024-10-31 08:16:33</pubDate>
+    </item>
+  
+    <item>
+      <title>ASCII control characters in my terminal</title>
+      <link>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</link>
+      <description>这篇文章探讨了终端中的ASCII控制字符及其在Mac OS上的作用。作者详细解释了33个控制字符的分类，包括操作系统终端驱动器处理的代码、键盘按键对应的代码、readline使用的代码等。文章还讨论了ASCII名称的不实用性、控制字符的冲突以及如何识别发送的控制代码。作者强调，尽管这些信息可能对日常使用终端的人来说不是必需的，但了解这些细节可以增加对终端工作原理的理解。</description>
+      <pubDate>2024-10-31 08:00:10</pubDate>
     </item>
   
     <item>
@@ -128,6 +241,41 @@
       <title>CTO Coach vs. Chess Grandmaster</title>
       <link>https://www.amazingcto.com/cto-coach-vs.-chess-grandmaster/</link>
       <description>CTO教练与象棋大师在软件开发的模式识别和策略上有着相似之处。CTO教练通过多年的编码和管理经验，能够洞察客户在软件开发中的问题，并帮助他们识别关键模式和策略，从而提高成功机会。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking patent power: How Patently streamlines collaboration with vector search and NLP</title>
+      <link>https://www.elastic.co/blog/patently-vector-search-natural-language-processing</link>
+      <description>Patently利用先进的搜索技术和AI，通过Elastic Search AI平台，提高了专利搜索的速度和准确性，帮助用户快速找到相关信息。该平台支持专利诉讼流程，并允许用户根据需求进行定制化搜索，从而提高工作效率和决策质量。通过云架构和实时数据访问，Patently能够处理大量数据，并确保系统稳定运行，为用户提供高效、准确的专利搜索服务。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Marcos Ramos unexpectedly returned to Elastic</title>
+      <link>https://www.elastic.co/blog/culture-marcos-ramos-return-elastic</link>
+      <description>Marcos Ramos在离开Elastic四年之后，因其在一家初创公司的工作被Elastic收购而意外回归。他从2018年开始在Elastic担任支持工程师，后来转至技术支持，并在Elastic内部晋升。离开后，他在一家名为Opster的初创公司工作，专注于Elasticsearch的技术支持。Elastic收购Opster后，Marcos重返Elastic，担任运营工程师，负责确保Elastic Cloud的运营顺畅。他很高兴回到Elastic，享受这里的工作环境和团队合作精神。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>LLM benchmarks, evals and tests: A mental model</title>
+      <link>https://www.thoughtworks.com/insights/blog/generative-ai/LLM-benchmarks,-evals,-and-tests</link>
+      <description>大型语言模型（LLM）评估复杂，因为它们生成开放式的响应，难以用传统指标衡量。与经典机器学习模型不同，LLM在无限输出空间中生成新响应，导致评估困难。评估LLM需要新的方法来衡量连贯性、相关性、安全性和推理。此外，确保LLM系统的实际可靠性需要超越模型中心的全面评估。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using AI to aid color scheme migrations</title>
+      <link>https://carlosbecker.com/posts/ai-colorschemes/</link>
+      <description>使用AI辅助颜色方案迁移，通过AI插件自动调整终端主题，提高迁移效率，简化操作流程。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>October project goals update</title>
+      <link>https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html</link>
+      <description>Rust项目正在努力实现26个项目目标，包括3个旗舰目标。本月进展包括解决异步Rust与同步Rust的兼容性问题，推进Linux在稳定版Rust上的构建，以及Rust 2024版的发布准备。此外，还讨论了const泛型、Cargo依赖解析、Rustdoc搜索优化等进展。</description>
       <pubDate>2024-10-31 00:00:00</pubDate>
     </item>
   
@@ -755,6 +903,20 @@ Pgai Vectorizer简化了在PostgreSQL中创建和管理向量嵌入的过程，�
       <link>https://spin.atomicobject.com/ef-core-query-performance/</link>
       <description>本文介绍了优化EF Core数据库查询性能的方法。作者通过实际案例，阐述了如何通过拆分查询、使用投影和DTOs以及优化索引来提高查询效率。通过避免数据重复、减少数据加载和利用索引加速查询，可以显著提升Web应用的性能。</description>
       <pubDate>2024-10-29 12:00:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #876</title>
+      <link>https://tympanus.net/codrops/collective/collective-876/</link>
+      <description>2024年CSS状态报告揭示了未来样式设计的见解和新特性，包括可能彻底改变我们编写CSS方式的变革性功能。探索创意，如自定义鼠标光标、颜色字体和静态网站存档。学习React键盘快捷方式钩子和React文件夹结构，了解Hono框架和太阳能自托管网站。讨论开源盗窃和JavaScript工具重写的争议。</description>
+      <pubDate>2024-10-29 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Using .__repr__() vs .__str__() in Python</title>
+      <link>https://realpython.com/quizzes/python-repr-vs-str/</link>
+      <description>Python中.__repr__()与.__str__()的区别及使用方法，本互动测验包含6个问题，旨在测试你对这两个特殊方法的理解，这些方法可控制程序显示对象的方式，使你的类更易于阅读、调试和维护。</description>
+      <pubDate>2024-10-29 12:00:00</pubDate>
     </item>
   
     <item>
