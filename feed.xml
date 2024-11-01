@@ -6,6 +6,85 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>SRECon EMEA 2024 - Day 3</title>
+      <link>https://last9.io/blog/srecon-emea-2024-day-2-2/</link>
+      <description>SRECon EMEA 2024第三天聚焦于关键演讲、重要观点和难忘时刻，包括Riot Games的观察性进化、systemd-journal日志管理解决方案、大型分布式系统的故障半径减少策略，以及新SRE团队的构建。会议促进了学习与交流，为参与者留下了深刻印象。</description>
+      <pubDate>2024-11-01 13:40:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Looking Back on Our First Women Leaders in Technology Event</title>
+      <link>https://blog.cloudera.com/looking-back-on-our-first-women-leaders-in-technology-event/</link>
+      <description>Cloudera举办了首届女性技术领导者（WLIT）活动，旨在促进女性在科技行业的成长和发展。活动通过午餐会形式，邀请行业领袖和专家讨论女性在科技领域面临的挑战和成功策略，强调早期参与、寻找导师、克服自我怀疑的重要性，并建立支持女性职业发展的社区。</description>
+      <pubDate>2024-11-01 13:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: OpenAI launches search, and AI-generated video games</title>
+      <link>https://www.technologyreview.com/2024/11/01/1106569/the-download-openai-search-ai-video-games/</link>
+      <description>OpenAI推出ChatGPT的新搜索功能，可搜索网络以提供最新答案，挑战谷歌、微软等竞争对手。同时，AI生成游戏如Decart和Etched的Minecraft版本展示了实时视频生成的潜力。此外，AI在生物技术领域的应用，如研究exosomes，也备受关注。</description>
+      <pubDate>2024-11-01 12:35:56</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Style MUI Line Chart Components</title>
+      <link>https://spin.atomicobject.com/style-mui-line-chart-component/</link>
+      <description>本文介绍了如何自定义Material UI（MUI）的折线图组件。作者Sam Stone分享了如何格式化轴数据、添加无数据时的占位文本、针对特定线条系列进行样式化以及更改轴颜色等技巧。通过这些方法，开发者可以更灵活地调整MUI折线图组件的外观，以适应不同的应用场景。</description>
+      <pubDate>2024-11-01 12:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #877</title>
+      <link>https://tympanus.net/codrops/collective/collective-877/</link>
+      <description>前端开发资讯：第877期集锦
+
+本期前端开发资讯集锦，为您带来最新的前端技术文章、教程和演示。涵盖CSS参考、免费资源等内容，助您紧跟前端技术发展。</description>
+      <pubDate>2024-11-01 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #226: PySheets: Spreadsheets in the Browser Using PyScript</title>
+      <link>https://realpython.com/podcasts/rpp/226/</link>
+      <description>The Real Python Podcast discusses PySheets, a Python-based spreadsheet application running in the browser using PyScript. Hosted by Christopher Bailey and featuring guest Chris Laffra, the episode explores the development of PySheets, its local browser operation, and innovative data storage solutions. Laffra shares insights into his background, engineering team building, and communication strategies, drawing inspiration from Jupyter Notebooks.</description>
+      <pubDate>2024-11-01 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Essential Guide to X Advertising: Strategies and Cost Insights</title>
+      <link>https://s14415.pcdn.co/blog/x-ads/</link>
+      <description>X广告是Twitter为品牌提供的强大广告解决方案，可帮助品牌提升营销效果。通过X Ads平台，品牌可以创建不同类型的广告，如推广帖子、账户或趋势，并基于用户资料进行定位。X广告的关键优势在于其精准定位和实时互动特性，使品牌能够有效地触及目标受众。通过合理设置预算、选择合适的广告格式和优化广告内容，品牌可以最大化广告投资回报率。</description>
+      <pubDate>2024-11-01 11:57:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Designer Spotlight: Elena Smirnova</title>
+      <link>https://tympanus.net/codrops/2024/11/01/designer-spotlight-elena-smirnova/</link>
+      <description>Elena Smirnova是一位专注于时尚、设计和生活方式项目的数字设计师。她的设计理念是“少即是多”，通过简洁而富有创意的方式，打造既吸引人又视觉上复杂的数字体验。她擅长平衡简约和创意，在个人项目和客户项目中展现出独特的艺术感和功能性。</description>
+      <pubDate>2024-11-01 11:19:47</pubDate>
+    </item>
+  
+    <item>
+      <title>How exosomes could become more than just an “anti-aging” fad</title>
+      <link>https://www.technologyreview.com/2024/11/01/1106377/exosomes-more-than-anti-aging-fad/</link>
+      <description>研究人员正在探索一种名为外泌体的微小细胞颗粒，它们可能不仅限于抗衰老疗法，还可能帮助诊断和治疗疾病。外泌体是细胞释放的小型包裹物，含有蛋白质和其他成分，可能用于传递细胞间的信号。科学家们希望利用外泌体来诊断疾病，如通过分析血液样本中的外泌体内容来了解细胞状态。此外，外泌体可能用于药物递送，因为它们在体内产生，不太可能被免疫系统排斥。目前，许多关于外泌体的临床试验正在进行中，这一领域的研究前景广阔。</description>
+      <pubDate>2024-11-01 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>11 Essential Facebook Analytics Tools for Effective Marketing Insights</title>
+      <link>https://www.brandwatch.com/blog/facebook-analytics-tools/</link>
+      <description>本文介绍了最佳免费和付费的Facebook分析工具，帮助优化Facebook账户，包括Brandwatch、BuzzSumo、Sotrender、Brand24、Social Bakers、Rival IQ、Unmetric等付费工具，以及Facebook Insights、LikeAlyzer、Agorapulse、Cyfe、Quintly等免费工具。这些工具提供从消费者洞察到社交媒体管理的全面分析，帮助品牌提升社交媒体策略。</description>
+      <pubDate>2024-11-01 09:00:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Now available: Invite anyone to collaborate with managed, open survey reviews</title>
+      <link>https://www.surveymonkey.com/curiosity/open-review-surveys/?ut_source=rss</link>
+      <description>SurveyMonkey推出了一项新的协作功能，允许任何人在组织内部对调查进行审查和评论，无论他们是否有SurveyMonkey账户。这一功能简化了工作流程，使反馈收集更加集中和高效，同时提供了对调查逻辑的全面视图。通过开始一个审查会话，可以轻松分享调查预览链接，并邀请团队成员或外部合作伙伴提供反馈。</description>
+      <pubDate>2024-11-01 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How a creator of React is rethinking IDEs</title>
       <link>https://stackoverflow.blog/2024/11/01/how-a-creator-of-react-is-rethinking-ides/</link>
       <description>React创建者Tom Occhino在Vercel担任首席产品官时，讨论了他对React在Facebook的开发贡献、开源决策，以及Next.js 15和Vercel的GenAI工具的社区反馈。他还探讨了Vercel如何重新思考IDEs。</description>
@@ -13,9 +92,23 @@
     </item>
   
     <item>
+      <title>Error'd: Alternative Maths</title>
+      <link>https://thedailywtf.com/articles/alternative-maths</link>
+      <description>本文探讨了多个技术相关的趣事，包括Visual Studio的评分系统优化、Anker的限时优惠、Dropbox的数学问题以及Microsoft Teams的日期处理错误。作者通过这些案例展示了技术产品中可能存在的缺陷和用户对这些问题的反馈。</description>
+      <pubDate>2024-11-01 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Intro to AI for Rails developers with Chad Pytel</title>
       <link>https://thoughtbot.com/blog/intro-to-ai-for-web-developers-with-chad-pytel</link>
       <description>thoughtbot创始人Chad Pytel将举办Rails开发者AI入门直播课程，教授如何将AI功能集成到Web应用中。课程将涵盖基础AI技术概念，并通过实际Rails应用进行演示。适合有经验的Web开发者和技术产品人员参加。课程包括使用ChatGPT等LLM回答文档问题、结构化数据与函数调用、信息摘要、本地LLM设置等主题。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>LLMs can read text: Overlooked AI-assisted coding techniques</title>
+      <link>https://thoughtbot.com/blog/llms-can-read-text-overlooked-ai-assisted-coding-techniques</link>
+      <description>LLMs在软件开发中的应用：本文探讨了大型语言模型（LLMs）在文本分析方面的潜力，特别是在代码生成之外的用途。文章以作者使用LLMs分析Rails日志中的SQL查询为例，说明了LLMs如何帮助开发者处理大量文本数据，提高工作效率。LLMs作为人类和传统软件之间的中间解决方案，能够适应不同的输入和输出格式，执行多种任务，并在处理重复性任务时不会像人类那样感到疲劳。作者强调了使用LLMs的步骤，包括准备输入数据、提出声明性查询、消除错误和迭代答案格式。通过实际案例，文章展示了LLMs在软件开发中的优势，并指出LLMs是处理大量文本数据、提高工作效率的理想工具。</description>
       <pubDate>2024-11-01 00:00:00</pubDate>
     </item>
   
@@ -121,6 +214,22 @@
     </item>
   
     <item>
+      <title>Top 10 LinkedIn Analytics Tools To Help You Maximize Your Marketing</title>
+      <link>https://s14415.pcdn.co/blog/linkedin-analytics-tools/</link>
+      <description>总结：
+本文介绍了10款最佳的LinkedIn分析工具，旨在帮助企业和个人提升营销策略。这些工具能够简化报告、提供关键指标、支持跨渠道分析，并允许进行特定活动的分析。文章详细介绍了每款工具的功能和优势，并建议根据品牌目标和LinkedIn营销策略选择合适的工具。</description>
+      <pubDate>2024-10-31 15:35:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Top 10 LinkedIn Analytics Tools To Help You Maximize Your Marketing</title>
+      <link>https://www.brandwatch.com/blog/linkedin-analytics-tools/</link>
+      <description>总结：
+本文介绍了10款最佳的LinkedIn分析工具，旨在帮助企业和个人提升营销策略。这些工具能简化报告、提供关键指标、支持跨渠道分析，并允许进行特定活动的分析。文章详细介绍了每款工具的功能和优势，如Brandwatch的全面分析、Keyhole的即时报告、SocialPilot的多账户管理能力等，并建议根据品牌目标和LinkedIn营销策略选择合适的工具。</description>
+      <pubDate>2024-10-31 15:35:43</pubDate>
+    </item>
+  
+    <item>
       <title>The Migration CodeCraft</title>
       <link>https://tomassetti.me/the-migration-codecraft/</link>
       <description>Strumenta的Migration CodeCraft是一种自动化代码迁移服务，将旧编程语言代码转换为现代编程语言。它通过识别代码中的模式，将其意图翻译为目标语言的惯用代码，并允许客户参与架构设计，确保代码的维护性。此外，它提供双保障，确保代码质量，并支持多种语言迁移，如RPG到Java、Visual Basic 6到JavaScript等。</description>
@@ -138,6 +247,13 @@
       <title>When Gen Z Write the Marketing Script: What Brands Can Learn</title>
       <link>https://s14415.pcdn.co/blog/gen-z-marketing-script/</link>
       <description>当Z世代撰写营销脚本时，品牌可以从中学习到如何利用社交媒体的力量。通过模仿Z世代的语言和风格，品牌可以吸引年轻一代的注意，并增加品牌知名度。关键在于抓住趋势的时机，保持内容的真实性，并与社交媒体团队紧密合作。</description>
+      <pubDate>2024-10-31 14:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>When Gen Z Write the Marketing Script: What Brands Can Learn</title>
+      <link>https://www.brandwatch.com/blog/gen-z-marketing-script/</link>
+      <description>当Z世代撰写营销脚本时，品牌可以从中学习到如何利用社交媒体趋势来增强品牌影响力。通过模仿Z世代的语言和风格，品牌可以吸引年轻一代的注意，同时也能让不同年龄段的消费者感到有趣。关键在于把握趋势的时机，保持内容的真实性，并与社交媒体团队紧密合作。</description>
       <pubDate>2024-10-31 14:00:11</pubDate>
     </item>
   
