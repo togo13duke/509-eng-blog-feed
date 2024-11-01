@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How a creator of React is rethinking IDEs</title>
+      <link>https://stackoverflow.blog/2024/11/01/how-a-creator-of-react-is-rethinking-ides/</link>
+      <description>React创建者Tom Occhino在Vercel担任首席产品官时，讨论了他对React在Facebook的开发贡献、开源决策，以及Next.js 15和Vercel的GenAI工具的社区反馈。他还探讨了Vercel如何重新思考IDEs。</description>
+      <pubDate>2024-11-01 07:40:00</pubDate>
+    </item>
+  
+    <item>
       <title>Intro to AI for Rails developers with Chad Pytel</title>
       <link>https://thoughtbot.com/blog/intro-to-ai-for-web-developers-with-chad-pytel</link>
       <description>thoughtbot创始人Chad Pytel将举办Rails开发者AI入门直播课程，教授如何将AI功能集成到Web应用中。课程将涵盖基础AI技术概念，并通过实际Rails应用进行演示。适合有经验的Web开发者和技术产品人员参加。课程包括使用ChatGPT等LLM回答文档问题、结构化数据与函数调用、信息摘要、本地LLM设置等主题。</description>
