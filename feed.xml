@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>X (Twitter) Marketing in 2024: A Complete Guide</title>
+      <link>https://www.brandwatch.com/blog/x-marketing/</link>
+      <description>X（前Twitter）营销策略：掌握关键策略，提升品牌成功。了解实时互动、数据分析、竞争研究和个性化内容，以适应X平台的快速变化，增强品牌影响力和客户参与度。</description>
+      <pubDate>2024-11-01 17:35:50</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the General Availability of Step-Through Debugging in Databricks Notebooks and Files</title>
+      <link>https://www.databricks.com/blog/announcing-general-availability-step-through-debugging-databricks-notebooks-and-files</link>
+      <description>Databricks宣布其Notebooks和Files中Python步进调试器的通用可用性。此功能允许用户在Databricks环境中逐步执行代码并诊断错误，具有直观的用户界面和实时变量检查功能，提高了开发效率和错误修复速度。</description>
+      <pubDate>2024-11-01 17:24:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Python in Visual Studio Code – November 2024 Release</title>
+      <link>https://devblogs.microsoft.com/python/python-in-visual-studio-code-november-2024-release/</link>
+      <description>Visual Studio Code的Python、Pylance和Jupyter扩展在2024年11月发布了新版本。新功能包括使用Pylance生成文档字符串、新的折叠和展开所有文档字符串命令、从用户文件中包含别名导入建议、实验性的AI代码操作以实现抽象类、原生REPL变量视图等。同时，Python 3.8的支持将在2025年2月停止。</description>
+      <pubDate>2024-11-01 17:02:23</pubDate>
+    </item>
+  
+    <item>
+      <title>The 10 Best TikTok Analytics Tools to Try in 2024</title>
+      <link>https://www.brandwatch.com/blog/tiktok-analytics-tools/</link>
+      <description>2024年，TikTok分析工具对于提升营销策略至关重要。这些工具提供用户画像、内容表现、流量来源、关键受众洞察、趋势和参与模式跟踪等功能，帮助品牌优化营销活动。选择工具时，应考虑功能、易用性、与其他平台的集成、定价、数据准确性、定制化、客户支持和用户评价等因素。以下是2024年最佳TikTok分析工具推荐。</description>
+      <pubDate>2024-11-01 16:07:36</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Get More Followers on Instagram: 25 Strategies</title>
+      <link>https://www.brandwatch.com/blog/get-more-instagram-followers/</link>
+      <description>如何快速增加Instagram关注者：25个策略</description>
+      <pubDate>2024-11-01 16:05:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Select from the 11 Best 2024 X (Twitter) Analytics Tools to Enhance Client Engagement</title>
+      <link>https://www.brandwatch.com/blog/x-analytics-tools/</link>
+      <description>本文探讨了11款最佳X（Twitter）分析工具，以提升社交媒体策略。这些工具帮助分析用户互动、品牌认知和内容效果，从而优化社交媒体营销。通过深入了解受众和内容表现，企业可以制定更有效的策略，提高转化率和品牌知名度。</description>
+      <pubDate>2024-11-01 16:02:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Evolving Atlassian’s deployment controls enforcement</title>
+      <link>https://www.atlassian.com/blog/atlassian-engineering/deployment-metadata-platform</link>
+      <description>Atlassian在软件供应链安全方面不断改进其部署控制措施，以增强产品安全和合规性。通过标准化元数据结构、集中存储和决策制定，以及使用认证和审计日志，Atlassian提高了对软件组件的监控和验证，从而降低了安全风险并增强了客户信任。</description>
+      <pubDate>2024-11-01 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>5 Tips for Creating a Dynamic Intranet for Your Org</title>
+      <link>https://www.atlassian.com/blog/confluence/your-company-intranet</link>
+      <description>创建动态企业内网的5个技巧：集中沟通，提高信息获取和团队协作效率，通过Confluence构建单点访问平台，简化信息查找，减少工具分散，实现权限管理，提升用户体验。</description>
+      <pubDate>2024-11-01 15:55:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Get More Followers on TikTok</title>
+      <link>https://s14415.pcdn.co/blog/get-followers-on-tiktok/</link>
+      <description>如何增加TikTok粉丝：掌握15个有效技巧，了解目标受众，参与热门趋势，发起挑战，与创作者合作，制作内容系列，使用合适的话题标签，添加字幕，选择最佳发布时间，尝试不同视频长度，使用热门音乐和声音，分享用户生成内容，并在其他社交平台上进行交叉推广。</description>
+      <pubDate>2024-11-01 15:02:19</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Get More Followers on TikTok</title>
+      <link>https://www.brandwatch.com/blog/get-followers-on-tiktok/</link>
+      <description>如何增加TikTok粉丝：了解目标受众，参与热门趋势，发起挑战，与创作者合作，制作内容系列，使用合适的话题标签，添加字幕，选择最佳发布时间，尝试不同视频长度，使用热门音乐和声音，分享用户生成内容，并在其他社交平台上进行交叉推广。</description>
+      <pubDate>2024-11-01 15:02:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel Roundup - November</title>
+      <link>https://laravel-news.com/laravel-roundup-november-2024</link>
+      <description>Laravel News的11月版涵盖了Laravel的最新亮点，包括PHP和Laravel安装器的单命令安装、MongoDB 5.0版本发布、Inertia.js v2 Beta发布等。此外，还介绍了招聘信息、创作者访谈、教程和即将举行的活动，如Laravel Switzerland、Laracon AU和Laracon EU。</description>
+      <pubDate>2024-11-01 14:12:38</pubDate>
+    </item>
+  
+    <item>
       <title>SRECon EMEA 2024 - Day 3</title>
       <link>https://last9.io/blog/srecon-emea-2024-day-2-2/</link>
       <description>SRECon EMEA 2024第三天聚焦于关键演讲、重要观点和难忘时刻，包括Riot Games的观察性进化、systemd-journal日志管理解决方案、大型分布式系统的故障半径减少策略，以及新SRE团队的构建。会议促进了学习与交流，为参与者留下了深刻印象。</description>
@@ -13,10 +90,24 @@
     </item>
   
     <item>
+      <title>What Your Business Needs to Know About Instagram Hashtags: A Guide for Your Marketing Team</title>
+      <link>https://www.brandwatch.com/blog/instagram-hashtags/</link>
+      <description>本文深入探讨了Instagram标签在提升品牌可见度和用户互动方面的作用。文章强调了制定有效标签策略的重要性，包括使用多样化的标签、避免使用被禁标签，以及如何通过标签吸引目标受众。文章还提供了使用不同类型标签的建议，如品牌标签、社区标签、趋势标签等，并指导如何通过分析工具优化标签策略，以提升内容曝光率和用户参与度。</description>
+      <pubDate>2024-11-01 13:39:04</pubDate>
+    </item>
+  
+    <item>
       <title>Looking Back on Our First Women Leaders in Technology Event</title>
       <link>https://blog.cloudera.com/looking-back-on-our-first-women-leaders-in-technology-event/</link>
       <description>Cloudera举办了首届女性技术领导者（WLIT）活动，旨在促进女性在科技行业的成长和发展。活动通过午餐会形式，邀请行业领袖和专家讨论女性在科技领域面临的挑战和成功策略，强调早期参与、寻找导师、克服自我怀疑的重要性，并建立支持女性职业发展的社区。</description>
       <pubDate>2024-11-01 13:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Chill day just HTML-ing and CSS-ing</title>
+      <link>https://chenhuijing.com/blog/chill-day-just-html-ing-and-css-ing/</link>
+      <description>今天，我享受了一个轻松的周末，专注于构建一个简单的网页。这个网页采用了单列布局，并使用伪元素和CSS技巧实现了有趣的视觉效果。我利用这个机会，在朋友的公司网站 redesign 项目中发挥了自己的技能。这个项目是关于一个不收集用户隐私的VPN服务CantinaVPN的。虽然网页构建过程简单，但我在这个过程中感到非常放松和平静。</description>
+      <pubDate>2024-11-01 12:38:36</pubDate>
     </item>
   
     <item>
@@ -57,6 +148,13 @@
     </item>
   
     <item>
+      <title>Essential Guide to X Advertising: Strategies and Cost Insights</title>
+      <link>https://www.brandwatch.com/blog/x-ads/</link>
+      <description>X（前身为Twitter）为品牌提供了多种广告解决方案，以实现有效的营销活动。通过X Ads平台，品牌可以创建不同类型的广告，如推广帖子、账户或趋势，并基于用户资料进行定位。X Ads允许品牌根据业务需求选择不同的广告类型，并通过分析工具跟踪和优化广告效果。文章详细介绍了X广告的工作原理、设置步骤、定位选项和最佳实践，旨在帮助品牌最大化广告投资回报率。</description>
+      <pubDate>2024-11-01 11:57:00</pubDate>
+    </item>
+  
+    <item>
       <title>Designer Spotlight: Elena Smirnova</title>
       <link>https://tympanus.net/codrops/2024/11/01/designer-spotlight-elena-smirnova/</link>
       <description>Elena Smirnova是一位专注于时尚、设计和生活方式项目的数字设计师。她的设计理念是“少即是多”，通过简洁而富有创意的方式，打造既吸引人又视觉上复杂的数字体验。她擅长平衡简约和创意，在个人项目和客户项目中展现出独特的艺术感和功能性。</description>
@@ -68,6 +166,14 @@
       <link>https://www.technologyreview.com/2024/11/01/1106377/exosomes-more-than-anti-aging-fad/</link>
       <description>研究人员正在探索一种名为外泌体的微小细胞颗粒，它们可能不仅限于抗衰老疗法，还可能帮助诊断和治疗疾病。外泌体是细胞释放的小型包裹物，含有蛋白质和其他成分，可能用于传递细胞间的信号。科学家们希望利用外泌体来诊断疾病，如通过分析血液样本中的外泌体内容来了解细胞状态。此外，外泌体可能用于药物递送，因为它们在体内产生，不太可能被免疫系统排斥。目前，许多关于外泌体的临床试验正在进行中，这一领域的研究前景广阔。</description>
       <pubDate>2024-11-01 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>9 Best Instagram Analytics Tools For Better Results</title>
+      <link>https://www.brandwatch.com/blog/instagram-analytics-tools/</link>
+      <description>总结：
+本文介绍了七款最佳的Instagram分析工具，包括Instagram内置的Insights、Brandwatch Consumer Research、Quintly、Socialbakers、Squarelovin、Union Metrics和Iconosquare。这些工具可以帮助用户深入了解Instagram数据，优化社交媒体策略，提高品牌影响力。</description>
+      <pubDate>2024-11-01 09:30:27</pubDate>
     </item>
   
     <item>
@@ -92,6 +198,13 @@
     </item>
   
     <item>
+      <title>Carnival of Mathematics #233</title>
+      <link>https://www.jeremykun.com/2022/11/01/carnival-of-mathematics-233/</link>
+      <description>第233届数学狂欢节回顾了最新的数学发现，包括新的大素数和数学猜想被推翻。此外，还讨论了数学在政治地理和投票站点研究中的应用，以及数学博客和视频内容。重点包括使用GPU计算新素数、Condorcet投票悖论的视频讨论，以及数学博客和社交媒体上的数学活动。</description>
+      <pubDate>2024-11-01 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Error'd: Alternative Maths</title>
       <link>https://thedailywtf.com/articles/alternative-maths</link>
       <description>本文探讨了多个技术相关的趣事，包括Visual Studio的评分系统优化、Anker的限时优惠、Dropbox的数学问题以及Microsoft Teams的日期处理错误。作者通过这些案例展示了技术产品中可能存在的缺陷和用户对这些问题的反馈。</description>
@@ -113,6 +226,34 @@
     </item>
   
     <item>
+      <title>Why software only moves forward</title>
+      <link>https://swizec.com/blog/why-software-only-moves-forward/</link>
+      <description>软件发展不断前进，数据持久性是关键因素。一旦保存状态，代码必须永远理解该状态。随着业务扩展，数据分布到多个系统，如账单、电子邮件和异步作业，增加了复杂性。在分布式系统中，所有部分需要共享业务逻辑的定义，以避免系统崩溃。更新时，系统可能运行多个版本，需要策略来处理新旧版本之间的不匹配。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ERGs encourage you to come as you are: Meet Mil-asticians</title>
+      <link>https://www.elastic.co/blog/culture-ergs-encourage-you-to-come-as-you-are-meet-mil-asticians</link>
+      <description>Elastic公司鼓励员工真实展现自我，成立了多个员工资源小组（ERGs），其中“Mil-asticians”小组致力于连接与军事社区有联系的人，包括退伍军人、现役军人及其家属。该小组通过举办活动、提供职业转换支持等方式，帮助退伍军人融入公司，并促进他们在民间的就业。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord Patch Notes: November 1, 2024</title>
+      <link>https://discord.com/blog/discord-patch-notes-november-1-2024</link>
+      <description>Discord在2024年11月1日更新中，重点优化了折叠设备支持、多任务处理、屏幕共享功能，并提升了网站性能和响应速度。此外，还修复了多个bug，包括用户界面问题、媒体播放问题、聊天和活动功能中的错误。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>8 proven leadership principles and the psychology behind them</title>
+      <link>https://www.atlassian.com/blog/leadership/research-backed-leadership-principles</link>
+      <description>本文探讨了八项有效的领导原则及其背后的心理学原理。这些原则包括：找到并践行个人价值观、展现谦逊、拥抱变化、持续学习、展现情绪智力、倾听以及建立信任。通过遵循这些原则，领导者可以提升团队效能，增强团队凝聚力，并促进个人成长。</description>
+      <pubDate>2024-10-31 22:52:00</pubDate>
+    </item>
+  
+    <item>
       <title>Unlock the potential of your supply chain data and gain actionable insights with AWS Supply Chain Analytics</title>
       <link>https://aws.amazon.com/blogs/aws/unlock-the-potential-of-your-supply-chain-data-and-gain-actionable-insights-with-aws-supply-chain-analytics/</link>
       <description>AWS Supply Chain Analytics现在全面推出，通过Amazon QuickSight提供数据分析和可视化工具，帮助企业分析师和供应链经理进行定制分析，获取供应链管理操作的洞察。该功能集成了AWS供应链数据湖，并提供了预构建仪表板和自定义仪表板创建选项，以支持业务决策和优化运营。</description>
@@ -131,6 +272,13 @@
       <link>https://www.atlassian.com/blog/announcements/shareholder-letter-q1fy25</link>
       <description>Atlassian在2025财年第一季度取得了显著成绩，增长订阅收入33%，并推出了多项AI创新产品，如Rovo和Autodev。公司致力于通过其云平台和产品组合，帮助各种规模的客户实现工作与目标的对齐，并推动数字化转型。同时，Atlassian还加强了企业领导层，任命了新的首席营收官Brian Duffy，以进一步推动公司发展。</description>
       <pubDate>2024-10-31 20:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Deep Dive into Building Enterprise grade Generative AI Solutions</title>
+      <link>https://www.sitepoint.com/building-enterprise-grade-generative-ai-solutions/?utm_source=rss</link>
+      <description>本文深入探讨了构建企业级生成式AI解决方案的关键原则、方法和最佳实践。文章涵盖了生成式AI架构的关键组件，如向量数据库、嵌入和提示工程，并提供了实际应用中的见解。此外，文章详细介绍了提示工程技术，探讨了如何优化提示以实现有效的生成式AI解决方案，并引入了检索增强生成（RAG）的概念，解释了如何通过解耦数据摄取和数据检索来提高系统性能。通过Python代码的实际示例，展示了如何使用LangChain、Chroma数据库和OpenAI API实现RAG，为开发者提供了实用的指导。</description>
+      <pubDate>2024-10-31 19:22:59</pubDate>
     </item>
   
     <item>
@@ -162,6 +310,13 @@
       <link>https://www.technologyreview.com/2024/10/31/1106504/ai-search-could-break-the-web/</link>
       <description>AI搜索引擎可能颠覆网络，引发版权和内容分发争议。新闻集团起诉Perplexity AI，认为其侵犯版权。AI搜索工具如Perplexity、Google的Gemini和OpenAI的SearchGPT旨在从第三方网站检索和重新包装信息。这可能导致数字经济的破坏，因为内容创作者可能失去访问量和收入。AI行业应建立更公平的奖励系统，以保护创作者并促进网络内容的健康发展。</description>
       <pubDate>2024-10-31 17:50:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Bento Laravel SDK</title>
+      <link>https://laravel-news.com/bento-laravel-sdk</link>
+      <description>Bento，一家初创公司，推出了针对Laravel的官方SDK，旨在简化邮件营销和自动化流程。SDK提供强大的API，可管理订阅者、跟踪事件和发送交易性邮件。安装SDK后，用户可通过配置文件和环境变量轻松集成。该SDK支持自定义，并可通过GitHub查看源代码和文档。</description>
+      <pubDate>2024-10-31 17:22:55</pubDate>
     </item>
   
     <item>
@@ -447,6 +602,13 @@
     </item>
   
     <item>
+      <title>Managing JSON Field Tags and Value Handling in Go - Ep.3</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-ep-3-Managing%20JSON%20Field%20Tags%20and%20Value%20Handling%20in%20Go.html</link>
+      <description>Go语言中处理JSON字段标签和值的方法，包括使用标签映射JSON键到Go结构体字段、处理缺失和零值、以及设置默认结构体值，以简化JSON反序列化和提高代码可靠性。</description>
+      <pubDate>2024-10-31 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>What is conversational AI?</title>
       <link>https://www.atlassian.com/blog/artificial-intelligence/conversation-ai</link>
       <description>对话式人工智能是一种让计算机能够自然、有意义地理解和回应人类语言的技术。它包括从简单的聊天机器人到复杂的虚拟助手。这种技术通过自然语言处理和机器学习，使机器能够理解用户的意图，维持上下文，并生成更自然的回应。对话式人工智能在提高客户服务效率、自动化日常任务和增强用户体验方面具有显著优势，但也面临理解语境、处理模糊查询和维护数据隐私等挑战。未来，随着技术的进步，对话式人工智能有望实现更自然的交互、多语言能力和与其他AI技术的整合。</description>
@@ -507,6 +669,13 @@
       <link>https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/</link>
       <description>罗伯特·唐尼表示，他将起诉任何试图使用AI数字复制品重现他形象的未来好莱坞高管。他在“与卡拉·斯威舍同行”播客中讨论了AI在娱乐中的日益增长的作用时发表了这一立场。唐尼对漫威工作室不会使用AI重现他的托尼·斯塔克角色表示信心。</description>
       <pubDate>2024-10-30 18:53:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Domain vs Hosting: Understanding the Key Differences</title>
+      <link>https://www.rosehosting.com/blog/domain-vs-hosting/</link>
+      <description>了解域名与主机之间的关键区别对于建立在线存在至关重要。域名是网站的互联网地址，而主机是存储网站文件并使其可访问的服务。域名注册后归用户所有，而主机是租赁的服务。两者相互依赖，但功能不同：域名是用户访问网站的地址，而主机负责存储和提供内容。选择合适的域名和主机对于创建强大的在线基础至关重要。</description>
+      <pubDate>2024-10-30 17:30:00</pubDate>
     </item>
   
     <item>
@@ -1312,6 +1481,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <link>https://www.atlassian.com/blog/artificial-intelligence/ai-writer</link>
       <description>AI作家可提高写作效率，通过自动化内容生成、减少研究时间、激发创意和简化编辑过程，帮助内容创作者和营销人员更高效地完成工作。AI作家不仅适用于营销和SEO，还能支持内容创作者、企业行政工作，并可通过与Atlassian Intelligence结合，进一步优化团队协作和生产力。</description>
       <pubDate>2024-10-28 17:48:33</pubDate>
+    </item>
+  
+    <item>
+      <title>What is Virtual Desktop Infrastructure &amp; How Does It Enhance Remote Operations and Security?</title>
+      <link>https://www.rosehosting.com/blog/virtual-desktop-infrastructure/</link>
+      <description>虚拟桌面基础设施（VDI）是一种技术，它允许在集中服务器上托管桌面环境。用户可以通过网络从任何设备访问个性化的桌面，实现灵活的工作安排和集中管理。VDI提高了安全性，降低了成本，并支持远程工作，使员工能够从任何地点安全地访问桌面和应用程序，同时保持业务连续性。</description>
+      <pubDate>2024-10-28 17:30:00</pubDate>
     </item>
   
     <item>
