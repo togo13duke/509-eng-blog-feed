@@ -6,6 +6,43 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Intro to AI for Rails developers with Chad Pytel</title>
+      <link>https://thoughtbot.com/blog/intro-to-ai-for-web-developers-with-chad-pytel</link>
+      <description>thoughtbot创始人Chad Pytel将举办Rails开发者AI入门直播课程，教授如何将AI功能集成到Web应用中。课程将涵盖基础AI技术概念，并通过实际Rails应用进行演示。适合有经验的Web开发者和技术产品人员参加。课程包括使用ChatGPT等LLM回答文档问题、结构化数据与函数调用、信息摘要、本地LLM设置等主题。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlock the potential of your supply chain data and gain actionable insights with AWS Supply Chain Analytics</title>
+      <link>https://aws.amazon.com/blogs/aws/unlock-the-potential-of-your-supply-chain-data-and-gain-actionable-insights-with-aws-supply-chain-analytics/</link>
+      <description>AWS Supply Chain Analytics现在全面推出，通过Amazon QuickSight提供数据分析和可视化工具，帮助企业分析师和供应链经理进行定制分析，获取供应链管理操作的洞察。该功能集成了AWS供应链数据湖，并提供了预构建仪表板和自定义仪表板创建选项，以支持业务决策和优化运营。</description>
+      <pubDate>2024-10-31 21:56:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Colorado scrambles to change voting-system passwords after accidental leak</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/</link>
+      <description>科罗拉多州政府紧急更换投票系统密码，以应对意外泄露的“部分密码”。尽管没有立即的安全威胁，但政府正在努力在当天完成密码更新。泄露事件涉及数百个BIOS密码，这些密码在网站上公开了两个月后才被移除。</description>
+      <pubDate>2024-10-31 21:28:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Our Q1 FY25 letter to shareholders</title>
+      <link>https://www.atlassian.com/blog/announcements/shareholder-letter-q1fy25</link>
+      <description>Atlassian在2025财年第一季度取得了显著成绩，增长订阅收入33%，并推出了多项AI创新产品，如Rovo和Autodev。公司致力于通过其云平台和产品组合，帮助各种规模的客户实现工作与目标的对齐，并推动数字化转型。同时，Atlassian还加强了企业领导层，任命了新的首席营收官Brian Duffy，以进一步推动公司发展。</description>
+      <pubDate>2024-10-31 20:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How IT leaders can help HR deliver exceptional support</title>
+      <link>https://www.atlassian.com/blog/jira-service-management/how-it-leaders-can-help-hr-deliver-exceptional-support</link>
+      <description>IT领导者如何协助HR提供卓越支持
+
+本文探讨了IT领导者如何通过Jira Service Management帮助HR提升员工体验。文章以FanDuel、Zelis和华盛顿州立大学为例，展示了如何通过IT与HR的紧密合作，简化HR流程，提高效率，并确保员工数据的安全和合规。通过自动化和知识库，HR团队能够更专注于建立人与人的联系，从而提升员工体验。</description>
+      <pubDate>2024-10-31 19:06:27</pubDate>
+    </item>
+  
+    <item>
       <title>This AI-generated Minecraft may represent the future of real-time video generation</title>
       <link>https://www.technologyreview.com/2024/10/31/1106461/this-ai-generated-minecraft-may-represent-the-future-of-real-time-video-generation/</link>
       <description>AI公司Decart和Etched展示了完全由AI生成的Minecraft游戏版本，通过训练模型在数百万小时的Minecraft游戏数据和用户操作记录上，实现了实时视频生成。尽管当前版本存在分辨率低、易出现幻觉等问题，但公司相信随着芯片设计的创新，未来能够开发出高保真度的游戏版本。</description>
@@ -32,6 +69,13 @@
       <link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/</link>
       <description>Amazon Aurora PostgreSQL Limitless Database现已全面上市，提供无服务器水平扩展功能，可超越现有Aurora的写入吞吐量和存储限制。通过将数据库工作负载分布在多个Aurora写入实例上，同时保持将其用作单个数据库的能力。该数据库支持三种类型的表：分片表、参考表和标准表，并兼容PostgreSQL查询语法。</description>
       <pubDate>2024-10-31 17:08:32</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking the Power of GitHub Models in .NET with Semantic Kernel</title>
+      <link>https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/</link>
+      <description>本文介绍了如何利用GitHub的AI模型（如GPT、Llama和Phi）和Microsoft的Semantic Kernel框架，将人工智能功能集成到.NET应用程序中。通过Semantic Kernel，开发者可以轻松地将自然语言理解和生成功能添加到他们的应用中，从而创建更智能的应用程序。文章提供了具体的步骤和示例代码，展示了如何设置和运行一个使用GitHub模型和Semantic Kernel的.NET应用程序。</description>
+      <pubDate>2024-10-31 17:05:00</pubDate>
     </item>
   
     <item>
