@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Parquet Files: A Surprisingly Entertaining Guide to Columnar Storage</title>
+      <link>https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/</link>
+      <description>本文深入探讨了Parquet文件格式，一种用于高效数据存储和检索的列式存储文件格式。文章通过实际案例展示了Parquet在减少存储空间和加快查询速度方面的优势，并解释了其支持的模式演变、列式存储、压缩和谓词下推等特性。此外，还讨论了何时以及何时不应使用Parquet，以及一些最佳实践，如选择合适的压缩方法和行组大小。</description>
+      <pubDate>2024-11-02 03:08:36</pubDate>
+    </item>
+  
+    <item>
       <title>Thousands of hacked TP-Link routers used in years-long account takeover attacks</title>
       <link>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</link>
       <description>数千台被黑客攻击的TP-Link路由器被用于多年的账户接管攻击，黑客利用由路由器、摄像头等设备组成的僵尸网络，对微软Azure云服务的用户进行高度隐蔽的密码喷射攻击。这些攻击难以检测，因为它们使用了大量IP地址，且攻击者不断更换IP地址。尽管近期活动有所减少，但微软认为这并不意味着攻击者停止了操作。</description>
@@ -1718,6 +1725,13 @@ macOS Sequoia新增了iPhone镜像功能，可在Mac桌面将iPhone作为应用�
       <title>Self-Service KYC Example TFN and Shaken/STIR Submission</title>
       <link>https://www.twilio.com/en-us/blog/self-service-kyc-toll-free-verification-app-example</link>
       <description>Twilio推出自助KYC示例，展示如何使用TFN和Shaken/STIR提交进行用户身份验证。通过构建一个Next.js应用程序，用户可以提交必要的业务信息以验证美国长途电话号码用于短信消息。此示例需要Twilio账户和至少一个未验证的长途电话号码。</description>
+      <pubDate>2024-10-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Steve Ballmer was an underrated CEO</title>
+      <link>https://danluu.com/ballmer/</link>
+      <description>史蒂夫·鲍尔默作为微软的前CEO，虽然常被批评为领导力不足，但实际上他在任期间对公司的长期投资和战略布局为微软的后续成功奠定了基础。尽管存在一些失败，如Bing、Zune和Windows Phone，但鲍尔默推动了Azure和Office 365等关键项目，这些项目为微软在云计算和企业软件领域取得了巨大成功。他的领导风格和决策对微软的整体增长和市场地位产生了深远影响。</description>
       <pubDate>2024-10-28 00:00:00</pubDate>
     </item>
   
