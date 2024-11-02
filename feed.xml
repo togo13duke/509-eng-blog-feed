@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Thousands of hacked TP-Link routers used in years-long account takeover attacks</title>
+      <link>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</link>
+      <description>数千台被黑客攻击的TP-Link路由器被用于多年的账户接管攻击，黑客利用由路由器、摄像头等设备组成的僵尸网络，对微软Azure云服务的用户进行高度隐蔽的密码喷射攻击。这些攻击难以检测，因为它们使用了大量IP地址，且攻击者不断更换IP地址。尽管近期活动有所减少，但微软认为这并不意味着攻击者停止了操作。</description>
+      <pubDate>2024-11-02 00:13:20</pubDate>
+    </item>
+  
+    <item>
+      <title>Fine-tuning for Anthropic’s Claude 3 Haiku model in Amazon Bedrock is now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/</link>
+      <description>亚马逊云科技宣布，现在可以在美国西部（俄勒冈）AWS区域中，通过Amazon Bedrock对Anthropic的Claude 3 Haiku模型进行微调，这是唯一提供微调Claude模型能力的完全托管服务。用户可以使用自己的特定任务训练数据集来微调和定制Claude 3 Haiku模型，以提升模型准确性、质量和一致性，进一步为业务定制生成式AI。</description>
+      <pubDate>2024-11-01 21:29:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Game Off 2024 theme announcement</title>
+      <link>https://github.blog/open-source/game-off-2024-theme-announcement/</link>
+      <description>GitHub宣布了2024年Game Off游戏创作大赛的主题为“秘密”。这是一个为期一个月的游戏创作活动，参与者可以自由发挥创意，用各种游戏引擎和编程语言制作游戏。活动从11月1日开始，至12月1日截止。今年的特色包括引入“ wildcard”挑战，以增加游戏的趣味性。参与者可以独立或组队参加，使用GitHub进行源代码存储，并在itch.io上提交作品。</description>
+      <pubDate>2024-11-01 20:36:22</pubDate>
+    </item>
+  
+    <item>
       <title>X (Twitter) Marketing in 2024: A Complete Guide</title>
       <link>https://www.brandwatch.com/blog/x-marketing/</link>
       <description>X（前Twitter）营销策略：掌握关键策略，提升品牌成功。了解实时互动、数据分析、竞争研究和个性化内容，以适应X平台的快速变化，增强品牌影响力和客户参与度。</description>
@@ -243,6 +264,13 @@
       <title>Discord Patch Notes: November 1, 2024</title>
       <link>https://discord.com/blog/discord-patch-notes-november-1-2024</link>
       <description>Discord在2024年11月1日更新中，重点优化了折叠设备支持、多任务处理、屏幕共享功能，并提升了网站性能和响应速度。此外，还修复了多个bug，包括用户界面问题、媒体播放问题、聊天和活动功能中的错误。</description>
+      <pubDate>2024-11-01 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Your guide to reducing Python memory usage</title>
+      <link>https://www.honeybadger.io/blog/reducing-your-python-apps-memory-footprint/</link>
+      <description>本文介绍了如何减少Python内存使用，强调了内存管理的重要性。文章指出，内存管理涉及为不同程序分配和释放计算机内存，以确保系统高效运行。文章提供了测量Python应用程序内存使用的几种方法，包括psutil、resource和sys模块，以及第三方库。此外，文章还讨论了导致Python内存使用量高的常见原因，如内存泄漏、外部依赖和大型数据集，并提供了降低应用程序内存占用的一些技巧，如使用生成器、分块读取数据和内存分析工具。</description>
       <pubDate>2024-11-01 00:00:00</pubDate>
     </item>
   
