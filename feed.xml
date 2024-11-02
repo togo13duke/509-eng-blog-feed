@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What Does Giving a Project “a Quick Lookover” Mean for a Tester?</title>
+      <link>https://spin.atomicobject.com/testing-lookover/</link>
+      <description>快速审查项目对测试员意味着什么？测试员在项目后期加入时，需快速识别关键问题。关注客户关注点，如功能、兼容性和响应性。应用80/20原则，关注用户主要使用部分。识别代码变更和复杂区域，进行重点测试。遵循“快乐路径”进行测试，并记录想法与客户沟通。</description>
+      <pubDate>2024-11-02 12:00:05</pubDate>
+    </item>
+  
+    <item>
+      <title>How a breakthrough gene-editing tool will help the world cope with climate change</title>
+      <link>https://www.technologyreview.com/2024/11/02/1106579/how-a-breakthrough-gene-editing-tool-will-help-the-world-cope-with-climate-change/</link>
+      <description>CRISPR技术有望帮助世界应对气候变化，通过培育适应极端气候的作物和动物，如耐旱、耐高温的品种。这项技术能够精确编辑DNA，避免传统育种方法的缺陷，并可能减少对转基因食品的担忧。然而，CRISPR的应用仍面临监管、知识产权和公众接受度等挑战。</description>
+      <pubDate>2024-11-02 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Parquet Files: A Surprisingly Entertaining Guide to Columnar Storage</title>
       <link>https://last9.io/blog/the-parquet-files-a-surprisingly-entertaining-guide-to-columnar-storage/</link>
       <description>本文深入探讨了Parquet文件格式，一种用于高效数据存储和检索的列式存储文件格式。文章通过实际案例展示了Parquet在减少存储空间和加快查询速度方面的优势，并解释了其支持的模式演变、列式存储、压缩和谓词下推等特性。此外，还讨论了何时以及何时不应使用Parquet，以及一些最佳实践，如选择合适的压缩方法和行组大小。</description>
@@ -31,6 +45,13 @@
       <link>https://github.blog/open-source/game-off-2024-theme-announcement/</link>
       <description>GitHub宣布了2024年Game Off游戏创作大赛的主题为“秘密”。这是一个为期一个月的游戏创作活动，参与者可以自由发挥创意，用各种游戏引擎和编程语言制作游戏。活动从11月1日开始，至12月1日截止。今年的特色包括引入“ wildcard”挑战，以增加游戏的趣味性。参与者可以独立或组队参加，使用GitHub进行源代码存储，并在itch.io上提交作品。</description>
       <pubDate>2024-11-01 20:36:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Debugging Haskell Type Errors</title>
+      <link>http://jelv.is/blog/Debugging-Haskell-Type-Errors</link>
+      <description>Haskell类型错误调试是一项重要技能，涉及理解错误信息、将类型视为约束以及逐步解决问题。通过阅读错误信息、思考类型约束和采用分而治之的策略，可以系统地解决类型错误，提高编程效率。</description>
+      <pubDate>2024-11-01 17:58:09</pubDate>
     </item>
   
     <item>
