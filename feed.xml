@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Ranging over functions in Go 1.23</title>
+      <link>https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/</link>
+      <description>Go 1.23引入了新特性：函数迭代（也称为“迭代器”）。这一特性允许迭代自定义容器中的元素，解决了之前自定义容器迭代的问题。通过定义一个返回函数的方法，可以创建一个迭代器，该迭代器可以被for-range循环使用。这一特性简化了迭代过程，提高了Go编程的效率。</description>
+      <pubDate>2024-11-02 13:35:00</pubDate>
+    </item>
+  
+    <item>
       <title>What Does Giving a Project “a Quick Lookover” Mean for a Tester?</title>
       <link>https://spin.atomicobject.com/testing-lookover/</link>
       <description>快速审查项目对测试员意味着什么？测试员在项目后期加入时，需快速识别关键问题。关注客户关注点，如功能、兼容性和响应性。应用80/20原则，关注用户主要使用部分。识别代码变更和复杂区域，进行重点测试。遵循“快乐路径”进行测试，并记录想法与客户沟通。</description>
@@ -397,10 +404,38 @@
     </item>
   
     <item>
+      <title>#TheAndroidShow: live from Droidcon, including the biggest update to Gemini in Android Studio and more SDK releases for Android!</title>
+      <link>http://android-developers.googleblog.com/2024/10/tas-24-recap.html</link>
+      <description>Android Studio更新了Gemini功能，增强AI在开发周期中的应用，并计划明年增加Android SDK发布频率。同时，鼓励开发者针对大屏幕设备优化应用，并支持Kotlin Multiplatform以共享业务逻辑，提高开发效率。</description>
+      <pubDate>2024-10-31 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>FlipaClip optimizes for large screens and sees a 54% increase in tablet users</title>
+      <link>http://android-developers.googleblog.com/2024/10/flipaclip-optimizes-for-tablets-and-stylus.html</link>
+      <description>FlipaClip优化了大型屏幕支持，平板用户增加54%，通过改进界面和笔触支持，提升了动画创作的空间和精度，同时优化了绘图引擎，提高了性能和响应速度，使用户满意度提升。</description>
+      <pubDate>2024-10-31 16:59:00</pubDate>
+    </item>
+  
+    <item>
       <title>OpenAI brings a new web search tool to ChatGPT</title>
       <link>https://www.technologyreview.com/2024/10/31/1106472/chatgpt-now-lets-you-search-the-internet/</link>
       <description>OpenAI的ChatGPT现在可以搜索互联网，为用户提供最新信息的答案。这一新功能将使ChatGPT在处理如体育、股票或当日新闻等最新信息查询时，能够提供丰富的多媒体结果。目前，此功能仅对付费用户开放，未来将免费提供给所有用户。</description>
       <pubDate>2024-10-31 16:58:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Updates to power your growth on Google Play</title>
+      <link>http://android-developers.googleblog.com/2024/10/whats-new-in-google-play.html</link>
+      <description>Google Play发布了一系列更新，旨在帮助开发者扩大受众、优化收入并保护业务。新功能包括增强的发现特性、全屏视频展示、个性化搜索推荐、多选兴趣过滤器、便捷的支付设置、购物流程推荐、购物车放弃提醒、生物识别安全支付以及Play Integrity API的硬件安全信号。这些更新旨在提升用户体验，同时为开发者提供更多工具来应对挑战和抓住机遇。</description>
+      <pubDate>2024-10-31 16:58:00</pubDate>
+    </item>
+  
+    <item>
+      <title>More frequent Android SDK releases: faster innovation, higher quality and more polish</title>
+      <link>http://android-developers.googleblog.com/2024/10/android-sdk-release-update.html</link>
+      <description>Android开发者博客宣布，2025年将更频繁地发布Android SDK，包括两次主要更新，以推动创新、提高质量和优化用户体验。开发者需提前进行兼容性测试，并关注新API的引入。这些变化旨在简化开发者的工作，同时促进Android生态系统的持续发展。</description>
+      <pubDate>2024-10-31 16:57:00</pubDate>
     </item>
   
     <item>
