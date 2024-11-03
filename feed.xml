@@ -439,6 +439,13 @@
     </item>
   
     <item>
+      <title>Gemini in Android Studio, now helping you across the development lifecycle</title>
+      <link>http://android-developers.googleblog.com/2024/10/whats-new-in-gemini-in-android.html</link>
+      <description>Android Studio的Gemini功能现在助力开发者贯穿整个开发周期，通过AI加速编码体验，提高生产力。Gemini可编写、重构和文档化Android代码，简化UI开发，并提升应用质量。开发者可通过最新版本的Android Studio体验这些新功能。</description>
+      <pubDate>2024-10-31 16:56:00</pubDate>
+    </item>
+  
+    <item>
       <title>Security Considerations in the Time of AI</title>
       <link>https://auth0.com/blog/security-considerations-in-the-time-of-ai/</link>
       <description>在人工智能时代，构建安全解决方案至关重要。文章探讨了工程师、创始人及投资者对AI工具安全的看法，强调了从数据安全、模型安全到基础设施安全的多个方面。同时，文章还讨论了AI在开发空间中的进步，以及AI工具在提高效率和生产力方面的作用。</description>
