@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Get started with OpenShift APIs for data protection</title>
+      <link>https://developers.redhat.com/articles/2024/11/04/get-started-openshift-apis-data-protection</link>
+      <description>本文介绍了如何使用OpenShift API进行数据保护。通过OpenShift API，用户可以备份和恢复Red Hat OpenShift集群中的工作负载，包括持久卷。本文以一个简单的数据库应用为例，演示了如何创建备份并在删除命名空间后进行恢复。文章详细介绍了安装OpenShift Data Foundation、配置备份存储以及使用Velero CLI进行备份和恢复的步骤。</description>
+      <pubDate>2024-11-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Apocalyptic Tableau</title>
+      <link>https://blog.rinesi.com/2024/11/apocalyptic-tableau</link>
+      <description>在一个黑暗暴风雨的夜晚，一群人在云层般的豪宅中躲避着大气热力学的无情报复。豪宅内，那些创造神似幻象的人预言着一切事物的终结，并为此筹资。他们的疯狂感染了世界脆弱的头脑，孕育着新生的恐怖。豪宅内的人既充满希望又恐惧，而外界的人则恐惧着未表达的希望。</description>
+      <pubDate>2024-11-04 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>4 tips when getting started with Hotwire</title>
       <link>https://thoughtbot.com/blog/4-tips-when-getting-started-with-hotwire</link>
       <description>Hotwire与Rails结合使用时，以下四点建议有助于入门：1. 初始阶段忽略Hotwire，先使用常规Rails资源；2. 以RESTful方式构建资源，便于代码复用；3. 使用dom_id确保ID一致性；4. 可视化Turbo-frames以理解其嵌套和交互。</description>
