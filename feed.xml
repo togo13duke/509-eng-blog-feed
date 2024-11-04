@@ -6,6 +6,104 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Moving from idea to action with Confluence and Jira</title>
+      <link>https://www.atlassian.com/blog/confluence/moving-from-idea-to-action-with-confluence-and-jira</link>
+      <description>使用Confluence和Jira的集成，团队可以从规划到执行更高效地过渡。通过消除手动任务和减少工具间的切换，这些工具的整合简化了工作流程，加速了项目交付。</description>
+      <pubDate>2024-11-04 19:37:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Claude 3.5 Haiku</title>
+      <link>https://simonwillison.net/2024/Nov/4/haiku/#atom-entries</link>
+      <description>Anthropic发布了一款名为Claude 3.5 Haiku的新模型，其价格和功能有所调整。与之前的版本相比，3.5 Haiku不支持图像输入，且价格更高。同时，作者更新了插件以支持新模型，并提供了价格比较表格。</description>
+      <pubDate>2024-11-04 19:34:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing GitHub Copilot in Data Wrangler</title>
+      <link>https://devblogs.microsoft.com/python/announcing-github-copilot-in-data-wrangler/</link>
+      <description>GitHub Copilot与Data Wrangler的集成，允许用户使用自然语言进行数据清洗和转换，并帮助修复数据转换代码中的错误。此功能通过提供数据上下文，使生成的代码更相关和具体，并允许用户在Data Wrangler界面中预览代码行为。</description>
+      <pubDate>2024-11-04 19:02:04</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: AWS Lambda, Amazon Bedrock, Amazon Redshift, Amazon CloudWatch, and more (Nov 4, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-amazon-bedrock-amazon-redshift-amazon-cloudwatch-and-more-nov-4-2024/</link>
+      <description>AWS在2024年11月4日发布了多项新功能，包括增强Lambda应用开发体验、AWS Amplify与Amazon S3集成、支持AWS Fault Injection Service、自动构建重试、新的安全组共享功能、数据访问工具扩展、Amazon Q开发者内联聊天、Meta的Llama 3.1模型在Amazon Bedrock中的微调、成本规划、节省和跟踪新功能、Amazon Redshift与Amazon Bedrock集成、自动复制功能、增量刷新、无服务器功能、CSV结果格式支持、Amazon CloudWatch的新监控指标等。</description>
+      <pubDate>2024-11-04 17:40:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Research roadmap update: November 2024</title>
+      <link>https://stackoverflow.blog/2024/11/04/research-roadmap-update-november-2024/</link>
+      <description>Stack Overflow的用户体验团队将在下一个季度进行的研究更新，重点关注解决社区独特挑战和提升用户体验。研究将探索动机、激励和游戏化，以及内容形式和持久性等问题，旨在通过深入了解用户需求，改进Stack Overflow的功能和游戏化系统。</description>
+      <pubDate>2024-11-04 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Desktop 4.35: Organization Access Tokens, Docker Home, Volumes Export, and Terminal in Docker Desktop</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-35/</link>
+      <description>Docker Desktop 4.35版本引入了多项新功能，包括组织访问令牌（Beta）、Docker Home（Beta）、终端（GA）、卷导出（GA）和针对macOS的性能改进。这些更新旨在提高安全性、简化开发流程并增强用户体验，同时支持Red Hat Enterprise Linux用户。新功能包括集中式用户管理、统一的Docker产品访问、集成终端和增强的卷备份能力，旨在提升开发效率和安全性。</description>
+      <pubDate>2024-11-04 16:51:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Perplexity will show live US election results despite AI accuracy warnings</title>
+      <link>https://arstechnica.com/ai/2024/11/perplexity-will-show-live-us-election-results-despite-ai-accuracy-warnings/</link>
+      <description>Perplexity推出了一项基于AP和Democracy Works数据的2024年美国大选信息中心，提供实时更新和投票信息。尽管存在AI准确性的担忧，Perplexity成为少数提供选举信息的AI搜索引擎之一。然而，由于AI模型可能产生错误信息，用户应谨慎对待Perplexity提供的信息，并验证其准确性。</description>
+      <pubDate>2024-11-04 15:52:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Maximizing Docker Desktop: How Signing In Unlocks Advanced Features</title>
+      <link>https://www.docker.com/blog/maximizing-docker-desktop/</link>
+      <description>Docker Desktop登录可解锁高级功能，包括私有仓库访问、提高拉取速率、Docker Scout安全洞察、Build Cloud和Testcontainers Cloud测试资源。登录后，开发者可利用Docker统一平台，提高生产力、加强供应链安全和遵守治理政策。不同订阅计划提供不同功能，如无限拉取速率、基础镜像推荐、同步文件共享等。管理员可利用登录功能加强安全治理、跟踪使用情况并优化团队性能。</description>
+      <pubDate>2024-11-04 14:25:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Using AI Tools to Convert a PDF into Images</title>
+      <link>https://www.docker.com/blog/using-ai-tools-to-convert-a-pdf-into-images/</link>
+      <description>使用AI工具将PDF转换为图像：本文探讨了如何利用AI工具和Docker将PDF文件转换为图像。通过使用ImageMagick和Docker容器，可以轻松实现这一转换，同时介绍了工具的安装和使用方法。文章还讨论了工具生态系统的构建和自动生成工具接口的重要性。</description>
+      <pubDate>2024-11-04 14:01:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking Faster Insights: How Cloudera and Cohere can deliver Smarter Document Analysis</title>
+      <link>https://blog.cloudera.com/unlocking-faster-insights-how-cloudera-and-cohere-can-deliver-smarter-document-analysis/</link>
+      <description>Cloudera发布了一款新的机器学习加速器，用于PDF文档分析，利用Cohere的Command R大型语言模型和Facebook的FAISS技术，简化了文档分析过程。这项技术可应用于法律、市场、科学等领域，帮助企业快速提取大量文本中的洞察。</description>
+      <pubDate>2024-11-04 14:00:20</pubDate>
+    </item>
+  
+    <item>
+      <title>Variables in Python: Usage and Best Practices</title>
+      <link>https://realpython.com/python-variables/</link>
+      <description>本文介绍了Python中变量的使用和最佳实践。变量是Python程序的基本构建块，用于存储和引用数据。文章详细解释了如何创建变量、动态更改数据类型、使用变量进行计算和操作，以及遵循变量命名的规则和最佳实践。此外，还探讨了变量的作用域、类型提示和删除变量的方法。通过学习这些内容，开发者可以编写更清晰、可读性和可维护的代码。</description>
+      <pubDate>2024-11-04 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SwiftUI Self-Sizing Flow Layouts</title>
+      <link>https://useyourloaf.com/blog/swiftui-self-sizing-flow-layouts/</link>
+      <description>SwiftUI中的自适应用户界面布局允许开发者创建灵活的网格布局，类似于UICollectionView的布局。通过实现Layout协议，可以自定义布局逻辑，如计算视图大小和位置。文章详细介绍了如何使用SwiftUI创建一个卡片布局，包括计算卡片大小、适应不同屏幕尺寸和内容变化，以及如何将布局应用于视图。</description>
+      <pubDate>2024-11-04 13:26:41</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: CRISPR’s climate promises, and protecting forests with tech</title>
+      <link>https://www.technologyreview.com/2024/11/04/1106592/the-download-crisprs-climate-promises-and-protecting-forests-with-tech/</link>
+      <description>CRISPR技术有望帮助应对气候变化，通过改良作物和动物适应极端气候条件。同时，德国的“数字森林管理员”利用高科技保护森林，应对气候变化带来的挑战。</description>
+      <pubDate>2024-11-04 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Is the Backlog Getting Too Big? Here’s What to Cut!</title>
+      <link>https://spin.atomicobject.com/the-backlog-is-getting-too-big/</link>
+      <description>文章探讨了如何管理软件开发团队中的待办事项列表（backlog），指出当团队在三个月内无法将待办事项清零时，说明待办事项过多。建议通过规划文档记录重要工作，并定期审查待办事项，去除非优先事项和低价值工作，以保持待办事项的清晰和高效。</description>
+      <pubDate>2024-11-04 13:00:15</pubDate>
+    </item>
+  
+    <item>
       <title>Everything You Need to Know as a Social Media Content Creator</title>
       <link>https://s14415.pcdn.co/blog/social-media-content-creator/</link>
       <description>作为社交媒体内容创作者，了解如何成功至关重要。本文探讨了内容创作者的定义、需求、如何开始以及如何制作吸引人的内容。关键在于理解受众需求，掌握不同平台的内容类型，并利用合适的工具提升内容质量。</description>
@@ -65,6 +163,13 @@
       <title>4 tips when getting started with Hotwire</title>
       <link>https://thoughtbot.com/blog/4-tips-when-getting-started-with-hotwire</link>
       <description>Hotwire与Rails结合使用时，以下四点建议有助于入门：1. 初始阶段忽略Hotwire，先使用常规Rails资源；2. 以RESTful方式构建资源，便于代码复用；3. 使用dom_id确保ID一致性；4. 可视化Turbo-frames以理解其嵌套和交互。</description>
+      <pubDate>2024-11-04 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a legacy: The art of crafting maintainable systems</title>
+      <link>https://www.elastic.co/blog/legacy-systems-maintenance</link>
+      <description>软件维护是构建可维护系统的重要方面。文章建议通过遵循代码规范、限制新技术引入、编写测试、记录文档和妥善管理敏感信息来提高代码的可读性和可预测性，从而简化维护工作。</description>
       <pubDate>2024-11-04 00:00:00</pubDate>
     </item>
   
