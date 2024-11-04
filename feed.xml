@@ -6,10 +6,52 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Everything You Need to Know as a Social Media Content Creator</title>
+      <link>https://s14415.pcdn.co/blog/social-media-content-creator/</link>
+      <description>作为社交媒体内容创作者，了解如何成功至关重要。本文探讨了内容创作者的定义、需求、如何开始以及如何制作吸引人的内容。关键在于理解受众需求，掌握不同平台的内容类型，并利用合适的工具提升内容质量。</description>
+      <pubDate>2024-11-04 11:38:06</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create an AI-Powered Newsletter Aggregator with React and AI Agents</title>
+      <link>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</link>
+      <description>本教程介绍了如何使用React和KaibanJS构建一个AI驱动的新闻聚合器。通过设置多个AI代理，可以自动化从各种新闻通讯中抓取文章、根据兴趣过滤内容，并在JavaScript环境中聚合所有内容的过程。KaibanJS利用AI代理处理流程的每个步骤，只需10分钟即可快速设置，为开发者提供强大的工具。教程还涵盖了AI代理的工作原理、如何创建自定义UI以及如何使用React进行可视化。</description>
+      <pubDate>2024-11-04 11:12:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Join the GeoTAM hackathon to work out business turnovers!</title>
+      <link>https://blog.rtwilson.com/join-the-geotam-hackathon-to-work-out-business-turnovers/</link>
+      <description>参加GeoTAM黑客马拉松，利用开放数据估算英国各商业地点的营业额，有机会赢取高达2000英镑的奖金。活动从11月20日至26日，提供数据集和交流平台，欢迎个人或团队参与。</description>
+      <pubDate>2024-11-04 11:04:20</pubDate>
+    </item>
+  
+    <item>
       <title>Get started with OpenShift APIs for data protection</title>
       <link>https://developers.redhat.com/articles/2024/11/04/get-started-openshift-apis-data-protection</link>
       <description>本文介绍了如何使用OpenShift API进行数据保护。通过OpenShift API，用户可以备份和恢复Red Hat OpenShift集群中的工作负载，包括持久卷。本文以一个简单的数据库应用为例，演示了如何创建备份并在删除命名空间后进行恢复。文章详细介绍了安装OpenShift Data Foundation、配置备份存储以及使用Velero CLI进行备份和恢复的步骤。</description>
       <pubDate>2024-11-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Gainsight leverages human connection and AI in customer success</title>
+      <link>https://www.surveymonkey.com/curiosity/leveraging-ai-customer-engagement/?ut_source=rss</link>
+      <description>Gainsight通过结合人工智能和人类互动，重新定义了客户成功。公司利用AI来增强对客户需求的深入理解，同时通过多种社区策略建立真正的客户参与。这种平衡结构化和非结构化互动的方法，确保了Gainsight能够捕捉数据驱动的见解和真实的人类视角，从而更全面地了解客户需求和体验。</description>
+      <pubDate>2024-11-04 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to (not) reset a form after a Server Action in React</title>
+      <link>https://www.robinwieruch.de/react-server-action-reset-form/</link>
+      <description>在React中，处理表单提交后是否重置表单是一个常见问题。默认情况下，表单在提交后会自动重置，无论提交成功与否。然而，如果服务器操作失败，通常需要保留表单数据以便用户可以更正错误。本文通过一个Next.js示例，展示了如何通过在服务器操作中返回表单数据并在失败时使用这些数据来保持表单状态，从而在服务器操作失败时避免表单重置。</description>
+      <pubDate>2024-11-04 06:50:46</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: A Matter of Understanding</title>
+      <link>https://thedailywtf.com/articles/a-matter-of-understanding</link>
+      <description>这篇文章讲述了作者Remy Porter对一位同事编程方式的批评。这位同事依赖Google搜索来解决问题，不理解代码的工作原理，只是简单地复制粘贴。文章以一个具体的例子说明这位同事如何使用StringBuffer构建SQL查询，错误地使用WITH子句，并最终导致代码无法正常工作。作者指出，这种编程方式最终导致了非功能性代码的提交，并强调了代码审查和团队协作的重要性。</description>
+      <pubDate>2024-11-04 06:30:00</pubDate>
     </item>
   
     <item>
