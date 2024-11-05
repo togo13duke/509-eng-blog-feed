@@ -6,6 +6,48 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How Google is helping developers get better answers from AI</title>
+      <link>https://stackoverflow.blog/2024/11/05/how-google-is-helping-developers-get-better-answers-from-ai/</link>
+      <description>Google通过其新功能“Grounding with Google Search”帮助开发者从AI模型中获得更准确、更新的答案，该功能通过Google搜索增强Gemini模型。Logan Kilpatrick，Google高级产品经理，分享了他从软件工程到机器学习再到产品管理的经历，强调减少开发者摩擦的重要性。</description>
+      <pubDate>2024-11-05 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Are SDKs Still Relevant In The AI Age?</title>
+      <link>https://nordicapis.com/are-sdks-still-relevant-in-the-ai-age/</link>
+      <description>在人工智能时代，SDKs（软件开发工具包）仍然至关重要。尽管AI工具如Copilot和ChatGPT的出现改变了开发方式，但SDKs提供了丰富的工具和资源，有助于开发者更高效地创建和集成应用程序。SDKs不仅简化了集成过程，还提供了预构建解决方案和社区支持，对于确保安全性和提高开发效率至关重要。因此，在AI时代，SDKs与AI工具共同存在，互为补充，对于开发者和API提供商来说都至关重要。</description>
+      <pubDate>2024-11-05 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Image mode for RHEL: 4 key use cases for streamlining your OS</title>
+      <link>https://developers.redhat.com/articles/2024/11/05/image-mode-rhel-4-key-use-cases-streamlining-your-os</link>
+      <description>RHEL的Image模式旨在简化操作系统的部署和维护。本文探讨了四个关键用例，包括单应用系统、容器主机、边缘设备和AI/ML堆栈，展示了如何通过Image模式简化操作系统及其操作，提高效率和可靠性。</description>
+      <pubDate>2024-11-05 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ruby 3.3.6 Released</title>
+      <link>https://www.ruby-lang.org/en/news/2024/11/05/ruby-3-3-6-released/</link>
+      <description>Ruby 3.3.6版本发布，包含小范围错误修复，并停止警告缺失的默认gem依赖。预计每两个月发布一次新版本，下个版本预计1月7日发布。下载链接和SHA校验值提供。感谢社区成员的贡献。</description>
+      <pubDate>2024-11-05 04:25:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How we name things</title>
+      <link>https://blog.replit.com/how-we-name-things</link>
+      <description>在为产品、功能或公司命名时，应遵循三个核心原则：选择与品牌相辅相成的名字，使用现实而非幻想的名字，以及专注于易于记忆而非令人愉悦的名字。这些原则有助于建立品牌，并确保用户对产品有清晰的理解和期望。</description>
+      <pubDate>2024-11-05 00:12:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Kill your core: The banking revolution you didn't see coming</title>
+      <link>https://www.thoughtworks.com/insights/blog/legacy-modernization/kill-your-core</link>
+      <description>银行革命：无核心银行架构引领创新</description>
+      <pubDate>2024-11-05 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>New Zemeckis film used AI to de-age Tom Hanks and Robin Wright</title>
       <link>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</link>
       <description>《Here》电影利用AI技术让汤姆·汉克斯和罗宾·怀特返老还童，跨越60年展现不同年龄。这种实时面部变换技术由Metaphysic公司开发，通过训练机器学习模型实现，无需传统CGI的繁琐后期制作。这一技术引发了行业对AI在电影制作中应用的讨论。</description>
