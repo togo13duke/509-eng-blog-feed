@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Collective #878</title>
+      <link>https://tympanus.net/codrops/collective/collective-878/</link>
+      <description>JavaScript应否分为两种语言引发讨论，Google提议将JavaScript分为稳定核心和高级层，引发开发者对工具依赖增加和原生功能集减少的担忧。同时，文章还探讨了优化Web性能、设计工程学科的发展、ArchiveBox的重大更新以及如何缩小JavaScript monorepo的git大小等话题。</description>
+      <pubDate>2024-11-05 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Defining Python dependencies at the top of the file</title>
+      <link>https://akrabat.com/defining-python-dependencies-at-the-top-of-the-file/</link>
+      <description>在Python脚本中，Rob Allen介绍了如何使用PEP 723规范在文件顶部定义依赖项，简化了安装过程。通过添加特殊注释块，可以指定Python版本和依赖包，如flickrapi。使用uv工具运行脚本时，它会自动安装这些依赖，无需手动创建虚拟环境。这种方法提高了脚本的可移植性和便捷性。</description>
+      <pubDate>2024-11-05 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How ChatGPT search paves the way for AI agents</title>
+      <link>https://www.technologyreview.com/2024/11/05/1106603/how-chatgpt-search-paves-the-way-for-ai-agents/</link>
+      <description>OpenAI的ChatGPT搜索功能为AI代理的发展铺平了道路。这些代理能够完成复杂任务，如预订航班，并深入了解用户偏好。OpenAI正致力于构建自己的代理，同时允许开发者使用其软件创建自己的代理。然而，要实现这一目标，需要克服推理和工具使用等挑战。</description>
+      <pubDate>2024-11-05 10:58:48</pubDate>
+    </item>
+  
+    <item>
       <title>How Google is helping developers get better answers from AI</title>
       <link>https://stackoverflow.blog/2024/11/05/how-google-is-helping-developers-get-better-answers-from-ai/</link>
       <description>Google通过其新功能“Grounding with Google Search”帮助开发者从AI模型中获得更准确、更新的答案，该功能通过Google搜索增强Gemini模型。Logan Kilpatrick，Google高级产品经理，分享了他从软件工程到机器学习再到产品管理的经历，强调减少开发者摩擦的重要性。</description>
