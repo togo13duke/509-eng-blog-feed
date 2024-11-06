@@ -6,10 +6,87 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Corning faces antitrust actions for its Gorilla Glass dominance</title>
+      <link>https://arstechnica.com/information-technology/2024/11/corning-faces-antitrust-actions-for-its-gorilla-glass-dominance/</link>
+      <description>美国玻璃制造商康宁因其Gorilla Glass在智能手机屏幕市场的垄断地位面临反垄断调查。欧盟委员会指控康宁通过限制性协议和许可，要求设备制造商几乎全部使用其玻璃产品，并奖励那些同意这一条件的制造商。此外，康宁还被指控对制造商施加压力，要求他们报告竞争对手的报价，并限制他们不挑战康宁的专利。</description>
+      <pubDate>2024-11-06 19:25:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing the last cohort of AWS Heroes this year – November 2024</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-the-last-cohort-of-aws-heroes-this-year-november-2024/</link>
+      <description>2024年11月，AWS宣布了新一届AWS英雄成员，他们展示了在AWS技术领域的专业知识和对知识分享的承诺。这些英雄包括来自不同国家和行业的专家，他们在机器学习、社区建设、云计算等方面做出了显著贡献。AWS英雄项目旨在表彰这些在AWS社区中发挥积极作用的人士。</description>
+      <pubDate>2024-11-06 18:45:23</pubDate>
+    </item>
+  
+    <item>
+      <title>The US is about to make a sharp turn on climate policy</title>
+      <link>https://www.technologyreview.com/2024/11/06/1106684/us-election-trump/</link>
+      <description>美国气候变化政策将面临重大转变。拜登政府致力于减排和投资绿色能源，但特朗普回归可能导致政策逆转，增加温室气体排放，威胁全球气候目标。</description>
+      <pubDate>2024-11-06 16:29:33</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #91: Roller coasters</title>
+      <link>https://www.bambooweekly.com/bw-91-roller-coasters/</link>
+      <description>本周数据来自RCDB，分析全球过山车数据，涉及数据抓取、清洗、文本编码、连接、链式方法和交叉表。下周将提供解决方案，包括Jupyter笔记本下载。</description>
+      <pubDate>2024-11-06 16:00:53</pubDate>
+    </item>
+  
+    <item>
+      <title>Get Started with Modern AppExchange Development</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/get-started-with-modern-appexchange-development.html</link>
+      <description>本文为Salesforce开发者博客文章，旨在为AppExchange开发者提供现代AppExchange开发的指导。文章详细介绍了现代AppExchange开发流程，包括使用第二代管理包、Dev Hub、Salesforce DX项目等，并提供了关于命名空间、环境中心、版本发布、继承关系和资源等关键指南。文章强调，了解这些概念对于建立强大的DevOps流程至关重要。</description>
+      <pubDate>2024-11-06 16:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Reset a pandas DataFrame Index</title>
+      <link>https://realpython.com/pandas-reset-index/</link>
+      <description>本教程介绍了如何重置pandas DataFrame的索引，包括使用`.reset_index()`方法、直接使用`.index`属性或`.set_axis()`方法。文章详细解释了重置索引的原因、可能遇到的问题以及如何避免它们。此外，还讨论了如何使用PyArrow库优化数据类型，并提供了实际操作示例，帮助读者更好地理解和应用这些概念。</description>
+      <pubDate>2024-11-06 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Delivering the next-generation barcode</title>
+      <link>https://www.technologyreview.com/2024/11/06/1106388/delivering-the-next-generation-barcode/</link>
+      <description>下一代条形码技术正推动现代商业的变革，2D条形码能够存储更多信息，连接实体物品与数字资源，为消费者提供产品信息，并帮助企业提高效率和可追溯性。实现这一潜力需要企业间的合作和数据标准。</description>
+      <pubDate>2024-11-06 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Create an Organic Text Distortion Effect with Infinite Scrolling</title>
+      <link>https://tympanus.net/codrops/2024/11/06/how-to-create-an-organic-text-distortion-effect-with-infinite-scrolling/</link>
+      <description>本文介绍了如何使用JavaScript和CSS创建一个有机文本扭曲效果，该效果通过无限滚动响应，使文本呈现出波浪般的动态运动。作者详细解释了如何通过HTML、CSS和JavaScript代码实现这一效果，包括文本分割、样式设置和动画处理。</description>
+      <pubDate>2024-11-06 13:48:44</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: ice-melting robots, and genetically modified trees</title>
+      <link>https://www.technologyreview.com/2024/11/06/1106677/the-download-ice-melting-robots-and-genetically-modified-trees/</link>
+      <description>MIT Technology Review最新报道了NASA的欧罗巴快船任务，旨在探索木卫二可能存在的生命迹象。同时，介绍了美国栗树通过基因改造重生的可能性，以及中国计划撞击小行星的太空计划。</description>
+      <pubDate>2024-11-06 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Learn to Trust Your Instincts as a New Developer</title>
+      <link>https://spin.atomicobject.com/instincts-new-developer/</link>
+      <description>作为新开发者，学会信任自己的直觉至关重要。即使缺乏经验，对任务的直觉反应，如感到“这比应该的要难”，可能是识别问题的重要信号。认识到不效率或挫败感是找到更好做事方式的第一步。通过信任直觉并寻求帮助，开发者可以更快地成长。</description>
+      <pubDate>2024-11-06 13:00:55</pubDate>
+    </item>
+  
+    <item>
       <title>Prometheus Pushgateway: How to Track Short-Lived Jobs</title>
       <link>https://last9.io/blog/prometheus-pushgateway/</link>
       <description>Prometheus Pushgateway是一个用于跟踪短期作业的监控工具，它允许短期作业通过HTTP请求将指标推送到临时存储，直到Prometheus收集它们。Pushgateway适用于cron作业、Python脚本、Java应用程序等，确保即使短期作业也能记录数据，提高监控系统的可见性。配置Pushgateway简单，只需安装并配置Prometheus以从Pushgateway抓取指标即可。</description>
       <pubDate>2024-11-06 10:57:52</pubDate>
+    </item>
+  
+    <item>
+      <title>TikTok for business: Boosting your brand’s growth and reach</title>
+      <link>https://s14415.pcdn.co/blog/tiktok-for-business/</link>
+      <description>TikTok成为品牌增长和拓展的重要平台，尤其适合年轻受众。本文详细介绍了如何设置TikTok商业账户，创建吸引人的内容，利用算法和广告选项来提升品牌影响力。通过了解TikTok用户行为和趋势，品牌可以更有效地在平台上进行营销。</description>
+      <pubDate>2024-11-06 10:02:44</pubDate>
     </item>
   
     <item>
@@ -27,10 +104,24 @@
     </item>
   
     <item>
+      <title>eBay for Charity Co-hosts 8th Celebrity Auction to Build Adapted Homes for Injured Veterans</title>
+      <link>https://www.ebayinc.com/stories/news/ebay-for-charity-co-hosts-8th-celebrity-auction-to-build-adapted-homes-for-injured-veterans/</link>
+      <description>eBay for Charity与Homes For Our Troops合作举办第八届名人拍卖会，为受伤退伍军人建造适应性住宅。此次拍卖包括与名人的独家体验和签名纪念品，所有收益将直接支持HFOT的工作。活动于2024年11月11日至21日在线上进行，旨在提高对严重受伤退伍军人生活质量的关注和支持。</description>
+      <pubDate>2024-11-06 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Simplifying cluster security: RHACS in RHACM global hub</title>
       <link>https://developers.redhat.com/articles/2024/11/06/simplifying-cluster-security-rhacs-rhacm-global-hub</link>
       <description>Red Hat Advanced Cluster Management (RHACM)简化了集群安全管理，通过多集群全局中心，用户可从单一界面管理多个RHACM集群。结合Red Hat Advanced Cluster Security (RHACS)，该集成提供集中化的安全指标视图，增强跨所有管理集群的安全可观察性，并简化大规模OpenShift集群的管理。</description>
       <pubDate>2024-11-06 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Uniquely Validated</title>
+      <link>https://thedailywtf.com/articles/uniquely-validated</link>
+      <description>程序员常常误解UUID的工作原理，错误地将其作为人类可读的字符串处理，实际上它只是一个大整数。文章指出，一个UUID验证示例中存在缺陷，它接受任何36字符的字符串，而不仅仅是有效的UUID。这种验证方式既不区分输入是缺失还是无效，也不区分输入是否真的符合UUID格式，导致用户难以理解其输入为何被拒绝。</description>
+      <pubDate>2024-11-06 06:30:00</pubDate>
     </item>
   
     <item>
@@ -44,6 +135,34 @@
       <title>Implementing interactive floating windows using Picture-in-Picture API</title>
       <link>https://www.amitmerchant.com/implementing-interactive-floating-windows-using-picture-in-picture-api/</link>
       <description>本文介绍了如何使用Picture-in-Picture API实现交互式浮动窗口。作者通过在HTML页面中嵌入任何部分到浮动窗口，实现了在观看视频的同时，可以方便地在页面的其他部分进行操作。文章详细描述了实现过程，包括创建浮动窗口、处理空白屏幕问题以及将内容放回父窗口等步骤。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Managing Elasticsearch just got easier, a LOT easier.</title>
+      <link>https://www.elastic.co/blog/autoops-for-elasticsearch</link>
+      <description>Elasticsearch管理变得更加简单，Elastic Cloud用户现在可以免费使用AutoOps，这是一个集成的监控和管理产品，可简化集群管理并提供性能建议、资源利用和成本洞察。AutoOps通过实时问题检测和解决路径，帮助用户减少管理时间，优化资源利用，并提高Elasticsearch的运行效率。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Solutions architecture combines Shabrina Sangwan’s 2 favorite things: Tech and talking</title>
+      <link>https://www.elastic.co/blog/culture-solutions-architecture-at-elastic</link>
+      <description>Shabrina Sangwan是一位解决方案架构师，她热爱技术和与人交流。她在电气工程硕士毕业后进入解决方案架构领域，现在在Elastic公司担任高级经理。她的工作涉及与客户合作，确保产品满足技术需求，并推荐解决方案。Shabrina强调团队合作和包容性，并鼓励科技领域的专业人士追求自己的兴趣，勇于尝试新机会。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Big Ball of Mud –&nbsp;the world's most popular software architecture</title>
+      <link>https://swizec.com/blog/big-ball-of-mud-the-worlds-most-popular-software-architecture/</link>
+      <description>《Big Ball of Mud》一文探讨了软件架构中的常见模式，指出在项目初期，架构可能会拖慢进度，但随着项目发展，缺乏架构同样会阻碍进度。文章提出了七种实际存在的架构模式，包括Big Ball of Mud、Throwaway Code、Piecemeal Growth等，并强调这些模式并非坏事，而是软件开发过程中的自然产物。作者认为，通过迭代和用户反馈，可以逐步完善架构，而不是一开始就追求完美的顶层设计。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Loading data into Redshift with DBT</title>
+      <link>https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html</link>
+      <description>Yelp通过使用DBT和AWS Redshift Spectrum，提高了数据加载到Redshift的效率。这种方法简化了数据加载流程，减少了数据质量问题和开发者的工作量。通过DBT，Yelp能够更轻松地处理模式变更、回填和去重，同时显著提高了性能，将数据加载时间从2小时缩短到10分钟。</description>
       <pubDate>2024-11-06 00:00:00</pubDate>
     </item>
   
@@ -373,6 +492,13 @@
       <title>Everything You Need to Know as a Social Media Content Creator</title>
       <link>https://s14415.pcdn.co/blog/social-media-content-creator/</link>
       <description>作为社交媒体内容创作者，了解如何成功至关重要。本文探讨了内容创作者的定义、需求、如何开始以及如何制作吸引人的内容。关键在于理解受众需求，掌握不同平台的内容类型，并利用合适的工具提升内容质量。</description>
+      <pubDate>2024-11-04 11:38:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Everything You Need to Know as a Social Media Content Creator</title>
+      <link>https://www.brandwatch.com/blog/social-media-content-creator/</link>
+      <description>作为社交媒体内容创作者，了解如何成功至关重要。本文探讨了内容创作者的定义、需求、如何开始以及如何制作吸引人的内容。它强调了理解受众、选择合适的平台和内容类型、使用合适的工具以及与品牌或个人目标保持一致的重要性。</description>
       <pubDate>2024-11-04 11:38:06</pubDate>
     </item>
   
