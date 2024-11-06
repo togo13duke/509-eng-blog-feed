@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Prometheus Pushgateway: How to Track Short-Lived Jobs</title>
+      <link>https://last9.io/blog/prometheus-pushgateway/</link>
+      <description>Prometheus Pushgateway是一个用于跟踪短期作业的监控工具，它允许短期作业通过HTTP请求将指标推送到临时存储，直到Prometheus收集它们。Pushgateway适用于cron作业、Python脚本、Java应用程序等，确保即使短期作业也能记录数据，提高监控系统的可见性。配置Pushgateway简单，只需安装并配置Prometheus以从Pushgateway抓取指标即可。</description>
+      <pubDate>2024-11-06 10:57:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Life-seeking, ice-melting robots could punch through Europa’s icy shell</title>
+      <link>https://www.technologyreview.com/2024/11/06/1106641/life-seeking-ice-melting-robots-could-punch-through-europas-icy-shell/</link>
+      <description>科学家正在研发能够穿透木卫二冰层寻找生命的机器人，这些机器人将帮助NASA的欧罗巴快艇任务探索木卫二海洋。这些机器人可能包括一个着陆器、一个自主融冰机器人和一种自导航潜水器。这些机器人的原型将在地球的寒冷环境中进行测试，以验证其技术可行性。如果测试成功，这些机器人可能成为发现外星生命的第一手证据。</description>
+      <pubDate>2024-11-06 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>7 Takeaways from the State of the API 2024 Report</title>
       <link>https://nordicapis.com/7-takeaways-from-the-state-of-the-api-2024-report/</link>
       <description>2024年API行业报告揭示了API行业的关键趋势：API-first策略的兴起，API网关的多样化，API货币化增长，AI推动API增长，全球API增长，API用户多样化，以及API安全的重要性。API已成为推动技术发展的关键，企业应重视API的普及和安全性。</description>
