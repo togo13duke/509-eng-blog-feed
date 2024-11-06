@@ -6,10 +6,31 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>7 Takeaways from the State of the API 2024 Report</title>
+      <link>https://nordicapis.com/7-takeaways-from-the-state-of-the-api-2024-report/</link>
+      <description>2024年API行业报告揭示了API行业的关键趋势：API-first策略的兴起，API网关的多样化，API货币化增长，AI推动API增长，全球API增长，API用户多样化，以及API安全的重要性。API已成为推动技术发展的关键，企业应重视API的普及和安全性。</description>
+      <pubDate>2024-11-06 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Simplifying cluster security: RHACS in RHACM global hub</title>
+      <link>https://developers.redhat.com/articles/2024/11/06/simplifying-cluster-security-rhacs-rhacm-global-hub</link>
+      <description>Red Hat Advanced Cluster Management (RHACM)简化了集群安全管理，通过多集群全局中心，用户可从单一界面管理多个RHACM集群。结合Red Hat Advanced Cluster Security (RHACS)，该集成提供集中化的安全指标视图，增强跨所有管理集群的安全可观察性，并简化大规模OpenShift集群的管理。</description>
+      <pubDate>2024-11-06 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Entity extraction using OpenAI structured outputs mode</title>
       <link>http://blog.pamelafox.org/2024/11/entity-extraction-using-openai.html</link>
       <description>本文介绍了如何使用OpenAI的gpt-4o模型进行实体提取。通过定义对象模式，模型可以生成符合该模式的响应。文章通过示例展示了如何从GitHub README、PDF和图像中提取关键信息，并使用Pydantic模型进行验证。此外，还强调了在使用大型语言模型进行业务关键任务时，评估输出准确性的重要性。</description>
       <pubDate>2024-11-06 00:09:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Implementing interactive floating windows using Picture-in-Picture API</title>
+      <link>https://www.amitmerchant.com/implementing-interactive-floating-windows-using-picture-in-picture-api/</link>
+      <description>本文介绍了如何使用Picture-in-Picture API实现交互式浮动窗口。作者通过在HTML页面中嵌入任何部分到浮动窗口，实现了在观看视频的同时，可以方便地在页面的其他部分进行操作。文章详细描述了实现过程，包括创建浮动窗口、处理空白屏幕问题以及将内容放回父窗口等步骤。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
     </item>
   
     <item>
