@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Entity extraction using OpenAI structured outputs mode</title>
+      <link>http://blog.pamelafox.org/2024/11/entity-extraction-using-openai.html</link>
+      <description>本文介绍了如何使用OpenAI的gpt-4o模型进行实体提取。通过定义对象模式，模型可以生成符合该模式的响应。文章通过示例展示了如何从GitHub README、PDF和图像中提取关键信息，并使用Pydantic模型进行验证。此外，还强调了在使用大型语言模型进行业务关键任务时，评估输出准确性的重要性。</description>
+      <pubDate>2024-11-06 00:09:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Anthropic’s Haiku 3.5 surprises experts with an “intelligence” price increase</title>
+      <link>https://arstechnica.com/ai/2024/11/anthropic-raises-eyebrows-with-haiku-price-hike-citing-increased-intelligence/</link>
+      <description>Anthropic推出最新AI模型Claude 3.5 Haiku，其运行成本是前代模型的四倍。尽管价格上升，但该模型在某些任务上超越了旧旗舰模型Opus。新模型在文本输出和训练数据方面有所改进，但无法分析图像。尽管价格较高，但Anthropic认为其智能水平有所提升。</description>
+      <pubDate>2024-11-05 22:50:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Suspect arrested in Snowflake data-theft attacks affecting millions</title>
+      <link>https://arstechnica.com/security/2024/11/suspect-arrested-in-snowflake-data-theft-attacks-affecting-millions/</link>
+      <description>加拿大当局逮捕了一名涉嫌入侵云存储提供商Snowflake数百个账户并窃取数百万个人数据的男子。这名嫌疑人名为亚历山大·穆卡（又名康纳·穆卡），据称他利用多年前的信息窃贼软件获取的账户凭证进行了攻击。Snowflake的客户数据在5600万Ticketmaster客户中泄露，导致重大风险。</description>
+      <pubDate>2024-11-05 22:03:42</pubDate>
+    </item>
+  
+    <item>
       <title>Secure remote access to private HTTPS targets with HashiCorp Boundary</title>
       <link>https://www.hashicorp.com/blog/secure-remote-access-to-private-https-targets-with-hashicorp-boundary</link>
       <description>HashiCorp Boundary提供了一种安全远程访问私有HTTPS目标的方法，通过透明会话简化了连接流程。与VPN不同，Boundary不将用户连接到整个网络，而是利用身份提供者（IdP）实现更细粒度的控制。透明会话允许用户无需直接与Boundary交互即可安全连接，通过DNS请求拦截和代理连接，提高了用户体验和安全性。</description>
