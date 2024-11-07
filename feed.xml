@@ -6,6 +6,62 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Project: VERDAD - tracking misinformation in radio broadcasts using Gemini 1.5</title>
+      <link>https://simonwillison.net/2024/Nov/7/project-verdad/#atom-entries</link>
+      <description>Project VERDAD是一个旨在追踪美国广播中错误信息的项目，通过Gemini 1.5等工具分析48个西班牙语广播电台的音频内容，识别潜在的政治错误信息，并利用人工智能和人类审查相结合的方式提高准确性。</description>
+      <pubDate>2024-11-07 18:41:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Atlassian X Figma: Unifying workflows across the product lifecycle</title>
+      <link>https://www.atlassian.com/blog/confluence/atlassian-x-figma-unifying-workflows-across-the-product-lifecycle</link>
+      <description>Atlassian与Figma合作，通过整合平台，帮助团队更有效地协作，简化产品发布流程。该合作通过提供统一的工具集，克服了产品开发生命周期中的常见挑战，如沟通不畅、目标不一致和工作流程中断，从而提高团队协作效率，加快产品上市速度，并提升客户满意度。</description>
+      <pubDate>2024-11-07 18:10:25</pubDate>
+    </item>
+  
+    <item>
+      <title>How Confluence Premium unlocks cross-functional workflows with Jira and Jira Service Management</title>
+      <link>https://www.atlassian.com/blog/confluence/how-confluence-premium-unlocks-cross-functional-workflows-with-jira-and-jira-service-management</link>
+      <description>Atlassian的Confluence Premium通过无缝集成Jira和Jira Service Management，解锁跨职能工作流程，提高团队协作效率。它通过连接项目、任务和知识，简化工作流程，促进跨团队协作，并利用AI自动化任务，实现更高效的团队协作和知识共享。</description>
+      <pubDate>2024-11-07 18:10:06</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s next for reproductive rights in the US</title>
+      <link>https://www.technologyreview.com/2024/11/07/1106743/whats-next-reproductive-rights-us/</link>
+      <description>美国生殖权利的未来面临不确定性，七个州支持堕胎权，但部分州反对。特朗普回归总统职位可能影响堕胎权。1973年确立的堕胎权在2022年被推翻后，多个州实施堕胎禁令，导致数百万美国人失去当地诊所的服务。尽管部分州投票支持堕胎权，但未来仍充满挑战。</description>
+      <pubDate>2024-11-07 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #91: Roller coasters (solution)</title>
+      <link>https://www.bambooweekly.com/bw-91-roller-coasters-copy/</link>
+      <description>本周数据来自RCDB，分析了全球各国的过山车数量。通过Pandas处理RCDB数据，解决了六个问题，包括创建数据框、处理缺失值、识别乱码等。文章详细介绍了数据处理过程，并提供了代码示例。</description>
+      <pubDate>2024-11-07 16:00:58</pubDate>
+    </item>
+  
+    <item>
+      <title>ChatGPT has a new vanity domain name, and it may have cost $15 million</title>
+      <link>https://arstechnica.com/ai/2024/11/multimillion-dollar-domain-chat-com-now-points-to-chatgpt/</link>
+      <description>ChatGPT新域名“chat.com”可能花费了1500万美元，由HubSpot创始人Dharmesh Shah以公司股份形式出售给OpenAI。Shah原本购买此域名是为了推广基于Chat的UX，他认为这是软件的下一个大趋势。OpenAI的这次购买虽然金额巨大，但对于其庞大的资金来说只是小部分。</description>
+      <pubDate>2024-11-07 15:32:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Your B2B SaaS App Just Got Better</title>
+      <link>https://auth0.com/blog/your-b2b-saas-app-just-got-better/</link>
+      <description>Auth0推出面向组织的机器到机器访问功能，使B2B SaaS提供商能够通过API访问控制，实现机器到机器的M2M用例，同时限制对敏感数据的访问。此功能支持客户应用程序在特定组织范围内访问数据，并允许内部应用程序访问任何组织。</description>
+      <pubDate>2024-11-07 15:20:00</pubDate>
+    </item>
+  
+    <item>
+      <title>No code, only natural language: Q&amp;A on prompt engineering with Professor Greg Benson</title>
+      <link>https://stackoverflow.blog/2024/11/07/no-code-only-natural-language-q-and-a-on-prompt-engineering-with-professor-greg-benson/</link>
+      <description>随着大型语言模型（LLM）的发展，自然语言编程（如使用英语编写软件）成为可能。Greg Benson教授讨论了提示工程的优势和局限性，以及LLM在软件生命周期中的作用。虽然LLM可以简化编程任务，但它们也引入了新的挑战，如模型间的差异和不可预测性。此外，LLM的使用可能会改变软件开发者的角色，但人类专家在计算机科学和编程语言领域的需求可能仍然存在。</description>
+      <pubDate>2024-11-07 14:39:18</pubDate>
+    </item>
+  
+    <item>
       <title>PostgreSQL DISTINCT: TimescaleDB’s Skip Scan Under Load</title>
       <link>https://www.timescale.com/blog/skip-scan-under-load/</link>
       <description>TimescaleDB的SkipScan功能显著提升了PostgreSQL中DISTINCT查询的性能，特别是在处理大量时间序列数据时。通过直接跳转到有序索引中的下一个唯一值，SkipScan避免了全索引扫描和后续去重，从而大幅减少了查询时间。在测试中，SkipScan将查询性能提高了10,548倍，使得即使在数据量达到PB级别时，也能实现毫秒级的数据摄入和查询。</description>
@@ -20,10 +76,31 @@
     </item>
   
     <item>
+      <title>A look at the latest post-quantum signature standardization candidates</title>
+      <link>https://blog.cloudflare.com/another-look-at-pq-signatures</link>
+      <description>NIST正在推进14个后量子签名方案进入“签名加速”比赛的第二轮。这些算法旨在抵抗量子计算机的攻击。文章讨论了这些方案在TLS协议中的应用，分析了它们的性能和可行性，并比较了它们与传统算法和已标准化的后量子算法。其中，基于格的ML-DSA和SLH-DSA以及Falcon是较为可行的方案，但Falcon的签名和公钥较大，且实现复杂。文章还探讨了基于状态的状态哈希签名和基于代码的签名方案，并指出NIST希望标准化一个非结构化格的通用签名算法。</description>
+      <pubDate>2024-11-07 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: what Trump’s victory means for the climate</title>
+      <link>https://www.technologyreview.com/2024/11/07/1106733/the-download-what-trumps-victory-means-for-the-climate/</link>
+      <description>特朗普的胜利对气候变化的斗争构成了重大挫折，可能导致美国在气候变化政策上做出急剧转变，放弃之前取得的政策进展，并可能加剧极端天气事件和空气污染带来的健康风险。</description>
+      <pubDate>2024-11-07 13:10:00</pubDate>
+    </item>
+  
+    <item>
       <title>How I Created Abstract Classes in Godot</title>
       <link>https://spin.atomicobject.com/abstract-classes-godot/</link>
       <description>本文介绍了作者在Godot引擎中创建抽象类的过程。作者首先创建了一个“Unit”基类，用于表示可移动游戏单元的基本属性。随后，为了使游戏事件能够识别不同类型的单元，作者扩展了基类并创建了多个子类，同时引入了“get_unit_type”函数来获取单元的具体类型。由于Godot不支持抽象类，作者通过在基类中使用assert语句来模拟抽象类，确保所有子类都实现了必要的函数。这种方法有助于构建可扩展的游戏框架。</description>
       <pubDate>2024-11-07 13:00:30</pubDate>
+    </item>
+  
+    <item>
+      <title>3D x Branding: Shaping a Brand Identity through Dynamic 3D Visuals</title>
+      <link>https://tympanus.net/codrops/2024/11/07/3d-x-branding-shaping-a-brand-identity-through-dynamic-3d-visuals/</link>
+      <description>QuestOne通过“氢圈”这一大胆的3D视觉形象重塑了其品牌身份，以体现其对氢能源创新和可再生能源的承诺。这个设计不仅代表了技术创新，还传达了其减少温室气体排放的更广泛使命。通过与Strichpunkt的合作，QuestOne打造了一个灵活的视觉系统，适用于各种媒体平台，从而巩固了其在可再生能源领域的领导地位。</description>
+      <pubDate>2024-11-07 11:12:26</pubDate>
     </item>
   
     <item>
@@ -66,6 +143,34 @@
       <link>https://thedailywtf.com/articles/one-more-parameter-bro</link>
       <description>程序员Remy Porter在文章中批评了一种不合理的编程实践。他描述了一个包含36个参数的函数，用于保存表单数据到数据库，并指出这种做法导致代码复杂且易于出错。尽管有改进的机会，但开发者为了避免破坏现有系统，选择简单地在函数中添加更多参数，而不是进行重构。</description>
       <pubDate>2024-11-07 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Big Red Cloud partners with GoCardless to streamline payments for accountants and SMEs</title>
+      <link>https://gocardless.com/blog/big-red-cloud-partners-with-gocardless-to-streamline-payments-for-accountants-and-smes/</link>
+      <description>Big Red Cloud与GoCardless合作，将GoCardless的支付功能集成到其平台，以简化会计和中小企业的支付流程。客户可使用直接借记自动收取和核对定期付款，并将在今年晚些时候添加即时银行支付功能，以提供更便捷的一次性支付选项。</description>
+      <pubDate>2024-11-07 05:50:37</pubDate>
+    </item>
+  
+    <item>
+      <title>Google Summer of Code 2024 results</title>
+      <link>https://blog.rust-lang.org/2024/11/07/gsoc-2024-results.html</link>
+      <description>2024年，Rust项目首次参与Google Summer of Code（GSoC），九位贡献者完成了各自的精彩项目。尽管部分项目未完全达成目标，但所有项目均通过最终审查。参与者对GSoC项目表示满意，并从中学习到很多。Rust项目对GSoC的成功表示赞赏，并期待未来再次参与类似项目。</description>
+      <pubDate>2024-11-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimize the cost of storing logs in Elastic Cloud with a hot frozen data tier lifecycle</title>
+      <link>https://www.elastic.co/blog/optimize-logs-cost-hot-frozen-data-tier</link>
+      <description>通过在Elastic Cloud中设置索引生命周期策略，可以将热数据层中的数据转移到成本效益更高的冷冻数据层，从而优化日志存储成本。这种方法允许数据在热层快速检索，而在冷冻层中则可以以较低的成本存储更多数据，从而显著降低总拥有成本。</description>
+      <pubDate>2024-11-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>gccrs: An alternative compiler for Rust</title>
+      <link>https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html</link>
+      <description>gccrs是一个正在开发中的Rust语言替代编译器，旨在为GCC项目添加对Rust语言的支持。该项目始于2014年，由Philip Herron领导，并得到了Open Source Security和Embecosm的支持。gccrs的目标是提供一个与rustc相同行为的编译器选项，同时利用GCC的成熟性和广泛支持。gccrs旨在帮助Rust语言达到更多用户和平台，同时确保不破坏现有的Rust生态系统。</description>
+      <pubDate>2024-11-07 00:00:00</pubDate>
     </item>
   
     <item>
