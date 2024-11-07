@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Trump plans to dismantle Biden AI safeguards after victory</title>
+      <link>https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/</link>
+      <description>特朗普计划在获胜后废除拜登的AI安全措施，并征收GPU进口关税。他打算废除2023年拜登的行政命令，并加强AI芯片和模型的出口管制。特朗普的政策可能影响AI行业的人才招募和计算资源获取。</description>
+      <pubDate>2024-11-06 21:18:39</pubDate>
+    </item>
+  
+    <item>
       <title>Corning faces antitrust actions for its Gorilla Glass dominance</title>
       <link>https://arstechnica.com/information-technology/2024/11/corning-faces-antitrust-actions-for-its-gorilla-glass-dominance/</link>
       <description>美国玻璃制造商康宁因其Gorilla Glass在智能手机屏幕市场的垄断地位面临反垄断调查。欧盟委员会指控康宁通过限制性协议和许可，要求设备制造商几乎全部使用其玻璃产品，并奖励那些同意这一条件的制造商。此外，康宁还被指控对制造商施加压力，要求他们报告竞争对手的报价，并限制他们不挑战康宁的专利。</description>
@@ -17,6 +24,13 @@
       <link>https://aws.amazon.com/blogs/aws/introducing-the-last-cohort-of-aws-heroes-this-year-november-2024/</link>
       <description>2024年11月，AWS宣布了新一届AWS英雄成员，他们展示了在AWS技术领域的专业知识和对知识分享的承诺。这些英雄包括来自不同国家和行业的专家，他们在机器学习、社区建设、云计算等方面做出了显著贡献。AWS英雄项目旨在表彰这些在AWS社区中发挥积极作用的人士。</description>
       <pubDate>2024-11-06 18:45:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Speed up app delivery with automated cancellation of plan-only Terraform runs</title>
+      <link>https://www.hashicorp.com/blog/speed-up-app-delivery-with-automated-cancellation-of-plan-only-terraform-runs</link>
+      <description>自动化取消仅计划运行加速应用交付，通过在版本控制系统（VCS）中自动取消由拉取请求触发的Terraform运行，帮助客户避免因新提交导致的运行队列，从而加快应用交付过程。</description>
+      <pubDate>2024-11-06 17:00:00</pubDate>
     </item>
   
     <item>
@@ -111,6 +125,13 @@
     </item>
   
     <item>
+      <title>Exploring Internet traffic shifts and cyber attacks during the 2024 US election</title>
+      <link>https://blog.cloudflare.com/exploring-internet-traffic-shifts-and-cyber-attacks-during-the-2024-us-election</link>
+      <description>Cloudflare在2024年美国大选中，通过其网络安全服务确保了选举相关网站的安全和可用性。尽管存在针对选举网站的DDoS攻击，但Cloudflare成功阻止了超过60亿次攻击请求，确保了选举活动的顺利进行。在选举日，美国互联网流量在投票站关闭后达到峰值，全国范围内流量增长15%。Cloudflare还提供了针对选举基础设施的免费网络安全资源，以支持选举官员和政府机构。</description>
+      <pubDate>2024-11-06 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Simplifying cluster security: RHACS in RHACM global hub</title>
       <link>https://developers.redhat.com/articles/2024/11/06/simplifying-cluster-security-rhacs-rhacm-global-hub</link>
       <description>Red Hat Advanced Cluster Management (RHACM)简化了集群安全管理，通过多集群全局中心，用户可从单一界面管理多个RHACM集群。结合Red Hat Advanced Cluster Security (RHACS)，该集成提供集中化的安全指标视图，增强跨所有管理集群的安全可观察性，并简化大规模OpenShift集群的管理。</description>
@@ -163,6 +184,13 @@
       <title>Loading data into Redshift with DBT</title>
       <link>https://engineeringblog.yelp.com/2024/11/loading-data-into-redshift-with-dbt.html</link>
       <description>Yelp通过使用DBT和AWS Redshift Spectrum，提高了数据加载到Redshift的效率。这种方法简化了数据加载流程，减少了数据质量问题和开发者的工作量。通过DBT，Yelp能够更轻松地处理模式变更、回填和去重，同时显著提高了性能，将数据加载时间从2小时缩短到10分钟。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Next Steps on the Rust Trademark Policy</title>
+      <link>https://blog.rust-lang.org/2024/11/06/trademark-update.html</link>
+      <description>Rust语言商标政策经过长期修订，于2024年11月发布更新草案。此政策旨在维护Rust编程语言的完整性，反映社区共同价值观。领导委员会已解决主要关切，并欢迎社区反馈。请于11月20日前提交意见。</description>
       <pubDate>2024-11-06 00:00:00</pubDate>
     </item>
   
