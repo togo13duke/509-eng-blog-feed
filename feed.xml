@@ -6,6 +6,69 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>PostgreSQL DISTINCT: TimescaleDB’s Skip Scan Under Load</title>
+      <link>https://www.timescale.com/blog/skip-scan-under-load/</link>
+      <description>TimescaleDB的SkipScan功能显著提升了PostgreSQL中DISTINCT查询的性能，特别是在处理大量时间序列数据时。通过直接跳转到有序索引中的下一个唯一值，SkipScan避免了全索引扫描和后续去重，从而大幅减少了查询时间。在测试中，SkipScan将查询性能提高了10,548倍，使得即使在数据量达到PB级别时，也能实现毫秒级的数据摄入和查询。</description>
+      <pubDate>2024-11-07 14:00:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Why AI could eat quantum computing’s lunch</title>
+      <link>https://www.technologyreview.com/2024/11/07/1106730/why-ai-could-eat-quantum-computings-lunch/</link>
+      <description>人工智能在物理和化学模拟中的应用迅速发展，对量子计算机的潜在应用构成挑战。尽管量子计算机在理论上具有巨大优势，但AI在模拟量子系统方面的进步表明，量子计算机的某些应用可能不再安全。AI模型在材料发现和化学模拟方面的表现，使得量子计算机的投资可能不再合理。</description>
+      <pubDate>2024-11-07 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How I Created Abstract Classes in Godot</title>
+      <link>https://spin.atomicobject.com/abstract-classes-godot/</link>
+      <description>本文介绍了作者在Godot引擎中创建抽象类的过程。作者首先创建了一个“Unit”基类，用于表示可移动游戏单元的基本属性。随后，为了使游戏事件能够识别不同类型的单元，作者扩展了基类并创建了多个子类，同时引入了“get_unit_type”函数来获取单元的具体类型。由于Godot不支持抽象类，作者通过在基类中使用assert语句来模拟抽象类，确保所有子类都实现了必要的函数。这种方法有助于构建可扩展的游戏框架。</description>
+      <pubDate>2024-11-07 13:00:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel Nightwatch</title>
+      <link>https://laravel-news.com/laravel-nightwatch</link>
+      <description>Laravel Nightwatch是一个专为Laravel开发者设计的实时应用监控平台，提供深度、上下文感知的监控功能。它能够监控请求、作业、任务、日志、异常、慢速路由、部署等，无需配置即可全面了解应用健康状况。Nightwatch预计于2025年第一季度开始早期访问，旨在提供灵活的定价，适用于所有规模的开发者和团队。</description>
+      <pubDate>2024-11-07 10:32:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Best Time to Post on X: Maximizing Engagement in 2025</title>
+      <link>https://s14415.pcdn.co/blog/best-time-to-post-x/</link>
+      <description>2025年，在X（前身为Twitter）上最佳发布时间是在早上8点至中午12点，以及下午5点至6点，尤其是在周三和周五。这些时间段是用户在早晨和晚上例行检查社交媒体的高峰时段。了解X的实时性质和算法偏好，结合分析受众行为和行业特点，可以帮助你更有效地制定发布策略。</description>
+      <pubDate>2024-11-07 08:20:09</pubDate>
+    </item>
+  
+    <item>
+      <title>What is API Governance?</title>
+      <link>https://nordicapis.com/what-is-api-governance/</link>
+      <description>API治理是公司为积极塑造API的开发、定义、安全和部署而做出的所有尝试。它包括可发现性、可用性、一致性、安全性和版本管理等方面，旨在提高API的使用效率和安全性。随着技术的发展和法规的变化，API治理是一个持续迭代的过程，需要组织内各团队的共同参与和承诺。</description>
+      <pubDate>2024-11-07 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to track file descriptors with Valgrind</title>
+      <link>https://developers.redhat.com/articles/2024/11/07/track-file-descriptors-valgrind</link>
+      <description>本文介绍了Valgrind新增加的文件描述符相关功能，并解释了如何使用这些功能来跟踪程序使用的文件描述符或误用的文件描述符。Valgrind能够跟踪文件描述符，但通过改进，现在可以将所有文件描述符操作转换为事件，从而在误用时创建错误，并允许抑制和以不同格式报告。Valgrind不仅用于调试内存问题，还用于调试其他类型的问题，如文件描述符问题。</description>
+      <pubDate>2024-11-07 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Use bootc logically bound images to deploy a Kafka cluster</title>
+      <link>https://developers.redhat.com/articles/2024/11/07/use-bootc-logically-bound-images-deploy-kafka-cluster</link>
+      <description>使用bootc逻辑绑定镜像部署Kafka集群，通过将Kafka镜像与bootc操作系统镜像绑定，简化系统管理，提高集群稳定性。通过构建独特的Kafka代理和控制器节点镜像，实现垂直扩展，优化资源利用。</description>
+      <pubDate>2024-11-07 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Representative Line: One More Parameter, Bro</title>
+      <link>https://thedailywtf.com/articles/one-more-parameter-bro</link>
+      <description>程序员Remy Porter在文章中批评了一种不合理的编程实践。他描述了一个包含36个参数的函数，用于保存表单数据到数据库，并指出这种做法导致代码复杂且易于出错。尽管有改进的机会，但开发者为了避免破坏现有系统，选择简单地在函数中添加更多参数，而不是进行重构。</description>
+      <pubDate>2024-11-07 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Trump’s win is a tragic loss for climate progress</title>
       <link>https://www.technologyreview.com/2024/11/06/1106712/trumps-win-is-a-tragic-loss-for-climate-progress/</link>
       <description>特朗普的胜利对气候进步是一次悲剧性的损失。他的回归白宫将使世界第二大气候污染国走上我们负担不起的排放轨迹，加剧了气候变化带来的危险，包括热浪、洪水、野火、干旱和饥荒，以及空气污染导致的死亡和疾病。这将使应对气候变化的任务变得更加困难，但我们必须继续努力，无论何时何地，都要推动进步。</description>
@@ -111,6 +174,13 @@
     </item>
   
     <item>
+      <title>TikTok for business: Boosting your brand’s growth and reach</title>
+      <link>https://www.brandwatch.com/blog/tiktok-for-business/</link>
+      <description>TikTok已成为全球最受欢迎的社交媒体平台之一，尤其适合年轻品牌推广。本文介绍了如何利用TikTok进行品牌推广，包括创建商业账户、制作吸引人的内容、利用趋势和挑战以及广告选项。通过了解TikTok算法和用户偏好，品牌可以更有效地在TikTok上提升品牌影响力和销售。</description>
+      <pubDate>2024-11-06 10:02:44</pubDate>
+    </item>
+  
+    <item>
       <title>Life-seeking, ice-melting robots could punch through Europa’s icy shell</title>
       <link>https://www.technologyreview.com/2024/11/06/1106641/life-seeking-ice-melting-robots-could-punch-through-europas-icy-shell/</link>
       <description>科学家正在研发能够穿透木卫二冰层寻找生命的机器人，这些机器人将帮助NASA的欧罗巴快艇任务探索木卫二海洋。这些机器人可能包括一个着陆器、一个自主融冰机器人和一种自导航潜水器。这些机器人的原型将在地球的寒冷环境中进行测试，以验证其技术可行性。如果测试成功，这些机器人可能成为发现外星生命的第一手证据。</description>
@@ -198,6 +268,20 @@
       <title>Next Steps on the Rust Trademark Policy</title>
       <link>https://blog.rust-lang.org/2024/11/06/trademark-update.html</link>
       <description>Rust语言商标政策经过长期修订，于2024年11月发布更新草案。此政策旨在维护Rust编程语言的完整性，反映社区共同价值观。领导委员会已解决主要关切，并欢迎社区反馈。请于11月20日前提交意见。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SIGNAL Singapore 2024: From Communications to Connections</title>
+      <link>https://www.twilio.com/en-us/blog/signal-2024-singapore-developer-recap</link>
+      <description>Twilio在新加坡举办的SIGNAL 2024大会聚焦于从通信到连接的主题，展示了如何通过技术实现个性化、以人为中心的体验。大会发布了多项新功能和产品更新，旨在简化开发者的工作并提升客户互动的效率。Twilio Segment平台帮助开发者整合客户数据，实现大规模个性化服务。</description>
+      <pubDate>2024-11-06 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>SIGNAL Singapore 2024: Fulfilling the promise of customer engagement AI through communications and contextual data</title>
+      <link>https://www.twilio.com/en-us/blog/signal-2024-singapore-recap</link>
+      <description>Twilio在新加坡举办的SIGNAL 2024活动聚焦于通过通信和上下文数据实现客户参与AI的承诺。活动汇集了550多位客户、合作伙伴和行业领袖，共同探讨如何通过个性化互动在规模上驱动有意义的投资回报。Twilio展示了其综合平台如何通过结合通信和上下文数据，使互动更智能，提供上下文，并在任何方式、任何地点提供个性化体验。</description>
       <pubDate>2024-11-06 00:00:00</pubDate>
     </item>
   
