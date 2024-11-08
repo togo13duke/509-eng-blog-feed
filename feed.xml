@@ -6,10 +6,59 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How we prevent conflicts in authoritative DNS configuration using formal verification</title>
+      <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
+      <description>Cloudflare通过形式化验证技术确保其DNS配置的正确性，以防止冲突。工程师将DNS业务目标编码为Topaz程序，该程序根据DNS查询的元数据选择IP地址。形式化验证确保程序的正确性，提高网络可靠性。</description>
+      <pubDate>2024-11-08 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: AI vs quantum, and the future of reproductive rights in the US</title>
+      <link>https://www.technologyreview.com/2024/11/08/1106759/the-download-ai-vs-quantum-and-the-future-of-reproductive-rights-in-the-us/</link>
+      <description>MIT Technology Review最新报道了人工智能与量子计算的未来竞争，以及美国生育权利的未来。文章指出，尽管科技公司多年来投入巨资于量子计算机，但人工智能在基础物理、化学和材料科学中的应用正在挑战量子计算的主场。同时，美国各州在生育权利上的投票结果显示，虽然一些州投票支持堕胎权，但情况并不完全乐观。</description>
+      <pubDate>2024-11-08 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Handle Stakeholder Expectations: 6 Tips for Effective Communication</title>
+      <link>https://spin.atomicobject.com/stakeholder-expectations-6-tips/</link>
+      <description>掌握利益相关者期望的6个技巧：了解利益相关者，定制沟通方式，共同设定目标，定期透明沟通，使用视觉辅助，共同庆祝胜利。通过有效沟通和期望管理，确保利益相关者感到知情、受重视并能影响产品方向。</description>
+      <pubDate>2024-11-08 13:00:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #879</title>
+      <link>https://tympanus.net/codrops/collective/collective-879/</link>
+      <description>GitHub Spark推出AI驱动的微应用工具，Maxime Heckel介绍在WebGL中创建绘画效果的技术，Ahmad Shadeed探讨将Masonry布局与CSS Grid集成的利弊，Jake Archibald讨论自定义&lt;select&gt;元素的方法，Lorenzo Migliorero分享创建iMessage卡堆动画的技巧，Zell Liew分享可访问性工具提示的最佳实践。</description>
+      <pubDate>2024-11-08 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #227: New PEPs: Template Strings &amp; External Wheel Hosting</title>
+      <link>https://realpython.com/podcasts/rpp/227/</link>
+      <description>本期《Real Python播客》探讨了Python新增强提案（PEPs），包括模板字符串和外部轮宿主。讨论了PEP 750和PEP 759，并分享了社区文章，如Python 3.13更新、使用Python打包解决数独、Python的语法糖、SQLite和Django创建数据库列等。</description>
+      <pubDate>2024-11-08 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Black Friday statistics 2024: Key consumer insights and shopping trends for the upcoming holiday season</title>
+      <link>https://www.hostinger.com/blog/black-friday-statistics</link>
+      <description>2024年黑色星期五购物季，消费者支出和购物习惯继续演变。调查显示，31%的美国消费者计划增加支出，男性比女性更倾向于增加购买。混合购物模式占主导地位，但纯在线购物者数量也在增加。移动购物正在兴起，但台式机购物仍然受欢迎。价格是首要考虑因素，但便利性也很重要。电子邮件营销是推动购买的主要渠道，而冲动购物在黑色星期五期间很常见。</description>
+      <pubDate>2024-11-08 11:57:04</pubDate>
+    </item>
+  
+    <item>
       <title>One of the world’s biggest web scrapers has some thoughts on data ownership</title>
       <link>https://stackoverflow.blog/2024/11/08/one-of-the-world-s-biggest-web-scrapers-has-some-thoughts-on-data-ownership/</link>
       <description>Bright Data CEO Or Lenchner讨论了数据所有权，包括数据收集的挑战、合成数据在训练大型AI模型中的作用、公共数据访问的日益限制，以及数据实践中的透明度和数据监管的未来。</description>
       <pubDate>2024-11-08 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>5 hot changes coming to WordPress 6.7</title>
+      <link>https://www.hostinger.com/blog/wordpress-6-7</link>
+      <description>WordPress 6.7版本将带来多项更新，包括新默认主题Twenty Twenty-Five，提供70个预设图案和多种样式选择。编辑体验得到改善，新增缩放图案视图、改进的库视图和更直观的博客存档设置。此外，支持直接拖放图片创建图库，自动转换HEIC文件格式，并增加了更多样式选项。</description>
+      <pubDate>2024-11-08 07:39:28</pubDate>
     </item>
   
     <item>
@@ -20,10 +69,31 @@
     </item>
   
     <item>
+      <title>Error'd: Relatively Speaking</title>
+      <link>https://thedailywtf.com/articles/relatively-speaking</link>
+      <description>程序员Lyle Seaman分享了他对时间膨胀和距离计算的思考，同时讨论了UTF-8编码和电子邮件验证的问题，引用了Hetzner和Telekom的案例。</description>
+      <pubDate>2024-11-08 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Empowering Engineers with AI : Exploring generative-AI-powered development tools and the new frontier of developer experience</title>
       <link>https://slack.engineering/empowering-engineers-with-ai/</link>
       <description>Slack正在开发一系列AI驱动的开发者工具，旨在提高开发效率并简化工作流程。这些工具包括用于自动分类和回答支持问题的Slack机器人，以及提供上下文相关答案的内部AI助手。此外，Slack还开发了Web应用和IDE插件，以帮助工程师更有效地搜索和检索信息。通过这些工具，Slack预计每年可节省超过10,000小时的工程师时间。</description>
       <pubDate>2024-11-08 00:19:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Accelerating AWS Native Development with LocalStack &amp; Docker: A Real-World Case Study</title>
+      <link>https://capgemini.github.io/cloud/accelerating-aws-native-dev-with-localstak-and-docker/</link>
+      <description>通过使用LocalStack和Docker，本文展示了如何加速AWS原生开发。LocalStack在本地模拟AWS服务，与Docker和Docker Compose结合，提高了开发效率，降低了成本，并简化了测试过程。这种方法使得开发团队能够并行工作，快速迭代，同时减少对云服务的依赖。</description>
+      <pubDate>2024-11-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What if My Tribe Is Wrong?</title>
+      <link>http://lucumr.pocoo.org/2024/11/8/what-if-my-tribe-is-wrong</link>
+      <description>文章探讨了作者Armin Ronacher对于支持他人成功、道德困境以及政治立场的思考。他认识到鼓励他人成功的重要性，但同时也面临道德判断的挑战，特别是在面对与自己价值观相悖的行为时。作者反思了对于政治人物如特朗普和马斯克的看法，如何在保持批判性思维的同时，与持有不同观点的人保持关系。他强调，尽管可能存在分歧，但应保持开放的心态，倾听和理解他人，同时坚守自己的价值观。</description>
+      <pubDate>2024-11-08 00:00:00</pubDate>
     </item>
   
     <item>
@@ -233,6 +303,13 @@
       <title>gccrs: An alternative compiler for Rust</title>
       <link>https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html</link>
       <description>gccrs是一个正在开发中的Rust语言替代编译器，旨在为GCC项目添加对Rust语言的支持。该项目始于2014年，由Philip Herron领导，并得到了Open Source Security和Embecosm的支持。gccrs的目标是提供一个与rustc相同行为的编译器选项，同时利用GCC的成熟性和广泛支持。gccrs旨在帮助Rust语言达到更多用户和平台，同时确保不破坏现有的Rust生态系统。</description>
+      <pubDate>2024-11-07 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The European Health Data Space: A new opportunity to solve your long-standing health data challenges</title>
+      <link>https://www.thoughtworks.com/insights/articles/the-european-health-data-space</link>
+      <description>欧洲健康数据空间（EHDS）旨在建立一个共同的框架和基础设施，以在欧盟范围内使用健康数据。它旨在解决长期存在的健康数据管理挑战，并推动欧洲医疗保健的创新。通过提高数据互操作性、患者数据控制以及促进研究与创新，EHDS有望改善医疗保健质量，并为所有利益相关者带来机遇。</description>
       <pubDate>2024-11-07 00:00:00</pubDate>
     </item>
   
