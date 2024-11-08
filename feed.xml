@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>One of the world’s biggest web scrapers has some thoughts on data ownership</title>
+      <link>https://stackoverflow.blog/2024/11/08/one-of-the-world-s-biggest-web-scrapers-has-some-thoughts-on-data-ownership/</link>
+      <description>Bright Data CEO Or Lenchner讨论了数据所有权，包括数据收集的挑战、合成数据在训练大型AI模型中的作用、公共数据访问的日益限制，以及数据实践中的透明度和数据监管的未来。</description>
+      <pubDate>2024-11-08 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build &amp; deploy JBoss EAP 8 images in OpenShift with Galleon &amp; Helm charts</title>
+      <link>https://developers.redhat.com/articles/2024/11/08/jboss-eap-images-galleon</link>
+      <description>在本文中，作者详细介绍了如何在OpenShift上使用Galleon和Helm图表构建和部署JBoss EAP 8镜像。文章涵盖了本地Dockerfile构建、Helm图表构建/部署以及使用JBoss EAP Operator 3的部署方法。此外，还讨论了Maven设置和不同部署方法的细节。</description>
+      <pubDate>2024-11-08 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Empowering Engineers with AI : Exploring generative-AI-powered development tools and the new frontier of developer experience</title>
       <link>https://slack.engineering/empowering-engineers-with-ai/</link>
       <description>Slack正在开发一系列AI驱动的开发者工具，旨在提高开发效率并简化工作流程。这些工具包括用于自动分类和回答支持问题的Slack机器人，以及提供上下文相关答案的内部AI助手。此外，Slack还开发了Web应用和IDE插件，以帮助工程师更有效地搜索和检索信息。通过这些工具，Slack预计每年可节省超过10,000小时的工程师时间。</description>
@@ -17,6 +31,13 @@
       <link>https://www.confluent.io/blog/introducing-apache-kafka-3-9/</link>
       <description>Apache Kafka 3.9版本发布，引入了动态KRaft Quorums和改进的ZooKeeper迁移功能，支持无缝数据卸载到外部存储系统。此外，还优化了Kafka Streams和Kafka Connect，增强了异常处理和健康检查。</description>
       <pubDate>2024-11-07 23:46:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Law enforcement operation takes down 22,000 malicious IP addresses worldwide</title>
+      <link>https://arstechnica.com/information-technology/2024/11/law-enforcement-operation-takes-down-22000-malicious-ip-addresses-worldwide/</link>
+      <description>国际执法行动成功关闭了22,000个恶意IP地址，涉及网络诈骗、勒索软件和信息窃取等犯罪活动。此次行动由多国执法机构和三个网络安全组织共同开展，逮捕了41人，并关闭了1,037个服务器和其他基础设施。</description>
+      <pubDate>2024-11-07 23:12:23</pubDate>
     </item>
   
     <item>
