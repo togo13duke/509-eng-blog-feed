@@ -6,10 +6,52 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Announcing new APIs for Amazon Location Service Routes, Places, and Maps</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-new-apis-for-amazon-location-service-routes-places-and-maps/</link>
+      <description>亚马逊位置服务发布17个新API，增强路线、地点和地图功能，为开发者提供更连贯的体验。新API支持高级路线规划、地图样式和地点搜索，提高应用性能和用户体验。</description>
+      <pubDate>2024-11-08 18:35:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Are your project management tools promoting collaboration or friction?</title>
+      <link>https://www.atlassian.com/blog/jira/are-your-project-management-tools-causing-friction</link>
+      <description>在当今快节奏的工作环境中，尽管拥有众多专为协作设计的工具，但许多团队的工作进展却比以往更加困难。文章指出，工具的碎片化导致团队协作效率低下，信息分散，难以实现组织目标。通过采用统一的平台，如Atlassian的Jira，可以促进有效协作、提高信息访问、自动化工作流程、实现目标一致性和实时可见性，从而提升团队效率和项目成功率。</description>
+      <pubDate>2024-11-08 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>5 reasons to visit HashiCorp at AfroTech ‘24</title>
+      <link>https://www.hashicorp.com/blog/5-reasons-to-visit-hashicorp-at-afrotech-24</link>
+      <description>HashiCorp在AfroTech展会上提供五个参观理由：获取行业知识和见解，赢取免费认证和奖品，与招聘团队见面，了解包容性文化，建立和扩展人脉网络。展位位于#1107，提供奖品、职业见解和与行业领导者建立联系的机会。</description>
+      <pubDate>2024-11-08 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Reverse Video Search System With Mixpeek &amp; PostgreSQL</title>
+      <link>https://www.timescale.com/blog/building-a-reverse-video-search-system-with-mixpeek-postgresql/</link>
+      <description>本文介绍了如何使用Mixpeek和PostgreSQL构建一个反向视频搜索系统。该系统通过Mixpeek处理视频并生成嵌入，利用PostgreSQL作为向量数据库存储嵌入，实现基于语义相似性的视频检索。系统架构包括视频摄取和检索过程，其中Mixpeek负责视频处理和嵌入生成，PostgreSQL则负责存储和管理视频数据及其嵌入。</description>
+      <pubDate>2024-11-08 14:35:48</pubDate>
+    </item>
+  
+    <item>
+      <title>What Are OAuth Pushed Authorization Requests (PAR)?</title>
+      <link>https://auth0.com/blog/what-are-oauth-push-authorization-requests-par/</link>
+      <description>OAuth Pushed Authorization Requests (PAR)是一种增强OAuth 2.0和OpenID Connect安全性的技术。它允许客户端直接向授权服务器发送授权请求，而不暴露请求细节，从而减少中间人攻击和数据泄露风险。PAR通过将请求作为POST请求发送，避免了GET请求可能带来的安全问题，并提供了更好的请求来源和保密性保证。Auth0支持PAR作为其企业计划的一部分，通过“高度监管身份”功能提供，以加强敏感环境中的应用安全性。</description>
+      <pubDate>2024-11-08 14:04:00</pubDate>
+    </item>
+  
+    <item>
       <title>How we prevent conflicts in authoritative DNS configuration using formal verification</title>
       <link>https://blog.cloudflare.com/topaz-policy-engine-design</link>
       <description>Cloudflare通过形式化验证技术确保其DNS配置的正确性，以防止冲突。工程师将DNS业务目标编码为Topaz程序，该程序根据DNS查询的元数据选择IP地址。形式化验证确保程序的正确性，提高网络可靠性。</description>
       <pubDate>2024-11-08 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to turn on comments on YouTube: Your simple guide for new videos</title>
+      <link>https://s14415.pcdn.co/blog/youtube-comments/</link>
+      <description>如何开启YouTube评论：为新手提供简单指南</description>
+      <pubDate>2024-11-08 13:39:48</pubDate>
     </item>
   
     <item>
@@ -45,6 +87,13 @@
       <link>https://www.hostinger.com/blog/black-friday-statistics</link>
       <description>2024年黑色星期五购物季，消费者支出和购物习惯继续演变。调查显示，31%的美国消费者计划增加支出，男性比女性更倾向于增加购买。混合购物模式占主导地位，但纯在线购物者数量也在增加。移动购物正在兴起，但台式机购物仍然受欢迎。价格是首要考虑因素，但便利性也很重要。电子邮件营销是推动购买的主要渠道，而冲动购物在黑色星期五期间很常见。</description>
       <pubDate>2024-11-08 11:57:04</pubDate>
+    </item>
+  
+    <item>
+      <title>How to get verified on YouTube: a step-by-step guide for a complete channel experience</title>
+      <link>https://www.brandwatch.com/blog/get-verified-on-youtube/</link>
+      <description>如何获得YouTube认证：一个逐步指南，以提升频道体验。要获得认证，需要至少10万订阅者，并满足YouTube的认证要求，包括内容的真实性和完整性。认证过程包括验证电话号码、申请认证徽章和等待YouTube的回复。如果申请被拒绝，需要根据YouTube的解释改进内容，并在30天后重新申请。</description>
+      <pubDate>2024-11-08 10:00:36</pubDate>
     </item>
   
     <item>
@@ -93,6 +142,13 @@
       <title>What if My Tribe Is Wrong?</title>
       <link>http://lucumr.pocoo.org/2024/11/8/what-if-my-tribe-is-wrong</link>
       <description>文章探讨了作者Armin Ronacher对于支持他人成功、道德困境以及政治立场的思考。他认识到鼓励他人成功的重要性，但同时也面临道德判断的挑战，特别是在面对与自己价值观相悖的行为时。作者反思了对于政治人物如特朗普和马斯克的看法，如何在保持批判性思维的同时，与持有不同观点的人保持关系。他强调，尽管可能存在分歧，但应保持开放的心态，倾听和理解他人，同时坚守自己的价值观。</description>
+      <pubDate>2024-11-08 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Fearless Concurrency Ep.5: Ensuring Memory Safety with Mutexes and RwLocks in Rust</title>
+      <link>https://www.ardanlabs.com/blog/2024/11/fearless-concurrency-ep5-ensuring-memory-safety-with-mutexes-and-rwlocks-in-rust.html</link>
+      <description>Rust语言并发编程教程第五集深入讲解了内存安全，通过Mutex和RwLock管理多线程环境中的数据共享。视频介绍了RwLock的用法，以及如何通过内部可变性简化数据访问，提高性能和代码简洁性。</description>
       <pubDate>2024-11-08 00:00:00</pubDate>
     </item>
   
@@ -153,6 +209,13 @@
     </item>
   
     <item>
+      <title>What's new with Databricks SQL, October 2024</title>
+      <link>https://www.databricks.com/blog/whats-new-databricks-sql-october-2024</link>
+      <description>Databricks SQL在2024年10月推出了多项新功能和性能改进，包括AI/BI增强、智能体验、预测优化和价格/性能提升。新功能包括AI/BI仪表板、SQL编辑器改进、自动统计和查询分析器。此外，还推出了无服务器数据仓库、成本和用量仪表板以及与Power BI的集成。这些更新旨在简化SQL使用、提高性能并降低成本。</description>
+      <pubDate>2024-11-07 18:09:35</pubDate>
+    </item>
+  
+    <item>
       <title>What’s New in AI/BI Dashboards - Fall ‘24</title>
       <link>https://www.databricks.com/blog/whats-new-in-aibi-dashboards-fall24</link>
       <description>Databricks AI/BI仪表板在秋季推出多项新功能，包括多页报告、集成仪表板精灵、点地图可视化以及与DABs的集成。这些更新旨在提高数据可视化和分析能力，使企业能够更有效地利用数据洞察。</description>
@@ -164,6 +227,13 @@
       <link>https://www.technologyreview.com/2024/11/07/1106743/whats-next-reproductive-rights-us/</link>
       <description>美国生殖权利的未来面临不确定性，七个州支持堕胎权，但部分州反对。特朗普回归总统职位可能影响堕胎权。1973年确立的堕胎权在2022年被推翻后，多个州实施堕胎禁令，导致数百万美国人失去当地诊所的服务。尽管部分州投票支持堕胎权，但未来仍充满挑战。</description>
       <pubDate>2024-11-07 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Season's Speedings: Databricks SQL Delivers 4x Performance Boost Over Two Years</title>
+      <link>https://www.databricks.com/blog/seasons-speedings-databricks-sql-delivers-4x-performance-boost-over-two-years</link>
+      <description>Databricks SQL在两年内实现了4倍的性能提升，通过分析数十亿生产查询和倾听社区需求，优化了ETL、BI和探索性数据分析工作负载，提高了数据处理速度和效率。新功能包括更快的JOIN操作、智能工作负载管理和成本节约措施，旨在提升用户体验并降低总拥有成本。</description>
+      <pubDate>2024-11-07 17:08:00</pubDate>
     </item>
   
     <item>
@@ -237,6 +307,13 @@
     </item>
   
     <item>
+      <title>Build your slide deck in Laravel with Simple Slides</title>
+      <link>https://laravel-news.com/build-your-slide-deck-in-laravel-with-simple-slides</link>
+      <description>使用Laravel和Simple Slides构建响应式、以文本为主的演示文稿，适用于内容丰富、快速切换幻灯片的场景。通过箭头键或快捷键浏览演示文稿，并访问GitHub获取完整信息和试用。</description>
+      <pubDate>2024-11-07 10:40:23</pubDate>
+    </item>
+  
+    <item>
       <title>Laravel Nightwatch</title>
       <link>https://laravel-news.com/laravel-nightwatch</link>
       <description>Laravel Nightwatch是一个专为Laravel开发者设计的实时应用监控平台，提供深度、上下文感知的监控功能。它能够监控请求、作业、任务、日志、异常、慢速路由、部署等，无需配置即可全面了解应用健康状况。Nightwatch预计于2025年第一季度开始早期访问，旨在提供灵活的定价，适用于所有规模的开发者和团队。</description>
@@ -247,6 +324,13 @@
       <title>Best Time to Post on X: Maximizing Engagement in 2025</title>
       <link>https://s14415.pcdn.co/blog/best-time-to-post-x/</link>
       <description>2025年，在X（前身为Twitter）上最佳发布时间是在早上8点至中午12点，以及下午5点至6点，尤其是在周三和周五。这些时间段是用户在早晨和晚上例行检查社交媒体的高峰时段。了解X的实时性质和算法偏好，结合分析受众行为和行业特点，可以帮助你更有效地制定发布策略。</description>
+      <pubDate>2024-11-07 08:20:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Best Time to Post on X: Maximizing Engagement in 2025</title>
+      <link>https://www.brandwatch.com/blog/best-time-to-post-x/</link>
+      <description>2025年，在X平台（前身为Twitter）上，最佳发布时间是在早上8点至中午12点，以及下午5点至6点，尤其是在周三和周五。这些时间段是用户在早晨和晚上例行检查社交媒体的高峰时段。为了最大化参与度和覆盖范围，建议根据目标受众的特定习惯进行测试，并考虑时区和行业特定的高峰时间。</description>
       <pubDate>2024-11-07 08:20:09</pubDate>
     </item>
   
