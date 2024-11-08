@@ -6,10 +6,45 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Empowering Engineers with AI : Exploring generative-AI-powered development tools and the new frontier of developer experience</title>
+      <link>https://slack.engineering/empowering-engineers-with-ai/</link>
+      <description>Slack正在开发一系列AI驱动的开发者工具，旨在提高开发效率并简化工作流程。这些工具包括用于自动分类和回答支持问题的Slack机器人，以及提供上下文相关答案的内部AI助手。此外，Slack还开发了Web应用和IDE插件，以帮助工程师更有效地搜索和检索信息。通过这些工具，Slack预计每年可节省超过10,000小时的工程师时间。</description>
+      <pubDate>2024-11-08 00:19:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Apache Kafka® 3.9</title>
+      <link>https://www.confluent.io/blog/introducing-apache-kafka-3-9/</link>
+      <description>Apache Kafka 3.9版本发布，引入了动态KRaft Quorums和改进的ZooKeeper迁移功能，支持无缝数据卸载到外部存储系统。此外，还优化了Kafka Streams和Kafka Connect，增强了异常处理和健康检查。</description>
+      <pubDate>2024-11-07 23:46:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Get Ready for .NET Conf 2024!</title>
+      <link>https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2024/</link>
+      <description>.NET Conf 2024将于11月12日至14日举行，这是为期三天的免费虚拟会议，将展示.NET平台、开源项目和开发者工具的最新进展。活动包括.NET 9的正式发布、专题研讨会和24小时不间断直播。参与者可以通过网站dotnetconf.net观看直播，并在YouTube频道上回看内容。</description>
+      <pubDate>2024-11-07 20:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>HashiCorp at AWS re:Invent: Your blueprint to cloud success</title>
+      <link>https://www.hashicorp.com/blog/hashicorp-at-aws-re-invent-your-blueprint-to-cloud-success</link>
+      <description>HashiCorp在AWS re:Invent大会上展示了其云基础设施和安全管理解决方案，包括Terraform、Vault、Consul等，旨在帮助组织在AWS上部署、安全、运行和连接应用程序。大会期间，HashiCorp举办了多场技术研讨会和产品演示，与开发者交流并展示其产品如何与AWS集成，提高开发效率和云投资回报。</description>
+      <pubDate>2024-11-07 19:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Project: VERDAD - tracking misinformation in radio broadcasts using Gemini 1.5</title>
       <link>https://simonwillison.net/2024/Nov/7/project-verdad/#atom-entries</link>
       <description>Project VERDAD是一个旨在追踪美国广播中错误信息的项目，通过Gemini 1.5等工具分析48个西班牙语广播电台的音频内容，识别潜在的政治错误信息，并利用人工智能和人类审查相结合的方式提高准确性。</description>
       <pubDate>2024-11-07 18:41:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Express brokers for Amazon MSK to deliver high throughput and faster scaling for your Kafka clusters</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-express-brokers-for-amazon-msk-to-deliver-high-throughput-and-faster-scaling-for-your-kafka-clusters/</link>
+      <description>Amazon MSK推出Express brokers，提供高吞吐量和快速扩展，优化Kafka集群性能。Express brokers具有更高的计算和存储弹性，简化集群管理，降低成本和运营开销，适用于所有Kafka工作负载。</description>
+      <pubDate>2024-11-07 18:24:39</pubDate>
     </item>
   
     <item>
@@ -24,6 +59,13 @@
       <link>https://www.atlassian.com/blog/confluence/how-confluence-premium-unlocks-cross-functional-workflows-with-jira-and-jira-service-management</link>
       <description>Atlassian的Confluence Premium通过无缝集成Jira和Jira Service Management，解锁跨职能工作流程，提高团队协作效率。它通过连接项目、任务和知识，简化工作流程，促进跨团队协作，并利用AI自动化任务，实现更高效的团队协作和知识共享。</description>
       <pubDate>2024-11-07 18:10:06</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s New in AI/BI Dashboards - Fall ‘24</title>
+      <link>https://www.databricks.com/blog/whats-new-in-aibi-dashboards-fall24</link>
+      <description>Databricks AI/BI仪表板在秋季推出多项新功能，包括多页报告、集成仪表板精灵、点地图可视化以及与DABs的集成。这些更新旨在提高数据可视化和分析能力，使企业能够更有效地利用数据洞察。</description>
+      <pubDate>2024-11-07 18:03:26</pubDate>
     </item>
   
     <item>
