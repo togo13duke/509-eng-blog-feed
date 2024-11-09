@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Claude AI to process secret government data through new Palantir deal</title>
+      <link>https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/</link>
+      <description>Anthropic与Palantir和AWS合作，将Claude AI模型应用于美国情报和防务机构，引发对其“AI安全”目标的质疑。Claude将在Palantir平台上使用AWS托管服务处理和分析数据，但一些批评者认为这与Anthropic的“AI安全”目标相矛盾。尽管如此，该合作旨在提高情报分析的速度和效率，同时确保人类官员保留决策权。</description>
+      <pubDate>2024-11-08 22:08:12</pubDate>
+    </item>
+  
+    <item>
+      <title>New SMB-friendly subscription tier may be too late to stop VMware migrations</title>
+      <link>https://arstechnica.com/information-technology/2024/11/new-smb-friendly-subscription-tier-may-be-too-late-to-stop-vmware-migrations/</link>
+      <description>Broadcom推出的针对VMware虚拟化软件的新订阅层可能为一些不满的VMware客户，尤其是中小型企业（SMBs）提供了一些安慰，但可能已为时过晚，无法阻止一些SMBs放弃VMware。新订阅层旨在为小型客户提供更合适的捆绑包，但价格和产品捆绑的改变已导致许多客户寻求其他虚拟化软件或完全放弃虚拟化。</description>
+      <pubDate>2024-11-08 21:59:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing TypeScript 5.7 RC</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/</link>
+      <description>TypeScript 5.7 RC版本发布，新增了检查未初始化变量、相对路径重写、支持ES2024目标、改进项目所有权检查和JSON导入验证等功能，旨在提升开发效率和代码质量。</description>
+      <pubDate>2024-11-08 21:01:44</pubDate>
+    </item>
+  
+    <item>
+      <title>Matter 1.4 has some solid ideas for the future home—now let’s see the support</title>
+      <link>https://arstechnica.com/information-technology/2024/11/matter-1-4-has-some-solid-ideas-for-the-future-home-now-lets-see-the-support/</link>
+      <description>Matter 1.4智能家居标准推出，支持更多设备类型，改善跨生态系统工作，并添加电池备份、太阳能板和热泵管理工具。新版本强调“增强多管理员”功能，允许一次设置设备，并在不同控制器间共享。Matter 1.4还引入“织物同步”，使设备能在不同平台上使用。然而，实际应用还需依赖技术平台的支持。</description>
+      <pubDate>2024-11-08 20:08:26</pubDate>
+    </item>
+  
+    <item>
       <title>Announcing new APIs for Amazon Location Service Routes, Places, and Maps</title>
       <link>https://aws.amazon.com/blogs/aws/announcing-new-apis-for-amazon-location-service-routes-places-and-maps/</link>
       <description>亚马逊位置服务发布17个新API，增强路线、地点和地图功能，为开发者提供更连贯的体验。新API支持高级路线规划、地图样式和地点搜索，提高应用性能和用户体验。</description>
