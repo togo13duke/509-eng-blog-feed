@@ -6,10 +6,24 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>My Simple Knowledge Management and Time Tracking System</title>
+      <link>https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/</link>
+      <description>Henrik Warne介绍了他的简单知识管理和时间跟踪系统，使用两个文本文件记录重要命令、工作时间和项目进度，通过Python脚本计算工作时间，强调简单系统的高效性和易用性。</description>
+      <pubDate>2024-11-09 16:10:58</pubDate>
+    </item>
+  
+    <item>
       <title>What Does That Do? How the Lack of Instructions in Game Design Can Both Distract from or Add to the Experience</title>
       <link>https://spin.atomicobject.com/user-interface-games/</link>
       <description>游戏用户界面（UI）的设计对玩家体验至关重要。Tiny Glades通过简洁的UI鼓励探索和创造，而College Football 25则因信息不足而令人困惑。游戏设计师应了解目标受众，提供适当的指导，平衡探索与解释，以提升玩家体验。</description>
       <pubDate>2024-11-09 13:00:34</pubDate>
+    </item>
+  
+    <item>
+      <title>New microblog with TILs</title>
+      <link>https://jvns.ca/blog/2024/11/09/new-microblog/</link>
+      <description>Julia Evans在其网站上新增了一个名为“TIL（今天我学到了）”的板块，用于记录她在社交媒体上分享的有趣工具和事实。这个板块旨在方便她本人查找之前记录的信息，并受到Simon Willison的TIL博客的启发。她认为，将一些内容归档在个人网站上比使用书签更方便，并计划将TIL帖子加入每周的博客摘要邮件列表中。</description>
+      <pubDate>2024-11-09 09:24:29</pubDate>
     </item>
   
     <item>
