@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Why double Still Outperforms BigDecimal: A Decade-Long Performance Comparison</title>
+      <link>http://blog.vanillajava.blog/2024/11/overview-many-developers-consider.html</link>
+      <description>BigDecimal在Java中处理货币时被广泛使用，但Peter Lawrey认为其性能和复杂性超过了double。他通过基准测试表明，BigDecimal在大多数操作中比double慢得多，且内存占用更大。尽管如此，BigDecimal在某些情况下可能更适合，但开发者应谨慎选择，避免不必要的复杂性。</description>
+      <pubDate>2024-11-09 07:32:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Uncomparable Puzzles in Java</title>
+      <link>http://blog.vanillajava.blog/2024/11/uncomparable-puzzles-in-java.html</link>
+      <description>本文探讨了Java中不可比较的难题，包括不同数据类型间的比较和BigDecimal类的行为。文章通过实例解释了long和double类型转换时的精度损失，BigDecimal与double和HashSet/TreeSet操作时的独特行为，以及如何通过理解这些行为来优化代码。</description>
+      <pubDate>2024-11-09 07:13:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ten Java Myths and Misconceptions</title>
+      <link>http://blog.vanillajava.blog/2024/11/ten-java-myths-and-misconceptions.html</link>
+      <description>本文揭示了十个关于Java的常见误解，包括System.exit(0)不会阻止finally块执行、字符串比较是引用比较而非内容比较、Java没有像C++那样的内存泄漏、多线程编程并非不可管理、性能优化需要理解不同操作的相对成本、随机数生成器并非总是产生完全随机的数、浮点运算并非总是有随机错误、时区并非固定不变、读取非volatile值不一定会看到更新值以及许多在线Java面试问题不准确。</description>
+      <pubDate>2024-11-09 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Java Arrays, Wat!</title>
+      <link>http://blog.vanillajava.blog/2024/11/java-arrays-wat.html</link>
+      <description>Java数组行为分析：本文探讨了Java数组的一些意外行为，包括数组与对象的区别、初始化错误、语法兼容性问题以及数组初始化过大导致的编译错误。</description>
+      <pubDate>2024-11-09 06:49:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Some Common Java Gotchas</title>
+      <link>http://blog.vanillajava.blog/2024/11/some-common-java-gotchas.html</link>
+      <description>Java语言虽然功能简洁，但存在一些容易混淆的特性，如变量代表引用而非对象本身，比较操作符比较的是引用而非对象内容，Java通过值传递引用等。此外，hashCode()和toString()的行为也可能让人意外。了解这些“陷阱”有助于开发者写出更高效、更可靠的Java代码。</description>
+      <pubDate>2024-11-09 06:36:00</pubDate>
+    </item>
+  
+    <item>
       <title>Claude AI to process secret government data through new Palantir deal</title>
       <link>https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/</link>
       <description>Anthropic与Palantir和AWS合作，将Claude AI模型应用于美国情报和防务机构，引发对其“AI安全”目标的质疑。Claude将在Palantir平台上使用AWS托管服务处理和分析数据，但一些批评者认为这与Anthropic的“AI安全”目标相矛盾。尽管如此，该合作旨在提高情报分析的速度和效率，同时确保人类官员保留决策权。</description>
