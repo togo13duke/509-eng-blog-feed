@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>What Does That Do? How the Lack of Instructions in Game Design Can Both Distract from or Add to the Experience</title>
+      <link>https://spin.atomicobject.com/user-interface-games/</link>
+      <description>游戏用户界面（UI）的设计对玩家体验至关重要。Tiny Glades通过简洁的UI鼓励探索和创造，而College Football 25则因信息不足而令人困惑。游戏设计师应了解目标受众，提供适当的指导，平衡探索与解释，以提升玩家体验。</description>
+      <pubDate>2024-11-09 13:00:34</pubDate>
+    </item>
+  
+    <item>
       <title>Why double Still Outperforms BigDecimal: A Decade-Long Performance Comparison</title>
       <link>http://blog.vanillajava.blog/2024/11/overview-many-developers-consider.html</link>
       <description>BigDecimal在Java中处理货币时被广泛使用，但Peter Lawrey认为其性能和复杂性超过了double。他通过基准测试表明，BigDecimal在大多数操作中比double慢得多，且内存占用更大。尽管如此，BigDecimal在某些情况下可能更适合，但开发者应谨慎选择，避免不必要的复杂性。</description>
