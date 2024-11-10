@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Everything I've learned so far about running local LLMs</title>
+      <link>https://nullprogram.com/blog/2024/11/10/</link>
+      <description>本文探讨了在本地运行大型语言模型（LLM）的实践经验和知识。作者介绍了如何使用软件如llama.cpp在个人硬件上运行LLM，并分享了不同模型的选择和性能评估。文章强调了GPU和CPU推理的优缺点，以及如何根据硬件配置选择合适的模型。作者还讨论了不同LLM在文本生成、翻译和代码生成等任务上的表现。</description>
+      <pubDate>2024-11-10 05:05:20</pubDate>
+    </item>
+  
+    <item>
       <title>Visualizing local election results with Datasette, Observable and MapLibre GL</title>
       <link>https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/#atom-entries</link>
       <description>本文介绍了如何使用Datasette、Observable和MapLibre GL可视化地方选举结果。作者与Alex Garcia一起进行了现场直播的视频会议，共同构建了一个项目，并从Discord社区成员那里获得了问题和建议。他们使用Datasette导入CSV数据，修改模式，进行分面和过滤，导入地理空间选区形状，并丰富数据以提取选区ID。然后，他们使用MapLibre GL进行可视化，并在Observable中工作，最终将所有内容整合在一起，创建了一个交互式地图，用户可以查看任何选定的候选人或选项的结果热图。</description>
