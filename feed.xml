@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Visualizing local election results with Datasette, Observable and MapLibre GL</title>
+      <link>https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/#atom-entries</link>
+      <description>本文介绍了如何使用Datasette、Observable和MapLibre GL可视化地方选举结果。作者与Alex Garcia一起进行了现场直播的视频会议，共同构建了一个项目，并从Discord社区成员那里获得了问题和建议。他们使用Datasette导入CSV数据，修改模式，进行分面和过滤，导入地理空间选区形状，并丰富数据以提取选区ID。然后，他们使用MapLibre GL进行可视化，并在Observable中工作，最终将所有内容整合在一起，创建了一个交互式地图，用户可以查看任何选定的候选人或选项的结果热图。</description>
+      <pubDate>2024-11-09 23:32:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Laravel on any Developer Machine with Gitpod</title>
+      <link>https://laravel-news.com/laravel-on-any-developer-machine-with-gitpod</link>
+      <description>Gitpod为开发者提供了一个云开发环境，解决了本地开发环境不一致、依赖管理困难等问题。通过Gitpod，开发者可以轻松地将Laravel项目部署到容器中，实现代码的快速编译和测试。本文介绍了如何使用Gitpod和DevContainers将Laravel项目本地化，并通过自动化任务和配置简化开发流程。Gitpod的Flex UI Client进一步提升了开发效率，使得开发环境可重复、可自动化，为团队协作和持续集成提供了便利。</description>
+      <pubDate>2024-11-09 22:39:20</pubDate>
+    </item>
+  
+    <item>
       <title>My Simple Knowledge Management and Time Tracking System</title>
       <link>https://henrikwarne.com/2024/11/09/my-simple-knowledge-management-and-time-tracking-system/</link>
       <description>Henrik Warne介绍了他的简单知识管理和时间跟踪系统，使用两个文本文件记录重要命令、工作时间和项目进度，通过Python脚本计算工作时间，强调简单系统的高效性和易用性。</description>
