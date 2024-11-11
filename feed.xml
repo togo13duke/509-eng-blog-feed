@@ -6,10 +6,80 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Flask Logging Made Simple for Developers</title>
+      <link>https://last9.io/blog/flask-logging/</link>
+      <description>本文介绍了如何为开发者简化Flask日志记录。文章强调了日志记录的重要性，并提供了从开发到生产的日志配置方法。包括基本设置、日志存储位置、不同日志级别的处理、微服务监控以及生产最佳实践。</description>
+      <pubDate>2024-11-11 13:40:53</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: AI in Africa, and reporting in the age of Trump</title>
+      <link>https://www.technologyreview.com/2024/11/11/1106807/the-download-ai-in-africa-and-reporting-in-the-age-of-trump/</link>
+      <description>非洲在人工智能领域的挑战与机遇：非洲正处于人工智能技术的早期采用阶段，拥有年轻且受教育程度不断提高的人口、快速增长的AI初创企业生态和庞大的潜在消费者市场。然而，由于资金不足、基础设施薄弱、互联网接入有限和国内数据中心稀缺，以及缺乏利用人工智能巨大利益和规范其负面影响的总体政策或战略，非洲的人工智能行业发展面临诸多挑战。</description>
+      <pubDate>2024-11-11 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Anderson Moss ®️</title>
+      <link>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</link>
+      <description>Anderson Moss通过一个获奖网站重新定义了其品牌，该网站结合了艺术设计和创新技术，展示了其一年来的品牌重塑和全新身份设计。网站不仅是一个设计和开发作品集，还通过互动设计和定制开发功能体现了公司的美学原则和“空白画布”理念，赢得了多个奖项，证明了现代设计和发展技术的潜力。</description>
+      <pubDate>2024-11-11 11:52:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Science and technology stories in the age of Trump</title>
+      <link>https://www.technologyreview.com/2024/11/11/1106803/science-and-technology-stories-in-the-age-of-trump/</link>
+      <description>在特朗普时代，科技政策将面临重大变化。特朗普的胜利将为政策改革提供政治资本，直接影响科学和技术领域。文章讨论了特朗普政策对电动汽车补贴、科技监管、加密货币和对中国商品关税的影响，并强调了MIT Technology Review在报道这些变化及其影响上的重要性。</description>
+      <pubDate>2024-11-11 11:25:26</pubDate>
+    </item>
+  
+    <item>
+      <title>A bold AI movement is underway in Africa—but it is being held up</title>
+      <link>https://www.technologyreview.com/2024/11/11/1106762/africa-ai-barriers/</link>
+      <description>非洲正在兴起一场大胆的人工智能运动，但面临着资金不足、基础设施问题和监管争议等挑战。尽管有如Deep Learning Indaba等会议推动AI发展，并涌现出针对非洲本地问题的AI解决方案，但缺乏资金、基础设施和语言支持仍是主要障碍。同时，非洲AI领域缺乏统一的监管和政府支持，这可能会阻碍其全球竞争力。</description>
+      <pubDate>2024-11-11 10:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding Docker Logs: A Quick Guide for Developers</title>
+      <link>https://last9.io/blog/docker-logs/</link>
+      <description>Docker日志对于监控和故障排除至关重要，本文介绍了如何访问和使用Docker日志，包括日志存储位置、日志驱动、日志格式和配置，以及如何进行日志旋转和过滤。此外，还提供了最佳实践，如使用JSON格式进行结构化日志和集中式日志管理，以优化容器化应用程序的性能和可靠性。</description>
+      <pubDate>2024-11-11 09:36:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Must-Attend Talks and Activities at KubeCon 2024</title>
+      <link>https://last9.io/blog/must-attend-talks-and-activities-at-kubecon-2024/</link>
+      <description>KubeCon 2024将于11月12日在盐湖城举行，是学习、交流和娱乐的绝佳机会。会议将涵盖Kubernetes和Prometheus等技术的最新研究和创新，包括可观察性、云原生技术和性能优化等主题。此外，还有Cloud Native StartupFest、Observability Day、OpenFeature Summit等活动，以及专为儿童设计的活动。盐湖城还有许多当地美食和景点，如咖啡馆、餐厅和户外体验，为参会者提供丰富的体验。</description>
+      <pubDate>2024-11-11 08:35:05</pubDate>
+    </item>
+  
+    <item>
       <title>Build and deploy image mode for RHEL on OpenShift Virtualization</title>
       <link>https://developers.redhat.com/articles/2024/11/11/deploy-image-mode-rhel-openshift-virtualization</link>
       <description>本文介绍了如何在OpenShift虚拟化上构建和部署RHEL（红帽企业Linux）的镜像模式。通过使用容器镜像，可以简化操作系统的构建、部署和维护。文章详细说明了如何创建一个基于Apache httpd的RHEL镜像模式Web服务器，并将其部署到OpenShift虚拟化环境中。</description>
       <pubDate>2024-11-11 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Pay for this Later</title>
+      <link>https://thedailywtf.com/articles/pay-for-this-later</link>
+      <description>Remy Porter在《Daily WTF》上撰文，讨论了使用不恰当的方法解析XML数据的问题。文章指出，一个团队在处理信用卡支付网关时，使用了自定义的`fetch_data`函数来解析XML消息，而不是使用PHP内置的XML解析类。这种方法虽然简单，但缺乏对XML结构的理解，可能导致性能问题和维护困难。</description>
+      <pubDate>2024-11-11 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>React and FormData</title>
+      <link>https://www.robinwieruch.de/react-form-data/</link>
+      <description>React中处理表单数据，使用FormData时，可以通过Object.fromEntries将FormData转换为JavaScript对象，并使用Zod进行数据类型验证和错误处理。对于具有相同键的多个值，可以使用formData.getAll来正确处理。如果这种情况在应用中经常出现，可以使用zod-form-data库来简化处理。</description>
+      <pubDate>2024-11-11 04:50:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Accountability and Developer Motivation</title>
+      <link>https://www.amazingcto.com/accountability-and-developer-motivation/</link>
+      <description>文章主要探讨了CTO教练与棋手的区别，以及如何通过日常站立会议、希望驱动的软件开发和评估技术债务来提高开发者的责任感和动力。文章强调了减少挫折、增加工作乐趣和自我纪律的重要性，以解决低动机问题，并最终提高开发团队的问责制。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
     </item>
   
     </channel>
