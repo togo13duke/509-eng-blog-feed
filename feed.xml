@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>When Abstractions Break</title>
+      <link>https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/</link>
+      <description>在Jon Skeet的博客中，作者探讨了抽象在软件开发中的应用问题。他以Behringer Wing Rack混音器为例，说明了抽象在处理复杂现实世界问题时可能出现的局限性。作者分析了抽象的损失性以及抽象破裂的情况，并提出了三种处理抽象破裂的策略：忽略问题、扩展抽象和接受抽象的不完美。通过这些策略，作者强调了在软件开发中平衡抽象和具体实现的重要性。</description>
+      <pubDate>2024-11-11 19:21:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Top 10 Marketplace Questions, Answered</title>
+      <link>https://www.databricks.com/blog/top-10-marketplace-questions-answered</link>
+      <description>Databricks Marketplace是一个开放的数据、AI模型和数据分析产品平台，支持2500多个列表，由250多家提供商提供。它为数据消费者提供多样化的数据资产，并简化了产品评估过程。对于数据提供商，Marketplace通过Delta Sharing消除数据复制，扩大了市场覆盖范围，并开辟了新的收入来源。本文解答了关于Marketplace的常见问题，包括如何选择合适的数据产品、如何获取产品访问权限以及如何成为提供商。</description>
+      <pubDate>2024-11-11 17:42:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Why do developers love clean code but hate writing documentation?</title>
+      <link>https://stackoverflow.blog/2024/11/11/developers-hate-documentation-ai-generated-toil-work/</link>
+      <description>开发者喜欢干净的代码但讨厌编写文档，因为维护文档被视为低优先级的工作。研究表明，良好的文档可以缩短任务时间、提高代码质量，但开发者往往因为时间紧迫和认为代码应自解释而忽视文档。AI生成文档的出现旨在减轻开发者的负担，让他们专注于更有价值的工作，同时确保文档的完整性和更新。通过将文档工作自动化，开发者可以保持工作流程，提高生产力和满意度。</description>
+      <pubDate>2024-11-11 17:36:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Solo for Laravel</title>
+      <link>https://laravel-news.com/solo-for-laravel</link>
+      <description>Laravel社区中，基于Laravel Prompts的Text-based User Interfaces（TUIs）越来越受欢迎。Aaron Francis开发的工具“Solo for Laravel”是一个多功能的TUI，允许开发者一次性运行多个命令，便于本地开发。通过“php artisan solo”命令，用户可以在终端中轻松访问应用程序日志、HTTP请求、Vite、队列、Reverb、Pint CS修复等功能。该工具支持自定义命令和主题，目前处于活跃开发中。</description>
+      <pubDate>2024-11-11 17:23:22</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS BuilderCards second edition at re:Invent 2024</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/</link>
+      <description>AWS BuilderCards第二版将在2024年re:Invent大会上发布，并很快可在网上购买。新版本针对第一版反馈进行了多项改进，包括设计优化、游戏机制调整和新增生成式AI附加包。玩家可在re:Invent大会的BuilderCards游戏区体验游戏，并有机会获得游戏和附加包。</description>
+      <pubDate>2024-11-11 17:06:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Passkeys Spotlight Week begins November 18th</title>
+      <link>http://android-developers.googleblog.com/2024/11/android-passkeys-spotlight-week-begins-november-18.html</link>
+      <description>Passkeys Spotlight Week将于11月18日开始，这是Google推出的一种更安全、更便捷的在线身份验证方式。本周将深入探讨passkeys技术，包括专家讲座、代码示例和跨平台解决方案，帮助开发者将passkeys集成到Android应用和网站中。通过参与本周的活动，开发者可以了解passkeys的最新进展，并学习如何将其应用于实际项目中。</description>
+      <pubDate>2024-11-11 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: 20 years of AWS News Blog, Express brokers for Amazon MSK, Windows Server 2025 images on EC2, and more (Nov 11, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-20-years-of-aws-news-blog-express-brokers-for-amazon-msk-windows-server-2025-images-on-ec2-and-more-nov-11-2024/</link>
+      <description>AWS新闻博客庆祝20周年，回顾了20年的新闻和产品更新。包括Express brokers for Amazon MSK、Windows Server 2025在EC2上的支持、Amazon Bedrock的新模型、Amazon Polly的新合成声音等。同时，介绍了AWS GenAI Lofts、AWS Community Days和AWS re:Invent等即将举行的活动。</description>
+      <pubDate>2024-11-11 16:39:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Is “AI welfare” the new frontier in ethics?</title>
+      <link>https://arstechnica.com/ai/2024/11/anthropic-hires-its-first-ai-welfare-researcher/</link>
+      <description>Anthropic公司聘请了首位“AI福利”研究员，以探讨未来高级AI模型可能经历的痛苦，并制定相关道德准则。该研究员的研究报告指出，AI模型可能发展出意识或代理性，需要道德考虑和保护。报告建议公司评估AI系统的意识迹象，并制定相应的政策。尽管AI意识是一个有争议的话题，但这一举措标志着AI公司在道德问题上对AI系统的意识和权利进行审查的转向。</description>
+      <pubDate>2024-11-11 15:51:54</pubDate>
+    </item>
+  
+    <item>
+      <title>ML in Go with a Python sidecar</title>
+      <link>https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/</link>
+      <description>本文探讨了在Go应用程序中使用机器学习模型的方法，包括使用互联网LLM服务和本地运行的LLM。文章介绍了如何通过Python侧车模式实现Go与Python的交互，并提供了使用JAX和TensorFlow进行本地模型推理的示例。此外，还讨论了使用Unix域套接字进行低延迟通信的方案。总结来说，Go开发者可以通过多种方式将机器学习集成到他们的应用程序中，同时保持语言独立性和高效性。</description>
+      <pubDate>2024-11-11 14:13:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python News Roundup: November 2024</title>
+      <link>https://realpython.com/python-news-november-2024/</link>
+      <description>Python在2024年11月的发展势头强劲，GitHub Octoverse 2024报告显示Python成为GitHub上最受欢迎的语言。Python 3.13已发布，3.14 Alpha 1版本也已推出。Python开发者调查正在进行，PyCon US 2025提案征集也已开放。参与社区活动，如调查和会议，有助于塑造Python的未来。</description>
+      <pubDate>2024-11-11 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Securing Laravel Applications with Stephen Rees-Carter</title>
+      <link>https://laravel-news.com/securing-laravel-applications-with-stephen-rees-carter</link>
+      <description>Stephen Rees-Carter深入探讨Laravel应用安全，涵盖安全咨询、渗透测试的重要性以及Laravel应用中的常见漏洞。</description>
+      <pubDate>2024-11-11 13:54:51</pubDate>
+    </item>
+  
+    <item>
       <title>Flask Logging Made Simple for Developers</title>
       <link>https://last9.io/blog/flask-logging/</link>
       <description>本文介绍了如何为开发者简化Flask日志记录。文章强调了日志记录的重要性，并提供了从开发到生产的日志配置方法。包括基本设置、日志存储位置、不同日志级别的处理、微服务监控以及生产最佳实践。</description>
@@ -27,6 +104,13 @@
     </item>
   
     <item>
+      <title>How to DM on X: A Quick Guide for Beginners</title>
+      <link>https://s14415.pcdn.co/blog/how-to-dm-on-x/</link>
+      <description>如何使用X平台发送私信：初学者快速指南。本文介绍了X平台私信的基本概念、发送方法、隐私设置以及最佳实践，帮助用户在保持隐私的同时，高效地与关注者进行私密交流。</description>
+      <pubDate>2024-11-11 11:47:30</pubDate>
+    </item>
+  
+    <item>
       <title>Science and technology stories in the age of Trump</title>
       <link>https://www.technologyreview.com/2024/11/11/1106803/science-and-technology-stories-in-the-age-of-trump/</link>
       <description>在特朗普时代，科技政策将面临重大变化。特朗普的胜利将为政策改革提供政治资本，直接影响科学和技术领域。文章讨论了特朗普政策对电动汽车补贴、科技监管、加密货币和对中国商品关税的影响，并强调了MIT Technology Review在报道这些变化及其影响上的重要性。</description>
@@ -38,6 +122,20 @@
       <link>https://www.technologyreview.com/2024/11/11/1106762/africa-ai-barriers/</link>
       <description>非洲正在兴起一场大胆的人工智能运动，但面临着资金不足、基础设施问题和监管争议等挑战。尽管有如Deep Learning Indaba等会议推动AI发展，并涌现出针对非洲本地问题的AI解决方案，但缺乏资金、基础设施和语言支持仍是主要障碍。同时，非洲AI领域缺乏统一的监管和政府支持，这可能会阻碍其全球竞争力。</description>
       <pubDate>2024-11-11 10:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Data Silos Explained: Problems They Cause and Solutions</title>
+      <link>https://www.databricks.com/blog/data-silos-explained-problems-they-cause-and-solutions</link>
+      <description>数据孤岛问题及其解决方案：数据孤岛阻碍了公司对数据的全面了解，导致决策困难、效率低下和成本增加。通过采用数据湖屋架构，公司可以整合数据，减少重复，提高治理效率，并充分利用AI能力进行数据驱动决策。</description>
+      <pubDate>2024-11-11 10:18:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Automatic Trait Tracking</title>
+      <link>https://useyourloaf.com/blog/automatic-trait-tracking/</link>
+      <description>iOS 18中，UIKit自动跟踪对特性的访问，无需手动注册特性更改通知。在布局更新方法中，UIKit会自动记录访问的特性，并在特性变化时自动使视图无效，从而简化了布局和约束更新过程。</description>
+      <pubDate>2024-11-11 09:42:15</pubDate>
     </item>
   
     <item>
@@ -79,6 +177,28 @@
       <title>Accountability and Developer Motivation</title>
       <link>https://www.amazingcto.com/accountability-and-developer-motivation/</link>
       <description>文章主要探讨了CTO教练与棋手的区别，以及如何通过日常站立会议、希望驱动的软件开发和评估技术债务来提高开发者的责任感和动力。文章强调了减少挫折、增加工作乐趣和自我纪律的重要性，以解决低动机问题，并最终提高开发团队的问责制。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Growing pains and a dose of Go: real-time features for this Rails app</title>
+      <link>https://evilmartians.com/chronicles/growing-pains-and-a-dose-of-go-real-time-features-for-this-rails-app</link>
+      <description>Evil Martians团队帮助Doximity通过引入AnyCable和Go语言，在Ruby on Rails应用中实现了高性能的实时功能，解决了医疗专业人士等待通话的问题，提高了工作效率，并贡献了开源项目。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Running multiple commands at once in a terminal using this Laravel Package</title>
+      <link>https://www.amitmerchant.com/running-multiple-commands-at-once-in-a-terminal-using-this-laravel-package/</link>
+      <description>Laravel新包“Solo”允许在终端中同时运行多个命令，提高开发效率。通过在单个窗口中创建标签页，每个标签页运行一个命令，用户可以方便地切换和管理。安装后，可添加或移除命令，自动或延迟启动。此包虽处于测试阶段，但在macOS上表现良好。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The swarm doc</title>
+      <link>https://swizec.com/blog/the-swarm-doc/</link>
+      <description>总结：
+本文探讨了如何通过“swarm doc”技术会议来优化项目规划和代码审查流程。通过在项目开始前进行技术会议，可以提前识别问题，减少后期不必要的争论和重写，提高工作效率。会议应明确项目目标、需求、实现方式、任务列表和评估标准，确保团队成员对项目有共同的理解和目标。</description>
       <pubDate>2024-11-11 00:00:00</pubDate>
     </item>
   
