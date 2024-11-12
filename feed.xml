@@ -6,6 +6,97 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Postgres GUI, Reimagined with AI: Code Smarter With SQL Assistant</title>
+      <link>https://www.timescale.com/blog/postgres-gui-sql-assistant/</link>
+      <description>Timescale重新设计了PostgreSQL GUI，引入了AI辅助的SQL助手，以提升开发效率和用户体验。SQL助手提供实时SQL帮助、错误修复、性能调优等功能，并支持团队协作。此功能目前处于早期访问阶段，免费使用，并持续改进以适应开发者需求。</description>
+      <pubDate>2024-11-12 14:00:25</pubDate>
+    </item>
+  
+    <item>
+      <title>How We're Bringing Postgres Into the AI Era</title>
+      <link>https://www.timescale.com/blog/how-were-bringing-postgres-into-the-ai-era/</link>
+      <description>Timescale扩展PostgreSQL，提供快速的时间序列分析和AI功能。通过pgai Vectorizer，开发者可在PostgreSQL中自动创建和存储AI嵌入，无需复杂基础设施。SQL Assistant提供智能的SQL支持，帮助开发者更高效地编写和优化代码。Foreign Data Wrappers允许无缝访问分布式数据，而Chunk Size Recommendations优化性能。这些工具使PostgreSQL成为灵活、强大的平台，适用于各种工作流程。</description>
+      <pubDate>2024-11-12 14:00:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Improvements to Logs Explorer: Better performance for loading large volumes of logs, Fixes to Query Builder</title>
+      <link>https://last9.io/changelog/improvements-to-logs-explorer-better-performance-for-loading-large-volumes-of-logs-fixes-to-query-builder/</link>
+      <description>Logs Explorer性能提升，加载大量日志更快，查询构建器修复。长时间查询超300GB时不再超时，小查询加载更快。修复了编辑值、移除过滤器、显示操作符和搜索下拉菜单的问题。</description>
+      <pubDate>2024-11-12 13:26:11</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: parkour for robot dogs, and Africa’s AI ambitions</title>
+      <link>https://www.technologyreview.com/2024/11/12/1106823/the-download-parkour-for-robot-dogs-and-africas-ai-ambitions/</link>
+      <description>MIT Technology Review报道，通过结合生成式AI模型和物理模拟器，研究人员开发了一种名为LucidSim的系统，用于训练机器狗进行障碍跑训练，成功率达到传统方法之上。同时，非洲AI研究人员正在开发满足非洲需求的AI工具，以保护文化和塑造AI技术在其大陆的应用。</description>
+      <pubDate>2024-11-12 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>You Should Try Svelte 5</title>
+      <link>https://spin.atomicobject.com/you-should-try-svelte-5/</link>
+      <description>Svelte 5 引入的“Runes”功能简化了组件状态管理，通过 $state、$derived 和 $effect 等特性，使代码更易读、更高效。这一更新可能使 Svelte 成为比 React 更好的 UI 框架选择。</description>
+      <pubDate>2024-11-12 13:00:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Grosse Conf 2025 : Découvrez la keynote d'ouverture par Asma Mhalla !</title>
+      <link>https://blog.octo.com/grosse-conf-2025--decouvrez-la-keynote-d'ouverture-par-asma-mhalla-!</link>
+      <description>Asma Mhalla将在2025年3月18日的Grosse Conf 2025上发表主题演讲，探讨人工智能的政治、战略和社会维度，包括技术巨头的权力动态和虚假信息问题。会议提供多种参与方式，包括早期熊猫通行证和家族熊猫通行证。</description>
+      <pubDate>2024-11-12 13:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>What Are The Most Spoken Languages In The U.S.?</title>
+      <link>https://www.babbel.com/en/magazine/most-spoken-languages-in-the-us</link>
+      <description>美国最常见的语言包括英语、西班牙语、中文、菲律宾语和越南语。英语是母语人数最多的语言，其次是西班牙语。这些语言反映了美国的多元文化，并影响着地理、文化和语言。</description>
+      <pubDate>2024-11-12 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Structured Logging Makes Troubleshooting Easier</title>
+      <link>https://last9.io/blog/structured-logging/</link>
+      <description>结构化日志通过将日志数据组织成一致格式，简化了搜索和分析，有助于团队更快地解决问题并提高系统可靠性。它通过定义清晰的日志字段，支持自动化处理，并确保不同服务或组件的日志格式一致性，从而提高了可扩展性和可维护性。采用结构化日志，可以简化调试过程，快速定位问题根源，并利用强大的工具进行高效分析。</description>
+      <pubDate>2024-11-12 12:46:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #880</title>
+      <link>https://tympanus.net/codrops/collective/collective-880/</link>
+      <description>《The Collective #880》聚焦前端开发领域，探讨了cookie横幅、CSS新特性、自定义认证系统、可访问性表单验证、类型理论、全球开发者增长等主题，同时分享了设计灵感和创意演示。</description>
+      <pubDate>2024-11-12 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Parsing command line arguments in Python</title>
+      <link>https://akrabat.com/parsing-command-line-arguments-in-python/</link>
+      <description>Python脚本中解析命令行参数，使用argparse包实现。通过实例化解析器和添加所需参数，读取用户输入的值。若未提供文件名，将显示错误信息。内置帮助功能，简单易用。</description>
+      <pubDate>2024-11-12 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Build Your Own Tools with Penpot’s New Plugin System and Join the Contest</title>
+      <link>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</link>
+      <description>Penpot推出新插件系统，允许设计师和开发者自定义和扩展创意工作流程。该系统支持多种JavaScript框架，并确保插件安全、独立。同时，Penpot举办插件大赛，鼓励开发者创作插件，分享作品，争夺奖金。</description>
+      <pubDate>2024-11-12 10:17:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Africa’s AI researchers are ready for takeoff</title>
+      <link>https://www.technologyreview.com/2024/11/12/1095614/africas-ai-researchers-are-ready-for-takeoff/</link>
+      <description>非洲人工智能研究人员正在努力发展自己的AI技术，以解决当地需求并保护文化。尽管面临资金不足等挑战，他们仍致力于创新，并依赖开源技术。</description>
+      <pubDate>2024-11-12 09:26:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Generative AI taught a robot dog to scramble around a new environment</title>
+      <link>https://www.technologyreview.com/2024/11/12/1106811/generative-ai-taught-a-robot-dog-to-scramble-around-a-new-environment/</link>
+      <description>研究人员开发了一种名为LucidSim的系统，利用生成式AI和物理模拟器创建更逼真的虚拟训练环境，帮助机器人学习新技能。这种方法在训练机器人狗进行障碍训练时表现出色，成功率达到传统方法的数倍。这表明生成式AI在训练机器人执行复杂任务方面具有巨大潜力，并可能最终实现完全在虚拟世界中训练机器人的可能性。</description>
+      <pubDate>2024-11-12 09:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>A student of Geoff Hinton, Yan Lacun, and Jeff Dean explains where AI is headed</title>
       <link>https://stackoverflow.blog/2024/11/12/a-student-of-geoff-hinton-yan-lacun-and-jeff-dean-explains-where-ai-is-headed/</link>
       <description>学生Yan Lacun，Geoff Hinton和Jeff Dean的指导者，探讨了人工智能的未来方向。他们讨论了Transformer架构如何取代卷积神经网络，AI实施所需的基础设施，监管AI的影响以及合成数据的价值。</description>
@@ -17,6 +108,13 @@
       <link>https://nordicapis.com/5-real-world-examples-of-great-api-error-messages/</link>
       <description>本文探讨了优秀的API错误信息处理方式，通过分析Stripe、Merge、Instagram、Salesforce和Reltio等API的错误响应，展示了如何通过详细、易于理解的错误信息提升用户体验和开发者体验。</description>
       <pubDate>2024-11-12 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Learning in action: How Hostinger fosters a culture of curiosity</title>
+      <link>https://www.hostinger.com/blog/learning-culture</link>
+      <description>Hostinger通过将学习融入企业文化，推动个人和团队成长。公司提供多种资源和工具，如Peak Performance Pulse、内部培训、社交互动和在职学习，以促进持续学习和技能提升。这种学习文化不仅提高了员工参与度和运营效率，还促进了业务增长。</description>
+      <pubDate>2024-11-12 07:24:36</pubDate>
     </item>
   
     <item>
@@ -34,10 +132,24 @@
     </item>
   
     <item>
+      <title>Representative Line: How is an Array like a Banana?</title>
+      <link>https://thedailywtf.com/articles/how-is-an-array-like-a-banana</link>
+      <description>这篇文章通过一个有趣的类比，探讨了在VBScript中创建数组的错误方法。作者Remy Porter讲述了一个故事，其中一位开发者使用逗号分隔的字符串来初始化一个数组，结果创建了8个空字符串。这种做法被称为“stringly typed initialization”，并指出这种错误可能仍在其他地方潜伏，等待其他开发者重蹈覆辙。</description>
+      <pubDate>2024-11-12 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Our journey to Snowflake monitoring mastery</title>
       <link>https://www.canva.dev/blog/engineering/our-journey-to-snowflake-monitoring-mastery/</link>
       <description>Canva团队深入探索Snowflake监控，通过整合Snowflake、dbt、Fivetran等工具，实现数据高效管理。他们利用Census同步数据，Looker和Mode进行可视化分析，并开发自定义工具提升透明度和成本效益。通过这些努力，Canva优化了数据流程，提高了团队协作效率。</description>
       <pubDate>2024-11-12 00:00:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 8.15.4 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-8-15-4-released</link>
+      <description>Elastic Stack 8.15.4版本发布，推荐升级以修复数据摄入问题，并查看发布说明了解详细修复和变更。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
     </item>
   
     <item>
@@ -141,6 +253,13 @@
     <item>
       <title>How to DM on X: A Quick Guide for Beginners</title>
       <link>https://s14415.pcdn.co/blog/how-to-dm-on-x/</link>
+      <description>如何使用X平台发送私信：初学者快速指南。本文介绍了X平台私信的基本概念、发送方法、隐私设置以及最佳实践，帮助用户在保持隐私的同时，高效地与关注者进行私密交流。</description>
+      <pubDate>2024-11-11 11:47:30</pubDate>
+    </item>
+  
+    <item>
+      <title>How to DM on X: A Quick Guide for Beginners</title>
+      <link>https://www.brandwatch.com/blog/how-to-dm-on-x/</link>
       <description>如何使用X平台发送私信：初学者快速指南。本文介绍了X平台私信的基本概念、发送方法、隐私设置以及最佳实践，帮助用户在保持隐私的同时，高效地与关注者进行私密交流。</description>
       <pubDate>2024-11-11 11:47:30</pubDate>
     </item>
