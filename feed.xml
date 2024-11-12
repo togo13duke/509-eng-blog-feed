@@ -174,6 +174,13 @@
     </item>
   
     <item>
+      <title>Tips for Freelancers Looking to Maximize Passive Income Streams</title>
+      <link>https://www.sitepoint.com/tips-for-freelancers-passive-income-streams/?utm_source=rss</link>
+      <description>自由职业者想要最大化被动收入流的技巧：建立多个被动收入流，如投资和在线销售产品，是增加月收入、支持业务抱负和确保财务稳定性的最佳方式。通过投资时间精力，如成为主机转售商、开设网店、创建和销售数字课程、设计并销售数字文具等，可以建立稳定的被动收入，为创业提供资金支持。</description>
+      <pubDate>2024-11-11 03:01:11</pubDate>
+    </item>
+  
+    <item>
       <title>Accountability and Developer Motivation</title>
       <link>https://www.amazingcto.com/accountability-and-developer-motivation/</link>
       <description>文章主要探讨了CTO教练与棋手的区别，以及如何通过日常站立会议、希望驱动的软件开发和评估技术债务来提高开发者的责任感和动力。文章强调了减少挫折、增加工作乐趣和自我纪律的重要性，以解决低动机问题，并最终提高开发团队的问责制。</description>
@@ -199,6 +206,20 @@
       <link>https://swizec.com/blog/the-swarm-doc/</link>
       <description>总结：
 本文探讨了如何通过“swarm doc”技术会议来优化项目规划和代码审查流程。通过在项目开始前进行技术会议，可以提前识别问题，减少后期不必要的争论和重写，提高工作效率。会议应明确项目目标、需求、实现方式、任务列表和评估标准，确保团队成员对项目有共同的理解和目标。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Working with images in Laravel using intervention/image</title>
+      <link>https://www.honeybadger.io/blog/using-intervention-image-in-laravel/</link>
+      <description>在Laravel中使用Intervention Image库处理图像，包括读取、存储、调整大小、裁剪、旋转、转换和添加水印等常见任务。该库支持GD和Imagick库，提供统一、易读的API，方便在PHP和Laravel项目中处理图像。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Go Turns 15</title>
+      <link>https://go.dev/blog/15years</link>
+      <description>Go语言迎来了15周年纪念日，用户数量在过去五年中增长了三倍，成为快速增长的编程语言之一。Go语言在稳定性、安全性和支持大规模软件工程方面保持承诺，并不断推出新特性，如改进的循环语句和标准库。Go团队致力于优化Go语言，以更好地利用现代硬件，并加强AI基础设施和开发支持。</description>
       <pubDate>2024-11-11 00:00:00</pubDate>
     </item>
   
