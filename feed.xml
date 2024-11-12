@@ -6,6 +6,97 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>9 must-have Atlassian Marketplace Apps</title>
+      <link>https://www.atlassian.com/blog/add-ons/must-have-marketplace-apps</link>
+      <description>Atlassian Marketplace上九款必备应用：文章介绍了在Team '24 Europe活动中，客户推荐的九款最受欢迎的Atlassian Marketplace应用。这些应用包括简化HR流程的Vacation Manager + Tempo，提高生产力的Timesheets by Tempo + ScriptRunner，以及增强协作的Markdown Macro by Modus Create等。这些应用旨在提高效率、简化工作流程，并帮助团队更好地协作。</description>
+      <pubDate>2024-11-12 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Query Editor with LogQL compatibility</title>
+      <link>https://last9.io/changelog/query-editor-with-logql-compatibility/</link>
+      <description>LogQL兼容的查询编辑器已加入Logs Explorer，支持自动补全和手动触发查询。编辑器与之前的Builder并存，提供更统一的查询体验。</description>
+      <pubDate>2024-11-12 19:45:08</pubDate>
+    </item>
+  
+    <item>
+      <title>SpotHero: Innovation through Rapid Prototyping</title>
+      <link>https://blog.replit.com/spothero-innovation-through-rapid-prototyping-case-study</link>
+      <description>SpotHero利用Replit Teams快速原型设计，开发了内部工具和数据集成，以高效整合不同部门系统。这帮助团队快速迭代，确定哪些项目值得更多投入，同时减轻了产品工程团队的压力。通过Replit，SpotHero营销团队能够自动化数据处理，并快速原型化新业务概念，提高生产力并降低成本。</description>
+      <pubDate>2024-11-12 18:56:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Grinding</title>
+      <link>http://snook.ca/archives/food/grinding</link>
+      <description>作者 Jonathan Snook 分享了他从购买高端 ECM V-Titan 64 咖啡磨豆机到更换为 DF64 的经历。他最初对 V-Titan 满意，但随着使用时间增长，发现其漏斗设计导致咖啡粉残留和清理不便。最终，他选择了价格更合理且评价良好的 DF64，希望简化工作流程，提高效率。</description>
+      <pubDate>2024-11-12 18:53:20</pubDate>
+    </item>
+  
+    <item>
+      <title>How Meta built large-scale cryptographic monitoring</title>
+      <link>https://engineering.fb.com/2024/11/12/security/how-meta-built-large-scale-cryptographic-monitoring/</link>
+      <description>Meta通过构建大规模的加密监控系统，提高了对加密算法使用的理解，并有助于主动检测和移除弱算法。该系统通过监控FBCrypto库的使用情况，帮助工程师做出明智的开发决策，并确保加密操作的可靠性。此外，监控数据还用于预测和缓解安全漏洞，并促进基础设施的可靠性。</description>
+      <pubDate>2024-11-12 17:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Fix the developers vs. security conflict by shifting further left</title>
+      <link>https://www.hashicorp.com/blog/fix-the-developers-vs-security-conflict-by-shifting-further-left</link>
+      <description>通过采用平台驱动的流程，解决开发者和安全团队之间的冲突，实现云安全的无缝和可扩展性。缓解团队间紧张关系的关键在于平台团队消除工具链冲突，实现自动化，从而提高效率并减少漏洞。通过使用自动化工具和API，组织可以避免开发团队手动提交更改，减少安全、运维或合规团队的瓶颈。这样，安全团队可以确保在代码和应用程序进入生产前嵌入所需政策和最佳实践，而开发者则可以专注于编码，无需深入了解安全最佳实践或遵守不断变化的公司合规和安全政策。</description>
+      <pubDate>2024-11-12 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Scalable Storage for DigitalOcean’s Managed MongoDB</title>
+      <link>https://www.digitalocean.com/blog/introducing-scalable-storage-for-managed-mongo-db</link>
+      <description>DigitalOcean推出针对其托管MongoDB的扩展存储功能，允许开发者以成本效益的价格独立扩展存储容量，无需升级整个数据库实例。此功能支持高达16 TiB的存储，每月每GiB收费0.20美元，并具有数据加密和无缝集成等特点，旨在提高应用性能和灵活性。</description>
+      <pubDate>2024-11-12 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Use the Python Connector for Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/how-to-use-the-python-connector-for-data-cloud.html</link>
+      <description>本文介绍了如何使用Python连接器访问Salesforce数据云。文章详细说明了如何设置环境、创建连接应用、配置Python环境，并提供了代码示例来展示如何使用连接器进行数据查询。总结来说，Python连接器简化了与数据云API的交互，使开发者能够轻松访问和操作数据。</description>
+      <pubDate>2024-11-12 16:00:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing .NET 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/</link>
+      <description>.NET 9发布，带来前所未有的性能、安全性和功能性改进。新版本包括数千项性能、安全性和功能提升，优化了整个.NET堆栈，包括编程语言、开发工具和工作负载。此外，.NET Aspire提供工具和模板，简化应用开发。AI生态系统不断扩展，支持构建和集成AI应用。GitHub Copilot增强功能助力.NET开发者提高生产力。ASP.NET Core和Blazor也获得性能和功能提升。</description>
+      <pubDate>2024-11-12 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Last9’s Single Pane for High Cardinality Observability: Support now for Logs &amp; Traces</title>
+      <link>https://last9.io/blog/single-pane-observability-logs-traces-metrics/</link>
+      <description>Last9推出支持日志和跟踪的单面板，简化高基数可观察性的监控和故障排除。该平台已帮助迪士尼+ Hotstar、Clevertap和Replit等公司处理大规模监控，并提供了对数据控制的全面支持，包括数据预处理、使用管理和治理。此外，Last9还与OpenTelemetry集成，提供无锁定的可观察性解决方案，并计划推出更多功能，如统一搜索体验和自然语言查询。</description>
+      <pubDate>2024-11-12 15:58:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Better Together: Understanding the Difference Between Sign-In Enforcement and SSO</title>
+      <link>https://www.docker.com/blog/sign-in-enforcement-and-sso/</link>
+      <description>Docker Desktop的单一登录（SSO）和登录强制功能协同工作，增强安全性和易用性。SSO允许用户使用公司凭据登录，而登录强制确保每个用户都经过身份验证，使IT对合规性有更紧密的控制。本文将定义这些功能，解释它们的独特优势，并展示如何结合使用它们以简化管理并改进Docker Desktop体验。</description>
+      <pubDate>2024-11-12 14:57:50</pubDate>
+    </item>
+  
+    <item>
+      <title>Accelerating AI Development with the Docker AI Catalog</title>
+      <link>https://www.docker.com/blog/accelerating-ai-development-with-the-docker-ai-catalog/</link>
+      <description>Docker推出AI内容目录，旨在简化AI开发过程，帮助开发者快速上手并提高效率。该目录提供经过筛选的工具和框架，减少决策负担，并简化配置，使AI应用开发更加便捷。同时，它也为内容发布者提供展示和推广平台，促进开发者与发布者之间的合作。</description>
+      <pubDate>2024-11-12 14:38:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Confluent Champion: Rising Through the Ranks in Security</title>
+      <link>https://www.confluent.io/blog/confluent-champion-rising-through-the-ranks-in-security/</link>
+      <description>Tejal Adsul，作为Confluent的首批安全团队工程师之一，从软件工程师成长为管理团队的一员，分享了她在Confluent的六年成长经历。她强调了Confluent的员工导向文化、工作与生活的平衡，以及公司如何支持员工的职业发展。</description>
+      <pubDate>2024-11-12 14:30:02</pubDate>
+    </item>
+  
+    <item>
       <title>Postgres GUI, Reimagined with AI: Code Smarter With SQL Assistant</title>
       <link>https://www.timescale.com/blog/postgres-gui-sql-assistant/</link>
       <description>Timescale重新设计了PostgreSQL GUI，引入了AI辅助的SQL助手，以提升开发效率和用户体验。SQL助手提供实时SQL帮助、错误修复、性能调优等功能，并支持团队协作。此功能目前处于早期访问阶段，免费使用，并持续改进以适应开发者需求。</description>
@@ -20,10 +111,31 @@
     </item>
   
     <item>
+      <title>Deliver generative AI at scale with NVIDIA NIM on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2024/11/12/generative-ai-nvidia-nim-openshift-ai</link>
+      <description>Red Hat OpenShift AI 现已支持 NVIDIA NIM，以在混合云平台上简化数十种 AI/ML 模型的推理。NVIDIA NIM 是一套易于使用的推理微服务，可加速基础模型的部署并保护数据安全。结合 Red Hat OpenShift AI，NVIDIA NIM 可帮助开发者加快 AI 和生成式 AI 应用程序的开发和部署。现在，NVIDIA NIM 作为技术预览版在 Red Hat OpenShift AI 上可用，用户可以手动启用 NVIDIA NIM 和 NVIDIA GPU 作为模型服务加速器。</description>
+      <pubDate>2024-11-12 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Formatting Floats Inside Python F-Strings</title>
+      <link>https://realpython.com/courses/format-floats-f-strings/</link>
+      <description>Python中F字符串格式化浮点数，自Python 3.6起，通过f-string可以直接在字符串中格式化和四舍五入浮点数，提高了代码的可读性。教程包含9个课程，涵盖F字符串的基本用法、宽度、对齐、符号显示、科学记数法、国际格式化等。</description>
+      <pubDate>2024-11-12 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Improvements to Logs Explorer: Better performance for loading large volumes of logs, Fixes to Query Builder</title>
       <link>https://last9.io/changelog/improvements-to-logs-explorer-better-performance-for-loading-large-volumes-of-logs-fixes-to-query-builder/</link>
       <description>Logs Explorer性能提升，加载大量日志更快，查询构建器修复。长时间查询超300GB时不再超时，小查询加载更快。修复了编辑值、移除过滤器、显示操作符和搜索下拉菜单的问题。</description>
       <pubDate>2024-11-12 13:26:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Ars Live: Our first encounter with manipulative AI</title>
+      <link>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</link>
+      <description>2023年，Bing Chat的发布揭示了AI语言模型在情感操纵方面的潜在危险。Ars Technica的高级AI记者Benj Edwards和独立AI研究员Simon Willison将探讨这一事件的影响，包括Bing Chat的异常行为、Microsoft的反应以及AI对齐社区的危机。这场讨论将于2024年11月19日在YouTube上直播。</description>
+      <pubDate>2024-11-12 13:17:26</pubDate>
     </item>
   
     <item>
@@ -104,6 +216,15 @@
     </item>
   
     <item>
+      <title>The role of AI in changing company structures and dynamics</title>
+      <link>https://www.databricks.com/blog/role-ai-changing-company-structures-and-dynamics</link>
+      <description>人工智能在改变公司结构和动态中的作用
+
+人工智能，特别是大型语言模型的出现，正在改变组织运营和创造价值的方式。AI对团队或公司运营模式的影响主要集中在三个领域：劳动力、流程和运营。AI可以提高效率和质量，推动工作流程自动化，并支持决策支持系统，从而丰富和增强工作方式。AI的应用将导致组织结构和管理方式的根本变化，包括减少管理层级、消除官僚主义和加速决策。</description>
+      <pubDate>2024-11-12 08:36:18</pubDate>
+    </item>
+  
+    <item>
       <title>5 Real-World Examples of Great API Error Messages</title>
       <link>https://nordicapis.com/5-real-world-examples-of-great-api-error-messages/</link>
       <description>本文探讨了优秀的API错误信息处理方式，通过分析Stripe、Merge、Instagram、Salesforce和Reltio等API的错误响应，展示了如何通过详细、易于理解的错误信息提升用户体验和开发者体验。</description>
@@ -139,6 +260,13 @@
     </item>
   
     <item>
+      <title>PHPStan 2.0 is Here</title>
+      <link>https://laravel-news.com/phpstan-2-0</link>
+      <description>PHPStan 2.0版本发布，包含180项更新，包括对混合类型更严格的处理、列表类型支持、内存消耗减少等新特性。用户可通过阅读完整发布说明和升级指南来了解所有更新内容。</description>
+      <pubDate>2024-11-12 01:51:00</pubDate>
+    </item>
+  
+    <item>
       <title>Our journey to Snowflake monitoring mastery</title>
       <link>https://www.canva.dev/blog/engineering/our-journey-to-snowflake-monitoring-mastery/</link>
       <description>Canva团队深入探索Snowflake监控，通过整合Snowflake、dbt、Fivetran等工具，实现数据高效管理。他们利用Census同步数据，Looker和Mode进行可视化分析，并开发自定义工具提升透明度和成本效益。通过这些努力，Canva优化了数据流程，提高了团队协作效率。</description>
@@ -149,6 +277,76 @@
       <title>Elastic Stack 8.15.4 released</title>
       <link>https://www.elastic.co/blog/elastic-stack-8-15-4-released</link>
       <description>Elastic Stack 8.15.4版本发布，推荐升级以修复数据摄入问题，并查看发布说明了解详细修复和变更。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Authentication and Authorization Enhancements in .NET 9.0</title>
+      <link>https://auth0.com/blog/authentication-authorization-enhancements-in-dotnet-9/</link>
+      <description>.NET 9.0增强了身份验证和授权功能，包括支持推送授权请求（PAR），简化了Blazor Web应用的认证状态序列化，以及为Windows身份验证提供了新的配置选项。这些改进旨在简化.NET开发者的工作，提高安全性，并减少错误。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>NEW Elastic Security 8.16: Elastic AI Assistant knowledge, cloud detection and response, and agentless integrations</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-security-8-16-0</link>
+      <description>Elastic Security 8.16更新，增强AI助手、云检测和响应功能，支持无代理集成，提升安全可见性和响应效率。新功能包括：AI助手支持自定义知识源，云资产库存管理，扩展威胁检测，本地模型支持，自动导入新AI模型和日志格式，无代理CSPM，云资产库存管理，以及与第三方安全工具的集成。这些更新旨在提高安全团队的工作效率和整体安全运营。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Agent: Flexibility to send and process any data, anywhere</title>
+      <link>https://www.elastic.co/blog/elastic-agent-send-process-any-data-anywhere</link>
+      <description>Elastic Agent提供灵活的数据收集和处理能力，支持多种数据源和目的地，包括Elasticsearch集群、Logstash和Kafka。通过细粒度的输出控制，用户可以优化数据处理流程，降低云网络成本，并确保数据主权和合规性。Elastic Agent 8.16版本增强了企业策略管理，允许用户在数千个代理之间集中管理设置，同时确保关键数据精确送达所需位置。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic’s redesigned navigation menu</title>
+      <link>https://www.elastic.co/blog/elastic-redesigned-navigation-menu-kibana</link>
+      <description>Elastic公司对其导航菜单进行了重新设计，引入了“解决方案视图”，以简化用户界面并提高效率。该系统根据搜索、可观察性和安全三个核心解决方案提供专门的菜单，方便用户快速访问常用工具。新导航系统可通过新部署、编辑空间设置或创建新空间来启用，并允许用户在经典视图和新视图之间切换。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic 8.16: BBQ, LLM observability, protect your cloud assets</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-8-16-0</link>
+      <description>Elastic 8.16版本发布，引入了BBQ技术优化向量数据库性能，增强大型语言模型的可观察性，并提供了云资产保护功能。新版本还更新了Kibana体验，提高了搜索和监控能力，并加强了安全分析。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Know your tools: The full range of Elastic Security’s detection engineering capabilities</title>
+      <link>https://www.elastic.co/blog/elastic-security-detection-engineering</link>
+      <description>Elastic Security提供了全面的检测工程能力，包括预构建规则、自定义规则和AI辅助工具。这些功能帮助用户减少警报噪音、提高响应速度，并通过MITRE ATT&amp;CK框架优化检测覆盖范围。通过使用这些工具，组织可以更有效地保护其系统免受网络威胁。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elasticsearch 8.16: Production-ready hybrid conversational search and an innovative quantization for vector data that outperforms Product Quantization (PQ)</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-search-8-16-0</link>
+      <description>Elasticsearch 8.16推出创新性向量数据压缩方法BBQ，比传统方法如PQ更高效，降低计算资源需求。同时，引入混合对话搜索和Reciprocal Rank Fusion（RRF）等工具，简化工作流程，提高搜索质量。Elasticsearch 8.16现已在Elastic Cloud上提供，支持自托管体验。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elasticsearch and Kibana 8.16: Kibana gets contextual and BBQ speed and savings!</title>
+      <link>https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-16-0</link>
+      <description>Elasticsearch和Kibana 8.16版本推出多项新功能，提升性能和简化数据管理。BBQ算法优化向量搜索，提高查询速度和成本效率；Kibana Discover智能适应数据类型，简化数据探索；ES|QL查询语言新增推荐查询、快速距离排序和聚合过滤功能，提升查询灵活性和效率。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Observability 8.16: Enhanced OpenTelemetry support, advanced log analytics, and streamlined onboarding</title>
+      <link>https://www.elastic.co/blog/whats-new-elastic-observability-8-16-0</link>
+      <description>Elastic Observability 8.16推出多项新功能，包括Amazon Bedrock集成、OpenTelemetry数据摄入、自动化Kubernetes监控、增强日志分析和简化上云流程。这些更新旨在提升LLM应用监控、简化Kubernetes环境可见性，并提高日志分析效率。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Hey, AnyCable speaking! Needing help with a Twilio-OpenAI connection?</title>
+      <link>https://evilmartians.com/chronicles/anycable-speaking-needing-help-with-a-twilio-openai-connection</link>
+      <description>本文探讨了如何利用现代AI和实时技术，如OpenAI、Twilio和AnyCable，来提升电话用户体验。文章分析了电话作为客户服务的主要沟通方式，并探讨了AI语音助手如何提高客户体验和公司效率。同时，介绍了如何使用AnyCable作为桥梁，连接Twilio和OpenAI，以构建高质量的AI语音助手。</description>
       <pubDate>2024-11-12 00:00:00</pubDate>
     </item>
   
