@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>A student of Geoff Hinton, Yan Lacun, and Jeff Dean explains where AI is headed</title>
+      <link>https://stackoverflow.blog/2024/11/12/a-student-of-geoff-hinton-yan-lacun-and-jeff-dean-explains-where-ai-is-headed/</link>
+      <description>学生Yan Lacun，Geoff Hinton和Jeff Dean的指导者，探讨了人工智能的未来方向。他们讨论了Transformer架构如何取代卷积神经网络，AI实施所需的基础设施，监管AI的影响以及合成数据的价值。</description>
+      <pubDate>2024-11-12 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>5 Real-World Examples of Great API Error Messages</title>
+      <link>https://nordicapis.com/5-real-world-examples-of-great-api-error-messages/</link>
+      <description>本文探讨了优秀的API错误信息处理方式，通过分析Stripe、Merge、Instagram、Salesforce和Reltio等API的错误响应，展示了如何通过详细、易于理解的错误信息提升用户体验和开发者体验。</description>
+      <pubDate>2024-11-12 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>LLMs and Red Hat Developer Hub: How to catalog AI assets</title>
+      <link>https://developers.redhat.com/articles/2024/11/12/llms-developer-hub-catalog-ai-assets</link>
+      <description>本文介绍了如何使用Red Hat Developer Hub来管理组织中的AI资产，包括大型语言模型（LLM）和AI服务器。通过Red Hat Developer Hub的软件目录和目录实体，开发人员和平台工程师可以记录和共享组织的AI资产细节，并通过TechDocs提供额外信息，如如何注册模型服务、使用限制和道德考虑。文章还提供了两个示例模型目录，展示了如何将模型服务器和模型资源导入Red Hat Developer Hub，并提供了使用模型服务器API的示例。</description>
+      <pubDate>2024-11-12 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to template AI software in Red Hat Developer Hub</title>
+      <link>https://developers.redhat.com/articles/2024/11/12/template-ai-software-red-hat-developer-hub</link>
+      <description>在Red Hat Developer Hub中，开发者可以使用软件模板快速创建和部署AI应用程序。这些模板简化了从网站到应用程序的创建过程，包括音频转文字、聊天机器人、代码生成、对象检测和RAG聊天机器人等AI应用。通过Red Hat Developer Hub，用户可以轻松导入模板，配置模型服务器，并部署到OpenShift AI平台，从而加速AI应用程序的开发和部署。</description>
+      <pubDate>2024-11-12 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Our journey to Snowflake monitoring mastery</title>
+      <link>https://www.canva.dev/blog/engineering/our-journey-to-snowflake-monitoring-mastery/</link>
+      <description>Canva团队深入探索Snowflake监控，通过整合Snowflake、dbt、Fivetran等工具，实现数据高效管理。他们利用Census同步数据，Looker和Mode进行可视化分析，并开发自定义工具提升透明度和成本效益。通过这些努力，Canva优化了数据流程，提高了团队协作效率。</description>
+      <pubDate>2024-11-12 00:00:01</pubDate>
+    </item>
+  
+    <item>
       <title>When Abstractions Break</title>
       <link>https://codeblog.jonskeet.uk/2024/11/11/when-abstractions-break/</link>
       <description>在Jon Skeet的博客中，作者探讨了抽象在软件开发中的应用问题。他以Behringer Wing Rack混音器为例，说明了抽象在处理复杂现实世界问题时可能出现的局限性。作者分析了抽象的损失性以及抽象破裂的情况，并提出了三种处理抽象破裂的策略：忽略问题、扩展抽象和接受抽象的不完美。通过这些策略，作者强调了在软件开发中平衡抽象和具体实现的重要性。</description>
