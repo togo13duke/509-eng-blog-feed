@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Getting to the Bottom of What It Means to Be API-First</title>
+      <link>https://nordicapis.com/getting-to-the-bottom-of-what-it-means-to-be-api-first/</link>
+      <description>API-first开发正逐渐流行，但实际执行中存在差距。Postman的报告显示，尽管74%的开发者声称采用API-first，但许多组织在实践上并未完全遵循。API-first的关键在于从API设计开始，确保API的规范和文档清晰，以优化用户体验和开发者体验。随着API-first成为行业标准，行业将看到更多关于API的故事，每个行业都将有自己独特的API应用案例。</description>
+      <pubDate>2024-11-13 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac</title>
       <link>https://simonwillison.net/2024/Nov/12/qwen25-coder/#atom-entries</link>
       <description>Qwen2.5-Coder-32B，一款由阿里巴巴Qwen研究团队开发的开源LLM，在代码能力上与GPT-4o相当，且能在Mac上运行。该模型在多个代码相关基准测试中表现出色，包括Aider的代码编辑基准测试，其性能介于GPT-4o和Claude 3.5 Sonnet之间。作者亲自尝试了该模型，并成功在Mac上运行，认为其速度和结果质量与当前最佳托管模型相当。</description>
@@ -389,6 +396,13 @@
       <title>Hey, AnyCable speaking! Needing help with a Twilio-OpenAI connection?</title>
       <link>https://evilmartians.com/chronicles/anycable-speaking-needing-help-with-a-twilio-openai-connection</link>
       <description>本文探讨了如何利用现代AI和实时技术，如OpenAI、Twilio和AnyCable，来提升电话用户体验。文章分析了电话作为客户服务的主要沟通方式，并探讨了AI语音助手如何提高客户体验和公司效率。同时，介绍了如何使用AnyCable作为桥梁，连接Twilio和OpenAI，以构建高质量的AI语音助手。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Addressing Hallucinations in AI</title>
+      <link>https://www.twilio.com/en-us/blog/addressing-hallucinations-ai</link>
+      <description>Twilio博客文章探讨了人工智能（AI）中的幻觉问题，即AI生成看似合理但实际上错误或虚构的信息。文章解释了幻觉产生的原因，包括LLM缺乏足够上下文或数据，以及训练数据集包含错误信息。文章强调了AI幻觉可能导致的业务决策失误和客户服务问题，并介绍了Twilio AI助手如何通过功能和安全措施确保AI使用的可靠性。</description>
       <pubDate>2024-11-12 00:00:00</pubDate>
     </item>
   
