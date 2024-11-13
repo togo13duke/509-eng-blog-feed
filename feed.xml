@@ -6,6 +6,69 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Demystifying Multi-Tenancy in a B2B SaaS Application</title>
+      <link>https://auth0.com/blog/demystifying-multi-tenancy-in-b2b-saas/</link>
+      <description>本文探讨了在B2B SaaS应用中实现多租户架构的重要性，并介绍了如何利用Auth0平台和Auth0组织功能来实现。文章详细解释了多租户的概念，包括组织架构、数据隔离、品牌隔离和身份隔离，以及如何通过Auth0实现这些功能，为B2B SaaS应用提供安全、可扩展和个性化的解决方案。</description>
+      <pubDate>2024-11-13 18:04:00</pubDate>
+    </item>
+  
+    <item>
+      <title>‘Work,’ your way: Jira’s language is evolving to better represent all teams</title>
+      <link>https://www.atlassian.com/blog/jira/work-your-way</link>
+      <description>Jira更新了其语言，以更好地反映不同团队对工作的定义和管理方式。将“问题”改为“工作”以体现其灵活性，允许用户自定义工作类型，并使界面根据工作类型更新。这一变化旨在使Jira更符合团队独特的流程。</description>
+      <pubDate>2024-11-13 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Safer with Google: New intelligent, real-time protections on Android to keep you safe</title>
+      <link>http://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html</link>
+      <description>谷歌推出两项新的实时保护功能，以增强Android设备的安全性并保护用户隐私。Scam Detection可识别诈骗电话，而Google Play Protect的实时威胁检测可保护用户免受恶意软件和危险应用的侵害。这些功能首先在Pixel设备上推出，并将很快扩展到更多Android设备。</description>
+      <pubDate>2024-11-13 17:59:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Posting on Bluesky, and other thoughts on social media</title>
+      <link>https://martinfowler.com/articles/2024-social-media.html</link>
+      <description>2024年，作者Martin Fowler反思了社交媒体的现状及其使用情况。他分析了不同社交媒体平台的使用，包括Bluesky、Twitter、LinkedIn和Fediverse，并讨论了每个平台的特点和优缺点。作者认为，社交媒体正变得越来越分散，他希望开放协议能获得更多支持，以改善用户体验。</description>
+      <pubDate>2024-11-13 17:33:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Zero to MVP</title>
+      <link>https://blog.replit.com/zerotomvp</link>
+      <description>Replit平台让非技术背景的用户也能快速将想法变为现实，通过其AI功能Replit Agent自动处理编码工作，帮助用户专注于产品愿景的完善。这一创新工具消除了技术障碍，让更多人能够实现自己的创意，从梦想家变为行动者。</description>
+      <pubDate>2024-11-13 17:22:13</pubDate>
+    </item>
+  
+    <item>
+      <title>A Smoother Ride: Android Emulator Stability and Performance Updates</title>
+      <link>http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html</link>
+      <description>Android Studio最新版本更新了Android模拟器，提高了稳定性和性能。通过Project Quartz项目，减少了崩溃，加快了启动时间，并解决了许多问题。这些改进使得开发者能够更稳定、可靠地测试应用，并准确评估应用在各种场景下的行为。</description>
+      <pubDate>2024-11-13 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #92: Climate disaster costs</title>
+      <link>https://www.bambooweekly.com/bw-92-climate-disaster-costs/</link>
+      <description>本周，联合国气候变化大会在巴库举行，各国代表讨论了减少气候变化速度的进展。国际商会发布了一份报告，指出气候变化不仅是一个科学或政治问题，也是一个商业问题，过去十年中极端天气事件已造成2万亿美元的经济损失。报告基于国际灾难数据库（EM-DAT）的信息，并提供了详细的数据和问题，以供进一步分析。</description>
+      <pubDate>2024-11-13 16:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Learn How to Optimize Docker Hub Costs With Our Usage Dashboards</title>
+      <link>https://www.docker.com/blog/hubdashboards/</link>
+      <description>Docker Hub推出新的使用仪表板，帮助组织监控和分析存储和提取模式，以优化Docker Hub使用并控制成本。这些仪表板提供对每个提取和请求的可见性，帮助团队识别高消耗区域，优化资源使用，并提高软件供应链的效率。通过这些数据，开发团队能够识别和调整配置错误，优化自动化流程，并避免资源过度使用。</description>
+      <pubDate>2024-11-13 14:46:12</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlocking the mysteries of complex biological systems with agentic AI</title>
+      <link>https://www.technologyreview.com/2024/11/13/1106750/unlocking-the-mysteries-of-complex-biological-systems-with-agentic-ai/</link>
+      <description>利用具有自主决策能力的AI，可以破解复杂生物系统的奥秘，推动医疗保健领域的重大进步。这种AI能够处理大量复杂数据，进行自主假设、实验和决策，从而在药物发现、免疫学和精准医学等领域产生新的知识，加速科学发现。</description>
+      <pubDate>2024-11-13 14:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing Cloudera Fine Tuning Studio for Training, Evaluating, and Deploying LLMs with Cloudera AI</title>
       <link>https://blog.cloudera.com/introducing-cloudera-fine-tuning-studio-for-training-evaluating-and-deploying-llms-with-cloudera-ai/</link>
       <description>Cloudera推出Fine Tuning Studio，旨在简化大型语言模型（LLM）的训练、评估和部署流程。该工具支持企业定制模型，以优化成本、节省时间和提高生产力。Fine Tuning Studio提供数据跟踪、训练适配器、性能评估和生产部署等功能，帮助用户轻松构建和部署生产级AI应用。</description>
@@ -17,6 +80,20 @@
       <link>https://www.timescale.com/blog/how-trebellar-halved-storage-costs-while-unlocking-real-time-insights-with-postgresql/</link>
       <description>Timescale提供了一种基于PostgreSQL的数据库解决方案，通过优化存储和查询性能，帮助用户快速处理大量时间序列数据。Trebellar公司利用TimescaleDB将存储成本降低了一半，同时每天处理1000万个数据点，为用户提供实时洞察。TimescaleDB通过自动化框架和高级功能，如超表、时间分桶和压缩，实现了数据的有效降采样和压缩，从而提高了性能并降低了成本。</description>
       <pubDate>2024-11-13 14:00:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Python Dictionary Comprehensions: How and When to Use Them</title>
+      <link>https://realpython.com/python-dictionary-comprehension/</link>
+      <description>Python字典推导是一种简洁高效的方法，用于创建、转换和过滤字典。本文介绍了如何使用字典推导来创建新字典、转换现有字典以及过滤键值对，并讨论了何时使用字典推导的最佳实践。通过学习字典推导，Python开发者可以提升代码的简洁性和可读性。</description>
+      <pubDate>2024-11-13 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Scaling MATLAB and Simulink models with Databricks and Mathworks</title>
+      <link>https://www.databricks.com/blog/scaling-matlab-and-simulink-models-databricks-and-mathworks</link>
+      <description>Databricks与MathWorks合作，使MATLAB和Simulink模型能够在大规模数据上运行，从而提高数据分析和模型训练的效率。通过Databricks平台，工程师可以在不学习新代码的情况下，利用Mathworks的算法继续开发，同时利用Databricks的数据智能平台进行大规模模型运行。该平台支持多种集成方式，包括SQL接口、REST API和Databricks Connect，以适应不同的数据量和需求。通过这种方式，企业可以更有效地进行数据分析和预测维护等应用。</description>
+      <pubDate>2024-11-13 13:54:10</pubDate>
     </item>
   
     <item>
@@ -83,10 +160,24 @@
     </item>
   
     <item>
+      <title>Red Hat Enterprise Linux 9.5: What are the top features for developers?</title>
+      <link>https://developers.redhat.com/articles/2024/11/13/red-hat-enterprise-linux-95-developers</link>
+      <description>RHEL 9.5为开发者带来了多项新特性，包括更新了编程语言运行时、数据库和工具，如Node.js 22、JDK 17和PostgreSQL 16。此外，还提供了更新的Rust、GCC、LLVM和Go版本，以及增强的安全和合规性功能。RHEL 9.5还支持容器管理和安全更新，包括Podman 5.0和改进的Identity Management。</description>
+      <pubDate>2024-11-13 09:20:00</pubDate>
+    </item>
+  
+    <item>
       <title>Runs on Atlassian Gives Partners a New Way to Showcase Strict Data Protections</title>
       <link>https://www.atlassian.com/blog/developer/runs-on-atlassian-gives-partners-a-new-way-to-showcase-strict-data-protections</link>
       <description>Atlassian推出了一项名为“运行在Atlassian上”的新徽章，旨在帮助客户识别那些不将数据传输到Atlassian云之外且提供数据驻留的App。这一举措旨在提高透明度和信任，并简化企业客户的获取过程。预计该徽章将在2025年初推出。</description>
       <pubDate>2024-11-13 08:43:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Aryza expands partnership with GoCardless to include open banking payments and new markets</title>
+      <link>https://gocardless.com/blog/aryza-expands-partnership-with-gocardless-to-include-open-banking-payments-and-new-markets/</link>
+      <description>Aryza与GoCardless扩大合作，将开放银行支付和新市场纳入其中。Aryza将GoCardless的即时银行支付功能集成到其贷款和租赁管理软件中，并计划在其他产品线中推广。此外，Aryza将GoCardless的解决方案扩展到欧洲、澳大利亚、新西兰和北美。</description>
+      <pubDate>2024-11-13 08:05:58</pubDate>
     </item>
   
     <item>
@@ -108,6 +199,41 @@
       <link>https://thedailywtf.com/articles/the-first-10-000</link>
       <description>Remy Porter在TDWTF上分享了一个关于企业级应用程序的案例。Alicia遇到了一个查询问题，导致程序抛出异常。问题出在处理超过10,000条记录时，代码错误地使用ID来表示记录状态，并在插入新数据时失败。为了解决这个问题，他们简单地增加了ID的上限，而没有修复根本的代码问题。</description>
       <pubDate>2024-11-13 06:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI Agent Systems: Modular Engineering for Reliable Enterprise AI Applications</title>
+      <link>https://www.databricks.com/blog/ai-agent-systems</link>
+      <description>Databricks的博客文章探讨了从单体到模块化工程，以构建可靠的企业级AI应用。文章强调了将大型语言模型（LLMs）分解为可独立验证和更新的组件的重要性，以实现更高的可靠性和可维护性。通过引入Mosaic AI Agent Framework，Databricks提供了一种构建端到端智能应用的新方法，允许开发者分离确定性和概率性组件，从而提高应用的质量和可扩展性。</description>
+      <pubDate>2024-11-13 04:26:14</pubDate>
+    </item>
+  
+    <item>
+      <title>Dynamic Cache, Database, and Mail Builders in Laravel 11.31</title>
+      <link>https://laravel-news.com/laravel-11-31-0</link>
+      <description>Laravel 11.31版本引入了动态缓存、数据库和邮件构建器，以及缓存令牌存储库、强制HTTPS URL方法等新功能。这些更新提高了开发效率，并增强了应用程序的安全性。</description>
+      <pubDate>2024-11-13 00:58:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Serve maps on ARM64 and in Kubernetes with MapTiler Server 4.6</title>
+      <link>https://www.maptiler.com/news/2024/11/serve-maps-on-arm64-and-in-kubernetes-with-maptiler-server-4-6</link>
+      <description>MapTiler Server 4.6支持ARM64平台和Kubernetes，适用于多种平台和架构，包括Apple Silicon Macs、Raspberry Pi和ARM云基础设施。它还支持Kubernetes，确保可靠性和可扩展性。MapTiler Data更新提供高分辨率卫星图像，OGC Tiles API增强互操作性。</description>
+      <pubDate>2024-11-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhance threat response with custom knowledge sources for Elastic AI Assistant</title>
+      <link>https://www.elastic.co/blog/elastic-ai-assistant-custom-knowledge-sources</link>
+      <description>Elastic AI助手通过检索增强生成（RAG）技术，结合用户Elasticsearch集群中的内容，为大型语言模型（LLM）提供补充知识，从而提高安全分析师的工作效率和生产力。通过添加自定义知识源，如威胁情报报告，AI助手能够更有效地处理与私有数据源相关的问题，同时确保数据安全和权限控制。这种方法简化了安全操作团队的工作流程，并提高了对安全威胁的响应能力。</description>
+      <pubDate>2024-11-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrate Arcane’s Second Season with a new Shop Collection</title>
+      <link>https://discord.com/blog/arcane-shop-collection</link>
+      <description>庆祝《Arcane》第二季，新商店系列上线，带来全新头像装饰和资料页效果，包括Jinx、Vi、Ekko等角色及其标志性技术和武器。系列商品经过精心设计，可让玩家在Discord个人资料中展示对《Arcane》的喜爱。系列商品现已上线商店，敬请探索。</description>
+      <pubDate>2024-11-13 00:00:00</pubDate>
     </item>
   
     <item>
