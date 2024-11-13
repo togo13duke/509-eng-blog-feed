@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac</title>
+      <link>https://simonwillison.net/2024/Nov/12/qwen25-coder/#atom-entries</link>
+      <description>Qwen2.5-Coder-32B，一款由阿里巴巴Qwen研究团队开发的开源LLM，在代码能力上与GPT-4o相当，且能在Mac上运行。该模型在多个代码相关基准测试中表现出色，包括Aider的代码编辑基准测试，其性能介于GPT-4o和Claude 3.5 Sonnet之间。作者亲自尝试了该模型，并成功在Mac上运行，认为其速度和结果质量与当前最佳托管模型相当。</description>
+      <pubDate>2024-11-12 23:37:36</pubDate>
+    </item>
+  
+    <item>
+      <title>New secret math benchmark stumps AI models and PhDs alike</title>
+      <link>https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/</link>
+      <description>Epoch AI发布的新数学基准FrontierMath挑战了AI模型和博士生的能力，其中包含数百个专家级问题，顶尖AI模型解决率不到2%。该基准测试AI语言模型解决原创数学问题，这些问题通常需要数学专家数小时或数天才能完成。研究显示，即使有Python环境进行测试和验证，顶级模型在FrontierMath上的表现极差，与它们在简单数学基准测试中的高表现形成鲜明对比。</description>
+      <pubDate>2024-11-12 22:49:58</pubDate>
+    </item>
+  
+    <item>
+      <title>Trouble making time for work that matters? Try the $10 Game</title>
+      <link>https://www.atlassian.com/blog/productivity/10-dollar-game-for-prioritization</link>
+      <description>尝试Atlassian的$10游戏，通过预算时间来提高工作效率。这个游戏帮助员工明确目标，与管理者保持一致，并专注于最重要的任务，从而提高生产力。通过模拟用有限的“预算”来分配任务，员工能够更自信地优先处理真正重要的事情。</description>
+      <pubDate>2024-11-12 21:12:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Unlock global growth with Google Play's tax and compliance initiatives</title>
+      <link>http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html</link>
+      <description>Google Play通过简化税收和合规流程，为开发者提供安全、可信赖的市场环境，助力全球增长。平台提供工具和资源，帮助开发者应对国际法规，同时加强安全措施，如Play Protect服务，以提升用户体验和信任。此外，Google Play致力于优化开发者体验，包括灵活的税收平台、简化的注册流程、便捷的会计工具和提升用户转化率的策略。</description>
+      <pubDate>2024-11-12 21:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Netflix’s Distributed Counter Abstraction</title>
+      <link>https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2?source=rss----2615bd06b42e---4</link>
+      <description>Netflix推出了一种名为“分布式计数抽象”的新服务，旨在实现大规模分布式计数，同时保持低延迟性能。该服务支持两种计数模式：尽力而为和最终一致，并允许用户根据需求选择。通过API进行操作，用户无需关心底层存储机制。该服务旨在满足Netflix在跟踪用户互动、监控特定功能展示频率以及进行A/B测试等场景下的计数需求。</description>
+      <pubDate>2024-11-12 20:45:23</pubDate>
+    </item>
+  
+    <item>
       <title>9 must-have Atlassian Marketplace Apps</title>
       <link>https://www.atlassian.com/blog/add-ons/must-have-marketplace-apps</link>
       <description>Atlassian Marketplace上九款必备应用：文章介绍了在Team '24 Europe活动中，客户推荐的九款最受欢迎的Atlassian Marketplace应用。这些应用包括简化HR流程的Vacation Manager + Tempo，提高生产力的Timesheets by Tempo + ScriptRunner，以及增强协作的Markdown Macro by Modus Create等。这些应用旨在提高效率、简化工作流程，并帮助团队更好地协作。</description>
@@ -73,6 +108,13 @@
       <link>https://last9.io/blog/single-pane-observability-logs-traces-metrics/</link>
       <description>Last9推出支持日志和跟踪的单面板，简化高基数可观察性的监控和故障排除。该平台已帮助迪士尼+ Hotstar、Clevertap和Replit等公司处理大规模监控，并提供了对数据控制的全面支持，包括数据预处理、使用管理和治理。此外，Last9还与OpenTelemetry集成，提供无锁定的可观察性解决方案，并计划推出更多功能，如统一搜索体验和自然语言查询。</description>
       <pubDate>2024-11-12 15:58:09</pubDate>
+    </item>
+  
+    <item>
+      <title>.NET and .NET Framework November 2024 servicing releases updates</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2024-servicing-updates/</link>
+      <description>.NET和.NET Framework于2024年11月发布了服务更新，包括.NET 6.0.36和.NET 8.0.11版本，主要更新集中在安全改进和性能提升。此外，还提供了详细的发布说明和已知问题列表，以帮助开发者了解和解决相关更新。</description>
+      <pubDate>2024-11-12 15:55:26</pubDate>
     </item>
   
     <item>
@@ -348,6 +390,13 @@
       <link>https://evilmartians.com/chronicles/anycable-speaking-needing-help-with-a-twilio-openai-connection</link>
       <description>本文探讨了如何利用现代AI和实时技术，如OpenAI、Twilio和AnyCable，来提升电话用户体验。文章分析了电话作为客户服务的主要沟通方式，并探讨了AI语音助手如何提高客户体验和公司效率。同时，介绍了如何使用AnyCable作为桥梁，连接Twilio和OpenAI，以构建高质量的AI语音助手。</description>
       <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Azure Databricks at Microsoft Ignite 2024</title>
+      <link>https://www.databricks.com/blog/azure-databricks-microsoft-ignite-2024</link>
+      <description>Azure Databricks将参加2024年11月18日至22日在芝加哥举行的Microsoft Ignite大会，作为Gamechanger级赞助商，将通过一系列会议、合作伙伴互动和活动展示与微软合作的强大数据和分析能力。会议将涵盖高性能数据处理、AI应用和Azure上的集成解决方案，包括如何将传统数据仓库转变为统一的湖仓架构，以及如何使用Azure Databricks和SQL Genie构建AI应用等。</description>
+      <pubDate>2024-11-11 22:44:27</pubDate>
     </item>
   
     <item>
