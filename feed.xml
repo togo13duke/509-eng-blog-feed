@@ -6,10 +6,108 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing Cloudera Fine Tuning Studio for Training, Evaluating, and Deploying LLMs with Cloudera AI</title>
+      <link>https://blog.cloudera.com/introducing-cloudera-fine-tuning-studio-for-training-evaluating-and-deploying-llms-with-cloudera-ai/</link>
+      <description>Cloudera推出Fine Tuning Studio，旨在简化大型语言模型（LLM）的训练、评估和部署流程。该工具支持企业定制模型，以优化成本、节省时间和提高生产力。Fine Tuning Studio提供数据跟踪、训练适配器、性能评估和生产部署等功能，帮助用户轻松构建和部署生产级AI应用。</description>
+      <pubDate>2024-11-13 14:00:37</pubDate>
+    </item>
+  
+    <item>
+      <title>How Trebellar Halved Storage Costs While Unlocking  Real-Time Insights With PostgreSQL</title>
+      <link>https://www.timescale.com/blog/how-trebellar-halved-storage-costs-while-unlocking-real-time-insights-with-postgresql/</link>
+      <description>Timescale提供了一种基于PostgreSQL的数据库解决方案，通过优化存储和查询性能，帮助用户快速处理大量时间序列数据。Trebellar公司利用TimescaleDB将存储成本降低了一半，同时每天处理1000万个数据点，为用户提供实时洞察。TimescaleDB通过自动化框架和高级功能，如超表、时间分桶和压缩，实现了数据的有效降采样和压缩，从而提高了性能并降低了成本。</description>
+      <pubDate>2024-11-13 14:00:27</pubDate>
+    </item>
+  
+    <item>
+      <title>KubeCon NA 2024 Day 1 Recap: Observability Day &amp; More</title>
+      <link>https://last9.io/blog/kubecon-na-2024-day-1-recap/</link>
+      <description>KubeCon NA 2024第一天聚焦于可观测性，包括项目更新、技术讨论和案例分析。重点包括OpenTelemetry的进展、数据管理策略、故障排除和最佳实践分享。</description>
+      <pubDate>2024-11-13 13:46:55</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS CloudTrail Guide: Uses, Events, and Setup Explained</title>
+      <link>https://last9.io/blog/aws-cloudtrail-guide/</link>
+      <description>AWS CloudTrail是一种记录AWS账户中所有API调用和操作的服务，存储在S3桶中以供分析。它帮助用户跟踪API调用、资源更改和管理操作，提供审计、故障排除和合规性支持。通过CloudTrail，用户可以监控账户活动、分析事件日志，并与其他AWS服务集成以增强监控和分析能力。</description>
+      <pubDate>2024-11-13 13:31:32</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: the lab fighting exploitative AI, and plant engineering</title>
+      <link>https://www.technologyreview.com/2024/11/13/1106862/the-download-the-lab-fighting-exploitative-ai-and-plant-engineering/</link>
+      <description>人工智能实验室对抗剥削性AI，以及植物工程领域的创新；特朗普任命马斯克协助缩减政府规模；基因编辑技术加速植物新品种研发。</description>
+      <pubDate>2024-11-13 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Face à face avec les webs fonts</title>
+      <link>https://blog.octo.com/face-a-face-avec-les-webs-fonts</link>
+      <description>选择合适的字体对于确保网站的用户体验至关重要。本文探讨了如何有效地使用字体，结合设计性能，同时保证流畅的导航。文章涵盖了本地与在线字体的实现、字体格式和兼容性、优化策略，包括压缩、选择必要的字体变体和子集，以及预加载和缓存。此外，还讨论了字体显示问题，如FOIT和FOUT，以及如何通过选择合适的字体家族和考虑可读性来提高用户体验。</description>
+      <pubDate>2024-11-13 13:06:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Generate CTEs for a Legacy Database Using an LLM</title>
+      <link>https://spin.atomicobject.com/generate-ctes-using-llm/</link>
+      <description>本文探讨了使用大型语言模型（LLM）生成常见表表达式（CTEs）以简化SQL查询的过程。作者展示了如何通过将C# Entity Framework模型提供给LLM，自动生成CTEs，从而在分析旧数据库时减少手动编写SQL查询的繁琐。这种方法提高了开发效率，并使得与复杂数据库结构交互变得更加容易。</description>
+      <pubDate>2024-11-13 13:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Expands New York Footprint: NYC2 Data Center Reopens to New Customers</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-new-york-data-center-reopens-after-upgrade</link>
+      <description>DigitalOcean宣布其纽约市的数据中心NYC2重新开放，以支持更多客户和业务。该数据中心经过升级，增加了新的GPU，以提供高性能计算选项，并支持AI/ML业务。NYC2的重新开放标志着DigitalOcean对增长和创新承诺的体现，并预计将在2025年进一步扩展其服务。</description>
+      <pubDate>2024-11-13 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Creating an ASCII Shader Using OGL</title>
+      <link>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</link>
+      <description>本文将指导读者如何使用OpenGL（OGL）创建一个ASCII Shader，通过结合WebGL、Perlin噪声和GLSL技术，实现ASCII艺术动画。文章详细介绍了从设置项目环境到编写和编译Shader的步骤，并展示了如何通过Perlin噪声生成动画效果，以及如何将ASCII字符与颜色值结合以创建独特的视觉效果。</description>
+      <pubDate>2024-11-13 11:17:29</pubDate>
+    </item>
+  
+    <item>
+      <title>What is ELK: Core Components, Ecosystem &amp; Setup Guide</title>
+      <link>https://last9.io/blog/what-is-elk/</link>
+      <description>ELK Stack是一个流行的开源日志管理和数据分析平台，由Elasticsearch、Logstash和Kibana三个核心组件组成。Elasticsearch提供强大的搜索和分析功能，Logstash作为数据传输和处理工具，Kibana则提供数据可视化和分析界面。ELK Stack还扩展了Beats家族等工具，支持云平台和安全性，适用于日志分析、安全监控和业务智能等场景。</description>
+      <pubDate>2024-11-13 10:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>The AI lab waging a guerrilla war over exploitative AI</title>
+      <link>https://www.technologyreview.com/2024/11/13/1106837/ai-data-posioning-nightshade-glaze-art-university-of-chicago-exploitation/</link>
+      <description>人工智能实验室通过开发Glaze和Nightshade两款工具，帮助艺术家对抗未经授权的AI数据抓取，保护他们的作品不被用于训练AI模型。这些工具通过在图像像素上添加微小的扰动，使AI模型无法正确读取，从而保护艺术家的风格不被复制。尽管这些工具在保护艺术家权益方面取得了一定成效，但它们也面临着来自AI社区和黑客的挑战和批评。</description>
+      <pubDate>2024-11-13 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Runs on Atlassian Gives Partners a New Way to Showcase Strict Data Protections</title>
+      <link>https://www.atlassian.com/blog/developer/runs-on-atlassian-gives-partners-a-new-way-to-showcase-strict-data-protections</link>
+      <description>Atlassian推出了一项名为“运行在Atlassian上”的新徽章，旨在帮助客户识别那些不将数据传输到Atlassian云之外且提供数据驻留的App。这一举措旨在提高透明度和信任，并简化企业客户的获取过程。预计该徽章将在2025年初推出。</description>
+      <pubDate>2024-11-13 08:43:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Facebook Business Manager: Your Ultimate Guide for 2025</title>
+      <link>https://www.brandwatch.com/blog/facebook-business-manager/</link>
+      <description>Facebook Business Manager（现更名为Meta Business Manager）是帮助企业管理和优化其Facebook和Instagram业务的核心工具。它允许用户集中管理多个页面、广告账户，并与团队成员和代理机构协作。本文将介绍如何设置和管理Meta Business Manager账户，包括组织业务资产、设置跟踪、管理团队权限，以及利用高级功能如详细分析、自定义受众创建和像素跟踪。通过Meta Business Manager，企业可以更有效地进行广告投放和跨平台营销。</description>
+      <pubDate>2024-11-13 08:03:27</pubDate>
+    </item>
+  
+    <item>
       <title>Getting to the Bottom of What It Means to Be API-First</title>
       <link>https://nordicapis.com/getting-to-the-bottom-of-what-it-means-to-be-api-first/</link>
       <description>API-first开发正逐渐流行，但实际执行中存在差距。Postman的报告显示，尽管74%的开发者声称采用API-first，但许多组织在实践上并未完全遵循。API-first的关键在于从API设计开始，确保API的规范和文档清晰，以优化用户体验和开发者体验。随着API-first成为行业标准，行业将看到更多关于API的故事，每个行业都将有自己独特的API应用案例。</description>
       <pubDate>2024-11-13 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: The First 10,000</title>
+      <link>https://thedailywtf.com/articles/the-first-10-000</link>
+      <description>Remy Porter在TDWTF上分享了一个关于企业级应用程序的案例。Alicia遇到了一个查询问题，导致程序抛出异常。问题出在处理超过10,000条记录时，代码错误地使用ID来表示记录状态，并在插入新数据时失败。为了解决这个问题，他们简单地增加了ID的上限，而没有修复根本的代码问题。</description>
+      <pubDate>2024-11-13 06:30:00</pubDate>
     </item>
   
     <item>
@@ -403,6 +501,13 @@
       <title>Addressing Hallucinations in AI</title>
       <link>https://www.twilio.com/en-us/blog/addressing-hallucinations-ai</link>
       <description>Twilio博客文章探讨了人工智能（AI）中的幻觉问题，即AI生成看似合理但实际上错误或虚构的信息。文章解释了幻觉产生的原因，包括LLM缺乏足够上下文或数据，以及训练数据集包含错误信息。文章强调了AI幻觉可能导致的业务决策失误和客户服务问题，并介绍了Twilio AI助手如何通过功能和安全措施确保AI使用的可靠性。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CSS fix to prevent orphan icons dropping to a new line</title>
+      <link>https://muffinman.io/blog/css-fix-to-prevent-orphan-icons/</link>
+      <description>CSS解决图标孤行问题，通过添加`text-wrap: balance;`属性，浏览器将自动平衡每行字符数，防止图标或单词孤行，提高布局质量和可读性。</description>
       <pubDate>2024-11-12 00:00:00</pubDate>
     </item>
   
