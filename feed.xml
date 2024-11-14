@@ -6,6 +6,141 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #92: Climate disaster costs (solution)</title>
+      <link>https://www.bambooweekly.com/bw-92-climate-disaster-costs-solution/</link>
+      <description>本周，联合国气候变化大会（COP 29）在阿塞拜疆巴库开幕，国际商会发布了一份报告，显示过去十年气候相关灾害造成的经济损失超过2万亿美元。文章通过数据分析，探讨了这一数字的来源和准确性，并指出由于数据不完整，实际损失可能远高于这一数字。</description>
+      <pubDate>2024-11-14 19:26:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Calling methods is easier and faster with C# 13 params collections</title>
+      <link>https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster/</link>
+      <description>C# 13引入了params集合，使调用方法更加容易和快速。这一特性允许params参数使用任何支持集合表达式的集合类型，而不仅仅是数组。这提高了代码的优化性能，并提供了更好的类型安全性。通过使用params集合，开发者可以更灵活地调用方法，同时编译器会自动选择合适的重载方法。</description>
+      <pubDate>2024-11-14 18:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Nullable Reference Types in F# 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/nullable-reference-types-in-fsharp-9/</link>
+      <description>F# 9 引入了可空引用类型，增强了与 C# 等语言的互操作性，提高了代码的空值安全性。通过在类型声明后添加 | null 语法，可以明确指定哪些类型可能为空。这一特性有助于编译器识别和处理可能的空值，从而减少运行时错误。</description>
+      <pubDate>2024-11-14 18:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Scaling Document Data Extraction With LLMs &amp; Vector Databases</title>
+      <link>https://www.timescale.com/blog/scaling-document-data-extraction-with-llms-vector-databases/</link>
+      <description>Timescale Cloud利用LLMs和向量数据库，实现了从非结构化文档中提取结构化数据，显著降低了成本并提高了效率。通过Unstract平台，无需手动标注，即可处理复杂文档和多种文档变体。与不使用向量数据库相比，启用向量数据库可大幅降低提取成本，提高数据提取的准确性。</description>
+      <pubDate>2024-11-14 18:00:44</pubDate>
+    </item>
+  
+    <item>
+      <title>How developers spend the time they save thanks to AI coding tools</title>
+      <link>https://github.blog/ai-and-ml/generative-ai/how-developers-spend-the-time-they-save-thanks-to-ai-coding-tools/</link>
+      <description>开发者如何利用AI编码工具节省的时间
+
+AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码质量和安全性。这些工具能将开发者生产力提高55%，节省的时间用于系统设计、团队协作和学习新技能。开发者通过AI工具更专注于优化代码，而非调试，并利用AI生成文档和注释，提高团队协作效率。AI还帮助开发者跟上技术发展，提供实时学习支持。</description>
+      <pubDate>2024-11-14 17:32:20</pubDate>
+    </item>
+  
+    <item>
+      <title>The state of enterprise AI: How early adopters are driving success</title>
+      <link>https://www.databricks.com/blog/state-enterprise-ai-how-early-adopters-are-driving-success</link>
+      <description>企业AI现状：早期采用者如何推动成功。随着生成式AI的兴起，企业纷纷部署该技术，但同时也意识到挑战。他们正在调整策略，从通用知识LLM转向专门系统，以实现真正的商业效益。一项调查发现，成功的企业将采用全面的方法，涵盖数据管理、安全、治理、文化和特定领域专业知识，并最终使AI服务于广泛的员工。</description>
+      <pubDate>2024-11-14 17:26:37</pubDate>
+    </item>
+  
+    <item>
+      <title>ChatGPT’s success could have come sooner, says former Google AI researcher</title>
+      <link>https://arstechnica.com/ai/2024/11/chatgpts-success-could-have-come-sooner-says-former-google-ai-researcher/</link>
+      <description>前谷歌AI研究员Jakob Uszkoreit表示，ChatGPT的成功本可以更早到来。他曾是《Attention Is All You Need》一文的合著者，这篇论文介绍了Transformer AI架构，该架构是当今几乎所有知名生成AI模型的基础。尽管Uszkoreit团队对这项技术的潜力抱有很高的期望，但他们并没有预料到它在ChatGPT等产品中的关键作用。Uszkoreit认为，谷歌当时在产品开发上过于保守，未能充分利用这项技术。</description>
+      <pubDate>2024-11-14 17:00:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Structured Outputs for Batch and Agent Workflows</title>
+      <link>https://www.databricks.com/blog/introducing-structured-outputs-batch-and-agent-workflows</link>
+      <description>Databricks推出Mosaic AI Model Serving的Structured Outputs功能，通过统一的API生成符合JSON格式的结构化输出，支持批量生成和构建智能代理。此功能适用于所有类型的模型，包括Llama、GPT-4等，并支持通过response_format API字段进行批量特征提取，以及通过tools API字段实现函数调用，提高AI应用的质量和一致性。</description>
+      <pubDate>2024-11-14 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Extend the reach of your team’s knowledge with Confluence databases</title>
+      <link>https://www.atlassian.com/blog/confluence/confluence-databases-are-here</link>
+      <description>利用Confluence数据库扩展团队知识范围，通过集中存储和同步数据，提高团队协作效率，实现信息一致性和可见性。</description>
+      <pubDate>2024-11-14 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Platform Encryption for Data Cloud</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/introducing-platform-encryption-for-data-cloud.html</link>
+      <description>Salesforce推出针对数据云的平台加密功能，允许开发者使用客户管理的密钥透明加密数据，提高数据安全性并满足合规要求。此功能提供易于使用的界面，支持创建和管理密钥，并集成安全中心。目前，该功能已在所有区域普遍可用。</description>
+      <pubDate>2024-11-14 16:00:17</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios</title>
+      <link>https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/</link>
+      <description>Testcontainers Cloud为容器化测试提供了一种更安全、高效、可扩展的解决方案，相较于Docker-in-Docker（DinD）具有显著优势。它消除了运行容器在特权模式下的需要，提高了安全性，并通过云资源优化了性能。此外，Testcontainers Cloud简化了配置，并提供了更好的可观察性和调试功能，使得测试环境更加稳定和可靠。</description>
+      <pubDate>2024-11-14 15:39:07</pubDate>
+    </item>
+  
+    <item>
+      <title>X Handle: How to Choose and Optimize Yours for Maximum Impact</title>
+      <link>https://www.brandwatch.com/blog/x-handle/</link>
+      <description>选择最佳的X账号：打造有影响力的用户名的技巧。本文探讨了选择和优化X账号（如X平台上的用户名）的重要性，包括如何选择合适的名字、创建独特有效的账号、维护账号一致性以及如何更改账号。文章还提供了关于X账号的常见问题解答，帮助用户更好地管理自己的在线身份。</description>
+      <pubDate>2024-11-14 14:46:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Quelles promesses pour l'IA ?</title>
+      <link>https://blog.octo.com/quelles-promesses-pour-l'ia</link>
+      <description>人工智能（AI）的快速发展可能带来巨大变革，包括加速科学研究和改善人类健康。然而，AI的部署可能引发问题，如就业、经济和社会结构的剧变。文章探讨了AI在生物医学、神经科学、经济、和平与治理以及工作与生活意义等方面的潜在影响，同时指出AI发展可能加剧气候变化和生物多样性危机。</description>
+      <pubDate>2024-11-14 14:25:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Hide and safeguard emails from bots with the Muddle Laravel package</title>
+      <link>https://laravel-news.com/hide-and-safeguard-emails-from-bots-in-laravel-with-muddle</link>
+      <description>Muddle是一个PHP包，用于隐藏和保护电子邮件免受机器人攻击，适用于PHP和Laravel项目。它提供多种方法来混淆电子邮件，包括链接和文本策略组件，以及通过Composer安装。</description>
+      <pubDate>2024-11-14 14:03:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Stop Building Data Pipelines: Cross-Database Queries With PostgreSQL Foreign-Data Wrappers</title>
+      <link>https://www.timescale.com/blog/cross-database-queries-with-postgresql-foreign-data-wrappers/</link>
+      <description>本文探讨了使用 PostgreSQL 外部数据包装器（FDWs）进行跨数据库查询的优势，特别是在使用 Timescale Cloud 和其他 PostgreSQL 数据库时。FDWs 允许直接查询不同数据库中的数据，无需数据迁移或 ETL 管道，从而简化了数据架构并提高了分析效率。文章通过三个场景展示了 FDWs 在微服务架构、实时分析和分布式数据聚合中的应用，强调了其简化数据管理和加速分析的能力。</description>
+      <pubDate>2024-11-14 14:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: understanding AI, and what to expect from the UN’s climate conference</title>
+      <link>https://www.technologyreview.com/2024/11/14/1106925/the-download-understanding-ai-and-what-to-expect-from-the-uns-climate-conference/</link>
+      <description>MIT Technology Review最新报道，Google DeepMind研究团队开发新工具，帮助理解AI运作机制，提升AI系统性能。同时，联合国气候大会在阿塞拜疆巴库召开，各国就气候资金分配达成新目标。此外，报道了加密货币平台Polymarket调查、OpenAI呼吁美国政府投资AI等科技新闻。</description>
+      <pubDate>2024-11-14 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Looking for a Quick, Cheap Cron Job on Azure? Check Out Container App Jobs.</title>
+      <link>https://spin.atomicobject.com/quick-cheap-cron-job-azure/</link>
+      <description>本文介绍了如何使用Azure的Container App Job来快速、经济地实现Cron Job。作者分享了一个案例，其中他们的团队帮助客户将数据库迁移到Azure服务，并使用Container App Job替代了手动维护的虚拟机，以每周自动执行数据库复制任务。这种方法不仅节省了成本，而且易于维护。</description>
+      <pubDate>2024-11-14 13:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>The side hustle shuffle:&nbsp;Mapping the USA’s most popular gigs</title>
+      <link>https://www.hostinger.com/blog/usa-side-hustles</link>
+      <description>美国副业的兴起：分析最受欢迎的兼职工作，数据显示，自2016年以来，美国副业的流行度显著增长，尤其在疫情期间。超过一半的美国人通过副业补充收入，其中千禧一代平均每月赚取1129美元。最受欢迎的副业包括虚拟助手、送货司机、电子商务、创意写作等，不同州对副业的兴趣各有不同。</description>
+      <pubDate>2024-11-14 12:52:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Getting Started with OpenTelemetry in Rust</title>
+      <link>https://last9.io/blog/opentelemetry-in-rust/</link>
+      <description>本文介绍了如何在Rust中使用OpenTelemetry进行应用的可观察性，包括跟踪、指标和调试。文章详细说明了如何设置OpenTelemetry，包括依赖项配置、基本跟踪实现和高级配置，如资源归因和云提供商集成。此外，还讨论了生产环境下的设置和常见问题解决方案。</description>
+      <pubDate>2024-11-14 12:33:59</pubDate>
+    </item>
+  
+    <item>
       <title>Recreating the Mac Mini Effect Step-by-Step in Rive</title>
       <link>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</link>
       <description>本文详细介绍了如何使用Rive无代码动画工具，逐步复现Mac Mini动画效果。作者Abe Yang分享了使用嵌套画板、状态机以及伪3D效果等技巧，并展示了如何通过状态机绑定多个动画并定义它们之间的逻辑转换。最后，作者还介绍了如何将所有小动画组合到主画板中，实现最终效果。</description>
@@ -20,6 +155,13 @@
     </item>
   
     <item>
+      <title>18 Social Media Holidays to Celebrate This December</title>
+      <link>https://www.brandwatch.com/blog/social-media-holidays-to-celebrate-this-december/</link>
+      <description>探索17个12月社交媒体节日，提升营销策略并连接受众。从世界艾滋病日到圣诞节，每个节日都提供了独特的品牌互动机会。</description>
+      <pubDate>2024-11-14 10:00:50</pubDate>
+    </item>
+  
+    <item>
       <title>Google DeepMind has a new way to look inside an AI’s “mind”</title>
       <link>https://www.technologyreview.com/2024/11/14/1106871/google-deepmind-has-a-new-way-to-look-inside-an-ais-mind/</link>
       <description>DeepMind开发了一种新工具Gemma Scope，帮助研究人员理解AI模型的内部运作。通过使用稀疏自编码器，Gemma Scope可以揭示AI模型如何处理数据，并识别出代表更广泛概念的特征。这种机制可解释性研究有助于提高AI系统的理解和控制，减少错误，并减少偏见。</description>
@@ -31,6 +173,13 @@
       <link>http://blog.vanillajava.blog/2024/11/omg-using-triple-cast-weve-all-faced.html</link>
       <description>Java开发者Peter Lawrey分享了他如何避免使用三重强制类型转换的经验。他通过创建一个包含默认值的映射来简化代码，提高了可读性和效率。这种方法不仅减少了冗余，还使代码更加健壮和灵活。</description>
       <pubDate>2024-11-14 09:53:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Instagram Explore: Unlocking the Power of Content Discovery for Brands and Marketers</title>
+      <link>https://www.brandwatch.com/blog/instagram-explore/</link>
+      <description>如何提高品牌在Instagram Explore页面的可见度，吸引更多关注者。文章提供了Instagram Explore页面的重要性、算法解析、提高可见性的策略和工具推荐。</description>
+      <pubDate>2024-11-14 09:37:29</pubDate>
     </item>
   
     <item>
@@ -83,10 +232,52 @@
     </item>
   
     <item>
+      <title>Code Coverage On The Fly</title>
+      <link>https://glebbahmutov.com/blog/code-coverage-on-the-fly/</link>
+      <description>本文介绍了如何使用cy.intercept命令在Cypress测试中动态地检测JavaScript代码覆盖率。通过拦截和修改应用脚本，可以实时生成代码覆盖率报告，帮助开发者了解代码的测试覆盖率。文章还展示了如何使用nyc模块和@bahmutov/cypress-code-coverage插件来生成详细的覆盖率报告，并提供了提高代码覆盖率的方法。</description>
+      <pubDate>2024-11-14 05:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations</title>
       <link>https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/</link>
       <description>AWS推出了一种新的授权策略——资源控制策略（RCP），用于在AWS组织中设置资源权限上限，以保护数据安全并限制外部访问。RCP与现有策略SCPs互补，但独立运作，可应用于所有商业AWS区域。RCP不收取额外费用，可帮助用户在组织中实施一致的访问控制。</description>
       <pubDate>2024-11-14 01:44:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Securing the Future: How AI Gateways Protect AI Agent Systems in the Era of Generative AI</title>
+      <link>https://www.databricks.com/blog/ai-gateways-secure-ai-agent-systems</link>
+      <description>在生成式AI时代，AI网关如何保护AI代理系统。随着AI代理系统在核心业务中的应用，确保其安全至关重要。本文探讨了AI网关如何通过验证指令来保护AI代理系统，确保其在复杂数字环境中的安全部署和运行。</description>
+      <pubDate>2024-11-14 00:18:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Accelerating AI innovation: Introducing the Elastic AI Ecosystem</title>
+      <link>https://www.elastic.co/blog/elastic-ai-ecosystem</link>
+      <description>Elastic推出Elastic AI生态系统，集成了Elasticsearch向量数据库与业界领先的AI技术提供商，简化开发者构建和部署RAG应用的过程。该生态系统提供了一套全面的AI技术和工具，帮助企业加速上市并利用创新机会。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Extended protections for cloud using CNCF open source security tools</title>
+      <link>https://www.elastic.co/blog/cncf-open-source-security-tools</link>
+      <description>Elastic Security推出扩展的云安全保护，整合CNCF开源安全工具，如Falco，以增强云工作负载保护和运行时安全。通过中央分析平台，安全团队能够更有效地检测和响应威胁，同时保持灵活的集成选项，确保数据无缝摄入。这一举措旨在构建更安全的云环境，满足现代云架构的复杂安全需求。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>JSON Handling and Type Management with Large Datasets in Go - Ep.4</title>
+      <link>https://www.ardanlabs.com/blog/2024/10/json-handling-and-type-management-with-large-datasets-in-go.html</link>
+      <description>本篇博客深入探讨了在Go语言中处理大型JSON数据集和类型管理的策略。文章介绍了如何通过使用匿名结构和选择性解码来避免类型污染，以及如何通过实现自定义序列化接口来优化JSON格式。此外，还提供了处理混合类型数组的策略，以确保与Go类型系统的有效集成。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How Database Access Controls Evolved to Meet Modern Security Needs</title>
+      <link>https://goteleport.com/blog/database-access-controls/</link>
+      <description>数据库访问控制如何演变以适应现代安全需求，Teleport通过引入对象级权限和Teleport策略集成等最新功能，提供更细粒度的控制、更好的可见性和与现有安全策略的无缝集成，以解决安全与可用性之间的平衡问题。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
     </item>
   
     <item>
