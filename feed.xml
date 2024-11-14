@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Recreating the Mac Mini Effect Step-by-Step in Rive</title>
+      <link>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</link>
+      <description>本文详细介绍了如何使用Rive无代码动画工具，逐步复现Mac Mini动画效果。作者Abe Yang分享了使用嵌套画板、状态机以及伪3D效果等技巧，并展示了如何通过状态机绑定多个动画并定义它们之间的逻辑转换。最后，作者还介绍了如何将所有小动画组合到主画板中，实现最终效果。</description>
+      <pubDate>2024-11-14 11:06:19</pubDate>
+    </item>
+  
+    <item>
+      <title>What’s on the table at this year’s UN climate conference</title>
+      <link>https://www.technologyreview.com/2024/11/14/1106900/cop29-climate-finance/</link>
+      <description>今年联合国气候变化大会在阿塞拜疆巴库举行，主要讨论如何为发展中国家提供资金以应对气候变化。会议关注的是全球气候融资，目标是每年为发展中国家提供约1000亿美元的资助，以替代之前的100亿美元目标。然而，美国总统选举的结果给会议带来了不确定性，因为新当选的总统对气候变化的立场与现任政府截然不同，这可能会影响国际气候谈判的进展。</description>
+      <pubDate>2024-11-14 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Google DeepMind has a new way to look inside an AI’s “mind”</title>
+      <link>https://www.technologyreview.com/2024/11/14/1106871/google-deepmind-has-a-new-way-to-look-inside-an-ais-mind/</link>
+      <description>DeepMind开发了一种新工具Gemma Scope，帮助研究人员理解AI模型的内部运作。通过使用稀疏自编码器，Gemma Scope可以揭示AI模型如何处理数据，并识别出代表更广泛概念的特征。这种机制可解释性研究有助于提高AI系统的理解和控制，减少错误，并减少偏见。</description>
+      <pubDate>2024-11-14 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to avoid using a Triple Cast</title>
+      <link>http://blog.vanillajava.blog/2024/11/omg-using-triple-cast-weve-all-faced.html</link>
+      <description>Java开发者Peter Lawrey分享了他如何避免使用三重强制类型转换的经验。他通过创建一个包含默认值的映射来简化代码，提高了可读性和效率。这种方法不仅减少了冗余，还使代码更加健壮和灵活。</description>
+      <pubDate>2024-11-14 09:53:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Calculating an Average Without Overflow: Rounding Methods</title>
+      <link>http://blog.vanillajava.blog/2024/11/calculating-average-without-overflow.html</link>
+      <description>在计算两个整数的中点时，避免溢出错误是关键。使用 `(h + l) / 2` 可能会导致溢出，而安全的替代方法包括 `(h + l) &gt;&gt;&gt; 1`（向下取整）和 `(h + l + 1) &gt;&gt;&gt; 1`（四舍五入）。这些方法可以精确控制舍入行为，确保算法的稳定性和可预测性。</description>
+      <pubDate>2024-11-14 09:32:00</pubDate>
+    </item>
+  
+    <item>
+      <title>KubeCon NA 2024 Day 2 Recap</title>
+      <link>https://last9.io/blog/kubecon-na-2024-day-2-recap/</link>
+      <description>KubeCon NA 2024第二天会议聚焦于云原生技术和开源创新。会议亮点包括SUSE CEO关于Kubernetes在各个行业应用的发展，Grafana Labs和Google关于Prometheus Remote Write 2.0的介绍，以及OpenTelemetry项目更新。此外，还探讨了平台工程、AI平台、LLM性能优化和分布式追踪等话题。</description>
+      <pubDate>2024-11-14 09:14:54</pubDate>
+    </item>
+  
+    <item>
+      <title>There’s No Such Thing as a Free Lunch!</title>
+      <link>https://slack.engineering/theres-no-such-thing-as-a-free-lunch/</link>
+      <description>Slack通过举办“事故午餐”活动，以轻松有趣的方式训练工程师应对突发事件。该活动结合时间压力、角色扮演和限制条件，让员工在模拟环境中学习如何快速有效地响应事故。这种实践方式不仅提高了员工的应急能力，还促进了团队协作和沟通。</description>
+      <pubDate>2024-11-14 09:00:08</pubDate>
+    </item>
+  
+    <item>
       <title>The Ultimate API Guide for Quality Assurance Testers</title>
       <link>https://nordicapis.com/the-ultimate-api-guide-for-quality-assurance-testers/</link>
       <description>API测试对于质量保证至关重要，它涉及测试API的功能、性能和安全性。本文介绍了API测试的基本概念、测试方法、最佳实践以及常用工具，如Postman和JMeter。质量保证测试人员应掌握API测试，以确保API在开发过程中的各个阶段都能保持安全和高效。</description>
@@ -17,6 +66,13 @@
       <link>https://developers.redhat.com/articles/2024/11/14/testing-farm-github-action-user-stories</link>
       <description>本文介绍了如何将Testing Farm作为GitHub Action来执行测试，并展示了如何配置它。通过GitHub Action使用Testing Farm，可以避免手动设置测试基础设施、编写大量GitHub Action工作流程和处理PR状态等繁琐工作。配置从最小配置开始，包括在GitHub状态窗口中显示结果，到特定硬件配置，如展示用于AI主机系统的GPU。</description>
       <pubDate>2024-11-14 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Secondary Waits</title>
+      <link>https://thedailywtf.com/articles/secondary-waits</link>
+      <description>ArSo在一家小型公司学习编程，与开发者Kurt合作完成任务。Kurt提供的代码示例中包含一个不合理的两秒延迟，这让ArSo对Kurt的指导产生了疑问。ArSo认为自己的编程能力可能比Kurt更强。</description>
+      <pubDate>2024-11-14 06:30:00</pubDate>
     </item>
   
     <item>
@@ -282,6 +338,13 @@
       <title>Celebrate Arcane’s Second Season with a new Shop Collection</title>
       <link>https://discord.com/blog/arcane-shop-collection</link>
       <description>庆祝《Arcane》第二季，新商店系列上线，带来全新头像装饰和资料页效果，包括Jinx、Vi、Ekko等角色及其标志性技术和武器。系列商品经过精心设计，可让玩家在Discord个人资料中展示对《Arcane》的喜爱。系列商品现已上线商店，敬请探索。</description>
+      <pubDate>2024-11-13 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Holiday SMS marketing best practices for 2024 and beyond</title>
+      <link>https://www.twilio.com/en-us/blog/holiday-marketing-sms-best-practices</link>
+      <description>2024年假日短信营销最佳实践：利用短信营销策略，抓住假日销售高峰期，提升品牌可见度和客户忠诚度。通过设定明确目标、了解并细分受众、个性化消息和高效管理库存促销，确保营销活动成功。</description>
       <pubDate>2024-11-13 00:00:00</pubDate>
     </item>
   
