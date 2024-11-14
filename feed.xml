@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/</link>
+      <description>AWS推出了一种新的授权策略——资源控制策略（RCP），用于在AWS组织中设置资源权限上限，以保护数据安全并限制外部访问。RCP与现有策略SCPs互补，但独立运作，可应用于所有商业AWS区域。RCP不收取额外费用，可帮助用户在组织中实施一致的访问控制。</description>
+      <pubDate>2024-11-14 01:44:51</pubDate>
+    </item>
+  
+    <item>
+      <title>IBM boosts the amount of computation you can get done on quantum hardware</title>
+      <link>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</link>
+      <description>IBM通过改进硬件和软件，提升了量子计算的性能和准确性，使量子计算机能够进行更复杂的计算。公司推出了新的Heron处理器，并优化了软件，减少了错误率，使得量子计算更加实用。尽管量子计算机尚未超越经典计算机，但IBM的研究表明，量子计算在特定领域具有潜力。</description>
+      <pubDate>2024-11-13 22:42:40</pubDate>
+    </item>
+  
+    <item>
       <title>Demystifying Multi-Tenancy in a B2B SaaS Application</title>
       <link>https://auth0.com/blog/demystifying-multi-tenancy-in-b2b-saas/</link>
       <description>本文探讨了在B2B SaaS应用中实现多租户架构的重要性，并介绍了如何利用Auth0平台和Auth0组织功能来实现。文章详细解释了多租户的概念，包括组织架构、数据隔离、品牌隔离和身份隔离，以及如何通过Auth0实现这些功能，为B2B SaaS应用提供安全、可扩展和个性化的解决方案。</description>
@@ -16,6 +30,13 @@
       <title>‘Work,’ your way: Jira’s language is evolving to better represent all teams</title>
       <link>https://www.atlassian.com/blog/jira/work-your-way</link>
       <description>Jira更新了其语言，以更好地反映不同团队对工作的定义和管理方式。将“问题”改为“工作”以体现其灵活性，允许用户自定义工作类型，并使界面根据工作类型更新。这一变化旨在使Jira更符合团队独特的流程。</description>
+      <pubDate>2024-11-13 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing the .NET Aspire Community Toolkit</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit/</link>
+      <description>.NET Aspire社区工具包正式发布，支持.NET Aspire 9，包含多种集成和扩展，帮助开发者构建.NET Aspire应用程序。工具包易于使用和贡献，提供多种集成，如Ollama托管、Go和Java/Spring应用程序托管等。开发者可通过NuGet安装，并参与贡献以丰富工具包功能。</description>
       <pubDate>2024-11-13 18:00:00</pubDate>
     </item>
   
@@ -38,6 +59,13 @@
       <link>https://blog.replit.com/zerotomvp</link>
       <description>Replit平台让非技术背景的用户也能快速将想法变为现实，通过其AI功能Replit Agent自动处理编码工作，帮助用户专注于产品愿景的完善。这一创新工具消除了技术障碍，让更多人能够实现自己的创意，从梦想家变为行动者。</description>
       <pubDate>2024-11-13 17:22:13</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating 25 years with 25 acts of giving</title>
+      <link>https://www.surveymonkey.com/curiosity/25-anniversary-acts-of-giving/?ut_source=rss</link>
+      <description>SurveyMonkey庆祝成立25周年，通过捐赠25,000美元支持25个优秀的非营利组织，帮助他们在儿童权利、教育、医疗保健、社区支持、环境保护和重要社会变革等领域产生积极影响。这些组织利用SurveyMonkey收集数据，了解社区需求，衡量项目效果，推动社会进步。</description>
+      <pubDate>2024-11-13 17:03:28</pubDate>
     </item>
   
     <item>
