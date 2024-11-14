@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Ultimate API Guide for Quality Assurance Testers</title>
+      <link>https://nordicapis.com/the-ultimate-api-guide-for-quality-assurance-testers/</link>
+      <description>API测试对于质量保证至关重要，它涉及测试API的功能、性能和安全性。本文介绍了API测试的基本概念、测试方法、最佳实践以及常用工具，如Postman和JMeter。质量保证测试人员应掌握API测试，以确保API在开发过程中的各个阶段都能保持安全和高效。</description>
+      <pubDate>2024-11-14 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Testing Farm as GitHub Action: User stories</title>
+      <link>https://developers.redhat.com/articles/2024/11/14/testing-farm-github-action-user-stories</link>
+      <description>本文介绍了如何将Testing Farm作为GitHub Action来执行测试，并展示了如何配置它。通过GitHub Action使用Testing Farm，可以避免手动设置测试基础设施、编写大量GitHub Action工作流程和处理PR状态等繁琐工作。配置从最小配置开始，包括在GitHub状态窗口中显示结果，到特定硬件配置，如展示用于AI主机系统的GPU。</description>
+      <pubDate>2024-11-14 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Octopai Acquisition Enhances Metadata Management to Trust Data Across Entire Data Estate</title>
+      <link>https://blog.cloudera.com/octopai-acquisition-enhances-metadata-management/</link>
+      <description>Cloudera收购数据血缘和目录平台Octopai，以增强其元数据管理能力，确保整个数据资产中的数据可信。此举将简化组织对数据的理解、访问和利用，支持更强大的数据、分析和AI应用。Octopai的自动化数据发现、数据血缘和目录功能将提升数据发现、数据信任和质量，以及数据治理，从而推动AI和数据分析的成功。</description>
+      <pubDate>2024-11-14 06:15:40</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations</title>
       <link>https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/</link>
       <description>AWS推出了一种新的授权策略——资源控制策略（RCP），用于在AWS组织中设置资源权限上限，以保护数据安全并限制外部访问。RCP与现有策略SCPs互补，但独立运作，可应用于所有商业AWS区域。RCP不收取额外费用，可帮助用户在组织中实施一致的访问控制。</description>
@@ -662,6 +683,20 @@
       <title>CSS fix to prevent orphan icons dropping to a new line</title>
       <link>https://muffinman.io/blog/css-fix-to-prevent-orphan-icons/</link>
       <description>CSS解决图标孤行问题，通过添加`text-wrap: balance;`属性，浏览器将自动平衡每行字符数，防止图标或单词孤行，提高布局质量和可读性。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Driving value with Data Governance through Thin Slices</title>
+      <link>https://www.thoughtworks.com/insights/blog/digital-transformation/Driving-value-with-Data-Governance-through-Thin-Slices</link>
+      <description>通过“薄片化”方法实现数据治理，以解决企业数据管理问题。这种方法涉及将数据治理分解为小部分，逐步实施，以快速产生可衡量的积极成果。这种方法不仅关注数据质量，还包括隐私、安全和其他相关方面，同时保持跨职能团队的合作，确保数据治理的成功实施。</description>
+      <pubDate>2024-11-12 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lost In The Enchanted Forest</title>
+      <link>https://www.twilio.com/en-us/blog/lost-enchanted-forest</link>
+      <description>Twilio推出了一款基于其可编程语音API的冒险游戏，玩家通过回答问题、解决谜题来探索森林并找到逃生路线。游戏采用分支叙事，玩家的选择会影响故事走向和结局。游戏需要Java开发环境、Twilio账户和API测试工具等前提条件。</description>
       <pubDate>2024-11-12 00:00:00</pubDate>
     </item>
   
