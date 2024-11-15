@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>GitHub Availability Report: October 2024</title>
+      <link>https://github.blog/news-insights/company-news/github-availability-report-october-2024/</link>
+      <description>GitHub在2024年10月经历了一次影响服务性能的事件。10月11日，由于数据库迁移后DNS基础设施故障，导致部分服务性能下降。事件影响了Copilot用户和Actions工作流用户，GitHub团队通过部署临时DNS解析能力进行了修复，并在次日恢复了服务。GitHub正在加强基础设施的弹性和自动化流程，以加快未来类似问题的诊断和解决。</description>
+      <pubDate>2024-11-14 23:41:50</pubDate>
+    </item>
+  
+    <item>
+      <title>How to integrate GitHub Copilot with Bitbucket, Jira &amp; Confluence</title>
+      <link>https://www.atlassian.com/blog/bitbucket/github-copilot-bitbucket-jira-and-confluence</link>
+      <description>本文介绍了如何将GitHub Copilot与Bitbucket、Jira和Confluence集成，以实现更高效的开发流程。通过安装VS Code扩展和Atlassian Rovo插件，开发者可以在编辑器中直接访问Jira和Confluence的上下文信息，并利用AI功能加速代码审查和生成代码描述。此外，还介绍了Bitbucket Cloud的AI功能，如自动生成PR描述和AI代码审查，以及即将推出的AI聊天功能。</description>
+      <pubDate>2024-11-14 23:36:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Register now for Sentry Launch Week!</title>
+      <link>https://laravel-news.com/register-now-for-sentry-launch-week-2024</link>
+      <description>Sentry即将举办发布周活动，届时将推出新产品、展示独家演示并讨论开发者相关话题。活动日程包括智能搜索、AI问题分组、自动单元测试生成等。参与者可提前观看新版本视频并赢取Sentry周边产品。</description>
+      <pubDate>2024-11-14 21:35:45</pubDate>
+    </item>
+  
+    <item>
       <title>BW #92: Climate disaster costs (solution)</title>
       <link>https://www.bambooweekly.com/bw-92-climate-disaster-costs-solution/</link>
       <description>本周，联合国气候变化大会（COP 29）在阿塞拜疆巴库开幕，国际商会发布了一份报告，显示过去十年气候相关灾害造成的经济损失超过2万亿美元。文章通过数据分析，探讨了这一数字的来源和准确性，并指出由于数据不完整，实际损失可能远高于这一数字。</description>
@@ -239,6 +260,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
     </item>
   
     <item>
+      <title>Quick link: Another health crisis we aren't preparing for</title>
+      <link>https://blog.rinesi.com/2024/11/another-health-crisis</link>
+      <description>COVID-19显著增加心脏病发作和中风的风险，预计未来几年心脏病和中风病例将大幅增加，可能抵消通过改善治疗和生活习惯所取得的成果。疫苗接种可能有助于减轻但不会消除这种影响，未接种疫苗的人风险更大。</description>
+      <pubDate>2024-11-14 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations</title>
       <link>https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/</link>
       <description>AWS推出了一种新的授权策略——资源控制策略（RCP），用于在AWS组织中设置资源权限上限，以保护数据安全并限制外部访问。RCP与现有策略SCPs互补，但独立运作，可应用于所有商业AWS区域。RCP不收取额外费用，可帮助用户在组织中实施一致的访问控制。</description>
@@ -277,6 +305,31 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <title>How Database Access Controls Evolved to Meet Modern Security Needs</title>
       <link>https://goteleport.com/blog/database-access-controls/</link>
       <description>数据库访问控制如何演变以适应现代安全需求，Teleport通过引入对象级权限和Teleport策略集成等最新功能，提供更细粒度的控制、更好的可见性和与现有安全策略的无缝集成，以解决安全与可用性之间的平衡问题。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Make Outgoing Calls with Twilio Voice and the OpenAI Realtime API and Node.js</title>
+      <link>https://www.twilio.com/en-us/blog/outbound-calls-node-openai-realtime-api-voice</link>
+      <description>使用Node.js、OpenAI实时API和Twilio Voice进行外呼通话
+
+本文介绍了如何使用Node.js、OpenAI实时API和Twilio Voice API进行外呼通话。通过Twilio Voice和Media Streams，结合OpenAI实时API，可以实现自动电话呼叫，并在用户接听后触发AI进行对话。文章提供了详细的步骤和代码示例，包括项目设置、依赖安装、环境变量配置等，帮助开发者构建AI电话应用。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Twilio Verify: Resiliency for uninterrupted authentication</title>
+      <link>https://www.twilio.com/en-us/blog/verify-resiliency-for-uninterrupted-authentication</link>
+      <description>Twilio Verify提供不间断的认证服务，通过智能故障转移机制确保服务可靠性。它实时监控大量数据，动态路由流量，以最大程度地提高交付率。案例研究表明，即使在网络问题或服务中断的情况下，Twilio Verify也能保持OTP验证的连续性，保障用户体验。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Make Outgoing Calls with Twilio Voice, the OpenAI Realtime API, and Python</title>
+      <link>https://www.twilio.com/en-us/blog/outbound-calls-python-openai-realtime-api-voice</link>
+      <description>使用Python、OpenAI实时API和Twilio Voice进行外呼通话
+
+本文介绍了如何使用Python、Twilio Voice和OpenAI实时API进行外呼通话。通过创建一个Python应用程序，结合Twilio的语音服务，可以实现自动拨打电话并利用OpenAI的实时API进行交互。文章详细介绍了设置项目、安装必要的包、创建项目文件等步骤，并提供了示例代码，使读者能够轻松实现这一功能。</description>
       <pubDate>2024-11-14 00:00:00</pubDate>
     </item>
   
