@@ -6,6 +6,90 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>.NET 9 now available for RHEL and OpenShift</title>
+      <link>https://developers.redhat.com/articles/2024/11/15/net-9-now-available-rhel-and-openshift</link>
+      <description>.NET 9现已支持Red Hat Enterprise Linux (RHEL)和OpenShift，带来C# 13和F# 9等新特性，性能提升，并支持OpenAPI文档生成。安装可通过dnf命令进行，支持至2026年5月。</description>
+      <pubDate>2024-11-15 20:44:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Replicate changes from databases to Apache Iceberg tables using Amazon Data Firehose (in preview)</title>
+      <link>https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/</link>
+      <description>Amazon Data Firehose新增功能，可从数据库（如PostgreSQL和MySQL）捕获更改并复制到Amazon S3上的Apache Iceberg表，简化了数据流和大规模分析。</description>
+      <pubDate>2024-11-15 19:45:22</pubDate>
+    </item>
+  
+    <item>
+      <title>The last few months in HEIR</title>
+      <link>https://www.jeremykun.com/shortform/2024-11-15-0831/</link>
+      <description>在过去的几个月里，作者专注于开发HEIR（同态加密中间表示），一个用于完全同态加密（FHE）的编译器工具链。他们与多家硬件供应商合作，如Intel和KU Leuven，以优化HEIR生成代码，并参与建立FHE技术联盟FHETCH，以标准化硬件接口。同时，作者团队也积极吸纳实习生和社区贡献者，共同推进HEIR的发展，并计划开发Python前端以降低使用门槛。</description>
+      <pubDate>2024-11-15 18:25:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Why the term “women of childbearing age” is problematic</title>
+      <link>https://www.technologyreview.com/2024/11/15/1106949/women-of-childbearing-age-problematic-health/</link>
+      <description>“‘育龄女性’这一术语在研究和健康建议中存在问题，因为它忽视了女性健康研究的多样性，导致女性在药物副作用和医疗建议方面处于不利地位。文章指出，应采用更精确的术语，以更好地反映不同年龄段女性的健康需求。”</description>
+      <pubDate>2024-11-15 17:46:41</pubDate>
+    </item>
+  
+    <item>
+      <title>Retrofitting Spatial Safety to hundreds of millions of lines of C++</title>
+      <link>http://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html</link>
+      <description>Google通过在C++代码库中实施安全编码原则，增强了数亿行代码的空间安全性。这包括引入加固的libc++，它为标准C++数据结构添加了边界检查，从而消除了大量空间安全漏洞。此举旨在提高软件的可靠性和安全性，同时保持对性能的影响最小。</description>
+      <pubDate>2024-11-15 17:42:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Boosting Postgres INSERT Performance by 50% With UNNEST</title>
+      <link>https://www.timescale.com/blog/boosting-postgres-insert-performance/</link>
+      <description>通过使用UNNEST函数，可以将PostgreSQL的INSERT性能提升50%。这种方法通过将数组转换为行，减少了查询规划时间，从而提高了批量插入的速度。尽管UNNEST在执行时可能稍慢，但其规划效率的提升足以抵消这一劣势。对于需要快速数据插入的场景，UNNEST是一个值得考虑的优化选项。</description>
+      <pubDate>2024-11-15 17:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Centrally managing root access for customers using AWS Organizations</title>
+      <link>https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/</link>
+      <description>AWS IAM推出新功能，允许安全团队集中管理AWS Organizations中成员账户的root访问权限。此功能可简化root凭证管理，提高安全性，并减少操作负担。通过中央管理root凭证和root会话，安全团队可以更有效地控制root访问权限，同时保持合规性。</description>
+      <pubDate>2024-11-15 16:56:44</pubDate>
+    </item>
+  
+    <item>
+      <title>VPC: Behind The Scenes</title>
+      <link>https://www.digitalocean.com/blog/vpc-virtual-private-cloud-behind-the-scenes</link>
+      <description>DigitalOcean的VPC是一种提供隔离的私有网络解决方案，旨在为运行在DigitalOcean公共云上的资源提供安全性和隐私保护。VPC通过VXLAN隧道实现网络隔离，确保数据在DigitalOcean生态系统中安全传输。用户无需深入了解网络复杂性即可使用VPC，所有资源默认在VPC中，支持自定义VPC和地址范围。VPC使用MAC地址进行唯一标识，并通过Open vSwitch实现数据包转发，确保数据在VPC内部安全传输。</description>
+      <pubDate>2024-11-15 16:38:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Attention spans for math and stories</title>
+      <link>https://www.jeremykun.com/2019/03/26/attention-spans-for-math-and-stories/</link>
+      <description>数学与故事的注意力跨度：通过讲述故事激发数学兴趣，尤其是对儿童而言，故事可以成为抽象推理的载体，帮助他们理解数学概念，并培养好奇心和持久力。通过将数学知识与有趣的故事结合，可以减少数学的陌生感和恐惧感，使学习过程更加自然和愉快。</description>
+      <pubDate>2024-11-15 16:28:26</pubDate>
+    </item>
+  
+    <item>
+      <title>PHPxWorld - The resurgence of PHP meet-ups with Chris Morrell</title>
+      <link>https://laravel-news.com/phpxworld-the-resurgence-of-php-meet-ups-with-chris-morrell</link>
+      <description>PHP社区在COVID-19后迎来复兴，Chris Morrell和Eric Barnes讨论了PHPX的创建和成长，旨在重振当地PHP社区。</description>
+      <pubDate>2024-11-15 16:21:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Le mot des curateurs de La Grosse Conf.</title>
+      <link>https://blog.octo.com/le-mot-des-curateurs-de-la-grosse-conf.</link>
+      <description>La Grosse Conf. se concentre sur l'impact de l'intelligence artificielle sur les organisations, passant de la gestion des données à l'efficacité opérationnelle. Les participants discutent des défis et des opportunités de l'IA, en mettant l'accent sur la construction de plateformes robustes et l'exploration des capacités de la GenAI.</description>
+      <pubDate>2024-11-15 15:25:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Combining Semantic Search and Full-Text Search in PostgreSQL (With Cohere, Pgvector, and Pgai)</title>
+      <link>https://www.timescale.com/blog/combining-semantic-search-and-full-text-search-in-postgresql-with-cohere-pgvector-and-pgai/</link>
+      <description>结合语义搜索和全文搜索在PostgreSQL中的应用（使用Cohere、pgvector和pgai）通过结合全文搜索的精确检索和语义搜索的高相关性，可以创建一个快速、相关且准确的搜索系统。本文介绍了如何使用Cohere、pgvector和pgai在PostgreSQL中实现混合搜索，以实现更精确和上下文相关的搜索结果。</description>
+      <pubDate>2024-11-15 14:38:01</pubDate>
+    </item>
+  
+    <item>
       <title>Enable Image Analysis with Cloudera’s New Accelerator for Machine Learning Projects Based on Anthropic Claude</title>
       <link>https://blog.cloudera.com/enable-image-analysis-with-clouderas-new-accelerator-for-machine-learning-projects-based-on-anthropic-claude/</link>
       <description>Cloudera推出基于Anthropic Claude的大型语言模型的新加速器，用于机器学习项目，以实现图像分析。该工具可快速从图像中提取和转换信息，支持从手写笔记到复杂表格的数据转换，适用于快速数字化和自动化数据录入。</description>
@@ -160,6 +244,27 @@
     </item>
   
     <item>
+      <title>Securing the edge: Harnessing Falco's power with Elastic Security for cloud workload protection</title>
+      <link>https://www.elastic.co/blog/falco-elastic-security-cloud-workload-protection</link>
+      <description>本文探讨了如何利用Falco与Elastic Security的集成来加强云工作负载和端点安全。Falco是一款云原生安全工具，通过预定义和可定制的规则检测异常行为、潜在安全威胁和合规违规。与Elastic Security的集成增强了检测威胁的能力，特别是在Kubernetes集群、Linux虚拟机或裸机环境中。文章详细介绍了Falco的设置、规则、事件处理和警报管理，以及如何通过攻击模拟展示其在云和端点安全中的应用。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic and Red Hat: Accelerating public sector AI and machine learning initiatives</title>
+      <link>https://www.elastic.co/blog/elastic-red-hat-public-sector-ai-machine-learning</link>
+      <description>Elastic与红帽合作，为公共部门提供强大的AI和机器学习解决方案，以高效管理大量数据。通过结合Elastic的高性能向量搜索和红帽OpenShift AI的容器化架构，公共部门可以快速部署AI和ML应用，提高数据分析和安全性。这种集成有助于自动化任务、快速响应新需求，并提升公民服务体验。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Luke Cavanaugh’s advice for veterans seeking a new community</title>
+      <link>https://www.elastic.co/blog/culture-finding-community-military-transition</link>
+      <description>卢克·卡瓦纳为寻求新社区的退伍军人提供建议：卢克·卡瓦纳在经历了从美国空军到平民生活的转变后，分享了他在Elastic公司的工作经历和社区融入经验。他强调了将军事技能应用于新工作的重要性，并鼓励退伍军人寻找能够帮助他们顺利过渡的新社区和行业。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>GitHub Availability Report: October 2024</title>
       <link>https://github.blog/news-insights/company-news/github-availability-report-october-2024/</link>
       <description>GitHub在2024年10月经历了一次影响服务性能的事件。10月11日，由于数据库迁移后DNS基础设施故障，导致部分服务性能下降。事件影响了Copilot用户和Actions工作流用户，GitHub团队通过部署临时DNS解析能力进行了修复，并在次日恢复了服务。GitHub正在加强基础设施的弹性和自动化流程，以加快未来类似问题的诊断和解决。</description>
@@ -174,10 +279,24 @@
     </item>
   
     <item>
+      <title>Tips to Boost Engagement with Instagram Carousel</title>
+      <link>https://www.brandwatch.com/blog/instagram-carousel/</link>
+      <description>如何通过Instagram轮播提升互动：Instagram轮播功能允许用户分享多达20张图片或视频，有效提升互动率。通过创意内容、故事叙述、混合内容类型和利用轮播分割器，可以吸引更多关注，增强品牌影响力。</description>
+      <pubDate>2024-11-14 22:04:50</pubDate>
+    </item>
+  
+    <item>
       <title>Register now for Sentry Launch Week!</title>
       <link>https://laravel-news.com/register-now-for-sentry-launch-week-2024</link>
       <description>Sentry即将举办发布周活动，届时将推出新产品、展示独家演示并讨论开发者相关话题。活动日程包括智能搜索、AI问题分组、自动单元测试生成等。参与者可提前观看新版本视频并赢取Sentry周边产品。</description>
       <pubDate>2024-11-14 21:35:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI</title>
+      <link>https://www.databricks.com/blog/providence-health-automl</link>
+      <description>Providence Health与Databricks合作，通过优化Databricks AutoML和Providence自身代码，实现了对医院部门到达和占用率的准确预测，将支持部门数量从40个增加到300个以上，预测时间缩短至不到一小时。这有助于提高医院运营效率和患者护理质量。</description>
+      <pubDate>2024-11-14 19:38:03</pubDate>
     </item>
   
     <item>
