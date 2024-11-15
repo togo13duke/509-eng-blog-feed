@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Meet the guy responsible for building the Call of Duty game engine</title>
+      <link>https://stackoverflow.blog/2024/11/15/meet-the-guy-responsible-for-building-the-call-of-duty-game-engine/</link>
+      <description>Chris Fowler，Call of Duty游戏引擎的负责人，分享了他从海洋生物学到游戏开发的转变，以及创建像《使命召唤》这样受欢迎游戏的技术挑战。他强调了社区反馈在游戏开发中的重要性，并为有志于成为游戏开发者的人提供了建议。</description>
+      <pubDate>2024-11-15 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Building a Modern Clinical Trial Data Intelligence Platform</title>
+      <link>https://www.databricks.com/blog/building-modern-clinical-trial-data-intelligence-platform</link>
+      <description>Databricks正在通过其数据智能平台革新临床试验数据管理，解决传统系统在处理海量数据时的挑战。该平台结合了数据湖和数据仓库的优点，支持多种数据类型，并集成了AI和机器学习技术。通过提供灵活的数据处理、编排和AI功能，Databricks帮助生命科学公司更有效地管理临床试验数据，从而加速新药研发和上市。</description>
+      <pubDate>2024-11-15 07:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>KubeCon NA 2024 Day 3 Recap</title>
+      <link>https://last9.io/blog/kubecon-na-2024-day-3-recap/</link>
+      <description>KubeCon NA 2024第三天聚焦平台工程、FinOps和云原生未来。讨论包括平台工程的模糊定义、FinOps和成本管理的重要性，以及OpenTelemetry、Prometheus等工具的应用。会议亮点包括OpenTelemetry的规模化采用、机器学习在分布式追踪中的应用，以及实时异常检测技术。</description>
+      <pubDate>2024-11-15 06:19:36</pubDate>
+    </item>
+  
+    <item>
       <title>GitHub Availability Report: October 2024</title>
       <link>https://github.blog/news-insights/company-news/github-availability-report-october-2024/</link>
       <description>GitHub在2024年10月经历了一次影响服务性能的事件。10月11日，由于数据库迁移后DNS基础设施故障，导致部分服务性能下降。事件影响了Copilot用户和Actions工作流用户，GitHub团队通过部署临时DNS解析能力进行了修复，并在次日恢复了服务。GitHub正在加强基础设施的弹性和自动化流程，以加快未来类似问题的诊断和解决。</description>
@@ -278,6 +299,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <link>https://www.databricks.com/blog/ai-gateways-secure-ai-agent-systems</link>
       <description>在生成式AI时代，AI网关如何保护AI代理系统。随着AI代理系统在核心业务中的应用，确保其安全至关重要。本文探讨了AI网关如何通过验证指令来保护AI代理系统，确保其在复杂数字环境中的安全部署和运行。</description>
       <pubDate>2024-11-14 00:18:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Metasense V2: Enhancing, improving and productionisation of LLM powered data governance</title>
+      <link>https://engineering.grab.com/metasense-v2</link>
+      <description>Metasense V2通过集成大型语言模型（LLM）自动化数据治理，显著提升了数据分类能力，减少了人工工作量并提高了准确性。通过采用LangChain和LangSmith框架，优化了提示优化流程，增强了团队协作，并确保了低误分类率和系统可靠性。这些进步确保了我们在数据治理领域的领先地位，为利益相关者提供高质量解决方案和宝贵见解。</description>
+      <pubDate>2024-11-14 00:00:10</pubDate>
     </item>
   
     <item>
