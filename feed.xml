@@ -6,6 +6,118 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Enable Image Analysis with Cloudera’s New Accelerator for Machine Learning Projects Based on Anthropic Claude</title>
+      <link>https://blog.cloudera.com/enable-image-analysis-with-clouderas-new-accelerator-for-machine-learning-projects-based-on-anthropic-claude/</link>
+      <description>Cloudera推出基于Anthropic Claude的大型语言模型的新加速器，用于机器学习项目，以实现图像分析。该工具可快速从图像中提取和转换信息，支持从手写笔记到复杂表格的数据转换，适用于快速数字化和自动化数据录入。</description>
+      <pubDate>2024-11-15 14:00:47</pubDate>
+    </item>
+  
+    <item>
+      <title>Boost Your PostgreSQL Performance With Auto Chunk Size Recommendations</title>
+      <link>https://www.timescale.com/blog/boost-your-postgresql-performance-with-auto-chunk-size-recommendations/</link>
+      <description>Timescale Cloud通过自动推荐合适的块大小，帮助用户优化PostgreSQL数据库的性能。这项新功能通过分析数据库使用情况，提供定制化的块大小建议，从而优化读写性能，减少元数据开销，并防止查询计划缓慢。通过Timescale Cloud的Chunk Size Recommendations工具，用户可以轻松提升数据库性能，并实现更快的系统构建。</description>
+      <pubDate>2024-11-15 14:00:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Empower Your Cyber Defenders with Real-Time Analytics Author: Carolyn Duby, Field CTO</title>
+      <link>https://blog.cloudera.com/empower-your-cyber-defenders-with-real-time-analytics-author-carolyn-duby-field-cto/</link>
+      <description>Cloudera的开放数据湖屋解决方案通过整合数据湖存储和数据分析功能，帮助网络安全防御者更有效地管理大量日志数据。该系统优化了数据分析速度，确保数据安全，并支持实时威胁检测，从而提升网络安全防御能力。</description>
+      <pubDate>2024-11-15 14:00:04</pubDate>
+    </item>
+  
+    <item>
+      <title>How SLOW can you read/write files in Java?</title>
+      <link>http://blog.vanillajava.blog/2024/11/how-slow-can-you-readwrite-files-in-java.html</link>
+      <description>Java中读取/写入文件的速度通常不会成为瓶颈，尽管NIO和IO的性能不同，但对于大多数典型用例，使用PrintWriter和Files.lines(Path)的方法已经足够快。对于非常大的文件，性能主要取决于硬件速度和配置，因此优化硬件设置可能比责怪软件更为重要。</description>
+      <pubDate>2024-11-15 13:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: diversifying AI voices, and a science-fiction glimpse into the future</title>
+      <link>https://www.technologyreview.com/2024/11/15/1106941/the-download-diversifying-ai-voices-and-a-science-fiction-glimpse-into-the-future/</link>
+      <description>MIT Technology Review最新报道，人工智能语音多样性成为焦点，科技公司在推出新一代人工智能助手时，默认语音多为英语，且缺乏其他语言支持。同时，一篇科幻小说描绘了气候变化对未来世界的影响。此外，报道还涉及机器人出租车公司违规、硅谷对监管的抵制、Elon Musk的裁员计划、网络骚扰问题以及量子计算等科技新闻。</description>
+      <pubDate>2024-11-15 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>3 Benefits of Remote Work (and Why We Chose Co-Location)</title>
+      <link>https://spin.atomicobject.com/remote-work-vs-co-location/</link>
+      <description>远程工作有三大优势：无限的人才库、提高生产力和工作时间和地点的灵活性。然而，Atomic Object选择在2021年继续实行办公地点集中，以简化招聘流程、支持当地社区，并在长期视角下提高生产力。尽管远程工作有诸多好处，但公司文化是成功的关键，Atomic Object通过集中办公模式实现了增长和成功。</description>
+      <pubDate>2024-11-15 13:00:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Pandas office hours, November 17th</title>
+      <link>https://www.bambooweekly.com/pandas-office-hours-november-17th/</link>
+      <description>Pandas办公时间将于11月17日举行，由Reuven M. Lerner主持，面向付费BW订阅者。参与者可以提问或简单交流。会议将录制并上传，错过可观看。</description>
+      <pubDate>2024-11-15 12:47:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #881</title>
+      <link>https://tympanus.net/codrops/collective/collective-881/</link>
+      <description>本周的设计和开发阅读推荐包括对容器查询的深入探讨，这是响应式设计的一个重大进步，允许设计适应元素容器而非视口。文章还涉及了AI工具如何同质化创意工作，以及如何通过CSS Web组件来优化营销网站设计。</description>
+      <pubDate>2024-11-15 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #228: Maintaining the Foundations of Python &amp; Cautionary Tales</title>
+      <link>https://realpython.com/podcasts/rpp/228/</link>
+      <description>本集《Real Python播客》探讨了如何构建可持续的开源项目和社区，以及从Python历史和WordPress社区当前困境中汲取的教训。嘉宾Paul Everitt分享了Python社区如何通过多个赞助商发展，以及早期治理模式和Python软件基金会的成立。同时，讨论了WordPress社区中的潜在问题，以及如何让公司回馈依赖的开源项目。</description>
+      <pubDate>2024-11-15 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Enjeux lA et évolution du rôle du DPO - compte-rendu de la journée RGPD de la CNIL du 12/06/24 à Nancy</title>
+      <link>https://blog.octo.com/enjeux-la-et-evolution-du-role-du-dpo-compte-rendu-de-la-journee-rgpd-de-la-cnil-du-120624-a-nancy</link>
+      <description>在法国，国家信息与自由委员会（CNIL）举办了一场关于通用数据保护条例（GDPR）的研讨会，讨论了人工智能（AI）和数据处理保护官（DPO）角色的演变。CNIL强调了透明度和数据安全的重要性，并提供了工具和指南来帮助DPO应对AI带来的挑战，包括风险评估和合规性。研讨会还讨论了AI在公共部门的应用和潜在风险。</description>
+      <pubDate>2024-11-15 11:37:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Developing Moxey: A Behind-the-Scenes Look at the Process</title>
+      <link>https://tympanus.net/codrops/2024/11/15/developing-moxey-a-behind-the-scenes-look-at-the-process/</link>
+      <description>本文深入探讨了挪威电影制作公司Moxey.no网站的开发过程。作者Matt Imling分享了与挪威工作室Oker的合作，以及如何使用WordPress、Tailwind CSS、Vanilla JavaScript等技术实现一个功能强大且视觉上吸引人的网站。文章详细介绍了网站的设计、动画、视频播放器定制以及优化过程，强调了用户体验和性能的重要性。</description>
+      <pubDate>2024-11-15 11:07:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Behind HubSpot AI: How Does Prediction Engine Score Millions of CRM Objects Daily?</title>
+      <link>https://product.hubspot.com/blog/behind-hubspot-ai-how-does-prediction-engine-score-millions-of-crm-objects-daily</link>
+      <description>HubSpot的预测引擎每天评估数百万CRM对象，通过机器学习模型预测客户转化和交易成功率。该引擎通过标准化机器学习推理，提高效率并优化用户体验。它支持在线和离线推理，通过模块化架构实现扩展性，易于集成新的预测模型。预测引擎通过优化推理流程，减少系统负载，提高数据处理的准确性和效率。</description>
+      <pubDate>2024-11-15 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How this grassroots effort could make AI voices more diverse</title>
+      <link>https://www.technologyreview.com/2024/11/15/1106935/how-this-grassroots-effort-could-make-ai-voices-more-diverse/</link>
+      <description>Mozilla的Common Voice项目通过收集更多语言、不同年龄和性别人群的语音数据，旨在使下一代语音AI更具包容性和减少剥削。该项目已收集约31,000小时的语音数据，涵盖180多种语言，包括俄语、加泰罗尼亚语和马拉地语。尽管存在数据不平衡和语言覆盖不均的问题，但Common Voice项目正努力打破英语主导的现状，为AI语音数据带来更多透明度和多样性。</description>
+      <pubDate>2024-11-15 10:24:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Facebook hashtags: How to use them effectively in 2024</title>
+      <link>https://www.brandwatch.com/blog/facebook-hashtags/</link>
+      <description>2024年Facebook标签使用技巧：合理使用标签可提高内容可见度和参与度，但需避免过度使用和选择不相关标签。选择与内容相关的标签，结合广泛和特定标签，优化内容覆盖面。创建品牌标签以增强品牌认知。通过分析工具监控标签效果，避免常见错误，如标签过多或使用不相关标签。</description>
+      <pubDate>2024-11-15 10:00:26</pubDate>
+    </item>
+  
+    <item>
+      <title>Advanced Applications of Dynamic Code in Java</title>
+      <link>http://blog.vanillajava.blog/2024/11/advanced-applications-of-dynamic-code.html</link>
+      <description>Java的动态代码编译和执行提供了强大的功能，可以增强应用程序的灵活性和性能。通过减少对象创建、预编译表达式、循环展开、替换反射和动态代理，动态代码可以显著提高性能。Java运行时编译器等库简化了这些技术的应用，但需要权衡复杂性和性能收益。</description>
+      <pubDate>2024-11-15 08:54:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Two Overlooked Uses of Enums in Java</title>
+      <link>http://blog.vanillajava.blog/2024/11/two-overlooked-uses-of-enums-in-java.html</link>
+      <description>Java 枚举不仅可以表示一组常量，还能用于创建实用工具类和实现单例模式。通过枚举，可以轻松定义工具类和单例，提高代码简洁性和线程安全性，同时处理序列化问题。使用枚举实现单例和工具类，有助于编写更清晰、易于维护的代码。</description>
+      <pubDate>2024-11-15 08:45:00</pubDate>
+    </item>
+  
+    <item>
       <title>Meet the guy responsible for building the Call of Duty game engine</title>
       <link>https://stackoverflow.blog/2024/11/15/meet-the-guy-responsible-for-building-the-call-of-duty-game-engine/</link>
       <description>Chris Fowler，Call of Duty游戏引擎的负责人，分享了他从海洋生物学到游戏开发的转变，以及创建像《使命召唤》这样受欢迎游戏的技术挑战。他强调了社区反馈在游戏开发中的重要性，并为有志于成为游戏开发者的人提供了建议。</description>
@@ -20,10 +132,31 @@
     </item>
   
     <item>
+      <title>Error'd: Tangled Up In Blue</title>
+      <link>https://thedailywtf.com/articles/tangled-up-in-blue</link>
+      <description>Lyle Seaman在《Error'd》专栏中分享了几个Windows系统故障的截图，包括在公共场所的自动售货机、巴黎夜生活、Matterhorn冰川乐园、西北大学访客中心以及快餐店等场景下的系统崩溃，揭示了Windows系统在实际应用中的不稳定性和故障频发问题。</description>
+      <pubDate>2024-11-15 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>KubeCon NA 2024 Day 3 Recap</title>
       <link>https://last9.io/blog/kubecon-na-2024-day-3-recap/</link>
       <description>KubeCon NA 2024第三天聚焦平台工程、FinOps和云原生未来。讨论包括平台工程的模糊定义、FinOps和成本管理的重要性，以及OpenTelemetry、Prometheus等工具的应用。会议亮点包括OpenTelemetry的规模化采用、机器学习在分布式追踪中的应用，以及实时异常检测技术。</description>
       <pubDate>2024-11-15 06:19:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Herd Executable Support and Pest 3 Mutation Testing in PhpStorm 2024.3</title>
+      <link>https://laravel-news.com/phpstorm-2024-3</link>
+      <description>PhpStorm 2024.3新增了对PHP 8.4的支持，并为Laravel开发者提供了多项更新，包括自动检测Laravel Herd PHP可执行文件、对Pest 3的变异测试支持以及并行测试功能。这些更新提升了测试体验，并引入了PHP 8.4的新特性，如重构到新的数组函数、属性钩子支持等。</description>
+      <pubDate>2024-11-15 03:58:14</pubDate>
+    </item>
+  
+    <item>
+      <title>Notes on Software defaults</title>
+      <link>https://advancedweb.hu/shorts/notes-on-software-defaults/</link>
+      <description>软件默认设置定义了用户“开箱即用”的体验，配置往往繁琐。作者认为，理解底层技术是优秀软件工艺的基础，而默认设置不仅关乎实现“黄金路径”，更关乎塑造产品体验和表达产品理念。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
     </item>
   
     <item>
@@ -369,6 +502,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
     </item>
   
     <item>
+      <title>The difference between Turbo Streams and Turbo Frames</title>
+      <link>https://blog.arkency.com/the-difference-between-turbo-streams-and-turbo-frames/</link>
+      <description>本文探讨了Rails框架中的Turbo Streams和Turbo Frames的区别。Turbo Frames用于替换页面中的单个框架，而Turbo Streams则允许在单个响应中操作多个DOM元素，支持更多操作如追加、插入等。两者在更新范围、更新类型和实时更新方面有所不同，适用于不同的场景。</description>
+      <pubDate>2024-11-13 19:22:19</pubDate>
+    </item>
+  
+    <item>
       <title>Demystifying Multi-Tenancy in a B2B SaaS Application</title>
       <link>https://auth0.com/blog/demystifying-multi-tenancy-in-b2b-saas/</link>
       <description>本文探讨了在B2B SaaS应用中实现多租户架构的重要性，并介绍了如何利用Auth0平台和Auth0组织功能来实现。文章详细解释了多租户的概念，包括组织架构、数据隔离、品牌隔离和身份隔离，以及如何通过Auth0实现这些功能，为B2B SaaS应用提供安全、可扩展和个性化的解决方案。</description>
@@ -513,6 +653,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <link>https://www.digitalocean.com/blog/digitalocean-new-york-data-center-reopens-after-upgrade</link>
       <description>DigitalOcean宣布其纽约市的数据中心NYC2重新开放，以支持更多客户和业务。该数据中心经过升级，增加了新的GPU，以提供高性能计算选项，并支持AI/ML业务。NYC2的重新开放标志着DigitalOcean对增长和创新承诺的体现，并预计将在2025年进一步扩展其服务。</description>
       <pubDate>2024-11-13 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Basic Input and Output in Python</title>
+      <link>https://realpython.com/quizzes/python-input-output/</link>
+      <description>本篇博客介绍Python的基础输入输出操作，通过互动测验检验对内置函数input()和print()的理解，包括如何使用readline提升用户体验和格式化输出。测验包含5题，无时间限制，每题正确得1分，满分100%。</description>
+      <pubDate>2024-11-13 12:00:00</pubDate>
     </item>
   
     <item>
