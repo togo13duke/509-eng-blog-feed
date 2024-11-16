@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Installing all the things on my new Mac</title>
+      <link>https://elegantcode.com/2024/11/16/installing-all-the-things-on-my-new-mac/</link>
+      <description>新Mac安装软件清单：作者分享了在全新M4 MacBook Pro上安装的软件，包括开发工具、生产力软件、实用工具、3D打印软件以及一些其他应用，如ChatGPT AI应用、FB Messenger等。</description>
+      <pubDate>2024-11-16 18:20:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Using the len() Function in Python</title>
+      <link>https://realpython.com/len-python-function/</link>
+      <description>Python的len()函数是一个强大的工具，用于确定对象中的项目数量，如字符串、列表或字典。它适用于多种数据类型，包括字符串、列表、字典和第三方类型，如NumPy数组和pandas DataFrame。掌握len()的使用不仅有助于理解Python的数据结构，还能编写更高效、更灵活的程序。</description>
+      <pubDate>2024-11-16 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Dans les rouages de Cline (ex Claude-dev): un Agent pour assister à coder</title>
       <link>https://blog.octo.com/dans-les-rouages-de-cline-(ex-claude-dev)-un-agent-pour-assister-a-coder-1</link>
       <description>Cline，一款由前Claude-dev开发的代码辅助工具，利用大型语言模型（LLM）实现自主决策和任务执行。它通过分析用户请求，选择合适的工具，执行任务并生成结果。Cline支持多种编程语言，可编辑和创建文件，执行命令，适用于软件开发和代码生成。</description>
@@ -24,6 +38,13 @@
       <link>https://last9.io/blog/kubecon-na-2024-day-4-recap/</link>
       <description>KubeCon NA 2024第四天回顾：会议聚焦于网络监控、平台工程、Kubernetes升级和OpenTelemetry等关键主题，分享了专家经验和实用技巧，为参与者提供了宝贵的学习和交流机会。</description>
       <pubDate>2024-11-16 01:17:40</pubDate>
+    </item>
+  
+    <item>
+      <title>Why you need observability more than tests</title>
+      <link>https://swizec.com/blog/why-you-need-observability-more-than-tests/</link>
+      <description>在本文中，作者Swizec Teller强调了可观测性在软件开发中的重要性，尤其是在分布式系统中。他通过一个周五部署的故事说明了测试可能无法捕捉到的生产问题，并解释了如何通过集中日志和实时警报来快速发现和解决问题。作者还强调了默认的代码检测、低摩擦添加新日志以及易于搜索数据的重要性。</description>
+      <pubDate>2024-11-16 00:00:00</pubDate>
     </item>
   
     <item>
