@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>KubeCon NA 2024 Day 4 Recap</title>
+      <link>https://last9.io/blog/kubecon-na-2024-day-4-recap/</link>
+      <description>KubeCon NA 2024第四天回顾：会议聚焦于网络监控、平台工程、Kubernetes升级和OpenTelemetry等关键主题，分享了专家经验和实用技巧，为参与者提供了宝贵的学习和交流机会。</description>
+      <pubDate>2024-11-16 01:17:40</pubDate>
+    </item>
+  
+    <item>
+      <title>This is a test</title>
+      <link>https://elegantcode.com/2024/11/15/this-is-a-test/</link>
+      <description>这篇文章主要测试文本和代码的展示。作者通过简单的代码示例（如 `var foo = 21; var goo = 54;`）来展示文本和代码的插入，并强调这是个人观点，不代表雇主立场。</description>
+      <pubDate>2024-11-15 20:57:44</pubDate>
+    </item>
+  
+    <item>
       <title>.NET 9 now available for RHEL and OpenShift</title>
       <link>https://developers.redhat.com/articles/2024/11/15/net-9-now-available-rhel-and-openshift</link>
       <description>.NET 9现已支持Red Hat Enterprise Linux (RHEL)和OpenShift，带来C# 13和F# 9等新特性，性能提升，并支持OpenAPI文档生成。安装可通过dnf命令进行，支持至2026年5月。</description>
@@ -24,6 +38,13 @@
       <link>https://www.jeremykun.com/shortform/2024-11-15-0831/</link>
       <description>在过去的几个月里，作者专注于开发HEIR（同态加密中间表示），一个用于完全同态加密（FHE）的编译器工具链。他们与多家硬件供应商合作，如Intel和KU Leuven，以优化HEIR生成代码，并参与建立FHE技术联盟FHETCH，以标准化硬件接口。同时，作者团队也积极吸纳实习生和社区贡献者，共同推进HEIR的发展，并计划开发Python前端以降低使用门槛。</description>
       <pubDate>2024-11-15 18:25:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Staying ahead of HR trends for 2025</title>
+      <link>https://www.surveymonkey.com/curiosity/staying-ahead-of-hr-trends-for-2025/?ut_source=rss</link>
+      <description>2025年人力资源管理趋势分析显示，员工对工作充满热情，但同时也受到全球政治、经济和环境问题的影响。研究表明，员工关注工作与生活的平衡，希望公司关注其福祉和人才保留。企业应重视员工反馈，提供心理健康支持，并营造开放沟通的环境，以提升员工满意度和忠诚度。</description>
+      <pubDate>2024-11-15 17:51:12</pubDate>
     </item>
   
     <item>
@@ -261,6 +282,20 @@
       <title>Luke Cavanaugh’s advice for veterans seeking a new community</title>
       <link>https://www.elastic.co/blog/culture-finding-community-military-transition</link>
       <description>卢克·卡瓦纳为寻求新社区的退伍军人提供建议：卢克·卡瓦纳在经历了从美国空军到平民生活的转变后，分享了他在Elastic公司的工作经历和社区融入经验。他强调了将军事技能应用于新工作的重要性，并鼓励退伍军人寻找能够帮助他们顺利过渡的新社区和行业。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>You can use C-Reduce for any language</title>
+      <link>https://bernsteinbear.com/blog/creduce/?utm_source=rss</link>
+      <description>C-Reduce 是一个由 Regehr 和团队开发的工具，用于最小化 C 编译器错误复现。它不仅适用于 C 语言，还能快速减少任何语言的源代码大小，帮助开发者更高效地报告和修复 bug。通过简单的命令行操作，C-Reduce 可以在几秒钟内将代码文件缩减 50%，极大地提高了问题报告的效率。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Deploying serverless applications with Laravel Vapor</title>
+      <link>https://www.honeybadger.io/blog/laravel-vapor/</link>
+      <description>Laravel Vapor是一个为Laravel应用程序提供的无服务器部署平台，它将Laravel框架的优势带入无服务器架构。本文介绍了无服务器架构的基础，Vapor的特点和优势，以及如何使用Vapor部署无服务器应用程序。Vapor简化了部署过程，提供了无缝的Laravel集成、自动扩展、高可用性和成本效益。通过Vapor，开发者可以专注于编写业务逻辑代码，而无需管理基础设施。</description>
       <pubDate>2024-11-15 00:00:00</pubDate>
     </item>
   
