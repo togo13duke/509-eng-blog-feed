@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Dans les rouages de Cline (ex Claude-dev): un Agent pour assister à coder</title>
+      <link>https://blog.octo.com/dans-les-rouages-de-cline-(ex-claude-dev)-un-agent-pour-assister-a-coder-1</link>
+      <description>Cline，一款由前Claude-dev开发的代码辅助工具，利用大型语言模型（LLM）实现自主决策和任务执行。它通过分析用户请求，选择合适的工具，执行任务并生成结果。Cline支持多种编程语言，可编辑和创建文件，执行命令，适用于软件开发和代码生成。</description>
+      <pubDate>2024-11-16 13:58:10</pubDate>
+    </item>
+  
+    <item>
+      <title>You Can Grow Your Developer Intuition</title>
+      <link>https://spin.atomicobject.com/grow-developer-intuition/</link>
+      <description>软件开发不仅是逻辑和工程学科，更是一种艺术。本文探讨了开发者直觉的重要性，包括直觉软件开发的多个层面，如代码理解、领域理解和设计决策。文章还提出了培养直觉的实践方法，如代码审查、模式识别训练和反思实践，强调直觉在构建复杂系统中的关键作用。</description>
+      <pubDate>2024-11-16 13:00:27</pubDate>
+    </item>
+  
+    <item>
       <title>KubeCon NA 2024 Day 4 Recap</title>
       <link>https://last9.io/blog/kubecon-na-2024-day-4-recap/</link>
       <description>KubeCon NA 2024第四天回顾：会议聚焦于网络监控、平台工程、Kubernetes升级和OpenTelemetry等关键主题，分享了专家经验和实用技巧，为参与者提供了宝贵的学习和交流机会。</description>
@@ -300,6 +314,27 @@
     </item>
   
     <item>
+      <title>3 personalized marketing campaigns to inspire your strategy</title>
+      <link>https://www.twilio.com/en-us/blog/personalized-marketing-campaigns-strategy</link>
+      <description>Twilio分享了三个成功的个性化营销案例，以激发营销策略灵感。这些案例展示了如何通过数据驱动的创意与客户建立联系，包括利用游戏化提高参与度，以及使用客户数据平台（CDP）进行精准营销。通过这些策略，企业可以更有效地与客户互动，提高转化率和降低获客成本。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to build brand loyalty with your retail marketing strategy</title>
+      <link>https://www.twilio.com/en-us/blog/build-brand-loyalty-retail-marketing</link>
+      <description>如何通过零售营销策略建立品牌忠诚度：在竞争激烈的市场中，个性化可能是推广业务并将一次性客户转化为忠实品牌拥护者的最明智方式之一。根据Twilio的2024年客户参与度报告，近70%的Z世代和千禧一代客户表示，如果没有个性化，他们将停止使用某个品牌；40%的客户表示，如果他们的体验没有个性化，他们将放弃某个品牌；31%的人表示，缺乏个性化促使他们转向竞争对手品牌。因此，如果让客户在每个接触点都享受到相关且有帮助的体验不是您零售营销策略的一部分，那么您可能正在排除很大一部分市场。一个精细调优的全渠道零售策略可以使品牌通过以创新方式使用数据和工具，在所有渠道上与客户建立更深的联系，从而实现无缝的客户体验。如果您想通过零售营销策略建立品牌忠诚度，这里有三种绝佳的方法。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Can AI Supercharge the Product Design Sprint? - Part 3</title>
+      <link>https://thoughtbot.com/blog/can-ai-supercharge-the-product-design-sprint-part-3</link>
+      <description>本文探讨了人工智能（AI）在产品设计冲刺中的应用，特别是如何通过AI工具如Galileo和Midjourney加速原型设计和用户访谈脚本编写。作者通过实际案例展示了AI在提高设计效率和洞察力方面的潜力，同时强调了AI作为人类设计团队辅助工具的重要性。总结来说，AI可以显著提升产品设计冲刺的效率，但需要人类设计师的创意和战略思考来确保最终产品的成功。</description>
+      <pubDate>2024-11-15 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>GitHub Availability Report: October 2024</title>
       <link>https://github.blog/news-insights/company-news/github-availability-report-october-2024/</link>
       <description>GitHub在2024年10月经历了一次影响服务性能的事件。10月11日，由于数据库迁移后DNS基础设施故障，导致部分服务性能下降。事件影响了Copilot用户和Actions工作流用户，GitHub团队通过部署临时DNS解析能力进行了修复，并在次日恢复了服务。GitHub正在加强基础设施的弹性和自动化流程，以加快未来类似问题的诊断和解决。</description>
@@ -467,6 +502,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <link>https://last9.io/blog/opentelemetry-in-rust/</link>
       <description>本文介绍了如何在Rust中使用OpenTelemetry进行应用的可观察性，包括跟踪、指标和调试。文章详细说明了如何设置OpenTelemetry，包括依赖项配置、基本跟踪实现和高级配置，如资源归因和云提供商集成。此外，还讨论了生产环境下的设置和常见问题解决方案。</description>
       <pubDate>2024-11-14 12:33:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Quiz: Namespaces and Scope in Python</title>
+      <link>https://realpython.com/quizzes/python-namespaces-scope/</link>
+      <description>本篇博客文章介绍了一个关于Python命名空间和作用域的互动测验。测验旨在测试读者对Python如何组织符号名称和对象在命名空间中的理解，包括命名空间的创建、实现以及变量作用域如何决定符号名称的可见性。测验包含11个问题，无时间限制，每答对一题得1分，最终获得总分。文章还提供了相关教程和课程资源，帮助读者进一步学习。</description>
+      <pubDate>2024-11-14 12:00:00</pubDate>
     </item>
   
     <item>
@@ -645,6 +687,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <description>使用Python、OpenAI实时API和Twilio Voice进行外呼通话
 
 本文介绍了如何使用Python、Twilio Voice和OpenAI实时API进行外呼通话。通过创建一个Python应用程序，结合Twilio的语音服务，可以实现自动拨打电话并利用OpenAI的实时API进行交互。文章详细介绍了设置项目、安装必要的包、创建项目文件等步骤，并提供了示例代码，使读者能够轻松实现这一功能。</description>
+      <pubDate>2024-11-14 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Zero-downtime with Rails credentials</title>
+      <link>https://thoughtbot.com/blog/from-environment-variables-to-rails-credentials</link>
+      <description>通过使用Rails凭证，我们旨在实现零停机部署，以避免在部署新代码时对用户造成影响。目前，我们使用sudo systemctl restart efg-puma命令重启Puma服务器，导致停机。迁移到Rails凭证后，我们可以在部署时重新加载服务器，因为凭证更改会在重新加载时生效。此外，凭证加密存储在源代码控制中，便于查看和添加，简化了部署过程。尽管存在权衡，但零停机部署的优势使我们转向持续交付。</description>
       <pubDate>2024-11-14 00:00:00</pubDate>
     </item>
   
@@ -1565,6 +1614,13 @@ AI编码工具如GitHub Copilot正在改变开发者工作方式，提高代码�
       <title>Go Turns 15</title>
       <link>https://go.dev/blog/15years</link>
       <description>Go语言迎来了15周年纪念日，用户数量在过去五年中增长了三倍，成为快速增长的编程语言之一。Go语言在稳定性、安全性和支持大规模软件工程方面保持承诺，并不断推出新特性，如改进的循环语句和标准库。Go团队致力于优化Go语言，以更好地利用现代硬件，并加强AI基础设施和开发支持。</description>
+      <pubDate>2024-11-11 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Lightweight data for business decisions AKA hacky answers for Rails developers</title>
+      <link>https://thoughtbot.com/blog/lightweight-business-decisions-for-rails-developers</link>
+      <description>本文探讨了Rails开发者如何通过“hacky answers”来提供轻量级数据以支持商业决策。作者Fritz Meissner强调了开发者如何使用Rails控制台进行数据收集，并介绍了如何将数据可视化以辅助决策。文章还讨论了从Rails控制台到更稳定解决方案的过渡，以及在不同阶段如何处理数据查询和可视化。</description>
       <pubDate>2024-11-11 00:00:00</pubDate>
     </item>
   
