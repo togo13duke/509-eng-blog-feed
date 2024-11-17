@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Project: Civic Band - scraping and searching PDF meeting minutes from hundreds of municipalities</title>
+      <link>https://simonwillison.net/2024/Nov/16/civic-band/#atom-entries</link>
+      <description>Civic Band是一个项目，旨在从美国数百个市政当局的网站上抓取和搜索PDF会议记录。该项目由Philip James创建，他使用技术栈如Datasette和OCR来处理和索引这些文件。Civic Band旨在使地方政府决策的详细信息更加透明和可访问，并计划允许用户订阅特定搜索词的更新。</description>
+      <pubDate>2024-11-16 22:14:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Making AWS News stupid fast with smart caching</title>
+      <link>https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/</link>
+      <description>本文探讨了如何通过智能缓存技术加速AWS新闻网站。作者通过重新设计API访问模式，实现了有效的缓存，显著降低了后端负载并提升了前端速度。文章详细介绍了如何根据数据生命周期对数据进行分类，以优化缓存策略，并介绍了如何通过引入新的API端点来提高缓存效率。此外，还讨论了前端责任增加、结果验证和用户体验的改进。</description>
+      <pubDate>2024-11-16 21:24:12</pubDate>
+    </item>
+  
+    <item>
       <title>Installing all the things on my new Mac</title>
       <link>https://elegantcode.com/2024/11/16/installing-all-the-things-on-my-new-mac/</link>
       <description>新Mac安装软件清单：作者分享了在全新M4 MacBook Pro上安装的软件，包括开发工具、生产力软件、实用工具、3D打印软件以及一些其他应用，如ChatGPT AI应用、FB Messenger等。</description>
