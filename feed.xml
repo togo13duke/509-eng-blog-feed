@@ -300,6 +300,13 @@
     </item>
   
     <item>
+      <title>The Practical Guide to Alert Sanity: From Chaos to Calm</title>
+      <link>https://last9.io/blog/the-practical-guide-to-alert-sanity-from-chaos-to-calm/</link>
+      <description>本文探讨了如何从混乱到平静地管理警报系统。作者Aditya Godbole强调了关注用户体验的重要性，提出了三个警报法则，并通过实际案例展示了如何减少警报数量、提高问题检测速度和减少误报。他还提供了实施指南、常见陷阱的解决方案以及维护和改进警报系统的策略。</description>
+      <pubDate>2024-11-15 04:53:00</pubDate>
+    </item>
+  
+    <item>
       <title>Herd Executable Support and Pest 3 Mutation Testing in PhpStorm 2024.3</title>
       <link>https://laravel-news.com/phpstorm-2024-3</link>
       <description>PhpStorm 2024.3新增了对PHP 8.4的支持，并为Laravel开发者提供了多项更新，包括自动检测Laravel Herd PHP可执行文件、对Pest 3的变异测试支持以及并行测试功能。这些更新提升了测试体验，并引入了PHP 8.4的新特性，如重构到新的数组函数、属性钩子支持等。</description>
