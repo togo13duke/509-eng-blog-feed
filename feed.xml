@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Founders, if you want A+ startup success, do the homework first!</title>
+      <link>https://evilmartians.com/chronicles/founders-if-you-want-a-plus-startup-success-do-the-homework-first</link>
+      <description>创始人若想实现A+级初创公司成功，首先要做好准备工作！Evil Martians团队指出，许多初创公司急于开发产品以验证想法，却忽略了市场调研和用户需求验证的重要性。他们建议，要关注解决的实际问题，深入了解目标用户，进行客户发现和竞争分析，制定产品愿景和假设，并通过设计合作伙伴进行测试。最后，专注于核心功能，以简单有效的解决方案开始，不断学习和迭代。</description>
+      <pubDate>2024-11-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: AWS BuilderCards at re:Invent 2024, AWS Community Day, Amazon Bedrock, vector databases, and more (Nov 18, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-buildercards-at-reinvent-2024-aws-community-day-amazon-bedrock-vector-databases-and-more-nov-18-2024/</link>
+      <description>本周，AWS举办了多项活动，包括在巴西的AWS社区日活动、AWS Lambda十周年庆祝、Trainium芯片支持AI研究等。此外，还推出了AWS BuilderCards第二版、Amazon EventBridge性能提升、资源控制策略等新功能，以及Amazon S3和Amazon DynamoDB的价格调整。</description>
+      <pubDate>2024-11-18 17:38:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Save Time with Code Snippets in VS Code</title>
+      <link>https://spin.atomicobject.com/save-time-code-snippets-vscode/</link>
+      <description>使用VS Code中的代码片段可以大大节省时间。通过插入预定义代码块，可以减少重复输入和语法错误，同时帮助团队保持一致的代码风格。本文介绍了如何创建和使用自定义代码片段，包括内置片段、扩展、自定义片段的创建、使用Tabstop定位光标以及注入变量等技巧。通过这些方法，可以提高编码效率，减少错误，并确保团队代码风格的一致性。</description>
+      <pubDate>2024-11-18 17:26:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Software is a team sport: Building the future of software development together</title>
+      <link>https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/</link>
+      <description>GitHub与微软致力于通过协作推动软件开发创新，GitHub Copilot作为AI编程伙伴，正成为开发者工具的重要组成部分。它不仅提供代码补全，还支持代码解释、重构、优化、调试和测试。GitHub Copilot与Visual Studio和GitHub Codespaces深度集成，为开发者提供无缝的开发体验，助力他们更高效地构建软件。</description>
+      <pubDate>2024-11-18 17:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Fueling engagement: the power of knowledge in employee retention</title>
+      <link>https://www.atlassian.com/blog/confluence/fuel-employee-engagement-with-knowledge</link>
+      <description>知识共享在提升员工参与度和留存率方面发挥着重要作用。通过建立中央知识库、促进透明沟通、提供反馈和培训，以及消除流程和工具的摩擦，企业可以提高员工满意度，从而增强员工对组织的归属感和忠诚度。</description>
+      <pubDate>2024-11-18 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Does GitHub Copilot improve code quality? Here’s what the data says</title>
+      <link>https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/</link>
+      <description>GitHub Copilot显著提高了代码质量，研究发现使用GitHub Copilot编写的代码在功能性、可读性、可靠性、可维护性和简洁性方面都有所提升，开发者更有可能通过所有单元测试，并更快地完成代码审查。</description>
+      <pubDate>2024-11-18 16:00:46</pubDate>
+    </item>
+  
+    <item>
+      <title>Scale PostgreSQL via Partitioning: A Dev’s Intro to  Hypertables</title>
+      <link>https://www.timescale.com/blog/scale-postgresql-via-partitioning-hypertables/</link>
+      <description>介绍如何通过分区扩展PostgreSQL数据库，特别是使用TimescaleDB的hypertables来提高大规模时间序列数据的查询性能。通过自动分区和优化索引，hypertables能够显著提升数据插入和查询效率，适用于物联网、气象、金融和系统监控等场景。</description>
+      <pubDate>2024-11-18 14:16:27</pubDate>
+    </item>
+  
+    <item>
+      <title>Interacting With Python</title>
+      <link>https://realpython.com/interacting-with-python/</link>
+      <description>本教程介绍了与Python交互的多种方式，包括交互式模式、脚本文件和IDE。通过这些方法，您可以快速测试代码片段、编写大型应用程序，并利用诸如Jupyter Notebook和在线解释器等额外工具。教程从“Hello, World!”程序开始，逐步讲解如何在交互式环境中运行Python，如何从文件中执行脚本，以及如何使用IDE进行Python开发。</description>
+      <pubDate>2024-11-18 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Bluesky’s rapid rise, and harmful fertility stereotypes</title>
+      <link>https://www.technologyreview.com/2024/11/18/1106966/the-download-bluesky-rise-fertility-stereotypes/</link>
+      <description>MIT Technology Review的《The Download》最新一期报道了Bluesky的快速崛起，该平台成为Twitter克隆版，用户量迅速增长。同时，文章探讨了有害的生育刻板印象，指出女性价值与生育能力挂钩的负面影响。此外，还提到了特朗普计划放宽自动驾驶汽车规则等科技新闻。</description>
+      <pubDate>2024-11-18 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Mitigate Generative AI Security Risks &amp; Compliance Issues in 2025</title>
+      <link>https://www.haptik.ai/tech/generative-ai-security-risks-data-security-compliance</link>
+      <description>2025年，随着生成式AI的广泛应用，企业面临数据安全、隐私保护和合规性等风险。本文探讨了生成式AI的主要风险，包括数据泄露、模型偏见、法规遵从性和伦理问题，并提出了相应的缓解策略，如数据匿名化、安全模型训练、数据治理框架和模型可解释性。企业应采取负责任的态度，在创新与合规之间取得平衡，以确保在AI驱动的未来中保持竞争力。</description>
+      <pubDate>2024-11-18 12:35:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Kubernetes Observability with OpenTelemetry Operator</title>
+      <link>https://last9.io/blog/kubernetes-observability-with-opentelemetry-operator/</link>
+      <description>OpenTelemetry Operator简化了Kubernetes的可观察性，通过自动化配置和部署，使监控和调试应用程序变得更加容易。它支持自动化的应用仪器、可扩展的收集器、多种部署模式和与多种后端集成，帮助开发者专注于关键任务，确保应用程序稳定运行。</description>
+      <pubDate>2024-11-18 12:15:54</pubDate>
+    </item>
+  
+    <item>
       <title>How to Create a Gooey Search Interaction with Framer Motion and React</title>
       <link>https://tympanus.net/codrops/2024/11/18/how-to-create-a-gooey-search-interaction-with-framer-motion-and-react/</link>
       <description>本文介绍了如何使用Framer Motion和React创建具有粘性效果的搜索交互。作者通过实现一个粘性滤镜效果，并将其与Framer Motion结合，创建了一个动态的搜索栏。文章详细解释了如何应用滤镜、整合Framer Motion以及处理Safari浏览器的兼容性问题。</description>
@@ -13,10 +90,24 @@
     </item>
   
     <item>
+      <title>Databricks training invests in closing the data + AI skills gap across enterprises</title>
+      <link>https://www.databricks.com/blog/databricks-training-invests-closing-data-ai-skills-gap-across-enterprises</link>
+      <description>Databricks通过培训投资于缩小企业数据+AI技能差距，帮助员工提升技能，以应对数据+AI技术的快速发展。公司已推出首个生成式AI工程师学习路径和认证考试，数千名数据+AI专业人士已接受培训并获得认证。Databricks提供基础培训、特定领域知识和行业认证，助力个人和组织在数据+AI领域取得成功。</description>
+      <pubDate>2024-11-18 10:26:14</pubDate>
+    </item>
+  
+    <item>
       <title>Overly Long Class Names in Java or Geeky Poem?</title>
       <link>http://blog.vanillajava.blog/2024/11/overly-long-class-names-in-java-or.html</link>
       <description>Java中过长的类名可能导致代码难以阅读和维护。文章以一个过长的类名为例，讨论了在Java 6中存在的一个极长的类名，并指出这种冗余和繁琐的命名可能是代码生成器错误的结果。作者强调，检查生成代码的可读性和合理性是重要的。</description>
       <pubDate>2024-11-18 09:53:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Importing a frontend Javascript library without a build system</title>
+      <link>https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/</link>
+      <description>本文探讨了在不使用构建系统的情况下导入前端JavaScript库的方法。文章介绍了三种主要的JavaScript文件类型：经典全局变量文件、ES模块和CommonJS模块，并解释了如何确定库提供的文件类型以及如何在代码中导入这些文件。文章还提供了使用UMD文件、ES模块和CommonJS模块的示例，并讨论了如何使用importmaps和esbuild等工具。总结来说，文章旨在帮助开发者了解如何在无需构建系统的情况下使用JavaScript库。</description>
+      <pubDate>2024-11-18 09:35:42</pubDate>
     </item>
   
     <item>
@@ -41,10 +132,24 @@
     </item>
   
     <item>
+      <title>Introducing eBay Evo: The Evolution of eBay’s Brand and Design System</title>
+      <link>https://innovation.ebayinc.com/tech/features/ebay-evo-the-evolution-of-ebays-brand-and-design-system/</link>
+      <description>eBay推出全新品牌和设计系统eBay Evo，旨在通过现代化和简化的方式提升用户体验，确保全球一致性。Evo项目代表了eBay多年的内部努力，旨在提供连贯的全球体验，同时适应本地市场和受众需求。该系统强调可访问性，并包含一个全面的指南，旨在指导内部团队和合作伙伴，确保eBay平台对所有用户都易于访问和互动。</description>
+      <pubDate>2024-11-18 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Secure Java applications: A deep look into 3 different issues</title>
       <link>https://developers.redhat.com/articles/2024/11/18/secure-java-applications-deep-look-3-different-issues</link>
       <description>本文深入探讨了三个可能威胁Java应用程序数据安全性的问题。首先，文章分析了整数溢出和下溢的风险，并提供了避免这些问题的策略。其次，讨论了由不受信任的输入引起的资源分配问题，并提出了资源验证和逐步资源分配的策略。最后，强调了在处理不受信任的输入时，限制最大输入大小和及时释放资源的重要性。</description>
       <pubDate>2024-11-18 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Objectified</title>
+      <link>https://thedailywtf.com/articles/objectified</link>
+      <description>Remy Porter在CodeSOD上的一篇文章中，批评了一位经验丰富的开发者对面向对象编程（OOP）的误解。开发者错误地使用OOP原则，创建了不必要的类和私有成员，导致代码难以理解和维护。文章通过具体例子展示了这种错误，并表达了作者对OOP本质的困惑。</description>
+      <pubDate>2024-11-18 06:30:00</pubDate>
     </item>
   
     <item>
@@ -80,6 +185,34 @@
       <link>http://lucumr.pocoo.org/2024/11/18/threads-beat-async-await</link>
       <description>总结：
 本文探讨了异步编程中的async/await与线程的使用，作者认为async/await并非最佳抽象，并提倡使用线程。文章通过比较Scratch编程和传统编程语言，指出Scratch的actor模型在处理并发方面更为直观。作者还讨论了命令式编程与函数式编程的优劣，强调命令式编程并非劣质，并分析了async/await在处理“等待”时的局限性，如无法自由挂起和潜在的无限循环问题。最后，作者提出线程是处理并发和阻塞的强大抽象，并认为async/await在语言层面引入了并发执行的现实。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elasticsearch achieves Certified Software Solution status for Microsoft Azure</title>
+      <link>https://www.elastic.co/blog/elasticsearch-certified-software-solution-microsoft-azure</link>
+      <description>Elasticsearch成为微软Azure的认证软件解决方案，提供无缝部署、增强安全合规性和优化性能。此认证确保Elasticsearch符合微软的高标准，为Azure云基础设施上的组织提供数据搜索、可观察性和安全性。通过Azure市场直接部署，简化了集成和访问，同时提供实时洞察和数据分析。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Cloud Serverless on Microsoft Azure: Coming soon!</title>
+      <link>https://www.elastic.co/blog/elastic-cloud-serverless-microsoft-azure</link>
+      <description>Elastic Cloud Serverless即将在Microsoft Azure上推出，提供高效可扩展的解决方案。该服务基于新的Search AI Lake架构，结合了大规模存储和低延迟查询，同时具备Elasticsearch的AI和搜索能力。它将无缝集成Azure服务，提供企业级安全性和全球基础设施，并支持动态扩展和即时配置，简化部署和管理。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>0 to 60 with Elastic AI Assistant for Search and Azure OpenAI</title>
+      <link>https://www.elastic.co/blog/elastic-ai-assistant-for-search-azure-openai</link>
+      <description>Elastic发布了一款名为Elastic AI Assistant for Search的新工具，旨在帮助开发者更轻松地使用Elasticsearch和Kibana。该助手由Microsoft AI Services提供支持，集成了检索增强生成（RAG）技术，提供即时文档访问和Kibana中的上下文帮助，以提高开发效率和用户体验。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Host an indie-web yardsale on your /junk page</title>
+      <link>https://taylor.town/junk-guide</link>
+      <description>在个人网站上创建一个“垃圾页”，分享不再需要的物品和故事，赋予旧物新生命。通过这种方式，人们可以交流、发现共同兴趣，并从彼此的经历中学习。</description>
       <pubDate>2024-11-18 00:00:00</pubDate>
     </item>
   
