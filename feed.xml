@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How to Create a Gooey Search Interaction with Framer Motion and React</title>
+      <link>https://tympanus.net/codrops/2024/11/18/how-to-create-a-gooey-search-interaction-with-framer-motion-and-react/</link>
+      <description>本文介绍了如何使用Framer Motion和React创建具有粘性效果的搜索交互。作者通过实现一个粘性滤镜效果，并将其与Framer Motion结合，创建了一个动态的搜索栏。文章详细解释了如何应用滤镜、整合Framer Motion以及处理Safari浏览器的兼容性问题。</description>
+      <pubDate>2024-11-18 11:25:34</pubDate>
+    </item>
+  
+    <item>
+      <title>Overly Long Class Names in Java or Geeky Poem?</title>
+      <link>http://blog.vanillajava.blog/2024/11/overly-long-class-names-in-java-or.html</link>
+      <description>Java中过长的类名可能导致代码难以阅读和维护。文章以一个过长的类名为例，讨论了在Java 6中存在的一个极长的类名，并指出这种冗余和繁琐的命名可能是代码生成器错误的结果。作者强调，检查生成代码的可读性和合理性是重要的。</description>
+      <pubDate>2024-11-18 09:53:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Why Golden Signals Matter for Monitoring</title>
+      <link>https://last9.io/blog/golden-signals-for-monitoring/</link>
+      <description>金信号（延迟、流量、错误率和饱和度）对于监控系统健康至关重要，帮助SRE团队快速诊断问题、维护可靠性并提高性能。通过监控这些关键指标，团队可以确保系统健康、实现主动监控、优化容量规划和提升性能。金信号与SRE原则直接相关，通过跟踪这些信号，SRE团队能够有效管理可靠性、确保系统平稳运行。</description>
+      <pubDate>2024-11-18 09:32:16</pubDate>
+    </item>
+  
+    <item>
+      <title>The rise of Bluesky, and the splintering of social</title>
+      <link>https://www.technologyreview.com/2024/11/18/1106960/the-rise-of-bluesky-and-the-splintering-of-social/</link>
+      <description>Bluesky等去中心化社交媒体平台迅速崛起，吸引了大量用户，尤其是从Twitter迁移而来。这一趋势反映了用户对政治立场和集中化平台的反感，以及对个性化、去中心化社交体验的需求。Bluesky等平台利用开放协议，允许用户自定义内容和社交网络，预示着社交媒体的未来将更加分散和多样化。</description>
+      <pubDate>2024-11-18 09:30:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Unexpected Full GCs Triggered by RMI in Latency-Sensitive Applications</title>
+      <link>http://blog.vanillajava.blog/2024/11/unexpected-full-gcs-triggered-by-rmi-in.html</link>
+      <description>在优化低延迟应用时，作者发现RMI触发的Full GC导致性能下降。通过调整RMI DGC的检查间隔，可以减少不必要的Full GC，从而提高应用性能。需要注意的是，对于使用RMI的应用，增加间隔可能会延迟未使用远程对象的清理，导致内存泄漏等问题。</description>
+      <pubDate>2024-11-18 09:08:00</pubDate>
+    </item>
+  
+    <item>
       <title>Secure Java applications: A deep look into 3 different issues</title>
       <link>https://developers.redhat.com/articles/2024/11/18/secure-java-applications-deep-look-3-different-issues</link>
       <description>本文深入探讨了三个可能威胁Java应用程序数据安全性的问题。首先，文章分析了整数溢出和下溢的风险，并提供了避免这些问题的策略。其次，讨论了由不受信任的输入引起的资源分配问题，并提出了资源验证和逐步资源分配的策略。最后，强调了在处理不受信任的输入时，限制最大输入大小和及时释放资源的重要性。</description>
@@ -20,6 +55,13 @@
     </item>
   
     <item>
+      <title>7 Italian Gestures That Could Come In Handy</title>
+      <link>https://www.babbel.com/en/magazine/a-master-class-in-italian-gestures</link>
+      <description>意大利手势是意大利文化中独特的非言语交流方式，它们不仅仅是简单的比划，而是一种复杂的语言代码，反映了意大利人的心理。作者Luca Vullo通过他的纪录片《身体的声音》和全球巡回教育，展示了意大利手势的多样性和深层含义，并分享了七个实用的意大利手势，如“Vattene!”（走开）、“Perfetto!”（完美）等，以及如何避免误解和不当的交流。</description>
+      <pubDate>2024-11-18 01:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Discovery work for an AI product</title>
       <link>https://thoughtbot.com/blog/discovery-work-for-an-ai-product</link>
       <description>在开发人工智能产品时，发现工作比传统产品更为复杂。需要更长的时间来探索技术可行性，并尽早让开发者参与其中。避免过早的详细规划，而是通过快速迭代和反馈来调整方向。同时，要重视数据收集，以支持产品的长期发展。</description>
@@ -30,6 +72,14 @@
       <title>Dynamically build Mail, DB, and Cache configurations in Laravel</title>
       <link>https://www.amitmerchant.com/dynamically-build-mail-db-and-cache-configurations-in-laravel/</link>
       <description>本文介绍了在Laravel中动态构建邮件、数据库和缓存配置的方法。通过使用新的`build()`方法，可以动态地创建邮件发送者、数据库连接和缓存存储，从而无需在配置文件中硬编码这些设置。这种方法使得配置可以从数据库或其他来源动态加载，提高了应用的灵活性和可扩展性。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Playground Wisdom: Threads Beat Async/Await</title>
+      <link>http://lucumr.pocoo.org/2024/11/18/threads-beat-async-await</link>
+      <description>总结：
+本文探讨了异步编程中的async/await与线程的使用，作者认为async/await并非最佳抽象，并提倡使用线程。文章通过比较Scratch编程和传统编程语言，指出Scratch的actor模型在处理并发方面更为直观。作者还讨论了命令式编程与函数式编程的优劣，强调命令式编程并非劣质，并分析了async/await在处理“等待”时的局限性，如无法自由挂起和潜在的无限循环问题。最后，作者提出线程是处理并发和阻塞的强大抽象，并认为async/await在语言层面引入了并发执行的现实。</description>
       <pubDate>2024-11-18 00:00:00</pubDate>
     </item>
   
