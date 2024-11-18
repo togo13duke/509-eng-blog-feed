@@ -6,9 +6,30 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Secure Java applications: A deep look into 3 different issues</title>
+      <link>https://developers.redhat.com/articles/2024/11/18/secure-java-applications-deep-look-3-different-issues</link>
+      <description>本文深入探讨了三个可能威胁Java应用程序数据安全性的问题。首先，文章分析了整数溢出和下溢的风险，并提供了避免这些问题的策略。其次，讨论了由不受信任的输入引起的资源分配问题，并提出了资源验证和逐步资源分配的策略。最后，强调了在处理不受信任的输入时，限制最大输入大小和及时释放资源的重要性。</description>
+      <pubDate>2024-11-18 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Fourier Protocol</title>
+      <link>https://blog.rinesi.com/2024/11/fourier-protocol</link>
+      <description>《首次接触》的前半部分呈现出顿悟的形态和哲学崩溃的隐秘性。在寻找可扩展量子计算“黄金国”的数十年金融废墟一夜之间转变为太阳系中最宝贵的传感器阵列，而原本旨在使其过时的庞大计算机场被用来将量子退相干背后的意外模式转化为来自理论上的某处的信息，数学家们只能将其描述为非局部的地方，只有通过在不可能性的轴线上旋转逻辑三次半才能进入。许多宗教解释被提出；形而上学的共识围绕着与运行现实模拟的类似神明的AI进行交流的想法。信息中除了存在信息及其发送者的存在之外，无法读取任何内容。科学家们以适度的天文成本找到了回应的方式，在两个项目因定义世纪日历系统的半混沌生态社会经济危机而失败后，建立了一个物理上保证能工作的系统。在收到来自那里的第一条信息14年后，人类做出了回应。没有听到任何新内容。这足以引发另一场无人关注的危机。努力仍在继续。编码系统得到改进。传感器得到精炼。推测性的外星社会学成为一门科学，然后成为一种时尚。信息的数学复杂性——这在某种程度上等同于那里的能量——几乎增加到科学家们担心可能会损害任何可能正在监听的东西的程度。一定有人在监听。因此，一定有人在。没有回应。那些能像呼吸一样无意识地交流的人决定这是故意的。一个经常将种族灭绝称为修昔底德自我防御的世界得出结论，只有一个合理的下一步行动。实际上，这是不可避免的。唯一的惊讶是它花了这么长时间。许多年前发送的第一条信息的数学复杂性提高到理论最大值的一半，比另一代人认为的安全阈值高几个数量级。信息被发送了。在回复的一半过程中，已经没有剩下可以阅读的内容了。《首次接触》的前半部分呈现出顿悟的形态和数学证明的确定性，完美可读，点缀着充满秘密和半暗示的脚注，这些可能是信息本身。没有尝试回复。世界一直存在，直到它不再存在。</description>
+      <pubDate>2024-11-18 03:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Discovery work for an AI product</title>
       <link>https://thoughtbot.com/blog/discovery-work-for-an-ai-product</link>
       <description>在开发人工智能产品时，发现工作比传统产品更为复杂。需要更长的时间来探索技术可行性，并尽早让开发者参与其中。避免过早的详细规划，而是通过快速迭代和反馈来调整方向。同时，要重视数据收集，以支持产品的长期发展。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Dynamically build Mail, DB, and Cache configurations in Laravel</title>
+      <link>https://www.amitmerchant.com/dynamically-build-mail-db-and-cache-configurations-in-laravel/</link>
+      <description>本文介绍了在Laravel中动态构建邮件、数据库和缓存配置的方法。通过使用新的`build()`方法，可以动态地创建邮件发送者、数据库连接和缓存存储，从而无需在配置文件中硬编码这些设置。这种方法使得配置可以从数据库或其他来源动态加载，提高了应用的灵活性和可扩展性。</description>
       <pubDate>2024-11-18 00:00:00</pubDate>
     </item>
   
