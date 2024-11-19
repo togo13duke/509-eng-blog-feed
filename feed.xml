@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Collective #882</title>
+      <link>https://tympanus.net/codrops/collective/collective-882/</link>
+      <description>本文探讨了前端开发领域的多个主题，包括可聚焦UI元素的差异、使用REM和PX单位的CSS布局、浏览器指纹分析、低多边形图像生成、Chrome AI的翻译功能等。文章还介绍了各种工具和框架，如Windsurf Editor、Browser Fingerprint Analyzer、Tuono等，旨在帮助开发者提高工作效率和设计质量。</description>
+      <pubDate>2024-11-19 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Shaping a company culture that ensures success: From vision to reality</title>
+      <link>https://www.hostinger.com/blog/culture-that-ensures-success</link>
+      <description>Hostinger通过建立与公司愿景和价值观一致的企业文化，成功地将数百名员工凝聚在一起。文章强调了核心原则的重要性，如客户至上、创新和责任感，并展示了如何将这些原则融入日常运营中，从而推动公司增长和员工发展。通过客户访谈、持续学习和灵活的工作流程，Hostinger创造了一个支持员工个人和职业成长的环境，从而提升了公司的整体表现。</description>
+      <pubDate>2024-11-19 11:38:52</pubDate>
+    </item>
+  
+    <item>
+      <title>Prepending to the terminal's prompt</title>
+      <link>https://akrabat.com/prepending-to-the-terminals-prompt/</link>
+      <description>Rob Allen分享了他如何通过修改.bashrc文件，将Linux终端的提示符更改为红色并添加“PRODUCTION”字样，以提醒自己在生产环境中操作。这种方法简单实用，有助于提高警惕。</description>
+      <pubDate>2024-11-19 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How the largest gathering of US police chiefs is talking about AI</title>
+      <link>https://www.technologyreview.com/2024/11/19/1106979/how-the-largest-gathering-of-us-police-chiefs-is-talking-about-ai/</link>
+      <description>美国警察局长大会讨论人工智能：会议展示了警察部门如何采用人工智能，包括虚拟现实培训、数据收集和分析，以及生成式AI用于编写报告。尽管AI在提高效率和准确性方面有潜力，但也引发了隐私和准确性的担忧。</description>
+      <pubDate>2024-11-19 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenSearch vs. Elasticsearch: What’s the Real Difference?</title>
+      <link>https://last9.io/blog/opensearch-vs-elasticsearch/</link>
+      <description>OpenSearch和Elasticsearch都是强大的搜索引擎，但OpenSearch提供了一种开源替代方案，由社区驱动开发。Elasticsearch以其速度、可扩展性和多功能性而闻名，而OpenSearch则专注于开源许可和社区驱动的发展，使其成为避免供应商锁定并保持与Elasticsearch API兼容性的理想选择。两者在功能、性能和定价方面有所不同，选择哪个取决于用户对高级功能或开源灵活性的偏好。</description>
+      <pubDate>2024-11-19 09:19:35</pubDate>
+    </item>
+  
+    <item>
       <title>The open-source ecosystem built to reduce tech debt</title>
       <link>https://stackoverflow.blog/2024/11/19/the-open-source-ecosystem-built-to-reduce-tech-debt/</link>
       <description>Stack Overflow博客文章探讨了开源生态系统如何帮助减少技术债务。文章中，Moderne的联合创始人兼CEO Jonathan Schneider分享了关于自动重构的挑战、Java的持续发展、技术债务对软件开发的影响，以及从开源项目到创业公司的转变。他还强调了清洁代码的重要性以及AI在开发者中的作用。</description>
