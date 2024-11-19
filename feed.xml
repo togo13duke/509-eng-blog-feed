@@ -6,6 +6,13 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing the Jenkins to Bitbucket Pipelines migration tool</title>
+      <link>https://www.atlassian.com/blog/bitbucket/introducing-the-jenkins-to-bitbucket-pipelines-migration-tool</link>
+      <description>Atlassian推出Jenkins到Bitbucket Pipelines迁移工具，简化CI/CD工作流迁移，提高效率。该工具支持云平台，提供弹性扩展，降低运营成本，并确保合规性和治理标准。工具开源，可自定义，支持社区贡献，简化迁移过程。</description>
+      <pubDate>2024-11-19 01:03:02</pubDate>
+    </item>
+  
+    <item>
       <title>Founders, if you want A+ startup success, do the homework first!</title>
       <link>https://evilmartians.com/chronicles/founders-if-you-want-a-plus-startup-success-do-the-homework-first</link>
       <description>创始人若想实现A+级初创公司成功，首先要做好准备工作！Evil Martians团队指出，许多初创公司急于开发产品以验证想法，却忽略了市场调研和用户需求验证的重要性。他们建议，要关注解决的实际问题，深入了解目标用户，进行客户发现和竞争分析，制定产品愿景和假设，并通过设计合作伙伴进行测试。最后，专注于核心功能，以简单有效的解决方案开始，不断学习和迭代。</description>
@@ -13,10 +20,80 @@
     </item>
   
     <item>
+      <title>Giving to tribal nations</title>
+      <link>https://thoughtbot.com/blog/giving-to-tribal-nations</link>
+      <description>thoughtbot通过其投资日项目，为美国原住民部落提供免费的技术咨询和专业知识，以改善儿童福利服务。这些服务旨在帮助部落建立适应其文化的解决方案，并提高对儿童福利管理系统的技术支持，以应对资源不足的挑战。部落可以通过与thoughtbot合作，利用这些资源来提升其内部项目，并作为其资助计划的一部分。</description>
+      <pubDate>2024-11-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI-generated shows could replace lost DVD revenue, Ben Affleck says</title>
+      <link>https://arstechnica.com/ai/2024/11/ben-affleck-warns-that-visual-effects-industry-faces-ai-disruption/</link>
+      <description>AI技术有望降低电影制作成本，提高效率，但不会取代人类艺术创作。演员本·阿弗莱克认为，AI将主要接管电影制作中较为繁琐、创意较少且成本较高的部分，如视觉效果，从而降低门槛，让更多新晋导演创作电影。同时，AI技术可能成为新的收入来源，弥补因流媒体服务兴起而减少的DVD销售收入。</description>
+      <pubDate>2024-11-18 22:49:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Astra Dynamic Chunks: How We Saved by Redesigning a Key Part of Astra</title>
+      <link>https://slack.engineering/astra-dynamic-chunks-how-we-saved-by-redesigning-a-key-part-of-astra/</link>
+      <description>Slack通过重新设计其内部日志搜索引擎Astra的关键部分，实现了对固定大小数据块的不必要空间分配的优化。通过引入动态数据块，Astra能够更有效地利用缓存节点，从而减少了50%的缓存节点需求，整体降低了20%的缓存节点成本。</description>
+      <pubDate>2024-11-18 22:06:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Streamline container application networking with built-in Amazon ECS support in Amazon VPC Lattice</title>
+      <link>https://aws.amazon.com/blogs/aws/streamline-container-application-networking-with-native-amazon-ecs-support-in-amazon-vpc-lattice/</link>
+      <description>Amazon VPC Lattice现在支持内置的Amazon ECS支持，简化了容器应用的网络。通过直接将Amazon ECS服务与VPC Lattice目标组关联，无需中间负载均衡器，从而提高了部署灵活性和生产力。</description>
+      <pubDate>2024-11-18 21:55:42</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Lambda SnapStart for Python and .NET functions is now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/</link>
+      <description>AWS Lambda SnapStart现在为Python和.NET函数提供，可显著提高函数启动性能，将启动时间从几秒缩短到亚秒级。通过缓存和重用初始化代码的快照，Lambda SnapStart减少了初始化函数带来的延迟，无需额外配置资源或优化。用户可以通过AWS管理控制台、AWS CLI或AWS SDK轻松激活、更新和删除SnapStart功能。</description>
+      <pubDate>2024-11-18 21:07:15</pubDate>
+    </item>
+  
+    <item>
+      <title>Build and modify apps using natural language with AWS App Studio, now generally available</title>
+      <link>https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/</link>
+      <description>AWS App Studio现在正式推出，这是一款基于生成式AI的应用开发服务，允许用户使用自然语言创建应用程序，无需专业软件开发技能。该服务可帮助用户快速构建安全、可扩展的应用程序，并提供多种新功能，如自然语言修改应用、添加智能组件、生成自定义业务逻辑以及自定义应用主题和样式。用户现在可以免费使用App Studio，并享受60天的免费试用。</description>
+      <pubDate>2024-11-18 18:57:02</pubDate>
+    </item>
+  
+    <item>
+      <title>Extending the Interaction Between AI Agents and Editors</title>
+      <link>https://www.docker.com/blog/extending-the-interaction-between-ai-agents-and-editors/</link>
+      <description>Docker Labs探索了AI开发工具的领域，展示了如何通过AI工具扩展编辑器与开发者的互动。通过GitHub Copilot等工具，AI可以协助完成特定任务，并优化软件生命周期中的接口。Docker Labs还推出了VSCode扩展，以探索代理与工具之间的关系，并鼓励开发者通过Markdown画布进行实验。此外，还讨论了如何通过语言服务和编辑器，使代理能够帮助开发者更好地理解所做的更改。</description>
+      <pubDate>2024-11-18 18:28:53</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Lambda turns ten – looking back and looking ahead</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-lambda-turns-ten-the-first-decade-of-serverless-innovation/</link>
+      <description>AWS Lambda已走过十年历程，从初创到企业级应用，用户数量超过150万，每月执行数十万亿次函数调用。文章回顾了Lambda的里程碑，包括支持多种编程语言、与云服务的集成、性能优化等。未来，Lambda将继续推动无服务器技术的发展，包括自动化基础设施管理、扩展性和安全性提升。</description>
+      <pubDate>2024-11-18 18:23:50</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhance Your .NET Developer Productivity with GitHub Copilot</title>
+      <link>https://devblogs.microsoft.com/dotnet/enhance-your-dotnet-developer-productivity-with-github-copilot/</link>
+      <description>GitHub Copilot是专为.NET开发者设计的AI编程助手，可提高开发效率。它提供智能代码建议、错误解决和代码摘要，支持Visual Studio和VS Code。通过内联建议、符号理解、代码修复、测试和PR描述生成等功能，Copilot可帮助开发者更快地编写代码，并优化工作流程。</description>
+      <pubDate>2024-11-18 18:05:00</pubDate>
+    </item>
+  
+    <item>
       <title>AWS Weekly Roundup: AWS BuilderCards at re:Invent 2024, AWS Community Day, Amazon Bedrock, vector databases, and more (Nov 18, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-buildercards-at-reinvent-2024-aws-community-day-amazon-bedrock-vector-databases-and-more-nov-18-2024/</link>
       <description>本周，AWS举办了多项活动，包括在巴西的AWS社区日活动、AWS Lambda十周年庆祝、Trainium芯片支持AI研究等。此外，还推出了AWS BuilderCards第二版、Amazon EventBridge性能提升、资源控制策略等新功能，以及Amazon S3和Amazon DynamoDB的价格调整。</description>
       <pubDate>2024-11-18 17:38:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Welcome to Spotlight Week: Passkeys</title>
+      <link>http://android-developers.googleblog.com/2024/11/passkeys-spotlight-week.html</link>
+      <description>本周Android开发者博客聚焦于Passkeys（密码密钥）。我们将与Chrome团队合作，提供关于如何为应用构建无缝且安全的认证体验的精彩公告、深入资源和专家指导。内容包括技术深入分析、用户体验最佳实践、成功案例研究和常见问题解答。</description>
+      <pubDate>2024-11-18 17:30:00</pubDate>
     </item>
   
     <item>
