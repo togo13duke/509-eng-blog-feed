@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The open-source ecosystem built to reduce tech debt</title>
+      <link>https://stackoverflow.blog/2024/11/19/the-open-source-ecosystem-built-to-reduce-tech-debt/</link>
+      <description>Stack Overflow博客文章探讨了开源生态系统如何帮助减少技术债务。文章中，Moderne的联合创始人兼CEO Jonathan Schneider分享了关于自动重构的挑战、Java的持续发展、技术债务对软件开发的影响，以及从开源项目到创业公司的转变。他还强调了清洁代码的重要性以及AI在开发者中的作用。</description>
+      <pubDate>2024-11-19 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Write a v3 AsyncAPI Description</title>
+      <link>https://nordicapis.com/how-to-write-a-v3-asyncapi-description/</link>
+      <description>本文介绍了如何使用AsyncAPI v3.0编写API描述，强调了关注用例的重要性，并通过一个基于FHIR标准的药物订购用例示例，展示了如何创建标准化的消息和通信通道，以及如何描述操作对象。AsyncAPI v3.0的改进结构提供了更好的可维护性、可移植性和团队协作，有助于提高开发者的体验。</description>
+      <pubDate>2024-11-19 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Monitor OVN networking events using Network Observability</title>
+      <link>https://developers.redhat.com/articles/2024/11/19/monitor-ovn-networking-events-using-network-observability</link>
+      <description>使用网络可观察性和eBPF代理监控Open Virtual Network（OVN）网络事件，包括网络策略、管理网络策略和出口防火墙。这提供了对网络流量和事件的实时观察和捕获，帮助维护安全、高性能的网络环境。</description>
+      <pubDate>2024-11-19 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing the Jenkins to Bitbucket Pipelines migration tool</title>
       <link>https://www.atlassian.com/blog/bitbucket/introducing-the-jenkins-to-bitbucket-pipelines-migration-tool</link>
       <description>Atlassian推出Jenkins到Bitbucket Pipelines迁移工具，简化CI/CD工作流迁移，提高效率。该工具支持云平台，提供弹性扩展，降低运营成本，并确保合规性和治理标准。工具开源，可自定义，支持社区贡献，简化迁移过程。</description>
@@ -52,6 +73,13 @@
       <link>https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/</link>
       <description>AWS Lambda SnapStart现在为Python和.NET函数提供，可显著提高函数启动性能，将启动时间从几秒缩短到亚秒级。通过缓存和重用初始化代码的快照，Lambda SnapStart减少了初始化函数带来的延迟，无需额外配置资源或优化。用户可以通过AWS管理控制台、AWS CLI或AWS SDK轻松激活、更新和删除SnapStart功能。</description>
       <pubDate>2024-11-18 21:07:15</pubDate>
+    </item>
+  
+    <item>
+      <title>We asked, you answered: the workplace trends that matter</title>
+      <link>https://www.surveymonkey.com/curiosity/we-asked-you-answered-the-workplace-trends-that-matter/?ut_source=rss</link>
+      <description>员工对工作场所的看法揭示了工作与生活平衡、远程工作、管理风格和同事关系对员工保留、生产力、参与度和福祉的重要性。研究显示，工作与生活平衡是员工最看重的因素，其次是工作安全、职业成长机会和公司文化。远程工作对员工生产力有积极影响，而糟糕的管理者则是员工离职的主要原因。此外，与同事建立良好关系和拥有支持性的管理者对提高员工参与度和福祉至关重要。</description>
+      <pubDate>2024-11-18 19:16:47</pubDate>
     </item>
   
     <item>
