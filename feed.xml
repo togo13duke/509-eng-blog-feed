@@ -6,6 +6,83 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>How WaterBridge Uses TimescaleDB for Real-Time Data Consistency</title>
+      <link>https://www.timescale.com/blog/how-waterbridge-uses-timescaledb-for-real-time-data-consistency/</link>
+      <description>WaterBridge公司利用TimescaleDB进行实时数据一致性管理，通过实时监测和报警，确保运营效率和安全性。他们使用TimescaleDB作为数据历史记录器，处理高达每秒10,000个数据点，并通过PowerBI、See和Spotfire等工具进行数据可视化。公司计划未来实施预测性维护模型。</description>
+      <pubDate>2024-11-20 14:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>NumPy Practical Examples: Useful Techniques</title>
+      <link>https://realpython.com/numpy-example/</link>
+      <description>本教程通过实际案例介绍了NumPy库在Python科学计算中的应用。内容包括从文件创建多维数组、处理数据大小、使用结构化数组合并数据、分析层次数据以及编写向量化函数。教程还提供了设置工作环境、安装必要库和练习题，帮助读者掌握NumPy的基本操作和高级技巧。</description>
+      <pubDate>2024-11-20 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: Clear’s identity ambitions, and the climate blame game</title>
+      <link>https://www.technologyreview.com/2024/11/20/1107068/the-download-clear-identity-climate-blame/</link>
+      <description>Clear公司正致力于超越机场管理个人身份，其生物识别身份验证平台正广泛应用于体育场馆、零售商、银行和医疗办公室等场所。同时，文章探讨了生物识别技术普及带来的成本和责任问题，以及气候变化责任归属的复杂性。</description>
+      <pubDate>2024-11-20 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Address Journey Mapping Challenges: Insights from a Design Thinking Workshop</title>
+      <link>https://spin.atomicobject.com/journey-mapping-challenges/</link>
+      <description>设计思维工作坊中，参与者通过创建旅程图来评估产品体验，以确定最小可行产品（MVP）的焦点。他们面临挑战，如选择用户角色和定义范围，但通过解决复杂用例和识别关键触点，旅程图帮助他们在产品开发的各个阶段做出明智决策。</description>
+      <pubDate>2024-11-20 13:00:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Maintenance Mode and Restart Apps for DigitalOcean App Platform</title>
+      <link>https://www.digitalocean.com/blog/app-platform-introduces-maintenance-mode</link>
+      <description>DigitalOcean App Platform推出两项新功能：维护模式和重启应用。维护模式允许在用户不知情的情况下进行应用维护，而重启应用功能则可在几秒钟内从仪表板重启应用，以快速恢复性能和更新。这些功能旨在提高应用的灵活性和管理效率。</description>
+      <pubDate>2024-11-20 13:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Getting the Most Out of Tracing Tools for Observability</title>
+      <link>https://last9.io/blog/tracing-tools-for-observability/</link>
+      <description>利用追踪工具最大化可观察性，通过跟踪请求、识别瓶颈和优化系统性能来提高应用程序的性能。本文探讨了开源和商业追踪解决方案，包括Jaeger、OpenTelemetry和Zipkin，以及选择适合您需求的工具时应考虑的因素。这些工具提供端到端可见性、根因识别、优化和实时监控，有助于调试和优化系统。</description>
+      <pubDate>2024-11-20 12:51:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Understanding What Are Impressions on Instagram and Their Importance</title>
+      <link>https://www.brandwatch.com/blog/instagram-impressions/</link>
+      <description>了解Instagram上的印象及其重要性，对制定社交媒体策略至关重要。印象是衡量内容曝光度的指标，不同于触及范围，它记录了内容在用户屏幕上出现的次数。通过分析印象，可以了解哪些内容最受欢迎，从而优化内容策略，提高品牌可见度和受众互动。</description>
+      <pubDate>2024-11-20 11:53:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Who’s to blame for climate change? It’s surprisingly complicated.</title>
+      <link>https://www.technologyreview.com/2024/11/20/1107015/global-climate-emissions/</link>
+      <description>全球气候变化责任复杂，中国目前是最大的排放国，但美国在历史排放量上贡献最大。各国排放量与人口和经济发展水平相关，解决气候变化需要全球合作。</description>
+      <pubDate>2024-11-20 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Inside Clear’s ambitions to manage your identity beyond the airport</title>
+      <link>https://www.technologyreview.com/2024/11/20/1107002/clear-airport-identity-management-biometrics-facial-recognition/</link>
+      <description>Clear公司正致力于将生物识别技术应用于机场安检以外的更多场景，以实现无摩擦的未来。通过面部识别等技术，Clear旨在成为互联网的“身份层”和现实世界的“通用身份平台”，让用户无需携带钱包，只需展示面部即可完成各种身份验证。然而，这种便利也引发了对隐私和数据安全的担忧。</description>
+      <pubDate>2024-11-20 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Proactive Monitoring: What It Is, Why It Matters, &amp; Use Cases</title>
+      <link>https://last9.io/blog/proactive-monitoring/</link>
+      <description>主动监控是一种IT管理方法，通过跟踪性能指标，如响应时间、CPU使用率和应用程序行为，以早期发现问题。它有助于减少中断、提高系统可靠性、优化性能和改善连接性。通过设置基线、持续监控、检测和警报以及采取行动，主动监控可以确保系统性能，并使IT团队能够快速响应潜在问题，从而保持业务连续性和提升用户体验。</description>
+      <pubDate>2024-11-20 09:51:36</pubDate>
+    </item>
+  
+    <item>
+      <title>StringBuffer is Dead, Long Live StringBuffer</title>
+      <link>http://blog.vanillajava.blog/2024/11/stringbuffer-is-dead-long-live.html</link>
+      <description>尽管自Java 5.0引入StringBuilder以来，StringBuffer的使用已大幅减少，但在Java 21中，StringBuffer仍然广泛存在，尤其是在不需要线程安全的地方。由于StringBuffer的同步方法引入了不必要的开销，使用StringBuilder可以显著提高性能。开发者应主动审查代码，将StringBuffer替换为StringBuilder，以优化性能。</description>
+      <pubDate>2024-11-20 09:18:00</pubDate>
+    </item>
+  
+    <item>
       <title>Understanding The Root Causes of API Drift</title>
       <link>https://nordicapis.com/understanding-the-root-causes-of-api-drift/</link>
       <description>API漂移是API与其规范不一致的问题，可能导致开发人员资源不匹配、开发体验问题，甚至破坏集成和客户满意度。主要原因是API文档不完整、缺乏治理策略、测试不足和缺乏规范优先的开发。为了避免API漂移，应使用OpenAPI作为基准，自动化文档生成，集成规范测试，并采用合同测试。通过这些方法，可以保持API定义与规范同步，提高开发效率和用户体验。</description>
@@ -17,6 +94,13 @@
       <link>https://developers.redhat.com/articles/2024/11/20/rhel-ai-action-streamline-ai-workflows-rag-lab-and-raglab</link>
       <description>本文介绍了如何使用Red Hat Enterprise Linux AI（RHEL AI）优化和部署Granite LLM模型，包括RAG、LAB和RAGLAB技术。通过实例展示了如何使用这些方法开发一个聊天机器人，并详细说明了数据预处理、模型训练和部署的步骤。</description>
       <pubDate>2024-11-20 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Plugin Acrobatics</title>
+      <link>https://thedailywtf.com/articles/plugin-acrobatics</link>
+      <description>这段文本主要讨论了Web浏览器插件的历史和一种检测Acrobat Reader插件版本号的代码示例。文章指出，在早期，浏览器需要插件来显示不同类型的媒体内容，如视频播放器。作者分析了检测Acrobat Reader插件版本号的代码，指出代码存在逻辑错误，没有正确识别插件类型，且使用了过时的方法。</description>
+      <pubDate>2024-11-20 06:30:00</pubDate>
     </item>
   
     <item>
@@ -37,6 +121,20 @@
       <title>Process slow network requests with Turbo and Active Model</title>
       <link>https://thoughtbot.com/blog/process-network-requests-with-turbo</link>
       <description>本文介绍了如何使用Turbo和Active Model处理缓慢的网络请求，以提高用户体验。作者通过一个示例，展示了如何将网络请求后台处理，并在处理完毕后异步更新浏览器。文章还讨论了如何使用Turbo的广播功能，以及如何将广播范围限定于当前用户。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Mastodon’s weaknesses and how to fix them</title>
+      <link>https://2ality.com/2024/11/mastodon-weaknesses.html</link>
+      <description>Mastodon作为去中心化社交平台，虽然具有许多优点，但仍存在一些弱点，如无法引用帖子、无法查看所有回复和帖子、缺乏全局搜索和算法、无法安排帖子等。文章探讨了这些问题的解决方案，包括即将推出的引用帖子功能、改进的回复和帖子查看功能、Fediverse搜索引擎的开发以及可能的长期解决方案，如实现游牧身份。同时，文章也讨论了Mastodon的架构、内容监管的挑战以及如何提高用户体验。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Developer Ownership and Taking Responsibility - The Basics</title>
+      <link>https://www.amazingcto.com/developer-ownership-and-responsibilities-basics/</link>
+      <description>文章主要探讨了开发者责任感和承担责任的必要性，强调了责任和所有权在工程管理中的重要性。作者提出，通过明确期望、制定角色描述、建立愿景和战略、塑造工程文化以及授权决策，可以激励开发者承担责任，从而减少管理负担并促进团队成长。文章还讨论了如何通过正面和负面的行为来强化或破坏责任感和所有权，并强调了建立所有权文化的长期性和挑战。</description>
       <pubDate>2024-11-20 00:00:00</pubDate>
     </item>
   
