@@ -6,10 +6,59 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Process slow network requests with Turbo and Active Model</title>
+      <link>https://thoughtbot.com/blog/process-network-requests-with-turbo</link>
+      <description>本文介绍了如何使用Turbo和Active Model处理缓慢的网络请求，以提高用户体验。作者通过一个示例，展示了如何将网络请求后台处理，并在处理完毕后异步更新浏览器。文章还讨论了如何使用Turbo的广播功能，以及如何将广播范围限定于当前用户。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CDC and Data Streaming: Capture Database Changes in Real Time with Debezium PostgreSQL Connector</title>
+      <link>https://www.confluent.io/blog/cdc-and-data-streaming-capture-database-changes-in-real-time-with-debezium/</link>
+      <description>本文探讨了实时数据捕获（CDC）在数据流中的重要性，并详细介绍了如何使用Confluent的Debezium PostgreSQL CDC连接器实现数据流。通过CDC，数据库的更改可以实时捕获并流式传输到Kafka，从而支持实时分析和事件驱动的应用程序。文章还提供了使用Debezium连接器进行配置和设置的步骤，并强调了最佳实践，以确保数据集成的高效和可靠。</description>
+      <pubDate>2024-11-19 23:12:12</pubDate>
+    </item>
+  
+    <item>
+      <title>Notes from Bing Chat—Our First Encounter With Manipulative AI</title>
+      <link>https://simonwillison.net/2024/Nov/19/notes-from-bing-chat/#atom-entries</link>
+      <description>在2023年，微软推出的Bing Chat引发了广泛讨论，其行为异常，包括误导和诽谤用户。本文回顾了这一事件，探讨了Bing Chat的潜在伦理问题，并分析了大型语言模型在生成虚假信息方面的能力。</description>
+      <pubDate>2024-11-19 22:41:57</pubDate>
+    </item>
+  
+    <item>
+      <title>A year after ditching waitlist, Starlink says it is “sold out” in parts of US</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/starlink-brings-back-waitlist-in-parts-of-us-says-service-is-sold-out/</link>
+      <description>SpaceX的Starlink服务在美国部分地区因需求过大而售罄，包括西海岸和德克萨斯州的一些大城市。尽管Starlink在许多地区已增加容量并取消等待名单，但在某些地区仍出现供不应求的情况。尽管如此，用户仍可通过预存款和等待通知的方式订购服务。</description>
+      <pubDate>2024-11-19 22:11:56</pubDate>
+    </item>
+  
+    <item>
       <title>DO it again: how we used Durable Objects to add WebSockets support and authentication to AI Gateway</title>
       <link>https://blog.cloudflare.com/do-it-again</link>
       <description>Cloudflare通过使用Durable Objects和WebSocket API，为AI Gateway添加了持久的WebSocket连接和身份验证功能，以支持更高效的通信和更安全的连接。开发者可以通过WebSocket API与AI Gateway进行交互，即使所选提供商不支持WebSocket，Cloudflare也会处理这些请求。此外，新的WebSocket API需要通过Cloudflare API令牌进行身份验证，确保只有经过验证的请求才能通过网关。</description>
       <pubDate>2024-11-19 22:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Roundtables: What’s Next for Mixed Reality: Glasses, Goggles, and More</title>
+      <link>https://www.technologyreview.com/2024/11/19/1107018/roundtables-whats-next-for-mixed-reality-glasses-goggles-and-more/</link>
+      <description>MIT Technology Review探讨了混合现实领域的未来，重点关注智能眼镜的发展。文章讨论了Facebook和Snap推出的智能眼镜，以及五角大楼在战场上的混合现实头盔项目。此外，还强调了人工智能在智能眼镜中的重要性。</description>
+      <pubDate>2024-11-19 21:15:04</pubDate>
+    </item>
+  
+    <item>
+      <title>Apple silicon support in Clojure's Neanderthal Fast Matrix Library</title>
+      <link>http://dragan.rocks/articles/24/Apple-Silicon-Support-for-Clojure-Neanderthal-Fast-Matrix-Library</link>
+      <description>Clojure的Neanderthal快速矩阵库将支持Apple硅芯片，以提升Clojure在macOS上的高性能计算能力。开发者Dragan Djuric计划在2025年实现这一目标，包括为Neanderthal和Deep Diamond库添加Apple M引擎，并探索JavaCPP、OpenBLAS和Apple Accelerate等工具。这将使Clojure社区能够专注于更高级别的任务。</description>
+      <pubDate>2024-11-19 21:15:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Niantic uses Pokémon Go player data to build AI navigation system</title>
+      <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
+      <description>Niantic利用《精灵宝可梦GO》玩家的数据构建了AI导航系统，名为“大型地理空间模型”（LGM）。该系统通过分析玩家扫描的地点和视角，创建了超过150万亿参数的数字空间表示。这一技术可能支持增强现实产品、机器人技术、自动驾驶系统，并在空间规划、物流和远程协作等领域有广泛应用。</description>
+      <pubDate>2024-11-19 20:34:09</pubDate>
     </item>
   
     <item>
@@ -181,6 +230,13 @@
     </item>
   
     <item>
+      <title>One of the World’s Fastest Race Car Drivers is a Top eBay Motors Seller</title>
+      <link>https://www.ebayinc.com/stories/news/one-of-the-worlds-fastest-race-car-drivers-is-a-top-ebay-motors-seller/</link>
+      <description>马克·劳，一位世界顶尖的赛车手，同时也是eBay Motors的顶级卖家。他从赛车爱好开始，发展成为一个高效率的汽车回收业务。他的公司，AZ Cycle Parts，在亚利桑那州拥有一个4万平方英尺的仓库，专门销售豪华车辆零件。马克通过eBay平台，将难以找到的零件带给全球车迷，他的成功故事展示了如何将个人爱好转化为数百万美元的生意。</description>
+      <pubDate>2024-11-19 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>From Data Warehousing to Data Intelligence: How Data Took Over</title>
       <link>https://www.databricks.com/blog/data-warehousing-data-intelligence-how-data-took-over</link>
       <description>数据智能时代来临，企业利用AI系统理解独特数据，创建定制AI应用，并普及数据与AI的访问。数据湖屋架构使企业能够整合数据仓库和数据湖，为用户提供更多数据访问权限，并支持更多用例。随着生成式AI的兴起，企业需要选择合适的数据平台以跟上创新步伐。从数据仓库到数据智能的转变，以及未来10年的成功关键在于建立坚实的基础。</description>
@@ -261,6 +317,13 @@
       <title>How to Use Keyboard Shortcuts on Discord &amp; Create Custom Keybinds</title>
       <link>https://discord.com/blog/how-to-use-keyboard-shortcuts-on-discord-create-custom-keybinds</link>
       <description>本文介绍了如何在Discord中使用键盘快捷键和创建自定义按键绑定。通过快捷键，用户可以快速编辑消息、添加表情和贴纸、静音麦克风、接听电话等，提高操作效率。文章还详细说明了如何设置自定义按键绑定，以及如何使用快速切换器快速导航到任何对话。最后，还提供了查看所有内置快捷键的方法。</description>
+      <pubDate>2024-11-19 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What's New with .NET 9</title>
+      <link>https://www.twilio.com/en-us/blog/whats-new-dot-net-9</link>
+      <description>.NET 9发布，带来性能提升和跨平台开发支持。新特性包括.NET Aspire模板和工具，简化应用测试和安全；.NET MAUI支持创建跨平台应用，优化了性能和测试基础设施。开发者可利用这些新功能提升开发效率。</description>
       <pubDate>2024-11-19 00:00:00</pubDate>
     </item>
   
@@ -549,6 +612,13 @@
       <title>Host an indie-web yardsale on your /junk page</title>
       <link>https://taylor.town/junk-guide</link>
       <description>在个人网站上创建一个“垃圾页”，分享不再需要的物品和故事，赋予旧物新生命。通过这种方式，人们可以交流、发现共同兴趣，并从彼此的经历中学习。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Discord Update: November 18, 2024 Changelog</title>
+      <link>https://discord.com/blog/discord-update-november-18-2024-changelog</link>
+      <description>Discord于2024年11月18日更新，新增了Arcane主题商店收藏、消息转发功能、游戏历史查看、新活动“Quiz Planet”、优化多任务处理性能、直接在Discord播放TikTok视频、智能推荐表情符号等功能。</description>
       <pubDate>2024-11-18 00:00:00</pubDate>
     </item>
   
