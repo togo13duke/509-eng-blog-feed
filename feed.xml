@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Understanding The Root Causes of API Drift</title>
+      <link>https://nordicapis.com/understanding-the-root-causes-of-api-drift/</link>
+      <description>API漂移是API与其规范不一致的问题，可能导致开发人员资源不匹配、开发体验问题，甚至破坏集成和客户满意度。主要原因是API文档不完整、缺乏治理策略、测试不足和缺乏规范优先的开发。为了避免API漂移，应使用OpenAPI作为基准，自动化文档生成，集成规范测试，并采用合同测试。通过这些方法，可以保持API定义与规范同步，提高开发效率和用户体验。</description>
+      <pubDate>2024-11-20 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>RHEL AI in action: Streamline AI workflows with RAG, LAB, and RAGLAB</title>
+      <link>https://developers.redhat.com/articles/2024/11/20/rhel-ai-action-streamline-ai-workflows-rag-lab-and-raglab</link>
+      <description>本文介绍了如何使用Red Hat Enterprise Linux AI（RHEL AI）优化和部署Granite LLM模型，包括RAG、LAB和RAGLAB技术。通过实例展示了如何使用这些方法开发一个聊天机器人，并详细说明了数据预处理、模型训练和部署的步骤。</description>
+      <pubDate>2024-11-20 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Logs Tail: A Developer's Guide</title>
+      <link>https://last9.io/blog/docker-logs-tail-a-guide/</link>
+      <description>Docker日志是容器化应用调试和监控的关键。本文深入探讨了Docker日志的基本概念、命令结构、日志管理、实时监控和高级配置，包括日志驱动、日志旋转、安全性和DevOps集成。掌握Docker日志将大大提高容器化应用的调试效率。</description>
+      <pubDate>2024-11-20 04:57:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Agentforce の構築と管理について – Salesforce Platform のロードマップを紐解く</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/build-and-govern-your-agentforce-loadmap-jp.html</link>
+      <description>Salesforce Platform 的新产品 Agentforce 将通过 AI 代理实现业务流程自动化，提高工作效率。该产品提供从低代码到专业代码的多种工具，支持不同技能水平的用户构建和部署 AI 代理。Agentforce 还注重安全性，提供数据加密、安全监控等功能，确保客户数据的安全。未来，Agentforce 将进一步发展，实现代理之间的协作，推动企业创新。</description>
+      <pubDate>2024-11-20 03:01:41</pubDate>
+    </item>
+  
+    <item>
       <title>Process slow network requests with Turbo and Active Model</title>
       <link>https://thoughtbot.com/blog/process-network-requests-with-turbo</link>
       <description>本文介绍了如何使用Turbo和Active Model处理缓慢的网络请求，以提高用户体验。作者通过一个示例，展示了如何将网络请求后台处理，并在处理完毕后异步更新浏览器。文章还讨论了如何使用Turbo的广播功能，以及如何将广播范围限定于当前用户。</description>
