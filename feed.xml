@@ -6,6 +6,104 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Bigger and badder: how DDoS attack sizes have evolved over the last decade</title>
+      <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade</link>
+      <description>DDoS攻击在过去十年中呈指数增长，攻击规模越来越大，从Gbps到Tbps，攻击频率和强度显著增加。攻击者利用云虚拟机等更强大的设备，使得攻击更加隐蔽和高效。Cloudflare通过自动化检测、全球流量分布和多层防御等技术，提供强大的DDoS保护，确保网络服务的稳定性和可靠性。</description>
+      <pubDate>2024-11-20 22:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Webinar: Supercharge development with Bitbucket &amp; Atlassian Cloud</title>
+      <link>https://www.atlassian.com/blog/bitbucket/webinar-supercharge-development-with-bitbucket-atlassian-cloud</link>
+      <description>Atlassian将于2024年12月5日举办一场网络研讨会，探讨Bitbucket Cloud的新功能，包括与Jira、Jira Service Management和Compass的集成，以及DevSecOps工作流程的设置。研讨会将介绍Bitbucket Cloud的CI/CD能力，与本地CI/CD工具的优势，以及与Bitbucket Data Center的关键区别。此外，还将分享AI投资以提升生产力，并提供迁移资源。</description>
+      <pubDate>2024-11-20 19:48:03</pubDate>
+    </item>
+  
+    <item>
+      <title>How to make Storybook Interactions respect user motion preferences</title>
+      <link>https://github.blog/engineering/user-experience/how-to-make-storybook-interactions-respect-user-motion-preferences/</link>
+      <description>如何使Storybook交互尊重用户的运动偏好 - 通过自定义插件，确保对运动敏感的用户在享受Storybook交互功能的同时，其工作环境保持可访问性。</description>
+      <pubDate>2024-11-20 17:00:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Restore Credentials: Effortless account restoration for Android apps</title>
+      <link>http://android-developers.googleblog.com/2024/11/maintain-strong-user-relationships-with-restore-credentials.html</link>
+      <description>Android推出新功能“恢复凭据”，简化Android应用账户恢复过程，使用户在新设备上无缝登录，提升用户体验和用户留存。</description>
+      <pubDate>2024-11-20 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveling Up Fuzzing: Finding more vulnerabilities with AI</title>
+      <link>http://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html</link>
+      <description>Google开源安全团队利用人工智能技术提升了模糊测试，通过AI生成的模糊测试目标发现更多漏洞。这种方法在OpenSSL库中发现了关键漏洞，并显著提高了代码覆盖率。AI在编写、测试和迭代模糊测试目标方面表现出色，进一步自动化了模糊测试流程，有助于提前发现并修复漏洞。</description>
+      <pubDate>2024-11-20 16:55:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Joining forces: How Web2 and Web3 developers can build together</title>
+      <link>https://stackoverflow.blog/2024/11/20/joining-forces-how-web2-and-web3-developers-can-build-together/</link>
+      <description>Web2和Web3开发者之间的误解和分歧源于对底层技术的误解和对负面新闻的关注。本文探讨了两者之间的相似之处，以及Web2开发者如何通过区块链技术提升项目。文章强调了区块链在金融领域的优势，如降低交易成本、提高透明度和安全性，并介绍了XRPL学习门户，帮助Web2开发者过渡到Web3。</description>
+      <pubDate>2024-11-20 16:34:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Celebrating Innovation: Announcing the Finalists of the Databricks Generative AI Startup Challenge</title>
+      <link>https://www.databricks.com/blog/celebrating-innovation-announcing-finalists-databricks-generative-ai-startup-challenge</link>
+      <description>Databricks宣布了生成式AI创业挑战赛的决赛选手，这些初创公司利用生成式AI和Databricks数据智能平台构建创新产品，解决现实客户问题。决赛选手包括ChipStack、Flagler Health、Orby AI和Vevo Therapeutics，他们分别优化芯片设计、改善医疗保健、自动化企业流程和药物分子与细胞相互作用研究。该挑战赛旨在展示早期初创公司的创新想法，并推动技术社区内的合作。</description>
+      <pubDate>2024-11-20 16:16:30</pubDate>
+    </item>
+  
+    <item>
+      <title>dotnet scaffold – Next Generation Project Creation for .NET</title>
+      <link>https://devblogs.microsoft.com/dotnet/introducing-dotnet-scaffold/</link>
+      <description>.NET Blog介绍了新的交互式命令行工具dotnet scaffold，用于创建.NET项目。该工具支持多种ASP.NET Core项目类型，如Web应用、Web API等，并可通过命令行安装。文章详细介绍了如何使用dotnet scaffold创建Razor Pages，包括空页面和基于模型类的CRUD页面，并提供了安装和配置的步骤。</description>
+      <pubDate>2024-11-20 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Native Login with Passkeys Is Now in Limited Early Access for Android Applications!</title>
+      <link>https://auth0.com/blog/native-login-with-passkeys-is-now-in-limited-early-access-for-android/</link>
+      <description>Auth0宣布，原生登录功能现在对Android应用程序提供有限早期访问。开发者可以通过集成passkeys，为用户提供无缝的登录体验。该功能支持用户注册和登录，并要求启用passkey策略、配置自定义域以及支持Android App Links。开发者可以通过Auth0的AuthenticationAPIClient实现这一功能。</description>
+      <pubDate>2024-11-20 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Function Argument Nullability Using an LLM</title>
+      <link>https://galois.com/blog/2024/11/function-argument-nullability-using-an-llm/</link>
+      <description>Galois公司开发了一个名为c2rust的自动转换器，将C代码转换为Rust代码。最近，他们尝试使用大型语言模型（LLM）来分析C代码中函数参数的可空性，以改进转换过程。实验表明，LLM分析在限制分析方面比静态分析更准确，但成本更高且错误概率大。Galois计划继续探索LLM在软件安全工具中的应用。</description>
+      <pubDate>2024-11-20 15:46:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Découvrez le premier talk de l'édition 2025 ! 🐥</title>
+      <link>https://blog.octo.com/decouvrez-le-premier-talk-de-l'edition-2025-!</link>
+      <description>OCTO Talks 2025首场演讲即将于2024年11月20日举行，主题为“简化微前端：增量迭代迁移的幕后”。演讲者将分享InVivo Digital Factory从单体架构到微前端架构的转型经验，探讨微前端的实施时机和实施方法。</description>
+      <pubDate>2024-11-20 15:28:10</pubDate>
+    </item>
+  
+    <item>
+      <title>HR leaders explain how to secure buy-in for workplace benefits and wellness programs</title>
+      <link>https://www.surveymonkey.com/curiosity/hr-leaders-explain-how-to-secure-buy-in-for-workplace-benefits-and-wellness-programs/?ut_source=rss</link>
+      <description>如何获得管理层对职场福利的支持：HR领导者强调，为了建立员工需要的职场福利和健康计划，获得管理层支持至关重要。成功需要管理层支持和强大的员工反馈机制，包括提出正确的问题、倾听回应并采取有意义的行动。通过数据驱动的案例，结合员工反馈，组织可以设计出满足不同需求的福利计划，并通过持续监测和调整来保持其有效性。</description>
+      <pubDate>2024-11-20 14:57:45</pubDate>
+    </item>
+  
+    <item>
+      <title>Consecutive Scroll Animations with One Element</title>
+      <link>https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/</link>
+      <description>本文介绍了使用GSAP Flip和ScrollTrigger在滚动时动画化单个元素的概念。作者通过一个示例演示了如何创建连续的翻页动画，并提供了HTML和JavaScript代码示例。</description>
+      <pubDate>2024-11-20 14:42:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Predictive Optimization for Statistics</title>
+      <link>https://www.databricks.com/blog/introducing-predictive-optimization-statistics</link>
+      <description>Databricks推出预测优化统计功能，简化优化流程，支持数据布局和清理。此功能通过智能选择数据跳过统计、自动收集查询优化统计，提高性能和降低成本。通过更新统计信息，查询执行策略得到优化，平均性能提升22%。预测优化还提供智能Delta统计收集和查询优化统计自动收集，简化操作并提高效率。</description>
+      <pubDate>2024-11-20 14:21:20</pubDate>
+    </item>
+  
+    <item>
       <title>How WaterBridge Uses TimescaleDB for Real-Time Data Consistency</title>
       <link>https://www.timescale.com/blog/how-waterbridge-uses-timescaledb-for-real-time-data-consistency/</link>
       <description>WaterBridge公司利用TimescaleDB进行实时数据一致性管理，通过实时监测和报警，确保运营效率和安全性。他们使用TimescaleDB作为数据历史记录器，处理高达每秒10,000个数据点，并通过PowerBI、See和Spotfire等工具进行数据可视化。公司计划未来实施预测性维护模型。</description>
@@ -16,6 +114,13 @@
       <title>NumPy Practical Examples: Useful Techniques</title>
       <link>https://realpython.com/numpy-example/</link>
       <description>本教程通过实际案例介绍了NumPy库在Python科学计算中的应用。内容包括从文件创建多维数组、处理数据大小、使用结构化数组合并数据、分析层次数据以及编写向量化函数。教程还提供了设置工作环境、安装必要库和练习题，帮助读者掌握NumPy的基本操作和高级技巧。</description>
+      <pubDate>2024-11-20 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>#WeArePlay | Meet more people creating apps and games in Japan</title>
+      <link>http://android-developers.googleblog.com/2024/11/weareplay-meet-more-people-creating-apps-games-japan.html</link>
+      <description>日本开发者们在Google Play上构建了多样化的应用和游戏，包括将捡垃圾变成社会运动的Pirika、结合寿司和猫的CHARROOM游戏以及利用AI帮助人们研究健康问题的Ubie应用。这些故事展示了开发者们的创新和热情。</description>
       <pubDate>2024-11-20 14:00:00</pubDate>
     </item>
   
@@ -66,6 +171,13 @@
       <link>https://www.technologyreview.com/2024/11/20/1107002/clear-airport-identity-management-biometrics-facial-recognition/</link>
       <description>Clear公司正致力于将生物识别技术应用于机场安检以外的更多场景，以实现无摩擦的未来。通过面部识别等技术，Clear旨在成为互联网的“身份层”和现实世界的“通用身份平台”，让用户无需携带钱包，只需展示面部即可完成各种身份验证。然而，这种便利也引发了对隐私和数据安全的担忧。</description>
       <pubDate>2024-11-20 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Progress Is the Only Constant: A New Era for Brandwatch</title>
+      <link>https://www.brandwatch.com/blog/brandwatch-google-cloud-collaboration/</link>
+      <description>Brandwatch与谷歌云达成战略合作，利用谷歌云的生成式AI能力，推动产品路线图发展，为用户提供更深入的洞察、提高生产力和无与伦比的客户体验。这将使客户能够利用先进的工具和情报，在竞争激烈的市场中保持领先。</description>
+      <pubDate>2024-11-20 09:56:09</pubDate>
     </item>
   
     <item>
@@ -135,6 +247,48 @@
       <title>Developer Ownership and Taking Responsibility - The Basics</title>
       <link>https://www.amazingcto.com/developer-ownership-and-responsibilities-basics/</link>
       <description>文章主要探讨了开发者责任感和承担责任的必要性，强调了责任和所有权在工程管理中的重要性。作者提出，通过明确期望、制定角色描述、建立愿景和战略、塑造工程文化以及授权决策，可以激励开发者承担责任，从而减少管理负担并促进团队成长。文章还讨论了如何通过正面和负面的行为来强化或破坏责任感和所有权，并强调了建立所有权文化的长期性和挑战。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the Microsoft Semantic Kernel Elasticsearch connector</title>
+      <link>https://www.elastic.co/blog/microsoft-semantic-kernel-elasticsearch</link>
+      <description>Elasticsearch与Microsoft Semantic Kernel团队合作，推出Semantic Kernel Elasticsearch Vector Store连接器，简化企业级AI代理的构建，并支持大型语言模型（LLMs）与向量存储的数据驱动响应。Elasticsearch向量数据库为开发者提供高效的数据存储、检索和相似性搜索，适用于构建推荐引擎、问答系统等需要处理大量非结构化数据的AI代理。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Collecting Windows telemetry with Elastic: An introduction to the ETW Filebeat input</title>
+      <link>https://www.elastic.co/blog/windows-telemetry-etw-filebeat-input</link>
+      <description>Elastic新推出的ETW Filebeat输入功能，允许用户直接从Windows主机收集ETW数据，简化了数据收集、过滤和分析过程。通过Filebeat订阅ETW会话，实时收集事件数据，并将其传输到Elasticsearch进行分析和可视化。此功能支持多种数据收集场景，包括实时监控、取证分析和操作故障排除。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveling up your observability practice — Part 1</title>
+      <link>https://www.elastic.co/blog/observability-maturity-lessons-benefits-part1</link>
+      <description>提升可观测性实践，实现可衡量的收益：本文探讨了可观测性成熟度，分析了不同组织在可观测性实践中的位置，并强调了成熟的可观测性如何带来运营效率和可靠性方面的显著提升。通过数据驱动决策、跨团队协作和持续改进，组织可以逐步提升其可观测性成熟度，从而实现更稳定、更可靠的服务。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Ride the AI Wave with ConversationRelay: Effortless Voice AI, Made Human</title>
+      <link>https://www.twilio.com/en-us/blog/conversationrelay-voice-ai-made-human</link>
+      <description>Twilio推出全新解决方案ConversationRelay，简化语音AI集成，助力企业提升运营效率、增强客户满意度。该平台整合了语音识别、自然语音合成和大型语言模型等技术，提供流畅、自然的语音交互体验，让客户感受到理解和支持。通过简化语音AI的复杂性，ConversationRelay帮助企业实现客户互动的转型，并取得显著商业成果。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>ConversationRelay Application and Architecture for Voice AI Applications Built on AWS</title>
+      <link>https://www.twilio.com/en-us/blog/conversation-relay-aws-reference-architecture</link>
+      <description>Twilio推出了一款名为ConversationRelay的新产品，旨在简化基于AWS的语音AI应用开发。该产品通过提供简单接口，处理语音转文本、文本转语音等复杂任务，帮助企业专注于业务逻辑和与AI模型的交互。ConversationRelay支持多种语音识别和合成服务，优化连接以实现低延迟对话。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Unveiling the Stars of Twilio’s AI Startup Searchlight 2.0</title>
+      <link>https://www.twilio.com/en-us/blog/startup-searchlight-2-0-winners-2024</link>
+      <description>Twilio在SIGNAL London 2024上宣布了AI初创企业Searchlight 2.0的获奖者。这些初创企业通过AI和机器学习技术，利用Twilio的通信工具，在改善全球行为健康支持、预测预防妊娠并发症以及提供个性化客户服务等方面取得了显著成就。</description>
       <pubDate>2024-11-20 00:00:00</pubDate>
     </item>
   
@@ -563,6 +717,13 @@
       <link>https://www.atlassian.com/blog/confluence/fuel-employee-engagement-with-knowledge</link>
       <description>知识共享在提升员工参与度和留存率方面发挥着重要作用。通过建立中央知识库、促进透明沟通、提供反馈和培训，以及消除流程和工具的摩擦，企业可以提高员工满意度，从而增强员工对组织的归属感和忠诚度。</description>
       <pubDate>2024-11-18 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Improvements to Query Editor &amp; Schedule Search</title>
+      <link>https://last9.io/changelog/improvements-to-query-editor-schedule-search/</link>
+      <description>Query编辑器和调度搜索功能得到改进，现在日志探索器编辑模式下的查询可以保存到查询库，并且当前浏览器URL也可以复制以共享查询。此外，计划搜索警报通知中的链接现在将在本地日志探索器中打开。</description>
+      <pubDate>2024-11-18 16:49:00</pubDate>
     </item>
   
     <item>
