@@ -6,6 +6,34 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The Compression of Tech Maturity in the Age of AI</title>
+      <link>https://nordicapis.com/the-compression-of-tech-maturity-in-the-age-of-ai/</link>
+      <description>在人工智能时代，技术成熟周期被极大地压缩。本文探讨了人工智能技术成熟度的问题，指出尽管AI具有巨大潜力，但其快速发展的同时，也带来了风险和挑战。AI在数据依赖、逻辑推理、隐私保护等方面仍存在不足，需要谨慎使用。</description>
+      <pubDate>2024-11-21 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Python performance optimizations with RHEL 9.5</title>
+      <link>https://developers.redhat.com/articles/2024/11/21/python-performance-optimizations-rhel-95</link>
+      <description>RHEL 9.5通过编译Python 3.9、3.11和3.12使用GCC的-O3标志，提高了Python性能。这些优化不仅提升了通用Python应用程序的性能，还为AI/ML工作负载提供了显著的性能提升，有助于加快训练时间、提高推理速度和更高效地使用资源。</description>
+      <pubDate>2024-11-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Best practices for InstructLab instruction datasets</title>
+      <link>https://developers.redhat.com/articles/2024/11/21/best-practices-instructlab-instruction-datasets</link>
+      <description>本文介绍了如何构建训练材料以微调个人语言模型。通过提供Markdown文件作为“学生”的学习资料和qna.yaml文件中的示例问题与答案，可以有效地训练模型生成相关输出。文章强调了构建高质量指令数据集的重要性，并提供了构建上下文文本文件和qna.yaml文件的详细指南。</description>
+      <pubDate>2024-11-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A guide to premade grafana-pcp dashboard development</title>
+      <link>https://developers.redhat.com/articles/2024/11/21/premade-dashboards-grafana-pcp</link>
+      <description>本文介绍了如何从零开始创建Grafana仪表板，并重点介绍了Grafana-pcp插件中的预制仪表板。文章详细说明了如何使用Jsonnet文件创建和导入仪表板，以及如何测试和部署仪表板。此外，还提供了创建特定仪表板（如“Top CPU Consumers”）的示例步骤。</description>
+      <pubDate>2024-11-21 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Recommending blog posts with artificial intelligence</title>
       <link>https://thoughtbot.com/blog/recommending-blog-posts-with-artificial-intelligence</link>
       <description>人工智能技术推荐博客文章：本文介绍了thoughtbot如何使用人工智能技术重新实现并推出新的博客文章推荐功能。通过使用OpenAI的嵌入技术和pgvector扩展，该系统能够快速、高效地找到与文章相关的文章，并支持手动链接和覆盖。作者还分享了实现这一功能的详细步骤和经验。</description>
