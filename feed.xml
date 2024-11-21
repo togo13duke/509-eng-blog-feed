@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Recommending blog posts with artificial intelligence</title>
+      <link>https://thoughtbot.com/blog/recommending-blog-posts-with-artificial-intelligence</link>
+      <description>人工智能技术推荐博客文章：本文介绍了thoughtbot如何使用人工智能技术重新实现并推出新的博客文章推荐功能。通过使用OpenAI的嵌入技术和pgvector扩展，该系统能够快速、高效地找到与文章相关的文章，并支持手动链接和覆盖。作者还分享了实现这一功能的详细步骤和经验。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AI can now create a replica of your personality</title>
+      <link>https://www.technologyreview.com/2024/11/20/1107100/ai-can-now-create-a-replica-of-your-personality/</link>
+      <description>斯坦福大学和谷歌DeepMind的研究团队开发了一种AI技术，能够通过两小时的访谈准确捕捉个人的价值观和偏好，创建出能够体现个人价值观和偏好的虚拟副本。这项技术有望简化社会科学等领域的实验，但同时也引发了关于隐私和道德问题的担忧。</description>
+      <pubDate>2024-11-20 23:22:09</pubDate>
+    </item>
+  
+    <item>
+      <title>BW #93: Anti-politics</title>
+      <link>https://www.bambooweekly.com/bw-93-anti-politics/</link>
+      <description>本周，我们将探讨《经济学人》杂志关于“反政治”现象的研究。文章指出，这种情绪导致人们对政府和民主选举政府产生不信任。我们将分析部分数据，寻找西方民主国家日益增长的党派偏见。</description>
+      <pubDate>2024-11-20 22:54:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for your applications</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-your-applications/</link>
+      <description>Amazon CloudFront推出VPC原点功能，允许从私有子网中的应用程序中直接交付内容，增强安全性并简化操作。此功能通过直接将CloudFront分布指向私有子网中的资源，如ALB、NLB或EC2实例，消除了对公共IP地址的需求，提高了性能并节省了成本。</description>
+      <pubDate>2024-11-20 22:12:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Amazon CloudFront now accepts your applications’ gRPC calls</title>
+      <link>https://aws.amazon.com/blogs/aws/amazon-cloudfront-now-accepts-your-applications-grpc-calls/</link>
+      <description>Amazon CloudFront现在支持应用程序的gRPC调用，通过优化延迟和提供额外的安全服务，提高了微服务架构中的API性能和安全性。</description>
+      <pubDate>2024-11-20 22:03:14</pubDate>
+    </item>
+  
+    <item>
       <title>Bigger and badder: how DDoS attack sizes have evolved over the last decade</title>
       <link>https://blog.cloudflare.com/bigger-and-badder-how-ddos-attack-sizes-have-evolved-over-the-last-decade</link>
       <description>DDoS攻击在过去十年中呈指数增长，攻击规模越来越大，从Gbps到Tbps，攻击频率和强度显著增加。攻击者利用云虚拟机等更强大的设备，使得攻击更加隐蔽和高效。Cloudflare通过自动化检测、全球流量分布和多层防御等技术，提供强大的DDoS保护，确保网络服务的稳定性和可靠性。</description>
@@ -13,10 +48,38 @@
     </item>
   
     <item>
+      <title>Resilient Internet connectivity in Europe mitigates impact from multiple cable cuts</title>
+      <link>https://blog.cloudflare.com/resilient-internet-connectivity-baltic-cable-cuts</link>
+      <description>欧洲的互联网连接弹性减轻了多次电缆切割的影响。在波罗的海和芬兰与德国之间的电缆切割事件中，由于欧洲互联网基础设施的冗余和弹性，受影响的国家的互联网连接几乎没有受到影响。这表明，构建具有冗余和弹性的网络架构是减少互联网中断的最佳实践。</description>
+      <pubDate>2024-11-20 21:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Seamlessly Connect IoT Data Streams: Integrating Confluent Cloud with AWS IoT Core</title>
+      <link>https://www.confluent.io/blog/seamlessly-connect-iot-data-streams-integrating-confluent-cloud-with-aws-iot/</link>
+      <description>将AWS IoT Core与Confluent Cloud集成，可实现对物联网数据的实时上下文化，从而优化物流、个性化推荐和营销，提高运营效率和客户体验。通过配置AWS IoT Core和Confluent Cloud，可以将来自物联网设备的数据流与业务系统信息结合，实现更全面的数据洞察和决策支持。</description>
+      <pubDate>2024-11-20 20:25:43</pubDate>
+    </item>
+  
+    <item>
+      <title>My first PyBay: Playing improv with Python</title>
+      <link>http://blog.pamelafox.org/2024/11/my-first-pybay-playing-improv-with.html</link>
+      <description>参加首次PyBay会议，分享Python与即兴表演的融合经验，并欣赏了多场精彩演讲，包括数据工作流程升级、Python打包难题、f-string新特性等。期待明年再次参加。</description>
+      <pubDate>2024-11-20 20:25:00</pubDate>
+    </item>
+  
+    <item>
       <title>Webinar: Supercharge development with Bitbucket &amp; Atlassian Cloud</title>
       <link>https://www.atlassian.com/blog/bitbucket/webinar-supercharge-development-with-bitbucket-atlassian-cloud</link>
       <description>Atlassian将于2024年12月5日举办一场网络研讨会，探讨Bitbucket Cloud的新功能，包括与Jira、Jira Service Management和Compass的集成，以及DevSecOps工作流程的设置。研讨会将介绍Bitbucket Cloud的CI/CD能力，与本地CI/CD工具的优势，以及与Bitbucket Data Center的关键区别。此外，还将分享AI投资以提升生产力，并提供迁移资源。</description>
       <pubDate>2024-11-20 19:48:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Google stops letting sites like Forbes rule search for “Best CBD Gummies“</title>
+      <link>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</link>
+      <description>Google宣布将停止允许像Forbes这样的网站在搜索“最佳CBD果冻”等关键词时占据主导地位。此举针对的是利用网站域名历史来秘密销售产品的行为，这种做法被称为“寄生虫SEO”。Google表示，这种做法不公平、具有剥削性，并已对违反其新政策的网站采取了手动干预措施，影响了其搜索排名。</description>
+      <pubDate>2024-11-20 19:47:22</pubDate>
     </item>
   
     <item>
@@ -318,6 +381,13 @@
       <link>https://blog.cloudflare.com/do-it-again</link>
       <description>Cloudflare通过使用Durable Objects和WebSocket API，为AI Gateway添加了持久的WebSocket连接和身份验证功能，以支持更高效的通信和更安全的连接。开发者可以通过WebSocket API与AI Gateway进行交互，即使所选提供商不支持WebSocket，Cloudflare也会处理这些请求。此外，新的WebSocket API需要通过Cloudflare API令牌进行身份验证，确保只有经过验证的请求才能通过网关。</description>
       <pubDate>2024-11-19 22:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The CSS Reset Contradiction</title>
+      <link>https://www.sitepoint.com/css-reset-contradiction/?utm_source=rss</link>
+      <description>CSS重置技术在网页和前端开发中已使用约20年。文章探讨了CSS重置的三个前提：用户代理呈现网页的默认样式存在差异，这些差异会影响网站，并且这些差异很重要。然而，作者指出，并非所有网站都需要CSS重置，且过度依赖CSS重置可能导致开发上的便利性导致忽视其潜在问题。文章建议开发者应明确CSS重置的原理，进行实际测试，并挑战现有的实践，以优化前端开发。</description>
+      <pubDate>2024-11-19 21:26:04</pubDate>
     </item>
   
     <item>
@@ -906,6 +976,13 @@
       <title>Discord Update: November 18, 2024 Changelog</title>
       <link>https://discord.com/blog/discord-update-november-18-2024-changelog</link>
       <description>Discord于2024年11月18日更新，新增了Arcane主题商店收藏、消息转发功能、游戏历史查看、新活动“Quiz Planet”、优化多任务处理性能、直接在Discord播放TikTok视频、智能推荐表情符号等功能。</description>
+      <pubDate>2024-11-18 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Native dual-range input</title>
+      <link>https://muffinman.io/blog/native-dual-range-input/</link>
+      <description>我发布了名为 @stanko/dual-range-input 的原生双范围输入库，它使用两个原生的 HTML 范围输入，保留了所有原生交互和可访问性功能。这个库通过简单的 JavaScript 和 CSS 实现了同步和样式，旨在提供一种无需重写轮子的解决方案。</description>
       <pubDate>2024-11-18 00:00:00</pubDate>
     </item>
   
