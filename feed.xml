@@ -6,10 +6,136 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Streamline release notes creation with Confluence and Jira</title>
+      <link>https://www.atlassian.com/blog/confluence/streamline-release-notes-creation-with-confluence-and-jira</link>
+      <description>使用Confluence和Jira简化发布说明的创建和管理，使团队能够以最少的努力保持客户和同事的知情。通过集成Jira和Confluence，自动化发布说明的创建，提供全面的发布概览，并实现一键访问文档，提高工作效率和准确性。</description>
+      <pubDate>2024-11-21 18:50:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Links and short notes, 2024-11-21</title>
+      <link>https://blog.rootsofprogress.org/links-and-short-notes-2024-11-21</link>
+      <description>2024年11月21日，Jason Crawford在其博客上发布了“进步的根源”链接和简短笔记。内容涵盖工业素养、成本减法合同、生物中心主义、独裁者的困境等主题，并介绍了即将举行的活动和项目，如Foresight Vision Weekend、Astera的居民项目、Nautilus的“无附加条件”项目等。</description>
+      <pubDate>2024-11-21 18:45:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Pumas, Routers &amp; Keepalives—Oh my!</title>
+      <link>https://blog.heroku.com/pumas-routers-keepalives-ohmy</link>
+      <description>Heroku发布Router 2.0，引入HTTP/2、性能改进和可靠性增强。在beta测试期间，工程师团队解决了多个问题，包括Puma应用程序的响应时间增加。研究发现，问题源于Puma的bug，而非Router 2.0。文章深入探讨了这一问题的调查过程，并提供了解决方案和避免bug的建议。</description>
+      <pubDate>2024-11-21 18:13:05</pubDate>
+    </item>
+  
+    <item>
+      <title>Tips &amp; Tricks for Migrating to Router 2.0</title>
+      <link>https://blog.heroku.com/tips-tricks-router-2dot0-migration</link>
+      <description>Heroku Router 2.0现已推出，带来性能提升和新功能。为顺利过渡，建议在测试环境中探索新特性，并使用Heroku CLI启用。了解HTTP/2和改进的连接处理，根据需要调整设置。迁移前测试，确保应用满足Router 2.0的路线需求。</description>
+      <pubDate>2024-11-21 18:13:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How OpenAI stress-tests its large language models</title>
+      <link>https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/</link>
+      <description>OpenAI通过“红队”测试来确保其大型语言模型的安全性。这种方法结合了人类测试者和自动化测试，旨在识别潜在的有害或不希望出现的行为。OpenAI使用多种专家进行测试，以发现模型可能产生的各种问题，并采取措施防止模型产生有害内容。</description>
+      <pubDate>2024-11-21 18:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Gaze Link Wins Best Android App in Gemini API Developer Competition</title>
+      <link>http://android-developers.googleblog.com/2024/11/gaze-link-wins-best-android-app-gemini-api-developer-competition.html</link>
+      <description>Gaze Link荣获最佳Android应用奖，该应用利用Gemini API帮助患有肌萎缩侧索硬化症（ALS）的用户通过眼神打字。应用通过预测关键词和对话上下文，生成完整的句子，支持英语、西班牙语和中文。Gemini API的多语言能力和多模态功能为用户提供了强大的沟通系统，并有望在未来支持更多语言和增强用户体验。</description>
+      <pubDate>2024-11-21 17:30:00</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Bare Metal GPUs: Dedicated GPU machines for advanced AI workloads</title>
+      <link>https://www.digitalocean.com/blog/digitalocean-bare-metal-gpus</link>
+      <description>DigitalOcean推出专为高级AI工作负载设计的裸金属GPU服务器，配备8个NVIDIA Hopper GPU，提供高性能计算能力和定制选项。这些服务器适用于大规模模型训练、实时推理和复杂编排，提供隐私、性能和控制，适用于需要直接硬件访问和定制的工作负载。</description>
+      <pubDate>2024-11-21 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>X improved login success rate by 2x after adopting passkeys</title>
+      <link>http://android-developers.googleblog.com/2024/11/x-improved-login-success-rate-after-adopting-passkeys.html</link>
+      <description>X应用通过采用passkeys技术，将登录成功率提高了2倍。这项技术消除了密码的必要性，提供了更安全、更便捷的登录体验，同时降低了成本并提升了用户体验。通过使用Android的Credential Manager API，X开发者简化了passkeys的集成过程，减少了代码量和潜在错误，提高了开发效率。</description>
+      <pubDate>2024-11-21 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Students: Start building your skills with the GitHub Foundations certification</title>
+      <link>https://github.blog/news-insights/company-news/students-start-building-your-skills-with-the-github-foundations-certification/</link>
+      <description>GitHub为所有通过GitHub Education验证的学生免费提供GitHub Foundations认证考试。该认证旨在教授学生使用GitHub平台的基本概念和产品，包括git使用、仓库管理、分支合并和项目管理等。学生可以通过验证、准备、考试和获得证书的四个步骤来参与。通过认证后，学生将获得数字徽章，并有机会加入GitHub教育社区，提升技能并参与相关活动。</description>
+      <pubDate>2024-11-21 16:23:56</pubDate>
+    </item>
+  
+    <item>
+      <title>Social Media Style Guide: Your 2024 Roadmap for Consistent Brand Communication</title>
+      <link>https://www.brandwatch.com/blog/social-media-style-guide/</link>
+      <description>品牌社交媒体风格指南对于保持品牌形象的一致性和成功至关重要。本文详细介绍了社交媒体风格指南的重要性，包括声音和语调指南、视觉身份和品牌、语法、标点符号和拼写规则，以及针对不同平台的特定指南。此外，还强调了创建包容性和可访问内容的重要性，以扩大受众范围并提高社交媒体活动的效果。</description>
+      <pubDate>2024-11-21 16:05:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Using the Models API to Create SVG Images Dynamically and Submit Feedback</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/using-the-models-api-to-create-svg-images-dynamically-and-submit-feedback.html</link>
+      <description>本文探讨了如何使用Salesforce的Models API动态创建SVG图像并提交反馈。通过Coral Cloud Resorts的示例应用，展示了如何利用API生成SVG图像并允许用户对生成结果进行反馈。该API支持多种用例，包括文本生成、反馈提交和嵌入生成，目前处于beta测试阶段。</description>
+      <pubDate>2024-11-21 16:00:42</pubDate>
+    </item>
+  
+    <item>
+      <title>We'll Be In Touch - A New Podcast From Stack Overflow!</title>
+      <link>https://stackoverflow.blog/2024/11/21/well-be-in-touch-stack-overflow-podcast-developer-career-software-interviews/</link>
+      <description>Stack Overflow推出了一档新播客《We'll Be In Touch》，探讨求职面试、职业发展和软件工程。主持人Kyle Mitofsky与软件开发者对话，分享他们的故事和项目经验，帮助听众塑造职业生涯。首期节目邀请了前同事、Stack Overflow社区成员和工程师Yaakov Ellis。</description>
+      <pubDate>2024-11-21 16:00:14</pubDate>
+    </item>
+  
+    <item>
+      <title>YouTube Hashtags: Smart Ways to Boost Your Video Visibility in 2024</title>
+      <link>https://www.brandwatch.com/blog/youtube-hashtags/</link>
+      <description>品牌watch与谷歌云合作，利用人工智能技术提升其洞察力。本文探讨了YouTube标签在提升视频可见性方面的作用，包括标签的使用策略、SEO影响、最佳实践和常见错误。建议使用相关标签，避免过度使用和无关标签，并注意遵守YouTube的标签政策。</description>
+      <pubDate>2024-11-21 16:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing a visual update to the AWS Management Console (preview)</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-a-visual-update-to-the-aws-management-console-preview/</link>
+      <description>AWS管理控制台推出视觉更新，采用最新版Cloudscape设计系统，提升可读性和交互性，优化布局和色彩，增强用户体验，提高任务效率。</description>
+      <pubDate>2024-11-21 14:53:11</pubDate>
+    </item>
+  
+    <item>
+      <title>What Are the Latest Docker Desktop Enterprise-Grade Performance Optimizations?</title>
+      <link>https://www.docker.com/blog/what-are-the-latest-docker-desktop-enterprise-grade-performance-optimizations/</link>
+      <description>Docker Desktop最新版本推出多项性能优化，包括在Apple Silicon Mac上使用Docker VMM提升性能，支持Windows on Arm以加快特定工作负载，同步文件共享功能提高文件操作效率，以及Red Hat Enterprise Linux (RHEL)版本提供更优性能。这些改进旨在为开发者提供更快、更可靠的开发体验。</description>
+      <pubDate>2024-11-21 14:34:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Extracting Account-Level CDN Metrics from Akamai Logs with Last9</title>
+      <link>https://last9.io/blog/extracting-account-level-cdn-metrics-from-akamai-logs-with-last9/</link>
+      <description>通过使用Last9从Akamai日志中提取和分析了账户级别的CDN指标，我们能够实时洞察客户带宽使用情况，优化成本，并提升客户体验。通过日志解析、数据聚合、设置警报和跨栈关联，我们构建了一个强大的系统，实现了对CDN使用的细粒度可见性。</description>
+      <pubDate>2024-11-21 14:07:12</pubDate>
+    </item>
+  
+    <item>
+      <title>Kubernetes on-premises: the why, what and how to implement</title>
+      <link>https://severalnines.com/blog/kubernetes-on-premises-why-what-how/</link>
+      <description>Kubernetes on-premises enables organizations to deploy and manage systems on their own infrastructure, offering benefits like environment standardization, compliance, and cost predictability. This article discusses the reasons for choosing on-premises Kubernetes, including avoiding vendor lock-in and leveraging legacy systems, and provides a guide to setting up a Kubernetes cluster using Talos Linux and Vagrant.</description>
+      <pubDate>2024-11-21 14:03:54</pubDate>
+    </item>
+  
+    <item>
       <title>Elevating Productivity: Cloudera Data Engineering Brings External IDE Connectivity to Apache Spark</title>
       <link>https://blog.cloudera.com/elevating-productivity-cloudera-data-engineering-brings-external-ide-connectivity-to-apache-spark/</link>
       <description>Cloudera Data Engineering最新版本通过提供外部IDE连接性，将Apache Spark的远程访问引入开发环境，如Jupyter、PyCharm和VS Code，从而显著提高开发效率。此外，它还支持Apache Iceberg和Apache Spark，优化成本管理，并简化工作流程，促进协作。Cloudera Data Engineering通过提供安全的数据管道和可扩展的数据管理，助力企业构建开放的数据湖屋，实现跨混合云环境的便携式分析。</description>
       <pubDate>2024-11-21 14:00:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Brandwatch Recognized as a Strong Performer in the Forrester Wave for Social Suites</title>
+      <link>https://www.brandwatch.com/blog/brandwatch-strong-performer-forrester-wave-social-suites/</link>
+      <description>Brandwatch与谷歌云合作，利用先进的人工智能技术提升其AI驱动的洞察力。Brandwatch被Forrester Wave评为社交套件领域的强表现者，提供全面的社会和传统媒体覆盖，先进的AI工具和工具集，以快速、自信和一致地采取行动。</description>
+      <pubDate>2024-11-21 13:34:21</pubDate>
     </item>
   
     <item>
@@ -24,6 +150,13 @@
       <link>https://spin.atomicobject.com/tailored-development-projects/</link>
       <description>软件公司应针对不同客户量身定制项目，以适应其独特的需求。文章指出，一刀切的方法无法满足客户多样化的预算、期望和技术水平。文章建议采用灵活的敏捷和以人为本的设计实践，根据客户的具体情况调整流程，并强调持续改进和适应变化的重要性。</description>
       <pubDate>2024-11-21 13:00:47</pubDate>
+    </item>
+  
+    <item>
+      <title>5 charged in “Scattered Spider,” one of the most profitable phishing scams ever</title>
+      <link>https://arstechnica.com/information-technology/2024/11/prosecutors-charge-5-in-phishing-scams-that-stole-millions-of-dollars/</link>
+      <description>五名男子因涉嫌“散布蜘蛛”网络钓鱼诈骗案被起诉，这是有史以来最赚钱的诈骗之一。该诈骗团伙通过精心策划的网络钓鱼攻击，骗取了数百家公司的重要信息，窃取了数百万美元的加密货币。</description>
+      <pubDate>2024-11-21 13:00:21</pubDate>
     </item>
   
     <item>
@@ -55,10 +188,31 @@
     </item>
   
     <item>
+      <title>Forrester Social Suites Wave: Brandwatch Gets Highest Possible Score for Privacy and Security</title>
+      <link>https://www.brandwatch.com/blog/forrester-privacy-security/</link>
+      <description>Brandwatch与谷歌云合作，利用其AI技术提升洞察力。Brandwatch在Forrester社交套件波次评估中获得最高分，尤其在隐私和安全方面表现出色。公司致力于保护客户数据，采用隐私和安全设计原则，并通过ISO 27001认证确保数据安全。</description>
+      <pubDate>2024-11-21 11:35:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Forrester Social Suites Wave: Brandwatch Gets Highest Possible Score for Customer Service</title>
+      <link>https://www.brandwatch.com/blog/forrester-customer-service/</link>
+      <description>Brandwatch与谷歌云合作，推出AI驱动的洞察功能。根据Forrester报告，Brandwatch在客户服务、隐私安全等方面获得最高评分，以其卓越的客户服务、快速响应和专业知识支持客户。Brandwatch提供全面的数据和网络覆盖、先进的AI技术和专业服务，帮助企业做出更明智的决策。</description>
+      <pubDate>2024-11-21 11:26:59</pubDate>
+    </item>
+  
+    <item>
       <title>From Product to Cart: Adding Guiding Animations to the Shopping Experience</title>
       <link>https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/</link>
       <description>本文深入探讨了如何通过添加引导动画来提升购物体验，特别是从产品展示到购物车的过渡动画。作者Andrea Biason分享了他如何通过结合画廊和鼠标轨迹动画，为“添加到购物车”按钮创建独特的交互效果，从而吸引用户注意力并引导他们完成购买流程。文章详细介绍了HTML结构、CSS网格布局以及如何使用GSAP库来创建动画，包括动画的逐步构建和优化过程。</description>
       <pubDate>2024-11-21 11:19:30</pubDate>
+    </item>
+  
+    <item>
+      <title>Forrester Social Suites Wave: Brandwatch Gets Highest Possible Score for Social Listening</title>
+      <link>https://www.brandwatch.com/blog/forrester-social-listening/</link>
+      <description>Brandwatch与谷歌云合作，利用其AI技术提升洞察力。Brandwatch在Forrester社交套件波次评估中获得最高分，因其强大的社交监听、客户服务、隐私和安全支持服务。通过整合消费者研究和社交媒体管理，Brandwatch提供独特的AI智能和工具，帮助企业快速、自信地采取行动。</description>
+      <pubDate>2024-11-21 11:07:54</pubDate>
     </item>
   
     <item>
@@ -87,6 +241,13 @@
       <link>https://blog.octo.com/la-conference-usi-revient-en-2025-!</link>
       <description>2025年USI会议将聚焦“数字的无尽可能”，探讨计算在各个领域的统治地位，同时思考无法计算的事物在未知、偶然、神秘、精神以及情感等方面的意义。会议将于2025年6月2日举行，提供现场和在线参与方式。</description>
       <pubDate>2024-11-21 09:56:10</pubDate>
+    </item>
+  
+    <item>
+      <title>How to present and share your Notebook insights in AI/BI Dashboards</title>
+      <link>https://www.databricks.com/blog/present-and-share-notebook-results-in-aibi-dashboards</link>
+      <description>Databricks推出了一项新功能，将Notebooks与AI/BI仪表板无缝集成，使数据分析师能够将笔记本中的洞察力轻松转换为可分享的仪表板。这一集成允许用户将SQL笔记本单元格（包括查询、参数和可视化）集成到AI/BI仪表板中，提供灵活的数据分析能力，同时简化了洞察力的展示和分享过程。</description>
+      <pubDate>2024-11-21 09:55:20</pubDate>
     </item>
   
     <item>
@@ -125,9 +286,46 @@
     </item>
   
     <item>
+      <title>Creating an OpenSearch Cluster with Dangling Indexes</title>
+      <link>https://code.dblock.org/2024/11/21/creating-an-opensearch-cluster-with-dangling-indexes.html</link>
+      <description>本文介绍了如何使用Docker和OpenSearch创建一个具有悬空索引的集群。通过一系列步骤，包括创建单节点集群、导入数据、断开节点、启动双节点集群以及处理悬空索引，展示了如何在OpenSearch中实现这一过程。</description>
+      <pubDate>2024-11-21 01:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Recommending blog posts with artificial intelligence</title>
       <link>https://thoughtbot.com/blog/recommending-blog-posts-with-artificial-intelligence</link>
       <description>人工智能技术推荐博客文章：本文介绍了thoughtbot如何使用人工智能技术重新实现并推出新的博客文章推荐功能。通过使用OpenAI的嵌入技术和pgvector扩展，该系统能够快速、高效地找到与文章相关的文章，并支持手动链接和覆盖。作者还分享了实现这一功能的详细步骤和经验。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Agentic RAG on Dell AI Factory with NVIDIA and Elasticsearch Vector Database</title>
+      <link>https://www.elastic.co/blog/agentic-rag-dell-ai-factory-nvidia-elasticsearch-vector-database</link>
+      <description>Dell与Elastic合作，推出基于NVIDIA和Elasticsearch向量数据库的Agentic RAG框架，旨在简化AI应用开发。该框架适用于各行业，特别是医疗领域，通过AI驱动数据检索，实现高效决策。Elasticsearch向量数据库提供快速索引和检索，LangChain的LangGraph和NVIDIA Inference Microservices等工具也得到整合，以加速RAG应用的开发和部署。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Leveling up your observability practice — Part 2</title>
+      <link>https://www.elastic.co/blog/observability-maturity-lessons-leadership-part2</link>
+      <description>提升可观测性实践：常见挑战、实用步骤和领导力的重要性
+
+本文探讨了提升可观测性实践的关键要素，包括常见挑战、实用步骤和领导力作用。文章指出，组织在可观测性成熟度方面面临不同阶段的挑战，从早期阶段的团队协作到成熟阶段的工具规模和性能问题。文章提供了具体步骤，如拥抱事后分析、实施服务级别目标（SLO）、投资技能发展、采用人工智能和机器学习（AI/ML）以及标准化OpenTelemetry，以提升可观测性成熟度。领导力在推动组织可观测性成功中扮演着关键角色，需要量化影响、用商业语言表达、倡导资源投入。可观测性是一个持续的过程，通过不断学习和适应，组织可以提供更可靠、高效的服务。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Finding modules in a big ball of mud</title>
+      <link>https://swizec.com/blog/finding-modules-in-a-big-ball-of-mud/</link>
+      <description>在复杂的软件代码中，识别和提取模块是提高代码可维护性和可扩展性的关键。本文探讨了如何从所谓的“大泥球”代码中找出模块，强调了理解业务领域和依赖关系图的重要性。作者通过实际案例说明了错误架构的后果，并介绍了如何使用依赖矩阵和事件风暴等工具来梳理代码结构，实现领域驱动设计。通过这种方式，可以构建出更清晰、更易于维护的软件架构。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A multi-emulator Gameboy tracer</title>
+      <link>https://bernsteinbear.com/blog/gbtracer/?utm_source=rss</link>
+      <description>Max Bernstein开发了一个名为gbtracer的侧边程序，用于调试Gameboy模拟器。该程序通过调用特定函数记录模拟器的状态，并将这些信息写入临时文件，以便于比较和调试。这种方法简化了调试过程，并允许在不修改模拟器代码的情况下进行格式转换。</description>
       <pubDate>2024-11-21 00:00:00</pubDate>
     </item>
   
@@ -136,6 +334,13 @@
       <link>https://www.technologyreview.com/2024/11/20/1107100/ai-can-now-create-a-replica-of-your-personality/</link>
       <description>斯坦福大学和谷歌DeepMind的研究团队开发了一种AI技术，能够通过两小时的访谈准确捕捉个人的价值观和偏好，创建出能够体现个人价值观和偏好的虚拟副本。这项技术有望简化社会科学等领域的实验，但同时也引发了关于隐私和道德问题的担忧。</description>
       <pubDate>2024-11-20 23:22:09</pubDate>
+    </item>
+  
+    <item>
+      <title>HashiTalks 2025: 24-hours of virtual knowledge sharing</title>
+      <link>https://www.hashicorp.com/blog/hashitalks-2025-24-hours-of-virtual-knowledge-sharing</link>
+      <description>HashiTalks 2025将于2025年2月20日举行，为期24小时，是全球虚拟知识分享活动。活动由HashiCorp社区团队主办，旨在让社区专家分享如何使用HashiCorp工具进行基础设施编码、数据安全和应用部署。活动包括技术演讲、文化讨论和演示，面向所有HashiCorp工具用户。报名截止至2024年12月1日。</description>
+      <pubDate>2024-11-20 23:00:00</pubDate>
     </item>
   
     <item>
@@ -577,6 +782,13 @@
       <link>https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/</link>
       <description>GitHub宣布启动GitHub Secure Open Source Fund，旨在通过资金和程序支持提高开源项目的安全性和可持续性。该基金将投资125个项目，并提供安全教育、指导、工具和认证等支持，以帮助开源项目维护者专注于安全工作。</description>
       <pubDate>2024-11-19 17:00:35</pubDate>
+    </item>
+  
+    <item>
+      <title>Schedule TikTok Posts: Your Ultimate Guide for 2024</title>
+      <link>https://www.brandwatch.com/blog/schedule-tiktok-posts/</link>
+      <description>品牌观察发布了一篇关于如何高效安排TikTok帖子的指南。文章强调了定期发布内容的重要性，并介绍了如何使用TikTok内置的调度器以及第三方工具来安排帖子。此外，还提供了最佳实践和常见错误，以帮助用户优化他们的社交媒体策略。</description>
+      <pubDate>2024-11-19 16:25:37</pubDate>
     </item>
   
     <item>
