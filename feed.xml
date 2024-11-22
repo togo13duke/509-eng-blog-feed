@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>The app that fights for your data privacy rights</title>
+      <link>https://stackoverflow.blog/2024/11/22/the-app-that-helps-you-exercise-your-privacy-rights/</link>
+      <description>这款名为“Permission Slip”的应用由Consumer Reports的高级产品经理Sukhi Gulati Gilbert开发，旨在帮助用户行使他们的数字数据隐私权。该应用由一个致力于保护消费者权益的非营利组织Consumer Reports支持，讨论了数字隐私的重要性、消费者在保护数据时面临的挑战以及隐私保护方面的立法空白。</description>
+      <pubDate>2024-11-22 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>What's New in the Auth0 Terraform Provider?</title>
+      <link>https://auth0.com/blog/whats-new-in-the-auth0-terraform-provider/</link>
+      <description>Auth0 Terraform Provider的最新版本（1.4至1.7）引入了许多新功能和更新。其中包括Auth0 Forms，用于创建自定义表单；M2M访问，允许组织定义应用程序可以访问的API；BYOK，允许用户替换租户的顶级加密密钥；自定义注册和登录提示；自助单点登录；以及SCIM配置，用于跨域身份管理。这些更新旨在提高身份基础设施的自动化和管理效率。</description>
+      <pubDate>2024-11-22 07:46:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Morgan npm and Its Role in Node.js</title>
+      <link>https://last9.io/blog/morgan-npm-and-its-role-in-node-js/</link>
+      <description>Morgan npm 是一个用于简化 Node.js 应用程序 HTTP 请求日志记录的中间件，特别适用于 Express.js 应用。它通过捕获每个请求的详细信息，如请求方法、状态码和响应时间，帮助开发者跟踪应用程序性能、调试问题和监控流量。Morgan 提供了自定义的日志格式，易于集成和配置，是 Node.js 和 Express.js 开发中不可或缺的日志管理工具。</description>
+      <pubDate>2024-11-22 07:38:55</pubDate>
+    </item>
+  
+    <item>
+      <title>How&nbsp;RamaLama makes working with AI models boring</title>
+      <link>https://developers.redhat.com/articles/2024/11/22/how-ramalama-makes-working-ai-models-boring</link>
+      <description>RamaLama是一个新的AI项目，旨在简化AI模型的本地管理和托管。它允许开发者轻松运行和托管AI模型，支持多种AI运行时和模型注册库。RamaLama利用容器技术，如Podman和Docker，以及Kubernetes，提供了一种简单、高效的方式来部署AI模型，无需复杂的系统配置。</description>
+      <pubDate>2024-11-22 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How we reduced initialisation time of Product Configuration Management SDK</title>
+      <link>https://engineering.grab.com/how-we-reduced-grabx-sdk-initialisation-time</link>
+      <description>我们通过优化GrabX产品配置管理SDK的初始化流程，显著减少了初始化时间。通过并行数据加载、优化数据存储和消除不必要的磁盘持久化，我们成功将初始化时间缩短了90%。</description>
+      <pubDate>2024-11-22 00:00:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Global Impact Week Wrap-Up: Celebrating Our Collective Impact</title>
+      <link>https://www.twilio.com/en-us/blog/global-impact-week-2024</link>
+      <description>Twilio在2024年全球影响力周期间，员工们积极参与社区服务，共投入了2581小时，在28个城市和虚拟环境中做出了积极贡献。公司法律团队和策略与运营团队表现突出，分别有51%和100%的团队成员参与志愿服务，并各自获得了5000美元的非营利组织捐赠。这次活动不仅展示了Twilio对回馈社会的承诺，也体现了员工们致力于让世界变得更美好的热情。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Creating static data for your Rails application</title>
+      <link>https://thoughtbot.com/blog/creating-static-data-for-your-rails-application</link>
+      <description>本文介绍了如何为Rails应用程序创建静态数据。通过使用静态关联gem，可以在模型中直接定义静态数据，从而提高查询速度并避免数据库查找。文章详细说明了如何安装和使用该gem，并比较了静态关联与Rails内置的枚举在处理有限值集时的差异。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>BW #93: Anti-politics (solution)</title>
       <link>https://www.bambooweekly.com/bw-93-anti-politics-solution/</link>
       <description>本周，作者分析了《经济学人》杂志关于“反政治”现象的文章和数据。文章指出，这种情绪导致人们对政府和民主选举政府失去信任。作者使用Python和Pandas工具对数据进行了处理和分析，探讨了如何从数据中学习并应用有用的分析技术。</description>
@@ -725,6 +774,13 @@
       <title>Unveiling the Stars of Twilio’s AI Startup Searchlight 2.0</title>
       <link>https://www.twilio.com/en-us/blog/startup-searchlight-2-0-winners-2024</link>
       <description>Twilio在SIGNAL London 2024上宣布了AI初创企业Searchlight 2.0的获奖者。这些初创企业通过AI和机器学习技术，利用Twilio的通信工具，在改善全球行为健康支持、预测预防妊娠并发症以及提供个性化客户服务等方面取得了显著成就。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Marketing where it matters: Reaching customers on their preferred channels</title>
+      <link>https://www.twilio.com/en-us/blog/marketing-where-it-matters-reaching-customers-preferred-channels</link>
+      <description>Twilio的《营销就在关键之处：在客户偏好的渠道上接触客户》一文中指出，成功的营销策略取决于通过正确的渠道传达正确的信息。消费者对与品牌互动的渠道有强烈偏好，从电子邮件和短信到社交媒体和应用程序，这些偏好因个人、地理位置和文化而异。文章强调了使用消费者偏好的渠道进行个性化营销信息的重要性，并建议结合电子邮件、短信、推送通知和WhatsApp等渠道以扩大受众。此外，个性化可以增强使用客户偏好渠道的效果，通过定制内容和交付方式，创造更吸引人、更相关的体验，从而加强客户联系并推动品牌取得有意义的结果。</description>
       <pubDate>2024-11-20 00:00:00</pubDate>
     </item>
   
