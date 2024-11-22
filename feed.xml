@@ -6,6 +6,41 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>BW #93: Anti-politics (solution)</title>
+      <link>https://www.bambooweekly.com/bw-93-anti-politics-solution/</link>
+      <description>本周，作者分析了《经济学人》杂志关于“反政治”现象的文章和数据。文章指出，这种情绪导致人们对政府和民主选举政府失去信任。作者使用Python和Pandas工具对数据进行了处理和分析，探讨了如何从数据中学习并应用有用的分析技术。</description>
+      <pubDate>2024-11-21 23:37:28</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing new capabilities to AWS CloudTrail Lake to enhance your cloud visibility and investigations</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-new-capabilities-to-aws-cloudtrail-lake-to-enhance-your-cloud-visibility-and-investigations/</link>
+      <description>AWS CloudTrail Lake新增功能，包括增强的过滤选项、跨账户共享事件数据存储、基于生成式AI的自然语言查询生成、AI驱动的查询结果摘要以及综合仪表板功能，旨在提高云可见性和调查能力，简化审计、安全和运营问题处理。</description>
+      <pubDate>2024-11-21 21:28:11</pubDate>
+    </item>
+  
+    <item>
+      <title>Connect with Confluent Q4 Update: New Program Entrants and SAP Datasphere Hydration</title>
+      <link>https://www.confluent.io/blog/cwc-Q4-24-entrants-and-SAP-datasphere-hydration/</link>
+      <description>Confluent的Connect with Confluent（CwC）合作伙伴计划扩展了其数据流平台，引入了新的合作伙伴和集成，以简化数据流管理并促进实时数据的使用。该计划包括超过50个完全管理的集成，支持实时数据流，并提供了与SAP Datasphere的实时数据集成，以增强ERP数据的价值。此外，Confluent还与Elastic合作，为向量数据库提供实时数据流，以支持生成式AI应用。</description>
+      <pubDate>2024-11-21 20:55:48</pubDate>
+    </item>
+  
+    <item>
+      <title>Track performance of serverless applications built using AWS Lambda with Application Signals</title>
+      <link>https://aws.amazon.com/blogs/aws/track-performance-of-serverless-applications-built-using-aws-lambda-with-application-signals/</link>
+      <description>AWS Lambda应用性能监控工具Application Signals现已支持Lambda函数，可自动收集关键性能指标，简化性能问题诊断。通过可视化应用拓扑和定义服务级别目标，用户可快速定位问题并优化应用性能。该工具适用于Python和Node.js运行时，并计划支持更多运行时。</description>
+      <pubDate>2024-11-21 20:50:46</pubDate>
+    </item>
+  
+    <item>
+      <title>HCP Vault Dedicated adds secrets sync, cross-region DR, EST PKI, and more</title>
+      <link>https://www.hashicorp.com/blog/hcp-vault-dedicated-adds-secrets-sync-wif-cross-region-dr-est-pki-and-more</link>
+      <description>HCP Vault Dedicated 1.18升级引入了多项新功能，包括跨区域灾难恢复、秘密同步、PKI EST协议支持等，旨在提高安全性、效率和可靠性。这些更新允许用户在多个云服务提供商之间扩展访问权限，并简化秘密管理流程。</description>
+      <pubDate>2024-11-21 20:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Streamline release notes creation with Confluence and Jira</title>
       <link>https://www.atlassian.com/blog/confluence/streamline-release-notes-creation-with-confluence-and-jira</link>
       <description>使用Confluence和Jira简化发布说明的创建和管理，使团队能够以最少的努力保持客户和同事的知情。通过集成Jira和Confluence，自动化发布说明的创建，提供全面的发布概览，并实现一键访问文档，提高工作效率和准确性。</description>
@@ -38,6 +73,13 @@
       <link>https://www.technologyreview.com/2024/11/21/1107158/how-openai-stress-tests-its-large-language-models/</link>
       <description>OpenAI通过“红队”测试来确保其大型语言模型的安全性。这种方法结合了人类测试者和自动化测试，旨在识别潜在的有害或不希望出现的行为。OpenAI使用多种专家进行测试，以发现模型可能产生的各种问题，并采取措施防止模型产生有害内容。</description>
       <pubDate>2024-11-21 18:00:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Introducing an exclusively Databricks-hosted Assistant</title>
+      <link>https://www.databricks.com/blog/introducing-exclusively-databricks-hosted-assistant</link>
+      <description>Databricks宣布其AI助手Databricks Assistant现在以公共预览版形式提供，完全托管在Databricks平台内。此版本利用Databricks托管模型，确保数据安全，并支持自动生成和修复代码、错误排查以及创建可视化仪表板等功能。助手采用Meta Llama 3模型，并承诺持续评估新兴模型以提供最佳性能。</description>
+      <pubDate>2024-11-21 17:54:57</pubDate>
     </item>
   
     <item>
