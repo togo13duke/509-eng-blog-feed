@@ -6,6 +6,55 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Amazon pours another $4B into Anthropic, OpenAI’s biggest rival</title>
+      <link>https://arstechnica.com/ai/2024/11/amazon-pours-another-4b-into-anthropic-openais-biggest-rival/</link>
+      <description>亚马逊再次向Anthropic投资40亿美元，该公司是OpenAI的主要竞争对手，并开发了与ChatGPT竞争的AI助手Claude。这笔投资使亚马逊在Anthropic的股份达到80亿美元，同时维持了其少数股东地位。Anthropic将利用亚马逊定制的Trainium芯片进行AI模型训练，并使用Inferentia芯片进行推理。此外，亚马逊与Anthropic的合作还涉及开发基于Claude的新版Alexa AI助手。</description>
+      <pubDate>2024-11-22 19:32:15</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS named as a leader again in the Gartner Magic Quadrant for Distributed Hybrid Infrastructure</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-again-in-the-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/</link>
+      <description>AWS再次被Gartner评为分布式混合基础设施领域的领导者，其产品包括AWS Outposts、AWS Snowball和AWS Local Zones。Gartner在其关键能力评估中，将AWS评为四个用例中的第一名，包括混合基础设施管理、边缘计算、确保的工作负载和人工智能与机器学习（AI/ML），并在容器管理用例中排名前两名。AWS的领导地位反映了其在云边缘的创新，以及提供一致云体验的能力。</description>
+      <pubDate>2024-11-22 18:51:23</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing TypeScript 5.7</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/</link>
+      <description>TypeScript 5.7新增了多项功能，包括对未初始化变量的检查、相对路径重写、支持ECMAScript 2024运行时、搜索祖先配置文件以确定项目所有权以及更快的复合项目所有权检查。这些改进旨在提高代码的可读性、减少错误并提升开发效率。</description>
+      <pubDate>2024-11-22 18:15:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Improve your app authentication workflow with new Amazon Cognito features</title>
+      <link>https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/</link>
+      <description>Amazon Cognito发布新功能，提升应用认证流程。新增开发者专属控制台、支持无密码登录、提供多种定价选项，包括Lite、Essentials和Plus。这些更新旨在提供更多灵活性、改进安全性和更好的用户体验。</description>
+      <pubDate>2024-11-22 17:48:33</pubDate>
+    </item>
+  
+    <item>
+      <title>Docker Desktop 4.36: New Enterprise Administration Features, WSL 2, and ECI Enhancements</title>
+      <link>https://www.docker.com/blog/docker-desktop-4-36/</link>
+      <description>Docker Desktop 4.36版本推出多项新功能，旨在简化企业管理和提高安全性。新功能包括通过配置文件加强macOS登录管理、批量部署Docker Desktop、桌面设置管理以及WSL 2的优化。此外，还提升了容器隔离性和对衍生镜像权限的支持，以增强性能和简化管理。这些更新旨在帮助企业在复杂开发环境中保持敏捷、安全和高效。</description>
+      <pubDate>2024-11-22 16:38:18</pubDate>
+    </item>
+  
+    <item>
+      <title>Brandwatch Named a Leader in IDC MarketScape for Social Marketing Software for Large Enterprises</title>
+      <link>https://www.brandwatch.com/blog/brandwatch-named-leader-idc-marketscape-social-marketing-software-large-enterprises/</link>
+      <description>Brandwatch宣布与谷歌云合作，利用其AI技术提升洞察力。公司被IDC MarketScape评为大型企业社交媒体营销软件领导者，提供全面、可定制的工具，帮助品牌与受众建立联系。Brandwatch计划扩展其平台，包括增加媒体来源、整合新社交网络、开发AI工具，并简化工作流程。</description>
+      <pubDate>2024-11-22 16:22:24</pubDate>
+    </item>
+  
+    <item>
+      <title>GoMLX: ML in Go without Python</title>
+      <link>https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python/</link>
+      <description>GoMLX是一个新的Go语言机器学习包，它允许在Go中实现机器学习模型，无需使用Python。该包利用XLA和PJRT进行高效的模型编译和执行，支持自动微分和多种高级操作。文章通过示例展示了如何使用GoMLX构建和训练模型，包括对CIFAR-10数据集的图像模型和Gemma2推理。尽管GoMLX仍处于早期阶段，但它展示了在Go中实现机器学习的潜力。</description>
+      <pubDate>2024-11-22 15:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Exceptional Exception, StackTrace extends Throwable</title>
       <link>http://blog.vanillajava.blog/2024/11/exceptional-exception-stacktrace.html</link>
       <description>Java中扩展Throwable可以创建既不是异常也不是错误的检查型可抛出对象，这在调试和监控Java应用中非常有用。通过扩展Throwable，可以创建自定义的栈跟踪类，用于记录资源关闭位置、监控关键线程执行延迟以及检测对单线程资源的并发访问。这些方法有助于提高资源管理效率和性能诊断。</description>
@@ -123,6 +172,20 @@
       <title>Elastic Stack 8.16.1 released</title>
       <link>https://www.elastic.co/blog/elastic-stack-8-16-1-released</link>
       <description>Elastic Stack 8.16.1版本发布，推荐用户升级至最新版本。此版本修复了多个问题，具体细节和每个产品的变更列表请参考发布说明。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Connect a custom AWS S3 snapshot repository to Elastic Cloud</title>
+      <link>https://www.elastic.co/blog/custom-aws-s3-snapshot-repository-elastic-cloud</link>
+      <description>本文介绍了如何将自定义的AWS S3快照存储库连接到Elastic Cloud。首先，创建AWS S3存储桶和IAM策略，然后创建IAM用户和访问密钥。接着，将这些密钥添加到Elastic Cloud部署中，并通过Kibana注册AWS S3存储库。最后，创建快照并将其备份到AWS S3存储桶。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How a smarter approach to insurance customer data helps reduce costs and increase revenue</title>
+      <link>https://www.thoughtworks.com/insights/articles/using-data-to-reduce-costs-and-increase-revenue</link>
+      <description>通过更智能的保险客户数据处理方法，保险公司可以降低成本并增加收入。文章指出，随着保险市场的快速变化，传统保险公司面临着适应新市场动态的压力。为了应对这些挑战，保险公司需要数字化整个保险价值链，开发新的产品和服务，并提高创新性。然而，许多保险公司依赖的遗留系统限制了其灵活性和适应性。文章以一个案例说明，通过构建可组合和模块化的技术生态系统，保险公司可以逐步解决数据不一致的问题，从而提高客户满意度、简化合规性、增加毛保费并降低运营成本。</description>
       <pubDate>2024-11-22 00:00:00</pubDate>
     </item>
   
@@ -257,6 +320,13 @@
       <link>https://www.brandwatch.com/blog/youtube-hashtags/</link>
       <description>品牌watch与谷歌云合作，利用人工智能技术提升其洞察力。本文探讨了YouTube标签在提升视频可见性方面的作用，包括标签的使用策略、SEO影响、最佳实践和常见错误。建议使用相关标签，避免过度使用和无关标签，并注意遵守YouTube的标签政策。</description>
       <pubDate>2024-11-21 16:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing comprehensive Azure Private Link coverage for outbound access to your managed Azure resources</title>
+      <link>https://www.databricks.com/blog/announcing-comprehensive-azure-private-link-coverage-outbound-access-your-managed-azure</link>
+      <description>Azure Private Link现已全面上市，为Databricks无服务器和Mosaic AI模型服务工作负载提供对60多个Azure服务的出站访问。该服务通过Databricks SQL、作业、笔记本、Delta Live Tables和Mosaic AI模型服务CPU/GPU端点，实现与Azure数据湖存储（ADLS）和管理的Azure资源的私有连接。网络连接配置（NCC）工具简化了私有端点的配置和管理。</description>
+      <pubDate>2024-11-21 15:06:46</pubDate>
     </item>
   
     <item>
@@ -489,6 +559,13 @@
       <title>A multi-emulator Gameboy tracer</title>
       <link>https://bernsteinbear.com/blog/gbtracer/?utm_source=rss</link>
       <description>Max Bernstein开发了一个名为gbtracer的侧边程序，用于调试Gameboy模拟器。该程序通过调用特定函数记录模拟器的状态，并将这些信息写入临时文件，以便于比较和调试。这种方法简化了调试过程，并允许在不修改模拟器代码的情况下进行格式转换。</description>
+      <pubDate>2024-11-21 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Fearless Concurrency Ep.6: Understanding Rust ARC for Efficient Multithreading</title>
+      <link>https://www.ardanlabs.com/blog/2024/11/fearless-concurrency-ep6-understanding-rust-arc-for-efficient-multithreading.html</link>
+      <description>Rust的ARC（原子引用计数）是高效多线程编程的关键，它通过轻量级的垃圾回收机制，在多线程环境中安全地共享数据所有权，避免传统垃圾回收器的依赖。本篇博客深入探讨了ARC的工作原理、使用场景和最佳实践，展示了如何在Rust的严格所有权模型中实现共享所有权，并通过实例说明了ARC在避免全局变量和大量数据复制方面的优势。</description>
       <pubDate>2024-11-21 00:00:00</pubDate>
     </item>
   
@@ -924,6 +1001,13 @@
       <link>https://www.atlassian.com/blog/communication/storytelling-at-work</link>
       <description>工作场所中，故事讲述是一种强大的沟通工具，能够激发团队动力、加深同事关系并推动变革。通过分享个人经历和展现情感，领导者可以更有效地传达信息，并激励团队成员采取行动。故事讲述不仅限于工作目标，还可以用于建立信任和促进团队合作，从而提升整体工作效率和团队凝聚力。</description>
       <pubDate>2024-11-19 19:24:15</pubDate>
+    </item>
+  
+    <item>
+      <title>Partner Preview: App editions are coming to Marketplace</title>
+      <link>https://www.atlassian.com/blog/it-teams/partner-preview-app-editions-are-coming-to-marketplace</link>
+      <description>Atlassian宣布即将在Marketplace推出App Editions，允许合作伙伴创建免费、标准和高级版本的应用程序。这些版本将提供不同的功能和定价，以适应不同客户的需求。合作伙伴可以开始规划他们的业务策略，并准备在2025年第二季度推出时配置和发布这些版本。</description>
+      <pubDate>2024-11-19 19:16:46</pubDate>
     </item>
   
     <item>
