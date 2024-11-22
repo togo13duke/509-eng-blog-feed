@@ -6,6 +6,64 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Exceptional Exception, StackTrace extends Throwable</title>
+      <link>http://blog.vanillajava.blog/2024/11/exceptional-exception-stacktrace.html</link>
+      <description>Java中扩展Throwable可以创建既不是异常也不是错误的检查型可抛出对象，这在调试和监控Java应用中非常有用。通过扩展Throwable，可以创建自定义的栈跟踪类，用于记录资源关闭位置、监控关键线程执行延迟以及检测对单线程资源的并发访问。这些方法有助于提高资源管理效率和性能诊断。</description>
+      <pubDate>2024-11-22 13:47:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Automate Data Classification in PostgreSQL With OpenAI</title>
+      <link>https://www.timescale.com/blog/how-to-automate-data-classification-in-postgresql-with-openai/</link>
+      <description>如何使用OpenAI在PostgreSQL中自动化数据分类
+
+本文介绍了如何利用OpenAI和开源扩展pgai、pgvector在PostgreSQL中自动化数据分类。通过结合这些工具，可以在数据库内部直接进行数据分类，无需依赖额外的向量数据库或框架。文章详细介绍了pgvector和pgai的功能，以及如何设置和配置这些工具，并提供了使用OpenAI API进行数据分类的示例。</description>
+      <pubDate>2024-11-22 13:30:35</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: how OpenAI tests its models, and the ethics of uterus transplants</title>
+      <link>https://www.technologyreview.com/2024/11/22/1107208/the-download-openai-tests-ethics-uterus-transplants/</link>
+      <description>OpenAI公开了其大型语言模型的安全测试过程，通过红队测试和自动化测试来识别潜在的有害行为。同时，全球子宫移植手术数量增加，引发法律和伦理问题。此外，还报道了OpenAI可能推出网络浏览器、边境民兵协助特朗普的驱逐计划、俄罗斯对乌克兰的新导弹袭击、微软即将迎来50周年等科技新闻。</description>
+      <pubDate>2024-11-22 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>User-Centered Design: Like Counting Horse Teeth</title>
+      <link>https://spin.atomicobject.com/user-needs-design/</link>
+      <description>用户中心设计的重要性在于，它强调以用户需求为核心，通过直接观察和反馈来理解用户问题，从而设计出真正解决用户问题的产品。文章通过“数马牙”的比喻，说明了在软件设计中避免无谓的猜测和辩论，而是应该通过实际的用户研究和观察来指导设计决策。这种方法有助于减少错误，并确保产品更符合用户的实际需求。</description>
+      <pubDate>2024-11-22 13:00:37</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #883</title>
+      <link>https://tympanus.net/codrops/collective/collective-883/</link>
+      <description>Framer Motion（现更名为Motion）已从React专属库发展成为一个支持vanilla JavaScript和其他框架的通用、开源动画工具。本周亮点包括Daniel Beauchamp的Three.js单次绘制调用烟花效果，以及Ahmad Shadeed关于CSS overflow: clip属性的深入探讨。此外，还有关于可用性测试、框架未来、用户可视化、早期iPhone功能、Vue组件、Palm UI、Sunlit项目、ASCII Shader、Mac Mini动画和文件上传API等多种资源。</description>
+      <pubDate>2024-11-22 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Real Python Podcast – Episode #229: The Joy of Tinkering &amp; Python Free-Threading Performance</title>
+      <link>https://realpython.com/podcasts/rpp/229/</link>
+      <description>第229期《Python的乐趣与免费线程性能》探讨了Python编程的乐趣，包括尝试新框架、构建玩具项目和与其他开发者合作。讨论了Python 3.13免费线程性能，并分享了多个Python社区的文章和项目，如Django、Pillow、Flask等，以及一些实用工具和主题。</description>
+      <pubDate>2024-11-22 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Django Logging: Everything You Need to Know</title>
+      <link>https://last9.io/blog/django-logging/</link>
+      <description>Django日志记录是跟踪事件、调试问题和监控应用程序性能的关键。本文介绍了Django日志记录的设置和配置，包括使用不同格式（如JSON）处理日志，以及如何通过自定义配置来提高监控策略。文章还涵盖了日志级别、处理器和格式化程序的作用，以及如何使用dictConfig进行更复杂的配置。此外，还讨论了如何处理服务器日志、API调用日志以及如何通过集成Sentry和OpenTelemetry等工具来增强监控。</description>
+      <pubDate>2024-11-22 10:50:54</pubDate>
+    </item>
+  
+    <item>
+      <title>Who should get a uterus transplant? Experts aren’t sure.</title>
+      <link>https://www.technologyreview.com/2024/11/22/1107136/who-should-get-a-uterus-transplant-experts-arent-sure/</link>
+      <description>子宫移植的适用对象和伦理问题引发讨论。全球已有135例子宫移植手术，但专家们对是否应将此手术应用于跨性别女性仍存疑虑。手术虽为一些女性提供了怀孕的机会，但存在法律和伦理争议，如手术的适用对象、费用承担以及手术目的等。此外，关于跨性别女性是否适合进行子宫移植，以及如何平衡生殖自主权和伦理问题，仍需进一步研究和讨论。</description>
+      <pubDate>2024-11-22 10:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The app that fights for your data privacy rights</title>
       <link>https://stackoverflow.blog/2024/11/22/the-app-that-helps-you-exercise-your-privacy-rights/</link>
       <description>这款名为“Permission Slip”的应用由Consumer Reports的高级产品经理Sukhi Gulati Gilbert开发，旨在帮助用户行使他们的数字数据隐私权。该应用由一个致力于保护消费者权益的非营利组织Consumer Reports支持，讨论了数字隐私的重要性、消费者在保护数据时面临的挑战以及隐私保护方面的立法空白。</description>
@@ -34,6 +92,13 @@
     </item>
   
     <item>
+      <title>Error'd: Three Little Nyms</title>
+      <link>https://thedailywtf.com/articles/three-little-nyms</link>
+      <description>Three Little Nyms: This article features a collection of humorous and quirky anecdotes submitted by anonymous contributors, highlighting various coding and technical mishaps. The stories range from a minor error in a financial transaction to a misunderstanding in a programming context, showcasing the lighter side of software development.</description>
+      <pubDate>2024-11-22 06:30:00</pubDate>
+    </item>
+  
+    <item>
       <title>How we reduced initialisation time of Product Configuration Management SDK</title>
       <link>https://engineering.grab.com/how-we-reduced-grabx-sdk-initialisation-time</link>
       <description>我们通过优化GrabX产品配置管理SDK的初始化流程，显著减少了初始化时间。通过并行数据加载、优化数据存储和消除不必要的磁盘持久化，我们成功将初始化时间缩短了90%。</description>
@@ -51,6 +116,13 @@
       <title>Creating static data for your Rails application</title>
       <link>https://thoughtbot.com/blog/creating-static-data-for-your-rails-application</link>
       <description>本文介绍了如何为Rails应用程序创建静态数据。通过使用静态关联gem，可以在模型中直接定义静态数据，从而提高查询速度并避免数据库查找。文章详细说明了如何安装和使用该gem，并比较了静态关联与Rails内置的枚举在处理有限值集时的差异。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Elastic Stack 8.16.1 released</title>
+      <link>https://www.elastic.co/blog/elastic-stack-8-16-1-released</link>
+      <description>Elastic Stack 8.16.1版本发布，推荐用户升级至最新版本。此版本修复了多个问题，具体细节和每个产品的变更列表请参考发布说明。</description>
       <pubDate>2024-11-22 00:00:00</pubDate>
     </item>
   
