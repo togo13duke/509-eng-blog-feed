@@ -6,6 +6,27 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Introducing a new experience for AWS Systems Manager</title>
+      <link>https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/</link>
+      <description>AWS Systems Manager推出新版本，提供跨账户、跨区域的节点管理体验。新功能包括集中查看所有管理节点、自动诊断和修复未管理节点、与Amazon Q Developer集成等。通过新功能，用户可以更高效地管理云基础设施，并执行大规模操作。</description>
+      <pubDate>2024-11-22 22:36:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Weeknotes: asynchronous LLMs, synchronous embeddings, and I kind of started a podcast</title>
+      <link>https://simonwillison.net/2024/Nov/22/weeknotes/#atom-entries</link>
+      <description>本周，我专注于将Datasette与LLM结合，并开始了一个新的播客和直播实验。我推出了名为“Project”的视频系列，访谈人们关于他们的数据项目，并启动了Datasette公共办公时间。我还发布了LLM 0.18版本，支持异步模型，并开发了多种嵌入模型插件。</description>
+      <pubDate>2024-11-22 22:35:24</pubDate>
+    </item>
+  
+    <item>
+      <title>Lithium: elevating ETL with ephemeral and self-hosted pipelines</title>
+      <link>https://www.atlassian.com/blog/atlassian-engineering/lithium</link>
+      <description>Lithium平台通过动态和短暂的流式管道，提升了ETL（提取、转换和加载）过程。该平台采用事件驱动架构，基于Kafka和Kafka Streams，支持在运行时动态配置数据管道，满足数据迁移、备份和流处理等需求。Lithium通过“Bring your own Host”模型，允许用户在更靠近数据源和业务逻辑的地方部署处理器，实现高效的数据处理和隔离。</description>
+      <pubDate>2024-11-22 20:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Amazon pours another $4B into Anthropic, OpenAI’s biggest rival</title>
       <link>https://arstechnica.com/ai/2024/11/amazon-pours-another-4b-into-anthropic-openais-biggest-rival/</link>
       <description>亚马逊再次向Anthropic投资40亿美元，该公司是OpenAI的主要竞争对手，并开发了与ChatGPT竞争的AI助手Claude。这笔投资使亚马逊在Anthropic的股份达到80亿美元，同时维持了其少数股东地位。Anthropic将利用亚马逊定制的Trainium芯片进行AI模型训练，并使用Inferentia芯片进行推理。此外，亚马逊与Anthropic的合作还涉及开发基于Claude的新版Alexa AI助手。</description>
@@ -186,6 +207,20 @@
       <title>How a smarter approach to insurance customer data helps reduce costs and increase revenue</title>
       <link>https://www.thoughtworks.com/insights/articles/using-data-to-reduce-costs-and-increase-revenue</link>
       <description>通过更智能的保险客户数据处理方法，保险公司可以降低成本并增加收入。文章指出，随着保险市场的快速变化，传统保险公司面临着适应新市场动态的压力。为了应对这些挑战，保险公司需要数字化整个保险价值链，开发新的产品和服务，并提高创新性。然而，许多保险公司依赖的遗留系统限制了其灵活性和适应性。文章以一个案例说明，通过构建可组合和模块化的技术生态系统，保险公司可以逐步解决数据不一致的问题，从而提高客户满意度、简化合规性、增加毛保费并降低运营成本。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Privileged Access for Modern Infrastructure: The Top Four Challenges</title>
+      <link>https://goteleport.com/blog/top-four-privileged-access-challenges-modern-infrastructure/</link>
+      <description>现代基础设施的特权访问面临四大挑战：凭据和访问蔓延的风险、高度可扩展的临时基础设施、跨复杂基础设施的管理以及与现代DevOps工具的兼容性有限。Teleport通过消除凭据、提供统一的即时访问和无缝集成DevOps工作流程，为现代基础设施提供安全的访问解决方案，从而解决这些挑战，增强安全性，提高合规性，并实现更高效的工程成果和运营流程。</description>
+      <pubDate>2024-11-22 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to determine if a phone number still belongs to someone with the Twilio Lookup API</title>
+      <link>https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance</link>
+      <description>使用Twilio Lookup API确定电话号码是否仍属于原主人的方法：Twilio Lookup API提供了一种确定性的方式来检查电话号码是否被重新分配，以帮助提高联系率、增加营销活动效率并避免合规罚款。该API需要Twilio账户和测试凭证，并要求提供电话号码和最后验证日期。通过API请求，可以确定电话号码是否被重新分配，从而确保遵守电话消费者保护法（TCPA）。</description>
       <pubDate>2024-11-22 00:00:00</pubDate>
     </item>
   
@@ -930,6 +965,13 @@
       <title>Marketing where it matters: Reaching customers on their preferred channels</title>
       <link>https://www.twilio.com/en-us/blog/marketing-where-it-matters-reaching-customers-preferred-channels</link>
       <description>Twilio的《营销就在关键之处：在客户偏好的渠道上接触客户》一文中指出，成功的营销策略取决于通过正确的渠道传达正确的信息。消费者对与品牌互动的渠道有强烈偏好，从电子邮件和短信到社交媒体和应用程序，这些偏好因个人、地理位置和文化而异。文章强调了使用消费者偏好的渠道进行个性化营销信息的重要性，并建议结合电子邮件、短信、推送通知和WhatsApp等渠道以扩大受众。此外，个性化可以增强使用客户偏好渠道的效果，通过定制内容和交付方式，创造更吸引人、更相关的体验，从而加强客户联系并推动品牌取得有意义的结果。</description>
+      <pubDate>2024-11-20 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to build a serverless web application</title>
+      <link>https://www.honeybadger.io/blog/serverless-computing-tutorial/</link>
+      <description>本文介绍了如何构建一个无服务器Web应用。通过使用Next.js和TailwindCSS构建前端，PlanetScale数据库和Vercel进行部署，用户可以创建、读取、更新和删除个人链接，并在社交媒体上分享。文章详细说明了设置开发环境、连接数据库、构建后端API以及实现用户认证和授权的过程。</description>
       <pubDate>2024-11-20 00:00:00</pubDate>
     </item>
   
