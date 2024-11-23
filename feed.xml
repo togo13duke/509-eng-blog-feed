@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Teachable Moment</title>
+      <link>https://blog.rinesi.com/2024/11/teachable-moment</link>
+      <description>在军事基地的一扇不起眼的门后，藏有战争的三小时片段。士兵们需签署同意书，接受训练或惩罚，然后坐在椅子上，护士将管子和电线连接到他们身上。离开隔音室后，他们带着对夜晚的恐惧、对死亡的警觉、对时间的拉伸和对世界的悲伤。有些人能保持功能，有些人崩溃，但没有人会回到那个房间，那里有椅子、电线和一张孩子永远无法醒来的床。</description>
+      <pubDate>2024-11-23 03:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Spies hack Wi-Fi networks in far-off land to launch attack on target next door</title>
+      <link>https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/</link>
+      <description>间谍利用远地Wi-Fi网络攻击邻近目标，通过入侵附近建筑中的设备并利用目标Wi-Fi网络的漏洞，成功渗透并攻击了高价值目标。这种攻击方式展示了资源丰富的黑客为了攻击高价值目标所采取的极端措施，同时也揭示了安全防御中的漏洞。</description>
+      <pubDate>2024-11-23 02:03:27</pubDate>
+    </item>
+  
+    <item>
       <title>Introducing a new experience for AWS Systems Manager</title>
       <link>https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/</link>
       <description>AWS Systems Manager推出新版本，提供跨账户、跨区域的节点管理体验。新功能包括集中查看所有管理节点、自动诊断和修复未管理节点、与Amazon Q Developer集成等。通过新功能，用户可以更高效地管理云基础设施，并执行大规模操作。</description>
