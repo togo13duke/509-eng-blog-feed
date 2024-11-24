@@ -6,6 +6,20 @@
       <description>509 engineering blogs</description>
       
     <item>
+      <title>Unveiling Floating-Point Modulus Surprises in Java</title>
+      <link>http://blog.vanillajava.blog/2024/11/unveiling-floating-point-modulus.html</link>
+      <description>Java中浮点数模运算可能导致意外行为，尤其是在循环中。文章通过一个示例循环展示了由于浮点数表示错误，循环在预期之前终止。文章解释了浮点数表示的精度问题，以及除法和模运算如何引入误差。最后，文章强调了理解这些问题的必要性，并建议使用BigDecimal进行精确计算，以及实施容差级别来比较浮点数。</description>
+      <pubDate>2024-11-24 09:13:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Notes on "Engineering Principles for Building Financial Systems"</title>
+      <link>https://advancedweb.hu/shorts/notes-on-engineering-principles-for-building-financial-systems/</link>
+      <description>会计系统的主要目标是准确性、可审计性和及时性。作者强调，即使是微小的错误也可能导致重大差异，尤其是在大规模金融系统中。他提倡深入理解底层技术，避免依赖“快速解决方案”，以确保系统的可靠性。</description>
+      <pubDate>2024-11-24 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Thread Safety Issues with Vector and Hashtable</title>
       <link>http://blog.vanillajava.blog/2024/11/despite-being-considered-legacy-since.html</link>
       <description>Java中Vector和Hashtable的线程安全问题探讨</description>
