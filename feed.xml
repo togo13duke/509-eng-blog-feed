@@ -12,5 +12,33 @@
       <pubDate>2024-11-30 00:00:00</pubDate>
     </item>
   
+    <item>
+      <title>Ask questions of SQLite databases and CSV/JSON files in your terminal</title>
+      <link>https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/#atom-entries</link>
+      <description>sqlite-utils CLI新插件sqlite-utils-ask允许用户以自然语言向SQLite数据库和CSV/JSON文件提问，通过LLM生成SQL查询并执行，提供直观的数据查询方式。该插件支持多种数据格式，并利用LLM的Python API进行模型调用，提高查询效率和准确性。</description>
+      <pubDate>2024-11-25 01:33:03</pubDate>
+    </item>
+  
+    <item>
+      <title>How to improve search without looking at queries or results</title>
+      <link>https://www.canva.dev/blog/engineering/how-to-improve-search-without-looking-at-queries-or-results/</link>
+      <description>Canva通过利用生成式AI和大规模语言模型，成功构建了一个隐私保护的设计搜索评估数据集，以优化其内部搜索功能。这种方法允许工程师在将代码更改推进到在线实验之前，在本地客观地评估这些更改。通过这种方式，Canva能够在不侵犯用户隐私的情况下，快速迭代和改进搜索算法，从而为用户提供更好的搜索体验。</description>
+      <pubDate>2024-11-25 01:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>プロンプトビルダーの基本</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/%e3%83%97%e3%83%ad%e3%83%b3%e3%83%97%e3%83%88%e3%83%93%e3%83%ab%e3%83%80%e3%83%bc%e3%81%ae%e5%9f%ba%e6%9c%ac.html</link>
+      <description>Salesforce Platform 中的“Prompt Builder”用于定义和管理生成 AI 的提示模板，以提升AI效果。用户可通过设置模板来收集数据，并通过大语言模型生成结果。模板支持多种类型，如项目生成、Flex和销售邮件等，并可进行自定义以适应企业需求。通过配置权限和操作界面，用户可轻松创建和管理提示模板，实现数据驱动的个性化生成结果。</description>
+      <pubDate>2024-11-25 00:46:37</pubDate>
+    </item>
+  
+    <item>
+      <title>New in our Playbook: Design best practices from a DEI perspective</title>
+      <link>https://thoughtbot.com/blog/new-in-our-playbook-design-best-practices-from-a-dei-perspective</link>
+      <description>thoughtbot发布了一篇关于设计最佳实践的指南，从促进多样性、公平性和包容性（DEI）的角度出发。该指南强调了在设计过程中融入同理心和公平性，以确保产品尊重并反映所有用户和社区的多样性。指南包括参与包容性研究、开发反映广泛经验和观点的角色和同理心地图、设计时考虑无障碍性、无偏见视觉表现和文化敏感性等最佳实践。该指南旨在鼓励设计社区采用包容性设计实践。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
     </channel>
   </rss>
