@@ -13,6 +13,13 @@
     </item>
   
     <item>
+      <title>Red Hat Developer Hub: The fastest path to Backstage on Kubernetes</title>
+      <link>https://developers.redhat.com/articles/2024/11/25/red-hat-developer-hub-fastest-path-backstage-kubernetes</link>
+      <description>Red Hat Developer Hub提供了一种快速部署Backstage内部开发者门户的方法，基于Backstage构建，可在Red Hat OpenShift上实现。通过Red Hat Developer Hub，开发者可以简化部署和管理过程，专注于提升开发体验。本文介绍了如何使用Helm图表在Red Hat OpenShift上部署Red Hat Developer Hub，并提供了详细的步骤和配置指南。</description>
+      <pubDate>2024-11-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Ask questions of SQLite databases and CSV/JSON files in your terminal</title>
       <link>https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/#atom-entries</link>
       <description>sqlite-utils CLI新插件sqlite-utils-ask允许用户以自然语言向SQLite数据库和CSV/JSON文件提问，通过LLM生成SQL查询并执行，提供直观的数据查询方式。该插件支持多种数据格式，并利用LLM的Python API进行模型调用，提高查询效率和准确性。</description>
