@@ -13,10 +13,80 @@
     </item>
   
     <item>
+      <title>The Download: Trump’s tariffs, and the DOJ’s proposals for Google</title>
+      <link>https://www.technologyreview.com/2024/11/25/1107272/the-download-trumps-tariffs-and-the-dojs-proposals-for-google/</link>
+      <description>美国总统特朗普的关税政策可能推高电池、电动汽车等清洁技术项目的成本，影响美国清洁技术的发展。美国司法部对谷歌的反垄断调查提出了可能对谷歌业务产生重大影响的补救措施。</description>
+      <pubDate>2024-11-25 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>An Effective Healthcare IoT Project Requires a Different Approach.</title>
+      <link>https://spin.atomicobject.com/healthcare-iot-project/</link>
+      <description>有效医疗物联网项目需要独特方法。医疗物联网项目价值在于系统组织、标记、信号和显示数据的能力，这需要精心设计信息层。关键因素包括深入研究、关注服务设计、重视结果而非技术，以及关注长期稳定性。</description>
+      <pubDate>2024-11-25 13:00:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Kibana vs Grafana: Key Differences and Use Cases</title>
+      <link>https://last9.io/blog/kibana-vs-grafana/</link>
+      <description>Kibana和Grafana是两种强大的数据可视化和分析工具，各有侧重。Kibana擅长日志分析和Elasticsearch数据探索，适用于日志管理、安全分析和应用故障排除；而Grafana在时间序列数据和基础设施监控方面表现优异，适合基础设施监控、应用性能监控和业务指标可视化。选择哪个工具取决于具体需求和数据类型。</description>
+      <pubDate>2024-11-25 12:53:25</pubDate>
+    </item>
+  
+    <item>
+      <title>Google’s antitrust gut punch and the Trump wild card</title>
+      <link>https://www.technologyreview.com/2024/11/25/1107273/googles-antitrust-gut-punch-and-the-trump-wild-card/</link>
+      <description>美国司法部对谷歌的反垄断案提出了严厉的补救措施，包括结束第三方支付、披露数据以实现公平竞争、剥离Chrome和Android的控制权，以及禁止投资或购买竞争对手。这些措施可能对谷歌的业务产生重大影响。特朗普政府的态度也是一个未知数，可能会影响案件的结果。</description>
+      <pubDate>2024-11-25 12:28:49</pubDate>
+    </item>
+  
+    <item>
+      <title>1 Year at Babbel: 12 Lessons in UX Research &amp; Design</title>
+      <link>https://www.babbel.com/en/magazine/1-year-at-babbel-12-lessons-in-ux-research-design</link>
+      <description>Hannah Dean在Babbel的第一年，分享了她在用户体验研究及设计方面的12个宝贵经验。她强调了同理心、快速失败和快速学习的重要性，以及如何将数据转化为可操作的见解。她鼓励新入行者保持好奇心，不断学习，并成为优秀的沟通者。</description>
+      <pubDate>2024-11-25 11:59:19</pubDate>
+    </item>
+  
+    <item>
+      <title>10 Best 2024 Black Friday Deals for Designers and Agencies</title>
+      <link>https://tympanus.net/codrops/2024/11/25/10-best-2024-black-friday-deals-for-designers-and-agencies/</link>
+      <description>2024年黑色星期五，为设计师和代理机构精选了10大优惠。包括Betheme &amp; BeBuilder、wpDataTables、Amelia、Kalium、Mobirise AI Website Builder等设计工具和资源，最高可享受98%的折扣。这些优惠仅限短时间内有效，错过需等一年。</description>
+      <pubDate>2024-11-25 09:57:03</pubDate>
+    </item>
+  
+    <item>
+      <title>Crontab Logs: Track, Debug, and Optimize Your Cron Jobs</title>
+      <link>https://last9.io/blog/crontab-logs/</link>
+      <description>Crontab日志是监控和优化cron作业的关键，它们记录了任务执行的时间、成功与否以及执行过程中遇到的错误。通过启用详细的日志记录、设置日志轮转、过滤日志噪音，并使用工具如logwatch分析日志，可以快速定位问题并提高系统可靠性。通过合理配置和安全的日志管理，可以确保cron作业的稳定运行，避免潜在问题。</description>
+      <pubDate>2024-11-25 09:46:11</pubDate>
+    </item>
+  
+    <item>
+      <title>How Trump’s tariffs could drive up the cost of batteries, EVs, and more</title>
+      <link>https://www.technologyreview.com/2024/11/25/1107224/how-trumps-tariffs-could-drive-up-the-cost-of-batteries-evs-and-more/</link>
+      <description>特朗普的关税政策可能推高电池、电动汽车等成本，并阻碍清洁能源转型。这些关税将增加美国公司购买电池和电动汽车的成本，以及用于太阳能农场、地热发电厂、核设施和输电线路的钢铁成本。这可能导致清洁能源成本上升，减缓低排放产业的快速发展。</description>
+      <pubDate>2024-11-25 09:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Living Our Values Assessment Update</title>
+      <link>https://www.ebayinc.com/stories/news/living-our-values-assessment-update/</link>
+      <description>eBay发布了一项关于其价值观评估的更新。评估显示，eBay致力于鼓励员工表达意见和自由选择加入工会的权利，并在与工会的谈判中保持诚信。eBay已采纳评估建议，加强了对人权政策的实施和监督，以促进公平包容的工作环境。</description>
+      <pubDate>2024-11-25 08:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Red Hat Developer Hub: The fastest path to Backstage on Kubernetes</title>
       <link>https://developers.redhat.com/articles/2024/11/25/red-hat-developer-hub-fastest-path-backstage-kubernetes</link>
       <description>Red Hat Developer Hub提供了一种快速部署Backstage内部开发者门户的方法，基于Backstage构建，可在Red Hat OpenShift上实现。通过Red Hat Developer Hub，开发者可以简化部署和管理过程，专注于提升开发体验。本文介绍了如何使用Helm图表在Red Hat OpenShift上部署Red Hat Developer Hub，并提供了详细的步骤和配置指南。</description>
       <pubDate>2024-11-25 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Magical Bytes</title>
+      <link>https://thedailywtf.com/articles/magical-bytes</link>
+      <description>程序员在处理文件类型识别时，错误地将大小写不敏感的十六进制数字视为相等，导致代码逻辑错误。这揭示了在编程中区分数字和字符串的重要性。</description>
+      <pubDate>2024-11-25 06:30:00</pubDate>
     </item>
   
     <item>
@@ -44,6 +114,13 @@
       <title>New in our Playbook: Design best practices from a DEI perspective</title>
       <link>https://thoughtbot.com/blog/new-in-our-playbook-design-best-practices-from-a-dei-perspective</link>
       <description>thoughtbot发布了一篇关于设计最佳实践的指南，从促进多样性、公平性和包容性（DEI）的角度出发。该指南强调了在设计过程中融入同理心和公平性，以确保产品尊重并反映所有用户和社区的多样性。指南包括参与包容性研究、开发反映广泛经验和观点的角色和同理心地图、设计时考虑无障碍性、无偏见视觉表现和文化敏感性等最佳实践。该指南旨在鼓励设计社区采用包容性设计实践。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Using non-conventional columns in Laravel’s Migrations</title>
+      <link>https://www.amitmerchant.com/using-non-conventional-columns-in-laravels-migrations/</link>
+      <description>Laravel的迁移功能在数据库模式管理方面非常强大，但有时可能不支持新版本的MySQL中的新列类型。本文介绍了如何使用Blueprint的rawColumn()方法来创建Laravel不支持的原生列类型，从而在迁移中添加非传统列。</description>
       <pubDate>2024-11-25 00:00:00</pubDate>
     </item>
   
