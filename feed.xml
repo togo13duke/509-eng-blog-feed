@@ -13,6 +13,90 @@
     </item>
   
     <item>
+      <title>How to Flatpack Programs</title>
+      <link>https://youtu.be/rJcQ45jKuN4?si=RbeUh3cqLgGUV_UT</link>
+      <description>Taylor Troesh在YouTube上分享了如何Flatpack程序的教程。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Optimizing PostgreSQL Performance &amp; Compression: pglz vs. LZ4</title>
+      <link>https://www.timescale.com/blog/optimizing-postgresql-performance-compression-pglz-vs-lz4/</link>
+      <description>TimescaleDB通过使用LZ4压缩算法优化了PostgreSQL的性能，尤其是在处理文本和JSON列时。与传统的pglz相比，LZ4提供了更高的压缩比和更快的压缩/解压缩速度，从而减少了存储需求并提高了查询性能。通过简单的配置更改，用户可以轻松启用LZ4，从而在保持数据完整性的同时提升数据库性能。</description>
+      <pubDate>2024-11-25 18:44:55</pubDate>
+    </item>
+  
+    <item>
+      <title>Empowering Business Users with Self-Service Data Intelligence</title>
+      <link>https://www.databricks.com/blog/empowering-business-users-self-service-data-intelligence</link>
+      <description>Databricks与Sigma Computing合作，为银行分析师提供安全的数据分析工具，以实现数据民主化。通过Sigma的“安全嵌入”功能，非技术用户可以安全地访问数据，同时保持数据安全。Databricks Apps允许快速部署应用程序，使分析师能够进行深入的数据分析，而无需担心数据泄露风险。这种集成解决方案有助于银行提高客户体验，减少风险，并推动创新。</description>
+      <pubDate>2024-11-25 18:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing the Winners of the Generative AI World Cup</title>
+      <link>https://www.databricks.com/blog/announcing-winners-generative-ai-world-cup</link>
+      <description>Databricks宣布了生成式AI世界杯的获胜者，来自18个国家的1500多名数据科学家和AI工程师展示了创新的生成式AI解决方案。比赛使用Databricks Mosaic AI技术，包括模型服务、向量搜索、Databricks笔记本和Databricks应用。每个地区的三支队伍获胜，包括Exyte、AITHENA和Greenlight BioScience，他们以卓越的方法解决现实世界的生成式AI挑战。</description>
+      <pubDate>2024-11-25 17:53:43</pubDate>
+    </item>
+  
+    <item>
+      <title>Announcing future-dated Amazon EC2 On-Demand Capacity Reservations</title>
+      <link>https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/</link>
+      <description>亚马逊宣布推出未来日期的EC2按需容量预留，允许客户提前最多120天预订未来工作负载的容量。此举旨在帮助客户为即将到来的重要事件，如产品发布、大型迁移或年终促销活动等，确保所需容量。预订无需预付费，且在预订日期激活后，客户可以立即启动实例。</description>
+      <pubDate>2024-11-25 17:49:08</pubDate>
+    </item>
+  
+    <item>
+      <title>Breaking down CPU speed: How utilization impacts performance</title>
+      <link>https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/</link>
+      <description>GitHub性能工程团队分析了CPU利用率如何影响系统性能，发现随着CPU利用率上升，会导致延迟增加，从而影响系统效率。通过实验，他们发现CPU利用率在30%以下时，核心频率提高，性能较好；超过50%时，性能开始下降。研究还揭示了超线程技术对性能的影响，以及如何找到CPU利用率的最佳平衡点。</description>
+      <pubDate>2024-11-25 17:00:20</pubDate>
+    </item>
+  
+    <item>
+      <title>Bridging the AI Adoption Gap: Industry Trends and Insights from Women Leaders in Data &amp; AI</title>
+      <link>https://www.databricks.com/blog/bridging-ai-adoption-gap-industry-trends-and-insights-women-leaders-data-ai</link>
+      <description>Databricks的博客文章探讨了人工智能（AI）的采用挑战，强调了技术投资与技能发展相结合的重要性。文章指出，数据质量和人才培养是AI成功的关键，并介绍了Databricks数据智能平台如何帮助组织管理数据并推动AI创新。文章还强调了从小规模项目开始，逐步扩大规模的重要性，以实现可持续的AI集成。</description>
+      <pubDate>2024-11-25 17:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: 197 new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-197-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/</link>
+      <description>AWS在本周推出了197项新服务，包括与Anthropic的合作开发AWS Trainium芯片，并推出了多项新功能，如Amazon Aurora的无服务器扩展、Amazon Bedrock的生成式AI工作流、Amazon CloudFront的gRPC应用支持等。同时，AWS re:Invent即将于11月25日举行，提供虚拟参与方式。</description>
+      <pubDate>2024-11-25 16:28:42</pubDate>
+    </item>
+  
+    <item>
+      <title>Deep Dive into Handling Consumer Fetch Requests: Kafka Producer and Consumer Internals, Part 4</title>
+      <link>https://www.confluent.io/blog/kafka-producer-and-consumer-internals-4-consumer-fetch-requests/</link>
+      <description>深入了解Kafka消费者抓取请求：本文深入探讨了Apache Kafka的内部工作原理，特别是消费者如何与代理交互、协调分区以及发送请求以从Kafka主题中读取数据。文章详细解释了抓取请求的处理过程，包括请求元数据、抓取请求数据、I/O线程如何从磁盘读取数据，以及如何处理数据不足的情况。此外，还讨论了消费者如何反序列化数据、轮询和处理数据，以及如何配置轮询和提交偏移量。</description>
+      <pubDate>2024-11-25 16:15:21</pubDate>
+    </item>
+  
+    <item>
+      <title>Enhancing Container Security with Docker Scout and Secure Repositories</title>
+      <link>https://www.docker.com/blog/enhancing-container-security-with-docker-scout-and-secure-repositories/</link>
+      <description>Docker Scout通过简化容器镜像仓库的集成，提高容器镜像审批流程的效率，同时减少安全漏洞。它将安全检查提前到开发早期阶段，帮助开发者及时解决政策违规问题，确保镜像在进入CI/CD流程前符合安全标准。此外，Docker Scout还支持自定义安全策略和VEX标准，以增强开发与安全团队的协作，并丰富组织的整体安全态势。通过将Docker Scout集成到CI/CD流程中，组织可以自动化漏洞扫描和政策检查，从而降低部署不安全或不符合标准的镜像的风险。</description>
+      <pubDate>2024-11-25 14:43:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Congratulations to the Recipients of the 2024 Spotify FOSS Fund</title>
+      <link>https://engineering.atspotify.com/2024/11/congratulations-to-the-recipients-of-the-2024-spotify-foss-fund/</link>
+      <description>Spotify宣布了2024年Spotify FOSS基金获奖者，该基金旨在支持开源生态系统。今年，五个项目分享了10万欧元（每人2万欧元）的资金。获奖者包括Xiph、Netty、MSW、Flyte和Typelevel，他们分享了关于项目愿景和资金影响的见解。Spotify的资助将帮助这些项目进一步发展，支持开源社区的可持续性。</description>
+      <pubDate>2024-11-25 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Speed Up Your Python Program With Concurrency</title>
+      <link>https://realpython.com/python-concurrency/</link>
+      <description>本文探讨了如何通过并发来加速Python程序。文章介绍了并发和并行性的概念，以及它们在I/O密集型和CPU密集型程序中的应用。通过多线程、异步任务和进程，可以有效地提高程序性能。文章提供了具体的示例和代码，帮助读者理解如何实现并发，并选择合适的并发模型来优化程序。</description>
+      <pubDate>2024-11-25 14:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>The Download: Trump’s tariffs, and the DOJ’s proposals for Google</title>
       <link>https://www.technologyreview.com/2024/11/25/1107272/the-download-trumps-tariffs-and-the-dojs-proposals-for-google/</link>
       <description>美国总统特朗普的关税政策可能推高电池、电动汽车等清洁技术项目的成本，影响美国清洁技术的发展。美国司法部对谷歌的反垄断调查提出了可能对谷歌业务产生重大影响的补救措施。</description>
@@ -45,6 +129,13 @@
       <link>https://www.babbel.com/en/magazine/1-year-at-babbel-12-lessons-in-ux-research-design</link>
       <description>Hannah Dean在Babbel的第一年，分享了她在用户体验研究及设计方面的12个宝贵经验。她强调了同理心、快速失败和快速学习的重要性，以及如何将数据转化为可操作的见解。她鼓励新入行者保持好奇心，不断学习，并成为优秀的沟通者。</description>
       <pubDate>2024-11-25 11:59:19</pubDate>
+    </item>
+  
+    <item>
+      <title>Simplifying payments with GoCardless for aquatics clubs and swim schools</title>
+      <link>https://gocardless.com/blog/simplifying-payments-for-aquatics-clubs-and-swim-schools/</link>
+      <description>GoCardless简化了水族俱乐部和游泳学校的支付流程，通过提供灵活的订阅设置、实时支付状态监控和批量更新功能，帮助管理会员费用和课程支付，从而让机构能更专注于会员服务。</description>
+      <pubDate>2024-11-25 11:39:46</pubDate>
     </item>
   
     <item>
@@ -121,6 +212,20 @@
       <title>Using non-conventional columns in Laravel’s Migrations</title>
       <link>https://www.amitmerchant.com/using-non-conventional-columns-in-laravels-migrations/</link>
       <description>Laravel的迁移功能在数据库模式管理方面非常强大，但有时可能不支持新版本的MySQL中的新列类型。本文介绍了如何使用Blueprint的rawColumn()方法来创建Laravel不支持的原生列类型，从而在迁移中添加非传统列。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Insurance Insurance</title>
+      <link>https://taylor.town/insurance</link>
+      <description>客户在电话咨询中因无法负担额外购买的“Premium Insurance-Squared”保险而寻求取消，但被告知取消此保险可能构成欺诈。客服建议客户升级到更全面的保险计划，并讨论了关于无力支付保险费用的情况。客户对保险公司的服务表示担忧，特别是关于在极端情况下的保障。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>From App Search to Elasticsearch — Tap into the future of search</title>
+      <link>https://www.elastic.co/blog/app-search-to-elasticsearch</link>
+      <description>Elasticsearch将取代App Search，提供更强大的AI搜索体验。新功能包括简单的语义搜索、增强的相关性工具和强大的向量搜索能力。迁移过程简单，支持从App Search到Elasticsearch的过渡。Elasticsearch将继续推出更多搜索功能，如GPU工作负载的弹性推理服务和更好的LLM支持。</description>
       <pubDate>2024-11-25 00:00:00</pubDate>
     </item>
   
