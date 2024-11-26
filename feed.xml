@@ -27,6 +27,48 @@
     </item>
   
     <item>
+      <title>QNAP firmware update leaves NAS owners locked out of their boxes</title>
+      <link>https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/</link>
+      <description>QNAP最近发布的一则固件更新导致许多NAS用户无法访问其存储系统。公司已撤回该固件并发布了修复版本，但用户对公司的回应感到不满。受影响的用户可以选择降级设备或联系客户支持。此次更新旨在解决设备中的安全漏洞，但QTS更新5.2.2.2950在发布后不久就出现了问题。</description>
+      <pubDate>2024-11-26 18:10:39</pubDate>
+    </item>
+  
+    <item>
+      <title>Black Friday: The Story on Social</title>
+      <link>https://www.brandwatch.com/blog/black-friday/</link>
+      <description>2024年黑色星期五期间，消费者对购物节的热情有所下降。尽管提及量有所上升，但增长幅度仅为1%。消费者对早期黑色星期五促销的失望和不满情绪增加，包括隐藏条款、误导性广告、价格操纵和客户服务问题。品牌应关注消费者态度的变化，并据此调整营销策略，以建立长期的品牌忠诚度。</description>
+      <pubDate>2024-11-26 17:33:05</pubDate>
+    </item>
+  
+    <item>
+      <title>An intentional solution for worker loneliness</title>
+      <link>https://www.atlassian.com/blog/distributed-work/an-intentional-solution-for-worker-loneliness</link>
+      <description>文章探讨了如何解决员工孤独感的问题。研究表明，员工缺乏参与感和面对面交流容易感到孤独。Atlassian提出了一种名为“有意团队聚会”的模式，通过定期举办面对面活动，加强团队成员之间的联系。同时，保持工作与生活的平衡和培养心理安全感也是减少孤独感的关键。通过这些方法，企业可以创造一个支持员工福祉、参与感和连接性的文化。</description>
+      <pubDate>2024-11-26 16:58:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Maximize the Scalability and Performance of Salesforce Pub/Sub API</title>
+      <link>https://developer.salesforce.com/blogs/2024/11/maximize-the-scalability-and-performance-of-salesforce-pub-sub-api.html</link>
+      <description>Salesforce Pub/Sub API通过事件驱动架构，帮助开发者构建可扩展和可控的集成。本文介绍了如何通过最佳实践，如实现带退避的重试策略、集成调试功能、探索流式传输、处理网络连接失败、共享gRPC通道、频繁提交和保持连接活跃，来优化API端点，以实现高性能、可扩展性、吞吐量和可靠性。</description>
+      <pubDate>2024-11-26 16:00:22</pubDate>
+    </item>
+  
+    <item>
+      <title>Cloudflare incident on November 14, 2024, resulting in lost logs</title>
+      <link>https://blog.cloudflare.com/cloudflare-incident-on-november-14-2024-resulting-in-lost-logs</link>
+      <description>2024年11月14日，Cloudflare发生了一起事故，导致大量日志丢失。事故持续了约3.5小时，影响了使用Cloudflare Logs的大多数客户。Cloudflare正在采取措施防止类似事件再次发生，并解释了事故发生的原因和预防措施。</description>
+      <pubDate>2024-11-26 16:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Feynman approach to small monetary compensation</title>
+      <link>https://blog.rtwilson.com/the-feynman-approach-to-small-monetary-compensation/</link>
+      <description>我分享了费曼对待小额补偿的方法，即用这笔钱买些有趣的东西，从而获得满足感。这种方法源于费曼的一个故事，他用自己的专利换取了一美元，然后用这钱买了零食。我通常用这种方法处理小额补偿，如火车延误的赔偿，但不会用于大额补偿或紧急情况。</description>
+      <pubDate>2024-11-26 14:41:35</pubDate>
+    </item>
+  
+    <item>
       <title>Benchmarking PostgreSQL Batch Ingest</title>
       <link>https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/</link>
       <description>Timescale是一个优化后的PostgreSQL，专为快速批量导入和查询时间序列数据而设计。本文探讨了两种批量导入方法：INSERT和COPY。INSERT通过VALUES和UNNEST两种方式实现批量导入，而COPY则通过文本和二进制格式进行。作者通过Rust工具进行了性能测试，发现不同方法的性能差异超过19倍。</description>
@@ -38,6 +80,13 @@
       <link>https://realpython.com/courses/managing-dependencies-with-poetry/</link>
       <description>Python Poetry 是一种依赖管理工具，可帮助开发者指定、安装和解决项目中的外部包。本课程将教授如何使用 Poetry 创建新项目、配置项目、锁定依赖版本、安装依赖以及运行基本命令。</description>
       <pubDate>2024-11-26 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How SurveyMonkey uses surveys for CX</title>
+      <link>https://www.surveymonkey.com/curiosity/how-surveymonkey-uses-surveys-for-cx/?ut_source=rss</link>
+      <description>SurveyMonkey通过定期调查和数据分析，深入了解客户需求，提升客户体验。他们使用系统化的反馈收集流程，包括关键接触点的调查、实时仪表板、Salesforce集成和Snowflake数据仓库，以识别趋势和痛点。通过Tableau的可视化分析，团队可以理解满意度分数、满意度驱动因素以及产品变更的影响。此外，他们采用关系型净推荐者分数（rNPS）来评估客户关系健康，并通过有意义的跟进和结构化流程来提高客户参与度。</description>
+      <pubDate>2024-11-26 13:51:25</pubDate>
     </item>
   
     <item>
@@ -58,6 +107,13 @@
       <title>Compte-rendu du Café du Produit #34 :&nbsp; “Télétravail VS Présentiel, ce n'est pas le sujet !”</title>
       <link>https://blog.octo.com/compte-rendu-du-cafe-du-produit-34--teletravail-vs-presentiel-ce-n'est-pas-le-sujet-!</link>
       <description>Le Café du Produit #34 discute des modes de travail (télétravail, présentiel, hybride) et suscite des réflexions sur leur impact sur l'efficacité des équipes. Les invités, Reine Ramade et Daniel Sala, soulignent l'importance de trouver un équilibre et de s'aligner sur un fonctionnement d'équipe qui minimize les difficultés de chaque mode. Ils recommandent d'éviter les réunions hybrides, d'organiser le présentiel dès le début du projet et d'investir dans l'équipe pour créer du lien et favoriser les interactions.</description>
+      <pubDate>2024-11-26 12:42:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Compte-rendu du Café du Produit #34 :&nbsp; “Télétravail VS Présentiel, ce n'est pas le sujet”</title>
+      <link>https://blog.octo.com/compte-rendu-du-cafe-du-produit-34--teletravail-vs-presentiel-ce-n'est-pas-le-sujet</link>
+      <description>Le Café du Produit #34 discute des modes de travail (télétravail, présentiel, hybride) et suscite des réflexions sur leur impact sur l'efficacité des équipes. Les invités, Salomé Serin, Reine Ramade et Daniel Sala, soulignent l'importance de trouver un équilibre et de s'adapter aux besoins spécifiques de chaque équipe pour maximiser la collaboration et la productivité.</description>
       <pubDate>2024-11-26 12:42:10</pubDate>
     </item>
   
@@ -181,6 +237,36 @@
     </item>
   
     <item>
+      <title>Building digital platforms: Key considerations for long-term success</title>
+      <link>https://www.thoughtworks.com/insights/articles/Building-digital-platforms-key-considerations-for-long-term-success</link>
+      <description>构建数字平台：长期成功的关键考虑因素
+
+本文探讨了构建数字平台的重要性，强调了平台策略在业务增长和创新中的作用。文章指出，成功的平台策略需要明确的愿景、产品思维、持续的价值创造、可重用能力、数据与人工智能的利用以及组织变革的准备。通过这些关键要素，企业可以构建灵活、可扩展且具有创新性的平台，从而在竞争激烈的市场中脱颖而出。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The wasm32-wasip2 Target Has Reached Tier 2 Support</title>
+      <link>https://blog.rust-lang.org/2024/11/26/wasip2-tier-2.html</link>
+      <description>Rust 1.82版本中，wasm32-wasip2目标达到二级平台支持，确保构建并可通过Rustup安装。这使Rust编译器能直接编译到Wasm组件格式，并支持WASI 0.2接口。虽然WASI 0.2标准库支持有限，但Rust团队计划逐步扩展支持。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Self-hosted slippy maps, for novices (like me)</title>
+      <link>http://blog.apps.npr.org/2024/11/26/slippy-maps.html</link>
+      <description>本文介绍了如何为初学者（如作者）构建自托管的可滑动地图。作者分享了使用OpenMapTiles和Protomaps等工具简化地图自托管过程的经验，并讨论了如何通过优化数据传输和存储来降低成本。文章还提供了关于如何使用Maputnik和MapLibre GL JS样式规范来定制地图样式的实用技巧。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Navigate Discord Using Only Your Keyboard</title>
+      <link>https://discord.com/blog/how-to-navigate-discord-using-only-your-keyboard</link>
+      <description>如何仅使用键盘在Discord中导航：通过按Tab键激活屏幕上的导航框，使用箭头键在列表中上下移动，按Enter键点击按钮。此外，还有快捷键来编辑消息、添加反应、删除消息、回复、固定消息、转发消息等。还可以使用键盘在服务器和DM之间导航，以及控制语音和视频通话。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>Making a dev container with multiple data services</title>
       <link>http://blog.pamelafox.org/2024/11/making-dev-container-with-multiple-data.html</link>
       <description>本文介绍了如何创建一个支持多个数据服务的开发容器。作者详细解释了如何使用Docker和docker-compose来构建这样的容器，并提供了配置文件和示例代码。该容器可以用于VS Code、GitHub Codespaces等IDE，旨在为开发者提供一个快速且可重复的设置环境。</description>
@@ -261,6 +347,13 @@
       <title>AWS Weekly Roundup: 197 new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)</title>
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-197-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/</link>
       <description>AWS在本周推出了197项新服务，包括与Anthropic的合作开发AWS Trainium芯片，并推出了多项新功能，如Amazon Aurora的无服务器扩展、Amazon Bedrock的生成式AI工作流、Amazon CloudFront的gRPC应用支持等。同时，AWS re:Invent即将于11月25日举行，提供虚拟参与方式。</description>
+      <pubDate>2024-11-25 16:28:42</pubDate>
+    </item>
+  
+    <item>
+      <title>AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/</link>
+      <description>AWS近期推出多项新功能和服务，包括与Anthropic合作开发AWS Trainium芯片，以及推出Amazon Bedrock Flows等。此外，还发布了Amazon Aurora的无服务器版本、Amazon CloudFront的gRPC应用支持、Amazon Lambda的SnapStart等。下周的AWS re:Invent活动将带来更多最新动态。</description>
       <pubDate>2024-11-25 16:28:42</pubDate>
     </item>
   
