@@ -20,6 +20,48 @@
     </item>
   
     <item>
+      <title>Automating barcode scanner tests with Capybara</title>
+      <link>https://thoughtbot.com/blog/automating-barcode-scanner-tests-with-capybara</link>
+      <description>本文介绍了如何使用Capybara自动化条形码扫描仪测试。作者通过在Capybara中使用send_keys和Stimulus库，模拟条形码扫描过程，实现了对包含QR码的收据的扫描测试。文章还讨论了测试过程中遇到的问题，如不同键盘布局下的兼容性问题，并提出了相应的解决方案。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Making a dev container with multiple data services</title>
+      <link>http://blog.pamelafox.org/2024/11/making-dev-container-with-multiple-data.html</link>
+      <description>本文介绍了如何创建一个支持多个数据服务的开发容器。作者详细解释了如何使用Docker和docker-compose来构建这样的容器，并提供了配置文件和示例代码。该容器可以用于VS Code、GitHub Codespaces等IDE，旨在为开发者提供一个快速且可重复的设置环境。</description>
+      <pubDate>2024-11-25 21:37:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Managing Kubernetes at scale with DigitalOcean</title>
+      <link>https://www.digitalocean.com/blog/managing-kubernetes-at-scale</link>
+      <description>DigitalOcean通过Cluster API和自定义控制器，实现了对Kubernetes集群的自动化管理和扩展。这种架构提高了集群的可靠性和可伸缩性，同时简化了维护和升级过程。通过容器化控制平面和利用Kubernetes的自动恢复功能，DigitalOcean确保了服务的稳定性和高效性。</description>
+      <pubDate>2024-11-25 21:25:09</pubDate>
+    </item>
+  
+    <item>
+      <title>Choosing the Right DigitalOcean Offering for Your AI/ML Workload</title>
+      <link>https://www.digitalocean.com/blog/choosing-the-right-offering-for-your-ai-ml-workload</link>
+      <description>DigitalOcean提供多种GPU产品，包括Bare Metal GPU、GPU Droplets、1-Click Models、GPU for DOKS和GenAI Platform，以满足不同AI/ML工作负载的需求。这些产品提供从高性能硬件到简单部署的解决方案，帮助用户从开发到生产轻松构建、部署和扩展AI/ML项目。</description>
+      <pubDate>2024-11-25 20:31:43</pubDate>
+    </item>
+  
+    <item>
+      <title>OpenAPI document generation in .NET 9</title>
+      <link>https://devblogs.microsoft.com/dotnet/dotnet9-openapi/</link>
+      <description>.NET 9引入了内置的OpenAPI文档生成支持，简化了ASP.NET应用中OpenAPI定义的集成。开发者可以实时或构建时生成文档，并使用“转换器”进行自定义。此功能提高了API文档的生成效率，并支持与多种工具和服务集成，以加速开发过程。</description>
+      <pubDate>2024-11-25 20:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Xcel Energy: Developing a RAG-based Chatbot on Databricks</title>
+      <link>https://www.databricks.com/blog/xcel-energy-rag</link>
+      <description>Xcel Energy利用Databricks Mosaic AI构建了一个基于RAG架构的聊天机器人，以简化流程如费率案例审查和法律合同审查。Databricks数据智能平台在所有开发阶段都发挥了关键作用，从数据治理到部署。该平台的功能，包括Unity Catalog、基础模型API、向量搜索、MLflow和模型服务，使团队能够专注于改进RAG架构和提升聊天机器人性能。该项目显著缩短了费率案例审查所需时间，并提高了数据访问和洞察力。</description>
+      <pubDate>2024-11-25 19:17:10</pubDate>
+    </item>
+  
+    <item>
       <title>Optimizing PostgreSQL Performance &amp; Compression: pglz vs. LZ4</title>
       <link>https://www.timescale.com/blog/optimizing-postgresql-performance-compression-pglz-vs-lz4/</link>
       <description>TimescaleDB通过使用LZ4压缩算法优化了PostgreSQL的性能，尤其是在处理文本和JSON列时。与传统的pglz相比，LZ4提供了更高的压缩比和更快的压缩/解压缩速度，从而减少了存储需求并提高了查询性能。通过简单的配置更改，用户可以轻松启用LZ4，从而在保持数据完整性的同时提升数据库性能。</description>
@@ -181,6 +223,13 @@
     </item>
   
     <item>
+      <title>Your own Image Generation API service with FLUX, Python, and Diffusers</title>
+      <link>https://www.sitepoint.com/image-generation-api-with-flux-python-and-diffusers/?utm_source=rss</link>
+      <description>本文介绍了如何使用Python、FLUX和Diffusers创建自己的图像生成API服务。通过FastAPI框架，可以轻松地设置一个服务器，该服务器能够根据文本提示生成图像。文章详细说明了设置环境、加载FLUX模型、创建API、定义请求模型、创建图像生成端点和启动服务器等步骤。此外，还提供了完整的代码示例，帮助读者理解和实现这一过程。</description>
+      <pubDate>2024-11-25 05:18:20</pubDate>
+    </item>
+  
+    <item>
       <title>Ask questions of SQLite databases and CSV/JSON files in your terminal</title>
       <link>https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/#atom-entries</link>
       <description>sqlite-utils CLI新插件sqlite-utils-ask允许用户以自然语言向SQLite数据库和CSV/JSON文件提问，通过LLM生成SQL查询并执行，提供直观的数据查询方式。该插件支持多种数据格式，并利用LLM的Python API进行模型调用，提高查询效率和准确性。</description>
@@ -226,6 +275,22 @@
       <title>From App Search to Elasticsearch — Tap into the future of search</title>
       <link>https://www.elastic.co/blog/app-search-to-elasticsearch</link>
       <description>Elasticsearch将取代App Search，提供更强大的AI搜索体验。新功能包括简单的语义搜索、增强的相关性工具和强大的向量搜索能力。迁移过程简单，支持从App Search到Elasticsearch的过渡。Elasticsearch将继续推出更多搜索功能，如GPU工作负载的弹性推理服务和更好的LLM支持。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Scalable JSON Streaming with HTTP and Go - Ep.5</title>
+      <link>https://www.ardanlabs.com/blog/2024/11/scalable-json-streaming-with--http-and-go.html</link>
+      <description>本篇博客深入探讨了使用Go语言和HTTP进行可扩展的JSON流处理。文章介绍了如何通过JSON Lines格式和HTTP/1.1分块编码来高效处理大型JSON数据集，同时最小化内存使用。通过实例和工具演示，展示了如何构建可扩展且高效的系统来管理大规模的JSON工作负载。</description>
+      <pubDate>2024-11-25 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How to Build a Language Learning Application with Programmable Voice and Speech Recognition</title>
+      <link>https://www.twilio.com/en-us/blog/python-programmable-voice-language-learning-speech-recognition-app</link>
+      <description>如何使用编程语音和语音识别构建语言学习应用
+
+本文介绍了如何使用Twilio Programmable Voice、Flask和Google Cloud Speech-to-Text等技术构建一个交互式的语言学习助手。通过语音交互，该应用能够实时转录用户的语音并提供语言技能反馈。文章详细介绍了构建过程，包括设置Python环境、安装必要的库、处理来电等步骤。</description>
       <pubDate>2024-11-25 00:00:00</pubDate>
     </item>
   
