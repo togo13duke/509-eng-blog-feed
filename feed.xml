@@ -13,6 +13,55 @@
     </item>
   
     <item>
+      <title>Your docs are your infrastructure</title>
+      <link>https://stackoverflow.blog/2024/11/26/your-docs-are-your-infrastructure/</link>
+      <description>技术文档在软件开发中的角色正不断发展。本文探讨了文档与代码的整合、质量控制的重要性以及维护更新文档的挑战。同时，文章还讨论了技术作家不应害怕大型语言模型（LLMs）的崛起。</description>
+      <pubDate>2024-11-26 08:40:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Banking on APIs: The Future of the Finance Sector</title>
+      <link>https://nordicapis.com/banking-on-apis-the-future-of-the-finance-sector/</link>
+      <description>APIs正在推动金融行业的创新，简化支付和交易，提升反洗钱能力，并改善客户体验。通过实现数据共享和系统间通信，APIs促进了更高效、安全和个性化的金融服务。</description>
+      <pubDate>2024-11-26 08:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Try Apache Camel: From concept to deployment on OpenShift</title>
+      <link>https://developers.redhat.com/articles/2024/11/26/try-apache-camel-concept-deployment-openshift</link>
+      <description>Apache Camel框架简化了系统集成，本文介绍了如何在Red Hat OpenShift的Developer Sandbox中快速原型设计并部署Apache Camel应用程序。通过低代码工具和预建组件，开发者可以轻松创建、测试和部署集成应用程序。教程详细说明了使用Camel JBang和Kaoto UI进行原型设计，以及如何将应用程序部署到OpenShift。</description>
+      <pubDate>2024-11-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A 3-tier application architecture on Red Hat Device Edge</title>
+      <link>https://developers.redhat.com/articles/2024/11/26/3-tier-application-architecture-red-hat-device-edge</link>
+      <description>Red Hat Device Edge采用三层架构，结合了传统与现代，提供边缘管理的混合方法。该架构在边缘服务器上安装MicroShift和数据库，将表示层和应用层作为容器部署在MicroShift中，数据库位于基础操作系统上。这种架构提供了灵活性、隔离性和效率，适用于边缘计算中的各种应用，如边缘分析、机器学习、内容交付网络、边缘游戏、增强和虚拟现实、边缘机器人和边缘机器人。</description>
+      <pubDate>2024-11-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>How To Turn Red Energy Into Strategy And Migrate All Your Tests While You’re At It</title>
+      <link>https://engineering.prezi.com/how-to-turn-red-energy-into-strategy-and-migrate-all-your-tests-while-youre-at-it-12b29c665ec5?source=rss----911e72786e31---4</link>
+      <description>本文深入探讨了将140多个基于Ruby的Cucumber测试迁移到基于Java的测试自动化框架的过程。作者Attila Vágó分享了迁移过程中遇到的挑战、策略和最终的成功。他强调了团队协作、时间管理和目标明确的重要性，并讨论了迁移对业务和工程效率的积极影响。</description>
+      <pubDate>2024-11-26 04:13:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Tealium and Databricks: Providing Real-Time Insights and AI-Driven Customer Experiences</title>
+      <link>https://www.databricks.com/blog/tealium-databricks-ai-driven-cdp</link>
+      <description>Tealium与Databricks合作，利用Databricks平台为Tealium的实时客户数据平台（CDP）提供动力，实现全面客户洞察和个性化营销。通过Databricks的开放协作环境，Tealium能够处理大量数据，构建复杂模型，并确保数据安全和合规。这种合作帮助品牌在数字世界中提供实时客户体验，同时优先考虑安全和隐私。</description>
+      <pubDate>2024-11-26 01:06:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Booting Databricks VMs 7x Faster for Serverless Compute</title>
+      <link>https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute</link>
+      <description>Databricks通过一系列系统级优化，将虚拟机启动时间缩短了7倍，从而提高了无服务器计算的性能和效率。这些优化包括定制无服务器操作系统、懒加载容器文件系统以及预初始化容器的检查点/恢复功能，使得Databricks能够以更低的成本提供更快的计算体验。</description>
+      <pubDate>2024-11-26 01:00:00</pubDate>
+    </item>
+  
+    <item>
       <title>How to Flatpack Programs</title>
       <link>https://youtu.be/rJcQ45jKuN4?si=RbeUh3cqLgGUV_UT</link>
       <description>Taylor Troesh在YouTube上分享了如何Flatpack程序的教程。</description>
