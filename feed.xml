@@ -13,6 +13,104 @@
     </item>
   
     <item>
+      <title>Town Hall #27: Skies</title>
+      <link>https://taylor.town/town-hall-0027</link>
+      <description>Bluesky账户分享，包括专辑推荐和技术讲座。讨论如何通过RSS管理内容，并计划通过RSS发布新帖子。分享写作主题，如构建上帝和抢劫世界，以及如何举办独立网络拍卖。询问读者关于技术讨论、项目合作和书籍推荐。列出多本书籍和音乐推荐。</description>
+      <pubDate>2024-11-28 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Stinky Gifts From Your Idea Kitty</title>
+      <link>https://taylor.town/idea-kitty</link>
+      <description>在寻找灵感时，我们的大脑就像一只猫，偶尔会带来一些糟糕的想法，但偶尔也会带来珍贵的创意。通过不断练习和自我教育，我们学会筛选和珍惜这些想法，发展出直觉和品味。作者通过自己的写作经历，展示了如何从孤立中走出来，建立联系，并享受社区带来的归属感。尽管新想法可能仍以90%的失败率出现，但通过不断实践和反思，我们可以提高筛选和利用这些想法的能力。</description>
+      <pubDate>2024-11-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Benchmarking PostgreSQL Batch Ingest</title>
+      <link>https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/</link>
+      <description>Timescale是一个优化后的PostgreSQL，专为快速批量导入和查询时间序列数据而设计。本文探讨了两种批量导入方法：INSERT和COPY。INSERT通过VALUES和UNNEST两种方式实现批量导入，而COPY则通过文本和二进制格式进行。作者通过Rust工具进行了性能测试，发现不同方法的性能差异超过19倍。</description>
+      <pubDate>2024-11-26 14:00:51</pubDate>
+    </item>
+  
+    <item>
+      <title>Managing Dependencies With Python Poetry</title>
+      <link>https://realpython.com/courses/managing-dependencies-with-poetry/</link>
+      <description>Python Poetry 是一种依赖管理工具，可帮助开发者指定、安装和解决项目中的外部包。本课程将教授如何使用 Poetry 创建新项目、配置项目、锁定依赖版本、安装依赖以及运行基本命令。</description>
+      <pubDate>2024-11-26 14:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The Download: rethinking AI benchmarks, and the ethics of AI agents</title>
+      <link>https://www.technologyreview.com/2024/11/26/1107361/the-download-rethinking-ai-benchmarks-and-the-ethics-of-ai-agents/</link>
+      <description>MIT Technology Review最新报道指出，当前人工智能的基准测试设计不佳，结果难以复制，且指标任意，这影响了AI模型的评估和监管。同时，AI代理的伦理问题也日益凸显，如模拟人类个性并代表其行为，引发新的道德挑战。</description>
+      <pubDate>2024-11-26 13:10:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Machine Learning for Absolute Beginners: Busting Popular ML Myths</title>
+      <link>https://spin.atomicobject.com/machine-learning-myths/</link>
+      <description>机器学习并非人工智能，它通过算法在数据中寻找模式，而非像人类一样思考。模型需要持续监控和更新以保持准确性，且并非“设置即忘”。各行各业都在利用机器学习解决实际问题，而非仅限于大科技公司。了解机器学习的潜力与限制，可避免过度依赖和误解。</description>
+      <pubDate>2024-11-26 13:00:49</pubDate>
+    </item>
+  
+    <item>
+      <title>Compte-rendu du Café du Produit #34 :&nbsp; “Télétravail VS Présentiel, ce n'est pas le sujet !”</title>
+      <link>https://blog.octo.com/compte-rendu-du-cafe-du-produit-34--teletravail-vs-presentiel-ce-n'est-pas-le-sujet-!</link>
+      <description>Le Café du Produit #34 discute des modes de travail (télétravail, présentiel, hybride) et suscite des réflexions sur leur impact sur l'efficacité des équipes. Les invités, Reine Ramade et Daniel Sala, soulignent l'importance de trouver un équilibre et de s'aligner sur un fonctionnement d'équipe qui minimize les difficultés de chaque mode. Ils recommandent d'éviter les réunions hybrides, d'organiser le présentiel dès le début du projet et d'investir dans l'équipe pour créer du lien et favoriser les interactions.</description>
+      <pubDate>2024-11-26 12:42:10</pubDate>
+    </item>
+  
+    <item>
+      <title>Filebeat vs Logstash: Key Differences for Your Logging Needs</title>
+      <link>https://last9.io/blog/filebeat-vs-logstash/</link>
+      <description>Filebeat和Logstash是Elastic Stack中的两个关键工具，用于处理日志。Filebeat轻量级，专注于快速收集和转发日志，适用于资源受限的环境；而Logstash则是一个数据处理管道，能够解析、丰富和过滤日志数据，适用于需要复杂日志处理的场景。选择Filebeat或Logstash取决于具体需求，Filebeat适合简单快速地转发日志，Logstash适合进行复杂的日志处理。两者可以结合使用，以优化性能。</description>
+      <pubDate>2024-11-26 12:36:01</pubDate>
+    </item>
+  
+    <item>
+      <title>Collective #884</title>
+      <link>https://tympanus.net/codrops/collective/collective-884/</link>
+      <description>Adam Argyle分享了三个实用的对话框示例，Sebastiano Guerriero展示了他的像素级UI实验，Tududi是个人任务管理工具，html-to-markdown简化内容转换。</description>
+      <pubDate>2024-11-26 12:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>A Complete Guide to Kubernetes Observability</title>
+      <link>https://last9.io/blog/a-complete-guide-to-kubernetes-observability/</link>
+      <description>Kubernetes的可观测性是监控和优化大规模应用程序的关键。通过跟踪关键数据点（如指标、日志和跟踪），可观测性帮助DevOps团队监控集群健康、识别服务故障并做出数据驱动的决策。本文探讨了Kubernetes可观测性的关键要素，并提供了最佳实践和工具，以在您的环境中有效实施。通过实施可观测性，组织可以维持高可用性和性能，解决复杂问题，优化资源使用和扩展。</description>
+      <pubDate>2024-11-26 11:14:06</pubDate>
+    </item>
+  
+    <item>
+      <title>Testing internal network speed with iperf3</title>
+      <link>https://akrabat.com/testing-internal-network-speed-with-iperf3/</link>
+      <description>通过iperf3测试了不同以太网适配器的内部网络速度，发现使用有线连接比WiFi快得多。测试了多个适配器，包括一个1Gbps的USB-C集线器和D-Link 2.5G以太网适配器，后者提供了完整的1Gbps速度。</description>
+      <pubDate>2024-11-26 11:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>We need to start wrestling with the ethics of AI agents</title>
+      <link>https://www.technologyreview.com/2024/11/26/1107309/we-need-to-start-wrestling-with-the-ethics-of-ai-agents/</link>
+      <description>人工智能代理的伦理问题日益凸显，它们能够模仿人类行为并执行任务。随着这些代理技术的发展，我们需要关注它们可能带来的伦理挑战，包括个人隐私和数据安全问题。</description>
+      <pubDate>2024-11-26 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>The way we measure progress in AI is terrible</title>
+      <link>https://www.technologyreview.com/2024/11/26/1107346/the-way-we-measure-progress-in-ai-is-terrible/</link>
+      <description>人工智能领域对AI模型进展的衡量方式存在问题，许多流行的基准测试过时或设计不当，导致结果难以复制，且指标任意。这影响了AI模型的监管和审查水平。研究人员呼吁建立更可靠的基准，以确保AI模型的安全性和有效性。</description>
+      <pubDate>2024-11-26 10:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Case Study: Nod Coding Bootcamp</title>
+      <link>https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/</link>
+      <description>Waaark为Nod编码训练营重新设计了网站，通过斯堪的纳维亚简约设计和包豪斯风格的图形，打造了友好、可信的品牌形象。新网站采用WordPress平台，结合GSAP、Lottie等动画技术，提升了用户体验。该网站上线后，访问量、日访问者和表单提交量均显著增长，有效提升了Nod的知名度。</description>
+      <pubDate>2024-11-26 09:49:56</pubDate>
+    </item>
+  
+    <item>
       <title>Your docs are your infrastructure</title>
       <link>https://stackoverflow.blog/2024/11/26/your-docs-are-your-infrastructure/</link>
       <description>技术文档在软件开发中的角色正不断发展。本文探讨了文档与代码的整合、质量控制的重要性以及维护更新文档的挑战。同时，文章还讨论了技术作家不应害怕大型语言模型（LLMs）的崛起。</description>
@@ -38,6 +136,13 @@
       <link>https://developers.redhat.com/articles/2024/11/26/3-tier-application-architecture-red-hat-device-edge</link>
       <description>Red Hat Device Edge采用三层架构，结合了传统与现代，提供边缘管理的混合方法。该架构在边缘服务器上安装MicroShift和数据库，将表示层和应用层作为容器部署在MicroShift中，数据库位于基础操作系统上。这种架构提供了灵活性、隔离性和效率，适用于边缘计算中的各种应用，如边缘分析、机器学习、内容交付网络、边缘游戏、增强和虚拟现实、边缘机器人和边缘机器人。</description>
       <pubDate>2024-11-26 07:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>CodeSOD: Hall of Mirrors</title>
+      <link>https://thedailywtf.com/articles/hall-of-mirrors</link>
+      <description>Robert在诊断一个报告模块的问题时，发现应用程序代码运行了一个简单的查询，但实际上它涉及了19层嵌套的数据库视图，导致数据关系复杂且难以理解。这种过度抽象的问题使得代码难以维护，最终Robert不得不通过创建另一个视图来解决问题，但这也只是治标不治本。</description>
+      <pubDate>2024-11-26 06:30:00</pubDate>
     </item>
   
     <item>
