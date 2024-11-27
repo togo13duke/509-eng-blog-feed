@@ -27,6 +27,41 @@
     </item>
   
     <item>
+      <title>On the path to Administrate v1</title>
+      <link>https://thoughtbot.com/blog/on-the-path-to-administrate-v1</link>
+      <description>Administrate v1 即将发布，这是一个用于创建灵活、强大管理仪表板的 Rails 框架。它通过使用生成器和少量魔法，提供最佳用户体验，并简化开发者的定制工作。新版本包括对 Rails 8.0 的支持，并改进了 CSS 和 JS 资产处理。鼓励用户尝试 beta 版本，并报告任何问题。</description>
+      <pubDate>2024-11-27 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Time-based snapshot copy for Amazon EBS</title>
+      <link>https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/</link>
+      <description>Amazon EBS现在支持基于时间的快照复制，允许用户在指定时间内完成快照复制，以满足合规性和业务需求。此功能通过AWS管理控制台、CLI或API进行操作，并提供了复制持续时间计算器来预测完成时间。此功能不影响标准复制的性能或可靠性，并适用于所有AWS区域。</description>
+      <pubDate>2024-11-26 22:31:36</pubDate>
+    </item>
+  
+    <item>
+      <title>Evaluate the quality of your AI applications with ease</title>
+      <link>https://devblogs.microsoft.com/dotnet/evaluate-the-quality-of-your-ai-applications-with-ease/</link>
+      <description>微软推出了.NET生态系统中的新库Microsoft.Extensions.AI.Evaluation，旨在帮助开发者轻松评估AI应用程序的质量。该库提供了一系列工具，包括用于评估LLM响应的质量、响应缓存和报告生成等功能，旨在简化评估过程，提高AI应用的准确性和可靠性。</description>
+      <pubDate>2024-11-26 21:05:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Accelerating generative AI deployment with microservices</title>
+      <link>https://www.technologyreview.com/2024/11/26/1106896/accelerating-generative-ai-deployment-with-microservices/</link>
+      <description>专家探讨利用微服务加速生成式AI部署，通过简化部署、提升客户服务和推动创新，包括聊天机器人、文档分析和视频生成等领域。同时，解决部署复杂性、安全和成本管理挑战，实现数据知识产权控制。</description>
+      <pubDate>2024-11-26 20:46:11</pubDate>
+    </item>
+  
+    <item>
+      <title>DigitalOcean Hatch: Accelerate your AI/ML startup with exclusive GPU offerings and benefits</title>
+      <link>https://www.digitalocean.com/blog/hatch-accelerate-your-ai-ml-startup</link>
+      <description>DigitalOcean推出针对AI/ML初创公司的Hatch计划，提供优惠的GPU资源，包括低至1.90美元/小时的GPU Droplets，以及高达10万美元的计算信用额度、三个月免费GPU使用和免费高级支持。该计划旨在帮助初创公司降低成本、高效扩展，并提供技术支持和社区资源，助力创新和可持续增长。</description>
+      <pubDate>2024-11-26 20:06:04</pubDate>
+    </item>
+  
+    <item>
       <title>QNAP firmware update leaves NAS owners locked out of their boxes</title>
       <link>https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/</link>
       <description>QNAP最近发布的一则固件更新导致许多NAS用户无法访问其存储系统。公司已撤回该固件并发布了修复版本，但用户对公司的回应感到不满。受影响的用户可以选择降级设备或联系客户支持。此次更新旨在解决设备中的安全漏洞，但QTS更新5.2.2.2950在发布后不久就出现了问题。</description>
@@ -45,6 +80,13 @@
       <link>https://www.atlassian.com/blog/distributed-work/an-intentional-solution-for-worker-loneliness</link>
       <description>文章探讨了如何解决员工孤独感的问题。研究表明，员工缺乏参与感和面对面交流容易感到孤独。Atlassian提出了一种名为“有意团队聚会”的模式，通过定期举办面对面活动，加强团队成员之间的联系。同时，保持工作与生活的平衡和培养心理安全感也是减少孤独感的关键。通过这些方法，企业可以创造一个支持员工福祉、参与感和连接性的文化。</description>
       <pubDate>2024-11-26 16:58:59</pubDate>
+    </item>
+  
+    <item>
+      <title>Build an Autonomous AI Assistant with Mosaic AI Agent Framework</title>
+      <link>https://www.databricks.com/blog/build-autonomous-ai-assistant-mosaic-ai-agent-framework</link>
+      <description>Databricks推出Mosaic AI Agent框架，允许开发者利用大型语言模型（LLM）构建生产规模的智能代理系统。该框架支持自定义，使代理能够自主决策。通过结合LLM的语义理解和语言能力，开发者可以创建能够根据用户查询进行行动的自主决策应用。该框架的核心组件包括LLM/中央代理、记忆、规划和工具，旨在处理复杂任务并提供灵活的解决方案。</description>
+      <pubDate>2024-11-26 16:26:13</pubDate>
     </item>
   
     <item>
@@ -263,6 +305,27 @@
       <title>How to Navigate Discord Using Only Your Keyboard</title>
       <link>https://discord.com/blog/how-to-navigate-discord-using-only-your-keyboard</link>
       <description>如何仅使用键盘在Discord中导航：通过按Tab键激活屏幕上的导航框，使用箭头键在列表中上下移动，按Enter键点击按钮。此外，还有快捷键来编辑消息、添加反应、删除消息、回复、固定消息、转发消息等。还可以使用键盘在服务器和DM之间导航，以及控制语音和视频通话。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Multi-factor authentication in Go using Twilio Verify API</title>
+      <link>https://www.twilio.com/en-us/blog/multi-factor-authentication-go-twilio-verify</link>
+      <description>使用Twilio Verify API在Go中实现多因素认证，增强了Go应用程序的安全性，通过结合密码验证、短信验证和基于时间的单次密码（TOTP），创建了多层安全防护，显著降低了未经授权访问的风险。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Constraints are Good: Python's Metadata Dilemma</title>
+      <link>http://lucumr.pocoo.org/2024/11/26/python-packaging-metadata</link>
+      <description>Python的元数据系统过于复杂，缺乏约束，导致在构建统一锁文件标准时遇到困难。JavaScript的元数据系统通过简单和一致的约束简化了系统，而Python的动态元数据增加了复杂性，影响了安装器和解包器的效率，并给用户带来了认知负担。作者建议通过工具警告和用户压力来逐步减少对动态元数据的依赖，以提高用户体验。</description>
+      <pubDate>2024-11-26 00:00:00</pubDate>
+    </item>
+  
+    <item>
+      <title>Automated Decision Logs in AI-Assisted Coding</title>
+      <link>https://addyosmani.com/blog/automated-decision-logs/</link>
+      <description>AI辅助编码中的自动化决策日志对于理解AI生成代码背后的逻辑至关重要。通过记录AI的决策过程，可以加快团队上手速度、辅助调试、提高代码可追溯性，并优化AI工具的使用。这种日志机制有助于提高工程透明度和效率，是AI辅助编码中不可或缺的一部分。</description>
       <pubDate>2024-11-26 00:00:00</pubDate>
     </item>
   
